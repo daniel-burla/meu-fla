@@ -53,3 +53,7 @@ python3 -m http.server 8787   # abre http://localhost:8787
 ## Fora do escopo por enquanto
 
 Notificações push, tabela do Brasileirão, Carioca e Mundial, e busca de vídeos pela YouTube Data API (precisa de chave, gratuita).
+
+## Nota para quem for editar
+
+O GitHub Actions faz commit em `data/`. Antes de trabalhar aqui, rode `git pull --rebase`. Se der conflito nos JSON, resolva ficando com qualquer versão e rode `python3 scripts/fetch.py` de novo. Nunca use `-s ours` nesse rebase: ele descarta o seu commit.
