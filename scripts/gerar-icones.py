@@ -1,8 +1,8 @@
 """Gera os ícones da PWA a partir do escudo do Flamengo, sem dependências.
 
 Baixa o escudo do CDN da ESPN e escreve icons/icon-192.png, icons/icon-512.png
-(fundo branco, para a tela inicial do iPhone) e icons/escudo.png (distintivo
-redondo com fundo transparente, usado no cabeçalho do app).
+(fundo branco, para a tela inicial do iPhone) e icons/escudo.png (fundo
+transparente, usado no cabeçalho do app).
 
 Rode com: python3 scripts/gerar-icones.py
 """
@@ -103,33 +103,20 @@ def grava_rgba(caminho, size, pixels):
         + bloco(b"IEND", b"")
     )
 
-def distintivo(origem, destino, size=180, margem=0.13):
+def recorte(origem, destino, size=180):
+    """Escudo em RGBA, fundo transparente, sem moldura."""
     w, h, linhas = ler_png(origem)
-    lado = int(size * (1 - 2 * margem)); desloc = (size - lado) // 2
-    cx = cy = (size - 1) / 2; r = size / 2
     saida = [[(0, 0, 0, 0)] * size for _ in range(size)]
     for y in range(size):
+        sy = min(h - 1, y * h // size)
+        linha = linhas[sy]
         for x in range(size):
-            d = ((x - cx) ** 2 + (y - cy) ** 2) ** 0.5
-            if d <= r:
-                a = 255 if d <= r - 1 else int(255 * (r - d))
-                saida[y][x] = (255, 255, 255, max(0, a))
-    for y in range(lado):
-        sy = min(h - 1, y * h // lado); linha = linhas[sy]
-        for x in range(lado):
-            sx = min(w - 1, x * w // lado); o = sx * 4
-            r0, g0, b0, a0 = linha[o], linha[o+1], linha[o+2], linha[o+3]
-            if a0 == 0:
-                continue
-            px = saida[y + desloc][x + desloc]
-            saida[y + desloc][x + desloc] = (
-                (r0 * a0 + px[0] * (255 - a0)) // 255,
-                (g0 * a0 + px[1] * (255 - a0)) // 255,
-                (b0 * a0 + px[2] * (255 - a0)) // 255,
-                max(px[3], a0),
-            )
+            sx = min(w - 1, x * w // size)
+            o = sx * 4
+            saida[y][x] = (linha[o], linha[o+1], linha[o+2], linha[o+3])
     grava_rgba(destino, size, saida)
     print(destino, f"{size}x{size} RGBA")
+
 
 def baixar_escudo() -> str:
     req = Request(ESCUDO_URL, headers={"User-Agent": "Mozilla/5.0"})
@@ -145,4 +132,4 @@ if __name__ == "__main__":
     origem = baixar_escudo()
     gerar(origem, str(RAIZ / "icons/icon-192.png"), 192)
     gerar(origem, str(RAIZ / "icons/icon-512.png"), 512)
-    distintivo(origem, str(RAIZ / "icons/escudo.png"))
+    recorte(origem, str(RAIZ / "icons/escudo.png"))

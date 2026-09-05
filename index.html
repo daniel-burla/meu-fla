@@ -39,14 +39,18 @@ header{
   border-bottom:1px solid rgba(0,0,0,.4);
 }
 .marca{display:flex;align-items:center;gap:10px}
-.marca img{width:34px;height:34px;filter:drop-shadow(0 1px 3px rgba(0,0,0,.4))}
+.marca img{width:36px;height:36px;filter:drop-shadow(0 2px 5px rgba(0,0,0,.55))}
 .marca h1{margin:0;font-size:20px;letter-spacing:.4px;font-weight:800}
 .atualizado{margin:8px 0 0;font-size:11px;color:rgba(255,255,255,.68)}
 .btn-atualizar{
-  margin-left:auto;padding:7px 12px;border-radius:999px;font-size:12px;font-weight:600;
-  background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.22);
+  margin-left:auto;width:36px;height:36px;border-radius:50%;display:grid;place-items:center;
+  background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.22);
+  -webkit-tap-highlight-color:transparent;
 }
-.btn-atualizar:active{transform:scale(.96)}
+.btn-atualizar svg{width:19px;height:19px;fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round}
+.btn-atualizar:active{transform:scale(.92);background:rgba(255,255,255,.24)}
+.btn-atualizar.girando svg{animation:gira .8s linear infinite}
+@keyframes gira{to{transform:rotate(360deg)}}
 
 /* ---------- conteúdo ---------- */
 main{padding:16px 16px calc(84px + var(--base))}
@@ -115,14 +119,8 @@ h2.secao:first-child{margin-top:4px}
 .selo.v{background:var(--verde)} .selo.e{background:#6b6b78} .selo.d{background:var(--vermelho)}
 .escudo-mini{width:20px;height:20px;object-fit:contain;vertical-align:-4px;margin-right:6px}
 
-/* etiqueta de mando de campo */
-.marcador{
-  display:inline-block;padding:2px 7px;margin-right:7px;border-radius:5px;
-  font-size:10px;font-weight:700;letter-spacing:.7px;text-transform:uppercase;
-  border:1px solid transparent;
-}
-.marcador.casa{background:rgba(224,16,32,.15);color:#ff6472;border-color:rgba(224,16,32,.34)}
-.marcador.fora{background:rgba(255,255,255,.06);color:var(--texto-fraco);border-color:var(--borda)}
+/* mando de campo: (C) em casa, (F) fora */
+.mando{font-size:12px;font-weight:600;color:var(--texto-fraco);margin-left:5px}
 
 /* ---------- chips de fonte ---------- */
 .chips{display:flex;gap:8px;overflow-x:auto;padding:2px 0 12px;-webkit-overflow-scrolling:touch}
@@ -193,7 +191,9 @@ nav button[aria-selected="true"]{color:var(--vermelho)}
   <div class="marca">
     <img src="icons/escudo.png" alt="Escudo do Flamengo">
     <h1>Meu Fla</h1>
-    <button class="btn-atualizar" id="btnAtualizar">Atualizar</button>
+    <button class="btn-atualizar" id="btnAtualizar" aria-label="Atualizar">
+      <svg viewBox="0 0 24 24"><path d="M20 12a8 8 0 1 1-2.4-5.7"/><path d="M20 4v4.6h-4.6"/></svg>
+    </button>
   </div>
   <p class="atualizado" id="atualizadoEm">Carregando…</p>
 </header>
@@ -266,10 +266,8 @@ function tempoRelativo(iso) {
   return fmtDiaMes.format(new Date(iso));
 }
 
-function marcadorMando(emCasa) {
-  return emCasa
-    ? `<span class="marcador casa">Casa</span>`
-    : `<span class="marcador fora">Fora</span>`;
+function mando(emCasa) {
+  return `<span class="mando">(${emCasa ? "C" : "F"})</span>`;
 }
 
 function esc(txt) {
@@ -380,11 +378,11 @@ function cardDestaque(j) {
 
   return `<div class="destaque">
     <div class="etiqueta">${vivo ? "Jogando agora" : "Próximo jogo"}</div>
-    <div class="campeonato">${marcadorMando(j.casa)}${esc(j.liga)}</div>
+    <div class="campeonato">${esc(j.liga)}</div>
     <div class="confronto">
-      <div class="lado"><img src="${esc(casa.escudo)}" alt=""><div class="nome">${esc(casa.nome)}</div></div>
+      <div class="lado"><img src="${esc(casa.escudo)}" alt=""><div class="nome">${esc(casa.nome)}${j.casa ? mando(true) : ""}</div></div>
       <div class="versus">×</div>
-      <div class="lado"><img src="${esc(fora.escudo)}" alt=""><div class="nome">${esc(fora.nome)}</div></div>
+      <div class="lado"><img src="${esc(fora.escudo)}" alt=""><div class="nome">${esc(fora.nome)}${j.casa ? "" : mando(false)}</div></div>
     </div>
     ${meio}
   </div>`;
@@ -413,8 +411,8 @@ function linhaFuturo(j) {
   return `<div class="jogo">
     <div class="data"><b>${String(d.getDate()).padStart(2, "0")}</b><span>${fmtDiaMes.format(d).split(" ").pop().replace(".", "")}</span></div>
     <div class="meio">
-      <div class="times"><img class="escudo-mini" src="${esc(j.adv.escudo)}" alt="">${esc(j.adv.nome)}</div>
-      <div class="info">${marcadorMando(j.casa)}${esc(j.liga)} · ${fmtHora.format(d)}</div>
+      <div class="times"><img class="escudo-mini" src="${esc(j.adv.escudo)}" alt="">${esc(j.adv.nome)}${mando(j.casa)}</div>
+      <div class="info">${esc(j.liga)} · ${fmtHora.format(d)}</div>
     </div>
   </div>`;
 }
@@ -426,8 +424,8 @@ function linhaResultado(j) {
   return `<div class="jogo">
     <div class="selo ${res[0]}">${res[1]}</div>
     <div class="meio">
-      <div class="times"><img class="escudo-mini" src="${esc(j.adv.escudo)}" alt="">${esc(j.adv.nome)}</div>
-      <div class="info">${marcadorMando(j.casa)}${esc(j.liga)} · ${fmtDiaMes.format(d)}</div>
+      <div class="times"><img class="escudo-mini" src="${esc(j.adv.escudo)}" alt="">${esc(j.adv.nome)}${mando(j.casa)}</div>
+      <div class="info">${esc(j.liga)} · ${fmtDiaMes.format(d)}</div>
     </div>
     <div class="placar">${esc(j.fla.gols ?? "-")}–${esc(j.adv.gols ?? "-")}</div>
   </div>`;
@@ -529,10 +527,14 @@ document.querySelectorAll('nav button').forEach((btn) => {
 });
 
 /* ---------- início ---------- */
-function carregaTudo() {
-  carregaJogos();
-  carregaNoticias();
-  carregaVideos();
+async function carregaTudo() {
+  const btn = $("#btnAtualizar");
+  btn.classList.add("girando");
+  try {
+    await Promise.all([carregaJogos(), carregaNoticias(), carregaVideos()]);
+  } finally {
+    setTimeout(() => btn.classList.remove("girando"), 400);
+  }
 }
 $("#btnAtualizar").addEventListener("click", carregaTudo);
 document.addEventListener("visibilitychange", () => { if (!document.hidden) carregaJogos(); });
