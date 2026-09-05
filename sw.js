@@ -1,6 +1,6 @@
 // Service worker do Meu Fla.
 // Shell do app: cache primeiro. Dados (ESPN e JSON): rede primeiro, cache como reserva.
-const VERSION = "meu-fla-v1";
+const VERSION = "meu-fla-v2";
 const SHELL = ["./", "./index.html", "./manifest.json", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", (event) => {

@@ -41,7 +41,7 @@ header{
 .marca{display:flex;align-items:center;gap:10px}
 .marca img{width:30px;height:30px;border-radius:8px}
 .marca h1{margin:0;font-size:20px;letter-spacing:.4px;font-weight:800}
-.marca .sub{margin-left:auto;font-size:11px;color:rgba(255,255,255,.72);text-align:right;line-height:1.3}
+.atualizado{margin:8px 0 0;font-size:11px;color:rgba(255,255,255,.68)}
 .btn-atualizar{
   margin-left:auto;padding:7px 12px;border-radius:999px;font-size:12px;font-weight:600;
   background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.22);
@@ -186,6 +186,7 @@ nav button[aria-selected="true"]{color:var(--vermelho)}
     <h1>Meu Fla</h1>
     <button class="btn-atualizar" id="btnAtualizar">Atualizar</button>
   </div>
+  <p class="atualizado" id="atualizadoEm">Carregando…</p>
 </header>
 
 <main>
@@ -428,10 +429,12 @@ async function carregaNoticias() {
   try {
     const dados = await fetch("data/news.json?" + Date.now()).then((r) => r.json());
     noticias = dados.itens || [];
+    marcaAtualizacao(dados.atualizadoEm);
     fontes = (dados.fontes || []).filter((f) => f.ok !== false);
     desenhaChips();
     desenhaNoticias();
   } catch (e) {
+    marcaAtualizacao(null);
     $("#listaNoticias").innerHTML = `<p class="aviso">Notícias indisponíveis. Elas são atualizadas a cada 30 minutos.</p>`;
   }
 }
@@ -463,6 +466,12 @@ $("#chipsFontes").addEventListener("click", (ev) => {
   localStorage.setItem(CHAVE_FONTES, JSON.stringify([...desligadas]));
   desenhaNoticias();
 });
+
+function marcaAtualizacao(iso) {
+  const el = $("#atualizadoEm");
+  if (!el) return;
+  el.textContent = iso ? `Notícias e vídeos atualizados ${tempoRelativo(iso)}` : "Notícias indisponíveis";
+}
 
 /* ---------- vídeos ---------- */
 async function carregaVideos() {
