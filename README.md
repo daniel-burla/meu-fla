@@ -22,6 +22,7 @@ Jogos vêm ao vivo porque a ESPN libera CORS. Notícias e vídeos passam pelo Ac
 
 ```
 index.html       o app inteiro (HTML, CSS e JS, sem framework)
+icons/           escudo e ícones da tela inicial, gerados por scripts/gerar-icones.py
 manifest.json    dados da PWA
 sw.js            service worker (abre offline com o último conteúdo)
 scripts/fetch.py coletor dos feeds (só biblioteca padrão do Python)
@@ -42,6 +43,10 @@ Nova fonte de notícias, em `NEWS_SOURCES`:
 Use `"tipo": "google-news"` com `"dominio"` quando o site não tiver RSS próprio. Deixe `exigir_flamengo` em `True` para sites que cobrem vários times.
 
 Novo canal de vídeo, em `YOUTUBE_CHANNELS`: pegue o ID do canal (abra a página do canal e procure `/channel/UC...` no código-fonte) e some à lista.
+
+## Refazer os ícones
+
+`python3 scripts/gerar-icones.py` baixa o escudo e regrava os três PNG. Só usa a biblioteca padrão do Python, sem Pillow.
 
 Para testar antes de publicar:
 

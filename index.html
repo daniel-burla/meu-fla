@@ -39,7 +39,7 @@ header{
   border-bottom:1px solid rgba(0,0,0,.4);
 }
 .marca{display:flex;align-items:center;gap:10px}
-.marca img{width:30px;height:30px;border-radius:8px}
+.marca img{width:34px;height:34px;filter:drop-shadow(0 1px 3px rgba(0,0,0,.4))}
 .marca h1{margin:0;font-size:20px;letter-spacing:.4px;font-weight:800}
 .atualizado{margin:8px 0 0;font-size:11px;color:rgba(255,255,255,.68)}
 .btn-atualizar{
@@ -113,7 +113,16 @@ h2.secao:first-child{margin-top:4px}
   font-size:11px;font-weight:800;color:#fff;
 }
 .selo.v{background:var(--verde)} .selo.e{background:#6b6b78} .selo.d{background:var(--vermelho)}
-.escudo-mini{width:20px;height:20px;object-fit:contain;vertical-align:-4px;margin-right:5px}
+.escudo-mini{width:20px;height:20px;object-fit:contain;vertical-align:-4px;margin-right:6px}
+
+/* etiqueta de mando de campo */
+.marcador{
+  display:inline-block;padding:2px 7px;margin-right:7px;border-radius:5px;
+  font-size:10px;font-weight:700;letter-spacing:.7px;text-transform:uppercase;
+  border:1px solid transparent;
+}
+.marcador.casa{background:rgba(224,16,32,.15);color:#ff6472;border-color:rgba(224,16,32,.34)}
+.marcador.fora{background:rgba(255,255,255,.06);color:var(--texto-fraco);border-color:var(--borda)}
 
 /* ---------- chips de fonte ---------- */
 .chips{display:flex;gap:8px;overflow-x:auto;padding:2px 0 12px;-webkit-overflow-scrolling:touch}
@@ -182,7 +191,7 @@ nav button[aria-selected="true"]{color:var(--vermelho)}
 
 <header>
   <div class="marca">
-    <img src="icons/icon-192.png" alt="">
+    <img src="icons/escudo.png" alt="Escudo do Flamengo">
     <h1>Meu Fla</h1>
     <button class="btn-atualizar" id="btnAtualizar">Atualizar</button>
   </div>
@@ -255,6 +264,12 @@ function tempoRelativo(iso) {
   const d = Math.round(h / 24);
   if (d < 30) return `há ${d} ${d === 1 ? "dia" : "dias"}`;
   return fmtDiaMes.format(new Date(iso));
+}
+
+function marcadorMando(emCasa) {
+  return emCasa
+    ? `<span class="marcador casa">Casa</span>`
+    : `<span class="marcador fora">Fora</span>`;
 }
 
 function esc(txt) {
@@ -365,7 +380,7 @@ function cardDestaque(j) {
 
   return `<div class="destaque">
     <div class="etiqueta">${vivo ? "Jogando agora" : "Próximo jogo"}</div>
-    <div class="campeonato">${esc(j.liga)}</div>
+    <div class="campeonato">${marcadorMando(j.casa)}${esc(j.liga)}</div>
     <div class="confronto">
       <div class="lado"><img src="${esc(casa.escudo)}" alt=""><div class="nome">${esc(casa.nome)}</div></div>
       <div class="versus">×</div>
@@ -395,12 +410,11 @@ function iniciaContagem(quando) {
 
 function linhaFuturo(j) {
   const d = new Date(j.data);
-  const adv = `${j.casa ? "" : "fora · "}${esc(j.adv.nome)}`;
   return `<div class="jogo">
     <div class="data"><b>${String(d.getDate()).padStart(2, "0")}</b><span>${fmtDiaMes.format(d).split(" ").pop().replace(".", "")}</span></div>
     <div class="meio">
-      <div class="times"><img class="escudo-mini" src="${esc(j.adv.escudo)}" alt="">${adv}</div>
-      <div class="info">${esc(j.liga)} · ${fmtHora.format(d)}</div>
+      <div class="times"><img class="escudo-mini" src="${esc(j.adv.escudo)}" alt="">${esc(j.adv.nome)}</div>
+      <div class="info">${marcadorMando(j.casa)}${esc(j.liga)} · ${fmtHora.format(d)}</div>
     </div>
   </div>`;
 }
@@ -412,8 +426,8 @@ function linhaResultado(j) {
   return `<div class="jogo">
     <div class="selo ${res[0]}">${res[1]}</div>
     <div class="meio">
-      <div class="times"><img class="escudo-mini" src="${esc(j.adv.escudo)}" alt="">${j.casa ? "" : "fora · "}${esc(j.adv.nome)}</div>
-      <div class="info">${esc(j.liga)} · ${fmtDiaMes.format(d)}</div>
+      <div class="times"><img class="escudo-mini" src="${esc(j.adv.escudo)}" alt="">${esc(j.adv.nome)}</div>
+      <div class="info">${marcadorMando(j.casa)}${esc(j.liga)} · ${fmtDiaMes.format(d)}</div>
     </div>
     <div class="placar">${esc(j.fla.gols ?? "-")}–${esc(j.adv.gols ?? "-")}</div>
   </div>`;
