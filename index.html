@@ -1,0 +1,523 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Meu Fla</title>
+<meta name="description" content="Jogos, resultados, notícias e vídeos do Flamengo">
+<meta name="theme-color" content="#c3000d">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Meu Fla">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="icon" href="icons/icon-192.png">
+<style>
+:root{
+  --vermelho:#e01020; --vermelho-escuro:#c3000d;
+  --fundo:#0a0a0b; --superficie:#141417; --superficie-2:#1c1c21;
+  --borda:#2a2a31; --texto:#f2f2f4; --texto-fraco:#9a9aa5;
+  --verde:#2fbf6a; --amarelo:#e8b021;
+  --raio:16px;
+  --topo:env(safe-area-inset-top); --base:env(safe-area-inset-bottom);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--fundo); color:var(--texto);
+  font:400 16px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased; overscroll-behavior-y:contain;
+}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+
+/* ---------- cabeçalho ---------- */
+header{
+  position:sticky; top:0; z-index:20;
+  padding:calc(var(--topo) + 14px) 16px 12px;
+  background:linear-gradient(180deg,var(--vermelho-escuro),#8c0009);
+  border-bottom:1px solid rgba(0,0,0,.4);
+}
+.marca{display:flex;align-items:center;gap:10px}
+.marca img{width:30px;height:30px;border-radius:8px}
+.marca h1{margin:0;font-size:20px;letter-spacing:.4px;font-weight:800}
+.marca .sub{margin-left:auto;font-size:11px;color:rgba(255,255,255,.72);text-align:right;line-height:1.3}
+.btn-atualizar{
+  margin-left:auto;padding:7px 12px;border-radius:999px;font-size:12px;font-weight:600;
+  background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.22);
+}
+.btn-atualizar:active{transform:scale(.96)}
+
+/* ---------- conteúdo ---------- */
+main{padding:16px 16px calc(84px + var(--base))}
+.painel{display:none}
+.painel.ativo{display:block;animation:entra .18s ease-out}
+@keyframes entra{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+h2.secao{
+  margin:26px 0 12px;font-size:13px;font-weight:700;letter-spacing:1.1px;
+  text-transform:uppercase;color:var(--texto-fraco);
+}
+h2.secao:first-child{margin-top:4px}
+
+/* ---------- card do próximo jogo ---------- */
+.destaque{
+  border-radius:var(--raio); padding:20px 18px; margin-bottom:8px;
+  background:radial-gradient(120% 130% at 0% 0%,#2a0206 0%,var(--superficie) 55%);
+  border:1px solid var(--borda); position:relative; overflow:hidden;
+}
+.destaque::before{
+  content:"";position:absolute;inset:0 auto 0 0;width:4px;background:var(--vermelho);
+}
+.destaque .etiqueta{
+  font-size:11px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:var(--vermelho);
+}
+.destaque .campeonato{font-size:12px;color:var(--texto-fraco);margin-top:2px}
+.confronto{display:flex;align-items:center;justify-content:center;gap:14px;margin:18px 0 14px}
+.lado{flex:1;display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center}
+.lado img{width:52px;height:52px;object-fit:contain}
+.lado .nome{font-size:13px;font-weight:600;line-height:1.2}
+.versus{font-size:13px;font-weight:700;color:var(--texto-fraco)}
+.quando{text-align:center;font-size:15px;font-weight:600}
+.quando .local{display:block;font-size:12px;font-weight:400;color:var(--texto-fraco);margin-top:4px}
+.contagem{
+  margin-top:14px;display:flex;justify-content:center;gap:10px;
+}
+.contagem div{
+  background:var(--superficie-2);border:1px solid var(--borda);border-radius:10px;
+  padding:8px 12px;min-width:58px;text-align:center;
+}
+.contagem b{display:block;font-size:20px;font-weight:800;font-variant-numeric:tabular-nums}
+.contagem span{font-size:10px;color:var(--texto-fraco);text-transform:uppercase;letter-spacing:.6px}
+.ao-vivo{
+  display:inline-flex;align-items:center;gap:6px;background:var(--vermelho);
+  padding:3px 9px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:.5px;
+}
+.ao-vivo::before{content:"";width:6px;height:6px;border-radius:50%;background:#fff;animation:pisca 1.1s infinite}
+@keyframes pisca{50%{opacity:.25}}
+
+/* ---------- linhas de jogo ---------- */
+.lista{display:flex;flex-direction:column;gap:8px}
+.jogo{
+  display:flex;align-items:center;gap:12px;padding:12px 14px;
+  background:var(--superficie);border:1px solid var(--borda);border-radius:12px;
+}
+.jogo .data{width:52px;flex:none;text-align:center}
+.jogo .data b{display:block;font-size:17px;font-weight:800;line-height:1}
+.jogo .data span{font-size:10px;color:var(--texto-fraco);text-transform:uppercase}
+.jogo .meio{flex:1;min-width:0}
+.jogo .times{font-size:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.jogo .info{font-size:11px;color:var(--texto-fraco);margin-top:3px}
+.jogo .placar{font-size:17px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:.5px}
+.selo{
+  width:22px;height:22px;flex:none;border-radius:6px;display:grid;place-items:center;
+  font-size:11px;font-weight:800;color:#fff;
+}
+.selo.v{background:var(--verde)} .selo.e{background:#6b6b78} .selo.d{background:var(--vermelho)}
+.escudo-mini{width:20px;height:20px;object-fit:contain;vertical-align:-4px;margin-right:5px}
+
+/* ---------- chips de fonte ---------- */
+.chips{display:flex;gap:8px;overflow-x:auto;padding:2px 0 12px;-webkit-overflow-scrolling:touch}
+.chips::-webkit-scrollbar{display:none}
+.chip{
+  flex:none;padding:7px 14px;border-radius:999px;font-size:13px;font-weight:600;
+  background:var(--superficie);border:1px solid var(--borda);color:var(--texto-fraco);
+  transition:background .15s,color .15s,border-color .15s;
+}
+.chip[aria-pressed="true"]{background:var(--vermelho);border-color:var(--vermelho);color:#fff}
+
+/* ---------- notícia ---------- */
+.noticia{
+  display:block;padding:14px;background:var(--superficie);
+  border:1px solid var(--borda);border-radius:12px;
+}
+.noticia:active{background:var(--superficie-2)}
+.noticia .cabeca{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.fonte{font-size:11px;font-weight:700;color:var(--vermelho);text-transform:uppercase;letter-spacing:.5px}
+.tempo{font-size:11px;color:var(--texto-fraco)}
+.tempo::before{content:"·";margin-right:8px}
+.noticia h3{margin:0;font-size:15px;font-weight:600;line-height:1.35}
+.noticia p{margin:6px 0 0;font-size:13px;color:var(--texto-fraco);line-height:1.4}
+
+/* ---------- vídeo ---------- */
+.videos{display:flex;flex-direction:column;gap:14px}
+.video{display:block;border-radius:12px;overflow:hidden;background:var(--superficie);border:1px solid var(--borda)}
+.video:active{opacity:.85}
+.miniatura{position:relative;aspect-ratio:16/9;background:var(--superficie-2)}
+.miniatura img{width:100%;height:100%;object-fit:cover;display:block}
+.play{
+  position:absolute;inset:0;display:grid;place-items:center;
+  background:linear-gradient(180deg,transparent 40%,rgba(0,0,0,.55));
+}
+.play span{
+  width:50px;height:50px;border-radius:50%;background:rgba(224,16,32,.92);
+  display:grid;place-items:center;font-size:17px;padding-left:4px;color:#fff;
+}
+.video .texto{padding:11px 13px 13px}
+.video h3{margin:0;font-size:14px;font-weight:600;line-height:1.35}
+.video .cabeca{display:flex;gap:8px;align-items:center;margin-top:7px}
+
+/* ---------- abas ---------- */
+nav{
+  position:fixed;left:0;right:0;bottom:0;z-index:30;
+  display:grid;grid-template-columns:repeat(3,1fr);
+  padding-bottom:var(--base);
+  background:rgba(16,16,19,.92);backdrop-filter:saturate(180%) blur(18px);
+  border-top:1px solid var(--borda);
+}
+nav button{
+  padding:10px 0 12px;display:flex;flex-direction:column;align-items:center;gap:3px;
+  font-size:10px;font-weight:600;color:var(--texto-fraco);letter-spacing:.3px;
+}
+nav button svg{width:23px;height:23px;stroke:currentColor;fill:none;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
+nav button[aria-selected="true"]{color:var(--vermelho)}
+
+/* ---------- estados ---------- */
+.aviso{padding:28px 14px;text-align:center;color:var(--texto-fraco);font-size:14px}
+.esqueleto{height:74px;border-radius:12px;background:var(--superficie);
+  animation:pulsa 1.3s ease-in-out infinite}
+@keyframes pulsa{50%{opacity:.45}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="marca">
+    <img src="icons/icon-192.png" alt="">
+    <h1>Meu Fla</h1>
+    <button class="btn-atualizar" id="btnAtualizar">Atualizar</button>
+  </div>
+</header>
+
+<main>
+  <!-- ===== JOGOS ===== -->
+  <section class="painel ativo" id="painel-jogos">
+    <div id="proximoJogo"><div class="esqueleto" style="height:230px"></div></div>
+    <h2 class="secao">Próximos jogos</h2>
+    <div class="lista" id="listaProximos"><div class="esqueleto"></div><div class="esqueleto"></div></div>
+    <h2 class="secao">Últimos resultados</h2>
+    <div class="lista" id="listaResultados"><div class="esqueleto"></div><div class="esqueleto"></div></div>
+  </section>
+
+  <!-- ===== NOTÍCIAS ===== -->
+  <section class="painel" id="painel-noticias">
+    <div class="chips" id="chipsFontes"></div>
+    <div class="lista" id="listaNoticias"><div class="esqueleto"></div><div class="esqueleto"></div><div class="esqueleto"></div></div>
+  </section>
+
+  <!-- ===== VÍDEOS ===== -->
+  <section class="painel" id="painel-videos">
+    <div id="conteudoVideos"><div class="esqueleto" style="height:200px"></div></div>
+  </section>
+</main>
+
+<nav role="tablist">
+  <button role="tab" aria-selected="true" data-painel="jogos">
+    <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3v4M12 17v4M3.5 9l3.7 2.6M16.8 11.6l3.7-2.6M6.6 19l1.5-4M15.9 15l1.5 4"/></svg>
+    Jogos
+  </button>
+  <button role="tab" aria-selected="false" data-painel="noticias">
+    <svg viewBox="0 0 24 24"><path d="M4 5h13v14H6a2 2 0 0 1-2-2z"/><path d="M17 8h3v9a2 2 0 0 1-2 2h-1"/><path d="M7.5 9h6M7.5 12.5h6M7.5 16h4"/></svg>
+    Notícias
+  </button>
+  <button role="tab" aria-selected="false" data-painel="videos">
+    <svg viewBox="0 0 24 24"><rect x="2.5" y="5" width="19" height="14" rx="4"/><path d="M10.5 9.3v5.4l4.6-2.7z"/></svg>
+    Vídeos
+  </button>
+</nav>
+
+<script>
+"use strict";
+
+const FLAMENGO_ID = "819";
+const LIGAS = [
+  { slug: "bra.1", nome: "Brasileirão" },
+  { slug: "conmebol.libertadores", nome: "Libertadores" },
+  { slug: "bra.copa_do_brazil", nome: "Copa do Brasil" },
+];
+const ESCUDO_FLA = "https://a.espncdn.com/i/teamlogos/soccer/500/819.png";
+
+/* ---------- utilidades ---------- */
+const $ = (sel) => document.querySelector(sel);
+
+const fmtDiaMes = new Intl.DateTimeFormat("pt-BR", { day: "2-digit", month: "short" });
+const fmtCompleto = new Intl.DateTimeFormat("pt-BR", { weekday: "long", day: "numeric", month: "long" });
+const fmtHora = new Intl.DateTimeFormat("pt-BR", { hour: "2-digit", minute: "2-digit" });
+const fmtHoraBR = new Intl.DateTimeFormat("pt-BR", { hour: "2-digit", minute: "2-digit", timeZone: "America/Sao_Paulo" });
+
+function tempoRelativo(iso) {
+  if (!iso) return "";
+  const min = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (min < 1) return "agora";
+  if (min < 60) return `há ${min} min`;
+  const h = Math.round(min / 60);
+  if (h < 24) return `há ${h} h`;
+  const d = Math.round(h / 24);
+  if (d < 30) return `há ${d} ${d === 1 ? "dia" : "dias"}`;
+  return fmtDiaMes.format(new Date(iso));
+}
+
+function esc(txt) {
+  const d = document.createElement("div");
+  d.textContent = txt ?? "";
+  return d.innerHTML;
+}
+
+function tzDiferente() {
+  return Intl.DateTimeFormat().resolvedOptions().timeZone !== "America/Sao_Paulo";
+}
+
+/* ---------- ESPN: jogos ---------- */
+function normalizaEvento(ev, ligaNome) {
+  const c = ev.competitions?.[0];
+  if (!c) return null;
+  const fla = c.competitors.find((t) => t.team?.id === FLAMENGO_ID);
+  const adv = c.competitors.find((t) => t.team?.id !== FLAMENGO_ID);
+  if (!fla || !adv) return null;
+  const st = c.status?.type || {};
+  const gol = (t) => {
+    const s = t.score;
+    if (s == null) return null;
+    if (typeof s === "object") return s.displayValue ?? String(s.value ?? "");
+    return String(s);
+  };
+  return {
+    id: ev.id,
+    data: c.date || ev.date,
+    liga: ligaNome,
+    estado: st.state,                        // pre | in | post
+    detalhe: c.status?.displayClock || "",
+    periodo: c.status?.period || 0,
+    casa: fla.homeAway === "home",
+    local: c.venue?.fullName || "",
+    cidade: c.venue?.address?.city || "",
+    fla: { nome: "Flamengo", escudo: ESCUDO_FLA, gols: gol(fla), venceu: fla.winner },
+    adv: {
+      nome: adv.team.shortDisplayName || adv.team.displayName,
+      escudo: adv.team.logos?.[0]?.href || "",
+      gols: gol(adv),
+      venceu: adv.winner,
+    },
+  };
+}
+
+async function buscaLiga(slug, nome) {
+  const base = `https://site.api.espn.com/apis/site/v2/sports/soccer/${slug}/teams/${FLAMENGO_ID}/schedule`;
+  const [passados, futuros] = await Promise.all([
+    fetch(base).then((r) => r.json()).catch(() => ({})),
+    fetch(base + "?fixture=true").then((r) => r.json()).catch(() => ({})),
+  ]);
+  const eventos = [...(passados.events || []), ...(futuros.events || [])];
+  return eventos.map((e) => normalizaEvento(e, nome)).filter(Boolean);
+}
+
+async function carregaJogos() {
+  let jogos = [];
+  try {
+    const partes = await Promise.all(LIGAS.map((l) => buscaLiga(l.slug, l.nome)));
+    const vistos = new Set();
+    jogos = partes.flat().filter((j) => (vistos.has(j.id) ? false : vistos.add(j.id)));
+  } catch (e) {
+    $("#proximoJogo").innerHTML = `<p class="aviso">Não consegui carregar os jogos. Tente atualizar.</p>`;
+    $("#listaProximos").innerHTML = "";
+    $("#listaResultados").innerHTML = "";
+    return;
+  }
+  jogos.sort((a, b) => new Date(a.data) - new Date(b.data));
+
+  const agora = Date.now();
+  const aoVivo = jogos.filter((j) => j.estado === "in");
+  const futuros = jogos.filter((j) => j.estado === "pre" && new Date(j.data) > agora - 3 * 3600e3);
+  const passados = jogos.filter((j) => j.estado === "post").reverse();
+
+  const destaque = aoVivo[0] || futuros[0];
+  $("#proximoJogo").innerHTML = destaque ? cardDestaque(destaque) : `<p class="aviso">Nenhum jogo agendado no momento.</p>`;
+  if (destaque && destaque.estado === "pre") iniciaContagem(new Date(destaque.data));
+
+  const proximos = futuros.filter((j) => j !== destaque).slice(0, 6);
+  $("#listaProximos").innerHTML = proximos.length
+    ? proximos.map(linhaFuturo).join("")
+    : `<p class="aviso">Sem jogos futuros publicados.</p>`;
+
+  $("#listaResultados").innerHTML = passados.length
+    ? passados.slice(0, 12).map(linhaResultado).join("")
+    : `<p class="aviso">Sem resultados.</p>`;
+}
+
+function cardDestaque(j) {
+  const d = new Date(j.data);
+  const casa = j.casa ? j.fla : j.adv;
+  const fora = j.casa ? j.adv : j.fla;
+  const vivo = j.estado === "in";
+  const horaLocal = fmtHora.format(d);
+  const linhaHora = tzDiferente()
+    ? `${horaLocal} <span style="color:var(--texto-fraco);font-weight:400">· ${fmtHoraBR.format(d)} em Brasília</span>`
+    : horaLocal;
+  const meio = vivo
+    ? `<div class="quando"><span class="ao-vivo">AO VIVO ${esc(j.detalhe)}</span>
+         <div style="font-size:30px;font-weight:800;margin-top:12px;font-variant-numeric:tabular-nums">
+           ${esc(casa.gols ?? "0")} <span style="color:var(--texto-fraco)">–</span> ${esc(fora.gols ?? "0")}
+         </div></div>`
+    : `<div class="quando">${fmtCompleto.format(d)}, ${linhaHora}
+         ${j.local ? `<span class="local">${esc(j.local)}${j.cidade ? " · " + esc(j.cidade) : ""}</span>` : ""}
+       </div>
+       <div class="contagem" id="contagem"></div>`;
+
+  return `<div class="destaque">
+    <div class="etiqueta">${vivo ? "Jogando agora" : "Próximo jogo"}</div>
+    <div class="campeonato">${esc(j.liga)}</div>
+    <div class="confronto">
+      <div class="lado"><img src="${esc(casa.escudo)}" alt=""><div class="nome">${esc(casa.nome)}</div></div>
+      <div class="versus">×</div>
+      <div class="lado"><img src="${esc(fora.escudo)}" alt=""><div class="nome">${esc(fora.nome)}</div></div>
+    </div>
+    ${meio}
+  </div>`;
+}
+
+let timerContagem = null;
+function iniciaContagem(quando) {
+  clearInterval(timerContagem);
+  const alvo = document.getElementById("contagem");
+  if (!alvo) return;
+  const passo = () => {
+    let s = Math.max(0, Math.floor((quando - Date.now()) / 1000));
+    const dias = Math.floor(s / 86400); s -= dias * 86400;
+    const h = Math.floor(s / 3600); s -= h * 3600;
+    const m = Math.floor(s / 60); s -= m * 60;
+    alvo.innerHTML = [[dias, "dias"], [h, "horas"], [m, "min"], [s, "seg"]]
+      .map(([v, r]) => `<div><b>${String(v).padStart(2, "0")}</b><span>${r}</span></div>`)
+      .join("");
+  };
+  passo();
+  timerContagem = setInterval(passo, 1000);
+}
+
+function linhaFuturo(j) {
+  const d = new Date(j.data);
+  const adv = `${j.casa ? "" : "fora · "}${esc(j.adv.nome)}`;
+  return `<div class="jogo">
+    <div class="data"><b>${String(d.getDate()).padStart(2, "0")}</b><span>${fmtDiaMes.format(d).split(" ").pop().replace(".", "")}</span></div>
+    <div class="meio">
+      <div class="times"><img class="escudo-mini" src="${esc(j.adv.escudo)}" alt="">${adv}</div>
+      <div class="info">${esc(j.liga)} · ${fmtHora.format(d)}</div>
+    </div>
+  </div>`;
+}
+
+function linhaResultado(j) {
+  const d = new Date(j.data);
+  const gf = Number(j.fla.gols), ga = Number(j.adv.gols);
+  const res = gf > ga ? ["v", "V"] : gf < ga ? ["d", "D"] : ["e", "E"];
+  return `<div class="jogo">
+    <div class="selo ${res[0]}">${res[1]}</div>
+    <div class="meio">
+      <div class="times"><img class="escudo-mini" src="${esc(j.adv.escudo)}" alt="">${j.casa ? "" : "fora · "}${esc(j.adv.nome)}</div>
+      <div class="info">${esc(j.liga)} · ${fmtDiaMes.format(d)}</div>
+    </div>
+    <div class="placar">${esc(j.fla.gols ?? "-")}–${esc(j.adv.gols ?? "-")}</div>
+  </div>`;
+}
+
+/* ---------- notícias ---------- */
+const CHAVE_FONTES = "meufla.fontes";
+let noticias = [], fontes = [], desligadas = new Set();
+
+try { desligadas = new Set(JSON.parse(localStorage.getItem(CHAVE_FONTES) || "[]")); } catch (e) {}
+
+async function carregaNoticias() {
+  try {
+    const dados = await fetch("data/news.json?" + Date.now()).then((r) => r.json());
+    noticias = dados.itens || [];
+    fontes = (dados.fontes || []).filter((f) => f.ok !== false);
+    desenhaChips();
+    desenhaNoticias();
+  } catch (e) {
+    $("#listaNoticias").innerHTML = `<p class="aviso">Notícias indisponíveis. Elas são atualizadas a cada 30 minutos.</p>`;
+  }
+}
+
+function desenhaChips() {
+  $("#chipsFontes").innerHTML = fontes
+    .map((f) => `<button class="chip" data-fonte="${esc(f.id)}" aria-pressed="${!desligadas.has(f.id)}">${esc(f.nome)}</button>`)
+    .join("");
+}
+
+function desenhaNoticias() {
+  const visiveis = noticias.filter((n) => !desligadas.has(n.fonte));
+  $("#listaNoticias").innerHTML = visiveis.length
+    ? visiveis.slice(0, 80).map((n) => `
+      <a class="noticia" href="${esc(n.link)}" target="_blank" rel="noopener">
+        <div class="cabeca"><span class="fonte">${esc(n.fonteNome)}</span><span class="tempo">${tempoRelativo(n.data)}</span></div>
+        <h3>${esc(n.titulo)}</h3>
+        ${n.resumo ? `<p>${esc(n.resumo)}</p>` : ""}
+      </a>`).join("")
+    : `<p class="aviso">Nenhuma fonte selecionada.</p>`;
+}
+
+$("#chipsFontes").addEventListener("click", (ev) => {
+  const chip = ev.target.closest(".chip");
+  if (!chip) return;
+  const id = chip.dataset.fonte;
+  desligadas.has(id) ? desligadas.delete(id) : desligadas.add(id);
+  chip.setAttribute("aria-pressed", String(!desligadas.has(id)));
+  localStorage.setItem(CHAVE_FONTES, JSON.stringify([...desligadas]));
+  desenhaNoticias();
+});
+
+/* ---------- vídeos ---------- */
+async function carregaVideos() {
+  try {
+    const dados = await fetch("data/videos.json?" + Date.now()).then((r) => r.json());
+    const itens = dados.itens || [];
+    if (!itens.length) {
+      $("#conteudoVideos").innerHTML = `<p class="aviso">Nenhum vídeo no momento.</p>`;
+      return;
+    }
+    const destaques = itens.filter((v) => v.destaque);
+    const resto = itens.filter((v) => !v.destaque);
+    $("#conteudoVideos").innerHTML =
+      (destaques.length ? `<h2 class="secao">Gols e melhores momentos</h2><div class="videos">${destaques.map(cardVideo).join("")}</div>` : "") +
+      (resto.length ? `<h2 class="secao">Do canal do Flamengo</h2><div class="videos">${resto.map(cardVideo).join("")}</div>` : "");
+  } catch (e) {
+    $("#conteudoVideos").innerHTML = `<p class="aviso">Vídeos indisponíveis. Eles são atualizados a cada 30 minutos.</p>`;
+  }
+}
+
+function cardVideo(v) {
+  return `<a class="video" href="${esc(v.url)}" target="_blank" rel="noopener">
+    <div class="miniatura">
+      <img loading="lazy" src="${esc(v.thumb)}" alt="">
+      <div class="play"><span>▶</span></div>
+    </div>
+    <div class="texto">
+      <h3>${esc(v.titulo)}</h3>
+      <div class="cabeca"><span class="fonte">${esc(v.canal)}</span><span class="tempo">${tempoRelativo(v.data)}</span></div>
+    </div>
+  </a>`;
+}
+
+/* ---------- abas ---------- */
+document.querySelectorAll('nav button').forEach((btn) => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll("nav button").forEach((b) => b.setAttribute("aria-selected", String(b === btn)));
+    document.querySelectorAll(".painel").forEach((p) => p.classList.toggle("ativo", p.id === "painel-" + btn.dataset.painel));
+    window.scrollTo({ top: 0 });
+  });
+});
+
+/* ---------- início ---------- */
+function carregaTudo() {
+  carregaJogos();
+  carregaNoticias();
+  carregaVideos();
+}
+$("#btnAtualizar").addEventListener("click", carregaTudo);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) carregaJogos(); });
+carregaTudo();
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+}
+</script>
+</body>
+</html>
