@@ -145,6 +145,24 @@ h2.secao:first-child{margin-top:4px}
 .noticia h3{margin:0;font-size:15px;font-weight:600;line-height:1.35}
 .noticia p{margin:6px 0 0;font-size:13px;color:var(--texto-fraco);line-height:1.4}
 
+/* notícia já lida: apaga o texto, mantém o card no lugar */
+.noticia.lida h3{color:var(--texto-fraco);font-weight:500}
+.noticia.lida .fonte{color:var(--texto-fraco)}
+.noticia.lida p{opacity:.6}
+
+/* marcador de lida: círculo à direita do cabeçalho */
+.marca-lida{
+  width:40px;height:40px;margin:-10px -8px -10px auto;
+  display:grid;place-items:center;flex:none;
+  -webkit-tap-highlight-color:transparent;
+}
+.marca-lida::after{
+  content:"";width:13px;height:13px;border-radius:50%;
+  border:1.5px solid var(--borda);transition:background .15s,border-color .15s;
+}
+.noticia.lida .marca-lida::after{background:var(--texto-fraco);border-color:var(--texto-fraco)}
+.marca-lida:active::after{transform:scale(.85)}
+
 /* ---------- vídeo ---------- */
 .videos{display:flex;flex-direction:column;gap:14px}
 .video{display:block;border-radius:12px;overflow:hidden;background:var(--superficie);border:1px solid var(--borda)}
@@ -252,7 +270,6 @@ const $ = (sel) => document.querySelector(sel);
 const fmtDiaMes = new Intl.DateTimeFormat("pt-BR", { day: "2-digit", month: "short" });
 const fmtCompleto = new Intl.DateTimeFormat("pt-BR", { weekday: "long", day: "numeric", month: "long" });
 const fmtHora = new Intl.DateTimeFormat("pt-BR", { hour: "2-digit", minute: "2-digit" });
-const fmtHoraBR = new Intl.DateTimeFormat("pt-BR", { hour: "2-digit", minute: "2-digit", timeZone: "America/Sao_Paulo" });
 
 function tempoRelativo(iso) {
   if (!iso) return "";
@@ -274,10 +291,6 @@ function esc(txt) {
   const d = document.createElement("div");
   d.textContent = txt ?? "";
   return d.innerHTML;
-}
-
-function tzDiferente() {
-  return Intl.DateTimeFormat().resolvedOptions().timeZone !== "America/Sao_Paulo";
 }
 
 /* ---------- ESPN: jogos ---------- */
@@ -362,16 +375,12 @@ function cardDestaque(j) {
   const casa = j.casa ? j.fla : j.adv;
   const fora = j.casa ? j.adv : j.fla;
   const vivo = j.estado === "in";
-  const horaLocal = fmtHora.format(d);
-  const linhaHora = tzDiferente()
-    ? `${horaLocal} <span style="color:var(--texto-fraco);font-weight:400">· ${fmtHoraBR.format(d)} em Brasília</span>`
-    : horaLocal;
   const meio = vivo
     ? `<div class="quando"><span class="ao-vivo">AO VIVO ${esc(j.detalhe)}</span>
          <div style="font-size:30px;font-weight:800;margin-top:12px;font-variant-numeric:tabular-nums">
            ${esc(casa.gols ?? "0")} <span style="color:var(--texto-fraco)">–</span> ${esc(fora.gols ?? "0")}
          </div></div>`
-    : `<div class="quando">${fmtCompleto.format(d)}, ${linhaHora}
+    : `<div class="quando">${fmtCompleto.format(d)}, ${fmtHora.format(d)}
          ${j.local ? `<span class="local">${esc(j.local)}${j.cidade ? " · " + esc(j.cidade) : ""}</span>` : ""}
        </div>
        <div class="contagem" id="contagem"></div>`;
@@ -433,15 +442,40 @@ function linhaResultado(j) {
 
 /* ---------- notícias ---------- */
 const CHAVE_FONTES = "meufla.fontes";
-let noticias = [], fontes = [], desligadas = new Set();
+const CHAVE_LIDAS = "meufla.lidas";
+let noticias = [], fontes = [], desligadas = new Set(), lidas = new Set();
 
-try { desligadas = new Set(JSON.parse(localStorage.getItem(CHAVE_FONTES) || "[]")); } catch (e) {}
+function leGuardado(chave) {
+  // O acessor pode lançar em janela anônima ou com dados do site bloqueados.
+  try { return new Set(JSON.parse(localStorage.getItem(chave) || "[]")); } catch (e) { return new Set(); }
+}
+
+function grava(chave, conjunto) {
+  try { localStorage.setItem(chave, JSON.stringify([...conjunto])); } catch (e) {}
+}
+
+desligadas = leGuardado(CHAVE_FONTES);
+lidas = leGuardado(CHAVE_LIDAS);
+
+// Identidade da notícia. O link não serve: metade das fontes chega via Google
+// News, com URLs opacas que podem ser reemitidas para o mesmo artigo. O título
+// normalizado é o que o coletor já usa para deduplicar entre fontes.
+function idNoticia(titulo) {
+  const base = titulo.toLowerCase()
+    .replace(/\s+-\s+[^-]+$/, "")
+    .replace(/[^a-z0-9à-ú ]/g, "")
+    .replace(/\s+/g, " ").trim();
+  let h = 5381;
+  for (let i = 0; i < base.length; i++) h = ((h * 33) ^ base.charCodeAt(i)) >>> 0;
+  return h.toString(36);
+}
 
 async function carregaNoticias() {
   try {
     const dados = await fetch("data/news.json?" + Date.now()).then((r) => r.json());
-    noticias = dados.itens || [];
+    noticias = (dados.itens || []).map((n) => ({ ...n, id: idNoticia(n.titulo) }));
     marcaAtualizacao(dados.atualizadoEm);
+    podaLidas();
     fontes = (dados.fontes || []).filter((f) => f.ok !== false);
     desenhaChips();
     desenhaNoticias();
@@ -449,6 +483,16 @@ async function carregaNoticias() {
     marcaAtualizacao(null);
     $("#listaNoticias").innerHTML = `<p class="aviso">Notícias indisponíveis. Elas são atualizadas a cada 30 minutos.</p>`;
   }
+}
+
+// Mantém guardadas só as notícias que ainda estão no feed. Como o JSON tem no
+// máximo 150 itens e eles envelhecem, o armazenamento se limita sozinho.
+function podaLidas() {
+  if (!lidas.size) return;
+  const noFeed = new Set(noticias.map((n) => n.id));
+  const antes = lidas.size;
+  lidas = new Set([...lidas].filter((id) => noFeed.has(id)));
+  if (lidas.size !== antes) grava(CHAVE_LIDAS, lidas);
 }
 
 function desenhaChips() {
@@ -461,13 +505,35 @@ function desenhaNoticias() {
   const visiveis = noticias.filter((n) => !desligadas.has(n.fonte));
   $("#listaNoticias").innerHTML = visiveis.length
     ? visiveis.slice(0, 80).map((n) => `
-      <a class="noticia" href="${esc(n.link)}" target="_blank" rel="noopener">
-        <div class="cabeca"><span class="fonte">${esc(n.fonteNome)}</span><span class="tempo">${tempoRelativo(n.data)}</span></div>
+      <a class="noticia${lidas.has(n.id) ? " lida" : ""}" href="${esc(n.link)}" target="_blank" rel="noopener" data-id="${n.id}">
+        <div class="cabeca">
+          <span class="fonte">${esc(n.fonteNome)}</span>
+          <span class="tempo">${tempoRelativo(n.data)}</span>
+          <span class="marca-lida" role="button" aria-label="Marcar como lida"></span>
+        </div>
         <h3>${esc(n.titulo)}</h3>
         ${n.resumo ? `<p>${esc(n.resumo)}</p>` : ""}
       </a>`).join("")
     : `<p class="aviso">Nenhuma fonte selecionada.</p>`;
 }
+
+$("#listaNoticias").addEventListener("click", (ev) => {
+  const item = ev.target.closest(".noticia");
+  if (!item) return;
+  const id = item.dataset.id;
+
+  // Toque no círculo: só alterna, sem abrir o link.
+  if (ev.target.closest(".marca-lida")) {
+    ev.preventDefault();
+    ev.stopPropagation();
+    lidas.has(id) ? lidas.delete(id) : lidas.add(id);
+  } else {
+    // Toque na manchete: o clique dispara antes de o link abrir.
+    lidas.add(id);
+  }
+  item.classList.toggle("lida", lidas.has(id));
+  grava(CHAVE_LIDAS, lidas);
+});
 
 $("#chipsFontes").addEventListener("click", (ev) => {
   const chip = ev.target.closest(".chip");
