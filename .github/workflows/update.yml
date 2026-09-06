@@ -2,7 +2,10 @@ name: Atualizar notícias e vídeos
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    # Minutos 7 e 37 de propósito. O GitHub enfileira todas as tarefas do
+    # planeta na virada da hora e na meia hora, e as execuções nesses horários
+    # atrasam ou são descartadas. Fora dos picos, elas saem no horário.
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
