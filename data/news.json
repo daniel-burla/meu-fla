@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-06T09:21:06.746085+00:00",
+ "atualizadoEm": "2026-09-06T13:04:50.059417+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 12
+   "itens": 52
   },
   {
    "id": "colunadofla",
@@ -23,23 +23,127 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 12
+   "itens": 63
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 11
+   "itens": 96
   }
  ],
  "itens": [
   {
-   "titulo": "Flamengo espera volta de Plata neste domingo e se irrita com demora em reapresentação",
+   "titulo": "Onde vai passar Remo x Flamengo pelo Brasileirão? Como assistir ao vivo",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnd3bnJxc2hMS282RFdScGxyTDYwMk40elZ2ZUhkd2liTnVPTnd4a1c4RXEycVo2M0ZrWF95TVRkVzNPU3BNQUFzVHhnYm9XR3JDYlZkZF9Jbm83VGRaMlZNN3JHeEpndkI5M1NpZGc0NWZGelg4UnQ3UnJUMEhpLXczSU9MSzVpNlFUYk94dzdSQklqNUd6d05QS3o3eUxfemFBc0VtelRWdFJnMFpUTmxBVWNfQWxWc0hWM1ZCVzVLTy1LdDIwaEl1ZVpJbHc?oc=5",
+   "data": "2026-09-06T13:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Boto revela ordem de renovações no Flamengo: Pedro e Léo Pereira ‘brigam’ na fila",
+   "link": "https://colunadofla.com/2026/09/boto-revela-ordem-de-renovacoes-no-flamengo-pedro-e-leo-pereira-brigam-na-fila/",
+   "data": "2026-09-06T12:42:04+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Diretor de futebol do Flamengo revela ordem da fila de renovações após acerto com Erick Pulgar até 2029 José Boto revelou a ordem da fila de renovações no Flamengo, durante a apresentação de Anthony Valencia e Joaquín F…"
+  },
+  {
+   "titulo": "Ex-Flamengo e Seleção, Leandro Damião é anunciado por novo time aos 37 anos",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUNFR2xOc0JzZS0xVFJROVdDeXpsc0Z5ekE3VmdPMEtXYlg5ZWFQcGkyRWNQUEYwV2YxWjdYbm45ZUpFSDJmOWhheGc0ZWtDeE5veHFXSms2RGxfNk02azdMZjMxOC1uVGR3UmN6U3ZaMzFWTEdLdTZTZWlQMGtaTVdPQkdreUlUckp4TFhzbWZSaUJabDJBWnU5UEFUMy1uVXhqaUFyWGVXb0EyWVNnc3FqdFhMMngza09SSVN3?oc=5",
+   "data": "2026-09-06T12:00:59+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogo do Flamengo hoje pelo Brasileirão: que horas começa e onde assistir",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHcyaVpCTTlJVUJUV2tTZ21pNVJtSW1rWjVObFIyUDBqUnIyQ3lzcmFzVEFaN256dXR0UHRBQlFxYV9oVHluZi1CSkdYYWFaak9wdXNBZmZsb1BaQXV5Zks4Q01VM29kbGtSSXp1LUFWNEFjMnZtVUVqWlBDdnZxaFM4UHVtalZYVEJPSHNNR1pYTU9TVkpZcjlNRkxOa1NmM0lvQXJFTmtaS0l2SXJPOHdoOHFGY0p6Tnc2OFY2VmVuZjA4UDBYYVpaM2o1Ykg4?oc=5",
+   "data": "2026-09-06T12:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogo do Flamengo x Remo vai passar na Globo hoje?",
+   "link": "https://colunadofla.com/2026/09/jogo-do-flamengo-x-remo-vai-passar-na-globo-hoje/",
+   "data": "2026-09-06T11:42:48+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Mais Querido entra em campo neste domingo (06), em confronto que também tem transmissão na TV aberta O Flamengo enfrenta o Remo a partir das 16h (horário de Brasília) deste domingo (06). Portanto, o duelo é válido pela…"
+  },
+  {
+   "titulo": "Palmeiras x Flamengo: do que cada um precisa para fechar rodada como líder?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGVjZHFaejFNWUtpZ0NvakM5VmhtbGFPVnZ2SFAxbFV4RWhqdHBWa2R5X3c5Yk5RRGFmTG5MaU5RX2ZsWlJpMDZUSWtldUFVUDlhVjg2YkNiYm5DbnRFYjBNTUZCcHJDdy1JTUN1ODl6ZjVERXptM2xUSWlxZ3J1NThzOTJIWXJpU21Wbm1MMEo3UUJtSkFETFBGWmJZemFpWXdkNHFDbzNwR2gtc0Vtbw?oc=5",
+   "data": "2026-09-06T11:40:05+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fla terá de jogo de empolgação x desespero com Remo e vai esperar Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXVBY01HV3lIaEZscmw0bmc2aXA4eHRnejFrakUxbnRVdTVzaVhqM0RIQ09YWWk3VUsxaXZhZFBQc2tYZHdlRExWOF9aNl9pcTBwd3JNNnZWb3ZFOEU5TDRtalp2aklRR0ZrMXVBMjFWMzVPS3JCZVN0TUl1WWpPeGRadVlPc05aR2FyMnZlTC1iRDdvSVB6RWVEbkVmYmdDcUktNVpVUVluZw?oc=5",
+   "data": "2026-09-06T11:33:53+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogo ao vivo, escalações e mais: saiba tudo sobre Flamengo x Remo",
+   "link": "https://colunadofla.com/2026/09/jogo-ao-vivo-escalacoes-e-mais-saiba-tudo-sobre-flamengo-x-remo/",
+   "data": "2026-09-06T10:42:36+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rubro-Negro encara o time paraense neste domingo (06), no Mangueirão, em confronto que pode valer a liderança do Brasileirão O Flamengo enfrenta o Remo neste domingo (06), no Estádio Mangueirão, em Belém. Dessa forma, c…"
+  },
+  {
+   "titulo": "Veja o que o Flamengo precisa para ser líder do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjJmaHQ1MEhXUkJSZlRZSXZ3bzFwczZfY0FBalh6UW90d2VhZ0tHUkZndXdDMW8yNzJmak9vYzI2VngzZV9VMlZJMTVDSkFOUkl5TlREaHI1blV5Z0NEUHEtTVFUdG01QmZkV24zVWhPaGxSZ09vTTNiR0kxLVB1VTM4RDk5Wkt3cGdNUVdkeUhXMlFvYUtyYUxwQU9SNnhPTEJzU2twdGQyR1VGZHRnMXMtaHpETFh3WjNNMG5SREoycy1l?oc=5",
+   "data": "2026-09-06T10:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogo do Flamengo hoje! Derrota do Remo pode mudar liderança no Brasileirão",
+   "link": "https://colunadofla.com/2026/09/jogo-do-flamengo-hoje-derrota-do-remo-pode-mudar-lideranca-no-brasileirao/",
+   "data": "2026-09-06T09:50:09+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rubro-Negro entra em campo no Mangueirão às 16h e pode assumir a ponta do Brasileirão, se o resultado do Palmeiras também ajudar Flamengo e Remo se enfrentam neste domingo (06), pela 26ª rodada do Brasileirão. Portanto,…"
+  },
+  {
+   "titulo": "Ameaçado pelo Flamengo, Palmeiras visita o Botafogo no Rio para manter liderança",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUTUxQ0VQdWJKLXBrdUh0ZThpb0pxakxpdm1YM3lmTW5BTnRuYTJ6ZUFSb3ZrUXlEV3RFdEd4RkV0QkpQdzE5N0c0NGFNZ2JRYllkUnNNZm9hU1ZjM2otYXpNQ1VRUHlnYUdza01RVDh3NHVzUmZORW1pbTFKa3JIcnlaZGVrdnY1TzNIWlJRZjdwaFdvcU5iamNocHpXUVB2X2Ntd2czSmZwTWRvWkQ2R3RfanYtY0JYTXBsaHpkcVJPWlJ3TUM3Q2VYZHRia3A4YUpUNkxkMmZFSEU2N2tSLUowRU8?oc=5",
+   "data": "2026-09-06T09:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo espera a volta de Plata neste domingo e se irrita com atraso na reapresentação",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/06/flamengo-espera-volta-de-plata-neste-domingo-e-se-irrita-com-demora-em-reapresentacao.ghtml",
    "data": "2026-09-06T09:00:00+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Bap agradeceu por ter vendido Plata ao Dinamo Ao mesmo tempo em que entrar em campo para enfrentar o Remo neste domingo em Belém, o Flamengo também estará de olho no Rio de Janeiro. O clube espera que Plata esteja no vo…"
+  },
+  {
+   "titulo": "Remo x Flamengo: horário e onde assistir ao jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUFdkU0I2T09LdHFnbzNUaXB5R2FraVpZSVRaanhtOXRzTU9YU3ZpLXZZQ2hjUlA0Q0ZXcklDZDd5cWlqVWVtM25LczEwSHhUcHQxd0FkOXk0NFlsTUQwdDZNbk1fVjBGR3lsSG9ORGJhSGRrWEQ3ZnVLNjU2Uy03QkZER0FYN0ZqODJRdExnQ3J5WVQyZEJwUW81SGFGX05sT0FjMlowek8zb2dZazBqZURjYW9PTHFQWlpzOXNzQ0Z2bklX?oc=5",
+   "data": "2026-09-06T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "De olho no topo da tabela, Flamengo aposta na força do elenco em visita ao Remo no Mangueirão",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRUREc0xRWC1xYjNlQjducjZoRURTZmpuajB1UzEzcUQ4Njlic3YxZGlwcWF0Zm02dEFQMk80QkRWY1ctWVVRUkZCRjhXM080SWlXUlQ0RXVveTlMdVhJRkFTTy0yRy1XNHVEcmF0eDAtcjljMjU4TnVhUkpqZ2V1bW9CR1N0ZFIwUVIzSVhuVTBoSkhuSXZBZUdVM3hGN0J5blllVFh4RHhVaFZpSWZzUWwza3puRHItaWZ2V1M3b19ubWotcmM1d21VQTY2Vm1YOFAyb1VfemVEZmZsU2ZNejN0bzU4dGNSSnFNRlV0dWYxR0Vwd3c?oc=5",
+   "data": "2026-09-06T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Remo x Flamengo: onde assistir ao vivo, horário e escalações",
@@ -50,6 +154,38 @@
    "resumo": "Remo x Flamengo: informações e palpite para o jogo Remo e Flamengo se enfrentam neste domingo, dia 6, às 16h (horário de Brasília), no Estádio do Mangueirão, em Belém, pela 26ª rodada da Série A do Campeonato Brasileiro…"
   },
   {
+   "titulo": "As mudanças que Flamengo deve ter no Brasileirão e como Libertadores impacta em time de Jardim",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdElPVnByU1M3V0VJNHhDUktoLVhoSDZ2ZGd4TGJvUXR5MTVRZF8yN2trWmJHTHZnbm9PVmlnSjFJdlVvaXZkVUI3cGpkdFJXYmFqY1BBUndNNDF4VS1XY0ZsU0xteHo2RTY2VXlQeno5NDk4Y2RzaEhMV1k0NkFQbHJRWkVqVjJRNER5YWhHTFlEUjU4NnVDZk9HMTFvY2pROVROTVdHd1psWGFIU2FhUkw4VXRlSG5keFFrclIya0ZNbE5nQ25ldTByRUxVWDA?oc=5",
+   "data": "2026-09-06T06:00:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Pogba no Corinthians? Ex-campeão com a Juventus vê futuro após liberação de Filipe Luís: 'Fundamental para Diniz'",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1ZZN0ZOYmdLanNBSEJUMFE2T3FnejFDQnhIekFzNXRPQ0R3WXJaSXBHTkNuOWREM2tyQTBGZkdZdTNPV3VsWk5TZGN5ekFKLUI4UmpYbTE5MGM3QmRnTjV1c3pScTdackUzcWFlVV9ZTkpXU1p2M2Q5c1ZJRm5WZmlRSzROZUc5dldKMnBLSTJQUldBdmhhVUZGeHg5bXNseUtnV1hyb09pNzAxTnBjR19hSnJ0Q2h2Ny13Szk4SHZNOXhRY01xdkU2aw?oc=5",
+   "data": "2026-09-06T05:00:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Mattos: Flamengo exige volta de Plata ao Rio e vê agentes forçando transferência",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekhuLXdpWnpSTFNGbldxUUF2VklaUUlHYkxzMW5LZEEwNGNnRG9sUXNPc0cyTEVRTnJLR2dqZVFOX1NVSDlENHkzSXZrbzFKcTVjQWc4bEpGZlNuMDgzYkJ4VTF2N3h3RHNpS29SZm11QWV1anVwUHlydGtiWEV3Y1RlQTlCZlFqeUNkdjNkMGxvd0dwRjh3YVBTMk1NUDlTZ29STkNxSVJhMlpkekQ2ZDlHSU11LTJRNTFzNTBSVmUxaWZsSGpGOW9aazNWQ0pESUdueGFHcUdTd3Q2VFhDc1JtT29yR2c?oc=5",
+   "data": "2026-09-06T02:56:27+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Tem vaga na Seleção de Ancelotti? VEJA gols de Pedro pelo Flamengo em 2026",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yclZteEhxcHNkX3E2WTlzV0ZfUEVUQWxLWXVfNHk5UDVzRDFFR3ppSlNkSnVnamZMTUsxVnNlM2RGQ0N4X1JZRWF5NkhweHI3NjNmOERfNEJWS2ZwZXc?oc=5",
+   "data": "2026-09-06T02:36:08+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Fluminense bate Vasco, e Flamengo ‘monitora’; a tabela atualizada na 26ª rodada do Brasileirão",
    "link": "https://colunadofla.com/2026/09/fluminense-bate-vasco-e-flamengo-monitora-a-tabela-atualizada-na-26a-rodada-do-brasileirao/",
    "data": "2026-09-06T02:00:22+00:00",
@@ -58,20 +194,36 @@
    "resumo": "Flamengo e Remo se enfrentam, neste domingo (06), pela 26ª rodada do Brasileirão A 26ª rodada do Brasileirão já se iniciou sem o Flamengo. Isso porque o Fluminense o Vasco por venceu 1 a 0, o fez o time das laranjeiras…"
   },
   {
-   "titulo": "Del Valle vence por 3 a 1 com reservas de olho no jogo contra o Flamengo",
-   "link": "https://colunadofla.com/2026/09/del-valle-vence-por-3-a-1-com-reservas-de-olho-no-jogo-contra-o-flamengo/",
-   "data": "2026-09-06T00:58:04+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Time equatoriano poupou titulares, venceu por 3 a 0 e segue líder isolado do Equatorianão antes do confronto com o Flamengo Flamengo e Independiente del Valle (EQU) fazem o primeiro jogo das quartas de final da Libertad…"
+   "titulo": "Plata em Dubai irrita Flamengo, que dá ultimato a atacante e quer retorno imediato",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNkJ3MTl5TzVJdE1TNTIyeVdqdzAwTnk3TjJUazJOQzczWDNxa0x3dC1vT3pWUi13R0lCN1gzd2FLM2djZ19yUVR4bV9jVmRNZkhzVjFyQ19GU3FjUl91RENPSzE2RkFBdDQweGtkazUzVzNEZlRuVk5Tc2U2cmNyTElJTXlzSlUtaUF0NUJRSXdFNnNLd1RDRl9LTXBCd2FLRklfZEFIOFo4ZTRBRmZyS3hRSzdUNUhOWE84TUhqVFp1VWVKaXBya091VnhaT3J2Q2JUUWk1aUg?oc=5",
+   "data": "2026-09-06T01:36:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
-   "titulo": "Todas as estatísticas que colocam o Flamengo como favorito absoluto contra o Remo",
-   "link": "https://colunadofla.com/2026/09/todas-as-estatisticas-que-colocam-o-flamengo-como-favorito-absoluto-contra-o-remo/",
-   "data": "2026-09-05T23:44:51+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Retrospecto joga a favor do Rubro-Negro, que pode até assumir a liderança do Brasileirão neste domingo (06) Flamengo e Remo se enfrentam, neste domingo (06), em jogo que pode dar a liderança ao Rubro-Negro, no Brasileir…"
+   "titulo": "Juca Kfouri: Flamengo e São Paulo nas semifinais do Brasileirão das mulheres",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORElkYmE2Rk05dENlOG9JT2E5SWR6Q2kteEU2eFIwUHp2TGY2Z0FuaUZrQ0tpOVNEcGoxUFo0VHBNdEVXQUlxalV1U3VTWGZOLS13UjhvNVpWOVZKTkExcE1ENW5IbmYyTlgzMGdIWVhiWUlPU245VDFtUHZQbm9meUdpc1REcFlVUlJNSGJWNm54dWhuZjFfbU96TThjbWdTOHo2c2JKS01QQVBkQ1dtNDJweXFLUlNub01XN1V2U3JGb2dUaTNUOTE0NXNlMS1fSEpN?oc=5",
+   "data": "2026-09-06T01:30:32+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Remo x Flamengo ao vivo hoje 06/09: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmRxY1Y3VUJwWWNKRVJZRUF0d2VIZk5KQzZRRjI5amNuNWY2VXZRQkc1SlB0UHJwc3BEX3VNMEh2WDNKVkRoMHpmSFZIclhrak1PSGdrTVVXZzFrcEUzYlFoXzVmTTkxdHdjRnRBWUE1T21jaGJUNHhGUmoxOVRmb0QxTTZFTGliMmVhMA?oc=5",
+   "data": "2026-09-06T01:14:50+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "'Tira uma foto, por favor?': Pedro atende pedido e faz alegria de criança em festa incrível na chegada do Flamengo a Belém",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmQzSy1pNnZERlh6TUlVMms2ZFdkendaalB6aEltZDdCTGNLay1Vb3NrMWk0OXc3SWVQcTFFa0Q1X2t5bHdCYnp4Z1lGQ0JaUC1FaXpaZ1dza2pxTEVyVHJQUk5lS0JSdHRIUTVSeE1BaE1TLWd2M0RrdmpwcDZTdzVSM0ZNS3B1amRkSzhydkhqN0k5NUdCa0pUUTl5aXdSS2xGOTdUdFdrV3IwOEs2cVY4U3h4V0x5enh0Q2dQQ2huckJrUUk5ME5sNFRRS25yX1VTNHFySjJfSzZYazRjOHVnWWlEb096SDZqeHlRR2pwa2dKR0E?oc=5",
+   "data": "2026-09-05T23:35:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo chega a Belém com festa, e jogadores vão ao encontro da torcida; veja vídeo",
@@ -82,6 +234,30 @@
    "resumo": "Veja como foi a recepção do Flamengo em Belém O Flamengo chegou a Belém na noite deste sábado com muita festa de rubro-negros que não viam o clube desde a Supercopa Rei, em fevereiro do ano passado. Neste domingo, o tim…"
   },
   {
+   "titulo": "Pedro faz alegria de crianças na chegada do Flamengo a Belém antes de jogo contra o Remo; VEJA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82U0JwTDViM2FYdndjUVZoMWlxQTRWcUI2M2FzMm50SEctNkE1T3I4R1IwY0JGWGI0cHpycFBpZzM5QURUWlctZDNJb0xxS0luRGExU0dWZXVVSy1kcXc?oc=5",
+   "data": "2026-09-05T23:34:44+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "3 Fora de Campo Wallace Yan, ex-Flamengo, viraliza na estreia no Bragantino: 'Misericórdia' - LANCE!",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHVUd3NUWFduUk1IeGtxbTh2cVFIWld2dE9fQ012OXpSdXY1elZvUHg0eHUxYUU2UHlXRUNwTTdTMHJRc0NfU3M0enZwVXBXdFRrbzZYeEg3Z3pNQ1RCd2tlTDlpV3B2VnZRUWtpQjJiTHkyRGtLWl92TE9Nd2xqMmRfeU1JRlJSYmh0U0xLTEtoeDFJVUIzeU8yMlRraUFrRS1JZDdDcV96Yy1EVDBDYnZIVlU?oc=5",
+   "data": "2026-09-05T23:22:49+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Filipe Luís faz Monaco ser oposto do Flamengo para ser líder na França",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDNNeHpaMTZhdk5neDd0ZWNCTXp5T2dnaGxqakJPUWxrQ3oyMlZZdHNiOW52SEkxb2ZqbVc4ODdhWk83Vkh6bm91S2JNNFlMYTRZVUxSQ1NiTldOREg2Q2ZSd0RyRzJLRmM2Y204bVZtUTlwUjlPWXBHbEJUSS1taTVsUFo3eXVrTlRZNG92ZTBLdUVfRmQxdEZSM1M3NzlfUzFZa3lGSFJvNG1wNlFJdTVBUHNlYjdLZzhMM2w0bnROZUNNdWJJ?oc=5",
+   "data": "2026-09-05T23:05:13+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Cabe no Flamengo? Transferência para Turquia falha e Richarlison procura novo clube",
    "link": "https://colunadofla.com/2026/09/cabe-no-flamengo-transferencia-para-turquia-falha-e-richarlison-procura-novo-clube/",
    "data": "2026-09-05T22:40:46+00:00",
@@ -90,20 +266,60 @@
    "resumo": "Atacante deixou claro que não quer mais seguir no Tottenham (ING) e ficou de fora da lista de inscritos na Premier League Richarlison deixou claro que não quer mais jogar pelo Tottenham (ING). Portanto, a janela turca f…"
   },
   {
-   "titulo": "Classificadas! Flamengo elimina Ferroviária e vai à semifinal do Brasileirão Feminino",
-   "link": "https://colunadofla.com/2026/09/classificadas-flamengo-elimina-ferroviaria-e-vai-a-semifinal-do-brasileirao-feminino/",
-   "data": "2026-09-05T21:46:41+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Meninas da Gávea empataram em 2 a 2 com a Ferroviária, no interior de São Paulo, e avançaram com agregado de 3 a 2 O Flamengo está classificado para as semifinais do Brasileirão Feminino. Isso porque, o time carioca e a…"
+   "titulo": "Flamengo despacha Ferroviária e agora enfrenta o São Paulo no Brasileirão Feminino; veja os gols",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwbDJsTDhJMkFQVHVhZTFmYjFqVUVoUGd1VGFFbjVkcERzV0Z5WEtxX05UNWFVQUFvOXZZU210TFdwU083YmxwVkhkQVVzWGU3ek8wOFdRNmZEU3F2WUhDT2ZSbm9PeHc?oc=5",
+   "data": "2026-09-05T22:03:50+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
-   "titulo": "Esposa de Cebolinha nega que problemas de segurança no Rio motivam saída de atacante do Flamengo",
-   "link": "https://colunadofla.com/2026/09/esposa-de-cebolinha-nega-que-problemas-de-seguranca-no-rio-motivam-saida-de-atacante-do-flamengo/",
-   "data": "2026-09-05T21:02:28+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Isa Ranieri negou episódio de insegurança no Rio de Janeiro e reagiu com surpresa à repercussão do caso A esposa de Everton Cebolinha quebrou o silêncio após boatos sobre os motivos da saída do jogador do Flamengo. Port…"
+   "titulo": "Brasileirão Feminino: Fla aguenta pressão com uma a menos, empata com Ferroviária e vai à semi",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmdtQm5VRmMtdkYtbS02WjZlQ3E1OU1qZW9nT0ZxejVlZHNmNDBSTEpCU3B2SFJzOXltRThNUjVUNDNvQ25GZkF3d3NIU09MekFKcXdtUzVkMW1mZzkweEV0WmhZZEVUa1NoamVTcXdpREJTQkcxN0xVWEFaODRzT1lTSjBmeXFTbFFpSkRKYVJ2dXdSN09tencwYUFvMV90UloyMmpSVk1vSTBneFhhRl9GS1doZw?oc=5",
+   "data": "2026-09-05T21:30:17+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ferroviária e Flamengo duelam por vaga na semifinal do Brasileirão Feminino",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WWmR3djZleFcwbE1RcUx3ZEdYcFlQSWw1bFYwYWVMb1dzWnBGNVo5OGNfRkJseUZMNk5xeWVpZ0ZROGxSNUhMRXcyVWUtVWNLRm9mbDBLNUtTaUxndkZRbnh3Z1YtblU?oc=5",
+   "data": "2026-09-05T21:08:03+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Remo x Flamengo ao vivo: onde assistir, horário e escalações pela 26ª rodada do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX25jN01WbTlsckN0ZFhQbDBpVE5WcnhaNGZ1VTUtUEhnMUxLWUVjTzU0V1lCclF5R1RFeDY5d3MtNG9OWFktR09DeXprVVdCTTlDME5VRVdWcVctQkRnY0dVZTZiZGhxSkg3a2hma1NZN1lhMjhSWlN2TE4xek1SUmlHdW1qODFTcElIcGVZVVVUaHNoNVIyN3BnZFotU0NueW5OdzR5X2twb25XaXBwcG80M2VxZzlKZEoxNzdzejlmNmlkOU1LTktKaEZJX0g4ZEh3MEpVQW5qWEx0RXhxSEwzYUY3bVhmeHFRV25n?oc=5",
+   "data": "2026-09-05T20:46:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Aguardado no Flamengo, Plata posta foto em Dubai: 'Quer seguir meus passos'",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWkFmUUI5dXpUNDdMZDBsQTBDS1R4ZWFrbXRsT0IxN2ZlUjN6bWlfaW5RbTZtZFQ3Sk1VQ01ESU91ZjY3SzU1NU5MNjhSSmczMlcxN284SHN3bEsyY3g4QVFGLVJ0eV9DMVJoUmFodXdvLUZxQmJoU1ZpYWFqQ0lJMll3bHdNUXFoMW1GbmZTZWhrbmhyZjNheGZqNjRkODlCanRWWFN2ajBRbFJrY1VQODJBYjB2Wm8yUUgySndhdTZvdU8zRkxPYWhVWFkzczFQdHZBVXlvT2tMdUk?oc=5",
+   "data": "2026-09-05T19:15:08+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Remo x Flamengo: onde assistir, horário e escalações da partida pelo Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM3Q1R3ZTMGFZakoxZUtRV3U0Wk5jaVBQX045b0NiTHNTcUZDR2VucU9rbExPQlFHLWo1ZlJXZEFxUTJlMDZ6YmlGbHNQS0Y5NFVRbHdxVzE3QnNwcGJNdFB6bjdVejFjSzRha3ZEcEttcWJ0RnJla0xENjZfRUJuZnp3ZkFiSU93a1lQSG1jcjlDLW1hRXc4dEdIMG1FZw?oc=5",
+   "data": "2026-09-05T18:08:18+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Após vencer o PSG, Filipe Luís revela torcida por revanche do Flamengo no Mundial: 'Melhor time do mundo'",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNjY0eF9aeXRKTlNvZnNzLTNMN0lsaUtGUkVPclBzNXl3US0wOGR1dkJiY2FRWXd2ZHRJYlhBLXFQRW95MTYwaFZfbEgzd25jWUJFTEJkMERJdjYxc0o1YUgtc2xkTFhteG1FdmRkbUdTN1pOYUJLaTBRRzhqRnlLR0V2T0F0bW5Dd2dvbDMxMERtVE9pOXgyc0JTZXNOS0REOEFtUU5RTk5qVl81RDg2TFZDX253Q0c3UkdaMF94SG5xam02VVhRQ29DT2dTcm5McnZMZkNWT1piWnVmTEE?oc=5",
+   "data": "2026-09-05T17:19:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo tem voltas de Vitão e De la Cruz contra o Remo e relaciona reforços; veja lista",
@@ -122,12 +338,52 @@
    "resumo": "Qual é o time que se interessou pela contratação de Gonzalo Plata? Gonzalo Plata vive um momento de indefinição sobre a sequência na carreira. Neste momento, antes de se reapresentar ao Flamengo após ser reprovado nos e…"
   },
   {
+   "titulo": "Vasco tem interesse em Matheus Gonçalves, ex-Flamengo, por empréstimo",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTVaNGRkMXZPendDbmlYVHVvdlFFdXdDVnFNM1RmT1dMYVNVcFF5cEE1SmRhRGxDaHgwRi1zcnB1LTJ6dG9CVVlocHFQWGVsb3Vsc1NPTDVNVVdMeGtMRWswbVFCTjdrOUprZ2RrbmFseEk0Q3VZa2RBa1lrVE10UHItMlRSM1hDN2ZGVjVGdlVmb0xvQ2o5WVRsZkhEcVVGc3JnWDJB?oc=5",
+   "data": "2026-09-05T16:32:20+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Remo x Flamengo: veja prováveis escalações para jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPXzBtR3Y1SGpLSDV0Tk5tOUtUUXJDYktNTHVlVDhBODAzcXRhbG8wei1UOEtUanpibU14NFdpNEQyQ1h2Q0o1aF80cFd0VC00NGhQTEhIdFNZQzZPUnJDQVZYbWVOY0JIU01CZWd5ZTcxNFB0OElOc3QwbkJqbm9ZR2tMemFQRkYta1VJRnRJQml3eGVwMUNFSDdFdURYb2FPaW4wY0lqcEk3NF9CVW52XzJZM3YtWENIb3JsOGlIWDZCN3l5S09TcHpWdHQzTTcxNVRwOExQdw?oc=5",
+   "data": "2026-09-05T16:26:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo divulga lista de relacionados para jogo contra o Remo",
    "link": "https://colunadofla.com/2026/09/flamengo-divulga-lista-de-relacionados-para-jogo-contra-o-remo/",
    "data": "2026-09-05T16:24:28+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Quais são os jogadores relacionados pelo Flamengo para jogo contra o Remo? O Flamengo inicia neste sábado (06) a maratona que terá ao longo dos últimos dias. Isso porque, após sair do Rio de Janeiro para encarar o Remo…"
+  },
+  {
+   "titulo": "Como fala de Plata sobre proposta em Dubai causa incômodo nos bastidores do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1VTWlVwbXMwMm9NRXNSdEUzcnRhTTVIM1JaS19MTFBPN0dnTzhtOHY4V1RaUWhMdWRYNWs4dUJhSzVoeXY4enB1MmtpVnZUdjJxeXJRNDVTQ0I5UGpXUUVOMG14djJ6ZFZXSUNncmlxbTF4NXl3b2I5SE1ibUxTbE1wSW1aWFNvVUZFR1RlZVloSFFpN09NY3EtX2E2THI1OWZKY3BMZnFsRHZqWFl0MWtYaThicW8?oc=5",
+   "data": "2026-09-05T15:18:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo prepara logística especial para jogo na altitude; confira",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWVDYnhJb3MzeGVES1ZsTS1QMTY0YkZwUUlQcGNKSFZyNzNCd3ZlRUJMMzE1ZVdGVlZZNlpYRFlBbnFRMThza19PMjhpUEt0QzdTT1lIS1lzdVdrLXQ1RTRnZ0d6Wld1QWxSMEFBUTNzMElHMHlqbFdqaHlNTGxlMVBHY1RodTV2WGJLU2dRa3hRZ0ZaNkRNWktEeWxGYmJsWlR6YngzNFBId1NIQndqSm9GYm13c2N1MkhWV29TVTQ1dFg5SkE?oc=5",
+   "data": "2026-09-05T15:12:32+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Escalação do Flamengo: Jardim ganha reforços importantes para duelo com o Remo",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaEk0ZWZ0eW5WTkthc3d6ZG5fblNQXzVRLVRGM0IxX2dZX0kxNTVxeUx4Q3Z4N2tJS3VqUXVRTTV2U0xNZko5dDRDS0syTm14WTdYejQ1SmxScjltc180YTZWUlVEc3h6bGUtek9iR3VpZjIzbVVxcFlna0xZRFR2Q1J1Z2JUQ0R0QXFoM0kwak8zMjdBZ3ZKeXZGbG5CMkpwVlpQMEFsMEg5SnBRLWlNZGtFQUlYZXM?oc=5",
+   "data": "2026-09-05T14:17:36+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Após Pulgar, Flamengo tem Pedro e Léo Pereira como prioridades para próximas renovações de contrato",
@@ -138,28 +394,76 @@
    "resumo": "Reforços, DM e atualizações: Marcello Neves traz bastidores do Flamengo direto do Ninho Depois de resolver a renovação de Pulgar e anunciar dois reforços, o Flamengo deve ter uma reta final de janela de transferências m…"
   },
   {
-   "titulo": "Wallace Yan, ex-Flamengo, viraliza na estreia no Bragantino: 'Misericórdia'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2fwallace-yan-ex-flamengo-viraliza-em-estreia-no-bragantino-misericordia.html&c=4240950816400224429&mkt=pt-br",
-   "data": "2026-09-05T13:20:00+00:00",
+   "titulo": "Ex-Flamengo, Carlinhos faz fila, dribla dois e marca golaço pelo Athletic na Série B; veja vídeo",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT3Q1V0J2WThXOEVBUW56NmZpMldHc1lHMmJrOE44UFpMMTczT1RkVjVlT2R6RHlWQjZ6dnFfMkNENV9xTFN4R3BDXy12cDNVRlhUdXk4TVZadlhGalhWejItSV96b2FQd2IwdnBORERkRU5ETlJSZ18xN24zNVhEY3BvLTBiX1RJNkluQnEwZzJGUS02a25mRDBKanI5cEIyV2p6VHgzOVl3ckdYMzJxT1BYYVMxWFJwaU9oeXFUZ2pKQVEzcUxGNjViZmtoVGx1QUxZLTdKNA?oc=5",
+   "data": "2026-09-05T13:41:30+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "Após deixar o Flamengo na última semana rumo ao RB Bragantino, o atacante Wallace Yan estreou por seu novo clube e gerou repercussão nas redes ..."
+   "resumo": ""
   },
   {
-   "titulo": "Aguardado no Flamengo, Plata posta foto em Dubai: 'Quer seguir meus passos'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fultimas-noticias%2f2026%2f09%2f05%2faguardado-no-flamengo-plata-posta-foto-em-dubai-quer-seguir-meus-passos.ghtm&c=11800091623769142483&mkt=pt-br",
-   "data": "2026-09-05T12:15:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "A novela sobre o futuro de Gonzalo Plata, atacante do Flamengo, ganhou mais um capítulo hoje.Após o fracasso de uma negociação envolvendo o Dínamo Moscou, da Rússia, o jogador era esperado no Rio de J ..."
+   "titulo": "Lesão de Evertton Araújo gera impacto no Flamengo em período decisivo da temporada",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUTZ5ak00eE84SVY3b0p1S1hjOWNZV1FEczJWZHU5aGVsVGstQ1JGa09aR0VsdXZlakcza09NWWJMUWlYNExfeS01ZFNXejdEeWVHWkhpVDdOTkxhZXRoSWtCeUY0bXpFbE1jUWZpNmpEMm5LY0tONmtRdXhOdHVSMHVkQ0xYTWN1OXBpajU4MExHOFEwa2FnS1h5ZUZPWkQtdVFCZklYdUxtNlRNY0R6WXdlMEFlQ1FCczZfeWZ3?oc=5",
+   "data": "2026-09-05T13:05:03+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
-   "titulo": "Filipe Luís faz Monaco ser oposto do Flamengo para ser líder na França",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2fcolunas%2fpvc%2f2026%2f09%2f05%2ffilipe-luis-faz-monaco-ser-oposto-do-flamengo-para-ser-lider-na-franca.htm&c=1222700071987436639&mkt=pt-br",
-   "data": "2026-09-05T12:05:00+00:00",
+   "titulo": "Ferroviária x Flamengo: quem avança à semifinal? Veja no UOL Play",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkVFZGVLcF9xRlFZMHp2N1FvM1NDQ2Q5VmE0MENSaTRDTWNDU3JxcFk1dmlvZ2xDek9jdGpaVV8tOFdJeElqY2J5SHpCdVA3N2RYM3djU3NhRDVmNDF3TFZFMGtWd1k2ODdySndYX3FPaE51MVlSUGV3eWFfNkFJSnIxU0xtT09MeEItU0h3NFJBZWQzUlhiNWtIZVpydG01czlFRzBiRUJfa0xPXzc2T1BZZWU2OTBXNjdoMFF1U2s?oc=5",
+   "data": "2026-09-05T13:00:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": "O Monaco não vence o Campeonato Francês desde 2017, quando tinha Mbappé e o técnico Leonardo Jardim. Quem o devolve à liderança é Filipe Luís. Curioso que o técnico substituído no Flamengo possa devol ..."
+   "resumo": ""
+  },
+  {
+   "titulo": "Bastidores: após ruído com Flamengo, Plata publica foto em Dubai e tem futuro indefinido",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSEhGbnl2UE1lZU91VjBvM3NHVl9oN3VFSEJpVXVzeTViaGJLOUVwWm1aT0xTQmpUZ3A3WmhzSUU1elRrM3hVVXJyN3RfbXA2cU02eXVNUDY0eHJXN3FFUnJPTWVDcExFYWZwQllQSURLRjlVWFR6TmgwQ0xFbFNHNDFZUGxXRzhIMXA1bURtendlMlhmcmdXUTkzSGNPMlVzNmhkQXJoUUNZbmZWRndiaXBVVWRNVHo2Q2Jkekp0Y2pNRDQ?oc=5",
+   "data": "2026-09-05T12:35:02+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo pode tirar Palmeiras da liderança. Informações e palpites do PVC",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHFMeUNma2R4cnRFOVNyQjliS0k4eV9IRGxkTzRXbFM0MVNhai1DSFZRUmtIazFiblQ1VjVlTUZHeHB3MkZPSEpNOHVBZjkyX1dWX09VREJ2Rnh5V182d0ZuMWY0TGlOeEwyd3RTSjc0MXhqajBMODZCTUV0RFM0OUg2OUdwU3FiWk82eVJWQUNQMEZPVXZHclFfZ3J3cGZDN0x6U3NtTl9CV29mWDE2dzloUjBtQ0t3UDdOTVB5OTlCMXlLbjFpSEVB?oc=5",
+   "data": "2026-09-05T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras x Flamengo: os ataques mais eficientes do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNckJsZ1h5RUw2MEFCdVdvZVNWTGN5WC1EQlVXTTVscGNVaUJ6NmF6M3R1ZWJSRlhCeDNMRDBMSERWSEl2XzBaMzNNeG1Nei1KRGxxU3NjNEdIa1JUWHl1SXR3U002cG1UN3ZyX19GTVhOVkZpNmlPR3JzeVVheDhTZUJfLWdXQkkzWmgyMzBBU2dMNm5kYlZkU1ROYUtiWEdGODlXOGJNazBwNDkyM0JkaGpjd3pZRVp1?oc=5",
+   "data": "2026-09-05T10:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Tradição da Ferroviária ameaça vantagem do Flamengo no Brasileirão feminino",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkRVhwd05UV0ZOd1EtdnZlYThLRFVQOFRKU1Z4cVE0Q0ZnOFJoeDEtWmZoNDZVdWlfTDAxbFRBQ1EwbVAzZ3dHVm9CelZkRlZSdU5qQXFNRXNhVTluVHBNc1p5T2t6S1JlVXFRQm9UcmI5eGRFdHk4TmNSRlE?oc=5",
+   "data": "2026-09-05T08:32:49+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Goleiro que salvou o Vasco no Sub-20 é filho de ex-jogador de Fla e Flu",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWWE1QVlXbGhMY1p0X1ptQUlXY0lhRjlBeVE5V0VRLWZYOE1aUmZYcGJROVZERUpFYVVlZXFOc2N6b1VxYi15T1QzbktxcTMzMGlFTEtkeTVKWTh3MzBSdzVaS1V1U25DQXhqTG1XOEJnMW0zdWR2SVpVamMyc2kyVTM1bk1OWUpEdFVIYVFrWjB6a3ZmbF9nTDZRZVpRVHVsMG0yV1o2bUtnTnI1MHdPUXlndmVJVzh2b1dIZ3BzcGRhV1ZkNzFxckFHMURMZkJXd3ktdEV3cVpVT3Jr?oc=5",
+   "data": "2026-09-05T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "'Flamengo não é só 11': Jardim põe elenco à prova em sequência decisiva",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYldOcmlLTjB5elBhUFlTVFBNTWtTaVl5N3VINlFKWDVQX2FBbUJwWmowUnhocTc3bzFoY2dyNnR3UnJETHoxUmd2NXo4bEVISGJjanB2RnNFLWVXR3pQUldWUnNpdkQ3SVFVSG9HTFRHZkMxMXRQaTlNWTZUWWRSWi1Ia0J2N19jY2hmaExhbXVNWlcxaFlBMVpZUnZOR2FwOGFFaFZuQ2JCb0NvZDlfRlc4V3c3bmhIUTlrVVEzRndEQTdQdHQwLWxsRQ?oc=5",
+   "data": "2026-09-05T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Bastidores: entenda por que Pulgar renovou contrato até 2029 e como o Flamengo valorizou o volante",
@@ -186,6 +490,14 @@
    "resumo": "Flamengo diminui para um ponto a vantagem do líder Palmeiras no Brasileirão Definidas as semifinais da Copa do Brasil, o Campeonato Brasileiro está de volta. A 26ª rodada começa neste sábado com três jogos, entre eles o…"
   },
   {
+   "titulo": "Brasileirão tem chances acirradas, mas Flamengo é favorito",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzg1Z2JjNmUtUmEtUFFMQjFva19lQUx6X081Um1Rc3pBMjhUVGFUVVdpb1IyUGh1YTFMRTVRYnpFUkxQLVNScWVRM2FjbUF0MlUzTFlWRmhTQVpmdGx3TktveXdGczBXRHFac2R1VUxCLUtMZ3d4a25jVHFwX2N3T1hKSHFUQzR1cGZTOXZwLWVmeEZHLXdVY29RV1ZOT0Nha0NINU5kRkt2UjhQdUxnOUhLWGM2dw?oc=5",
+   "data": "2026-09-05T07:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Plata posta foto em Dubai após ter venda ao Dínamo Moscou anulada e só volta ao Flamengo domingo",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/04/plata-posta-foto-em-dubai-apos-ter-venda-ao-dinamo-moscou-anulada-e-so-volta-ao-flamengo-domingo.ghtml",
    "data": "2026-09-05T01:33:19+00:00",
@@ -194,28 +506,20 @@
    "resumo": "Dínamo cancela contratações de Plata e Matheus Martins após exames Ainda sem se pronunciar desde a reviravolta que fez o Dínamo Moscou cancelar o negócio com o Flamengo para sua contratação na última terça-feira, Plata…"
   },
   {
-   "titulo": "Flamengo pode tirar Palmeiras da liderança. Informações e palpites do PVC",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2fcolunas%2fpvc%2f2026%2f09%2f05%2fflamengo-pode-tirar-palmeiras-da-lideranca-informacoes-e-palpites-do-pvc.htm&c=1907384745592737861&mkt=pt-br",
-   "data": "2026-09-05T01:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "O Flamengo pode ser líder ao final de uma rodada completa pela primeira vez desde o início do Brasileirão. Para isso, precisa ganhar do Remo no Mangueirão e o Palmeiras não vencer o Botafogo, no Rio d ..."
-  },
-  {
-   "titulo": "'Flamengo não é só 11': Jardim põe elenco à prova em sequência decisiva",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fultimas-noticias%2f2026%2f09%2f05%2fflamengo-jardim-sequencia-decisiva-brasileirao-libertadores.ghtm&c=16151395270830947047&mkt=pt-br",
-   "data": "2026-09-05T01:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "Leonardo Jardim, técnico do Flamengo, terá que colocar o elenco à prova no início de setembro com jogos decisivos pelo Brasileirão e pela Libertadores.O que aconteceuO Rubro-Negro terá cinco jogos em ..."
-  },
-  {
    "titulo": "Plata quebra silêncio após não se reapresentar ao Flamengo na data divulgada pelo clube",
    "link": "https://colunadofla.com/2026/09/plata-quebra-silencio-apos-nao-se-reapresentar-ao-flamengo-na-data-divulgada-pelo-clube/",
    "data": "2026-09-04T23:40:26+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Plata segue em Dubai e deve ser desfalque na Libertadores Após a coletiva de apresentação dos reforços Joaquín Freitas e Antony Valencia, o Flamengo anunciou que Gonzalo Plata estaria de volta ao Brasil nesta sexta-feir…"
+  },
+  {
+   "titulo": "Filipe Luís manda recado ao Flamengo após vitória do Monaco: 'Revanche'",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN25jN1JmeldQS1VyM3VkeTFMLXVpSG5ySkVMTFRRSDNyY2VPMWpiS1hMTEdLNWxBckVDMC0wczIyTHpXR0tiemxHOEhsdXB6Y1k0VVZQekJNLTlqRDVtT1plQ3dnY0FseEpkTVdqMFpQaHd2OTBKN0dhQVQ0UC1VLVlGbEliamxUSHNJUDh1amJDdWNnWUlZR2lWaHJrdDlKc2UybERXaThTMlFfM3doNUx3?oc=5",
+   "data": "2026-09-04T23:30:18+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Favoritismos #26: dicas, palpites e chances no Brasileirão",
@@ -234,6 +538,22 @@
    "resumo": "Remo x Flamengo: informações e palpite para o jogo Consideradas todas as competições, o Flamengo perdeu um dos últimos 12 jogos (8 V, 3 E, 1 D, 75%). Em suas últimas 12 partidas, o Remo tem três vitórias, três empates e…"
   },
   {
+   "titulo": "Gabigol se pronuncia após declarações sobre Cruzeiro e Flamengo e faz pedido à torcida do Santos; assista",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTWJrbjc1YjJ3a1dQOWRsbDhCNzNka1BVaGtEMTB3UmNoSGhwWFFkYXYzNlA2TGl4NzZFbGxsTFIwUHRLQmttaFZVUnFxalJ2Z2gxMXNLNnF0ak1jVXZUUExlZWpSbXR3Rm5CbW1aWEVsNHlqanN4OHk3T2tSUXhlVlcxaTN5VGIxN1NzSnU3S1NHTWRwYVJtclE1OThWY3RWNktMcVc0MTJfMFZHUDFKRERqR0pXUHk5RjEwZEZOcDRPNTc1WUdzZ2tWMlVLY3huUE1fQklZVDAyMkXSAeABQVVfeXFMTkpLNTI3dlZuNVM0OFNmYnZzTk9UUU15TWQwTjVOZjFTejUzWkEydVc1cUJIUTVRTU9jbVRuY1BuOHhSa2Zuek5pWnRqdnR4Y241SzNIV2dTbGhhcU92QnVRTlFXYTdnNWJlNTVIRGFfOE9IZG5iZ2hFc2ZHc2xpRjhEbXpDOEZjVm90Um1yYTJwdjFkeXJqSmJBQnRpMm5jeFR2NEs2ajN3dUJvOTVaME5WSzBQZUdQM1JBamFTaExIam96MEUyNGVDbXItMjZzY0hNMWFsOWNTT2NrdTd1cmQ?oc=5",
+   "data": "2026-09-04T23:24:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ferroviária x Flamengo: onde assistir ao jogo do Brasileirão Feminino",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlktVWRIWXd1d2NoTTRzZ1dHVEN4MjlNZ0lJNTRIOHFDNHpMQVF5QkVPTi0xbGVVZEI4eG5ZSjZQY1c3ZzIzeG1IbjBqZDRoNWdKM053YllWdTI3UnZiRGhUQUJKcVl5RFEtb3d3OWdxUGpBcnpzUldKcG9wcFF2OWJtalJiTWo2OWdPUUlSajlIYzFQR1UtVHoxckNvV1NpZDByeC1HOWcwck5EQkVuQW1B?oc=5",
+   "data": "2026-09-04T23:03:30+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Ex-Flamengo, Matheus França é anunciado por clube de Vini Jr",
    "link": "https://colunadofla.com/2026/09/ex-flamengo-matheus-franca-e-anunciado-por-clube-de-vini-jr/",
    "data": "2026-09-04T23:00:56+00:00",
@@ -242,11 +562,43 @@
    "resumo": "Matheus França vai jogar no Alverca (POR) O meia-atacante Matheus França, revelado pelo Flamengo e com passagem recente pelo Vasco, vai defender o Alverca, de Portugal. O clube português acertou nesta sexta-feira (04) o…"
   },
   {
+   "titulo": "Jornal exalta Filipe Luís e detona escolha de Luis Enrique em PSG 1 x 2 Monaco: 'Levanta muitos questionamentos'",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdFgwNlE3a2VSdDFyUlZxd0QwcTVCMTQwcG5zTkpWVmdZRU9HcTlQakV5UXFUOXhZX3kzQlVqNHJZUjdFdVVFTXdsWHhYNm83bkNtOUtCbXBxZWtfYk1EWll1aFNNMWswWFFZZ3U2VklLd2JlUDE2LXBGLU1jbG1GOFFIV0h2SHRWbC1aZjB2aENsNU8zUUhtTVRxV1J3dHAxSnpJeHIwUUhTQUc4VVhtSF9vVlplT1M4WEI0UHJwMG0tclFoYXVfS20tbVFMeEZJNWwwekNXRE8tTU5Td25JQlRLRTFRQVhwcDVzeXoyQXhIT3k1YTBieHQ3NmtLNU0?oc=5",
+   "data": "2026-09-04T22:36:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Conheça Kaylane, meia do Flamengo que é o futuro da seleção brasileira feminina",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05emxxX3FSX0dFU2tsUWt4ZXRXcExadC1sUVdTbC05Mk0xcjZDSEtRNUhvWjdqMjF2LVdRcTRabWs1dnZ3ZE9ab1FtSnBqUnFYc3k1VWozTlNTcW1wa0EwNkJDMDFSLUk?oc=5",
+   "data": "2026-09-04T22:13:08+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Marquinhos marca, mas Monaco de Filipe Luís vira sobre o PSG e segue imbatível no Francês; veja como foi",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HYlNNakdZeF9OcjRzSU5wdjBOZVVkeHVDUFpJcHk1dk03YmNIZ3p5TmY2c3gyVmp1M1dVaEpYQTNSbzRxZVhnQmJkVVNqbWMyQThJbjFGa0E0N1d1Umc?oc=5",
+   "data": "2026-09-04T22:02:34+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "NFL lança linha de produtos em parceria com o Flamengo",
    "link": "https://ge.globo.com/futebol-americano/nfl/noticia/2026/09/04/nfl-lanca-linha-de-produtos-em-parceria-com-o-flamengo.ghtml",
    "data": "2026-09-04T21:48:30+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
+   "resumo": ""
+  },
+  {
+   "titulo": "Torcida do Flamengo reage à vitória do Monaco, de Filipe Luís, sobre o PSG",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkUzNDFKZ2JtTVF2Sk8xNjdLb3lvbG5hU0xVTzJSTk1qOGhtMzJfRjN0OHlaeDJEcnNDUUVlSklPTVVtLVFFWWR6RzNEdVJEME5FTUNLQW01YTFsM2JoYm9WMzZ4bEswX0s5aWZPOFVUazRHSjhBQXp5d3VHX1RPa19IUEJFekJ0TVQzcWwyQy16dEx2bjk1RS1HLVFRZVY5d3V1dUJlRzZXS2ZFNUY3YVV5NVVWSU0?oc=5",
+   "data": "2026-09-04T21:48:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -258,12 +610,20 @@
    "resumo": "Filipe Luís é apresentado no Monaco e arrisca palavras em francês O Monaco, comandado por Filipe Luís, venceu o Paris Saint-Germain de virada por 2 a 1 nesta sexta-feira, em Paris, pela terceira rodada do Campeonato Fra…"
   },
   {
-   "titulo": "Flamengo é levemente favorito em relação ao Palmeiras, segundo a UFMG",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2ffutebol-nacional%2fbrasileirao-se-encaminha-ao-terco-final-com-probabilidades-acirradas.html&c=3554883450723109298&mkt=pt-br",
-   "data": "2026-09-04T21:01:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "Se o Brasileirão fosse uma trilogia, a última parte começaria neste sábado (5), com o início da 26ª rodada. Confira chances e outros detalhes!"
+   "titulo": "Na 'revanche' de Filipe Luís, Monaco vence PSG de virada e segue 100% no Campeonato Francês",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZUNVTDUwRnMyV0JRc2pjSE4tMGZNU0hfc1hxdzdjOHJoR3F2WlMtRXdhUmFwd3RLUGdmb0NnN3dlWURZTzFlVTFvLTBQSnhrVlVPd05aVWJuVVRRYUp5NTBaMFVEX2Y0a3Y0ZHBabWRSVGFWNi1vQWx5elNLNHFqWXVBRS1GVU9adl8zbUhRNGduWUk5NUJkSldjSXdJY2FWaEZGUVMzd1dKbHd2RlVITUdMYmRJT1REdjFLYjNLOUoxOWt3YWJJaUhSVFl4Zw?oc=5",
+   "data": "2026-09-04T21:03:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Bruno Lima: Gabigol pede desculpas ao Santos após polêmica com Flamengo e Cruzeiro",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlotWGMwTjktYjNiNHdpajRaYkg0S2NGUG5IaGxWNkFrRGxHSmlwbGU0R19qQkJITFEzYTl4ODhiTlhydjNTVkVfbjVwTC1UYmdyMUF6LXRYckhyX29WRGp4QXROcWtXdXMxT2J6dEExb0dyRURvYzRVMEFJbHQ5NktOdWNaZ1ZlY2VEXy1Ea2tLdmwtaWRqcG9NT0dOSldaR1JId3o3NGZILUU4NHB1NlROdXVFXzdJNGoxQ0hoczdRR1daMUExRHAxN01RcTkzNHc?oc=5",
+   "data": "2026-09-04T20:47:29+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Forlán anuncia primeira pré-lista no Uruguai, com Barboza e outros oito do futebol brasileiro",
@@ -274,6 +634,22 @@
    "resumo": "Confira como foi a eliminação do Uruguai! O técnico Diego Forlán anunciou nesta sexta-feira sua primeira pré-lista no comando do Uruguai. O ex-jogador divulgou uma relação com 46 pré-convocados para a próxima Data Fifa,…"
   },
   {
+   "titulo": "Retorno de Plata ao Flamengo sofre alteração; veja cronograma",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDllSEVfeWZUUzhGUlNFMjVZUlhBREJwTG5zX0tXVWN0TmhkbEl2UHpSSUN3NlUtd29TU2dDRXU0Ym8yOUcwLUdUUVgtVWJHcjBTZzkzY3Q5Q1NTbW1QY3c0b1FzN05WN0NBY0RQOGxDbHprYXNiazh6SUxiejc0YzF6YTM4VnpQbnZkOGRuRnFyM3R2MEx2dEloYmZEN1dV?oc=5",
+   "data": "2026-09-04T19:57:46+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Clube português contrata Matheus França, ex-Flamengo e Vasco, por empréstimo",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUlGRTVOR20wYkJuWlBEUTF5YXZfWndHckM2VTVzZEdSdnQ0X0VKMkZ5Rk9QRkVHV3pGOEo5N2JXTmpVSURVamozWjd6R0kzQmY0V2pLVFVscks4VHVTYlo1UzZZVmlfV1dQa3NQM2JGV2FWWXhRR2xBRnFBV1pSTmd0Y3ZKM3h0RFFFNGJheVVpc0RXakJHYUJqN0d4alZzQ3ZmOHI1SDJwc1dSMFVRRHJ2V2ZKRDJpbUNQd2tWTjRHampwNkpCRlliSWJrVXJQNWpr?oc=5",
+   "data": "2026-09-04T19:26:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "QFC e Flamengo promovem avaliação técnica na Grande Natal",
    "link": "https://ge.globo.com/rn/noticia/2026/09/04/qfc-e-flamengo-promovem-avaliacao-tecnica-na-grande-natal.ghtml",
    "data": "2026-09-04T18:07:18+00:00",
@@ -282,12 +658,92 @@
    "resumo": "QFC realiza captação em parceria com o Flamengo Daniel Santos O QFC SAF e o Flamengo realizam entre os dias 11 e 13 de setembro uma avaliação técnica de futebol, no Complexo Esportivo Francisco Ribeiro \"Ninho das Águias…"
   },
   {
-   "titulo": "Flamengo e São Paulo nas semifinais do Brasileirão das mulheres",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fcolunas%2fjuca-kfouri%2f2026%2f09%2f05%2fflamengo-e-sao-paulo-nas-semifinais-do-brasileirao-das-mulheres.htm&c=18009425202326232582&mkt=pt-br",
-   "data": "2026-09-04T17:00:00+00:00",
+   "titulo": "Remo x Flamengo: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVXZfTmhiTkllSUQ4YV9BM3N1S0NJLV9haVdINjB1NFozc25NT1pJbW5haGR4MEpiaGJWQjBNMk5odXdJRThJV0lPNEFZcUg5bW9vN25mRnI3SUlEZzF3VHB6WnYweVFWTnRyWjJxYmRYeFJvTk13WFI2ME9LS3h2QktTaHlRWWJxb0I2WDFaTDRDQTFhTGxLOE5RNk9zVzNtNjN2T2dNVkk5VjYxZngwZjZWUGk2M0tzX0pScW8yaG40Z2pBVy1ZQkcxQXI3TElIdEhqY1lPc1lzQmE3MVNxM3BfdHc1RVJJVEl4Zw?oc=5",
+   "data": "2026-09-04T18:07:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Gabigol se explica após polêmicas com Flamengo e Cruzeiro em entrevista: 'Em nenhum momento quis desrespeitar o Santos'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3aXE2dzAycC1XNmdsVUZDYjRha0hhYkxvbmlWR0xhT3BLQnJHdl9uaUNGX3l4X3ZvaVhSVzZLb2NmUGdhejYtbW8xVVBGa3VyaVdhQWVIWF9ka2F1OGc?oc=5",
+   "data": "2026-09-04T17:49:41+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Como Flamengo lida com situação física de Plata após atacante ser vetado no Dínamo Moscou",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTFZZVVJSRnZ0LVkwbk4yX0V3LXFnSXdYcmNkSXNUR0dTX19ieXZOWm96Xy04VnBtWjA5Z1BUanJManAyVkR0Z2xpbF9QUzkwYlpuMkh6MzZOWHpTd1lrOGxPbzhtNDhVUUVreFpNSUtKbVpDTU9CdmFiZ2VMNmxMUjVJVVFNcVc2cHZRRnN1V1RXTVMzLUM0Wlo3V0hOTW1ELUp5NVItSjU4dHhvNERsR19ldVNWRkpRZkRfb1hWb0EyZDNBT1pCXzhhY2ZiR1lkX1lIWTBIeXdjVjZQaVE?oc=5",
+   "data": "2026-09-04T17:47:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vídeo: Gabigol se desculpa com torcida do Santos após declarações sobre Flamengo e Cruzeiro",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeDJQSmVHSWJ6RVJaZHl5ZlVQcm1HMU5rMHNNZEY2MHZCNno3dWNxa0xQbUlmalpKUGhwN3gzN3EtYzFkNEQ1MWpVanlKY3hzcXBuUnNYSDhJM3lMWm5DaFB6RUx2Z0FyMzdvdFJiX0w1cXVUZHZKa0xuNS1ZdmxmQk9QLUtSQzVvUHEzTml3Z1VtbkRaXzNYWUFLb3pLV2FfRVpxRGhjSkItSXd0cGJaNE84WlkxMzZ2VzQ5WE9GV0xNbnJZcE9tLTN0TGdXTkhF?oc=5",
+   "data": "2026-09-04T17:38:29+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo atualiza boletim médico de Pulgar",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFUycHdmdUdxY29oYVdWcHlNTGgxd3pYYWtlajJZempKVFBDZ042M1poWU90OFJUYkxHTHRBc1JfTkZEYmJRMHMwY1o5RFB0UlYxemVDNWtSaUFYUW41dHVLS2NOUldoOHlpbklROFUzM3Bvbk1pbTNJaEM3M0YwZ3hVT3RwanA2OUxSbEs2ZjNrQ2dxWHhpYzR1Wmw2WnV0YVoyT2NnRTFqWjdmQjdmQVF1NWk?oc=5",
+   "data": "2026-09-04T17:00:09+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Voltar ao Flamengo? Gabigol se manifesta pela 1ª vez após entrevista polêmica: 'Em nenhum momento...'",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSm1FdFE5eHVBVlpCYm9CdlFHUWFmSm1ZS3dTNVNmQzVldXdjMVg4MXZGdWZpUzgybjQyUEZ1VXlFdm1YZUFIMUViczNZc1FkaGxkZ002bUN3Z29mbnJpQVdoWWRveFhsTTBrY25fLUY4bi1Tbko2N09CSmFhdVVsck1Jb1NoLURqdWtVSHFyc1VtV1JyQlZ0TDYxRkpCeW5nTnlDNUpnQVRUd0Zpcy1hSWNUM0F1bnhUWlBMdmFYQ0VIcjkzZHhjSXdQX2R3eVhvY2VEM0RiX2doQVNnek9KQUlyM0c?oc=5",
+   "data": "2026-09-04T16:59:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo apresenta reforços, e Boto usa Pulgar como exemplo: 'Chegou como bagre'",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR1hVa1N5V0otc1lidEhxdThlWUtQUWxBR2hCZ3Z6QURiNkNLMktZVVpTc29zY0NsN3REZ3lmM2ppdmt3ZjlSR0dITzB2Yjd5ZUlWRFo3TmpBQ3VCc0dxcWlEOElFMk8zVndaR1ZQNkI2cDNyUHNYcDdOSDY3Z1czbmRWZzR3NzBLeVVDZVp0TW41VFJ4SVpxb3Q5OV83QWlqYTktV3FkZXUzZXZDeGFpVENhNVI0Nmx4b2hVNWRmVUtGcUFKTlJOYVZQRVQ5QjUxYXdzX3piQWVQeGtsZ2ZUbw?oc=5",
+   "data": "2026-09-04T16:55:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": "Rubro-negras e tricolores sofreram em Araraquara e em Campinas, mas o Flamengo sustentou o 2 a 2 do primeiro tempo diante da Ferroviária, na Fonte Luminosa, com uma jogadora a menos desde os três minu ..."
+   "resumo": ""
+  },
+  {
+   "titulo": "Plata chega ao Rio nesta sexta; Flamengo explica caso",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQenlBMEtYeDhlbkx3SjhjQzgtdHJTVHNsNEJ2WE8wRW1IcjZDNXU2emR5M2xIM3FvX1U5d1N4UjViZ2daajFMOVJOWmo0M3NleXNZTHF6VGJfOW9lYVBzUTZVa2xXWXhQT3lFc1ZZZVpUSm9KMndLRU5EUVlqTUp4WmFocFFRM3pHMm9Mbw?oc=5",
+   "data": "2026-09-04T16:53:50+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Boto explica porque Flamengo não contratou Almada e cita ex-dirigente: 'Se tivéssemos 50% da irresponsabilidade de alguns clubes...'",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbjNuNmE2UHlfanVheFlfaFlrMjQxWmQxa2FiREFtZ2picWFFNTRaYjFic2w2VVRaVWtLdFVzY09zU29VeEt5WFhHYThjOFdnZGJ0T1NfRkhfaVloUXIwYU5FaGZrTHU1clF3bmlXUXhNcFo2cU5fc1FnUkd5WUZCRWpoOHQ1dV9ZaWtCZ25oNm1JX2laNkxFam1CTjZhQ2tEc0VqaDdRME5CZDhYN08tZVk0WWVTQnU4ZGx1VVpLRkpsZnNROWk0SThTdE5ia3lwYWtyOGIyN3BtTEd1WE9UTmREX2lnUEI1ckpHbE9tUGpUMTBHTDAwTERGeVB3d3BnVTYwaFZKRjlJa00?oc=5",
+   "data": "2026-09-04T16:22:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Boto pede paciência a novos reforços do Flamengo e cita Pulgar como exemplo: 'Chegou como um bagre'",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMEt6WkxIYWVTTHBDWFpnUWVkUjBtQ2dPMUVKWV83ODVhNmNlbHl2R0ItS3M4ajAydDRHVFNBYzJIME5YOEExNzZvMEptWWFWaXIwWU9iOTNHdzZsMlAzaV9QaTZfQmV4SmZLLU1LaWF0enpOUlhRelRyOEJHUnRWelM1TmtTVm80SkZwQWwwZ1IwS0FwVzd3MzRUZXdlLTNjRWlfWlpxei1Zakltb0ZVeFlKOEZPQjBGMl9qM0RfOURrZWQzclJYdjIyZHZhSl8yR3lUT3U4ZnVlQVdkSzd2ZkpHemluZw?oc=5",
+   "data": "2026-09-04T15:52:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Caso Plata: entenda o que alegou clube russo e veja explicação do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWm9JUEVNRVg4d2RxWDFqWngxUnJxTFdIWmJVQ1pXenJ6d09YSW1Hb1A3dlZ2ejNOUTBVUnRkZEtjTTBCRWtNU2pVWG9SNGZ4M2lTVkMxbU0yZG9Jb01rMTlCWElLS1dDMXE3aFJyUngzWWRXZ2RMb21rV2M2ODZHSDZ2c2htV3FjV1E4YkFRUGVLcmdVU2E4MmQ4VHQ4dnAyTG5nTGZveW11b056VGlSREh3?oc=5",
+   "data": "2026-09-04T15:43:35+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Escalação do Flamengo: Jardim terá reforços, Pulgar e duas novidades em viagem casada para Belém e Quito",
@@ -322,6 +778,22 @@
    "resumo": "Novo reforço do Flamengo, Joaquín Freitas, de 19 anos, foi apresentado oficialmente pelo clube em entrevista coletiva ao lado de Anthony Valencia, nesta sexta-feira, no Ninho do Urubu. O jovem comemorou a oportunidade d…"
   },
   {
+   "titulo": "De volta ao Flamengo: saiba quando Plata chega ao Rio",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjVPcW5rSGNITGttWlhXQ3ZtTEZoOV9hdDVqNUFoc2xqTFpyeW1BRE1lVmxxbHBlY3MxTDBUXzBVNUk0MkdxZThMZS1kWUJnTXNJc3NtaGk4MUJaSGhpTkRBYVlFR2x6VGFmeWVZU0N4WVowV0x6RzJ5QTV0ZXJZUWROWUJJQUQ5cndXd0p1TUdtRVY4VXd5QWZiaXZ6cTA4QUZyZTBLY1FvWlAyLTU0bU85aFlVUQ?oc=5",
+   "data": "2026-09-04T14:54:34+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Joaquín Freitas comenta decisão de jogar no Flamengo: 'Muito difícil'",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcVREUXNWZnRaLXVYeVJQSVRJRi1ubTNLMDRzcVFJZ19WTkMtZEtZZGR3Um9DRDFJUzlfZHI2dDc4V2NLd0c1dWV2TGR2SHZuOHd5RVN6SUkxd01aaHZ6eElIY3ZuNWxzT29VUEs2b1VFWGVNWE1lUURPNGw0QWpUX0FST1NwSUhLT2tTYk5IMVJYdTI3SjlpYzBOSUZXQ1pUUnBVNlZPU00?oc=5",
+   "data": "2026-09-04T14:54:29+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Boto pede paciência a reforços do Flamengo e dá exemplo: \"Pulgar chegou como bagre\"",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/04/boto-pede-paciencia-a-reforcos-do-flamengo-e-da-exemplo-pulgar-chegou-como-bagre.ghtml",
    "data": "2026-09-04T14:51:45+00:00",
@@ -338,12 +810,84 @@
    "resumo": ""
   },
   {
-   "titulo": "Filipe Luís manda recado ao Flamengo após vitória do Monaco: 'Revanche'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2ffilipe-luis-manda-recado-ao-flamengo-apos-vitoria-do-monaco-revanche.html&c=13481640308995892014&mkt=pt-br",
-   "data": "2026-09-04T13:30:00+00:00",
+   "titulo": "Ex-Corinthians e Flamengo, Elias é contratado pela ESPN: \"Vai ser divertido\"",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQemZ6Qmt4ZUE5S0JNdl9DOVhBLUJURjJoQkk4ZlRhVkhKT0V0RHdzS0c0YWgzc1UtazJoMTZvV1NWQ0VNQk9tazFoSE5LNjFEeW0wQXJqYXczbENXd3pIdm52R3R2VWpneFFHOFhEODloRDJmSnhpOWlKUFBaRGcxZm13WnV4R2RLNU5zUzFWZWI2NUpTWXRvRzY1cTRSMGVPV0dpTWVzNW1YSXFVbmhqSVpIbWQyODBvNFd1Qzc5UjVybW4xdkdkNmFweVlGd9IB0wFBVV95cUxNeG80ZFl0T2FsM3NZQ3VxRDA2dTBEcFFPN2FLYzE0Y1NwbnY3MzUyVnBHTjdVSnVMM0VPQURlM2NJUTJYejdWM0NCLVhiMExJYmVPLThfUVhzOS0wdTlfRFZfbGFJbDNLdWtQS1BFeHhrb0RScE92UG1IOWhsX0U0YkdyMzdsTnlsOUJNM1ZBUFBkLXRGY2JCZW04R1owMXo1amd4ZS03a0psakRTbnI2S0FRQmRZMWhSUndIS2Z3b0lNZnpmUGlsQUx3bHhwZERlLS1J?oc=5",
+   "data": "2026-09-04T14:35:08+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "AO VIVO: acompanhe as apresentações de Anthony Valencia e Joaquín Freitas no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS0dXbG1KQldJcFRmVi1oTnQ3REYteXBXeTJtWTByc0JkNjRaU2xDSFBHS3RiSnF5SS0xVnJzdGVYUnpWNTJDMVVLQTF3YmpKOGVmSUQwanR6eFZzUDBRSGl2M01FdFVpUFlHUXhRc05CbjljcG04MEdsSmozbXZmeFBsY3lwMEFfNWNGdlN1UWhpSUphOWdxUWpmNTlIUmJIX0U5b3VjV2lGbUd6bFhtNGYyZW1HWWxGSzJJZnp5ZU0?oc=5",
+   "data": "2026-09-04T14:31:42+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "Filipe Luís manda recado à torcida do Flamengo após vitória do Monaco sobre o PSG e relembra carinho pelo clube carioca."
+   "resumo": ""
+  },
+  {
+   "titulo": "Dínamo rebate Flamengo e Botafogo por negociações com Plata e Matheus Martins: 'Também nos consideramos vítimas'",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObzJaMnAzbE9iRHdfdnBmWGFuZlVpdl85cGZ2RFVJRUdCLXpoNlhMWm1zTGthdVZJWkVveGVYaXNRdGpxLVhJZ0tic0U1eklyUnR4eVBwTTNxeGh4R3huVlB3bFJ6UmJuTFJXZmRxOW1KU0tUTlRla3paYmtnT0VxN2FEdDJmNXNvOHdocXNYbGNhTmFtTFFkVm5iSGZkOUo4SGpGdVBnWWZwaV9xMk5Sd3FvVTFPalVwSGtUbzVQUldIcjN2VmpJUXhnYXZwaE5YRTF6NkFRamJaM2o2S2J3aW5Od1NDdkh1TUJJc1VkYnVuWDhKRjNVUkdMNXR5Zw?oc=5",
+   "data": "2026-09-04T13:41:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ex-River 'se derrete' por novo reforço do Flamengo e revela semelhanças com Julián Álvarez: 'Tem o mesmo...'",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUlhpTFdLclhEMTFCanVlSWxmb2dzbGJ3ODg5WFRHaUxwU2RNM1dPTEhsVlhEb3dvLWxpbXJtbWFVdWRPeVo3TTBmQ3JSeXBnNlVrX2tDRi0yTkItQzVtLTZEWkxCRXNPdEx4andmZVFsZi1pYzN3bWhFNF9BeVhPYnVud0lkUTF3S25hNVJBUmQzUVkxRndMUTlTYlp5dEZ3MExiNzY4cEJvSVRYU0NVbThybmN1aTJKb1B4MVVRVzNjMnh1dU9ibWkyejQ4ODFLcXdpVTdnUWVFejJtVDhyQjBiRQ?oc=5",
+   "data": "2026-09-04T13:37:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo está jogando mais bola que o Palmeiras, diz Mattos: 'É uma ameaça'",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd2czQzJYYkE5djk1QTBoaEttbkRRUEUxOVZMaU5tcnFnQVJWQTZ0eWpwQUo1QTJGVEJEUGxPV29adG1TSlZ4VFhhclJaM3g2RnhOSnQ4OG4zUURLNEVoMWFjZzZuTFhxV1JOdHFtMnNEUHBuVnFWT3NYdURlQ1RnZHJrUzd5M2dYRlNiZFU0cWZINFk2WkNvUVdXWFdUYVhZZUNJdU5tRGVIMjVjbkpOblZ6TmgzamVHaVZMZFYwOUtiWk81bExrNnFYX2c2TVpoN2UxMWJ4alBLaG8?oc=5",
+   "data": "2026-09-04T13:34:37+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo tomar liderança do Palmeiras não surpreenderia, diz Lavieri",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMVJCN1JLWFJWVjhyeDM5NGVod1hiZENEUWY0aWh2TXRGNV9LcVIxRTdVTmYxZ0FSeHBpLV9qT0VTb2NBbzNIWlBhUkMweGJWWVpQdHVzbzFHOWJIOHMybWRoeC0xaWhiUVNIanc4bmJCQTd5aG9yY3hha0pzQ3JTTThGMnVWUkFucFBtb2xXT3J5RVlKMEdCZXo4T0NkX3RfYmNIZDdDTklKZUFFRlVkcUE5akd4WWZpWWtSRDZhUGNkelYwcm80WHFYc0pRNzZQUTIwMVFB?oc=5",
+   "data": "2026-09-04T13:11:52+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Benja detona Gabigol após fala sobre Flamengo: 'Arrogante'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVdCOWZpbE0tTFU5VktCU0dETDRpbWdDdllBX2JUU1drTDBYdHZHTDRjd3E5bHVVRW5DVFJDYzNoa0k0RDkzdGpRamV3UkVVOFlPQWxEeXJhak1KRFV3TndDVlN1ZlM4OXhfQmpLWGxxQ09rQTlYaEI0Nm1TcERub2c4NlkxeXdFR2V5c2dkMWhzVEh5Q090NnVfeDlyVWlw?oc=5",
+   "data": "2026-09-04T12:37:47+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Mais caro do Brasil, Paquetá multifunções vira 12º jogador no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnN1eHJfNmc1b3FJNVdCaWx2NHNYeTdjX016S0RGRnBvM2F4Mm5pQVlpYW9oLWtJTnM5ZWR0VUtRWmtqS2l2S1NLbzRKOWQyLVZ0UVNVay1FLTJIREFIUlZzUVk1dTM1UEVLcUFaSE90eW5JbUVPcHZ0eGRBa1ViVTk2clltRTdIRlB6SkxNdjhSRzZzeXhFY29pWWRyNEd1TWRYbzA2SHc5dzgzNkpqLVZpVTY2MlVURU1j?oc=5",
+   "data": "2026-09-04T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Mattos: Quanto Flamengo precisa vender em jogador para compensar caso Plata",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOREgzbmtHMzB5U1Y1UzdITlVyaXdNMzRuMW9VcjdSd0pEVDcwWm1WNnBFSno5V053WmtSYjBKVWVIX1h3NnlBWVlkOGIwblB2RlFaWVY5VDFiTnZuNkxfbHFJWjhyMUZPZnNSNEdqZF9YNnBfUmFETzVDNWV3aGJZa29NNXBWc3RyZTNtTEtMeG01Zk9vZ3UzbVc4WVQ0eXZKbzRCbWhmczlmUGFRbXVjQ05PcXZMRXR1Y3RmcTU2NFlOdnJPQWYwTERIdW80R2FobWNtQ0pZaXhoQzRl?oc=5",
+   "data": "2026-09-04T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Luis Enrique tem reencontro com Filipe Luís nesta sexta",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEp1TEpvWU96Yjl3bmlpcVhraE9nUUE0RHRHaG9HZmwxbkFzU3g5WHFXWWJNczM5RTctRlFUdko4UUR1WXZ5OWk5V1E2VnpXR2NmMWhhS3BrZ2tMalotYjhFZnd6R012cE85S1lmLTFzWk84THZ4TlRlaldYN2thZHl3THZyUjRiZ010M3E0SWxnSjYwWk41WlIyb09vVnUycU5HMndadl95OU0?oc=5",
+   "data": "2026-09-04T12:18:01+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Rival do Flamengo, Del Valle vende destaque do ataque para a Premier League antes das quartas",
@@ -354,36 +898,28 @@
    "resumo": "Voz do Setorista: por que o Del Valle, adversário do Flamengo, é o \"Matador de Gigantes\"? O Independiente del Valle perdeu uma de suas principais promessas ofensivas às vésperas do confronto com o Flamengo pelas quartas…"
   },
   {
-   "titulo": "Torcida do Flamengo reage à vitória do Monaco, de Filipe Luís, sobre o PSG",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2ftorcida-do-flamengo-reage-a-vitoria-do-monaco-de-filipe-luis-sobre-o-psg.html&c=12662341636792621143&mkt=pt-br",
-   "data": "2026-09-04T11:48:00+00:00",
+   "titulo": "Zinho critica atitude de titular do Flamengo: 'Desnecessário'",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDFPYXJ5eWtQb2o3dU9rWlRmYXdVZjcxbmoyYWs5bEc1alBLeFRWUlIzWlZXbDlSdGFPck53dHdNX2RtVlBERHVmUGtycU9nRWFhM2dtSzFhRmdDZ2hQNDNwYURJY29fQ1gwYzJkNUR4Y1BkNmN4TVhVY09CcG1iSFcwT3hPVnVlYU1iZGxmRDRpV3pqcWF4bzh0OFdMdVNxRFMxYw?oc=5",
+   "data": "2026-09-04T11:10:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "O Monaco venceu o Paris Saint-Germain, e a marca atingida por Filipe Luís repercutiu entre os torcedores do Flamengo nas redes ..."
+   "resumo": ""
   },
   {
-   "titulo": "Remo x Flamengo: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fbrasileirao%2fartigo%2f_%2fid%2f17209388%2fremo-x-flamengo-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao&c=14676237122305371693&mkt=pt-br",
-   "data": "2026-09-04T11:07:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "O Flamengo vai a Belém do Pará neste domingo (6) para enfrentar o Remo, pela 26ª rodada do Brasileirão. O jogo, que antecede o duelo de ida das quartas de final da CONMEBOL Libertadores, será disputad ..."
+   "titulo": "Monaco à la Flamengo? Filipe Luís terá teste de identidade contra o PSG",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYml2ZllVbjB6RkJFZ09FT3BGRk9EcS1qeVYtZ21HSDRiLWNvWnZldDY5UXQtaWd2X045YldhdGRNYUdPOWlVOGVNbC04N0V3dzdXVUpQY3RpN0xnV2lheHBNeTJydTIwMHdWZXFOM2JDV3JaaFVSeTlyWnZaMEF4bklnM0MzTmJ1S0E0TnNfUUUwWmh3aDlFWWc5RUZYT1AxbUJaM2M5bzRlOEtGM3J0X1dTYVBFVHllaXM1LVFWMA?oc=5",
+   "data": "2026-09-04T11:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
-   "titulo": "Flamengo apresenta reforços, e Boto usa Pulgar como exemplo: 'Chegou como bagre'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2fultimas-noticias%2fagencia%2f2026%2f09%2f04%2fflamengo-apresenta-reforcos-e-boto-usa-pulgar-como-exemplo-chegou-como-bagre.htm&c=520255212091292102&mkt=pt-br",
-   "data": "2026-09-04T09:55:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "O Flamengo apresentou oficialmente os atacantes Anthony Valencia e Joaquín Freitas nesta sexta-feira, no Ninho do Urubu. Durante a cerimônia, o diretor de futebol José Boto aproveitou a renovação de E ..."
-  },
-  {
-   "titulo": "Boto explica porque Flamengo não contratou Almada e cita ex-dirigente: 'Se tivéssemos 50% da irresponsabilidade de alguns clubes...'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fflamengo%2fartigo%2f_%2fid%2f17209042%2fboto-explica-porque-flamengo-nao-contratou-almada-cita-ex-dirigente-se-tivessemos-50-irresponsabilidade-alguns-clubes&c=1442830469358222359&mkt=pt-br",
-   "data": "2026-09-04T09:22:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Antes de apresentar seus mais novos reforços, Anthony Valencia e Joaquín Freitas, José Boto explicou, nesta sexta-feira (4), os últimos movimentos do Flamengo na janela de transferências. Na sala de i ..."
+   "titulo": "Tironi no Lance!: tensão no Palmeiras, leveza no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWVhOGxjNG13SmZfMVBpYllaSHlFMXkxN3lxb0MzM0RGV18teHpvOEJZN2FPMlI0amIyVjNGdXR5eG5fdFRJVWUzOHBzUnJuM1RyRVJDTXc1WTJVaVFIR1NvenFkTF82blVXcjJENlk0VnN5Q3RTaVdJcXlYRXlsTWVDOFIyNzNnN18tS082ZXBpRHRxOHJaTGdQY3ZKR2VLTldz?oc=5",
+   "data": "2026-09-04T11:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Paquetá bate meta pessoal de gols em retorno ao Flamengo e mira temporada mais artilheira pelo clube",
@@ -394,36 +930,20 @@
    "resumo": "Flamengo 2 x 0 Mirassol | Melhores momentos | 4ª rodada | Brasileirão 2026 Lucas Paquetá é a contratação mais cara da história do futebol brasileiro. A cada minuto em campo, ele tenta mostrar que o Flamengo fez bem em f…"
   },
   {
-   "titulo": "Boto pede paciência a novos reforços do Flamengo e cita Pulgar como exemplo: 'Chegou como um bagre'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fflamengo%2fartigo%2f_%2fid%2f17208929%2fboto-pede-paciencia-novos-reforcos-flamengo-cita-pulgar-como-exemplo-chegou-como-um-bagre&c=3485371335484621725&mkt=pt-br",
-   "data": "2026-09-04T08:52:00+00:00",
+   "titulo": "Fla tenta fim de jejum em meio a queda de braço de Bap com futebol feminino",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDNDSzVucjFrSm5lR1pCVlY3NzFjUE1kRW1IRXd0Ync3UUZyUExGVU5RczFfREg2Zy1rZGN6UGJONGJtaGp3cnRlMEtqcVkzZHY3emhJUHdvSncteDJlVFdLUDhaXzlxNzRTTkFuNVM4VXpNQm9SbkNwODQzckRUT3Iwbm0xemNacm5MRDRGZjdJak1Na2xVUFBrMFE2Q3FDRjJz?oc=5",
+   "data": "2026-09-04T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "O elogio de Luis Enrique a Filipe Luís e Flamengo que 'previu' caminho do técnico, agora rival do PSG, na Europa",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc1hzVC1ESEEtNF90U05HTzFyRll5U0t6WnZYd2ZNOU05YllBRF9RN0xqd3Q0Sk8ybXpQV0ZFc21KcUhYYTY5bjRmRlN1UEo4UXpMbndXcGF3b2xTRmEwQlRER2RPOG1BSWxka0VhZzc2ZWZaNG9FNFBrV2pnQktxclp2UXpLQkdseVlOcXJmUGw2c0YwMTg3QXQyOGV5UER3SnhXUVBad28yZ3drRkN6NEJjb0U1QjNHOUIyVVY1MUxLZ0ZBSTlwTnR5U001QzREMG1ya2J6Vjh6OXEyT2JUOEFVcUJUbGRzUVZrSnZRSXNBUQ?oc=5",
+   "data": "2026-09-04T06:00:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": "Além de apresentar Anthony Valencia e Joaquín Freitas, seus mais novos dois reforços, o Flamengo aproveitou a sexta-feira no Ninho do Urubu para celebrar a renovação de contrato de Erick Pulgar. O vol ..."
-  },
-  {
-   "titulo": "Dínamo rebate Flamengo e Botafogo por negociações com Plata e Matheus Martins: 'Também nos consideramos vítimas'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fartigo%2f_%2fid%2f17208055%2fdinamo-moscou-rebate-flamengo-e-botafogo-por-negociacoes-com-plata-e-matheus-martins-tambem-nos-consideramos-vitimas&c=15921857347322341469&mkt=pt-br",
-   "data": "2026-09-04T06:41:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "As negociações frustradas de Gonzalo Plata, do Flamengo, e de Matheus Martins, do Botafogo, com o Dínamo Moscou, segue sendo repercutida. O site Match TV, da Rússia, publicou declarações de Pavel Pivo ..."
-  },
-  {
-   "titulo": "Caso Plata: entenda o que alegou clube russo e veja explicação do Flamengo",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2fflamengo%2fcaso-plata-entenda-o-que-alegou-clube-russo-e-veja-explicacao-do-flamengo.html&c=5279365436859658156&mkt=pt-br",
-   "data": "2026-09-04T05:43:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "O atacante equatoriano Gonzalo Plata retorna ao Flamengo nesta sexta-feira (4). O jogador estava na Rússia. Veja detalhes."
-  },
-  {
-   "titulo": "Anthony Valencia comenta lesões antes do Flamengo: 'Me sinto ótimo'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2fflamengo%2fanthony-valencia-comenta-lesoes-antes-do-flamengo-me-sinto-otimo.html&c=15506078536346179769&mkt=pt-br",
-   "data": "2026-09-04T05:05:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "O jovem Anthony Valencia foi apresentado pelo Flamengo nesta sexta-feira (4), no CT Ninho do Urubu. Veja as falas."
+   "resumo": ""
   },
   {
    "titulo": "Novo centroavante do Flamengo foi descoberto por ex-auxiliar de Gallardo, que o compara a Julián Álvarez",
@@ -434,20 +954,20 @@
    "resumo": "Coutinho fala das características do atacante Joaquín Freitas Entre os dois reforços com perfil de scout contratados pelo Flamengo para a reta final da temporada, o que carrega a maior expectativa da torcida é o centroa…"
   },
   {
-   "titulo": "Benja detona Gabigol após fala sobre Flamengo: 'Arrogante'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2fbenja-detona-gabigol-apos-fala-sobre-flamengo-arrogante.html&c=4863433489438504265&mkt=pt-br",
-   "data": "2026-09-04T02:37:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "Apresentador definiu o atacante como 'repugnante' depois de entrevista em que Gabigol manifestou desejo de voltar ao clube carioca ..."
+   "titulo": "Brasileiro ex-Napoli lembra ajuda de Jorginho e vê 'casamento perfeito' no Flamengo: 'Acima da média'",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR3Q4Nml4VHZZS1ZXVWpSd3AyanJMdGxzNUIzMDNaYnNXQ3NkLURyUEQyOVNkOXNzaXo0eW9jRzk4a3FmNEc4dVB2eE90UTBKZEd1LTBFNUpXU2FRTlhaZkw3U3VQWnREYmhvdkFsdHZaVVJZZkpMVkZpZUM5ZUg5ZUwwQTFzUzQzYjlqamFtMmFUbEhyVzhTTWZIUnZBZW1kZlVDbjRieExuUXctYWtEZjR4M2wwNUY0eWVZczQzLVBBOEcwZGtoa2VOY0ZoXzNiOTBZ?oc=5",
+   "data": "2026-09-04T05:00:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
-   "titulo": "Zinho critica atitude de titular do Flamengo: 'Desnecessário'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2fzinho-critica-atitude-de-titular-do-flamengo-desnecessario.html&c=9707197639652955183&mkt=pt-br",
-   "data": "2026-09-04T01:10:00+00:00",
+   "titulo": "Remo x Flamengo Palpite – Análise e notícias (06/09)",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1dPRURXUF91bVhFRVJOb1l3dm1iVVR1MmhrY0I1Y2dYSTBMWXJKR0xWMWotdV9wV3FHTW9OVnc4d3lKeHRCb25udnV5Q3VvbUtYX1g4UmZsMVdGSVNMNDhFOUNfLWphQ2FZMnNKc3ZvOTBJQmFjTUZjc1doOHZIc05Tc2lMS1BibGc?oc=5",
+   "data": "2026-09-04T02:48:02+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "Durante o programa do Equipe F, o ex-jogador Zinho criticou a postura do atacante e afirmou que Samuel Lino não deveria criar um problema.."
+   "resumo": ""
   },
   {
    "titulo": "CEO do Dínamo Moscou rebate Flamengo e Botafogo: \"Também nos consideramos vítimas\"",
@@ -458,20 +978,28 @@
    "resumo": "Dínamo cancela contratações de Plata e Matheus Martins após exames + O Dínamo Moscou voltou a se pronunciar sobre a desistência das contratações de Plata e Matheus Martins. Depois da nota oficial do time russo, agora fo…"
   },
   {
+   "titulo": "FLAMENGO: LANCE TESTA ÓCULOS QUE VIRALIZOU COM ARRASCAETA NO MARACANÃ",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbS04ejdreDd1TU94SElwbTBFYXRTRFRQM3FyZWJfTVFyQ0ZHMENxbFVjZXFXNWNXVWpYRVBWOHJaS0o5b1dfS05KYVBWYzlWc3RlbUNXS3BaRThfZl85NU1GQWxhOF9QVzR5WHpLd19FYUtNd0VoeFdFRm1ISnFadWhTV2t2NElMblRGS3BYS3Y3XzNYNVhaS3lyVVF5M2lKdHc?oc=5",
+   "data": "2026-09-03T23:53:12+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Lance! tem acesso aos óculos que viralizaram com Arrascaeta em jogo do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZldaNGxRSUNrLTFRY2xlOXBQd2ZzTDVNajVSbWg0SW5VRFdST080Q3RMSXJsTDl0TzJoWlMwekhrbkJQWkxQU3FZLUN6OGt0ajBORjJPZkRYVFI5Qm9FamViTFFSVVpoeVMzSF9aOHBrc1A2WE1CRTVaV3lBZGF1REVwbTJYbDZZYThwUEFXTGhsU1hBRWM2TkNJdV9SQ0x6bE1VdVV3X3lXVHR3T0dSWEN6MDJfREVv?oc=5",
+   "data": "2026-09-03T23:30:23+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Saúl volta a atuar pelo Flamengo depois de 95 dias e amplia opções de Jardim em momento decisivo",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/03/saul-volta-a-atuar-pelo-flamengo-depois-de-95-dias-e-amplia-opcoes-de-jardim-em-momento-decisivo.ghtml",
    "data": "2026-09-03T23:09:51+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Além de Valencia e Freitas: veja outros \"novos\" reforços para Jardim no Flamengo Foram apenas 18 minutos, mas suficientes para deixar um longo período de ausência para trás. Saúl foi um dos escolhidos por Leonardo Jardi…"
-  },
-  {
-   "titulo": "O elogio de Luis Enrique a Filipe Luís e Flamengo que 'previu' caminho do técnico, agora rival do PSG, na Europa",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2ffrances%2fartigo%2f_%2fid%2f17198003%2felogio-luis-enrique-filipe-luis-flamengo-que-previu-caminho-do-tecnico-agora-rival-do-psg-na-europa&c=8718553484570407992&mkt=pt-br",
-   "data": "2026-09-03T23:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Filipe Luís viverá uma sexta-feira (4) especial. A partir das 16h05 (de Brasília), o ex-lateral de vasta experiência no futebol europeu, com passagens por Atlético de Madrid e Chelsea, viverá o primei ..."
   },
   {
    "titulo": "Governo e Consórcio Fla-Flu preparam reforma de R$ 2,5 milhões em tribuna do Maracanã para a Copa de 2027",
@@ -482,12 +1010,44 @@
    "resumo": "Vista geral do Maracanã. Marlon Costa/AGIF O Governo do Estado do Rio de Janeiro e o Consórcio Fla-Flu costuram acordo para reformar a Tribuna de Honra do Maracanã. A obra tem custo estimado de R$ 2,5 milhões e serve co…"
   },
   {
+   "titulo": "Análise tática do Guffo: como joga o Monaco de Filipe Luís",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXVHM29ReG0wQXBGNXFoaVNGRXp5TEx4QjJZMmJDRXhoNFRWenRwSndmcVZIUTBQUkRlcGp2LWRkMnBKYlFudzV5WDJsZmg3Slg0ZFJPSXE3dEpwcS1NejE3TU1NRktMYkFIR3ZYQW1fWHVkeDl5NWxKQjJkX3poVGN2SjlkMWtwa0FGNkJLbzV2TnM3X0VfcFhIY2d3VGFxQ3o1XzdQWjBPZG81b1E?oc=5",
+   "data": "2026-09-03T21:44:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Reunião de arbitragem tem protesto do Fluminense e pedido em vão por lance de Mirassol e Palmeiras",
    "link": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/09/03/reuniao-de-arbitragem-tem-protesto-do-fluminense-e-pedido-em-vao-por-lance-de-mirassol-e-palmeiras.ghtml",
    "data": "2026-09-03T21:31:00+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Fluminense sofre empate do Athletico-PR no fim do duelo do G-4 A reunião da Comissão de Arbitragem com os clubes foi quente nesta quarta-feira, na sede da CBF. Os dirigentes fizeram diversas reclamações no encontro para…"
+  },
+  {
+   "titulo": "Ex-Corinthians e Flamengo é anunciado como reforço na ESPN",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzFCR0thRGRfS0hCN0dVTjZ2dXUzNDFtWS1HWVM2Q0JfemhCUTZZalFBNWxjU0pYcFE2aDZXYmhqUTFTT1NNMFNpcGVXLWljR1djRVpRbkdXNmJsV09xQmI3SmFnNUhCMHVaVnh6MWZaRG92VV9idDNoWVF3MWN0TG41cFV3OS1XUS1mRjczVnExM05HZ0xKYTZ6em9fdkEzeC03Vg?oc=5",
+   "data": "2026-09-03T21:25:45+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Deuses ancestrais e o 'Urubu de Lima': a história por trás do novo Manto do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzVnUjFmQUdZMHVZeGU0TzhlRUxOaUU3MGVTVWN3MDRPcVlBa294c0ZYMDlYVWVUQWxyUU5TSVhCM3FwR1QxcTR3MFBQSVN5UklYTE1HQTVvWGN5enZYNnhmd2ZNWE5waHJvVlhRTlNYZ3pEQndxWTk2OXRvTnhSbWc1alBPbGNCTEhJM2ZwRjhxNkRPTDh2TEdBQVREVHl2UC1lUnN3RllSa3FJdzZpOGhnWGI4LWRJU3hwbQ?oc=5",
+   "data": "2026-09-03T20:05:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Cebolinha, do Flamengo, recusa o Botafogo após primeira investida e prioriza sair do país",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWE1HTzl4VFRTUERvMG8xZUxXMHpycWhoaWlFYjU4R3pPU2p0X0tfb2hWdHRoejZoMXRpcGFTYlZuUUhzYXNQdlUyakg3eFRjNTlHekdjcEp5WFBGWjNPOWtNWVJmQjZiVmc3QWFTUkNLMWxJRlotWnZDelRkUjhXM1Bidm1YQS1MeGRlM01PWV9YeFg3b2ZaXzJYQVp6WnZoWE02cWRxRFl1VGRFdXN1WHgzeWhOWUNLeGZWZHljTU1wSUdWcUtJbnFwY08tNVU?oc=5",
+   "data": "2026-09-03T19:55:26+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo aguarda chegada de Plata e reavaliará jogador para mata-mata da Libertadores",
@@ -506,28 +1066,12 @@
    "resumo": "Rossi elogia Joaquín Freitas e pede paciência com novo reforço do Flamengo Dos dois reforços contratados pelo Flamengo para a reta final da temporada, o argentino Freitas é quem carrega a maior esperança da torcida. O j…"
   },
   {
-   "titulo": "Flamengo tomar liderança do Palmeiras não surpreenderia, diz Lavieri",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fultimas-noticias%2f2026%2f09%2f04%2fflamengo-tomar-lideranca-do-palmeiras-nao-surpreenderia-diz-lavieri.ghtm&c=7967903092811260459&mkt=pt-br",
-   "data": "2026-09-03T17:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "O Flamengo vive melhor momento que o Palmeiras, tem uma tabela mais favorável nas próximas rodadas e não surpreenderá se tomar a ponta do Brasileirão, avaliou Danilo Lavieri no Posse de Bola, do Canal ..."
-  },
-  {
-   "titulo": "Quanto Flamengo precisa vender em jogador para compensar caso Plata",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fcolunas%2frodrigo-mattos%2f2026%2f09%2f04%2fquanto-flamengo-precisa-vender-em-jogador-para-compensar-caso-plata.htm&c=15646720718507205133&mkt=pt-br",
-   "data": "2026-09-03T17:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "A negociação de Plata para o Dínamo de Moscou praticamente garantiria ao Flamengo a meta de venda de atletas de 2026. Como a transação fracassou, o clube precisa de novas transações para atingir o val ..."
-  },
-  {
-   "titulo": "Remo x Flamengo Palpite – Análise e notícias (06/09)",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2fsites-de-apostas%2fpalpites%2fremo-x-flamengo-06-09-2026.html&c=10764431968629113308&mkt=pt-br",
-   "data": "2026-09-03T16:47:00+00:00",
+   "titulo": "Rizek critica gramado da Vila Belmiro e do Maracanã após polêmica com Neymar",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUFNYU9uNWgyNFdKNVdGeW5YWUVJNWZJa1hrY3IwUW14RUFFbkVDcDhJa1JSV1oya1ZpMlFjelpvemN4UHBZdkx1SExpOWF4WU1BUl90My1TMUltRF8tLUhyOUhrRGFJc0pSV0F4bW9jckRTQTRXUnEwSVk0ZnBmN0FMbUp4aHQ5V0F1TWh1YzNtVXd0SUowTUNFR3pwam40UW5DLWF6bGgwREgtUEkwdkl5bXk1T2RL?oc=5",
+   "data": "2026-09-03T16:56:09+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "Confira palpites e informações para Remo x Flamengo, 26ª rodada do Campeonato Brasileiro, no Mangueirão, domingo (6), às 16h."
+   "resumo": ""
   },
   {
    "titulo": "Brocador x “Valotelli”: Remo e Flamengo contavam com elencos modestos no último encontro em Belém",
@@ -546,12 +1090,52 @@
    "resumo": "Arrascaeta lançou óculos especiais Antes de a bola rolar para a vitória do Flamengo sobre o Mirassol, nesta quarta-feira, no Maracanã, chamou atenção a chegada de Arrascaeta ao estádio, por causa de um detalhe: o urugua…"
   },
   {
+   "titulo": "Flamengo cola de vez no Palmeiras e coloca fogo no Brasileirão; veja a situação de cada time",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORjdrQ3pobDZWTXFoS3VNRzNVTXU5NmQ4WU1sdTdxSkJXSDh5YlI1VDR5SkdKNm0tWVJFU0tCRVZ1MUNLcVJGdi0zZ3BtWkwxekF5ajdGZ0dBSHY5TV85MFZwRHlVbkRoeDU0ZHR6TWY2MHVsbGlFSDNkcGY5bm9COTZHdkxhQUJ5YlhhY0lyakJfa2FnTHdaUW9DSE9Oa3FhbFdsREQ0a1VPSVhvSmJrcV9RaU1TTWJrRVozWUlYelhuaTVuUFlVVC1qYXY1OE03cnlpSldJNk5yR0E?oc=5",
+   "data": "2026-09-03T14:56:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Botafogo sondou Cebolinha, do Flamengo, mas esbarrou em desejo de deixar o Rio de Janeiro; veja bastidores",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY1N0c3YxVzNsZ0JmMlhxZk10cGtLTmtvUFY5a0ZBLWNuS1VVUmYxUW5KV19zU3duaFUzU25kbVZOMlNIVEJCTVY1eUxLQ0VsRGU5dzgtLXBackZRajdVQV9NeWNsUDVmN05pM25RRWZQWUVENUZ4TDNQUHVpcnZEX3lOMklEX29yckU0cjhGZ3FYTUpNZDVjZ05KU19WTmQxZVR0OExCNHNVWWxZMnhhZlZMb0lVMkkwNDNzMG9XVHNKUldoLWRFTi0yaDIxVGYycXVibEhwTnBGeTladzRmVklUZEt0WVBWeXRJSFNPaW95TDNxNzJLcQ?oc=5",
+   "data": "2026-09-03T14:44:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Técnico do PSG cita Flamengo e elogia Filipe Luís: 'Gosto muito'",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGNsTTBvN1IxcTRSUjJVNWYtVWhEWFBHcmt0T1ZlbmJEUnpyMGVsN3N2LTM2VW5mUzRma1RMVGJVd25fS1NjV1kwM2Y0ZHNER1g4R3ZzZklrS2pHSDhlQk40QzhMQU5ISlRLdFJYRmdQRmZwVFFDUVlaM1B2Sm9LRzBESmpBbnhvUmJvaGs4UTlRc01lT0tCdTdpdlowSEIzc0d5bHc0TkF4Qkp0eUw4WFR6QQ?oc=5",
+   "data": "2026-09-03T14:31:13+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Carrascal é o jogador de Série A que precisa de menos minutos para participar de gol no último mês",
    "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/03/carrascal-e-o-jogador-de-serie-a-que-precisa-de-menos-minutos-para-participar-de-gol-no-ultimo-mes.ghtml",
    "data": "2026-09-03T14:21:27+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Confira os gols e as assistências do Carrascal pelo Flamengo nos últimos 30 dias Carrascal se tornou o nome mais decisivo do Flamengo nas últimas semanas. Desde o início de agosto, são cinco assistências e três gols, o…"
+  },
+  {
+   "titulo": "'Elenco do Flamengo é melhor que o do Palmeiras', diz Arnaldo",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcEdNdDFqZG1FNzFtNF9YTDBvdWh0OWRZQTFKZ0lCZDBtQXV3VjBPb0huOTJ6dlI5dGlsNkdNRzduSlFJSzNPbnVWbEZlZTlWbUdsUFY1VUZMTy1WVVNKYmlSMHljRVN2R0RLeHc5UGJ1WnM4a2FQa3EzZlBPSzVqS2JZYUIyUGFvWUpsOWE4dmlSc3RQN2Z1NWFncV9sczQ4R0sxQnJSQkFjS2RsYUhJMHBYQjlhLTZTYmhnR1B3MVlkci05Tk9BNS1fcmhjeW8zdGFSdllqVFo3QUdTR0xoelFrZmlZV1ZQd09RZFpn?oc=5",
+   "data": "2026-09-03T14:06:38+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Filipe Luís põe Luis Enrique entre os cinco maiores técnicos da história",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLThfdVBVZUlaTzl5VUpuc1dSMjBxM0cyMmJESnFrZnB1Y0h5R0xVS21zYndlRl9KSkZrWXVPTFRCU0w3YTJzUVZUUl8zTEJ6aWx4NDBRYlp4bnZpWU1TaXoxZjVnSXNHV1lQSENxUHNWX1A5ckxLU3J0alk0SkhnTTNtTHpWN3I3OUw3ajRITVNNSWZzWEp0OTR0RUwyTkNoWU9kX3FDTlpFRS16QW9vZWhkQ2lDZi1XRGlwV05ScHQydw?oc=5",
+   "data": "2026-09-03T14:05:29+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Briga acirrada: compare e simule jogos de Palmeiras e Flamengo na disputa pelo título brasileiro",
@@ -562,6 +1146,14 @@
    "resumo": "Seleção Sportv: Qual elenco é melhor: Flamengo ou Palmeiras? Líder do Brasileiro com 52 pontos, o Palmeiras tem agora o mesmo número de partidas que o vice Flamengo na competição: são 25 para cada, deixando mais evident…"
   },
   {
+   "titulo": "Flamengo ultrapassa Palmeiras e vira favorito ao título do Brasileirão; veja probabilidades",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOUdFWEhqVGRHc1lTTzF1TDFSWFBkWU1ramJLZmZsZU9xSm1TZWZDaVFVYnlSbWtaRlQySHRvaWZlcjF5aTVBT3VJV1NteU5zalhlNHV5SGZ1eV9kUS0xSEh2NWVCc0F5UlNKbEJaZDRzT3NDT2JKQ3V1eEVVQmZhTGttOG82dVJFc3Q5M2NuZmxqcExaODRFZW83UFFldElRRFRfd1pOZ1B1R0s2RXFmZnNzRXBrLW56Y3YzX1NKYXhuNUFVbVlac0M5MVZPSmVMRl9SQ0xYQ0Q0SzVCUUs3VWU0RE5qVDFfaDAwQjBza1pGY3M?oc=5",
+   "data": "2026-09-03T13:15:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Cebolinha chega a 12 jogos e pode fechar portas do futebol brasileiro em meio à indefinição sobre futuro",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/03/cebolinha-chega-a-12-jogos-e-pode-fechar-portas-do-futebol-brasileiro-em-meio-a-indefinicao-sobre-futuro.ghtml",
    "data": "2026-09-03T13:00:15+00:00",
@@ -570,12 +1162,60 @@
    "resumo": "Flamengo 2 x 0 Mirassol | Melhores momentos | 4ª rodada | Brasileirão 2026 A nove dias do fim da janela de transferências, o Flamengo ainda tem uma indefinição no elenco. Everton Cebolinha foi novamente utilizado na vit…"
   },
   {
-   "titulo": "Ex-Corinthians e Flamengo é anunciado como reforço na ESPN",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2fex-corinthians-e-flamengo-e-anunciado-como-reforco-na-espn.html&c=3313846396344232271&mkt=pt-br",
-   "data": "2026-09-03T11:25:00+00:00",
+   "titulo": "Gabigol revela desejo de retornar ao Flamengo: 'Não é fácil'",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeDdGVWpodWRGZzFfXy1BUTZlQVB0UnFMUHI1aU1ORWdJVThVTDlUcTFVU1ZFRFloRG1qaEt1c0lUN0hJal9uNWtOVk1aVmNMbjcybHpkRGRJZWNheE1yUzE2VkRXb2w2aTN6OHFnb0lwWkVVZFJHRXdSVUJUVFJRRGF0cEphRFRzV2pvNW1od1R4ODVnS3lOeW8ydjlyXzBzVlJV?oc=5",
+   "data": "2026-09-03T12:44:08+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "Campeão brasileiro e da Copa do Brasil e com passagens por Corinthians e Flamengo , o ex-volante passa a integrar a equipe."
+   "resumo": ""
+  },
+  {
+   "titulo": "Por que Lino saiu irritado em jogo do Fla? 'Tenho nada a ver', diz Jardim",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaVUxd1pRMU5GaUk0bFFuLTZmSWIwQU43MzlRVF9Eb0pHcHpPaGhPYWV6azc0RDZrUjlPdEhjOFEzbU52aGt5QXNjdmN6VG5Tb29iN1V4U3lvaDBZMWpqVDZqcUFfVHN3MVQzNFNDTXJkaEpSb1g1a0RPYUlRSlpvdFN5YW9YQTNpV0tMaEFDdmxONW5zNGRvS3pJVGNnNnpBalVIeWVmUXduX2JadUlHVUZOWGZGQXhoSGd1TExWRld2TDhka2JTQm5fM0dTRGw2ZXJnWUNfQi0?oc=5",
+   "data": "2026-09-03T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo passa Palmeiras em chances de título após tirar jogo a menos; veja",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQk5WOV9xcDZjcTU2N0FmaVJzQUg3ejdZeVROZGxKNkE3eTJwNjNFZEJGcm16ZFNVN2xRSUpMd1M2U3dhbjB2c3ZKZmg0bEZzLUpnZ2ZOQXFpRW1fV1hPbDNhWXdKM3dEVk1CUFZPbmxGaWZlOFh1bHdvTC0zQll0bEpMek43M2JqZkVXSzNCUUc0QUwwVFN0SmdKQ3RJdUZPamVhTkJnUkYyQnBfQlpOS01wc3BpN01CT2x1M2g3ejI?oc=5",
+   "data": "2026-09-03T11:59:23+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Mercado da bola: Flamengo renova com Pulgar, Robinho Jr na Itália e Pombo de saída do Tottenham",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5paUpwUHJOd2M2YkJLdzltcmJlak5weVpaVzBtMDQ1WlY5LU5VWTZ4N25mTWFtLS00ZU5ScTBFZC1TZUJTSFBwUC1hWmVkVGhHWTVyRVJTdDFLd3QzRExNa3dpY3RYaEk?oc=5",
+   "data": "2026-09-03T11:24:23+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Torcedores do Flamengo mandam recado para Rodinei: 'Não aceito'",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNczJySnlnTTV5aE96S1ZmeDdTZ1pRS2NMdUJzVy1NQUZjYVgyQm9JRVRvajRuZi1tRjdQeTBveXJnZ1EzdVVHaXhaRzlFRXgxbmxDcjB4VHloUHZEdXgzRTU0U0RtN2tPMUIyTDVUNV93OEpZUnNIM241NlRweWpMaWNNZEJ1SXdVcG45Wjk0ZmVpNS1na3RqejhDZU9JcnhpMG5FZ3BITQ?oc=5",
+   "data": "2026-09-03T11:10:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo encosta no Palmeiras e manda recado pelo título",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkVjd2RQTmNkZENfM2Q3Q1dLQm5vazVwbEw2ckNkYXk2ZUZBR1pQNVVEcXJ2NlpmVXowSGhqUnJxd1ZRbWJQTkV6SzR0dXNnNjRsLU1NWERoall4Q3BqdE9NRWE1cnJxM0RKY3hpRkRDY3g3b0ppSWN5VW5SMHhISDBQR3hKLTB6X0VvMmtvRzhZVHJIcDJGRHV6VFZPNFhBVE05RFRlWWQ5bFNlMHhPY3BOTE8zOFIzTkd0ZWxmcG1lS1FI?oc=5",
+   "data": "2026-09-03T10:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Carrascal responde às críticas e ganha novo status no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGpwZmpEa0JfWXVHY3h1WUNWamM0M0EyT3BoZmtWZWpKZmtqUnJCODNMNXVNeWtRLWFPeGFQZUhPTXZwZ2p3WExpX0hPYlkzWmpZNU1xbVdPekJvbHNob1UtU0ZVN2hSaWNmTDh1aHhfUlowX3V5MG50VW9ZNjBVRzB6NFluT1FEOEhMNnBvd3Z5Q043M0ItbE41eWNrVzFQOFN3VkdoNFlIdVZ4am85Q0hYN0UzWHktMEdaSXJpOA?oc=5",
+   "data": "2026-09-03T10:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Jogadores do Flamengo vibram com \"volta inesperada\" de Plata depois da reviravolta na Rússia",
@@ -586,612 +1226,12 @@
    "resumo": "Jardim brinca sobre retorno de Plata: \"Estou satisfeito. É uma boa solução\" Não foi só Leonardo Jardim que não escondeu sua animação com a volta de Plata ao Flamengo após a venda para o Dínamo Moscou, da Rússia, ter sid…"
   },
   {
-   "titulo": "Botafogo sondou Cebolinha, do Flamengo, mas esbarrou em desejo de deixar o Rio de Janeiro; veja bastidores",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fbotafogo%2fartigo%2f_%2fid%2f17204722%2fbotafogo-sondou-cebolinha-do-flamengo-mas-esbarrou-em-desejo-de-deixar-o-rio-de-janeiro-veja-bastidores&c=8380815569034125&mkt=pt-br",
-   "data": "2026-09-03T07:44:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Segundo apurou a ESPN, o clube sondou a situação do atacante, mas esbarrou no desejo do atleta em não seguir no Rio de Janeiro por questões familiares ..."
-  },
-  {
-   "titulo": "Flamengo ultrapassa Palmeiras e vira favorito ao título do Brasileirão; veja probabilidades",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2fultimas-noticias%2fagencia%2f2026%2f09%2f03%2fflamengo-ultrapassa-palmeiras-e-vira-favorito-ao-titulo-do-brasileirao-veja-probabilidades.htm&c=7943694379401610358&mkt=pt-br",
-   "data": "2026-09-03T06:15:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "O Flamengo deu um importante passo na luta pela liderança do Campeonato Brasileiro. O clube carioca venceu o duelo atrasado contra o Mirassol e chegou a 51 pontos, ficando a apenas um do Palmeiras, at ..."
-  },
-  {
-   "titulo": "Análise: Flamengo tira asterisco da briga pelo título e coloca pressão no Palmeiras",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/03/analise-flamengo-tira-asterisco-da-briga-pelo-titulo-e-coloca-pressao-no-palmeiras.ghtml",
-   "data": "2026-09-03T05:00:32+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 0 Mirassol | Melhores momentos | 4ª rodada | Brasileirão 2026 A terceira oportunidade de colar na liderança do Campeonato Brasileiro, enfim, o Flamengo não desperdiçou. Na noite da última quarta-feira, com…"
-  },
-  {
-   "titulo": "Gabigol revela desejo de retornar ao Flamengo: 'Não é fácil'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2fgabigol-revela-desejo-de-retornar-ao-flamengo-nao-e-facil.html&c=11281268401183831035&mkt=pt-br",
-   "data": "2026-09-03T02:44:00+00:00",
+   "titulo": "Jardim comenta retorno de Plata ao Flamengo e diz expectativa pelos reforços",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVZvM1A0c1BmNUNsTklLajY3cTc0NXBDTDhVclVJUFFaLVZyS0J2blY5R3lKWnRvajRNVkNFcU9xeXpTcENtMm1XcFZVcEhJRnlRYjlyMWRSb25Rb2dKWVpMR05MSzUtdXZ4RUJnV2tzMWxKM2NmTGxjWEVJUGU3UFRYVGVab3pvYkF3MlpFS0RiUHhUdkxOdGVtUm1iQlNNNW9Dc2R3aUVMMnhCM20yWVcwQ3U1QQ?oc=5",
+   "data": "2026-09-03T09:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "Durante entrevista ao canal Clear TV, Gabigol revelou um possível futuro no Flamengo. Atacante teve passagem de 2019 a 2024. Confira ..."
-  },
-  {
-   "titulo": "Jardim aprova volta de Plata ao Flamengo e projeta uso de reforços: \"Vão ajudar a médio e longo prazo\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/jardim-elogia-o-mirassol-e-destaca-vitoria-do-flamengo-ouco-falar-desse-jogo-ha-seis-meses.ghtml",
-   "data": "2026-09-03T01:19:29+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 0 Mirassol | Melhores momentos | 4ª rodada | Brasileirão 2026 O técnico Leonardo Jardim analisou a vitória do Flamengo sobre o Mirassol por 2 a 0, nesta quarta-feira, no Maracanã. Ele frisou o quanto a part…"
-  },
-  {
-   "titulo": "Torcedores do Flamengo mandam recado para Rodinei: 'Não aceito'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30630955442e862a3f9e892fbed5&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2ftorcedores-do-flamengo-mandam-recado-para-rodinei-nao-aceito.html&c=13391697042856485774&mkt=pt-br",
-   "data": "2026-09-03T01:10:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "O Santos anunciou a contratação do lateral Rodinei como novo reforço do clube, gerando repercussão e recados da torcida do Flamengo nas redes ..."
-  },
-  {
-   "titulo": "Atuações do Flamengo: Carrascal é o melhor na vitória sobre o Mirassol; dê suas notas",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/atuacoes-do-flamengo-carrascal-e-o-melhor-na-vitoria-sobre-o-mirassol-de-suas-notas.ghtml",
-   "data": "2026-09-03T00:32:14+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Initial plugin text Flamengo posado antes do jogo contra o Mirassol André Durão + Leia mais notícias do Flamengo 🎧 Ouça o podcast ge Flamengo 🎧 Assista: tudo sobre o Flamengo no ge, na Globo e no sportv"
-  },
-  {
-   "titulo": "Samuel Lino, do Flamengo, deixa o campo reclamando com Jardim após substituição; assista",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/samuel-lino-do-flamengo-deixa-o-campo-reclamando-apos-substituicao-assista.ghtml",
-   "data": "2026-09-03T00:26:47+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Aos 38 min do 2º tempo - Samuel Lino é substituído e sai reclamando Na vitória do Flamengo por 2 a 0 sobre o Mirassol nesta quarta-feira, em jogo atrasado da quarta rodada do Brasileirão, Samuel Lino foi substituído e d…"
-  },
-  {
-   "titulo": "Pulgar sofre pancada e deixa jogo do Flamengo com dores no primeiro tempo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/pulgar-sofre-pancada-e-deixa-jogo-do-flamengo-com-dores-no-primeiro-tempo.ghtml",
-   "data": "2026-09-02T23:55:31+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Aos 42 min do 1º tempo - gol de cabeça de Paquetá do Flamengo contra o Mirassol Uma cena na partida contra o Mirassol nesta quarta-feira, no Maracanã, pode ser motivo de preocupação para o Flamengo: Pulgar sentiu dores…"
-  },
-  {
-   "titulo": "Boto, do Flamengo, faz duras críticas ao Dínamo por caso Plata: \"É um alerta para clubes e agentes\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/diretor-do-flamengo-critica-dinamo-faz-alerta-a-empresarios-e-diz-plata-e-muito-bem-vindo.ghtml",
-   "data": "2026-09-02T23:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Thiago Lima explica que Plata será reintegrado: \"Flamengo considera ele ok, sem lesão\" O diretor de futebol do Flamengo, José Boto, falou publicamente pela primeira vez sobre a desistência do Dínamo Moscou de contratar…"
-  },
-  {
-   "titulo": "Flamengo apresenta reforços para a torcida antes do jogo com o Mirassol no Maracanã",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/flamengo-apresenta-reforcos-para-a-torcida-antes-do-jogo-com-o-mirassol-no-maracana.ghtml",
-   "data": "2026-09-02T22:17:43+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo apresenta reforços no gramado do Maracanã antes da partida contra o Mirassol Os atacantes Anthony Valencia, equatoriano, e Joaquín Freitas, argentino, foram apresentados à torcida do Flamengo antes da partida c…"
-  },
-  {
-   "titulo": "Bragantino anuncia contratação de Wallace Yan, do Flamengo; saiba valor da negociação",
-   "link": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/2026/09/02/bragantino-anuncia-contratacao-de-wallace-yan-do-flamengo-saiba-valor-da-negociacao.ghtml",
-   "data": "2026-09-02T21:54:19+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Gol de Wallace Yan contra o Benfica O Red Bull Bragantino anunciou nesta quarta-feira, 2, a contratação do atacante Wallace Yan, do Flamengo. Os valores da negociação não foram revelados pelo clube. Mas o ge apurou que…"
-  },
-  {
-   "titulo": "Flamengo encaminha venda do meia Guilherme para o Gil Vicente, de Portugal",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/flamengo-encaminha-venda-do-meia-guilherme-para-o-gil-vicente-de-portugal.ghtml",
-   "data": "2026-09-02T21:04:45+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Antes da volta de Plata ao Flamengo, Bap havia mostrado alívio com a saída do jogador O Flamengo encaminhou a venda do meia Guilherme Gomes, de 20 anos, para o Gil Vicente, de Portugal. O clube vai receber 400 mil euros…"
-  },
-  {
-   "titulo": "Gabigol revela vídeo de renovação com Flamengo e cita desejo de voltar ao clube: \"Mexe comigo\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/gabigol-revela-video-de-renovacao-com-flamengo-e-cita-desejo-de-voltar-ao-clube-mexe-comigo.ghtml",
-   "data": "2026-09-02T19:42:43+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Gabigol diz que não se sente à vontade de jogar contra o Flamengo Gabigol se despediu do Flamengo há quase dois anos, mas continua no imaginário dos torcedores. E o clube continua na cabeça do atacante. Ele revelou que,…"
-  },
-  {
-   "titulo": "Valencia e Freitas são regularizados, mas estão fora contra Mirassol; veja relacionados do Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/flamengo-tera-bruno-henrique-contra-mirassol-mas-reforcos-serao-ausencias-veja-relacionados.ghtml",
-   "data": "2026-09-02T19:29:13+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Mirassol: informações e palpite para o jogo O Flamengo regularizou os seus dois reforços desta janela de transferência, mas não os terá para o jogo contra o Mirassol nesta quarta, às 19h30 (de Brasília) no Ma…"
-  },
-  {
-   "titulo": "Dínamo se pronuncia após devolver Plata ao Flamengo e Matheus Martins ao Botafogo; veja comunicado",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/dinamo-se-pronuncia-apos-devolver-plata-ao-flamengo-e-matheus-martins-ao-botafogo-veja-comunicado.ghtml",
-   "data": "2026-09-02T19:02:23+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Plata e Matheus Martins são reprovados em exames e voltam pro Rio O Dínamo Moscou, da Rússia, se pronunciou oficialmente nesta quarta-feira e emitiu um comunicado para dar a sua versão sobre as desistências nas negociaç…"
-  },
-  {
-   "titulo": "Samuel Lino esclarece polêmica com Jardim ao ser substituído e aponta outro problema no Flamengo: 'Não depende da gente'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fflamengo%2fartigo%2f_%2fid%2f17203351%2fflamengo-samuel-lino-esclarece-polemica-com-jardim-ao-ser-substituido-nao-depende-da-gente&c=14608331008042294309&mkt=pt-br",
-   "data": "2026-09-02T18:59:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "A qualidade da grama do Maracanã foi motivo da irritação de Samuel Lino ao ser substituído durante a vitória do Flamengo sobre o Mirassol, por 2 a 0, na noite desta quarta-feira (2), em jogo atrasado ..."
-  },
-  {
-   "titulo": "Flamengo vence o Mirassol, paga jogo atrasado e cola no líder Palmeiras",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fultimas-noticias%2f2026%2f09%2f02%2fflamengo-x-mirassol-brasileirao-2026.ghtm&c=5566986122691687550&mkt=pt-br",
-   "data": "2026-09-02T17:27:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "A distância agora é real e não mais hipotética. Flamengo venceu o Mirassol por 2 a 0, hoje, no Maracanã, e pagou o jogo atrasado que tinha pelo Brasileirão.Os gols foram de Carrascal e Lucas Paquetá.O ..."
-  },
-  {
-   "titulo": "Alvo de brasileiros e sem acerto com a Roma: entenda o cenário para Luiz Henrique, do Zenit",
-   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/02/alvo-de-brasileiros-e-sem-acerto-com-a-roma-entenda-o-cenario-para-luiz-henrique-do-zenit.ghtml",
-   "data": "2026-09-02T15:03:09+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Aos 28 min do 2º tempo - Gol do Brasil com Luiz Henrique Mais uma negociação envolvendo Luiz Henrique nesta janela de transferências não teve um desfecho positivo. Negociando nos últimos dias para defender a Roma, da It…"
-  },
-  {
-   "titulo": "Cartola: ranking dos maiores pontuadores do ano agora tem Viveros acima de Pedro; compare",
-   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/09/02/cartola-ranking-dos-maiores-pontuadores-do-ano-agora-tem-viveros-acima-de-pedro-compare.ghtml",
-   "data": "2026-09-02T15:00:15+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "VIVEROS ARTILHEIRO salva o time do Dandan no Cartola! | 26ª rodada do Brasileirão | PAC O Cartola 2026 agora tem um novo atacante liderando o ranking dos maiores pontuadores. Viveros pontuou mais do que Pedro na rodada…"
-  },
-  {
-   "titulo": "Flamengo encara o Mirassol com Paquetá titular e Arrascaeta no banco",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30821a2e41ada91ce38204d9d667&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fultimas-noticias%2f2026%2f09%2f02%2fflamengo-encara-o-mirassol-com-paqueta-titular-e-arrascaeta-no-banco.htm&c=7442306693512705262&mkt=pt-br",
-   "data": "2026-09-02T14:36:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "O Flamengo está escalado para enfrentar o Mirassol, em jogo atrasado pela quarta rodada do Brasileirão.O técnico Leonardo Jardim deixou Arrascaeta no banco e começa com Lucas Paquetá entre os titulare ..."
-  },
-  {
-   "titulo": "Volta de Plata resolve desequilíbrio citado por Jardim, mas cria problema para o Flamengo; entenda",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/volta-de-plata-resolve-desequilibrio-citado-por-jardim-mas-cria-problema-para-o-flamengo-entenda.ghtml",
-   "data": "2026-09-02T14:00:17+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja todos os gols da passagem de Plata pelo Flamengo Os planos do Flamengo sofreram uma reviravolta nesta terça-feira com a desistência do Dínamo Moscou de contratar Plata. O jogador retorna ao Rio de Janeiro depois de…"
-  },
-  {
-   "titulo": "Flamengo anuncia renovação de Pulgar",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/flamengo-anuncia-renovacao-de-pulgar.ghtml",
-   "data": "2026-09-02T12:10:49+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Mirassol: informações e palpite para o jogo Ele fica! Terminou com final feliz a novela envolvendo Pulgar. Flamengo e o volante chileno enfim chegaram a um acordo financeiro e oficializaram a renovação de con…"
-  },
-  {
-   "titulo": "Cartola 2026: Carrascal voa com gols e assistências e é o Craque de Agosto; veja seleção",
-   "link": "https://ge.globo.com/cartola/noticia/2026/09/02/cartola-2026-carrascal-voa-com-gols-e-assistencias-e-e-o-craque-de-agosto-veja-selecao.ghtml",
-   "data": "2026-09-02T12:00:25+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Melhor do mês: Carrascal, do Flamengo, é o maior pontuador de agosto no Cartola Carrascal fechou o mês de agosto como a grande referência de pontuação entre os jogadores do Cartola 2026. O jogador do Flamengo somou 59.0…"
-  },
-  {
-   "titulo": "Flamengo x Mirassol: onde assistir ao vivo, horário e escalações",
-   "link": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/noticia/2026/09/02/flamengo-x-mirassol-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-   "data": "2026-09-02T07:00:17+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Mirassol: informações e palpite para o jogo Flamengo e Mirassol se enfrentam nesta quarta-feira, no Maracanã, em confronto atrasado pela quarta rodada do Campeonato Brasileiro. A bola rola às 19h30 (de Brasíl…"
-  },
-  {
-   "titulo": "Bastidores: antes da volta de Plata ao Flamengo, Bap havia mostrado alívio com saída do jogador",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/02/bastidores-antes-da-volta-de-plata-ao-flamengo-bap-havia-mostrado-alivio-com-saida-do-jogador.ghtml",
-   "data": "2026-09-02T04:00:15+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja todos os gols da passagem de Plata pelo Flamengo O cancelamento da venda de Plata ao Dínamo Moscou, da Rússia, pegou todos no Flamengo de surpresa. Nem o próprio presidente rubro-negro poderia imaginar uma reviravo…"
-  },
-  {
-   "titulo": "Escalação do Flamengo: reforços treinam, mas não são regularizados a tempo de estrearem contra Mirassol",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/escalacao-do-flamengo-reforcos-treinam-mas-nao-sao-regularizados-a-tempo-de-estrearem-contra-mirassol.ghtml",
-   "data": "2026-09-02T01:34:54+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Mirassol: informações e palpite para o jogo A agitada terça-feira do Flamengo ainda teve os reforços em campo: os atacantes Anthony Valencia e Joaquín Freitas fizeram o seu primeiro treino com os novos compan…"
-  },
-  {
-   "titulo": "Flamengo vai buscar reparação pelo caso Plata: \"Amadorismo e irresponsabilidade do Dínamo\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/flamengo-promete-entrar-na-justica-por-caso-plata.ghtml",
-   "data": "2026-09-02T00:03:15+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Thiago Lima explica que Plata será reintegrado: \"Flamengo considera ele ok, sem lesão\" O Flamengo se manifestou oficialmente na noite desta terça-feira e prometeu buscar \"as reparações cabíveis\" pela desvalorização de P…"
-  },
-  {
-   "titulo": "Arrascaeta comemora volta de Plata ao Flamengo: \"Que jogador ganhamos 😍\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/arrascaeta-comemora-volta-de-plata-ao-flamengo-que-jogador-ganhamos.ghtml",
-   "data": "2026-09-01T23:32:05+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Renata Mendonça analisa volta de Plata: \"Boa notícia para o torcedor do Flamengo\" Plata está viajando de volta da Rússia para o Rio de Janeiro após ter sua venda cancelada para o Dínamo Moscou. E o elenco do Flamengo já…"
-  },
-  {
-   "titulo": "Palpites e dicas para Flamengo x Mirassol pelo Brasileirão",
-   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/09/01/palpites-e-dicas-para-flamengo-x-mirassol-pelo-brasileirao.ghtml",
-   "data": "2026-09-01T23:20:15+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Mirassol: informações e palpite para o jogo Em jogo adiado da 4ª rodada do Campeonato Brasileiro, Flamengo e Mirassol se enfrentam em partida que terá toda a atenção do Palmeiras, líder com quatro pontos de v…"
-  },
-  {
-   "titulo": "Entenda como a venda cancelada de Plata afeta as finanças do Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/entenda-como-a-venda-cancelada-de-plata-afeta-as-financas-do-flamengo.ghtml",
-   "data": "2026-09-01T22:50:23+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Thiago Lima explica que Plata será reintegrado: \"Flamengo considera ele ok, sem lesão\" O cancelamento da venda de Plata pelo Dínamo Moscou pegou o Flamengo de surpresa. A decisão dos russos não afeta os movimentos rubro…"
-  },
-  {
-   "titulo": "Ranking Digital: Flamengo supera marca de 68 milhões de seguidores nas redes sociais",
-   "link": "https://ge.globo.com/rn/blogs/augustox/post/2026/09/01/ranking-digital-flamengo-supera-marca-de-68-milhoes-de-seguidores-nas-redes-sociais.ghtml",
-   "data": "2026-09-01T21:43:17+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo anuncia os reforços Anthony Valencia e Joaquín Freitas Santos, Corinthians, Flamengo, Palmeiras e Paysandu foram os cinco clubes que mais cresceram nas redes sociais em agosto, de acordo com o novo Ranking Digi…"
-  },
-  {
-   "titulo": "Dínamo Moscou desiste de contratar Plata, que retorna ao Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/plata-nao-e-aprovado-nos-exames-medicos-no-dinamo-de-moscou.ghtml",
-   "data": "2026-09-01T20:33:29+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Thiago Lima explica reintegração de Plata: \"Flamengo considera que ele está ok, sem lesão\" Gonzalo Plata vai voltar ao Flamengo. Vendido na semana passada ao Dínamo de Moscou por cerca de 10 milhões de euros (R$ 60,1 mi…"
-  },
-  {
-   "titulo": "Botafogo procura Cebolinha, do Flamengo, e busca outras opções para o ataque",
-   "link": "https://ge.globo.com/futebol/times/botafogo/noticia/2026/09/01/botafogo-procura-cebolinha-do-flamengo-e-busca-outras-opcoes-para-o-ataque.ghtml",
-   "data": "2026-09-01T19:27:14+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Podcast debate: \"O Botafogo precisa de técnico e de uma gestão profissional\" O Botafogo tem interesse na contratação de Cebolinha, atacante do Flamengo. O clube procurou a diretoria rubro-negra para se informar sobre os…"
-  },
-  {
-   "titulo": "Bastidores: reforços do Flamengo têm volta às origens, aposta de Boto e divergência de valores por Freitas",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/bastidores-reforcos-do-flamengo-tem-volta-as-origens-aposta-de-boto-e-divergencia-de-valores-por-freitas.ghtml",
-   "data": "2026-09-01T18:58:18+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Marcello Neves traz bastidores das contratações de Valencia e Freitas no Flamengo Com as chegadas de Anthony Valencia e Joaquín Freitas, o Flamengo retomou uma estratégia antes abandonada de fazer mais contratações \"de…"
-  },
-  {
-   "titulo": "Ledio critica postura de BAP, do Flamengo, e afirma: \"Todo ano tentam destruir o Vasco\"",
-   "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/09/01/ledio-critica-postura-de-bap-do-flamengo-e-afirma-todo-ano-tentam-destruir-o-vasco.ghtml",
-   "data": "2026-09-01T18:13:50+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Ledio critica postura de Bap na relação com o Vasco: \"Quer tudo para ele\" A atuação de BAP, presidente do Flamengo, na discussão envolvendo a venda da SAF do Vasco foi criticada pelo comentarista Ledio Carmona nesta ter…"
-  },
-  {
-   "titulo": "Samuel Lino supera pressão, cumpre missão do Flamengo e se consolida como protagonista de Jardim",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/samuel-lino-supera-pressao-cumpre-missao-do-flamengo-e-se-consolida-como-protagonista-de-jardim.ghtml",
-   "data": "2026-09-01T16:00:15+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "André Rizek elogia momento de Samuel Lino Pressionado por contratações, o Flamengo viu o maior reforço para a atual temporada ser caseiro. Depois de um primeiro ano de altos e baixos, Samuel Lino superou o período de qu…"
-  },
-  {
-   "titulo": "Dupla de R$ 1 bilhão no City, Plata bate-e-volta no Flamengo e Gabriel Jesus no Barcelona: os destaques do último dia da janela",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fmercado-da-bola%2fartigo%2f_%2fid%2f17198357%2fmercado-da-bola-destaques-ultimo-dia-janela-dupla-1-bilhao-manchester-city-gonzalo-plata-bate-e-volta-flamengo-gabriel-jesus-barcelona&c=17199812114695888998&mkt=pt-br",
-   "data": "2026-09-01T15:59:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Último dia da janela de transferências das principais ligas encerrou nesta terça-feira (1°): veja os principais negócios fechados - ou não ..."
-  },
-  {
-   "titulo": "Flamengo anuncia modelo vencedor do Manto da Nação; veja imagens",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/flamengo-anuncia-modelo-vencedor-do-manto-da-nacao-veja-imagens.ghtml",
-   "data": "2026-09-01T14:58:21+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "\"Flamengo construiu para golear o Botafogo\", analisa o podcast O Flamengo anunciou, nesta terça-feira, o modelo vencedor da campanha Manto da Nação. O Urubu de Lima, feito por Marcelo Gluz, foi o modelo escolhido em uma…"
-  },
-  {
-   "titulo": "Flamengo anuncia a contratação de Joaquín Freitas, ex-River Plate",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/flamengo-anuncia-a-contratacao-de-joaquin-freitas-ex-river-plate.ghtml",
-   "data": "2026-09-01T14:00:47+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Joaquín Freitas chega ao Rio para assinar com o Flamengo O atacante Joaquín Freitas foi anunciado como reforço do Flamengo. O contrato assinado entre as partes é válido até 2031. Ele vai usar a camisa 30. O clube deu a…"
-  },
-  {
-   "titulo": "Cartola 2026: com gols e desarmes, Samuel Lino, do Flamengo, é o Craque da Rodada #25",
-   "link": "https://ge.globo.com/cartola/craque-da-rodada/noticia/2026/09/01/cartola-2026-com-gols-e-desarmes-samuel-lino-do-flamengo-e-o-craque-da-rodada-25.ghtml",
-   "data": "2026-09-01T13:58:19+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Samuel Lino marca duas vezes, faz 22.20 pts e é o maior pontuador de domingo da rodada #25 Samuel Lino foi o grande destaque da rodada 25 do Cartola 2026. O atacante do Flamengo foi o jogador que mais pontuou, somando 2…"
-  },
-  {
-   "titulo": "Gonzalo Plata é reprovado nos exames médicos no Dínamo de Moscou e volta ao Flamengo",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fflamengo%2fartigo%2f_%2fid%2f17197987%2fflamengo-anuncia-volta-gonzalo-plata-atacante-reprovado-exames-dinamo-de-moscou&c=2397894714517214918&mkt=pt-br",
-   "data": "2026-09-01T13:45:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Flamengo informou nesta terça-feira (1°) que Gonzalo Plata retornará ao clube após ser reprovado nos exames médicos no Dínamo de Moscou ..."
-  },
-  {
-   "titulo": "Classificação do returno: Atlético lidera, São Paulo e Vasco deixam o Z-4, Botafogo e Corinthians entram",
-   "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/01/classificacao-do-returno-atletico-lidera-sao-paulo-e-vasco-deixam-o-z-4-botafogo-e-corinthians-entram.ghtml",
-   "data": "2026-09-01T13:27:59+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "São Paulo 2 x 1 Bragantino | Melhores momentos | 25ª rodada | Brasileirão 2026 Ao derrotar em casa o Vitória por 2 a 1 na abertura da 25ª rodada, o Atlético-MG se isolou na liderança da classificação do returno do Brasi…"
-  },
-  {
-   "titulo": "Flamengo anuncia a contratação de Anthony Valencia, que usará número que era de Arrascaeta",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/flamengo-anuncia-a-contratacao-de-anthony-valencia.ghtml",
-   "data": "2026-09-01T12:04:23+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Anthony Valencia: Conheça o novo reforço do Flamengo O atacante Anthony Valencia foi anunciado como reforço do Flamengo. Nesta terça-feira, o clube rubro-negro utilizou as suas redes sociais para confirmar a contratação…"
-  },
-  {
-   "titulo": "Qual é o maior clássico do Brasil? Veja ranking da redação do ge",
-   "link": "https://ge.globo.com/mg/futebol/noticia/2026/09/01/qual-e-o-maior-classico-do-brasil-veja-ranking-da-redacao-do-ge.ghtml",
-   "data": "2026-09-01T09:15:30+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Qual o maior clássico do Brasil? Veja a opinião da redação do ge A Copa do Brasil 2026 reuniu três clássicos estaduais nas quartas de final. E a rivalidade entre os clubes despertou novamente aquela antiga questão: qual…"
-  },
-  {
-   "titulo": "Quem são Joaquin Freitas e Anthony Valencia? Conheça os novos reforços do Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/01/quem-sao-joaquin-freitas-e-anthony-valencia-conheca-os-novos-reforcos-do-flamengo.ghtml",
-   "data": "2026-09-01T07:00:52+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Marcello Neves traz bastidores das contratações de Valencia e Freitas no Flamengo Depois de negociar Plata com o Dínamo Moscou, da Rússia, e Wallace Yan com o Bragantino, o Flamengo foi ao mercado e contratou dois novos…"
-  },
-  {
-   "titulo": "Flamengo anuncia novo reforço para substituir Plata e prepara duas novidades em lista da Libertadores",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fflamengo%2fartigo%2f_%2fid%2f17195877%2fflamengo-anuncia-novo-reforco-substituir-plata-prepara-duas-novidades-lista-libertadores&c=1176733219409881339&mkt=pt-br",
-   "data": "2026-09-01T05:21:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "O Flamengo anunciou um reforço para a sequência da temporada. Trata-se do atacante Anthony Valencia, que estava no Royal Antwerp, da Bélgica. O equatoriano, de 23 anos, chega para ser o substituto do ..."
-  },
-  {
-   "titulo": "Flamengo busca explicações para a constante queda de rendimento no segundo tempo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/31/flamengo-busca-explicacoes-para-a-constante-queda-de-rendimento-no-segundo-tempo.ghtml",
-   "data": "2026-08-31T19:01:50+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Léo Ortiz explica queda do Flamengo na volta do segundo tempo: \"Trabalhando para melhorar\" O 3 a 0 sobre o Botafogo deixou o Flamengo mais perto do Palmeiras na tabela de classificação do Campeonato Brasileiro. No entan…"
-  },
-  {
-   "titulo": "Cartola: meia do Flamengo é o maior pontuador da posição desde a Copa; veja o top 5",
-   "link": "https://ge.globo.com/gato-mestre/analises/noticia/2026/08/31/cartola-meia-do-flamengo-e-o-maior-pontuador-da-posicao-desde-a-copa-veja-o-top-5.ghtml",
-   "data": "2026-08-31T18:00:15+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Aos 43 min do 2º tempo - gol de dentro da área de Carrascal do Flamengo contra o Botafogo Qual meia vive a melhor fase no Cartola? O Gato Mestre preparou um levantamento que revela os jogadores de meio-campo que mais so…"
-  },
-  {
-   "titulo": "O Flamengo pode mais",
-   "link": "https://ge.globo.com/rs/blogs/vida-real/post/2026/08/31/o-flamengo-pode-mais.ghtml",
-   "data": "2026-08-31T15:00:18+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Felipe Melo coloca Flamengo como melhor futebol do continente O colunista decidiu correr o risco de ser odiado pela maior torcida do país em nome do que viu no campo e fazer crítica ao time que goleou o Botafogo por 3x0…"
-  },
-  {
-   "titulo": "Saiba quem é o jogador do Bragantino que vai ao Flamengo no negócio por Wallace Yan",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/31/saiba-quem-e-o-jogador-do-bragantino-que-vai-ao-flamengo-no-negocio-por-wallace-yan.ghtml",
-   "data": "2026-08-31T14:53:03+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Reforços rubro-negros! Anthony Valencia e Joaquín Freitas já estão no Rio Existe uma parte da negociação pela venda de Wallace Yan que interessa ao torcedor do Flamengo. Para além das cifras — cerca de 6 milhões de euro…"
-  },
-  {
-   "titulo": "Flamengo x Mirassol: onde assistir ao vivo, horário, palpite e escalações do jogo do Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fbrasileirao%2fartigo%2f_%2fid%2f17184776%2fflamengo-mirassol-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao&c=8910875289988519526&mkt=pt-br",
-   "data": "2026-08-31T13:34:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Equipes se enfrentam no Maracanã às 19h30 (de Brasília) desta quarta-feira (02), pela quarta rodada atrasada do torneio ..."
-  },
-  {
-   "titulo": "Joaquin Freitas desembarca no Rio de Janeiro para assinar com o Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/31/joaquin-freitas-desembarca-no-rio-de-janeiro-para-assinar-com-o-flamengo.ghtml",
-   "data": "2026-08-31T12:29:07+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Joaquín Freitas chega ao Rio para assinar com o Flamengo O atacante Joaquín Freitas desembarcou na manhã desta segunda-feira no Aeroporto do Galeão, no Rio de Janeiro, para se apresentar e assinar contrato com o Flameng…"
-  },
-  {
-   "titulo": "Flamengo muda rota no mercado, encaminha dois reforços e corre para inscrevê-los na Libertadores",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/31/flamengo-muda-rota-no-mercado-encaminha-dois-reforcos-e-corre-para-inscreve-los-na-libertadores.ghtml",
-   "data": "2026-08-31T09:00:23+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 3 x 0 Botafogo | Melhores momentos | 25ª rodada | Brasileirão 2026 Depois de frustrações na janela de transferências, o Flamengo, enfim, terá reforços para chamar de seus. O clube está com tudo praticamente ace…"
-  },
-  {
-   "titulo": "Análise: Flamengo peca na eficiência, mas reage na reta final e abre disputa por vaga de Plata",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/31/analise-flamengo-peca-na-eficiencia-mas-reage-na-reta-final-e-abre-disputa-por-vaga-de-plata.ghtml",
-   "data": "2026-08-31T07:00:45+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 3 x 0 Botafogo | Melhores momentos | 25ª rodada | Brasileirão 2026 O placar da vitória por 3 a 0 do Flamengo sobre o Botafogo traduz o que foi a partida no primeiro tempo e na reta final do segundo, mas esconde…"
-  },
-  {
-   "titulo": "Viralizou: gol de videogame do Fla, beca de Yuri Alberto, queixa do Flu, e camisa da discórdia de Neymar",
-   "link": "https://ge.globo.com/pe/futebol/noticia/2026/08/31/viralizou-gol-de-videogame-do-fla-beca-de-yuri-alberto-queixa-do-flu-e-camisa-da-discordia-de-neymar.ghtml",
-   "data": "2026-08-31T07:00:31+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Neymar fala sobre entrega de camisa a pequeno torcedor corintiano O Brasileirão entregou de tudo neste fim de semana. Teve golaço de videogame do Flamengo, Neymar decisivo e no centro de mais uma história fora de campo,…"
-  },
-  {
-   "titulo": "Felipe Melo elogia Flamengo em vitória sobre o Botafogo: \"Futebol mais bonito do continente\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/30/felipe-melo-elogia-flamengo-em-vitoria-sobre-o-botafogo-futebol-mais-bonito-do-continente.ghtml",
-   "data": "2026-08-31T01:02:40+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Felipe Melo coloca Flamengo como melhor futebol do continente A vitória do Flamengo por 3 a 0 sobre o Botafogo, pela 25ª rodada do Campeonato Brasileiro, com gols de Samuel Lino (duas vezes) e Carrascal, arrancou elogio…"
-  },
-  {
-   "titulo": "Anthony Valencia desembarca no Rio de Janeiro para assinar com o Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/30/anthony-valencia-desembarca-no-rio-de-janeiro-para-assinar-com-o-flamengo.ghtml",
-   "data": "2026-08-30T23:36:10+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Anthony Valencia chega ao Rio para assinar com o Flamengo O atacante Anthony Valencia chegou ao Rio de Janeiro para se apresentar e assinar contrato com o Flamengo. O equatoriano de 23 anos chega do Royal Antwerp, da Bé…"
-  },
-  {
-   "titulo": "Jardim exalta momento de Lino e critica gramado do Maracanã: \"Não está ao nível do Flamengo\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/30/jardim-exalta-vitoria-no-classico-e-poder-do-elenco-do-flamengo-substituicoes-ajudaram.ghtml",
-   "data": "2026-08-30T21:49:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 3 x 0 Botafogo | Melhores momentos | 25ª rodada | Brasileirão 2026 Deu Flamengo no clássico carioca. A equipe comandada por Leonardo Jardim venceu o Botafogo por 3 a 0 na tarde deste domingo, no Maracanã, para…"
-  },
-  {
-   "titulo": "Atuações do Flamengo: Lino e Carrascal são os melhores em vitória no clássico; dê suas notas",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/30/atuacoes-do-flamengo-lino-e-carrascal-sao-os-melhores-em-vitoria-no-classico-de-suas-notas.ghtml",
-   "data": "2026-08-30T21:04:09+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Initial plugin text Flamengo 3 x 0 Botafogo | Melhores momentos | 25ª rodada | Brasileirão 2026 Jogadores Flamengo do contra oBotafogo André Durão + Leia mais notícias do Flamengo 🎧 Ouça o podcast ge Flamengo 🎧 Assista:…"
-  },
-  {
-   "titulo": "Flamengo supera a marca de 1 milhão de ingressos vendidos como mandante em 2026",
-   "link": "https://ge.globo.com/gato-mestre/noticia/2026/08/30/flamengo-supera-a-marca-de-1-milhao-de-ingressos-vendidos-como-mandante-em-2026.ghtml",
-   "data": "2026-08-30T21:01:24+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Aos 40 min do 2º tempo - GOL DO FLAMENGO! Samuel Lino marca o segundo O Flamengo superou a marca de mais de 1 milhão de ingressos vendidos como mandante em 2026. Com 61,9 mil pagantes na vitória por 3 a 0 sobre o Botafo…"
-  },
-  {
-   "titulo": "Flamengo avança por contratações de atacantes Anthony Valencia e Joaquín Freitas",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/30/flamengo-avanca-por-contratacoes-de-atacantes-anthony-valencia-e-joaquin-freitas.ghtml",
-   "data": "2026-08-30T16:54:19+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja todos os gols da passagem de Plata pelo Flamengo Depois de negociações frustradas e vendas de jogadores, o Flamengo avançou pelos primeiros reforços desta janela de transferências. O clube está perto de acertar as…"
-  },
-  {
-   "titulo": "Flamengo vence Botafogo em tarde de golaços no Maracanã e segue caça ao Palmeiras no Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d30401aa24fe79108d12297d3c063&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fbrasileirao%2fartigo%2f_%2fid%2f17189212%2fflamengo-vence-botafogo-tarde-golacos-maracana-segue-caca-palmeiras-brasileirao&c=6019056427681296403&mkt=pt-br",
-   "data": "2026-08-30T13:56:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "O Flamengo venceu o clássico contra o Botafogo por 3 a 0, neste domingo (30), no Maracanã, pela 25ª rodada do Brasileirão. Com dois bonitos gols de Samuel Lino e outra ''pintura'' de Carrascal, o Rubr ..."
-  },
-  {
-   "titulo": "Josmar é relacionado pela primeira vez no Flamengo e vira opção contra o Botafogo; conheça a joia",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/30/josmar-e-relacionado-pela-primeira-vez-no-flamengo-e-vira-opcao-contra-o-botafogo-conheca-a-joia.ghtml",
-   "data": "2026-08-30T13:00:18+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Gol do Flamengo! Josmar aproveita erro do adversário e marca O Flamengo vai ter uma novidade no banco de reservas para enfrentar o Botafogo neste domingo. O centroavante Josmar, de apenas 17 anos, será o reserva imediat…"
-  },
-  {
-   "titulo": "Flamengo prioriza ajustes contra \"gols evitáveis\" e tenta não ser vazado depois de quatro jogos",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/30/flamengo-prioriza-ajustes-contra-gols-evitaveis-e-tenta-nao-ser-vazado-depois-de-quatro-jogos.ghtml",
-   "data": "2026-08-30T09:00:38+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Danilo diz que Flamengo precisa parar de sofrer \"gols totalmente evitáveis\" \"Ataque ganha jogos e defesa, campeonatos\". A frase de Filipe Luís voltou à tona na torcida do Flamengo em meio à caça ao líder Palmeiras no Ca…"
-  },
-  {
-   "titulo": "Flamengo x Botafogo: onde assistir ao vivo, horário e escalações",
-   "link": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/noticia/2026/08/30/flamengo-x-botafogo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-   "data": "2026-08-30T07:00:21+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Botafogo: informações e palpite para o jogo Flamengo e Botafogo se enfrentam neste domingo, às 16h (de Brasília) no Maracanã, pela 25ª rodada do Campeonato Brasileiro. A TV Globo, o Premiere e a ge tv transmi…"
-  },
-  {
-   "titulo": "Plata se despede do Flamengo após venda para o Dínamo Moscou: \"Fizemos história\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/29/plata-se-despede-do-flamengo-nas-redes-sociais.ghtml",
-   "data": "2026-08-29T20:41:46+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja todos os gols da passagem de Plata pelo Flamengo O atacante equatoriano Plata se despediu do Flamengo nas redes sociais. O atacante foi vendido para o Dínamo Moscou e se despediu dos companheiros no Ninho do Urubu…"
-  },
-  {
-   "titulo": "Flamengo tem mercado argentino como prioridade para encontrar reposição para o ataque",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/29/flamengo-tem-mercado-argentino-como-prioridade-para-encontrar-reposicao-para-o-ataque.ghtml",
-   "data": "2026-08-29T17:43:46+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Mansur fala de uma possível renovação do elenco do Flamengo em 2028 O Flamengo voltou ao mercado após as saídas de Plata, para o Dínamo Moscou (Rússia), e Wallace Yan, para o Bragantino. A diretoria rubro-negra deseja r…"
-  },
-  {
-   "titulo": "Empresário revela acordo para renovação de Pulgar no Flamengo: \"Continuar fazendo história aqui\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/29/empresario-revela-acordo-para-renovacao-de-pulgar-no-flamengo-continuar-fazendo-historia-aqui.ghtml",
-   "data": "2026-08-29T13:09:09+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Pulgar vibra em dividida no final do jogo e inflama o Maracanã O Flamengo vai evitar o risco de perder um de seus destaques nesta janela. A diretoria já tem um acerto com Erick Pulgar para assinar nos próximos dias o co…"
-  },
-  {
-   "titulo": "Capitã, Djeni reforça paixão antiga pelo Flamengo e vê time forte para as quartas do Brasileirão",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/29/capita-djeni-reforca-paixao-antiga-pelo-flamengo-e-ve-time-forte-para-as-quartas-do-brasileirao.ghtml",
-   "data": "2026-08-29T09:01:12+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Sábado de futebol: Flamengo recebe a Ferroviária pelo Brasileirão Djeni e Cristiane entraram em campo neste sábado com o Flamengo, no primeiro encontro das quartas de final do Brasileirão Feminino. Contra a Ferroviária,…"
-  },
-  {
-   "titulo": "Flamengo x Ferroviária no Brasileiro Feminino: onde assistir ao vivo e horário",
-   "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2026/08/29/flamengo-x-ferroviaria-no-brasileiro-feminino-onde-assistir-ao-vivo-e-horario.ghtml",
-   "data": "2026-08-29T07:02:20+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja como ficou a primeira fase do Brasileirão Feminino Flamengo e Ferroviária se enfrentam neste sábado, às 16h30 (de Brasília), pelo jogo de ida das quartas de final do Campeonato Brasileiro Feminino. A partida será r…"
-  },
-  {
-   "titulo": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 25ª rodada",
-   "link": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/08/29/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-25a-rodada.ghtml",
-   "data": "2026-08-29T04:38:43+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "A 25ª rodada do Campeonato Brasileiro começa às 18h30 (horário de Brasília) deste sábado com Atlético-MG x Vitória, na Arena MRV. O domingo reserva clássicos entre Flamengo e Botafogo, e Corinthians e Santos, além de te…"
-  },
-  {
-   "titulo": "Gol de título, polêmicas e fama de Bad Boy: veja como foi a passagem de Plata pelo Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/29/100-jogos-gol-de-titulo-e-fama-de-bad-boy-veja-como-foi-a-passagem-de-plata-pelo-flamengo.ghtml",
-   "data": "2026-08-29T04:00:21+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja todos os gols da passagem de Plata pelo Flamengo Chegou ao fim a passagem de Plata pelo Flamengo. Vendido ao Dínamo de Moscou por cerca de 10 milhões de euros (R$ 60,1 milhões), o atacante equatoriano embarcou para…"
-  },
-  {
-   "titulo": "Brasileiro Feminino: quartas de final começam neste sábado com dois jogos",
-   "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2026/08/29/brasileiro-feminino-quartas-de-final-comecam-neste-sabado-com-dois-jogos.ghtml",
-   "data": "2026-08-29T03:01:23+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja como ficou a primeira fase do Brasileirão Feminino As quartas de final do Campeonato Brasileiro Feminino de 2026 começam neste sábado como dois jogos simultâneos, às 16h30. O líder São Paulo visita o oitavo colocad…"
-  },
-  {
-   "titulo": "Palpites e dicas para Flamengo x Botafogo pelo Brasileirão",
-   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/08/28/palpites-e-dicas-para-flamengo-x-botafogo-pelo-brasileirao.ghtml",
-   "data": "2026-08-28T22:57:10+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Botafogo: informações e palpite para o jogo Estarão em campo dois dos três melhores ataques do Brasileirão, o Flamengo com 45 gols, melhor desempenho, e o Botafogo com 37, terceiro melhor desempenho. São dois…"
-  },
-  {
-   "titulo": "Favoritismos #25: dicas, palpites e chances no Brasileirão",
-   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/08/28/favoritismos-25-dicas-palpites-e-chances-no-brasileirao.ghtml",
-   "data": "2026-08-28T22:56:38+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Em sua perseguição ao líder Palmeiras, o Flamengo recebe o Botafogo no Maracanã em um confronto entre dois dos três melhores ataques do Brasileirão, que se garantem com alta eficiência nas finalizações. De dentro da áre…"
+   "resumo": ""
   }
  ]
 }
