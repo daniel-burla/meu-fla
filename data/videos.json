@@ -1,29 +1,35 @@
 {
- "atualizadoEm": "2026-09-06T05:01:54.731350+00:00",
+ "atualizadoEm": "2026-09-06T09:21:07.834850+00:00",
  "canais": [
   {
    "id": "UCOa-WaNwQaoyFHLCDk7qKIw",
    "nome": "Flamengo TV",
    "ok": true,
-   "itens": 15,
-   "aviso": "HTTP Error 404: Not Found"
+   "itens": 15
   },
   {
    "id": "UCZiYbVptd3PVPf4f6eR6UaQ",
    "nome": "CazéTV",
-   "ok": false,
-   "itens": 0,
-   "aviso": "HTTP Error 404: Not Found"
+   "ok": true,
+   "itens": 0
   },
   {
    "id": "UCw5-xj3AKqEizC7MvHaIPqA",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 1,
-   "aviso": "HTTP Error 404: Not Found"
+   "itens": 1
   }
  ],
  "itens": [
+  {
+   "videoId": "NNP8wHk3iic",
+   "titulo": "🔴 AO VIVO: FLAMENGO x FLUMINENSE | CAMPEONATO CARIOCA FEMININO SUB-20 (06/09/26)",
+   "data": "2026-09-06T07:26:52+00:00",
+   "canal": "Flamengo TV",
+   "thumb": "https://i.ytimg.com/vi/NNP8wHk3iic/hqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=NNP8wHk3iic",
+   "destaque": false
+  },
   {
    "videoId": "MyGJSF4wLfg",
    "titulo": "O MENGÃO JÁ ESTÁ EM BELÉM! 🔴⚫ #shorts",
@@ -157,15 +163,6 @@
    "canal": "Flamengo TV",
    "thumb": "https://i.ytimg.com/vi/R-IOXapAXLI/hqdefault.jpg",
    "url": "https://www.youtube.com/watch?v=R-IOXapAXLI",
-   "destaque": false
-  },
-  {
-   "videoId": "sJIBn00C4zM",
-   "titulo": "LEONARDO JARDIM | COLETIVA PÓS-JOGO | FLAMENGO 2 X 0 MIRASSOL | BRASILEIRÃO 2026 (02/09/26)",
-   "data": "2026-09-03T02:32:49+00:00",
-   "canal": "Flamengo TV",
-   "thumb": "https://i.ytimg.com/vi/sJIBn00C4zM/hqdefault.jpg",
-   "url": "https://www.youtube.com/watch?v=sJIBn00C4zM",
    "destaque": false
   }
  ]
