@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-06T20:48:06.128053+00:00",
+ "atualizadoEm": "2026-09-06T22:51:35.751235+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 50
+   "itens": 52
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,216 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 61
+   "itens": 64
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 93
+   "itens": 92
   }
  ],
  "itens": [
+  {
+   "titulo": "Jardim revela planos para Plata no Flamengo, exalta Lino e projeta jogo na altitude pela Libertadores",
+   "link": "https://colunadofla.com/2026/09/jardim-revela-planos-para-plata-no-flamengo-exalta-lino-e-projeta-jogo-na-altitude-pela-libertadores/",
+   "data": "2026-09-06T22:38:42+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Veja como foi a coletiva de imprensa de Leonardo Jardim após vitória sobre o Remo O técnico de futebol no Brasil não tem tempo de curtir as vitórias. No Flamengo, a afirmação tem peso dobrado. Depois da grande vitória p…"
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo vence o Remo e a tempestade, para tirar liderança do Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmJmM3FrYTFDcVN6ZUpIVV85ODRCNXN1Um96REtHR2RVSElqMEM3RS1ETHZpMzI1UDJKU0pCR2lRNW8zTnJwVGlLeXYyY0U5N2h3VWJhMDFhREZIbDRiZGVZQjRWcWJrN3d5TDgzalJONHBkOTducGZybkdmZ3VTZENiOFJreFE3SjhGTjlPSDk0aXR2ZVlDTi1tbWl1cHc0OHpMM1BtaE0zYjNHNTExbkNQaEY2TUhqTW5vdTlmbi1ORG1fdThr?oc=5",
+   "data": "2026-09-06T22:34:10+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Juca Kfouri: O Flamengo lidera sem asterisco",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJiMGNNVmxZRXpyazJsZHVXRmJfdHItNk5Uc0hiRVFYSzVGRFZiX3Q3RlhaQmhKQWRNcWwxX2dKc0V6TUN5TlRaWlJXcTJOUVJfOUVjZVFmQXpPZ3FLSnJvaFIxcTk3akF2MEFCODdISWE4clg5U1BmUV9mTHAyUzF3d2JJLVBGZkw2Wkc0dVNkZjI3X052QWlKU1I5d2xTeUJLVms3MWk?oc=5",
+   "data": "2026-09-06T22:32:56+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rossi destaca sacrifício de jogadores do Flamengo na vitória sobre o Remo, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/09/rossi-destaca-sacrificio-de-jogadores-do-flamengo-na-vitoria-sobre-o-remo-pelo-brasileirao/",
+   "data": "2026-09-06T22:20:40+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Como foi o jogo do Flamengo x Remo? O Flamengo venceu o Remo neste domingo (06), por 1 a 0, pela 26ª rodada do Brasileirão. Portanto, o goleiro Agustín Rossi comemorou a vitória e destacou o sacrifício dos jogadores em…"
+  },
+  {
+   "titulo": "Leonardo Jardim exalta torcida do Flamengo e comenta jejum de Pedro",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjRseXBCckVkY2VORHk4SVVkVWxISEJMVFFBM3NNMmgwc2ltMExSWnhoQUxsR2lhS2JXOFJaUHV0el91dnlTcEM1WGtzT2NjbTU0d1RNVng0VUd0ai1ENi1GNGxRUDl3NFpncmFtY3ZyUC1QdXJEN0VZdXMzUVFVQS1VWlZ1aGluUk5LdWFZanhzUXFpZXdJc3Njb0F1MUd5dVJGbmpreWVMQQ?oc=5",
+   "data": "2026-09-06T21:58:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim se derrete por torcida do Flamengo em Belém e faz análise curiosa do gramado do Mangueirão",
+   "link": "https://colunadofla.com/2026/09/jardim-se-derrete-por-torcida-do-flamengo-em-belem-e-faz-analise-curiosa-do-gramado-do-mangueirao/",
+   "data": "2026-09-06T21:55:56+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Veja o que disse Leonardo Jardim após vitória do Flamengo O Flamengo venceu o Remo por 1 a 0 neste domingo (06), pelo Brasileirão. O resultado foi conquistado na base da raça, por conta das fortes chuvas no Mangueirão,…"
+  },
+  {
+   "titulo": "Goleiro do Remo revela reação incrédula de Pedro após 'defesa do ano' contra o Flamengo: 'Como é que você fez isso?'",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRk9qa29QMl9fSlNhVGdGcF9jZ0IyVjliREFvV0lwajZ1ako5R01lUmd5T3lRVXdJZ0w1WFFkcDk5bEh1RER3QnkxMVVMVXkwZHhUR2pzQ0hDeEZMcURvUDhvcjRDSTJGN01IQWZkNDNIZ29pN1lTWm13VzFpbkpfSVNUU1BnYjMxX2Z3RXpYUFlWSXlZcTgwSTRwalE0Q0IzZS13SzQ4aHozUWxmUVhOMXJFVTJXdEJjS1dGRDNWX0JwY1JndU95cTNoZ21oVDRRaUFCMlJwdmdHNlpjTmRhdDZDcExlY2t2VE9mYzdBRVVjazQzTFJKM0FJeWs?oc=5",
+   "data": "2026-09-06T21:39:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Defesa em Remo x Flamengo assusta internautas: 'Vai me assombrar'",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVl6U2VkQlBYZ1ZtaGRaazlUNl8ydGJSTXA0VjExX3JSeDY2bjNqRDBVUHVTeDg0TFpDdktNSm4tSlRCb0o0LTNXaHp4WDFydnJiTTlQS3FBVnAwRDRkQVJHUzU3UHp2a3JmZUFTR0Nmd0lOa0pNd2RnNy1ocWpvNjNuNUlQbC04SW1GVXVWekpadXNWbkxXaGxyME95OU5YMGxPc240ZUNOdw?oc=5",
+   "data": "2026-09-06T21:38:24+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim comenta retorno de Plata ao Flamengo e disputa com Palmeiras: \"Estamos motivados\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/06/leonardo-jardim-analisa-vitoria-do-flamengo-contra-o-remo.ghtml",
+   "data": "2026-09-06T21:34:48+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Jardim comenta disputa do Flamengo com o Palmeiras pelo Brasileirão: \"Estamos motivados\" O Flamengo venceu o Remo fora de casa, neste domingo, no Mangueirão, e assumiu provisoriamente a liderança do Campeonato Brasileir…"
+  },
+  {
+   "titulo": "Samuel Lino admite 'cabeça quente' no Flamengo em polêmica sobre 'não tocarem a bola' e afirma: 'A gente se acertou'",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTkxJZjN5NDdrVDlPUEpjeDVNYVZhd2dsSWlEQUJLdXRWWnYxWGNfM25DOVBYZDBxaFc4aHpsS1kyeVRTeVNYNkkzRE5jaUV4Q2kyVmFfcWRydThvbWpzSnhELXJVRmhnNDMxV0w4LW5mQjl0X3ZmeHJyMHBGYWlueHhnTUh5QzlwWEpscDVEXzZ6WmFFOF80Q1c2OXZoYW5RdjVzc3pWRVV0TkNFQkU1ZElRNXFwZXI4eGozQTZDVHJuM1MtSkQwYnFVTmlyMjBlRlp3RHYtZmkwbE1VUkRGcmJ1MGpQSXJQU21tOXlweUYwbzA?oc=5",
+   "data": "2026-09-06T21:32:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo vence Remo com gol de Samuel Lino e pressiona Palmeiras na liderança do Brasileirão; VEJA como foi",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyaU5MbDU0OWNENVFLZ3I3SEZoS0RnQ0hiSmFnbFdhbWZzYWVINDM5OVJzZW9wSXd5XzZVdzl6RnlPNFpTbnNhcWtSQ0hYYmIzZ3RaUXBTSGl1SlI3Qnc?oc=5",
+   "data": "2026-09-06T21:28:59+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Escalações e onde assistir: saiba tudo sobre jogo do Palmeiras x Botafogo, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/09/escalacoes-e-onde-assistir-saiba-tudo-sobre-jogo-do-palmeiras-x-botafogo-pelo-brasileirao/",
+   "data": "2026-09-06T21:28:57+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo ultrapassou o Palmeiras e assumiu a liderança do Brasileirão O Flamengo venceu o Remo por 1 a 0, neste domingo (06), e assumiu a liderança do Campeonato Brasileiro. O Rubro-Negro, fica de olho no Palmeiras, que…"
+  },
+  {
+   "titulo": "Samuel Lino exalta Flamengo “guerreiro” contra o Remo e encerra polêmica com Arrascaeta",
+   "link": "https://colunadofla.com/2026/09/samuel-lino-exalta-flamengo-guerreiro-contra-o-remo-e-encerra-polemica-com-arrascaeta/",
+   "data": "2026-09-06T21:27:03+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo superou o gramado e o Remo neste domingo (06) Na raça, na camisa e no talento de Samuel Lino. Foi dessa forma que o Flamengo venceu o Remo por 1 a 0 neste domingo (06), com muita chuva no Mangueirão. Autor do g…"
+  },
+  {
+   "titulo": "Atuações do Flamengo: Lino brilha e é o melhor de novo; dê suas notas",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/06/atuacoes-do-flamengo-lino-brilha-e-e-o-melhor-novamente-de-suas-notas.ghtml",
+   "data": "2026-09-06T21:24:01+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Remo 0 x 1 Flamengo | Melhores momentos | 26ª rodada | Brasileirão 2026 Initial plugin text Jogadores de Remo e Flamengo perfilados em campo Fernando Torres/Agif ✅Clique aqui para seguir o novo canal ge Flamengo no What…"
+  },
+  {
+   "titulo": "Lino vê Flamengo 'guerreiro' e despista sobre seleção: 'Estou tranquilo'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTjcybEg4TXBJYTBaYjdvX1RxZGc0WW9EN2ExSEstM1g1RXhBYVlmbHVBUUtqTkdZX3l0dl9BT3JMZVppMW1kaGtFSzBtY21DVFZPNjRoelBuYXh0VG1pT09YZUF3SkFOR183QXY2Q280SGdhaUVaTWtzS01sZ0xJOTM4ZjRvX3Q3ZXdCZXN2ZUY0aXNCRk5FdWFwQ2NoSXNH?oc=5",
+   "data": "2026-09-06T21:22:38+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo martela até superar o Remo e coloca pressão no Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWo1aTVPMTVvZGFqM1BQZXNMbnd0TXhPYng2YnZkcFhsWGR6Y0Q1WTFMcnlwNnlsRl8waU55WlBBcndFaTRVRE5OY0VLem9lODRxbTJZTTVwNW12TmZydFZENFFtVHdkS0p6R2tKVUdKbk9NSkpZX1JXMXVIemJnVVJwdW5BV3g1Z3FkVFNhVHFjUkRRT0E4Q2ZIWU1qX3RfeTNHcHpXclNfTm5yQVZMRF9pTzlpZVUy?oc=5",
+   "data": "2026-09-06T21:18:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo sofre, mas vence o Remo e pressiona Palmeiras na briga pelo título do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTEg4aVItbmd3Y0l2SGVGUGhIWWdnRWxhSmZkbmVKbk91LXdnd0hfOVZoel9iUkN5MV9VUFJlaC1zSDdiaWRJc3k4RVVsVzg5aVRPSS1JUjV2YUNGcWNSdHVZWEdWcnliazg2cm0xZGttNlpoUENuR1ppMkZTQk5ScVVjajBqNmNlNF9WdnFveTM2aEdKOXhyMmFETHh2ZGlXRzBIdEVIcVAySWVTa044QUM3d2p2SmJsRG5nZ0M5OEM1N3dDNHhwSXN3dE1od2xWcFB0bS05T3NtX1FzUjlBcGJWZ1k1RzVuOWJHbEhreUdpQQ?oc=5",
+   "data": "2026-09-06T21:15:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "PC Oliveira aponta falha de arbitragem em Remo x Flamengo pelo Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXdheEY1R3FIc2ZQMG5XMGhsQnFwUHZsMXd1SVdtMkNVMG16anJTSHgtRXk4TkpvODVxem9kS0VlRXQ2VUZBZWlPbnA1cDVwcDZpZ0pxYmlfVmVDZkhOVGFfcGdaU1lGS3I5cFlzcGppb3VnX1FpVU9RTUFoeWI2TmNPRFJpSEhhVnExdnBiWXF0bmpsMVpkNDhUQ1ZwQmxqRUVGME9VcjFlc2FDM1lsUm5XNmVVYjJZUlE?oc=5",
+   "data": "2026-09-06T21:14:52+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "O gol de Samuel Lino, 'à la Ronaldo', que garantiu a vitória do Flamengo sobre o Remo no Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBENGNhTnF4X1l3TWZfV0xjZ2hvdklxNGhFS2VVbVdBREprNkFHS283b2VSYTF5VDJmZk5wekx4WGdNN3V2TmtYQWJMalBjQzBUZUREWjBjT3U4MjgzTFE?oc=5",
+   "data": "2026-09-06T21:11:27+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Dê suas notas: Flamengo vence o Remo com gol de Samuel Lino",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1k1aHFTS2VvTmlaRlljbHAyMkx2dHF4cV94bnAxcGJ4eFBLM2l1RnRkVVF6b1JJSTFsVGh4RVJZVGR0S09GbkZYQjJ3eVBOcV9RU0RadEhTNjNOTURKS2JrT2I5amhmOXhYamVyY3cyM0RvVS14Y2d5U3dIejFfZlRncUhOTHpNX05NVVdwOVg2a3dXZW81RjVxa2Z1QQ?oc=5",
+   "data": "2026-09-06T21:11:03+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Cadê o vermelho? Joaquín Freitas leva entrada violenta e jogador do Remo escapa da expulsão contra o Flamengo",
+   "link": "https://colunadofla.com/2026/09/cade-o-vermelho-joaquin-freitas-leva-entrada-violenta-e-jogador-do-remo-escapa-da-expulsao-contra-o-flamengo/",
+   "data": "2026-09-06T21:10:28+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Atacante argentino sofreu falta duríssima no tornozelo minutos após entrar em campo, mas árbitro aplicou apenas cartão amarelo Joaquín Freitas entrou no segundo tempo da vitória do Flamengo por 1 a 0 sobre o Remo, neste…"
+  },
+  {
+   "titulo": "Samuel Lino decide novamente, Flamengo vence o Remo e assume liderança provisória do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDRBa1hqWXVFSkw1Rk9FclNtMFY0cDYzakU1S2FyN213YWZQeDU1VWtzMWdpZk9tbGhMYW9HZnRtaFhpRUJFNm1YaHc0bHBrbnZON0NZUFVaWWE4eXI4VlBzZW1fRklYMmcyODJOSXN2NWVTdHB1VWcySVFUZmtkeXFhYnl0LUI3Um93RTVvOVd1TFRlNUFGY1ZZbU1zUUg1YnlIUlBqbnhPUFdVRVR1V2VhbFFzTUtXUVB2dERSWXY3OVNvYkhUbW80Zk5sem8?oc=5",
+   "data": "2026-09-06T21:01:48+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo vence Remo e pode terminar a rodada na liderança do Brasileirão",
+   "link": "https://colunadofla.com/2026/09/flamengo-vence-remo-e-pode-terminar-a-rodada-na-lideranca-do-brasileirao/",
+   "data": "2026-09-06T21:00:40+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo superou Remo e a chuva no Mangueirão Em jogo marcado pelas fortes chuvas e também por um ‘temporal’ de gols perdidos pelo Flamengo, o Mais Querido conseguiu mais três pontos na tabela do Brasileirão. Neste domi…"
+  },
+  {
+   "titulo": "Brasileirão: Lino brilha, Flamengo bate Remo fora de casa e tira Palmeiras da liderança",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdERGdHFOanVzZjJfbElwM1ZISzJUbE5KXzZqWkRnSlVtcFROQldzUGNTR1pPaVh3YTJyYlZVenZMVWczbmUzaWVGWkNIVDFmeENLdlFvb2VRcEQxaHJkNDdnMFotR015U29SaklxT3g2Y0Q3Rl9DeUlUQ2tCVFl2UUd2UHBnOEZnWFdHcVNrXzEzX0VkWVVaSjZKVDE1Y2dtNmFz?oc=5",
+   "data": "2026-09-06T21:00:27+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Sob temporal, Flamengo vence o Remo e 'seca' o Palmeiras para ser o novo líder do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVi1UZ19lM0NRSDJ6RFZuaTBPUDNYekd5RGpONk5nWk5iME9DRkxMSkJHT0dOQnZlNDg1U2MzcGVIYk1zQ2NXelFvOWFWOU9ZNzNhbi1LcTJMSlAtR2hxXzdjUDl2TUNxQlJ2Y0FrN2RaMTJjRUI4azk1dUZqdDZxaHNVMjdHdkFKMDBSUy1oWTAwUnI5allfVFFzVzI2WVVBXzdIYjg0emhELW1xOFRrVUd4bVFWV2YzaDhqeml4NnJ0TjN1ckdV?oc=5",
+   "data": "2026-09-06T21:00:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
   {
    "titulo": "Vídeo: Samuel Lino dá biquinho ‘a lá Romário’ e faz gol para o Flamengo contra o Remo, no Brasileirão",
    "link": "https://colunadofla.com/2026/09/video-samuel-lino-da-biquinho-a-la-romario-e-faz-gol-para-o-flamengo-contra-o-remo-no-brasileirao/",
@@ -98,22 +298,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Manto da Nação entra para o Guinness com recorde mundial, e Zico recebe placa em nome do Flamengo",
-   "link": "https://colunadofla.com/2026/09/manto-da-nacao-entra-para-o-guinness-com-recorde-mundial-e-zico-recebe-placa-em-nome-do-flamengo/",
-   "data": "2026-09-06T17:23:20+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Projeto superou 100 mil votos e recebeu placa oficial da organização em cerimônia na Gávea O projeto ‘Manto da Nação’ segue fazendo história. Neste domingo (06), o Guinness World Records reconheceu a iniciativa como o c…"
-  },
-  {
-   "titulo": "As prováveis escalações de Flamengo e Remo para jogo do Brasileirão hoje",
-   "link": "https://colunadofla.com/2026/09/as-provaveis-escalacoes-de-flamengo-e-remo-para-jogo-do-brasileirao-hoje/",
-   "data": "2026-09-06T16:47:28+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo e Remo se enfrentam neste domingo (06), no Estádio Mangueirão É dia de Mengão em campo! Neste domingo (06), o Flamengo enfrenta o Remo a partir das 16h (horário de Brasília), pela 26ª rodada do Brasileirão. Enq…"
-  },
-  {
    "titulo": "Mauro Cezar cobra Bap por situação do gramado do Maracanã",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRGRkOTBuUjgzSHhUZ282NnJTc3pidmpJZWRnLTNNdDdORGFzbFVQT3pKUGdUWGMzU0s2UVZUVDN4NWFRYTdJNE50UlRoOGUzZl9FSHdhZ084UmdEZU1GeHJhWTRHQzBmcXVIOUZVSTZ1OHNtU0Q2aEZKUUt1R3VrMUxsN09XSlJsY2N4YmtaRWFnRzR5Z295SzN1RERFbG5iVEJN?oc=5",
    "data": "2026-09-06T16:38:05+00:00",
@@ -154,36 +338,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Jogos do Brasileirão hoje: Remo x Flamengo, Botafogo x Palmeiras e mais 4 partidas acontecem neste domingo",
-   "link": "https://colunadofla.com/2026/09/jogos-do-brasileirao-hoje-remo-x-flamengo-botafogo-x-palmeiras-e-mais-4-partidas-acontecem-neste-domingo/",
-   "data": "2026-09-06T16:17:26+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Seis partidas estão marcadas para este domingo (06) O Flamengo encara o Remo neste domingo (06), pela 26ª rodada do Brasileirão. O confronto acontece no Estádio Mangueirão, e integra uma lista de seis partidas que movim…"
-  },
-  {
    "titulo": "Envolvido na negociação de Wallace Yan com Bragantino, Juliano Viana é anunciado pelo Flamengo",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/06/envolvido-na-negociacao-de-wallace-yan-com-bragantino-juliano-viana-e-anunciado-pelo-flamengo.ghtml",
    "data": "2026-09-06T15:13:47+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Gol do Palmeiras! No fim do jogo, Juliano recebe na área e marca O Flamengo apresentou oficialmente o atacante Juliano Viana, que fez parte da negociação que levou Wallace Yan para o Bragantino por 6 milhões de euros (R…"
-  },
-  {
-   "titulo": "Plata tem data para se juntar à delegação do Flamengo e fica à disposição de Jardim na Libertadores",
-   "link": "https://colunadofla.com/2026/09/plata-tem-data-para-se-juntar-a-delegacao-do-flamengo-e-fica-a-disposicao-de-jardim-na-libertadores/",
-   "data": "2026-09-06T15:12:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Após negociação com o Dínamo de Moscou (RUS) fracassar, equatoriano se junta ao grupo antes da viagem à Libertadores Gonzalo Plata segue no Flamengo após ser reprovado nos exames médicos do Dínamo de Moscou (RUS). Porta…"
-  },
-  {
-   "titulo": "Como a rodada do Brasileirão afeta o Flamengo: por cima e por baixo na tabela",
-   "link": "https://colunadofla.com/2026/09/como-a-rodada-do-brasileirao-afeta-o-flamengo-por-cima-e-por-baixo-na-tabela/",
-   "data": "2026-09-06T14:43:17+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Apenas seis pontos separam o Athletico-PR do Flamengo, e uma vitória do Furacão pode encurtar a distância na tabela O Flamengo precisa olhar para cima e para baixo nesta rodada do Brasileirão. Assim como a liderança pod…"
   },
   {
    "titulo": "Guga critica gramado do Maracanã antes da Libertadores: 'Desesperador'",
@@ -216,14 +376,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Aguardado no Rio de Janeiro para se reapresentar ao Flamengo neste domingo, após a negociação frustrada com o Dínamo de Moscou, Gonzalo Plata se manifestou nas redes sociais, nesta manhã. O equatoriano justificou o atra…"
-  },
-  {
-   "titulo": "Gonzalo Plata comunica fim da novela: “Foco está novamente no Flamengo”",
-   "link": "https://colunadofla.com/2026/09/gonzalo-plata-comunica-fim-da-novela-foco-esta-novamente-no-flamengo/",
-   "data": "2026-09-06T13:08:48+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Equatoriano deixou de ser negociado com o Dínamo de Moscou (RUS), que o reprovou em exames médicos Gonzalo Plata permanecerá no Flamengo. Isso porque o atacante publicou, neste domingo (06), que está com total atenção p…"
   },
   {
    "titulo": "Onde vai passar Remo x Flamengo pelo Brasileirão? Como assistir ao vivo",
@@ -498,7 +650,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Escalação do Flamengo: Jardim ganha reforços importantes para duelo com o Remo",
+   "titulo": "Escalação: Flamengo ganha reforços e retorno contra o Remo",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaEk0ZWZ0eW5WTkthc3d6ZG5fblNQXzVRLVRGM0IxX2dZX0kxNTVxeUx4Q3Z4N2tJS3VqUXVRTTV2U0xNZko5dDRDS0syTm14WTdYejQ1SmxScjltc180YTZWUlVEc3h6bGUtek9iR3VpZjIzbVVxcFlna0xZRFR2Q1J1Z2JUQ0R0QXFoM0kwak8zMjdBZ3ZKeXZGbG5CMkpwVlpQMEFsMEg5SnBRLWlNZGtFQUlYZXM?oc=5",
    "data": "2026-09-05T14:17:36+00:00",
    "fonte": "lance",
@@ -664,14 +816,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flamengo, Matheus França é anunciado por clube de Vini Jr",
-   "link": "https://colunadofla.com/2026/09/ex-flamengo-matheus-franca-e-anunciado-por-clube-de-vini-jr/",
-   "data": "2026-09-04T23:00:56+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Matheus França vai jogar no Alverca (POR) O meia-atacante Matheus França, revelado pelo Flamengo e com passagem recente pelo Vasco, vai defender o Alverca, de Portugal. O clube português acertou nesta sexta-feira (04) o…"
   },
   {
    "titulo": "Jornal exalta Filipe Luís e detona escolha de Luis Enrique em PSG 1 x 2 Monaco: 'Levanta muitos questionamentos'",
@@ -1085,150 +1229,6 @@
    "titulo": "FLAMENGO: LANCE TESTA ÓCULOS QUE VIRALIZOU COM ARRASCAETA NO MARACANÃ",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbS04ejdreDd1TU94SElwbTBFYXRTRFRQM3FyZWJfTVFyQ0ZHMENxbFVjZXFXNWNXVWpYRVBWOHJaS0o5b1dfS05KYVBWYzlWc3RlbUNXS3BaRThfZl85NU1GQWxhOF9QVzR5WHpLd19FYUtNd0VoeFdFRm1ISnFadWhTV2t2NElMblRGS3BYS3Y3XzNYNVhaS3lyVVF5M2lKdHc?oc=5",
    "data": "2026-09-03T23:53:12+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Lance! tem acesso aos óculos que viralizaram com Arrascaeta em jogo do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZldaNGxRSUNrLTFRY2xlOXBQd2ZzTDVNajVSbWg0SW5VRFdST080Q3RMSXJsTDl0TzJoWlMwekhrbkJQWkxQU3FZLUN6OGt0ajBORjJPZkRYVFI5Qm9FamViTFFSVVpoeVMzSF9aOHBrc1A2WE1CRTVaV3lBZGF1REVwbTJYbDZZYThwUEFXTGhsU1hBRWM2TkNJdV9SQ0x6bE1VdVV3X3lXVHR3T0dSWEN6MDJfREVv?oc=5",
-   "data": "2026-09-03T23:30:23+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Saúl volta a atuar pelo Flamengo depois de 95 dias e amplia opções de Jardim em momento decisivo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/03/saul-volta-a-atuar-pelo-flamengo-depois-de-95-dias-e-amplia-opcoes-de-jardim-em-momento-decisivo.ghtml",
-   "data": "2026-09-03T23:09:51+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Além de Valencia e Freitas: veja outros \"novos\" reforços para Jardim no Flamengo Foram apenas 18 minutos, mas suficientes para deixar um longo período de ausência para trás. Saúl foi um dos escolhidos por Leonardo Jardi…"
-  },
-  {
-   "titulo": "Governo e Consórcio Fla-Flu preparam reforma de R$ 2,5 milhões em tribuna do Maracanã para a Copa de 2027",
-   "link": "https://ge.globo.com/futebol/copa-do-mundo-feminina/noticia/2026/09/03/governo-e-consorcio-fla-flu-preparam-reforma-de-r-25-milhoes-em-tribuna-do-maracana-para-a-copa-de-2027.ghtml",
-   "data": "2026-09-03T22:36:30+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Vista geral do Maracanã. Marlon Costa/AGIF O Governo do Estado do Rio de Janeiro e o Consórcio Fla-Flu costuram acordo para reformar a Tribuna de Honra do Maracanã. A obra tem custo estimado de R$ 2,5 milhões e serve co…"
-  },
-  {
-   "titulo": "Análise tática do Guffo: como joga o Monaco de Filipe Luís",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXVHM29ReG0wQXBGNXFoaVNGRXp5TEx4QjJZMmJDRXhoNFRWenRwSndmcVZIUTBQUkRlcGp2LWRkMnBKYlFudzV5WDJsZmg3Slg0ZFJPSXE3dEpwcS1NejE3TU1NRktMYkFIR3ZYQW1fWHVkeDl5NWxKQjJkX3poVGN2SjlkMWtwa0FGNkJLbzV2TnM3X0VfcFhIY2d3VGFxQ3o1XzdQWjBPZG81b1E?oc=5",
-   "data": "2026-09-03T21:44:58+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Reunião de arbitragem tem protesto do Fluminense e pedido em vão por lance de Mirassol e Palmeiras",
-   "link": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/09/03/reuniao-de-arbitragem-tem-protesto-do-fluminense-e-pedido-em-vao-por-lance-de-mirassol-e-palmeiras.ghtml",
-   "data": "2026-09-03T21:31:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Fluminense sofre empate do Athletico-PR no fim do duelo do G-4 A reunião da Comissão de Arbitragem com os clubes foi quente nesta quarta-feira, na sede da CBF. Os dirigentes fizeram diversas reclamações no encontro para…"
-  },
-  {
-   "titulo": "Ex-Corinthians e Flamengo é anunciado como reforço na ESPN",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzFCR0thRGRfS0hCN0dVTjZ2dXUzNDFtWS1HWVM2Q0JfemhCUTZZalFBNWxjU0pYcFE2aDZXYmhqUTFTT1NNMFNpcGVXLWljR1djRVpRbkdXNmJsV09xQmI3SmFnNUhCMHVaVnh6MWZaRG92VV9idDNoWVF3MWN0TG41cFV3OS1XUS1mRjczVnExM05HZ0xKYTZ6em9fdkEzeC03Vg?oc=5",
-   "data": "2026-09-03T21:25:45+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Deuses ancestrais e o 'Urubu de Lima': a história por trás do novo Manto do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzVnUjFmQUdZMHVZeGU0TzhlRUxOaUU3MGVTVWN3MDRPcVlBa294c0ZYMDlYVWVUQWxyUU5TSVhCM3FwR1QxcTR3MFBQSVN5UklYTE1HQTVvWGN5enZYNnhmd2ZNWE5waHJvVlhRTlNYZ3pEQndxWTk2OXRvTnhSbWc1alBPbGNCTEhJM2ZwRjhxNkRPTDh2TEdBQVREVHl2UC1lUnN3RllSa3FJdzZpOGhnWGI4LWRJU3hwbQ?oc=5",
-   "data": "2026-09-03T20:05:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Cebolinha, do Flamengo, recusa o Botafogo após primeira investida e prioriza sair do país",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWE1HTzl4VFRTUERvMG8xZUxXMHpycWhoaWlFYjU4R3pPU2p0X0tfb2hWdHRoejZoMXRpcGFTYlZuUUhzYXNQdlUyakg3eFRjNTlHekdjcEp5WFBGWjNPOWtNWVJmQjZiVmc3QWFTUkNLMWxJRlotWnZDelRkUjhXM1Bidm1YQS1MeGRlM01PWV9YeFg3b2ZaXzJYQVp6WnZoWE02cWRxRFl1VGRFdXN1WHgzeWhOWUNLeGZWZHljTU1wSUdWcUtJbnFwY08tNVU?oc=5",
-   "data": "2026-09-03T19:55:26+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo aguarda chegada de Plata e reavaliará jogador para mata-mata da Libertadores",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/03/flamengo-aguarda-chegada-de-plata-e-reavaliara-jogador-para-mata-mata-da-libertadores.ghtml",
-   "data": "2026-09-03T19:09:36+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "E o Plata? Depois de a negociação com o Dínamo Moscou não ser concluída e ele ser devolvido ao Flamengo, quando o atacante voltará a campo? É a pergunta que o torcedor rubro-negro está se fazendo. A resposta é incerta.…"
-  },
-  {
-   "titulo": "Rossi, sobre Freitas no Flamengo: \"Mesmo que esteja acostumado à pressão do River, aqui é diferente\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/03/rossi-sobre-freitas-no-flamengo-mesmo-que-esteja-acostumado-a-pressao-do-river-aqui-e-diferente.ghtml",
-   "data": "2026-09-03T17:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Rossi elogia Joaquín Freitas e pede paciência com novo reforço do Flamengo Dos dois reforços contratados pelo Flamengo para a reta final da temporada, o argentino Freitas é quem carrega a maior esperança da torcida. O j…"
-  },
-  {
-   "titulo": "Brocador x “Valotelli”: Remo e Flamengo contavam com elencos modestos no último encontro em Belém",
-   "link": "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/09/03/brocador-x-valotelli-remo-e-flamengo-contavam-com-elencos-modestos-no-ultimo-encontro-em-belem.ghtml",
-   "data": "2026-09-03T15:29:17+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Mirassol perde para o Flamengo no Maracanã mas segue fora da zona no Campeonato Brasileiro Remo e Flamengo se encaram neste domingo, dia 6, no Estádio Mangueirão, em uma situação bem diferente da última vez em que estiv…"
-  },
-  {
-   "titulo": "Entenda por que Arrascaeta usou óculos especiais verdes antes de jogo do Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/03/entenda-por-que-arrascaeta-usou-oculos-especiais-verdes-antes-de-jogo-do-flamengo.ghtml",
-   "data": "2026-09-03T15:27:07+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Arrascaeta lançou óculos especiais Antes de a bola rolar para a vitória do Flamengo sobre o Mirassol, nesta quarta-feira, no Maracanã, chamou atenção a chegada de Arrascaeta ao estádio, por causa de um detalhe: o urugua…"
-  },
-  {
-   "titulo": "Flamengo cola de vez no Palmeiras e coloca fogo no Brasileirão; veja a situação de cada time",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORjdrQ3pobDZWTXFoS3VNRzNVTXU5NmQ4WU1sdTdxSkJXSDh5YlI1VDR5SkdKNm0tWVJFU0tCRVZ1MUNLcVJGdi0zZ3BtWkwxekF5ajdGZ0dBSHY5TV85MFZwRHlVbkRoeDU0ZHR6TWY2MHVsbGlFSDNkcGY5bm9COTZHdkxhQUJ5YlhhY0lyakJfa2FnTHdaUW9DSE9Oa3FhbFdsREQ0a1VPSVhvSmJrcV9RaU1TTWJrRVozWUlYelhuaTVuUFlVVC1qYXY1OE03cnlpSldJNk5yR0E?oc=5",
-   "data": "2026-09-03T14:56:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Botafogo sondou Cebolinha, do Flamengo, mas esbarrou em desejo de deixar o Rio de Janeiro; veja bastidores",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY1N0c3YxVzNsZ0JmMlhxZk10cGtLTmtvUFY5a0ZBLWNuS1VVUmYxUW5KV19zU3duaFUzU25kbVZOMlNIVEJCTVY1eUxLQ0VsRGU5dzgtLXBackZRajdVQV9NeWNsUDVmN05pM25RRWZQWUVENUZ4TDNQUHVpcnZEX3lOMklEX29yckU0cjhGZ3FYTUpNZDVjZ05KU19WTmQxZVR0OExCNHNVWWxZMnhhZlZMb0lVMkkwNDNzMG9XVHNKUldoLWRFTi0yaDIxVGYycXVibEhwTnBGeTladzRmVklUZEt0WVBWeXRJSFNPaW95TDNxNzJLcQ?oc=5",
-   "data": "2026-09-03T14:44:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Técnico do PSG cita Flamengo e elogia Filipe Luís: 'Gosto muito'",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGNsTTBvN1IxcTRSUjJVNWYtVWhEWFBHcmt0T1ZlbmJEUnpyMGVsN3N2LTM2VW5mUzRma1RMVGJVd25fS1NjV1kwM2Y0ZHNER1g4R3ZzZklrS2pHSDhlQk40QzhMQU5ISlRLdFJYRmdQRmZwVFFDUVlaM1B2Sm9LRzBESmpBbnhvUmJvaGs4UTlRc01lT0tCdTdpdlowSEIzc0d5bHc0TkF4Qkp0eUw4WFR6QQ?oc=5",
-   "data": "2026-09-03T14:31:13+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Carrascal é o jogador de Série A que precisa de menos minutos para participar de gol no último mês",
-   "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/03/carrascal-e-o-jogador-de-serie-a-que-precisa-de-menos-minutos-para-participar-de-gol-no-ultimo-mes.ghtml",
-   "data": "2026-09-03T14:21:27+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Confira os gols e as assistências do Carrascal pelo Flamengo nos últimos 30 dias Carrascal se tornou o nome mais decisivo do Flamengo nas últimas semanas. Desde o início de agosto, são cinco assistências e três gols, o…"
-  },
-  {
-   "titulo": "'Elenco do Flamengo é melhor que o do Palmeiras', diz Arnaldo",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcEdNdDFqZG1FNzFtNF9YTDBvdWh0OWRZQTFKZ0lCZDBtQXV3VjBPb0huOTJ6dlI5dGlsNkdNRzduSlFJSzNPbnVWbEZlZTlWbUdsUFY1VUZMTy1WVVNKYmlSMHljRVN2R0RLeHc5UGJ1WnM4a2FQa3EzZlBPSzVqS2JZYUIyUGFvWUpsOWE4dmlSc3RQN2Z1NWFncV9sczQ4R0sxQnJSQkFjS2RsYUhJMHBYQjlhLTZTYmhnR1B3MVlkci05Tk9BNS1fcmhjeW8zdGFSdllqVFo3QUdTR0xoelFrZmlZV1ZQd09RZFpn?oc=5",
-   "data": "2026-09-03T14:06:38+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Filipe Luís põe Luis Enrique entre os cinco maiores técnicos da história",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLThfdVBVZUlaTzl5VUpuc1dSMjBxM0cyMmJESnFrZnB1Y0h5R0xVS21zYndlRl9KSkZrWXVPTFRCU0w3YTJzUVZUUl8zTEJ6aWx4NDBRYlp4bnZpWU1TaXoxZjVnSXNHV1lQSENxUHNWX1A5ckxLU3J0alk0SkhnTTNtTHpWN3I3OUw3ajRITVNNSWZzWEp0OTR0RUwyTkNoWU9kX3FDTlpFRS16QW9vZWhkQ2lDZi1XRGlwV05ScHQydw?oc=5",
-   "data": "2026-09-03T14:05:29+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
