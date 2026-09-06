@@ -1,23 +1,26 @@
 {
- "atualizadoEm": "2026-09-06T00:16:52.351849+00:00",
+ "atualizadoEm": "2026-09-06T05:01:54.731350+00:00",
  "canais": [
   {
    "id": "UCOa-WaNwQaoyFHLCDk7qKIw",
    "nome": "Flamengo TV",
    "ok": true,
-   "itens": 15
+   "itens": 15,
+   "aviso": "HTTP Error 404: Not Found"
   },
   {
    "id": "UCZiYbVptd3PVPf4f6eR6UaQ",
    "nome": "CazéTV",
-   "ok": true,
-   "itens": 0
+   "ok": false,
+   "itens": 0,
+   "aviso": "HTTP Error 404: Not Found"
   },
   {
    "id": "UCw5-xj3AKqEizC7MvHaIPqA",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 1
+   "itens": 1,
+   "aviso": "HTTP Error 404: Not Found"
   }
  ],
  "itens": [
