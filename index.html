@@ -532,16 +532,49 @@ async function carregaTudo() {
   btn.classList.add("girando");
   try {
     await Promise.all([carregaJogos(), carregaNoticias(), carregaVideos()]);
+    ultimaCarga = Date.now();
   } finally {
     setTimeout(() => btn.classList.remove("girando"), 400);
   }
 }
 $("#btnAtualizar").addEventListener("click", carregaTudo);
-document.addEventListener("visibilitychange", () => { if (!document.hidden) carregaJogos(); });
+
+// Ao voltar para o app, recarrega tudo. O iOS mantém a PWA suspensa em vez de
+// fechá-la, então sem isso o conteúdo poderia ficar parado por horas.
+const RECARGA_MINIMA = 30000;
+let ultimaCarga = 0;
+
+function carregaSeVelho() {
+  if (document.hidden) return;
+  if (Date.now() - ultimaCarga < RECARGA_MINIMA) return;
+  carregaTudo();
+}
+
+document.addEventListener("visibilitychange", carregaSeVelho);
+window.addEventListener("pageshow", carregaSeVelho);
+window.addEventListener("online", carregaSeVelho);
+
 carregaTudo();
 
 if ("serviceWorker" in navigator) {
-  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+  window.addEventListener("load", async () => {
+    try {
+      const reg = await navigator.serviceWorker.register("sw.js");
+      // Procura versão nova a cada retorno ao app.
+      document.addEventListener("visibilitychange", () => { if (!document.hidden) reg.update(); });
+    } catch (e) {}
+  });
+  // Quando um service worker novo assume, recarrega uma vez para o app já
+  // rodar o código atual em vez de esperar a próxima abertura. Só vale quando
+  // já havia um controlando: no primeiro acesso isso recarregaria à toa.
+  if (navigator.serviceWorker.controller) {
+    let recarregando = false;
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (recarregando) return;
+      recarregando = true;
+      location.reload();
+    });
+  }
 }
 </script>
 </body>
