@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-06T16:11:40.803658+00:00",
+ "atualizadoEm": "2026-09-06T18:36:08.268588+00:00",
  "canais": [
   {
    "id": "UCOa-WaNwQaoyFHLCDk7qKIw",
@@ -17,10 +17,19 @@
    "id": "UCw5-xj3AKqEizC7MvHaIPqA",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 1
+   "itens": 0
   }
  ],
  "itens": [
+  {
+   "videoId": "_DxvQsEuSVU",
+   "titulo": "#Vestiário preparado para mais um dia de Mengo! 🟥⬛️ #REMxFLA",
+   "data": "2026-09-06T17:29:57+00:00",
+   "canal": "Flamengo TV",
+   "thumb": "https://i.ytimg.com/vi/_DxvQsEuSVU/hqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=_DxvQsEuSVU",
+   "destaque": false
+  },
   {
    "videoId": "o9tHVAvIz20",
    "titulo": "O Mengão está no Guinness World Records™! Agora, é hora de vestir essa marca histórica.",
@@ -37,15 +46,6 @@
    "canal": "Flamengo TV",
    "thumb": "https://i.ytimg.com/vi/NNP8wHk3iic/hqdefault.jpg",
    "url": "https://www.youtube.com/watch?v=NNP8wHk3iic",
-   "destaque": false
-  },
-  {
-   "videoId": "OXLGqm3RL30",
-   "titulo": "'É DESESPERADOR', GUGA DESABAFOU SOBRE O GRAMADO DO MARACANÃ! 🗣️ #shorts",
-   "data": "2026-09-06T14:02:55+00:00",
-   "canal": "ESPN Brasil",
-   "thumb": "https://i.ytimg.com/vi/OXLGqm3RL30/hqdefault.jpg",
-   "url": "https://www.youtube.com/watch?v=OXLGqm3RL30",
    "destaque": false
   },
   {
@@ -155,15 +155,6 @@
    "thumb": "https://i.ytimg.com/vi/zZLUUjFw4yM/hqdefault.jpg",
    "url": "https://www.youtube.com/watch?v=zZLUUjFw4yM",
    "destaque": true
-  },
-  {
-   "videoId": "aXDwyf9NGmk",
-   "titulo": "POR QUE A CAMISA DO FLAMENGO É CHAMADA DE MANTO SAGRADO? | CORRE O TEMPO NO OLHAR #2",
-   "data": "2026-09-03T16:00:25+00:00",
-   "canal": "Flamengo TV",
-   "thumb": "https://i.ytimg.com/vi/aXDwyf9NGmk/hqdefault.jpg",
-   "url": "https://www.youtube.com/watch?v=aXDwyf9NGmk",
-   "destaque": false
   }
  ]
 }
