@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Meu Fla</title>
-<meta name="description" content="Jogos, resultados e notícias do Flamengo">
+<meta name="description" content="Jogos, resultados, tabela e notícias do Flamengo">
 <meta name="theme-color" content="#c3000d">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -17,7 +17,7 @@
   --vermelho:#e01020; --vermelho-escuro:#c3000d;
   --fundo:#0a0a0b; --superficie:#141417; --superficie-2:#1c1c21;
   --borda:#2a2a31; --texto:#f2f2f4; --texto-fraco:#9a9aa5;
-  --verde:#2fbf6a; --amarelo:#e8b021;
+  --verde:#2fbf6a; --amarelo:#e8b021; --azul:#3b8ad9;
   --raio:16px;
   --topo:env(safe-area-inset-top); --base:env(safe-area-inset-bottom);
 }
@@ -163,10 +163,71 @@ h2.secao:first-child{margin-top:4px}
 .noticia.lida .marca-lida::after{background:var(--texto-fraco);border-color:var(--texto-fraco)}
 .marca-lida:active::after{transform:scale(.85)}
 
+/* ---------- tabela de pontos ---------- */
+.tabela{
+  width:100%;border-collapse:separate;border-spacing:0;font-size:13px;font-variant-numeric:tabular-nums;
+  background:var(--superficie);border:1px solid var(--borda);border-radius:12px;overflow:hidden;
+}
+.tabela th,.tabela td{padding:8px 5px;text-align:right;white-space:nowrap}
+.tabela th{
+  font-size:10px;font-weight:700;letter-spacing:.5px;text-transform:uppercase;color:var(--texto-fraco);
+  padding:9px 5px 6px;border-bottom:1px solid var(--borda);
+}
+.tabela tbody tr+tr td{border-top:1px solid var(--borda)}
+.tabela .pos{width:30px;text-align:center;font-weight:700;color:var(--texto-fraco);border-left:3px solid transparent;padding-left:4px}
+.tabela .time{text-align:left;width:100%;max-width:0;overflow:hidden;text-overflow:ellipsis}
+.tabela .p{font-weight:800}
+.tabela tr.fla td{background:rgba(224,16,32,.12)}
+.tabela tr.fla .time{font-weight:700}
+.tabela tr.fla .pos{color:var(--texto)}
+.tabela tr.z-liberta .pos{border-left-color:var(--verde)}
+.tabela tr.z-pre .pos{border-left-color:rgba(47,191,106,.45)}
+.tabela tr.z-sula .pos{border-left-color:var(--azul)}
+.tabela tr.z-queda .pos{border-left-color:var(--vermelho)}
+.legenda{display:flex;flex-wrap:wrap;gap:6px 14px;margin:10px 2px 0;font-size:11px;color:var(--texto-fraco)}
+.legenda span::before{
+  content:"";display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:6px;
+  vertical-align:-1px;background:var(--cor);
+}
+
+/* ---------- mata-mata ---------- */
+.rodada{
+  margin:18px 0 8px;font-size:12px;font-weight:700;letter-spacing:.8px;
+  text-transform:uppercase;color:var(--texto-fraco);
+}
+.rodada:first-child{margin-top:0}
+details.fase{margin:18px 0 8px}
+details.fase summary{list-style:none;cursor:pointer;-webkit-tap-highlight-color:transparent}
+details.fase summary::-webkit-details-marker{display:none}
+details.fase .rodada{margin:0;display:flex;align-items:center;gap:8px}
+details.fase .rodada .estado{font-weight:500;letter-spacing:0;text-transform:none;font-size:11px}
+details.fase .rodada::after{content:"›";margin-left:auto;font-size:18px;line-height:1;transition:transform .15s}
+details.fase[open] .rodada::after{transform:rotate(90deg)}
+details.fase[open] summary{margin-bottom:8px}
+.chave{
+  position:relative;overflow:hidden;padding:9px 14px 10px 16px;margin-bottom:8px;
+  background:var(--superficie);border:1px solid var(--borda);border-radius:12px;
+}
+.chave.fla::before{content:"";position:absolute;inset:0 auto 0 0;width:4px;background:var(--vermelho)}
+.chave .time{display:flex;align-items:center;gap:8px;padding:4px 0;font-size:14px;font-weight:600}
+.chave .time img,.chave .time .vazio{width:22px;height:22px;flex:none;object-fit:contain}
+.chave .time .vazio{border-radius:50%;border:1.5px dashed var(--borda)}
+.chave .time .nome{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.chave .time.tbd .nome{color:var(--texto-fraco);font-weight:500}
+.chave .time.fora{color:var(--texto-fraco);font-weight:500}
+.chave .time.passou{font-weight:800}
+.chave .placar-jogo{width:30px;text-align:center;font-size:13px;color:var(--texto-fraco);font-variant-numeric:tabular-nums}
+.chave .agg{width:34px;text-align:right;font-weight:800;font-variant-numeric:tabular-nums}
+.chave .rotulos{padding:0 0 2px}
+.chave .rotulos .placar-jogo,.chave .rotulos .agg{
+  font-size:9px;font-weight:600;letter-spacing:.4px;text-transform:uppercase;color:var(--texto-fraco);
+}
+.chave .nota{margin-top:5px;font-size:11px;color:var(--texto-fraco);display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+
 /* ---------- abas ---------- */
 nav{
   position:fixed;left:0;right:0;bottom:0;z-index:30;
-  display:grid;grid-template-columns:repeat(2,1fr);
+  display:grid;grid-template-columns:repeat(3,1fr);
   padding-bottom:var(--base);
   background:rgba(16,16,19,.92);backdrop-filter:saturate(180%) blur(18px);
   border-top:1px solid var(--borda);
@@ -208,6 +269,14 @@ nav button[aria-selected="true"]{color:var(--vermelho)}
     <div class="lista" id="listaResultados"><div class="esqueleto"></div><div class="esqueleto"></div></div>
   </section>
 
+  <!-- ===== TABELA ===== -->
+  <section class="painel" id="painel-tabela">
+    <h2 class="secao" id="tituloLibertadores">Libertadores</h2>
+    <div id="tabelaLibertadores"><div class="esqueleto" style="height:140px"></div></div>
+    <h2 class="secao">Brasileirão</h2>
+    <div id="tabelaBrasileirao"><div class="esqueleto" style="height:420px"></div></div>
+  </section>
+
   <!-- ===== NOTÍCIAS ===== -->
   <section class="painel" id="painel-noticias">
     <div class="chips" id="chipsFontes"></div>
@@ -220,6 +289,10 @@ nav button[aria-selected="true"]{color:var(--vermelho)}
   <button role="tab" aria-selected="true" data-painel="jogos">
     <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3v4M12 17v4M3.5 9l3.7 2.6M16.8 11.6l3.7-2.6M6.6 19l1.5-4M15.9 15l1.5 4"/></svg>
     Jogos
+  </button>
+  <button role="tab" aria-selected="false" data-painel="tabela">
+    <svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M3 9.5h18M3 14.5h18M9 9.5V20"/></svg>
+    Tabela
   </button>
   <button role="tab" aria-selected="false" data-painel="noticias">
     <svg viewBox="0 0 24 24"><path d="M4 5h13v14H6a2 2 0 0 1-2-2z"/><path d="M17 8h3v9a2 2 0 0 1-2 2h-1"/><path d="M7.5 9h6M7.5 12.5h6M7.5 16h4"/></svg>
@@ -525,6 +598,202 @@ function marcaAtualizacao(iso) {
   el.textContent = iso ? `Notícias atualizadas ${tempoRelativo(iso)}` : "Notícias indisponíveis";
 }
 
+/* ---------- ESPN: tabela e mata-mata ---------- */
+// Faixas do Brasileirão. A ESPN não marca zonas, então ficam fixas aqui.
+// Podem mudar no fim do ano conforme o campeão da Copa do Brasil.
+const ZONAS_BR = [[1, 4, "z-liberta"], [5, 6, "z-pre"], [7, 12, "z-sula"], [17, 20, "z-queda"]];
+const FASES = { "round-of-16": "Oitavas de final", quarterfinals: "Quartas de final", semifinals: "Semifinal", final: "Final" };
+const ESPN_TABELA = "https://site.api.espn.com/apis/v2/sports/soccer";
+
+function stat(entry, nome) {
+  return entry.stats?.find((s) => s.name === nome)?.displayValue ?? "";
+}
+
+function normalizaLinha(entry) {
+  const t = entry.team || {};
+  return {
+    id: t.id,
+    nome: t.shortDisplayName || t.displayName || "",
+    escudo: t.logos?.[0]?.href || "",
+    pos: Number(stat(entry, "rank")),
+    p: stat(entry, "points"),
+    j: stat(entry, "gamesPlayed"),
+    v: stat(entry, "wins"),
+    e: stat(entry, "ties"),
+    d: stat(entry, "losses"),
+    sg: stat(entry, "pointDifferential"),
+  };
+}
+
+function zonaBR(pos) {
+  const z = ZONAS_BR.find(([a, b]) => pos >= a && pos <= b);
+  return z ? z[2] : "";
+}
+
+function tabelaHTML(linhas, comZonas) {
+  const tr = linhas.map((l) => `<tr class="${l.id === FLAMENGO_ID ? "fla " : ""}${comZonas ? zonaBR(l.pos) : ""}">
+    <td class="pos">${l.pos}</td>
+    <td class="time"><img class="escudo-mini" src="${esc(l.escudo)}" alt="">${esc(l.nome)}</td>
+    <td class="p">${esc(l.p)}</td><td>${esc(l.j)}</td><td>${esc(l.v)}</td><td>${esc(l.e)}</td><td>${esc(l.d)}</td><td>${esc(l.sg)}</td>
+  </tr>`).join("");
+  const legenda = comZonas
+    ? `<div class="legenda">
+        <span style="--cor:var(--verde)">Libertadores</span>
+        <span style="--cor:rgba(47,191,106,.45)">Pré-Libertadores</span>
+        <span style="--cor:var(--azul)">Sul-Americana</span>
+        <span style="--cor:var(--vermelho)">Rebaixamento</span>
+      </div>`
+    : "";
+  return `<table class="tabela">
+    <thead><tr><th class="pos">#</th><th class="time">Time</th><th>P</th><th>J</th><th>V</th><th>E</th><th>D</th><th>SG</th></tr></thead>
+    <tbody>${tr}</tbody>
+  </table>${legenda}`;
+}
+
+function ehTBD(team) {
+  return /^TBD\b/i.test(team?.shortDisplayName || team?.displayName || "");
+}
+
+// Junta ida e volta do mesmo confronto. A ESPN não numera as chaves, então o
+// par de times é a identidade; quando os dois ainda são "TBD" (semis e final
+// antes de definidos), pareia o n-ésimo jogo de ida com o n-ésimo de volta.
+function agrupaConfrontos(eventos) {
+  const grupos = new Map();
+  const contador = {};
+  for (const ev of eventos) {
+    const c = ev.competitions?.[0];
+    if (!c || c.competitors?.length !== 2) continue;
+    const fase = ev.season?.slug;
+    let chave;
+    if (c.competitors.every((t) => ehTBD(t.team))) {
+      const leg = c.leg?.displayValue || "x";
+      contador[fase + leg] = (contador[fase + leg] || 0) + 1;
+      chave = `${fase}:tbd:${contador[fase + leg]}`;
+    } else {
+      chave = `${fase}:${c.competitors.map((t) => t.team.id).sort().join("-")}`;
+    }
+    if (!grupos.has(chave)) grupos.set(chave, { fase, eventos: [] });
+    grupos.get(chave).eventos.push(ev);
+  }
+  return [...grupos.values()];
+}
+
+function montaConfronto({ fase, eventos }) {
+  const primeiro = eventos[0].competitions[0];
+  const casa = primeiro.competitors.find((t) => t.homeAway === "home") || primeiro.competitors[0];
+  const fora = primeiro.competitors.find((t) => t !== casa);
+  const times = [casa, fora].map((t) => {
+    const tbd = ehTBD(t.team);
+    return {
+      id: t.team.id,
+      tbd,
+      nome: tbd ? "A definir" : t.team.shortDisplayName || t.team.displayName,
+      escudo: tbd ? "" : t.team.logo || "",
+    };
+  });
+
+  const jogos = eventos.map((ev) => {
+    const c = ev.competitions[0];
+    const estado = c.status?.type?.state || "pre";
+    const gols = times.map((t) => {
+      if (t.tbd || estado === "pre") return null;
+      const comp = c.competitors.find((x) => x.team.id === t.id);
+      return comp?.score != null ? String(comp.score) : null;
+    });
+    return { data: c.date || ev.date, estado, gols };
+  });
+
+  const jogados = jogos.filter((j) => j.estado !== "pre");
+  const agregado = jogados.length ? times.map((_, i) => jogados.reduce((s, j) => s + Number(j.gols[i] || 0), 0)) : null;
+
+  const ultimo = eventos[eventos.length - 1].competitions[0];
+  const serie = ultimo.series?.competitors || [];
+  let vencedorId = serie.find((x) => x.winner)?.id || null;
+  if (!vencedorId && eventos.length === 1 && ultimo.status?.type?.state === "post") {
+    vencedorId = ultimo.competitors.find((x) => x.winner)?.team.id || null;
+  }
+  const pen = (ultimo.notes?.[0]?.headline || "").match(/(\d+)-(\d+) on penalties/);
+  const vencedor = times.find((t) => t.id === vencedorId);
+
+  return { fase, times, jogos, agregado, vencedorId, penaltis: pen && vencedor ? `${vencedor.nome} ${pen[1]}-${pen[2]}` : "" };
+}
+
+function quandoJogo(j, rotulo) {
+  const d = new Date(j.data);
+  const dia = fmtDiaMes.format(d).replace(" de ", " ").replace(".", "");  // "12 de ago." -> "12 ago"
+  const txt = j.estado === "pre" ? `${dia} ${fmtHora.format(d)}` : dia;
+  return rotulo ? `${rotulo} ${txt}` : txt;
+}
+
+function chaveHTML(cf) {
+  const fla = cf.times.some((t) => t.id === FLAMENGO_ID);
+  const idaVolta = cf.jogos.length > 1;
+  const rotulos = idaVolta ? ["Ida", "Volta"] : ["Placar"];
+  const cabeca = `<div class="time rotulos"><span class="nome"></span>${rotulos.map((r) => `<span class="placar-jogo">${r}</span>`).join("")}${idaVolta ? `<span class="agg">Total</span>` : ""}</div>`;
+  const linhas = cf.times.map((t, i) => {
+    const cls = ["time", t.tbd ? "tbd" : "", cf.vencedorId ? (cf.vencedorId === t.id ? "passou" : "fora") : ""].join(" ").trim();
+    const placares = cf.jogos.map((j) => `<span class="placar-jogo">${j.gols[i] ?? "–"}</span>`).join("");
+    const agg = idaVolta ? `<span class="agg">${cf.agregado ? cf.agregado[i] : "–"}</span>` : "";
+    const escudo = t.escudo ? `<img src="${esc(t.escudo)}" alt="">` : `<span class="vazio"></span>`;
+    return `<div class="${cls}">${escudo}<span class="nome">${esc(t.nome)}</span>${placares}${agg}</div>`;
+  }).join("");
+  const aoVivo = cf.jogos.some((j) => j.estado === "in") ? `<span class="ao-vivo">Ao vivo</span>` : "";
+  const datas = cf.jogos.map((j, i) => quandoJogo(j, idaVolta ? (i === 0 ? "Ida" : "Volta") : "")).join(" · ");
+  const pen = cf.penaltis ? ` · Pênaltis ${esc(cf.penaltis)}` : "";
+  return `<div class="chave${fla ? " fla" : ""}">${cabeca}${linhas}<div class="nota">${aoVivo}<span>${datas}${pen}</span></div></div>`;
+}
+
+function mataMataHTML(eventos) {
+  const evs = eventos
+    .filter((e) => FASES[e.season?.slug])
+    .sort((a, b) => new Date(a.date) - new Date(b.date));
+  if (!evs.length) return "";
+  const temFla = (cf) => (cf.times.some((t) => t.id === FLAMENGO_ID) ? 1 : 0);
+  const porFase = {};
+  for (const cf of agrupaConfrontos(evs).map(montaConfronto)) (porFase[cf.fase] ||= []).push(cf);
+
+  return Object.keys(FASES).filter((f) => porFase[f]).map((f) => {
+    const chaves = porFase[f].sort((a, b) => temFla(b) - temFla(a)).map(chaveHTML).join("");
+    const concluida = porFase[f].every((cf) => cf.vencedorId);
+    // Fase encerrada fica dobrada para o que está em jogo aparecer primeiro.
+    if (concluida) {
+      return `<details class="fase"><summary><h3 class="rodada">${FASES[f]} <span class="estado">· encerrada</span></h3></summary>${chaves}</details>`;
+    }
+    return `<h3 class="rodada">${FASES[f]}</h3>${chaves}`;
+  }).join("");
+}
+
+async function carregaTabela() {
+  const json = (url) => fetch(url).then((r) => r.json()).catch(() => ({}));
+  const ano = new Date().getFullYear();
+  // Julho a dezembro cobre oitavas até a final e deixa a fase de grupos de fora.
+  const [br, lib] = await Promise.all([
+    json(`${ESPN_TABELA}/bra.1/standings`),
+    json(`https://site.api.espn.com/apis/site/v2/sports/soccer/conmebol.libertadores/scoreboard?dates=${ano}0701-${ano}1231&limit=100`),
+  ]);
+
+  const entradas = br.children?.[0]?.standings?.entries || [];
+  $("#tabelaBrasileirao").innerHTML = entradas.length
+    ? tabelaHTML(entradas.map(normalizaLinha), true)
+    : `<p class="aviso">Não consegui carregar o Brasileirão. Tente atualizar.</p>`;
+
+  const mata = mataMataHTML(lib.events || []);
+  if (mata) {
+    $("#tituloLibertadores").textContent = "Libertadores";
+    $("#tabelaLibertadores").innerHTML = mata;
+    return;
+  }
+  // Sem mata-mata ainda (primeiro semestre): mostra o grupo do Flamengo.
+  const grupos = await json(`${ESPN_TABELA}/conmebol.libertadores/standings`);
+  const grupo = (grupos.children || []).find((g) => g.standings?.entries?.some((e) => e.team?.id === FLAMENGO_ID));
+  if (grupo) {
+    $("#tituloLibertadores").textContent = `Libertadores · ${grupo.name.replace(/^Group/i, "Grupo")}`;
+    $("#tabelaLibertadores").innerHTML = tabelaHTML(grupo.standings.entries.map(normalizaLinha), false);
+  } else {
+    $("#tabelaLibertadores").innerHTML = `<p class="aviso">Não consegui carregar a Libertadores. Tente atualizar.</p>`;
+  }
+}
+
 /* ---------- abas ---------- */
 document.querySelectorAll('nav button').forEach((btn) => {
   btn.addEventListener("click", () => {
@@ -539,7 +808,7 @@ async function carregaTudo() {
   const btn = $("#btnAtualizar");
   btn.classList.add("girando");
   try {
-    await Promise.all([carregaJogos(), carregaNoticias()]);
+    await Promise.all([carregaJogos(), carregaNoticias(), carregaTabela()]);
     ultimaCarga = Date.now();
   } finally {
     setTimeout(() => btn.classList.remove("girando"), 400);

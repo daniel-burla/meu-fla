@@ -1,6 +1,6 @@
 # Meu Fla
 
-App web (PWA) com jogos, resultados e notícias do Flamengo. Custo zero: GitHub Pages para hospedar e GitHub Actions para atualizar os dados.
+App web (PWA) com jogos, resultados, tabela e notícias do Flamengo. Custo zero: GitHub Pages para hospedar e GitHub Actions para atualizar os dados.
 
 **App:** https://daniel-burla.github.io/meu-fla/
 
@@ -13,6 +13,7 @@ Abra o link no Safari, toque no botão de compartilhar e escolha "Adicionar à T
 | Aba | Fonte | Atualização |
 |---|---|---|
 | Jogos | API pública da ESPN, direto do navegador | a cada abertura do app |
+| Tabela | API pública da ESPN (classificação do Brasileirão e mata-mata da Libertadores), direto do navegador | a cada abertura do app |
 | Notícias | RSS do Google News e dos sites, via `scripts/fetch.py` | a cada 30 min pelo GitHub Actions |
 
 Jogos vêm ao vivo porque a ESPN libera CORS. Notícias passam pelo Action porque esses feeds bloqueiam chamadas do navegador; o resultado fica em `data/news.json`.
