@@ -6,7 +6,7 @@
 // o shell fosse cache primeiro, uma versão nova do index.html só apareceria
 // na abertura seguinte. Com rede primeiro, abrir o app já traz a versão atual;
 // se a rede demorar mais que TEMPO_LIMITE ou falhar, entra o que está guardado.
-const VERSION = "meu-fla-v8";
+const VERSION = "meu-fla-v9";
 const SHELL = ["./", "./index.html", "./manifest.json", "./icons/icon-192.png", "./icons/icon-512.png", "./icons/escudo.png"];
 const TEMPO_LIMITE = 3000;
 

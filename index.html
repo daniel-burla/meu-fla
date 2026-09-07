@@ -131,6 +131,8 @@ h2.secao:first-child{margin-top:4px}
   transition:background .15s,color .15s,border-color .15s;
 }
 .chip[aria-pressed="true"]{background:var(--vermelho);border-color:var(--vermelho);color:#fff}
+.campeonato{display:none}
+.campeonato.ativo{display:block}
 
 /* ---------- notícia ---------- */
 .noticia{
@@ -271,10 +273,17 @@ nav button[aria-selected="true"]{color:var(--vermelho)}
 
   <!-- ===== TABELA ===== -->
   <section class="painel" id="painel-tabela">
-    <h2 class="secao" id="tituloLibertadores">Libertadores</h2>
-    <div id="tabelaLibertadores"><div class="esqueleto" style="height:140px"></div></div>
-    <h2 class="secao">Brasileirão</h2>
-    <div id="tabelaBrasileirao"><div class="esqueleto" style="height:420px"></div></div>
+    <div class="chips" id="chipsCampeonato">
+      <button class="chip" aria-pressed="true" data-campeonato="brasileirao">Brasileirão</button>
+      <button class="chip" aria-pressed="false" data-campeonato="libertadores">Libertadores</button>
+    </div>
+    <div class="campeonato ativo" id="campeonato-brasileirao">
+      <div id="tabelaBrasileirao"><div class="esqueleto" style="height:420px"></div></div>
+    </div>
+    <div class="campeonato" id="campeonato-libertadores">
+      <h2 class="secao" id="tituloLibertadores" hidden></h2>
+      <div id="tabelaLibertadores"><div class="esqueleto" style="height:140px"></div></div>
+    </div>
   </section>
 
   <!-- ===== NOTÍCIAS ===== -->
@@ -779,7 +788,7 @@ async function carregaTabela() {
 
   const mata = mataMataHTML(lib.events || []);
   if (mata) {
-    $("#tituloLibertadores").textContent = "Libertadores";
+    $("#tituloLibertadores").hidden = true;
     $("#tabelaLibertadores").innerHTML = mata;
     return;
   }
@@ -787,12 +796,21 @@ async function carregaTabela() {
   const grupos = await json(`${ESPN_TABELA}/conmebol.libertadores/standings`);
   const grupo = (grupos.children || []).find((g) => g.standings?.entries?.some((e) => e.team?.id === FLAMENGO_ID));
   if (grupo) {
-    $("#tituloLibertadores").textContent = `Libertadores · ${grupo.name.replace(/^Group/i, "Grupo")}`;
+    $("#tituloLibertadores").textContent = grupo.name.replace(/^Group/i, "Grupo");
+    $("#tituloLibertadores").hidden = false;
     $("#tabelaLibertadores").innerHTML = tabelaHTML(grupo.standings.entries.map(normalizaLinha), false);
   } else {
     $("#tabelaLibertadores").innerHTML = `<p class="aviso">Não consegui carregar a Libertadores. Tente atualizar.</p>`;
   }
 }
+
+// Seletor de campeonato da aba Tabela. Abre no Brasileirão.
+$("#chipsCampeonato").addEventListener("click", (e) => {
+  const chip = e.target.closest(".chip");
+  if (!chip) return;
+  document.querySelectorAll("#chipsCampeonato .chip").forEach((c) => c.setAttribute("aria-pressed", String(c === chip)));
+  document.querySelectorAll(".campeonato").forEach((c) => c.classList.toggle("ativo", c.id === "campeonato-" + chip.dataset.campeonato));
+});
 
 /* ---------- abas ---------- */
 document.querySelectorAll('nav button').forEach((btn) => {
