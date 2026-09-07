@@ -642,7 +642,7 @@ function zonaBR(pos) {
 function tabelaHTML(linhas, comZonas) {
   const tr = linhas.map((l) => `<tr class="${l.id === FLAMENGO_ID ? "fla " : ""}${comZonas ? zonaBR(l.pos) : ""}">
     <td class="pos">${l.pos}</td>
-    <td class="time"><img class="escudo-mini" src="${esc(l.escudo)}" alt="">${esc(l.nome)}</td>
+    <td class="time"><img class="escudo-mini" loading="lazy" src="${esc(l.escudo)}" alt="">${esc(l.nome)}</td>
     <td class="p">${esc(l.p)}</td><td>${esc(l.j)}</td><td>${esc(l.v)}</td><td>${esc(l.e)}</td><td>${esc(l.d)}</td><td>${esc(l.sg)}</td>
   </tr>`).join("");
   const legenda = comZonas
@@ -743,7 +743,7 @@ function chaveHTML(cf) {
     const cls = ["time", t.tbd ? "tbd" : "", cf.vencedorId ? (cf.vencedorId === t.id ? "passou" : "fora") : ""].join(" ").trim();
     const placares = cf.jogos.map((j) => `<span class="placar-jogo">${j.gols[i] ?? "–"}</span>`).join("");
     const agg = idaVolta ? `<span class="agg">${cf.agregado ? cf.agregado[i] : "–"}</span>` : "";
-    const escudo = t.escudo ? `<img src="${esc(t.escudo)}" alt="">` : `<span class="vazio"></span>`;
+    const escudo = t.escudo ? `<img loading="lazy" src="${esc(t.escudo)}" alt="">` : `<span class="vazio"></span>`;
     return `<div class="${cls}">${escudo}<span class="nome">${esc(t.nome)}</span>${placares}${agg}</div>`;
   }).join("");
   const aoVivo = cf.jogos.some((j) => j.estado === "in") ? `<span class="ao-vivo">Ao vivo</span>` : "";
@@ -823,6 +823,18 @@ document.querySelectorAll('nav button').forEach((btn) => {
     window.scrollTo({ top: 0 });
   });
 });
+
+// Escudo que falhou tenta de novo uma vez. Em rede móvel a aba Tabela pede
+// dezenas de imagens à CDN da ESPN de uma vez e alguma cai; sem isso fica um
+// buraco na linha até o app ser reaberto. O evento de erro de <img> não sobe,
+// então o listener escuta na fase de captura.
+document.addEventListener("error", (e) => {
+  const img = e.target;
+  if (img.tagName !== "IMG" || img.dataset.retentou) return;
+  img.dataset.retentou = "1";
+  const url = img.src.split("#")[0];
+  setTimeout(() => { img.src = url + (url.includes("?") ? "&" : "?") + "r=1"; }, 1200);
+}, true);
 
 /* ---------- início ---------- */
 async function carregaTudo() {
