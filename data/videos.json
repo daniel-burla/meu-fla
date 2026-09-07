@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-07T00:53:58.157720+00:00",
+ "atualizadoEm": "2026-09-07T05:58:16.820558+00:00",
  "canais": [
   {
    "id": "UCOa-WaNwQaoyFHLCDk7qKIw",
@@ -11,7 +11,7 @@
    "id": "UCZiYbVptd3PVPf4f6eR6UaQ",
    "nome": "CazéTV",
    "ok": true,
-   "itens": 0
+   "itens": 1
   },
   {
    "id": "UCw5-xj3AKqEizC7MvHaIPqA",
@@ -22,30 +22,57 @@
  ],
  "itens": [
   {
+   "videoId": "V5ufXgtfCjM",
+   "titulo": "REMO 0 X 1 FLAMENGO | MELHORES MOMENTOS | BRASILEIRÃO (06/09/26)",
+   "data": "2026-09-07T04:09:41+00:00",
+   "canal": "Flamengo TV",
+   "thumb": "https://i.ytimg.com/vi/V5ufXgtfCjM/hqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=V5ufXgtfCjM",
+   "destaque": true
+  },
+  {
+   "videoId": "63bw-gk1cM8",
+   "titulo": "ABEL FERREIRA JOGA PRESSÃO PARA O FLAMENGO: 'TEM OBRIGAÇÃO' #shorts",
+   "data": "2026-09-07T02:38:49+00:00",
+   "canal": "ESPN Brasil",
+   "thumb": "https://i.ytimg.com/vi/63bw-gk1cM8/hqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=63bw-gk1cM8",
+   "destaque": false
+  },
+  {
+   "videoId": "uvQvOzjlgvg",
+   "titulo": "FLAMENGO X INDEPENDIENTE DEL VALLE | LIBERTADORES | NARRAÇÃO AO VIVO | NOCHE DE COPA",
+   "data": "2026-09-07T02:23:07+00:00",
+   "canal": "CazéTV",
+   "thumb": "https://i.ytimg.com/vi/uvQvOzjlgvg/hqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=uvQvOzjlgvg",
+   "destaque": false
+  },
+  {
+   "videoId": "WfLLJ2vcE0k",
+   "titulo": "PÓS-JOGO DE CORINTHIANS 1x2 CHAPECOENSE, FLAMENGO LÍDER E EMPATE DO PALMEIRAS | LINHA DE PASSE",
+   "data": "2026-09-07T02:06:33+00:00",
+   "canal": "ESPN Brasil",
+   "thumb": "https://i.ytimg.com/vi/WfLLJ2vcE0k/hqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=WfLLJ2vcE0k",
+   "destaque": false
+  },
+  {
+   "videoId": "1vGfhrdBc6I",
+   "titulo": "FLAMENGO EM ALTA, PALMEIRAS EM BAIXA... CONFIANÇA DO VERDÃO ABALADA PARA A LIBERTADORES? | #EquipeF",
+   "data": "2026-09-07T01:09:33+00:00",
+   "canal": "ESPN Brasil",
+   "thumb": "https://i.ytimg.com/vi/1vGfhrdBc6I/hqdefault.jpg",
+   "url": "https://www.youtube.com/watch?v=1vGfhrdBc6I",
+   "destaque": false
+  },
+  {
    "videoId": "mCNXqnkmWdE",
    "titulo": "LEONARDO JARDIM | COLETIVA PÓS-JOGO | REMO 0 X 1 FLAMENGO | BRASILEIRÃO 2026 (06/09/26)",
    "data": "2026-09-06T23:03:00+00:00",
    "canal": "Flamengo TV",
    "thumb": "https://i.ytimg.com/vi/mCNXqnkmWdE/hqdefault.jpg",
    "url": "https://www.youtube.com/watch?v=mCNXqnkmWdE",
-   "destaque": false
-  },
-  {
-   "videoId": "adQG93RXlLE",
-   "titulo": "REMO 0X1 FLAMENGO | INTERNACIONAL 2X3 SANTOS E CRUZEIRO 3X1 ATHLETICO | #EquipeF",
-   "data": "2026-09-06T22:37:22+00:00",
-   "canal": "ESPN Brasil",
-   "thumb": "https://i.ytimg.com/vi/adQG93RXlLE/hqdefault.jpg",
-   "url": "https://www.youtube.com/watch?v=adQG93RXlLE",
-   "destaque": false
-  },
-  {
-   "videoId": "WfLLJ2vcE0k",
-   "titulo": "AO VIVO: PÓS-JOGO DE CORINTHIANS 1x2 CHAPECOENSE, FLA LÍDER E EMPATE DO PALMEIRAS | LINHA DE PASSE",
-   "data": "2026-09-06T22:24:37+00:00",
-   "canal": "ESPN Brasil",
-   "thumb": "https://i.ytimg.com/vi/WfLLJ2vcE0k/hqdefault.jpg",
-   "url": "https://www.youtube.com/watch?v=WfLLJ2vcE0k",
    "destaque": false
   },
   {
@@ -82,15 +109,6 @@
    "canal": "Flamengo TV",
    "thumb": "https://i.ytimg.com/vi/MpBVxJXOQyw/hqdefault.jpg",
    "url": "https://www.youtube.com/watch?v=MpBVxJXOQyw",
-   "destaque": false
-  },
-  {
-   "videoId": "1TYshV46I6o",
-   "titulo": "LEONARDO JARDIM FALA APÓS A VITÓRIA DO FLAMENGO DIANTE DO REMO NO BRASILEIRÃO | PÓS-JOGO",
-   "data": "2026-09-06T21:40:00+00:00",
-   "canal": "ESPN Brasil",
-   "thumb": "https://i.ytimg.com/vi/1TYshV46I6o/hqdefault.jpg",
-   "url": "https://www.youtube.com/watch?v=1TYshV46I6o",
    "destaque": false
   },
   {
@@ -172,15 +190,6 @@
    "canal": "Flamengo TV",
    "thumb": "https://i.ytimg.com/vi/FGk3hbs4fnM/hqdefault.jpg",
    "url": "https://www.youtube.com/watch?v=FGk3hbs4fnM",
-   "destaque": false
-  },
-  {
-   "videoId": "rddiyphY0ts",
-   "titulo": "🔴 AO VIVO: COLETIVA DE IMPRENSA - APRESENTAÇÃO DOS NOVOS REFORÇOS DO FLAMENGO | 04/09/26",
-   "data": "2026-09-04T16:06:30+00:00",
-   "canal": "Flamengo TV",
-   "thumb": "https://i.ytimg.com/vi/rddiyphY0ts/hqdefault.jpg",
-   "url": "https://www.youtube.com/watch?v=rddiyphY0ts",
    "destaque": false
   }
  ]

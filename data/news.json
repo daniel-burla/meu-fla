@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-07T00:53:57.835174+00:00",
+ "atualizadoEm": "2026-09-07T05:58:16.724046+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 55
+   "itens": 59
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,160 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 61
+   "itens": 60
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 93
+   "itens": 91
   }
  ],
  "itens": [
+  {
+   "titulo": "Plata chega a Belém em meio a \"climão\" com o Flamengo, que relaciona atacante na Libertadores",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/07/plata-chega-a-belem-em-meio-a-climao-com-o-flamengo-que-relaciona-atacante-na-libertadores.ghtml",
+   "data": "2026-09-07T05:36:37+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Plata chega a Belém para se reapresentar ao Flamengo Gonzalo Plata chegou a Belém na madrugada desta segunda-feira para se reapresentar ao Flamengo 10 dias depois da sua venda do Dínamo Moscou, da Rússia, ser cancelada.…"
+  },
+  {
+   "titulo": "Análise: Flamengo vira líder do Brasileirão com futebol vistoso até debaixo de temporal",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/07/analise-flamengo-vira-lider-do-brasileirao-com-futebol-vistoso-ate-debaixo-de-temporal.ghtml",
+   "data": "2026-09-07T04:32:55+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Remo 0 x 1 Flamengo | Melhores momentos | 26ª rodada | Brasileirão 2026 O Campeonato Brasileiro tem um novo líder, e com justiça. Dono do melhor ataque e da melhor defesa (ao lado do Palmeiras) da competição, o Flamengo…"
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Palmeiras só empata com Gustavo Gómez melhor em campo e Flamengo é líder",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3Nnd1NleVV5WmNHcEhUOXhiMGdnaHhPdm00clI3bmR2WURXQTVySHhaajJjSmRNWDY2c2lIbG1CbVBfcHRWYUxUT2pCOUlHdFhIWXFkUGxWUDhyOTdYSDFBWkJmcFc5T19zRUdGSEFMNFR5Z3dyNWZfa0w4SXNkVWtqM0Q0MFB1RUh6SURtbTRmTHQ1WElXRjRwNTY1Rkh3dWJ6c3Q0Z05vQlJFM21pQy1Dc0xOaUQwUnVwdGZINXVDR3pxbGpmZU93?oc=5",
+   "data": "2026-09-07T03:27:42+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras empata com Botafogo e vê Flamengo virar líder do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWZsdWktUWxLVk1vT1hXbURxdjVfVzVuRXFhUFhsLXZiaUhDVjVOTk1PM29NU3VCTFpwVk81bU94OUhIbUFqam5sdXJBbS0wU2ZGMXA3TjJFOEh0OVBpWnY2aUxNODJaX1VHRU5DWWJHSHNTZ1dWTHZTNHQ2UFJiSTcwSEptWGdldlJqeXlRZ1FTVmRJdlRwR3c1NVlvdTA0elZ0SzdNLU9MaTljeHc?oc=5",
+   "data": "2026-09-07T03:27:34+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo faz piada com \"ajuda\" do Botafogo para conseguir liderança: \"Obrigado, amigo\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/07/flamengo-faz-piada-com-ajuda-do-botafogo-para-conseguir-lideranca-obrigado-amigo.ghtml",
+   "data": "2026-09-07T03:18:38+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Remo 0 x 1 Flamengo | Melhores momentos | 26ª rodada | Brasileirão 2026 Uma publicação do Flamengo fez sucesso nas redes sociais pelo fato de o clube agradecer a \"ajuda\" do Botafogo para conseguir a liderança do Brasile…"
+  },
+  {
+   "titulo": "Técnico do Palmeiras, Abel Ferreira ‘entrega’ título do Brasileirão ao Flamengo: “Tem obrigação de fazer mais”",
+   "link": "https://colunadofla.com/2026/09/tecnico-do-palmeiras-abel-ferreira-entrega-titulo-do-brasileirao-ao-flamengo-tem-obrigacao-de-fazer-mais/",
+   "data": "2026-09-07T02:45:39+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Palmeiras perdeu a liderança do Brasileirão neste domingo (06) O Flamengo assumiu a liderança do Brasileirão neste domingo (06), após vencer o Remo por 1 a 0. Enquanto isso, o Palmeiras empatou em 0 a 0 com o Botafogo e…"
+  },
+  {
+   "titulo": "Remo 0 x 1 Flamengo - Melhores momentos - Brasileirão 2026",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclhiVGFVT3R2SUxoRFBfaFFUNGNsRFRaUFBYQTF4bmNQcnYtVzRzUGgxRDQ4ZmRTN2xnbVdvMG00cGRWR0JOWnpCOGpyT3lacFI0TkRmWVFNX0xUcjcxYnZKcE1VMTVDSHRzR1Mya3NmdVRwd2tMTE9BeWRneXR3VGxsQWFrSklqNlVqcHMyXzlsYkxBRW5NcXJfV1Q1S0w2MVBjRWc3cFQ4RC1IQUR5V0ln?oc=5",
+   "data": "2026-09-07T02:28:56+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Remo 0 x 1 Flamengo - Gol Samuel Lino - Brasileirão 2026",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmdLLVcyOTJ1WDNwZ2FpU1MxdENkblFDQlpwcUh0T1RuYXplamk3QmxZMk4zVEhiUXBFWVJmNnVoNHRBX2ZHTmFFcmVzajBQSWdIeEFmcEpXM0FUWDBKbjlhcmpadkYybEt0ejFSNGdROTdGc2JubGlOTVhwMm9JRVZUYlJsMll0d0ZVakxyVTZTbmw4elZQVUNBTVFCUkpLcnVFNGZXNjcxZUl5eFk0?oc=5",
+   "data": "2026-09-07T02:02:11+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo provoca Palmeiras e agradece ao Botafogo após assumir liderança do Brasileirão",
+   "link": "https://colunadofla.com/2026/09/flamengo-provoca-palmeiras-e-agradece-ao-botafogo-apos-assumir-lideranca-do-brasileirao/",
+   "data": "2026-09-07T01:53:50+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo usou as redes sociais para comemorar a liderança do Brasileirão Palmeiras e Botafogo empataram em 0 a 0, neste domingo (06), pela 26ª rodada do Brasileirão. Com o resultado, o Flamengo assumiu a liderança do ca…"
+  },
+  {
+   "titulo": "'Há uma equipe que tem a obrigação de fazer muito mais', diz Abel após Flamengo ultrapassar o Palmeiras no Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XenFNT3BaSnJyUVVUZE0yWm5pWUFPcXRfeUlzaVRyQUlsMFFBT250MFRoOGNCREJHOGFyMHpMcldKbVUzc2c2eGhBM1pqNnR5bmN0bk9NUlVleUpzSFE?oc=5",
+   "data": "2026-09-07T01:52:24+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Brasileirão: Flamengo bate o Remo por 1 a 0 e incendeia briga pela liderança",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd1Nya1JfLWoxN1RPOGpESUhpT1ZSNlVMVVVGa2tZSjNPa1JqWFdoMEk5eUlubU9fZTdxSVRkYnR2S3VQMnRydmpYTE1jRGo5OUtDZjdvUWpldmxVZjR6TnEzY2FYQWQ4MDVocUdLcDhUMHBXdmNKTDlGU2VaUzdETE1FRDBUTV9FSHdMUzZRMzNUblgzZGdIaGRsSWRZbGM2UUEweEI0U05UTVh6THNxZ0k2SUFsN0hXUFppNUpiWk1uc3psSkJQZ015NXZKa21ESmdhUTVjaEg1T0FfdDUtTE9GdVE?oc=5",
+   "data": "2026-09-07T01:42:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Abel 'joga responsabilidade' para o Flamengo e ironiza microfones à sua volta em Botafogo x Palmeiras: 'E vocês não me viram chutar nenhum'",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWnpWeUFoekdISGIzck14RDY4QjFsSjcyT1QyOTN2VnpKem85cWVtd1kzQlNjaEp0QktoNjZBd3M4djE1WklQTGVBRG5XWGR2VjRQYXlXUnBLX0NXcWNrMms4ell0eHlQSjM1aVNybjdsMVJ5ZkhOZ1ZyS1ZSMW5pa2NvRVJYZWZaUDVOWkpvdmhYTm55OXp5aFdfMVJJZnFuUnR4eEVLS0xMeWFnUTBxcEJNanNaczdna3dfR0lKN0dyZkVRVG9pd21YZDluZjVJTU5ZZlBYeU1CUktacDJYTllXVmdDUnN6d2lsMThNVEJ2SWRJS1gzWi1BdGFRbXUyZVhPSzhNLVBmVjQ3REhjLW1yYlZ5N2JjM2RGOEtvLVJqamtqMnEtWGJ3?oc=5",
+   "data": "2026-09-07T01:36:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras tropeça, Flamengo vence e assume a liderança do Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY01BRFg1RFVDeHB1b3Z4aUJPYkVHdVVNeENSN3BxZF8zMnYwUk50OWY3R0oydDQwSUR3ZXJ0UE81QnQ1am1PaEdPcnRRRjVRNjVtOW5nc3FhSTVVTDNDWTRZRFE0STktTFJCWU1VOGpHWnF4U09tazVrUUJvNFNoSlR4U0lfLVBuWTJ4dTVGbEdfZElUQ2dfdnN1TTAxcFZiS0NUX3VzV2owYlIxNXZuUVNEb1JZemxUWWIw?oc=5",
+   "data": "2026-09-07T01:15:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo vence o Remo e a tempestade para tirar liderança do Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmJmM3FrYTFDcVN6ZUpIVV85ODRCNXN1Um96REtHR2RVSElqMEM3RS1ETHZpMzI1UDJKU0pCR2lRNW8zTnJwVGlLeXYyY0U5N2h3VWJhMDFhREZIbDRiZGVZQjRWcWJrN3d5TDgzalJONHBkOTducGZybkdmZ3VTZENiOFJreFE3SjhGTjlPSDk0aXR2ZVlDTi1tbWl1cHc0OHpMM1BtaE0zYjNHNTExbkNQaEY2TUhqTW5vdTlmbi1ORG1fdThr?oc=5",
+   "data": "2026-09-07T01:02:07+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Juca Kfouri: O Flamengo lidera sem asterisco",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJiMGNNVmxZRXpyazJsZHVXRmJfdHItNk5Uc0hiRVFYSzVGRFZiX3Q3RlhaQmhKQWRNcWwxX2dKc0V6TUN5TlRaWlJXcTJOUVJfOUVjZVFmQXpPZ3FLSnJvaFIxcTk3akF2MEFCODdISWE4clg5U1BmUV9mTHAyUzF3d2JJLVBGZkw2Wkc0dVNkZjI3X052QWlKU1I5d2xTeUJLVms3MWk?oc=5",
+   "data": "2026-09-07T01:00:44+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo dispara em chances de título após assumir a liderança do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0UzYWRPM2Jmb3o5b20zOUpZRnNPOFdSSHBNOHRJWHVRNWFrUDZXaWdjMmsybzFMM2ZueWw2TXFMTHNhTllEeWhoRkp6em1adVUxSmNQT1Nnc0Jaa3pjd2ZDUFEzMEhYU3d6dkI3emQwdWMyb0FfUnNPemJFcDV1WXduaXRhWHA1QVg0U3pvY2dSd2MxUGZBR1YzNm1vNDNRaTlzUjhIN2Z6ZkdLaWtzYXpmbTFXR1NsS29NNlVIMjc5aEZEOGgw?oc=5",
+   "data": "2026-09-07T01:00:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Torcedores do Palmeiras se revoltam com liderança do Flamengo: 'Tenebrosa'",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUZpQ3h3YXBzWVRaeURUQVVTVjZPVDdkM09sNEgyTVBXTHZqR0cwLVlQRERmRWxhR29mX29OWFdjUTAxTlBidDh4OC1Zb3l2eGdPZHhzQlhIWlJER0pTOEZlQ2ZxajNBV1hsMVFwdVlLNHA2MjQyNDNvNHFFSXh4V2hRSlBpU3RkWFkzdnlsY0VVTnpqRXBJRnctWVI0MzBKeXdIWXhCSjBtY21VUUpabkN6cmloQQ?oc=5",
+   "data": "2026-09-07T00:57:47+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Abel joga pressão para o Flamengo após Palmeiras perder liderança: 'Tem obrigação de fazer mais'",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ0JvcC0tNENXVlNDSEQwY0RYbTNuMDY0Vi1hOHhFY1h6SWJka3JNYUwyRUpadDd5bXp5UzlrbkE5WURIOXRLcXFDUUc0QVhDWnRqZXZ1LXdZal9TcTJ5MHp1MkdYc0otWmp2d2JjbG1WaHZtM05OcGdpZmhTSnJ4NG9maHVnOVZyLXEyb2tPRktGNWlBb0o0UG1rdk5xQjJxUUtTaC1McFdTU1BlTEpCbmhkMEtaU29ObVdiRjNVVjVCN3JDSjhLU3hGQWt3dw?oc=5",
+   "data": "2026-09-07T00:53:19+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Flamengo assume liderança, Palmeiras empata e Gabigol dá vitória ao Santos; veja tabela atualizada da 26ª rodada do Brasileirão",
    "link": "https://colunadofla.com/2026/09/flamengo-assume-lideranca-palmeiras-empata-e-gabigol-da-vitoria-ao-santos-veja-tabela-atualizada-da-26a-rodada-do-brasileirao/",
@@ -40,22 +184,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Quais foram os resultados do Brasileirão neste domingo (06)? A 26ª rodada do Campeonato Brasileiro teve sequência neste domingo (06) com seis partidas. O Flamengo, por exemplo, venceu o Remo por 1 a 0, enquanto Botafogo…"
-  },
-  {
-   "titulo": "Juca Kfouri: O Flamengo lidera sem asterisco",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnJiMGNNVmxZRXpyazJsZHVXRmJfdHItNk5Uc0hiRVFYSzVGRFZiX3Q3RlhaQmhKQWRNcWwxX2dKc0V6TUN5TlRaWlJXcTJOUVJfOUVjZVFmQXpPZ3FLSnJvaFIxcTk3akF2MEFCODdISWE4clg5U1BmUV9mTHAyUzF3d2JJLVBGZkw2Wkc0dVNkZjI3X052QWlKU1I5d2xTeUJLVms3MWk?oc=5",
-   "data": "2026-09-07T00:33:08+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo vence o Remo e a tempestade, para tirar liderança do Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmJmM3FrYTFDcVN6ZUpIVV85ODRCNXN1Um96REtHR2RVSElqMEM3RS1ETHZpMzI1UDJKU0pCR2lRNW8zTnJwVGlLeXYyY0U5N2h3VWJhMDFhREZIbDRiZGVZQjRWcWJrN3d5TDgzalJONHBkOTducGZybkdmZ3VTZENiOFJreFE3SjhGTjlPSDk0aXR2ZVlDTi1tbWl1cHc0OHpMM1BtaE0zYjNHNTExbkNQaEY2TUhqTW5vdTlmbi1ORG1fdThr?oc=5",
-   "data": "2026-09-07T00:27:36+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Zinho diz que Palmeiras pode chegar com 'confiança abalada' contra a LDU após perder a liderança do Brasileirão para o Flamengo",
@@ -90,22 +218,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Paulo Vinicius Coelho (PVC): Palmeiras só empata com Gustavo Gómez melhor em campo e Flamengo é líder",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3Nnd1NleVV5WmNHcEhUOXhiMGdnaHhPdm00clI3bmR2WURXQTVySHhaajJjSmRNWDY2c2lIbG1CbVBfcHRWYUxUT2pCOUlHdFhIWXFkUGxWUDhyOTdYSDFBWkJmcFc5T19zRUdGSEFMNFR5Z3dyNWZfa0w4SXNkVWtqM0Q0MFB1RUh6SURtbTRmTHQ1WElXRjRwNTY1Rkh3dWJ6c3Q0Z05vQlJFM21pQy1Dc0xOaUQwUnVwdGZINXVDR3pxbGpmZU93?oc=5",
-   "data": "2026-09-06T23:41:07+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras empata com Botafogo e vê Flamengo virar líder do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWZsdWktUWxLVk1vT1hXbURxdjVfVzVuRXFhUFhsLXZiaUhDVjVOTk1PM29NU3VCTFpwVk81bU94OUhIbUFqam5sdXJBbS0wU2ZGMXA3TjJFOEh0OVBpWnY2aUxNODJaX1VHRU5DWWJHSHNTZ1dWTHZTNHQ2UFJiSTcwSEptWGdldlJqeXlRZ1FTVmRJdlRwR3c1NVlvdTA0elZ0SzdNLU9MaTljeHc?oc=5",
-   "data": "2026-09-06T23:36:41+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Palmeiras tem Alexander Barboza expulso, fica no 0 a 0 com o Botafogo e vê Flamengo tomar liderança do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV2ozbHBCUThXaVUtUXlTWWRHX3NaX184UTNzb3FTU3ZxQjZwTHFqOUVSNDc3cHh2SkstQkJ3cnI4TzlVLVBpVU40X3ZNdk9XQndIeWc1dTZLa3NxT1ZSSzFaZkVHYXcta045RlM0V0REUndYOXotUU8tQWdWYUxyOFpqUnA3WEVlRW1xcWZOY2hCNXd0YjJPWlYzU1IwNmw4OGpQdjkyaVFiZmd4cTktWEJOMUhnemN3MkxCVF9MVmMxQjhOUFBjQ2QxVzdiYWY4elotVFBLLUFJb01VMWJmNnBodFhoSGhPcUZxM2tyRDRTOHIycVBLN19IbzlqYVU?oc=5",
    "data": "2026-09-06T23:28:00+00:00",
@@ -114,7 +226,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Palmeiras empata com Botafogo e vê Flamengo assumir a ponta do Brasileiro",
+   "titulo": "Palmeiras tropeça contra o Botafogo e perde a liderança do Brasileiro para o Flamengo",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVXd1Q1BvcnFMV2J3NFNpeGxsbnotRTM5eDd4a0FMd3dUbUxnM2pROGdwOEk4OTBXYlNpaTFJZDg1M1Z4Z0V4ZURvS3dqVVI5TmZtUjBDSmo5dXdIaUxTVWl4Y2ZyWmRPYU9HZ1k0akl4ZHFwZnJ0dVpDN1ZGMkwtdFNaa3BxYWJhMHN3ejBJR0ZFeHpadmk4NG9tR0JKcDV1SkVxcTl2NzZEeXV1SHE2MGJSUkJlc1NmN1l0WGsyUVM4RXc?oc=5",
    "data": "2026-09-06T23:28:00+00:00",
    "fonte": "uol",
@@ -152,14 +264,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Veja como foi a coletiva de imprensa de Leonardo Jardim após vitória sobre o Remo O técnico de futebol no Brasil não tem tempo de curtir as vitórias. No Flamengo, a afirmação tem peso dobrado. Depois da grande vitória p…"
-  },
-  {
-   "titulo": "Rossi destaca sacrifício de jogadores do Flamengo na vitória sobre o Remo, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/09/rossi-destaca-sacrificio-de-jogadores-do-flamengo-na-vitoria-sobre-o-remo-pelo-brasileirao/",
-   "data": "2026-09-06T22:20:40+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Como foi o jogo do Flamengo x Remo? O Flamengo venceu o Remo neste domingo (06), por 1 a 0, pela 26ª rodada do Brasileirão. Portanto, o goleiro Agustín Rossi comemorou a vitória e destacou o sacrifício dos jogadores em…"
   },
   {
    "titulo": "Leonardo Jardim exalta torcida do Flamengo e comenta jejum de Pedro",
@@ -210,20 +314,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo vence Remo com gol de Samuel Lino e pressiona Palmeiras na liderança do Brasileirão; VEJA como foi",
+   "titulo": "Flamengo vence Remo com gol de Samuel Lino e derruba Palmeiras da liderança do Brasileirão; VEJA como foi",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyaU5MbDU0OWNENVFLZ3I3SEZoS0RnQ0hiSmFnbFdhbWZzYWVINDM5OVJzZW9wSXd5XzZVdzl6RnlPNFpTbnNhcWtSQ0hYYmIzZ3RaUXBTSGl1SlI3Qnc?oc=5",
    "data": "2026-09-06T21:28:59+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Escalações e onde assistir: saiba tudo sobre jogo do Palmeiras x Botafogo, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/09/escalacoes-e-onde-assistir-saiba-tudo-sobre-jogo-do-palmeiras-x-botafogo-pelo-brasileirao/",
-   "data": "2026-09-06T21:28:57+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo ultrapassou o Palmeiras e assumiu a liderança do Brasileirão O Flamengo venceu o Remo por 1 a 0, neste domingo (06), e assumiu a liderança do Campeonato Brasileiro. O Rubro-Negro, fica de olho no Palmeiras, que…"
   },
   {
    "titulo": "Samuel Lino exalta Flamengo “guerreiro” contra o Remo e encerra polêmica com Arrascaeta",
@@ -274,7 +370,7 @@
    "resumo": ""
   },
   {
-   "titulo": "O gol de Samuel Lino, 'à la Ronaldo', que garantiu a vitória do Flamengo sobre o Remo no Brasileirão",
+   "titulo": "O gol de Samuel Lino, 'à la Ronaldo', que colocou o Flamengo na liderança do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBENGNhTnF4X1l3TWZfV0xjZ2hvdklxNGhFS2VVbVdBREprNkFHS283b2VSYTF5VDJmZk5wekx4WGdNN3V2TmtYQWJMalBjQzBUZUREWjBjT3U4MjgzTFE?oc=5",
    "data": "2026-09-06T21:11:27+00:00",
    "fonte": "espn",
@@ -290,7 +386,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Samuel Lino decide novamente, Flamengo vence o Remo e assume liderança provisória do Brasileirão",
+   "titulo": "Samuel Lino decide novamente, Flamengo vence o Remo e assume liderança do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDRBa1hqWXVFSkw1Rk9FclNtMFY0cDYzakU1S2FyN213YWZQeDU1VWtzMWdpZk9tbGhMYW9HZnRtaFhpRUJFNm1YaHc0bHBrbnZON0NZUFVaWWE4eXI4VlBzZW1fRklYMmcyODJOSXN2NWVTdHB1VWcySVFUZmtkeXFhYnl0LUI3Um93RTVvOVd1TFRlNUFGY1ZZbU1zUUg1YnlIUlBqbnhPUFdVRVR1V2VhbFFzTUtXUVB2dERSWXY3OVNvYkhUbW80Zk5sem8?oc=5",
    "data": "2026-09-06T21:01:48+00:00",
    "fonte": "lance",
@@ -306,7 +402,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Sob temporal, Flamengo vence o Remo e 'seca' o Palmeiras para ser o novo líder do Brasileirão",
+   "titulo": "Sob temporal, Flamengo vence o Remo, supera o Palmeiras e assume a liderança do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVi1UZ19lM0NRSDJ6RFZuaTBPUDNYekd5RGpONk5nWk5iME9DRkxMSkJHT0dOQnZlNDg1U2MzcGVIYk1zQ2NXelFvOWFWOU9ZNzNhbi1LcTJMSlAtR2hxXzdjUDl2TUNxQlJ2Y0FrN2RaMTJjRUI4azk1dUZqdDZxaHNVMjdHdkFKMDBSUy1oWTAwUnI5allfVFFzVzI2WVVBXzdIYjg0emhELW1xOFRrVUd4bVFWV2YzaDhqeml4NnJ0TjN1ckdV?oc=5",
    "data": "2026-09-06T21:00:00+00:00",
    "fonte": "espn",
@@ -584,14 +680,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Veja como foi a recepção do Flamengo em Belém O Flamengo chegou a Belém na noite deste sábado com muita festa de rubro-negros que não viam o clube desde a Supercopa Rei, em fevereiro do ano passado. Neste domingo, o tim…"
-  },
-  {
-   "titulo": "Pedro faz alegria de crianças na chegada do Flamengo a Belém antes de jogo contra o Remo; VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82U0JwTDViM2FYdndjUVZoMWlxQTRWcUI2M2FzMm50SEctNkE1T3I4R1IwY0JGWGI0cHpycFBpZzM5QURUWlctZDNJb0xxS0luRGExU0dWZXVVSy1kcXc?oc=5",
-   "data": "2026-09-05T23:34:44+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   },
   {
    "titulo": "Wallace Yan, ex-Flamengo, viraliza na estreia no Bragantino: 'Misericórdia'",
@@ -1018,14 +1106,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo apresenta jogadores no Ninho e atualiza departamento médico",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQlY3anRuaU1idmRrZDFUMVZNbElybkRsYS1YZjJlQXk3VkE3bWcxem9yT2dtR0dhOG82ZFlXVkh2bnJvRWgzNnpYY1ljaVl3Z1lXOVppbmlNZXhvLTFMQ18tNlBpcXppSFFYWW1NQmdMMm8yQ2Z3NlR1emZKRlRVUTJ0UlJub0JWS1RmQWF2N05XSXpndHlXdFpISk9fZ2l4S0E?oc=5",
-   "data": "2026-09-04T16:50:22+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Boto explica porque Flamengo não contratou Almada e cita ex-dirigente: 'Se tivéssemos 50% da irresponsabilidade de alguns clubes...'",
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbjNuNmE2UHlfanVheFlfaFlrMjQxWmQxa2FiREFtZ2picWFFNTRaYjFic2w2VVRaVWtLdFVzY09zU29VeEt5WFhHYThjOFdnZGJ0T1NfRkhfaVloUXIwYU5FaGZrTHU1clF3bmlXUXhNcFo2cU5fc1FnUkd5WUZCRWpoOHQ1dV9ZaWtCZ25oNm1JX2laNkxFam1CTjZhQ2tEc0VqaDdRME5CZDhYN08tZVk0WWVTQnU4ZGx1VVpLRkpsZnNROWk0SThTdE5ia3lwYWtyOGIyN3BtTEd1WE9UTmREX2lnUEI1ckpHbE9tUGpUMTBHTDAwTERGeVB3d3BnVTYwaFZKRjlJa00?oc=5",
    "data": "2026-09-04T16:22:00+00:00",
@@ -1152,86 +1232,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo tomar liderança do Palmeiras não surpreenderia, diz Lavieri",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMVJCN1JLWFJWVjhyeDM5NGVod1hiZENEUWY0aWh2TXRGNV9LcVIxRTdVTmYxZ0FSeHBpLV9qT0VTb2NBbzNIWlBhUkMweGJWWVpQdHVzbzFHOWJIOHMybWRoeC0xaWhiUVNIanc4bmJCQTd5aG9yY3hha0pzQ3JTTThGMnVWUkFucFBtb2xXT3J5RVlKMEdCZXo4T0NkX3RfYmNIZDdDTklKZUFFRlVkcUE5akd4WWZpWWtSRDZhUGNkelYwcm80WHFYc0pRNzZQUTIwMVFB?oc=5",
-   "data": "2026-09-04T13:11:52+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Benja detona Gabigol após fala sobre Flamengo: 'Arrogante'",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVdCOWZpbE0tTFU5VktCU0dETDRpbWdDdllBX2JUU1drTDBYdHZHTDRjd3E5bHVVRW5DVFJDYzNoa0k0RDkzdGpRamV3UkVVOFlPQWxEeXJhak1KRFV3TndDVlN1ZlM4OXhfQmpLWGxxQ09rQTlYaEI0Nm1TcERub2c4NlkxeXdFR2V5c2dkMWhzVEh5Q090NnVfeDlyVWlw?oc=5",
-   "data": "2026-09-04T12:37:47+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mais caro do Brasil, Paquetá multifunções vira 12º jogador no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnN1eHJfNmc1b3FJNVdCaWx2NHNYeTdjX016S0RGRnBvM2F4Mm5pQVlpYW9oLWtJTnM5ZWR0VUtRWmtqS2l2S1NLbzRKOWQyLVZ0UVNVay1FLTJIREFIUlZzUVk1dTM1UEVLcUFaSE90eW5JbUVPcHZ0eGRBa1ViVTk2clltRTdIRlB6SkxNdjhSRzZzeXhFY29pWWRyNEd1TWRYbzA2SHc5dzgzNkpqLVZpVTY2MlVURU1j?oc=5",
-   "data": "2026-09-04T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Quanto Flamengo precisa vender em jogador para compensar caso Plata",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOREgzbmtHMzB5U1Y1UzdITlVyaXdNMzRuMW9VcjdSd0pEVDcwWm1WNnBFSno5V053WmtSYjBKVWVIX1h3NnlBWVlkOGIwblB2RlFaWVY5VDFiTnZuNkxfbHFJWjhyMUZPZnNSNEdqZF9YNnBfUmFETzVDNWV3aGJZa29NNXBWc3RyZTNtTEtMeG01Zk9vZ3UzbVc4WVQ0eXZKbzRCbWhmczlmUGFRbXVjQ05PcXZMRXR1Y3RmcTU2NFlOdnJPQWYwTERIdW80R2FobWNtQ0pZaXhoQzRl?oc=5",
-   "data": "2026-09-04T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Luis Enrique tem reencontro com Filipe Luís nesta sexta",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEp1TEpvWU96Yjl3bmlpcVhraE9nUUE0RHRHaG9HZmwxbkFzU3g5WHFXWWJNczM5RTctRlFUdko4UUR1WXZ5OWk5V1E2VnpXR2NmMWhhS3BrZ2tMalotYjhFZnd6R012cE85S1lmLTFzWk84THZ4TlRlaldYN2thZHl3THZyUjRiZ010M3E0SWxnSjYwWk41WlIyb09vVnUycU5HMndadl95OU0?oc=5",
-   "data": "2026-09-04T12:18:01+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rival do Flamengo, Del Valle vende destaque do ataque para a Premier League antes das quartas",
-   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/04/rival-do-flamengo-del-valle-vende-destaque-do-ataque-para-a-premier-league-antes-das-quartas.ghtml",
-   "data": "2026-09-04T12:16:07+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Voz do Setorista: por que o Del Valle, adversário do Flamengo, é o \"Matador de Gigantes\"? O Independiente del Valle perdeu uma de suas principais promessas ofensivas às vésperas do confronto com o Flamengo pelas quartas…"
-  },
-  {
-   "titulo": "Zinho critica atitude de titular do Flamengo: 'Desnecessário'",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDFPYXJ5eWtQb2o3dU9rWlRmYXdVZjcxbmoyYWs5bEc1alBLeFRWUlIzWlZXbDlSdGFPck53dHdNX2RtVlBERHVmUGtycU9nRWFhM2dtSzFhRmdDZ2hQNDNwYURJY29fQ1gwYzJkNUR4Y1BkNmN4TVhVY09CcG1iSFcwT3hPVnVlYU1iZGxmRDRpV3pqcWF4bzh0OFdMdVNxRFMxYw?oc=5",
-   "data": "2026-09-04T11:10:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Tironi no Lance!: tensão no Palmeiras, leveza no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWVhOGxjNG13SmZfMVBpYllaSHlFMXkxN3lxb0MzM0RGV18teHpvOEJZN2FPMlI0amIyVjNGdXR5eG5fdFRJVWUzOHBzUnJuM1RyRVJDTXc1WTJVaVFIR1NvenFkTF82blVXcjJENlk0VnN5Q3RTaVdJcXlYRXlsTWVDOFIyNzNnN18tS082ZXBpRHRxOHJaTGdQY3ZKR2VLTldz?oc=5",
-   "data": "2026-09-04T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Monaco à la Flamengo? Filipe Luís terá teste de identidade contra o PSG",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYml2ZllVbjB6RkJFZ09FT3BGRk9EcS1qeVYtZ21HSDRiLWNvWnZldDY5UXQtaWd2X045YldhdGRNYUdPOWlVOGVNbC04N0V3dzdXVUpQY3RpN0xnV2lheHBNeTJydTIwMHdWZXFOM2JDV3JaaFVSeTlyWnZaMEF4bklnM0MzTmJ1S0E0TnNfUUUwWmh3aDlFWWc5RUZYT1AxbUJaM2M5bzRlOEtGM3J0X1dTYVBFVHllaXM1LVFWMA?oc=5",
-   "data": "2026-09-04T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Paquetá bate meta pessoal de gols em retorno ao Flamengo e mira temporada mais artilheira pelo clube",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/04/paqueta-bate-meta-pessoal-de-gols-em-retorno-ao-flamengo-e-mira-temporada-mais-artilheira-pelo-clube.ghtml",
-   "data": "2026-09-04T09:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 0 Mirassol | Melhores momentos | 4ª rodada | Brasileirão 2026 Lucas Paquetá é a contratação mais cara da história do futebol brasileiro. A cada minuto em campo, ele tenta mostrar que o Flamengo fez bem em f…"
   }
  ]
 }
