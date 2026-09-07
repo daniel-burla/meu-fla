@@ -1,7 +1,7 @@
 {
   "name": "Meu Fla",
   "short_name": "Meu Fla",
-  "description": "Jogos, resultados, notícias e vídeos do Flamengo",
+  "description": "Jogos, resultados e notícias do Flamengo",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

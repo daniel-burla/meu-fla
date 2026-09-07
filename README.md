@@ -1,6 +1,6 @@
 # Meu Fla
 
-App web (PWA) com jogos, resultados, notícias e vídeos do Flamengo. Custo zero: GitHub Pages para hospedar e GitHub Actions para atualizar os dados.
+App web (PWA) com jogos, resultados e notícias do Flamengo. Custo zero: GitHub Pages para hospedar e GitHub Actions para atualizar os dados.
 
 **App:** https://daniel-burla.github.io/meu-fla/
 
@@ -14,9 +14,8 @@ Abra o link no Safari, toque no botão de compartilhar e escolha "Adicionar à T
 |---|---|---|
 | Jogos | API pública da ESPN, direto do navegador | a cada abertura do app |
 | Notícias | RSS do Google News e dos sites, via `scripts/fetch.py` | a cada 30 min pelo GitHub Actions |
-| Vídeos | RSS dos canais do YouTube, via `scripts/fetch.py` | a cada 30 min pelo GitHub Actions |
 
-Jogos vêm ao vivo porque a ESPN libera CORS. Notícias e vídeos passam pelo Action porque esses feeds bloqueiam chamadas do navegador; o resultado fica em `data/news.json` e `data/videos.json`.
+Jogos vêm ao vivo porque a ESPN libera CORS. Notícias passam pelo Action porque esses feeds bloqueiam chamadas do navegador; o resultado fica em `data/news.json`.
 
 ## Arquivos
 
@@ -41,8 +40,6 @@ Nova fonte de notícias, em `NEWS_SOURCES`:
 ```
 
 Use `"tipo": "google-news"` com `"dominio"` quando o site não tiver RSS próprio. Deixe `exigir_flamengo` em `True` para sites que cobrem vários times.
-
-Novo canal de vídeo, em `YOUTUBE_CHANNELS`: pegue o ID do canal (abra a página do canal e procure `/channel/UC...` no código-fonte) e some à lista.
 
 ## Refazer os ícones
 

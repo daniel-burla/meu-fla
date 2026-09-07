@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """Coletor do Meu Fla.
 
-Lê feeds de notícias e canais do YouTube e grava data/news.json e
-data/videos.json. Só usa a biblioteca padrão do Python.
+Lê feeds de notícias e grava data/news.json. Só usa a biblioteca padrão do
+Python.
 
 Regras importantes:
 - Cada fonte pode ter mais de uma URL. A primeira que responder vence.
 - Se uma fonte falhar, os itens que ela já tinha no JSON anterior são
   mantidos (até MAX_IDADE_DIAS), então uma queda temporária não apaga nada.
 
-Para mexer nas fontes, edite NEWS_SOURCES e YOUTUBE_CHANNELS abaixo.
+Para mexer nas fontes, edite NEWS_SOURCES abaixo.
 """
 
 import json
@@ -35,7 +35,6 @@ UA_NAVEGADOR = (
 TIMEOUT = 25
 TENTATIVAS = 3
 MAX_NEWS = 150
-MAX_VIDEOS = 60
 MAX_IDADE_DIAS = 10
 
 
@@ -101,29 +100,15 @@ NEWS_SOURCES = [
     },
 ]
 
-# ---------------------------------------------------------------------------
-# Canais do YouTube. Pegue o ID abrindo a página do canal e procurando
-# "/channel/UC..." no código-fonte.
-#   somente_flamengo: True mantém só vídeos que citam o clube no título.
-# ---------------------------------------------------------------------------
-YOUTUBE_CHANNELS = [
-    {"id": "UCOa-WaNwQaoyFHLCDk7qKIw", "nome": "Flamengo TV", "somente_flamengo": False},
-    {"id": "UCZiYbVptd3PVPf4f6eR6UaQ", "nome": "CazéTV", "somente_flamengo": True},
-    {"id": "UCw5-xj3AKqEizC7MvHaIPqA", "nome": "ESPN Brasil", "somente_flamengo": True},
-]
-
 TERMOS_FLAMENGO = re.compile(
     r"flameng|meng[aã]o|\bmengo\b|rubro-?negr|\bfla\b|maracan[ãa]|ninho do urubu|"
     r"g[áa]vea|filipe lu[íi]s|na[çc][ãa]o rubro",
     re.IGNORECASE,
 )
-DESTAQUE = re.compile(r"\b(gols?|melhores momentos|highlights)\b", re.IGNORECASE)
 # "ATENÇÃO: O post <título> apareceu primeiro em <site> ." (padrão WordPress)
 BOILERPLATE = re.compile(r"^\s*(aten[çc][ãa]o:\s*)?o post .*?apareceu primeiro em .*?\s\.\s*", re.IGNORECASE)
 SUFIXO_VEICULO = re.compile(r"\s+-\s+[^-]{2,40}$")
 
-ATOM = "{http://www.w3.org/2005/Atom}"
-YT = "{http://www.youtube.com/xml/schemas/2015}"
 DC_DATE = "{http://purl.org/dc/elements/1.1/}date"
 
 
@@ -273,66 +258,6 @@ def collect_news() -> dict:
     }
 
 
-def collect_videos() -> dict:
-    anterior = carrega_anterior(DATA / "videos.json")
-    antigos_por_canal: dict[str, list[dict]] = {}
-    for v in anterior.get("itens", []):
-        antigos_por_canal.setdefault(v.get("canal", ""), []).append(v)
-
-    videos: list[dict] = []
-    status: dict[str, dict] = {}
-
-    for canal in YOUTUBE_CHANNELS:
-        url = f"https://www.youtube.com/feeds/videos.xml?channel_id={canal['id']}"
-        try:
-            root = ET.fromstring(fetch(url))
-        except Exception as exc:  # noqa: BLE001
-            guardados = recentes(antigos_por_canal.get(canal["nome"], []))
-            videos.extend(guardados)
-            status[canal["id"]] = {"ok": bool(guardados), "itens": len(guardados), "aviso": str(exc)[:150]}
-            print(f"[videos] {canal['nome']}: FALHOU ({exc}), reaproveitando {len(guardados)}", file=sys.stderr)
-            continue
-
-        novos = 0
-        for entry in root.findall(f"{ATOM}entry"):
-            video_id = entry.findtext(f"{YT}videoId")
-            titulo = clean_text(entry.findtext(f"{ATOM}title"), limit=200)
-            if not video_id or not titulo:
-                continue
-            cita_fla = bool(TERMOS_FLAMENGO.search(titulo))
-            if canal["somente_flamengo"] and not cita_fla:
-                continue
-            publicado = parse_date(entry.findtext(f"{ATOM}published"))
-            videos.append(
-                {
-                    "videoId": video_id,
-                    "titulo": titulo,
-                    "data": publicado.isoformat() if publicado else None,
-                    "canal": canal["nome"],
-                    "thumb": f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg",
-                    "url": f"https://www.youtube.com/watch?v={video_id}",
-                    "destaque": bool(DESTAQUE.search(titulo)),
-                }
-            )
-            novos += 1
-        status[canal["id"]] = {"ok": True, "itens": novos}
-        print(f"[videos] {canal['nome']}: {novos} vídeos", file=sys.stderr)
-
-    vistos: set[str] = set()
-    final = []
-    for v in sorted(videos, key=lambda x: x.get("data") or "", reverse=True):
-        if v["videoId"] in vistos:
-            continue
-        vistos.add(v["videoId"])
-        final.append(v)
-
-    return {
-        "atualizadoEm": datetime.now(timezone.utc).isoformat(),
-        "canais": [{"id": c["id"], "nome": c["nome"], **status.get(c["id"], {})} for c in YOUTUBE_CHANNELS],
-        "itens": final[:MAX_VIDEOS],
-    }
-
-
 def write_json(path: Path, payload: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
@@ -340,11 +265,9 @@ def write_json(path: Path, payload: dict) -> None:
 
 def main() -> int:
     news = collect_news()
-    videos = collect_videos()
     write_json(DATA / "news.json", news)
-    write_json(DATA / "videos.json", videos)
-    print(f"news: {len(news['itens'])} | videos: {len(videos['itens'])}", file=sys.stderr)
-    if not news["itens"] and not videos["itens"]:
+    print(f"news: {len(news['itens'])}", file=sys.stderr)
+    if not news["itens"]:
         print("Nenhuma fonte respondeu e não havia dados guardados.", file=sys.stderr)
         return 1
     return 0

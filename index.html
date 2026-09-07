@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Meu Fla</title>
-<meta name="description" content="Jogos, resultados, notícias e vídeos do Flamengo">
+<meta name="description" content="Jogos, resultados e notícias do Flamengo">
 <meta name="theme-color" content="#c3000d">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -163,28 +163,10 @@ h2.secao:first-child{margin-top:4px}
 .noticia.lida .marca-lida::after{background:var(--texto-fraco);border-color:var(--texto-fraco)}
 .marca-lida:active::after{transform:scale(.85)}
 
-/* ---------- vídeo ---------- */
-.videos{display:flex;flex-direction:column;gap:14px}
-.video{display:block;border-radius:12px;overflow:hidden;background:var(--superficie);border:1px solid var(--borda)}
-.video:active{opacity:.85}
-.miniatura{position:relative;aspect-ratio:16/9;background:var(--superficie-2)}
-.miniatura img{width:100%;height:100%;object-fit:cover;display:block}
-.play{
-  position:absolute;inset:0;display:grid;place-items:center;
-  background:linear-gradient(180deg,transparent 40%,rgba(0,0,0,.55));
-}
-.play span{
-  width:50px;height:50px;border-radius:50%;background:rgba(224,16,32,.92);
-  display:grid;place-items:center;font-size:17px;padding-left:4px;color:#fff;
-}
-.video .texto{padding:11px 13px 13px}
-.video h3{margin:0;font-size:14px;font-weight:600;line-height:1.35}
-.video .cabeca{display:flex;gap:8px;align-items:center;margin-top:7px}
-
 /* ---------- abas ---------- */
 nav{
   position:fixed;left:0;right:0;bottom:0;z-index:30;
-  display:grid;grid-template-columns:repeat(3,1fr);
+  display:grid;grid-template-columns:repeat(2,1fr);
   padding-bottom:var(--base);
   background:rgba(16,16,19,.92);backdrop-filter:saturate(180%) blur(18px);
   border-top:1px solid var(--borda);
@@ -232,10 +214,6 @@ nav button[aria-selected="true"]{color:var(--vermelho)}
     <div class="lista" id="listaNoticias"><div class="esqueleto"></div><div class="esqueleto"></div><div class="esqueleto"></div></div>
   </section>
 
-  <!-- ===== VÍDEOS ===== -->
-  <section class="painel" id="painel-videos">
-    <div id="conteudoVideos"><div class="esqueleto" style="height:200px"></div></div>
-  </section>
 </main>
 
 <nav role="tablist">
@@ -246,10 +224,6 @@ nav button[aria-selected="true"]{color:var(--vermelho)}
   <button role="tab" aria-selected="false" data-painel="noticias">
     <svg viewBox="0 0 24 24"><path d="M4 5h13v14H6a2 2 0 0 1-2-2z"/><path d="M17 8h3v9a2 2 0 0 1-2 2h-1"/><path d="M7.5 9h6M7.5 12.5h6M7.5 16h4"/></svg>
     Notícias
-  </button>
-  <button role="tab" aria-selected="false" data-painel="videos">
-    <svg viewBox="0 0 24 24"><rect x="2.5" y="5" width="19" height="14" rx="4"/><path d="M10.5 9.3v5.4l4.6-2.7z"/></svg>
-    Vídeos
   </button>
 </nav>
 
@@ -548,39 +522,7 @@ $("#chipsFontes").addEventListener("click", (ev) => {
 function marcaAtualizacao(iso) {
   const el = $("#atualizadoEm");
   if (!el) return;
-  el.textContent = iso ? `Notícias e vídeos atualizados ${tempoRelativo(iso)}` : "Notícias indisponíveis";
-}
-
-/* ---------- vídeos ---------- */
-async function carregaVideos() {
-  try {
-    const dados = await fetch("data/videos.json?" + Date.now()).then((r) => r.json());
-    const itens = dados.itens || [];
-    if (!itens.length) {
-      $("#conteudoVideos").innerHTML = `<p class="aviso">Nenhum vídeo no momento.</p>`;
-      return;
-    }
-    const destaques = itens.filter((v) => v.destaque);
-    const resto = itens.filter((v) => !v.destaque);
-    $("#conteudoVideos").innerHTML =
-      (destaques.length ? `<h2 class="secao">Gols e melhores momentos</h2><div class="videos">${destaques.map(cardVideo).join("")}</div>` : "") +
-      (resto.length ? `<h2 class="secao">Do canal do Flamengo</h2><div class="videos">${resto.map(cardVideo).join("")}</div>` : "");
-  } catch (e) {
-    $("#conteudoVideos").innerHTML = `<p class="aviso">Vídeos indisponíveis. Eles são atualizados a cada 30 minutos.</p>`;
-  }
-}
-
-function cardVideo(v) {
-  return `<a class="video" href="${esc(v.url)}" target="_blank" rel="noopener">
-    <div class="miniatura">
-      <img loading="lazy" src="${esc(v.thumb)}" alt="">
-      <div class="play"><span>▶</span></div>
-    </div>
-    <div class="texto">
-      <h3>${esc(v.titulo)}</h3>
-      <div class="cabeca"><span class="fonte">${esc(v.canal)}</span><span class="tempo">${tempoRelativo(v.data)}</span></div>
-    </div>
-  </a>`;
+  el.textContent = iso ? `Notícias atualizadas ${tempoRelativo(iso)}` : "Notícias indisponíveis";
 }
 
 /* ---------- abas ---------- */
@@ -597,7 +539,7 @@ async function carregaTudo() {
   const btn = $("#btnAtualizar");
   btn.classList.add("girando");
   try {
-    await Promise.all([carregaJogos(), carregaNoticias(), carregaVideos()]);
+    await Promise.all([carregaJogos(), carregaNoticias()]);
     ultimaCarga = Date.now();
   } finally {
     setTimeout(() => btn.classList.remove("girando"), 400);
