@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-07T17:53:09.141019+00:00",
+ "atualizadoEm": "2026-09-07T21:27:26.584816+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 54
+   "itens": 59
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,112 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 60
+   "itens": 58
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 92
+   "itens": 95
   }
  ],
  "itens": [
+  {
+   "titulo": "O que Saúl disse sobre voltar a ganhar sequência depois de 10 jogos sem atuar",
+   "link": "https://colunadofla.com/2026/09/o-que-saul-disse-sobre-voltar-a-ganhar-sequencia-depois-de-10-jogos-sem-atuar/",
+   "data": "2026-09-07T21:23:33+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Meia espanhol entrou no lugar de Lucas Paquetá no fim da partida e falou sobre a segunda atuação seguida vinda do banco Saúl entrou no lugar de Lucas Paquetá no final do jogo entre Flamengo e Remo, na 26ª rodada do Bras…"
+  },
+  {
+   "titulo": "Imprensa equatoriana volta de Plata e estreia de Valencia no Flamengo",
+   "link": "https://colunadofla.com/2026/09/imprensa-equatoriana-volta-de-plata-e-estreia-de-valencia-no-flamengo/",
+   "data": "2026-09-07T21:00:33+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Portais equatorianos destacaram a estreia de Anthony Valencia e o retorno de Gonzalo Plata antes das quartas de final da Libertadores O Flamengo venceu o Remo por 1 a 0 neste domingo (06), antes de viajar rumo ao Equado…"
+  },
+  {
+   "titulo": "O vitimismo de Abel Ferreira após perder a liderança para o Flamengo",
+   "link": "https://colunadofla.com/2026/09/o-vitimismo-de-abel-ferreira-apos-perder-a-lideranca-para-o-flamengo/",
+   "data": "2026-09-07T20:56:51+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Abel Ferreira fala em “obrigação” ao comparar elencos O Palmeiras perdeu a liderança do Brasileirão para o Flamengo, e a reação de Abel Ferreira, na coletiva pós-empate em 0 a 0 com o Botafogo chamou atenção pelo tom. I…"
+  },
+  {
+   "titulo": "Plata reforça Flamengo, mas Leonardo Jardim tem 4 baixas contra Del Valle, pela Libertadores",
+   "link": "https://colunadofla.com/2026/09/plata-reforca-flamengo-mas-leonardo-jardim-tem-4-baixas-contra-del-valle-pela-libertadores/",
+   "data": "2026-09-07T20:49:52+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Cebolinha, Lorran, Evertton Araújo e Alex Sandro estão fora da relação para jogo da Libertadores O Flamengo encara o Independiente del Valle (EQU) nesta quinta-feira (10), às 21h30 (horário de Brasília), no Estádio Olím…"
+  },
+  {
+   "titulo": "Brasileirão: seu time melhorou ou piorou pós-Copa? De Flamengo x Palmeiras ao Z-4, compare campanhas",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWszWnBRbjRtZUlGZUltRzVXZXpXNmlmSmg2b2dPTnNtdkhha2pVNGtJWGtFQVE1ekRWRnNmVU9JSnhxMWp3ZlI4eXhGN3lVYVlhaVI3RmRvUU1rR2ZpYVU3dmpjOWhVUHo2RjVBeE9TSkZtdmk1UWZ6LUJOc3o1N2JpWlRYSnFibkpxQ0dTQ3Z4MU9QYjJleVZHNThUeF84Y2pPX2ltV0pfMmItUldzVjVCR2duWlVDdUNUbmlMNXNZSGNITWJRNEE4ZExRZ3VtVFZHYkh6bU9DRFZ2Y1dXbA?oc=5",
+   "data": "2026-09-07T20:09:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "A atitude de Paquetá que viralizou após ‘carrinho’ em vitória do Flamengo sobre o Remo",
+   "link": "https://colunadofla.com/2026/09/a-atitude-de-paqueta-que-viralizou-apos-carrinho-em-vitoria-do-flamengo-sobre-o-remo/",
+   "data": "2026-09-07T20:01:39+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Meio campista vibrou como se tivesse marcado um gol após tirar uma bola em lateral nos minutos finais da partida em Belém O Flamengo venceu o Remo por 1 a 0 nesse domingo (06), no Mangueirão. O resultado positivo, no en…"
+  },
+  {
+   "titulo": "Plata volta, mas Flamengo terá quatro baixas contra o Del Valle pela Libertadores; veja todas",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2t4SV9QT1RaNGVGT3VUMVU3VGNPNC1Jck9JMjlVS3JVam93V0UzZnVtLTQzUkh6VlVFU1NocUwyZXh4d1F5S1BPaGdfT1pMV3RNZ2lEVW9UR3F3MU9BOXhwQkNPX3lWQ0ZaQTQ3M2pLbm1DY2N3cXBCX1hpem9tR2VlU3ZxVkhlcGhTWHFpeHdMNmFneEJXdzZaUGZPdEdHVGk4Q0s0U1FCMHZMTUU5a2RqVFdGVTBTc2txaTNfUnJIb2JFUkNpNmtn?oc=5",
+   "data": "2026-09-07T19:21:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Cebolinha não joga mais pelo Flamengo? Clube confirma liberação e ausência na Libertadores",
+   "link": "https://colunadofla.com/2026/09/cebolinha-nao-joga-mais-pelo-flamengo-clube-confirma-liberacao-e-ausencia-na-libertadores/",
+   "data": "2026-09-07T18:51:21+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo informou que Cebolinha voltou ao Rio de Janeiro após jogo contra o Remo, pelo Brasileirão Everton Cebolinha está fora da partida do Flamengo contra o Independiente del Valle (EQU), na quinta-feira (10). Nesta s…"
+  },
+  {
+   "titulo": "Flamengo libera Cebolinha para tratar assuntos pessoais, e saída ganha força",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEJ0WHFHQzQzdU1sT3VxUmNuS25Ed3NmX0ltYnlyYVhZZjFjUmdKaC1Za29zb2cybFpwM2h6dXdNMDRuajdfY1BMWG55S2w3WGdDNGFud2g0ZmNLTDFHMkE5VktNMVcwZXExM0VJLVJLRGVRamdZbFlNVFhWdHVueWl3UmtOSVBoVVlnX2ZNbloxeFRNYnNHS1NyQ1FUYWQ5Y3dxbmhjZ3o4N0prYVJVVHF0MHg?oc=5",
+   "data": "2026-09-07T18:19:40+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Trem pagador: bilheteria de R$ 6,2 milhões em Flamengo x Remo quebra recorde histórico",
+   "link": "https://colunadofla.com/2026/09/trem-pagador-bilheteria-de-r-62-milhoes-em-flamengo-x-remo-quebra-recorde-historico/",
+   "data": "2026-09-07T18:00:22+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Vitória do Flamengo rendeu o maior público do Remo em 2026 O Flamengo venceu o Remo por 1 a 0, nesse domingo (06), pela 26ª rodada do Brasileirão. Além do resultado dentro de campo, a partida também entrou para a histór…"
+  },
+  {
+   "titulo": "Samuel Lino ultrapassa Viveros e é o maior pontuador do Cartola no returno",
+   "link": "https://ge.globo.com/gato-mestre/analises/noticia/2026/09/07/samuel-lino-ultrapassa-viveros-e-e-o-maior-pontuador-do-cartola-no-returno.ghtml",
+   "data": "2026-09-07T17:56:22+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "GOL DO FLAMENGO! Arrascaeta faz boa jogada e assiste Samuel Lino define Samuel Lino garantiu a vitória do Flamengo sobre o Remo pela 26ª rodada e se tornou o maior pontuador do Cartola no segundo turno do Brasileirão. P…"
+  },
+  {
+   "titulo": "Gonzalo Plata volta ao Flamengo e treina antes da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSndFRGh6ZUlKVDQ4dmUtQTkzWV9LQVoyejhBR25sa3laZDJEQi04ZzNUblktWEJ1NmdocVdFVkdGRURGdUlkUTZQODdIQk9Malk2QW5lRDdmekplUFFmeVNtR2xzSjVFLTllSHQ0RXd6eWEteVV5RXA2WVlRQmR4TXQtNDJ1a0FhaTRYd0plbkJXcHlXV1hxdWQteUZnYjNtOXQtbFdMZDZ1cEtTbDhNMm91MWhSUkhR?oc=5",
+   "data": "2026-09-07T17:51:16+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Com Plata e sem Cebolinha: veja lista de relacionados do Flamengo para jogo contra o Independiente del Valle, pela Libertadores",
    "link": "https://colunadofla.com/2026/09/com-plata-e-sem-cebolinha-veja-lista-de-relacionados-do-flamengo-para-jogo-contra-o-independiente-del-valle-pela-libertadores/",
@@ -40,6 +136,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Flamengo e Independiente del Valle (EQU) se enfrentam nesta quinta-feira (10), pela ida das quartas de final da Libertadores O Flamengo encara o Independiente del Valle (EQU) pela ida das quartas de final da Copa Libert…"
+  },
+  {
+   "titulo": "Flamengo libera Cebolinha, que avalia transferência e não enfrenta o Del Valle na Libertadores",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/07/cebolinha-e-liberado-pelo-flamengo-para-tratar-de-transferencia-e-nao-enfrenta-o-del-valle-na-libertadores.ghtml",
+   "data": "2026-09-07T17:45:11+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Cebolinha: \"Creio que posso afirmar que será minha última temporada no Flamengo\" O atacante Éverton Cebolinha está, mais uma vez, perto de deixar o Flamengo. Em nota, o clube rubro-negro informou que o jogador foi liber…"
   },
   {
    "titulo": "Pré-lista da Seleção Brasileira tem dupla do Flamengo, cinco do Cruzeiro e muitas caras novas; veja o que sabemos",
@@ -50,28 +154,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Pedro e Samuel Lino estão na pré-lista de Ancelotti para próximos jogos da Seleção Brasileira",
-   "link": "https://colunadofla.com/2026/09/pedro-e-samuel-lino-estao-na-pre-lista-de-ancelotti-para-proximos-jogos-da-selecao-brasileira/",
-   "data": "2026-09-07T17:10:06+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Convocação da Seleção Brasileira acontece nesta quarta-feira (09) O técnico Carlo Ancelotti se prepara para a primeira convocação da Seleção Brasileira após a Copa do Mundo 2026. O anúncio dos 26 jogadores acontece nest…"
-  },
-  {
-   "titulo": "Dupla do Flamengo está na pré-lista da convocação da Seleção",
+   "titulo": "Samuel Lino e Pedro, do Flamengo, estão na pré-lista de convocação da Seleção",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUpvTHBOaDlTaHpYc21US2hlMU5rVWx4WXRmTUVSdjV5QklsLWpxSnIwQlFoc2ZSZWd3LVl4Z0o4d2FPQ2VKZEZJeEV6MWRPUHF2dnN4VVU4RW5fR0ZBYTg5UjhXdlJvVVY0aER0YjVjT0d0Mi1EQkNWYW1UbXhOS0RCT2FBdnh6ZXczQVhETnJVNzdFaHJFRm94Wk1CYTVIeG9oR3dkSWV5VGdrSktkUzdSZkc?oc=5",
    "data": "2026-09-07T16:49:53+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "RUMO AO EQUADOR! Assista ao embarque do Flamengo para o jogo contra o Independiente del Valle, pela Libertadores",
-   "link": "https://colunadofla.com/2026/09/rumo-ao-equador-assista-ao-embarque-do-flamengo-para-o-jogo-contra-o-independiente-del-valle-pela-libertadores/",
-   "data": "2026-09-07T16:41:20+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Delegação do Flamengo embarca na tarde desta segunda-feira (07) rumo ao Quito, onde enfrenta o Independiente del Valle (EQU) O Flamengo entra em campo na quinta-feira (10) para enfrentar o Independiente del Valle (EQU),…"
   },
   {
    "titulo": "Dois jogadores do Flamengo estão na pré-lista da Seleção para amistosos; Paquetá fica fora",
@@ -82,7 +170,7 @@
    "resumo": "O Flamengo tem dois jogadores pré-convocados por Carlo Ancelotti para amistosos da Seleção com Austrália e Índia. O clube carioca já está ciente de que os atacantes Pedro e Samuel Lino estão na pré-lista e têm chances d…"
   },
   {
-   "titulo": "Lino celebra vitória do Flamengo, encerra polêmica com Arrascaeta e fala sobre Seleção",
+   "titulo": "Samuel Lino fala sobre polêmica com Arrascaeta no Flamengo",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ205RDJHMDZCdGNTb0UwSm1yS1RDQ1ZqNUlmXzFOdlVFTi1lQjlmNjBFdWs0UmFieFVGSW5mOGlMZG5JeS1tWXNrblFjSjV6U0hObzBRN0ZYWmRkTk5Tdy14U3ZHWW42MVpEZmtlMzRkSjd0TnZrODlIenI5ZzZMbm5KUjF6czM4bDJxcHJfRzU1M2QxeVdvdnlRQ2p1bmI4M3NOQkVBUzRxUnlvdHhFVGFrOG52UWhES19yR2JRMU5kZw?oc=5",
    "data": "2026-09-07T16:23:11+00:00",
    "fonte": "lance",
@@ -96,30 +184,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Apesar da vitória do Flamengo, a arbitragem de Lucas Casagrande dividiu opiniões O Flamengo venceu o Remo por 1 a 0, nesse domingo (06), pela 26ª rodada do Brasileirão. Apesar do resultado, a torcida rubro-negra ficou “…"
-  },
-  {
-   "titulo": "Jogo do Brasileirão hoje: Vitória e Grêmio entram em campo nesta segunda",
-   "link": "https://colunadofla.com/2026/09/jogo-do-brasileirao-hoje-vitoria-e-gremio-entram-em-campo-nesta-segunda/",
-   "data": "2026-09-07T15:44:24+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Jogo encerra a 26ª rodada do Brasileirão nesta segunda-feira (07) O Flamengo venceu o Remo por 1 a 0 nesse domingo (06), no Estádio Mangueirão, em Belém, em partida válida pela 26ª rodada do Brasileirão. A segunda-feira…"
-  },
-  {
-   "titulo": "Libertadores e Brasileirão: a programação do Flamengo para jogos contra Independiente del Valle e Corinthians",
-   "link": "https://colunadofla.com/2026/09/libertadores-e-brasileirao-a-programacao-do-flamengo-para-jogos-contra-independiente-del-valle-e-corinthians/",
-   "data": "2026-09-07T15:25:51+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Como será a preparação do Flamengo para jogos da Libertadores e do Brasileirão? O Flamengo divulgou a programação semanal para os jogos contra Independiente del Valle (EQU), pela Libertadores, e Corinthians, pelo Brasil…"
-  },
-  {
-   "titulo": "Por que o Flamengo é o pior time para receber em casa?",
-   "link": "https://colunadofla.com/2026/09/por-que-o-flamengo-e-o-pior-time-para-receber-em-casa/",
-   "data": "2026-09-07T15:06:15+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo é o melhor visitante do Brasileirão de 2026 O Flamengo é o visitante com maior pontuação do Brasileirão de 2026. A vitória por 1 a 0 sobre o Remo, no Mangueirão, confirmou esse dado, em específico. Isso porque,…"
   },
   {
    "titulo": "Flamengo: Plata se reapresenta em Belém e já treina junto com o elenco",
@@ -154,14 +218,6 @@
    "resumo": "Remo 0 x 1 Flamengo | Melhores momentos | 26ª rodada | Brasileirão 2026 Atual campeão brasileiro e da Libertadores, o Flamengo tenta repetir o feito em 2026. Após assumir pela primeira vez a liderança da Série A ao venc…"
   },
   {
-   "titulo": "Líder absoluto: Flamengo tem melhor ataque e melhor defesa do Brasileirão",
-   "link": "https://colunadofla.com/2026/09/lider-absoluto-flamengo-tem-melhor-ataque-e-melhor-defesa-do-brasileirao/",
-   "data": "2026-09-07T13:50:58+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo lidera os números ofensivos e defensivos do Brasileirão, além da tabela O Flamengo venceu o Remo por 1 a 0, na 26ª rodada do Brasileirão, e assumiu a liderança, com 54 pontos. O Palmeiras, que começou a rodada…"
-  },
-  {
    "titulo": "Flamengo agradece 'ajuda' do Botafogo para ser líder: 'Obrigado, amigo'",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRmJEWEFFZ1piS1p4UUpPc0VDSTRlWWZNdlZNeFpFQXlSdExseDh6bDZhOGdzNW1IZFN1dkFtMWlNMU9JbGJ0Wm5PTnpsek55Q01VdHNUSThlMUZSdlh3UGhDVV9xbjhzcmpmMktqLTVxRkRxcm5QbEl6MGV6aThER3o3Z1FJTDhERGxkcTd5SzJDclFxTzV0R0JTZEFtbmdNbU1YSkpKem5VdDI1clE?oc=5",
    "data": "2026-09-07T13:48:23+00:00",
@@ -176,14 +232,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo treina em Belém e embarca para o Equador nesta segunda",
-   "link": "https://colunadofla.com/2026/09/flamengo-treina-em-belem-e-embarca-para-o-equador-nesta-segunda/",
-   "data": "2026-09-07T13:25:56+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Elenco do Flamengo se prepara para enfrentar o Independiente del Valle (EQU) O Flamengo venceu o Remo por 1 a 0 no domingo (06), pela 26ª rodada do Brasileirão. Nesta segunda-feira (07), o elenco rubro-negro segue em Be…"
   },
   {
    "titulo": "Flamengo dispara, abre vantagem sobre o Palmeiras e vira favorito ao título do Brasileirão; veja os números",
@@ -250,8 +298,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo sobra, e Palmeiras tem problemas. Abel precisa reconhecer isso",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFRlb3VQNmlYdVl5SVVteW8wc2U0LVZVSGpJUllfazQzZW10S3lzQThWR2xSeVNtNWFVRC0wamhRNy0yczZXSmhtZTNmd3RDY1pQeTR3U3duSDk1eGt6anp5Z0FxdGN5bWhpRlZreFlSaEUyMmx5OE51Z2lGdUlDTTVqQVdGYjlnRVdheFlNU2FNOGVaQ1hfcU44T2dOYWZscUNYTnE4alQ?oc=5",
+   "titulo": "Flamengo sobra, e Palmeiras tem problemas. Abel Ferreira precisa reconhecer isso",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVdzQ0J3TkNWMUw4ZFF3VUdPWEVocnpFX1VnMDhqWXowalE4UTVia1d4MHhmT053bWpoNUFDcndfNVlvRk9QeGlKOWZXMTdSbWo1WVRGWDhxWGF3VEcxNUF4bFpsUDdmdnJpRzhXOWhIRU1uZ1o2S0RhMERWdi03cVV2SjF6bENya1ZyWmhUTFpvblhvNDRsNldObnlidlFsMlA3eW1yUjU5VXVwWGRfRjA5RVg?oc=5",
    "data": "2026-09-07T12:09:06+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -394,14 +442,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Brasileirão: Flamengo bate o Remo por 1 a 0 e incendeia briga pela liderança",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd1Nya1JfLWoxN1RPOGpESUhpT1ZSNlVMVVVGa2tZSjNPa1JqWFdoMEk5eUlubU9fZTdxSVRkYnR2S3VQMnRydmpYTE1jRGo5OUtDZjdvUWpldmxVZjR6TnEzY2FYQWQ4MDVocUdLcDhUMHBXdmNKTDlGU2VaUzdETE1FRDBUTV9FSHdMUzZRMzNUblgzZGdIaGRsSWRZbGM2UUEweEI0U05UTVh6THNxZ0k2SUFsN0hXUFppNUpiWk1uc3psSkJQZ015NXZKa21ESmdhUTVjaEg1T0FfdDUtTE9GdVE?oc=5",
-   "data": "2026-09-07T01:42:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Abel 'joga responsabilidade' para o Flamengo e ironiza microfones à sua volta em Botafogo x Palmeiras: 'E vocês não me viram chutar nenhum'",
    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWnpWeUFoekdISGIzck14RDY4QjFsSjcyT1QyOTN2VnpKem85cWVtd1kzQlNjaEp0QktoNjZBd3M4djE1WklQTGVBRG5XWGR2VjRQYXlXUnBLX0NXcWNrMms4ell0eHlQSjM1aVNybjdsMVJ5ZkhOZ1ZyS1ZSMW5pa2NvRVJYZWZaUDVOWkpvdmhYTm55OXp5aFdfMVJJZnFuUnR4eEVLS0xMeWFnUTBxcEJNanNaczdna3dfR0lKN0dyZkVRVG9pd21YZDluZjVJTU5ZZlBYeU1CUktacDJYTllXVmdDUnN6d2lsMThNVEJ2SWRJS1gzWi1BdGFRbXUyZVhPSzhNLVBmVjQ3REhjLW1yYlZ5N2JjM2RGOEtvLVJqamtqMnEtWGJ3?oc=5",
    "data": "2026-09-07T01:36:00+00:00",
@@ -455,6 +495,14 @@
    "data": "2026-09-07T00:53:19+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Zinho diz que Palmeiras pode chegar com 'confiança abalada' contra a LDU após perder a liderança do Brasileirão para o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04d0U1TXZEV3JrdklCMlFrb1llcTlsZ0JuS2RWWWQwVC0wQUhTWmVEajlNSXZ6UG44c3c2WnZlWTM5RjB5MXBkZzBDd1ZYSkFZUlpQbHlaZEZvVWxiY2c?oc=5",
+   "data": "2026-09-06T23:55:03+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -746,14 +794,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Palmeiras x Flamengo: do que cada um precisa para fechar rodada como líder?",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGVjZHFaejFNWUtpZ0NvakM5VmhtbGFPVnZ2SFAxbFV4RWhqdHBWa2R5X3c5Yk5RRGFmTG5MaU5RX2ZsWlJpMDZUSWtldUFVUDlhVjg2YkNiYm5DbnRFYjBNTUZCcHJDdy1JTUN1ODl6ZjVERXptM2xUSWlxZ3J1NThzOTJIWXJpU21Wbm1MMEo3UUJtSkFETFBGWmJZemFpWXdkNHFDbzNwR2gtc0Vtbw?oc=5",
-   "data": "2026-09-06T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Ex-Flamengo e Seleção, Leandro Damião é anunciado por novo time aos 37 anos",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUNFR2xOc0JzZS0xVFJROVdDeXpsc0Z5ekE3VmdPMEtXYlg5ZWFQcGkyRWNQUEYwV2YxWjdYbm45ZUpFSDJmOWhheGc0ZWtDeE5veHFXSms2RGxfNk02azdMZjMxOC1uVGR3UmN6U3ZaMzFWTEdLdTZTZWlQMGtaTVdPQkdreUlUckp4TFhzbWZSaUJabDJBWnU5UEFUMy1uVXhqaUFyWGVXb0EyWVNnc3FqdFhMMngza09SSVN3?oc=5",
    "data": "2026-09-06T12:00:59+00:00",
@@ -792,6 +832,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Bap agradeceu por ter vendido Plata ao Dinamo Ao mesmo tempo em que entrar em campo para enfrentar o Remo neste domingo em Belém, o Flamengo também estará de olho no Rio de Janeiro. O clube espera que Plata esteja no vo…"
+  },
+  {
+   "titulo": "Palmeiras x Flamengo: do que cada um precisa para fechar rodada como líder?",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjlCbmtBR1F5XzNmLUxVWTZkczVNSlR1Wi1Bc1o4RUJYLWUtenlRd0JCR01vc0RZQVJUQVpCSDRuaFlkeGRXR2lGQmJxeEhfOWNCLWNCczJKVGt3NXN2OUNqZlphLXg5T0FEVnJCMGl5NF9wWjVJSEQ4TFVmTFBZYW9Ja180TTVfdzhORzZTZnR5TEsx?oc=5",
+   "data": "2026-09-06T08:40:08+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Remo x Flamengo: horário e onde assistir ao jogo do Brasileirão",
@@ -901,14 +949,6 @@
    "titulo": "Brasileirão Feminino: Fla aguenta pressão com uma a menos, empata com Ferroviária e vai à semi",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmdtQm5VRmMtdkYtbS02WjZlQ3E1OU1qZW9nT0ZxejVlZHNmNDBSTEpCU3B2SFJzOXltRThNUjVUNDNvQ25GZkF3d3NIU09MekFKcXdtUzVkMW1mZzkweEV0WmhZZEVUa1NoamVTcXdpREJTQkcxN0xVWEFaODRzT1lTSjBmeXFTbFFpSkRKYVJ2dXdSN09tencwYUFvMV90UloyMmpSVk1vSTBneFhhRl9GS1doZw?oc=5",
    "data": "2026-09-05T21:30:17+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Remo x Flamengo ao vivo: onde assistir, horário e escalações pela 26ª rodada do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX25jN01WbTlsckN0ZFhQbDBpVE5WcnhaNGZ1VTUtUEhnMUxLWUVjTzU0V1lCclF5R1RFeDY5d3MtNG9OWFktR09DeXprVVdCTTlDME5VRVdWcVctQkRnY0dVZTZiZGhxSkg3a2hma1NZN1lhMjhSWlN2TE4xek1SUmlHdW1qODFTcElIcGVZVVVUaHNoNVIyN3BnZFotU0NueW5OdzR5X2twb25XaXBwcG80M2VxZzlKZEoxNzdzejlmNmlkOU1LTktKaEZJX0g4ZEh3MEpVQW5qWEx0RXhxSEwzYUY3bVhmeHFRV25n?oc=5",
-   "data": "2026-09-05T20:46:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -1026,6 +1066,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo pode tirar Palmeiras da liderança. Informações e palpites do PVC",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHFMeUNma2R4cnRFOVNyQjliS0k4eV9IRGxkTzRXbFM0MVNhai1DSFZRUmtIazFiblQ1VjVlTUZHeHB3MkZPSEpNOHVBZjkyX1dWX09VREJ2Rnh5V182d0ZuMWY0TGlOeEwyd3RTSjc0MXhqajBMODZCTUV0RFM0OUg2OUdwU3FiWk82eVJWQUNQMEZPVXZHclFfZ3J3cGZDN0x6U3NtTl9CV29mWDE2dzloUjBtQ0t3UDdOTVB5OTlCMXlLbjFpSEVB?oc=5",
+   "data": "2026-09-05T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Palmeiras x Flamengo: os ataques mais eficientes do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNckJsZ1h5RUw2MEFCdVdvZVNWTGN5WC1EQlVXTTVscGNVaUJ6NmF6M3R1ZWJSRlhCeDNMRDBMSERWSEl2XzBaMzNNeG1Nei1KRGxxU3NjNEdIa1JUWHl1SXR3U002cG1UN3ZyX19GTVhOVkZpNmlPR3JzeVVheDhTZUJfLWdXQkkzWmgyMzBBU2dMNm5kYlZkU1ROYUtiWEdGODlXOGJNazBwNDkyM0JkaGpjd3pZRVp1?oc=5",
    "data": "2026-09-05T10:00:00+00:00",
@@ -1034,24 +1082,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Tradição da Ferroviária ameaça vantagem do Flamengo no Brasileirão feminino",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkRVhwd05UV0ZOd1EtdnZlYThLRFVQOFRKU1Z4cVE0Q0ZnOFJoeDEtWmZoNDZVdWlfTDAxbFRBQ1EwbVAzZ3dHVm9CelZkRlZSdU5qQXFNRXNhVTluVHBNc1p5T2t6S1JlVXFRQm9UcmI5eGRFdHk4TmNSRlE?oc=5",
-   "data": "2026-09-05T08:32:49+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "'Flamengo não é só 11': Jardim põe elenco à prova em sequência decisiva",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYldOcmlLTjB5elBhUFlTVFBNTWtTaVl5N3VINlFKWDVQX2FBbUJwWmowUnhocTc3bzFoY2dyNnR3UnJETHoxUmd2NXo4bEVISGJjanB2RnNFLWVXR3pQUldWUnNpdkQ3SVFVSG9HTFRHZkMxMXRQaTlNWTZUWWRSWi1Ia0J2N19jY2hmaExhbXVNWlcxaFlBMVpZUnZOR2FwOGFFaFZuQ2JCb0NvZDlfRlc4V3c3bmhIUTlrVVEzRndEQTdQdHQwLWxsRQ?oc=5",
-   "data": "2026-09-05T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo pode tirar Palmeiras da liderança. Informações e palpites do PVC",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHFMeUNma2R4cnRFOVNyQjliS0k4eV9IRGxkTzRXbFM0MVNhai1DSFZRUmtIazFiblQ1VjVlTUZHeHB3MkZPSEpNOHVBZjkyX1dWX09VREJ2Rnh5V182d0ZuMWY0TGlOeEwyd3RTSjc0MXhqajBMODZCTUV0RFM0OUg2OUdwU3FiWk82eVJWQUNQMEZPVXZHclFfZ3J3cGZDN0x6U3NtTl9CV29mWDE2dzloUjBtQ0t3UDdOTVB5OTlCMXlLbjFpSEVB?oc=5",
    "data": "2026-09-05T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1130,14 +1162,6 @@
    "resumo": "Remo x Flamengo: informações e palpite para o jogo Consideradas todas as competições, o Flamengo perdeu um dos últimos 12 jogos (8 V, 3 E, 1 D, 75%). Em suas últimas 12 partidas, o Remo tem três vitórias, três empates e…"
   },
   {
-   "titulo": "Gabigol se pronuncia após declarações sobre Cruzeiro e Flamengo e faz pedido à torcida do Santos; assista",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTWJrbjc1YjJ3a1dQOWRsbDhCNzNka1BVaGtEMTB3UmNoSGhwWFFkYXYzNlA2TGl4NzZFbGxsTFIwUHRLQmttaFZVUnFxalJ2Z2gxMXNLNnF0ak1jVXZUUExlZWpSbXR3Rm5CbW1aWEVsNHlqanN4OHk3T2tSUXhlVlcxaTN5VGIxN1NzSnU3S1NHTWRwYVJtclE1OThWY3RWNktMcVc0MTJfMFZHUDFKRERqR0pXUHk5RjEwZEZOcDRPNTc1WUdzZ2tWMlVLY3huUE1fQklZVDAyMkXSAeABQVVfeXFMTkpLNTI3dlZuNVM0OFNmYnZzTk9UUU15TWQwTjVOZjFTejUzWkEydVc1cUJIUTVRTU9jbVRuY1BuOHhSa2Zuek5pWnRqdnR4Y241SzNIV2dTbGhhcU92QnVRTlFXYTdnNWJlNTVIRGFfOE9IZG5iZ2hFc2ZHc2xpRjhEbXpDOEZjVm90Um1yYTJwdjFkeXJqSmJBQnRpMm5jeFR2NEs2ajN3dUJvOTVaME5WSzBQZUdQM1JBamFTaExIam96MEUyNGVDbXItMjZzY0hNMWFsOWNTT2NrdTd1cmQ?oc=5",
-   "data": "2026-09-04T23:24:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Ferroviária x Flamengo: onde assistir ao jogo do Brasileirão Feminino",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlktVWRIWXd1d2NoTTRzZ1dHVEN4MjlNZ0lJNTRIOHFDNHpMQVF5QkVPTi0xbGVVZEI4eG5ZSjZQY1c3ZzIzeG1IbjBqZDRoNWdKM053YllWdTI3UnZiRGhUQUJKcVl5RFEtb3d3OWdxUGpBcnpzUldKcG9wcFF2OWJtalJiTWo2OWdPUUlSajlIYzFQR1UtVHoxckNvV1NpZDByeC1HOWcwck5EQkVuQW1B?oc=5",
    "data": "2026-09-04T23:03:30+00:00",
@@ -1149,6 +1173,14 @@
    "titulo": "Jornal exalta Filipe Luís e detona escolha de Luis Enrique em PSG 1 x 2 Monaco: 'Levanta muitos questionamentos'",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdFgwNlE3a2VSdDFyUlZxd0QwcTVCMTQwcG5zTkpWVmdZRU9HcTlQakV5UXFUOXhZX3kzQlVqNHJZUjdFdVVFTXdsWHhYNm83bkNtOUtCbXBxZWtfYk1EWll1aFNNMWswWFFZZ3U2VklLd2JlUDE2LXBGLU1jbG1GOFFIV0h2SHRWbC1aZjB2aENsNU8zUUhtTVRxV1J3dHAxSnpJeHIwUUhTQUc4VVhtSF9vVlplT1M4WEI0UHJwMG0tclFoYXVfS20tbVFMeEZJNWwwekNXRE8tTU5Td25JQlRLRTFRQVhwcDVzeXoyQXhIT3k1YTBieHQ3NmtLNU0?oc=5",
    "data": "2026-09-04T22:36:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Marquinhos marca, mas Monaco de Filipe Luís vira sobre o PSG e segue imbatível no Francês; veja como foi",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HYlNNakdZeF9OcjRzSU5wdjBOZVVkeHVDUFpJcHk1dk03YmNIZ3p5TmY2c3gyVmp1M1dVaEpYQTNSbzRxZVhnQmJkVVNqbWMyQThJbjFGa0E0N1d1Umc?oc=5",
+   "data": "2026-09-04T22:02:34+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -1200,38 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Confira como foi a eliminação do Uruguai! O técnico Diego Forlán anunciou nesta sexta-feira sua primeira pré-lista no comando do Uruguai. O ex-jogador divulgou uma relação com 46 pré-convocados para a próxima Data Fifa,…"
-  },
-  {
-   "titulo": "Retorno de Plata ao Flamengo sofre alteração; veja cronograma",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDllSEVfeWZUUzhGUlNFMjVZUlhBREJwTG5zX0tXVWN0TmhkbEl2UHpSSUN3NlUtd29TU2dDRXU0Ym8yOUcwLUdUUVgtVWJHcjBTZzkzY3Q5Q1NTbW1QY3c0b1FzN05WN0NBY0RQOGxDbHprYXNiazh6SUxiejc0YzF6YTM4VnpQbnZkOGRuRnFyM3R2MEx2dEloYmZEN1dV?oc=5",
-   "data": "2026-09-04T19:57:46+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Clube português contrata Matheus França, ex-Flamengo e Vasco, por empréstimo",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUlGRTVOR20wYkJuWlBEUTF5YXZfWndHckM2VTVzZEdSdnQ0X0VKMkZ5Rk9QRkVHV3pGOEo5N2JXTmpVSURVamozWjd6R0kzQmY0V2pLVFVscks4VHVTYlo1UzZZVmlfV1dQa3NQM2JGV2FWWXhRR2xBRnFBV1pSTmd0Y3ZKM3h0RFFFNGJheVVpc0RXakJHYUJqN0d4alZzQ3ZmOHI1SDJwc1dSMFVRRHJ2V2ZKRDJpbUNQd2tWTjRHampwNkpCRlliSWJrVXJQNWpr?oc=5",
-   "data": "2026-09-04T19:26:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "QFC e Flamengo promovem avaliação técnica na Grande Natal",
-   "link": "https://ge.globo.com/rn/noticia/2026/09/04/qfc-e-flamengo-promovem-avaliacao-tecnica-na-grande-natal.ghtml",
-   "data": "2026-09-04T18:07:18+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "QFC realiza captação em parceria com o Flamengo Daniel Santos O QFC SAF e o Flamengo realizam entre os dias 11 e 13 de setembro uma avaliação técnica de futebol, no Complexo Esportivo Francisco Ribeiro \"Ninho das Águias…"
-  },
-  {
-   "titulo": "Remo x Flamengo: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVXZfTmhiTkllSUQ4YV9BM3N1S0NJLV9haVdINjB1NFozc25NT1pJbW5haGR4MEpiaGJWQjBNMk5odXdJRThJV0lPNEFZcUg5bW9vN25mRnI3SUlEZzF3VHB6WnYweVFWTnRyWjJxYmRYeFJvTk13WFI2ME9LS3h2QktTaHlRWWJxb0I2WDFaTDRDQTFhTGxLOE5RNk9zVzNtNjN2T2dNVkk5VjYxZngwZjZWUGk2M0tzX0pScW8yaG40Z2pBVy1ZQkcxQXI3TElIdEhqY1lPc1lzQmE3MVNxM3BfdHc1RVJJVEl4Zw?oc=5",
-   "data": "2026-09-04T18:07:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   }
  ]
 }
