@@ -131,8 +131,8 @@ h2.secao:first-child{margin-top:4px}
   transition:background .15s,color .15s,border-color .15s;
 }
 .chip[aria-pressed="true"]{background:var(--vermelho);border-color:var(--vermelho);color:#fff}
-.campeonato{display:none}
-.campeonato.ativo{display:block}
+.bloco-campeonato{display:none}
+.bloco-campeonato.ativo{display:block}
 
 /* ---------- notícia ---------- */
 .noticia{
@@ -277,10 +277,10 @@ nav button[aria-selected="true"]{color:var(--vermelho)}
       <button class="chip" aria-pressed="true" data-campeonato="brasileirao">Brasileirão</button>
       <button class="chip" aria-pressed="false" data-campeonato="libertadores">Libertadores</button>
     </div>
-    <div class="campeonato ativo" id="campeonato-brasileirao">
+    <div class="bloco-campeonato ativo" id="campeonato-brasileirao">
       <div id="tabelaBrasileirao"><div class="esqueleto" style="height:420px"></div></div>
     </div>
-    <div class="campeonato" id="campeonato-libertadores">
+    <div class="bloco-campeonato" id="campeonato-libertadores">
       <h2 class="secao" id="tituloLibertadores" hidden></h2>
       <div id="tabelaLibertadores"><div class="esqueleto" style="height:140px"></div></div>
     </div>
@@ -759,7 +759,10 @@ function mataMataHTML(eventos) {
   if (!evs.length) return "";
   const temFla = (cf) => (cf.times.some((t) => t.id === FLAMENGO_ID) ? 1 : 0);
   const porFase = {};
-  for (const cf of agrupaConfrontos(evs).map(montaConfronto)) (porFase[cf.fase] ||= []).push(cf);
+  for (const cf of agrupaConfrontos(evs).map(montaConfronto)) {
+    if (!porFase[cf.fase]) porFase[cf.fase] = [];
+    porFase[cf.fase].push(cf);
+  }
 
   return Object.keys(FASES).filter((f) => porFase[f]).map((f) => {
     const chaves = porFase[f].sort((a, b) => temFla(b) - temFla(a)).map(chaveHTML).join("");
@@ -809,7 +812,7 @@ $("#chipsCampeonato").addEventListener("click", (e) => {
   const chip = e.target.closest(".chip");
   if (!chip) return;
   document.querySelectorAll("#chipsCampeonato .chip").forEach((c) => c.setAttribute("aria-pressed", String(c === chip)));
-  document.querySelectorAll(".campeonato").forEach((c) => c.classList.toggle("ativo", c.id === "campeonato-" + chip.dataset.campeonato));
+  document.querySelectorAll(".bloco-campeonato").forEach((c) => c.classList.toggle("ativo", c.id === "campeonato-" + chip.dataset.campeonato));
 });
 
 /* ---------- abas ---------- */
@@ -862,10 +865,17 @@ if ("serviceWorker" in navigator) {
   // Quando um service worker novo assume, recarrega uma vez para o app já
   // rodar o código atual em vez de esperar a próxima abertura. Só vale quando
   // já havia um controlando: no primeiro acesso isso recarregaria à toa.
+  // Logo depois de uma publicação o CDN do GitHub Pages pode entregar ora o
+  // sw.js antigo, ora o novo; cada troca dispararia outra recarga e o app
+  // ficaria num ciclo. Por isso, no máximo uma recarga automática a cada 5 min.
   if (navigator.serviceWorker.controller) {
     let recarregando = false;
     navigator.serviceWorker.addEventListener("controllerchange", () => {
       if (recarregando) return;
+      let ultima = 0;
+      try { ultima = Number(localStorage.getItem("ultimaRecarga")) || 0; } catch (e) {}
+      if (Date.now() - ultima < 5 * 60000) return;
+      try { localStorage.setItem("ultimaRecarga", String(Date.now())); } catch (e) {}
       recarregando = true;
       location.reload();
     });
