@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-08T13:31:01.600591+00:00",
+ "atualizadoEm": "2026-09-08T17:25:48.946808+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 59
+   "itens": 57
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,168 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 55
+   "itens": 54
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 94
+   "itens": 95
   }
  ],
  "itens": [
+  {
+   "titulo": "Bruno Lima: Santos supera Grêmio e avança em negociação com Flamengo por Cebolinha",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYllHYk5yLWtuYXdJMTlnYzk0RzdTYkJqLUZHQmd2OTRYY09yMXJUa3NZNWlZQjVWd2lmdmREa01uVkxUaHF4aXZOVmd4Zl9mSVhYNkE5UmhPWFNLUU1lVVplZXBtMi0xWWhaQ0FNdTl4ekdSU0l2ajdnaUZaVkw4YzdiWkZzTmhOV002eTZKY1E4VE5FMGhCQkhjMDJEOWt6UXF3VTFRMXg4RHJEMlRSRmtyU1hZMXVUcjZBQUQxeW4yNEFPY2RPLWRoNElGbWtkbVE?oc=5",
+   "data": "2026-09-08T17:08:19+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Mattos: Pedro e Lino, do Flamengo, estão na pré-lista de Ancelotti; Paquetá, fora",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcTczTWhESFBWdEVQZEg3UzNPTkRDU3dabV9vWXB4VHQxczZNU0NVeEh1RjAxUlZDaHUzMi1icUVUZWFyS0J3ZG05QlRTVmhaNlhzcTNaWWtfZXlId0QwQVVNTlhfeHNlZVVxSHhCeHJVUXpFSF91bGF3aGJ2eEVia09XOGdlR1ZKeXZtMXI5N3pOOWwtNmRoSXJGWnRoenRSVXZ0aHFPQU5ORl9qMlNmUGpFb0FKa1l2VkMxMnRYZTl0SXNxcUFyZHdudHJjNkxWNGY0TS1zRnVmOUU3aEoxMw?oc=5",
+   "data": "2026-09-08T17:04:33+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Santos encaminha contratação de Everton Cebolinha, do Flamengo",
+   "link": "https://colunadofla.com/2026/09/santos-encaminha-contratacao-de-everton-cebolinha-do-flamengo/",
+   "data": "2026-09-08T16:59:51+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Everton Cebolinha deve assinar contrato com o Santos até o fim do ano O Santos deu um passo importante para contratar Everton Cebolinha, atacante de 30 anos que pertence ao Flamengo. O jogador recebeu autorização da dir…"
+  },
+  {
+   "titulo": "Jornal espanhol pede ex-Flamengo no Barcelona: 'Provou ser'",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONjdTb3pIaENRRDhwb1kwVWRVUHljWDFCNl9iS2dzZ2ZSX3ltdmdwWXZOX3FIQ2xndllRWnRRc1ZOVnlMY3E2TUUwTktFTUYwbUFQa1lGeXZ3MFRQRzU2TXhmSnZrNVB2X0tyUDNZYzdhRGFDc2hzdWFidDZzbGlLNGtrLV9wM3g4QlE4ZjhaLTNQemRLel9iNmZFZXRaMmR1YnVFc09pdVN0dHA1?oc=5",
+   "data": "2026-09-08T16:42:24+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Santos avança pela contratação de Everton Cebolinha, do Flamengo",
+   "link": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/09/08/santos-avanca-pela-contratacao-de-everton-cebolinha-do-flamengo.ghtml",
+   "data": "2026-09-08T16:26:30+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "A caminho do Santos: veja lances de Everton Cebolinha O Santos está perto de contratar o atacante Everton Cebolinha. Aos 30 anos, o jogador avançou nas tratativas com o Peixe para um contrato até o fim da temporada, em…"
+  },
+  {
+   "titulo": "Plata passa por corredor polonês, e Flamengo faz primeiro treino em Quito para a Libertadores",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/08/plata-passa-por-corredor-polones-e-flamengo-faz-primeiro-treino-em-quito-para-a-libertadores.ghtml",
+   "data": "2026-09-08T16:23:10+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo é indicado ao prêmio de melhor clube masculino da Bola de Ouro O Flamengo fez o primeiro treino em solo equatoriano na manhã desta terça-feira, no CT Edgardo Bauza, casa da LDU, em preparação para as quartas de…"
+  },
+  {
+   "titulo": "Flamengo se manifesta após ser indicado ao prêmio Bola de Ouro",
+   "link": "https://colunadofla.com/2026/09/flamengo-se-manifesta-apos-ser-indicado-ao-premio-bola-de-ouro/",
+   "data": "2026-09-08T16:00:45+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo recebeu a indicação nesta terça-feira (08) Top-5 do mundo! O Flamengo é um dos principais times da última temporada, de acordo com a revista francesa France Football, através do Bola de Ouro. Agora, o Mais Quer…"
+  },
+  {
+   "titulo": "Paredão falso? Elenco do Flamengo brinca com retorno de Plata após fracasso na negociação com o Dínamo Moscou",
+   "link": "https://colunadofla.com/2026/09/paredao-falso-elenco-do-flamengo-brinca-com-retorno-de-plata-apos-fracasso-na-negociacao-com-o-dinamo-moscou/",
+   "data": "2026-09-08T15:49:51+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Assim como nos paredões falsos do BBB, Plata parecia de saída, mas voltou sorrindo ao Flamengo O Big Brother Brasil (BBB) tem um recurso clássico para surpreender o público: o paredão falso. Nele, a produção simula a el…"
+  },
+  {
+   "titulo": "Flamengo e quatro jogadores brasileiros: veja todos os indicados aos prêmios da Bola de Ouro",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcUhlNS1vZHhjX2o5OEoxeXk5Z24xSXdqNFJpeDNPcWI2ajI0LVZyNWxsQkRSdWg1VWlzTHFhb2MyWklvU0RoV3Fpa2FGWjBCNEZZakhHWWRJRlE0MlVTRGNGZ3diLW1zbHhCNE5MT1FtTG9fQjM2TjI1M0hsZjRXSXFVdWtMdTdzczh6MjNOZ2ltMDdZV05WZlNkVDBJbGNXSzc4clJfdThZd0kyMk5FLUNFbzVGakdWaURmS0xWN2p1eG9QaU1mTjJUSmpsM1FsMzJXTUxJeEljUG52ZEI4OU82NHNYR2dHaDVHVEtZRmNEWWVZ?oc=5",
+   "data": "2026-09-08T15:20:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Bola de Ouro: de Flamengo a quatro brasileiros, todos os indicados a prêmios de melhor do mundo",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMTJrdk5ZVFJubzQwZUhUNXB0Mnp3MTR6b1QwU0dZM1BKcU5jbl9jSUFpN2k0WnFYVDlXYmxnTkNLRmN3dHlJazdCSzMzWTBobEpZZ1lDSDRtRUwxWHVIMGwwNGYwbUt2TDFXOFhxQU1XZVlJWlhKaGl2WF9QbHN1X1R6eEFNTGdWLXNtMDdQaGxSUG0tV0hpSnFjQ01vVGd3RERSM3ZHWWtSeWVnNi0zYnpCVUVSMTBjTWhvQWpuZlhmNVdubzNOVWhyMnlhTVN3bVo2Uk9UUVIyVlo3WVY2N19VVlU?oc=5",
+   "data": "2026-09-08T15:18:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Independiente del Valle x Flamengo ao vivo hoje 10/09: siga placar agora | Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0hYV2FPdUk3eVlKTk9GT3ppeFJxb3RHdVFrY05kNk4xekR0NER3b1JmWEN1ZEVuZWpYa2dwVy0zSFdkVGlwUGZ2UGdkMmpod0ZXT3ZhaXRYX2E4MzIxcUNUMWxUUjhtZkEteHhRQm5FRmV2b0hYMV80eTM0emJYYXZNQjdwbnZpN0FhOGZicTYxOTJOTk1DLUVyb0QxYlpVRUJQdV8xSQ?oc=5",
+   "data": "2026-09-08T15:05:38+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Grêmio e clube russo disputam Everton Cebolinha, do Flamengo, e aguardam decisão do jogador; veja",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNTWJwSTluT1JRQWF2M0ZIR2dyUHZIdDlxRGxMcGI4bzRMYm5pV2w3RmpwV281ZWNNVm50NWctMEt4MTJuX21vUU5vNllaYjM2a0dRVE5ydFF1YTU4NEE?oc=5",
+   "data": "2026-09-08T15:01:08+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo tem chances reais de ganhar prêmio na Bola de Ouro?",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0lGWXZVNXdMeWVYN05FUWtORzEzbkduQUgxbHIwTllzb3dIcEtwTW8zY3ZyakhpZlkzQko1RXc0SXM3Z2s2Vnp6ZlhYTElMdzk1VVFtOXR4NVhNZ2VWMW5UQjZMbzQtMHE1N0Y0TGNCVmZnbTBmMnZ6WE45QnZRaGRxMXlVeWNGN0JMblRyQlVJR21iUjV3WG4zdERvSHBVeEM0NFl4UFdHUFp3cC01QnItNA?oc=5",
+   "data": "2026-09-08T14:58:26+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Saiba onde assistir ao jogo do Flamengo hoje, pela estreia da Copa do Brasil Sub-20",
+   "link": "https://colunadofla.com/2026/09/saiba-onde-assistir-ao-jogo-do-flamengo-hoje-pela-estreia-da-copa-do-brasil-sub-20/",
+   "data": "2026-09-08T14:54:04+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo x Forte-ES acontece pela primeira fase da Copa do Brasil Sub-20 O Flamengo começa a caminhada em busca de um título inédito para as categorias de base nesta terça-feira (08), contra o Forte, do Espírito Santo.…"
+  },
+  {
+   "titulo": "Classificação do returno: Flamengo, Bahia e Fluminense pressionam liderança do Cruzeiro",
+   "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/08/classificacao-do-returno-flamengo-bahia-e-fluminense-pressionam-lideranca-do-cruzeiro.ghtml",
+   "data": "2026-09-08T14:19:47+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Cruzeiro 3 x 1 Athletico-PR | Melhores momentos | 26ª rodada | Brasileirão 2026 O Cruzeiro retomou a liderança da classificação do returno ao derrotar em casa o Athletico-PR por 3 a 1, com aproveitamento de 71% dos pont…"
+  },
+  {
+   "titulo": "Indicados da Bola de Ouro 2026: Flamengo concorre a melhor clube do mundo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkQwVXhBajdzcG4zUmhpdFdCek9CU2lVVUZJUEQyb2ZNQ1RUbVhxX0RfXzJGNXF3RnBiUDBEb1NkSG56X2JRLXVGZnN5cWs1MTBWYkEzeG9ibGt3R0FFVTZ3Y3dUcC1oUXlkdGZxQU5JdHZhNjczYU1nbXpleGdFb3h4QUg4UTlNc3o1eGxWTFliRHowWkpaWkIyQzNPVGE0VkluMnE0VXFpZWhsU1dsNUVqdndxZXltamNmRmR4YzNzUEnSAd4BQVVfeXFMT09UVllpa3BuQ0ZkSzZoV08tVDEzWkhDZ1pDVzZ2YWIzN0ZuMlY5SXBtclNEUm14SDBQZF90bW5RWW9IYUk1ZV9tNDlVN3JLc0NMdlF3UmNoNG50eU5uWURnQXlUSVhKd0huTURDZlBCU3FITENHY0E0Xy14cnBpd3YybGl2d0xIOC0yN3NvWGI3bmJHQUlXanpsczRtOGoxejJ0c3RtWkVnUE5tY19yT3c2alFRMXItYk5xRnZrYmJndmptaDB3WU00YkpESFRNb3NhSFpXU0lJNlB6NzJ3?oc=5",
+   "data": "2026-09-08T14:03:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Grêmio muda estratégia e tenta repatriar Cebolinha; atacante não deve mais vestir a camisa do Flamengo",
+   "link": "https://colunadofla.com/2026/09/gremio-muda-estrategia-e-tenta-repatriar-cebolinha-atacante-nao-deve-mais-vestir-a-camisa-do-flamengo/",
+   "data": "2026-09-08T13:58:28+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Contrato de Everton Cebolinha com Flamengo termina em dezembro de 2026 A janela de transferências fecha nesta sexta-feira (11). Enquanto o Flamengo busca reforços, o clube também pode ter saídas no elenco. Em meio a iss…"
+  },
+  {
+   "titulo": "Rodrigo Mattos: Pedro e Lino, do Flamengo, estão na pre-lista de Ancelotti a após a Copa",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd0t5THlJMDBnODlOeWJadjdVYnpTRG5jNEtZdXotMkJKa3lkTllZTjBXaGxqN09SRkdyZW9UYjZPWmFoUFRrRUY1Z1ZqUlJUQ1FEMzBLanpMWnU3SGYzMHVLcTVaTFdhMURLRGZPM19BZEF1d0trajB5bUpyNUJYSldJSFBzT3oyaUV0UUJJRTdHZGdTck5VOGt4MHpyUlh3Y2ozSmFock51X3Fna1lwVVAyMlFVRUJ0TmRHVVprMkFBZmRpUk9SZHlxR3lwakVVSXVKbHRDT0gwYjdhdDRyd3g3Mmc5dw?oc=5",
+   "data": "2026-09-08T13:44:48+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo concorre a ?Clube do Ano? na Bola de Ouro; veja indicados",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tQ09nSDdjOWlldFdfMG5OYlZTUE1yOTJidmUyTjI4Q0NqbG1ka2d1cEpSVjllOUY2bjh4dG1vRzBXMndBeC00VlJza3YyU1hTRmVUS2twSV9UNzRWMm91MW41akF4LU0?oc=5",
+   "data": "2026-09-08T13:33:29+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
   {
    "titulo": "A publicação do Monaco, de Filipe Luís, exaltando a liderança do Flamengo no Brasileirão",
    "link": "https://colunadofla.com/2026/09/a-publicacao-do-monaco-de-filipe-luis-exaltando-a-lideranca-do-flamengo-no-brasileirao/",
@@ -47,6 +199,14 @@
    "data": "2026-09-08T12:57:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo é indicado ao prêmio de Melhor Clube do Ano na Bola de Ouro",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkhGTS1jVlpRNUxoVUlYVE1pcFM5REM1RHpjd1RudUVIOEpyZlVkMENOcXMtOTlqNFFpWU9Ha2Rwc25SM3NWQ0lTRGhablBTTDJvWjJhNjVrcFFLemNNTWYyNFlmdE52QU5tZ3R0VTRoQ0RLTjR3b0ZRTXF0WnBHNy15V1czaGRVR2xqTUl5ZUZnc19DLTRQNm5odElmZlhJNW1EOHRnZw?oc=5",
+   "data": "2026-09-08T12:56:55+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -74,20 +234,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Independiente del Valle x Flamengo ao vivo hoje 10/09: siga placar agora | Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0hYV2FPdUk3eVlKTk9GT3ppeFJxb3RHdVFrY05kNk4xekR0NER3b1JmWEN1ZEVuZWpYa2dwVy0zSFdkVGlwUGZ2UGdkMmpod0ZXT3ZhaXRYX2E4MzIxcUNUMWxUUjhtZkEteHhRQm5FRmV2b0hYMV80eTM0emJYYXZNQjdwbnZpN0FhOGZicTYxOTJOTk1DLUVyb0QxYlpVRUJQdV8xSQ?oc=5",
-   "data": "2026-09-08T12:05:36+00:00",
+   "titulo": "Jogadores de Corinthians, Flamengo e Santos estão na pré-lista de Ancelotti",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0R3FiUHVmdFdZN2lyc0pzMjl1WEJweE9SNnF4aDJsR1h3aWExRXRTSHBVSmtwX0g3Um1wNl9ZWWJhV0RNZ3I2UTJJM0RvMTc5YmM5dXVBc1pKVV8tZk9xXzB6SlBOVXc?oc=5",
+   "data": "2026-09-08T12:11:10+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Jogo da Libertadores hoje: Fluminense x Platense abre as quartas de final nesta terça",
-   "link": "https://colunadofla.com/2026/09/jogo-da-libertadores-hoje-fluminense-x-platense-abre-as-quartas-de-final-nesta-terca/",
-   "data": "2026-09-08T11:56:05+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Jogo acontece pela pela ida das quartas de final da Libertadores nesta terça-feira (08) A bola vai rolar para mais uma fase da Copa Libertadores da América. Nesta terça-feira (08), dois times entram em campo pela ida da…"
   },
   {
    "titulo": "Flamengo é indicado a melhor clube do ano na Bola de Ouro; veja concorrentes",
@@ -98,7 +250,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo é indicado a melhor clube na Bola de Ouro; veja outras premiações",
+   "titulo": "Fla clube do ano e Vozinha melhor goleiro: veja os indicados à Bola de Ouro",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbThacGRKZnZBZW5QdEMxNFhiOVlZT0N4Rk5BUDNkVG93ZmY3RDZuWTh2bmllQlpjeU1LUE1CQnllY05GUlBscmVnY1FCbVdsY0dSSmJja1ZleHM0VTNEc3BXZFRXd3pVTG9zbW9ublNxQk11Qi1RSm45WmtnRkJydkpGYlVfaWhlaVN6c3NTcnJlSEFEbUsyMUJR?oc=5",
    "data": "2026-09-08T11:07:48+00:00",
    "fonte": "uol",
@@ -146,20 +298,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo é finalista do prêmio de Clube do Ano do Ballon d'Or 2026",
+   "titulo": "Flamengo é finalista do prêmio de Clube do Ano da Bola de Ouro 2026",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSl9RYVduU0Y2TjZEYWRZVWNVMzdmTlJlOTdtVHVZTk14RXBhTzdRWk04VE93ODN0U1NIMXV0NUFkM3BBVDZuMFJyMW9fQk9BLUpjNnpScDY1ZktKMW9RcWtTVGxHNHlqUnJIRU9VSDJsY3dVUkpuUEVCRU5nUUNXRlBYbWJrcHIxMVJTVDJFR2piWl96S3JOUHFfZ21xdC14?oc=5",
    "data": "2026-09-08T09:57:43+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Ajustes de Jardim! Flamengo faz 1° treino em Quito com foco no Del Valle",
-   "link": "https://colunadofla.com/2026/09/ajustes-de-jardim-flamengo-faz-1-treino-em-quito-com-foco-no-del-valle/",
-   "data": "2026-09-08T09:50:22+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Elenco do Flamengo treina na manhã desta terça-feira (08) O Flamengo venceu o Remo por 1 a 0, no último domingo (06), pela 26ª rodada do Campeonato Brasileiro. Depois do embate no Estádio Mangueirão, o elenco rubro-negr…"
   },
   {
    "titulo": "Os números explicam: como Léo Pereira alcançou outro patamar na história do Flamengo",
@@ -200,22 +344,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "“Até o Cristo Redentor aplaudiu”: narrador chileno ‘enlouquece’ com gol de Samuel Lino para o Flamengo",
-   "link": "https://colunadofla.com/2026/09/ate-o-cristo-redentor-aplaudiu-narrador-chileno-enlouquece-com-gol-de-samuel-lino-para-o-flamengo/",
-   "data": "2026-09-08T02:39:44+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Alberto ‘Trovador do Gol’ Lopez narrou o gol do Flamengo contra o Remo A América do Sul está de olho no Flamengo, com direito a transmissão ao vivo das partidas para os países vizinhos. A vitória rubro-negra por 1 a 0 s…"
-  },
-  {
-   "titulo": "Libertadores: veja vídeos do Coluna do Fla no desembarque do Flamengo em Quito",
-   "link": "https://colunadofla.com/2026/09/libertadores-veja-videos-do-coluna-do-fla-no-desembarque-do-flamengo-em-quito/",
-   "data": "2026-09-08T01:40:14+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo já está no Equador para jogo de quinta-feira (10) contra o Independiente del Valle (EQU) O Flamengo chegou em Quito! Nesta segunda-feira (07), a delegação rubro-negra pisou no palco da próxima partida da tempor…"
   },
   {
    "titulo": "Flamengo desembarca em Quito para jogo das quartas de final da Libertadores",
@@ -272,14 +400,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Plata reforça Flamengo, mas Leonardo Jardim tem 4 baixas contra Del Valle, pela Libertadores",
-   "link": "https://colunadofla.com/2026/09/plata-reforca-flamengo-mas-leonardo-jardim-tem-4-baixas-contra-del-valle-pela-libertadores/",
-   "data": "2026-09-07T20:49:52+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Cebolinha, Lorran, Evertton Araújo e Alex Sandro estão fora da relação para jogo da Libertadores O Flamengo encara o Independiente del Valle (EQU) nesta quinta-feira (10), às 21h30 (horário de Brasília), no Estádio Olím…"
   },
   {
    "titulo": "Brasileirão: seu time melhorou ou piorou pós-Copa? De Flamengo x Palmeiras ao Z-4, compare campanhas",
@@ -461,14 +581,6 @@
    "titulo": "Lino joga como 'melhor do país' e leva Flamengo à liderança do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGMxYTdHeVhyQVlKNV9nLTlvc3lZSVUxLXozMTZxODZpUElRa2F4QmJ0NG9fRTBnaXN1eHpLaWZIMHY3ODU0VUUxSUlVa2J2TWtqNFVSTkRlejNQNUxqM252b3pQU3FYcTVnR3h6WUZjbFZoSTFfaHh3OVdaSmpud0FUa1FBVTEzbHRqZ1VkMWJtYUoyNGJr?oc=5",
    "data": "2026-09-07T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo sobra, e Palmeiras tem problemas. Abel Ferreira precisa reconhecer isso",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVdzQ0J3TkNWMUw4ZFF3VUdPWEVocnpFX1VnMDhqWXowalE4UTVia1d4MHhmT053bWpoNUFDcndfNVlvRk9QeGlKOWZXMTdSbWo1WVRGWDhxWGF3VEcxNUF4bFpsUDdmdnJpRzhXOWhIRU1uZ1o2S0RhMERWdi03cVV2SjF6bENya1ZyWmhUTFpvblhvNDRsNldObnlidlFsMlA3eW1yUjU5VXVwWGRfRjA5RVg?oc=5",
-   "data": "2026-09-07T12:09:06+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -663,14 +775,6 @@
    "data": "2026-09-07T00:53:19+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Zinho diz que Palmeiras pode chegar com 'confiança abalada' contra a LDU após perder a liderança do Brasileirão para o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04d0U1TXZEV3JrdklCMlFrb1llcTlsZ0JuS2RWWWQwVC0wQUhTWmVEajlNSXZ6UG44c3c2WnZlWTM5RjB5MXBkZzBDd1ZYSkFZUlpQbHlaZEZvVWxiY2c?oc=5",
-   "data": "2026-09-06T23:55:03+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -1042,6 +1146,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Rodrigo Mattos: Flamengo exige volta de Plata ao Rio e vê agentes forçando transferência",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekhuLXdpWnpSTFNGbldxUUF2VklaUUlHYkxzMW5LZEEwNGNnRG9sUXNPc0cyTEVRTnJLR2dqZVFOX1NVSDlENHkzSXZrbzFKcTVjQWc4bEpGZlNuMDgzYkJ4VTF2N3h3RHNpS29SZm11QWV1anVwUHlydGtiWEV3Y1RlQTlCZlFqeUNkdjNkMGxvd0dwRjh3YVBTMk1NUDlTZ29STkNxSVJhMlpkekQ2ZDlHSU11LTJRNTFzNTBSVmUxaWZsSGpGOW9aazNWQ0pESUdueGFHcUdTd3Q2VFhDc1JtT29yR2c?oc=5",
+   "data": "2026-09-06T02:56:27+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Plata em Dubai irrita Flamengo, que dá ultimato a atacante e quer retorno imediato",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNkJ3MTl5TzVJdE1TNTIyeVdqdzAwTnk3TjJUazJOQzczWDNxa0x3dC1vT3pWUi13R0lCN1gzd2FLM2djZ19yUVR4bV9jVmRNZkhzVjFyQ19GU3FjUl91RENPSzE2RkFBdDQweGtkazUzVzNEZlRuVk5Tc2U2cmNyTElJTXlzSlUtaUF0NUJRSXdFNnNLd1RDRl9LTXBCd2FLRklfZEFIOFo4ZTRBRmZyS3hRSzdUNUhOWE84TUhqVFp1VWVKaXBya091VnhaT3J2Q2JUUWk1aUg?oc=5",
    "data": "2026-09-06T01:36:00+00:00",
@@ -1090,14 +1202,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Rodrigo Mattos: Flamengo exige volta de Plata ao Rio e vê agentes forçando transferência",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekhuLXdpWnpSTFNGbldxUUF2VklaUUlHYkxzMW5LZEEwNGNnRG9sUXNPc0cyTEVRTnJLR2dqZVFOX1NVSDlENHkzSXZrbzFKcTVjQWc4bEpGZlNuMDgzYkJ4VTF2N3h3RHNpS29SZm11QWV1anVwUHlydGtiWEV3Y1RlQTlCZlFqeUNkdjNkMGxvd0dwRjh3YVBTMk1NUDlTZ29STkNxSVJhMlpkekQ2ZDlHSU11LTJRNTFzNTBSVmUxaWZsSGpGOW9aazNWQ0pESUdueGFHcUdTd3Q2VFhDc1JtT29yR2c?oc=5",
-   "data": "2026-09-05T22:56:27+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Brasileirão Feminino: Fla aguenta pressão com uma a menos, empata com Ferroviária e vai à semi",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmdtQm5VRmMtdkYtbS02WjZlQ3E1OU1qZW9nT0ZxejVlZHNmNDBSTEpCU3B2SFJzOXltRThNUjVUNDNvQ25GZkF3d3NIU09MekFKcXdtUzVkMW1mZzkweEV0WmhZZEVUa1NoamVTcXdpREJTQkcxN0xVWEFaODRzT1lTSjBmeXFTbFFpSkRKYVJ2dXdSN09tencwYUFvMV90UloyMmpSVk1vSTBneFhhRl9GS1doZw?oc=5",
    "data": "2026-09-05T21:30:17+00:00",
@@ -1127,110 +1231,6 @@
    "data": "2026-09-05T18:08:18+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Após vencer o PSG, Filipe Luís revela torcida por revanche do Flamengo no Mundial: 'Melhor time do mundo'",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNjY0eF9aeXRKTlNvZnNzLTNMN0lsaUtGUkVPclBzNXl3US0wOGR1dkJiY2FRWXd2ZHRJYlhBLXFQRW95MTYwaFZfbEgzd25jWUJFTEJkMERJdjYxc0o1YUgtc2xkTFhteG1FdmRkbUdTN1pOYUJLaTBRRzhqRnlLR0V2T0F0bW5Dd2dvbDMxMERtVE9pOXgyc0JTZXNOS0REOEFtUU5RTk5qVl81RDg2TFZDX253Q0c3UkdaMF94SG5xam02VVhRQ29DT2dTcm5McnZMZkNWT1piWnVmTEE?oc=5",
-   "data": "2026-09-05T17:19:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo tem voltas de Vitão e De la Cruz contra o Remo e relaciona reforços; veja lista",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/05/vitao-e-de-la-cruz-reforcam-o-flamengo-contra-o-remo-alex-sandro-e-evertton-desfalcam.ghtml",
-   "data": "2026-09-05T16:49:38+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Remo x Flamengo: informações e palpite para o jogo O Flamengo informou os retornos do zagueiro Vitão e do meia Nico De la Cruz, que estão recuperados fisicamente e reforçam a equipe contra o Remo, no próximo domingo, às…"
-  },
-  {
-   "titulo": "Vasco tem interesse em Matheus Gonçalves, ex-Flamengo, por empréstimo",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTVaNGRkMXZPendDbmlYVHVvdlFFdXdDVnFNM1RmT1dMYVNVcFF5cEE1SmRhRGxDaHgwRi1zcnB1LTJ6dG9CVVlocHFQWGVsb3Vsc1NPTDVNVVdMeGtMRWswbVFCTjdrOUprZ2RrbmFseEk0Q3VZa2RBa1lrVE10UHItMlRSM1hDN2ZGVjVGdlVmb0xvQ2o5WVRsZkhEcVVGc3JnWDJB?oc=5",
-   "data": "2026-09-05T16:32:20+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Como fala de Plata sobre proposta em Dubai causa incômodo nos bastidores do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1VTWlVwbXMwMm9NRXNSdEUzcnRhTTVIM1JaS19MTFBPN0dnTzhtOHY4V1RaUWhMdWRYNWs4dUJhSzVoeXY4enB1MmtpVnZUdjJxeXJRNDVTQ0I5UGpXUUVOMG14djJ6ZFZXSUNncmlxbTF4NXl3b2I5SE1ibUxTbE1wSW1aWFNvVUZFR1RlZVloSFFpN09NY3EtX2E2THI1OWZKY3BMZnFsRHZqWFl0MWtYaThicW8?oc=5",
-   "data": "2026-09-05T15:18:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo prepara logística especial para jogo na altitude; confira",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWVDYnhJb3MzeGVES1ZsTS1QMTY0YkZwUUlQcGNKSFZyNzNCd3ZlRUJMMzE1ZVdGVlZZNlpYRFlBbnFRMThza19PMjhpUEt0QzdTT1lIS1lzdVdrLXQ1RTRnZ0d6Wld1QWxSMEFBUTNzMElHMHlqbFdqaHlNTGxlMVBHY1RodTV2WGJLU2dRa3hRZ0ZaNkRNWktEeWxGYmJsWlR6YngzNFBId1NIQndqSm9GYm13c2N1MkhWV29TVTQ1dFg5SkE?oc=5",
-   "data": "2026-09-05T15:12:32+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Escalação do Flamengo: Jardim ganha reforços importantes para duelo com o Remo",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaEk0ZWZ0eW5WTkthc3d6ZG5fblNQXzVRLVRGM0IxX2dZX0kxNTVxeUx4Q3Z4N2tJS3VqUXVRTTV2U0xNZko5dDRDS0syTm14WTdYejQ1SmxScjltc180YTZWUlVEc3h6bGUtek9iR3VpZjIzbVVxcFlna0xZRFR2Q1J1Z2JUQ0R0QXFoM0kwak8zMjdBZ3ZKeXZGbG5CMkpwVlpQMEFsMEg5SnBRLWlNZGtFQUlYZXM?oc=5",
-   "data": "2026-09-05T14:17:36+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Após Pulgar, Flamengo tem Pedro e Léo Pereira como prioridades para próximas renovações de contrato",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/05/apos-pulgar-flamengo-tem-pedro-e-leo-pereira-como-prioridades-para-proximas-renovacoes-de-contrato.ghtml",
-   "data": "2026-09-05T14:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Reforços, DM e atualizações: Marcello Neves traz bastidores do Flamengo direto do Ninho Depois de resolver a renovação de Pulgar e anunciar dois reforços, o Flamengo deve ter uma reta final de janela de transferências m…"
-  },
-  {
-   "titulo": "Ex-Flamengo, Carlinhos faz fila, dribla dois e marca golaço pelo Athletic na Série B; veja vídeo",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT3Q1V0J2WThXOEVBUW56NmZpMldHc1lHMmJrOE44UFpMMTczT1RkVjVlT2R6RHlWQjZ6dnFfMkNENV9xTFN4R3BDXy12cDNVRlhUdXk4TVZadlhGalhWejItSV96b2FQd2IwdnBORERkRU5ETlJSZ18xN24zNVhEY3BvLTBiX1RJNkluQnEwZzJGUS02a25mRDBKanI5cEIyV2p6VHgzOVl3ckdYMzJxT1BYYVMxWFJwaU9oeXFUZ2pKQVEzcUxGNjViZmtoVGx1QUxZLTdKNA?oc=5",
-   "data": "2026-09-05T13:41:30+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Lesão de Evertton Araújo gera impacto no Flamengo em período decisivo da temporada",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUTZ5ak00eE84SVY3b0p1S1hjOWNZV1FEczJWZHU5aGVsVGstQ1JGa09aR0VsdXZlakcza09NWWJMUWlYNExfeS01ZFNXejdEeWVHWkhpVDdOTkxhZXRoSWtCeUY0bXpFbE1jUWZpNmpEMm5LY0tONmtRdXhOdHVSMHVkQ0xYTWN1OXBpajU4MExHOFEwa2FnS1h5ZUZPWkQtdVFCZklYdUxtNlRNY0R6WXdlMEFlQ1FCczZfeWZ3?oc=5",
-   "data": "2026-09-05T13:05:03+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ferroviária x Flamengo: quem avança à semifinal? Veja no UOL Play",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkVFZGVLcF9xRlFZMHp2N1FvM1NDQ2Q5VmE0MENSaTRDTWNDU3JxcFk1dmlvZ2xDek9jdGpaVV8tOFdJeElqY2J5SHpCdVA3N2RYM3djU3NhRDVmNDF3TFZFMGtWd1k2ODdySndYX3FPaE51MVlSUGV3eWFfNkFJSnIxU0xtT09MeEItU0h3NFJBZWQzUlhiNWtIZVpydG01czlFRzBiRUJfa0xPXzc2T1BZZWU2OTBXNjdoMFF1U2s?oc=5",
-   "data": "2026-09-05T13:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Bastidores: após ruído com Flamengo, Plata publica foto em Dubai e tem futuro indefinido",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSEhGbnl2UE1lZU91VjBvM3NHVl9oN3VFSEJpVXVzeTViaGJLOUVwWm1aT0xTQmpUZ3A3WmhzSUU1elRrM3hVVXJyN3RfbXA2cU02eXVNUDY0eHJXN3FFUnJPTWVDcExFYWZwQllQSURLRjlVWFR6TmgwQ0xFbFNHNDFZUGxXRzhIMXA1bURtendlMlhmcmdXUTkzSGNPMlVzNmhkQXJoUUNZbmZWRndiaXBVVWRNVHo2Q2Jkekp0Y2pNRDQ?oc=5",
-   "data": "2026-09-05T12:35:02+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras x Flamengo: os ataques mais eficientes do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNckJsZ1h5RUw2MEFCdVdvZVNWTGN5WC1EQlVXTTVscGNVaUJ6NmF6M3R1ZWJSRlhCeDNMRDBMSERWSEl2XzBaMzNNeG1Nei1KRGxxU3NjNEdIa1JUWHl1SXR3U002cG1UN3ZyX19GTVhOVkZpNmlPR3JzeVVheDhTZUJfLWdXQkkzWmgyMzBBU2dMNm5kYlZkU1ROYUtiWEdGODlXOGJNazBwNDkyM0JkaGpjd3pZRVp1?oc=5",
-   "data": "2026-09-05T10:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Tradição da Ferroviária ameaça vantagem do Flamengo no Brasileirão feminino",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkRVhwd05UV0ZOd1EtdnZlYThLRFVQOFRKU1Z4cVE0Q0ZnOFJoeDEtWmZoNDZVdWlfTDAxbFRBQ1EwbVAzZ3dHVm9CelZkRlZSdU5qQXFNRXNhVTluVHBNc1p5T2t6S1JlVXFRQm9UcmI5eGRFdHk4TmNSRlE?oc=5",
-   "data": "2026-09-05T08:32:49+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
