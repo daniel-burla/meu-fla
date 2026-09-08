@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-08T20:12:10.947788+00:00",
+ "atualizadoEm": "2026-09-08T22:56:23.321803+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 57
+   "itens": 60
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 57
+   "itens": 60
   },
   {
    "id": "uol",
@@ -34,11 +34,115 @@
  ],
  "itens": [
   {
+   "titulo": "José Boto celebra indicação do Flamengo à Bola de Ouro e valoriza legado de Filipe Luís",
+   "link": "https://colunadofla.com/2026/09/jose-boto-celebra-indicacao-do-flamengo-a-bola-de-ouro-e-valoriza-legado-de-filipe-luis/",
+   "data": "2026-09-08T22:54:50+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Atual técnico Leonardo Jardim também se manifestou sobre o Flamengo entre os melhores O Flamengo concorre ao prêmio de Melhor Time da temporada 2025/26. Portanto, o diretor de futebol José Boto reconheceu a contribuição…"
+  },
+  {
+   "titulo": "Flamengo estreia com goleada na Copa do Brasil Sub-20 e pode enfrentar o Vasco na próxima fase",
+   "link": "https://colunadofla.com/2026/09/flamengo-estreia-com-goleada-na-copa-do-brasil-sub-20-e-pode-enfrentar-o-vasco-na-proxima-fase/",
+   "data": "2026-09-08T22:10:44+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Josmar foi o nome do Flamengo na vitória sobre o Forte O Flamengo estreou com o ‘pé direito’ na Copa do Brasil Sub-20! Nesta terça-feira (08), no CT Ninho do Urubu, o Rubro-Negro venceu o Forte, do Espírito Santo, por 6…"
+  },
+  {
+   "titulo": "Boto comenta possível ida de Cebolinha ao Santos: \"Ele se excluiu do Flamengo\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/08/boto-comenta-possivel-ida-de-cebolinha-ao-santos-se-excluiu-do-flamengo.ghtml",
+   "data": "2026-09-08T21:51:14+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Ana Canhedo detalha chegada de Cebolinha ao Santos e pedido de Neymar por Coutinho José Boto, diretor técnico do Flamengo, comentou a negociação do Santos com Éverton Cebolinha. O português abordou a situação do atacant…"
+  },
+  {
+   "titulo": "Vice do River Plate explica como venceu o Flamengo por Almada",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYUZsLW8wTUpEb0VubEhReUtnNjdGX1FObE5mLUhDWERVV2Fra3lERHZsamh0c2lMb1BzWWJiNDZsaHQ4Zm5LUHVwZWFNUHNIbkVnWlV1RTlIbktfQ1JScnppUEJnREJGUHoyUDdMcWFoVHhQbzNxam85d3VXaURtNnMzcW9PZjl2UmprbnU3Qmt6cFlwMURINEtpckRwU2NqS3JjajlpeUJyQlVBVW1XYkdNWmdKaVQ2VzJjeERFdm9nYl9HWUJxWUI5Mmd6d29lOElj?oc=5",
+   "data": "2026-09-08T21:48:23+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "“União sinistra”: Flamengo e Bayern brincam nas redes após indicação à Bola de Ouro",
+   "link": "https://colunadofla.com/2026/09/uniao-sinistra-flamengo-e-bayern-brincam-nas-redes-apos-indicacao-a-bola-de-ouro/",
+   "data": "2026-09-08T21:47:11+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Clubes trocaram mensagens no X após a divulgação da lista de indicados ao prêmio de Melhor Time da última temporada O maior da Alemanha está ‘fechado’ com o maior do Brasil. Isso porque Bayern de Munique (ALE) e Flameng…"
+  },
+  {
+   "titulo": "Cebolinha de saída do Flamengo? José Boto fala sobre futuro do jogador e se clube recebeu proposta do Santos",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JZXU4blBNb2g5MkZLQTY0aHV0OTRMZTZmNXZ3bkJEOEthUVZTTVdxaUx4ZmZvVEUtSC1EbWd0Q1NtTUdBMDRVb0RUU1pQZGt6dUtaYjZRSUg1aXA4MUE?oc=5",
+   "data": "2026-09-08T21:33:14+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo recebe proposta dos Emirados Árabes por empréstimo de Lorran",
+   "link": "https://colunadofla.com/2026/09/flamengo-recebe-proposta-dos-emirados-arabes-por-emprestimo-de-lorran/",
+   "data": "2026-09-08T21:20:22+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Clube dos Emirados Árabes enviou proposta de empréstimo com opção de compra pelo meia-atacante O Sharjah FC, dos Emirados Árabes, enviou uma proposta de empréstimo com opção de compra pelo Lorran, do Flamengo. Contudo,…"
+  },
+  {
+   "titulo": "Boto diz que Cebolinha 'se excluiu do Flamengo', responde sobre Santos e revela condições para negociar atacante",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbWFXazZPY19ya1hDS01FdTJJalBoWmFQaW8zNUpmTUU5dzJva01GcUZDSGlfOGhIUjd3OTY1RE5HMFM0UTdRUEREVzJiaXlfYkhlNjVCLWF4bUs4RjJETHFTWG9nVExVRHhxRkNjN3BQUlhhQ2JNSGw2NFhtci00N3RUSGlpd3RzSnNSc0hfMjZZOF9JdVB5UWlnbklyX19sMi1ORmVPNHQ1akhXOHFuLUltZjlSa2djWlNiUnFSVDh6b2F3MTVGMTBabm5TZlk0U1pTYkpxYTJ4R1FPZWNtQS1Ib2l3a0tlMXY3b0JTYlQ2MzVB?oc=5",
+   "data": "2026-09-08T21:11:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Bruno Lima: Santos supera Grêmio e avança em negociação com Flamengo por Cebolinha",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYllHYk5yLWtuYXdJMTlnYzk0RzdTYkJqLUZHQmd2OTRYY09yMXJUa3NZNWlZQjVWd2lmdmREa01uVkxUaHF4aXZOVmd4Zl9mSVhYNkE5UmhPWFNLUU1lVVplZXBtMi0xWWhaQ0FNdTl4ekdSU0l2ajdnaUZaVkw4YzdiWkZzTmhOV002eTZKY1E4VE5FMGhCQkhjMDJEOWt6UXF3VTFRMXg4RHJEMlRSRmtyU1hZMXVUcjZBQUQxeW4yNEFPY2RPLWRoNElGbWtkbVE?oc=5",
-   "data": "2026-09-08T20:08:25+00:00",
+   "data": "2026-09-08T21:06:37+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jorginho, do Flamengo, é incluído em pré-lista da Itália e pode ser convocado após dois anos fora da seleção",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMXJIRmZnYmJSV2h6TkhkWjNYd1p5V25XNFdvWlpVTUJsYlFmcjQ3TXZaZGhwd1NsU1Y2ZThCOHppZVg5UE5CRDNaMkpWUnFzV3U5MGxQOVNoX1dGSGFDek4yWkE1QkVZSDBNV1ZiU2RiUl9KNlhORmw0dGVrQTMyQXlZSThOLUtnZHdSdlcwb0RTRXFxYmQ5MVN4N01SX0ZGcVhTY1ZfVmdWSDl0eHJVMnRJWWJFMklRXzdNNmpFeFpKMDVHNFI4bVQwUmp4Wmc?oc=5",
+   "data": "2026-09-08T21:02:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Botafogo busca Matheus Gonçalves, ex-Flamengo, nos últimos dias da janela",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWJENjRRY3JRZVZtZXVGVFBNZUkzeXdJZUlQMVlhM0hadU9hbGpZS0JzSmFDSWRtOXNncmt1M0V1OEFFZXVuMllGZ0F4RzJ4dE9uUmVrMl9FQXlnWGVtMW05ekxGc0VyOUh1Rnl1TG4wYmc0TXZfOEZwS2RQWE9Bb3hLUmhKTEFTbElsTjROV3hBdXdheGR3QlVEWmhQVFU4SGYtT0hXUWZacnMyRkFB?oc=5",
+   "data": "2026-09-08T20:31:51+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo tira Cebolinha de jogo da Libertadores e abre caminho para saída",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMjROWEs2ZlhfSXhRQm1MSWYxd3lCZ1JQcDRmY2VMaUltWmZiNy1YcFowSkI0V1Q2MnZxTldiRi1HN2tVRG5RY3B3Skg5cUd6WFdjeUVUeTRfNUt2QmkwMkQtV0pZQ0FqN2p4cUJ2QS1xZ0tQZm5iOTFDdWlETE9DcURHcTlzR1hJQzV6bHh4Y09fcm50QkduVzM4akdFMzIzdkg1VGQzcWlwUHJzb1h2am5hZlBJSWpfTi1vdTF3S3A5emhnc2Fxdl9DMWdxZEVNckdQLXh3Y0lSRkh5?oc=5",
+   "data": "2026-09-08T20:21:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Melhor Gabigol desde o Flamengo? Jailson Vilas Boas analisa momento do camisa 9 do Santos; VEJA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11MHZHb0JUMTBtaXJBd0tadExLUlRJa1l4dzB0WXdpbDdyOThxTHVfSzlhUUhTMVQtU29MMU9US3dERFRHb0lCbmU2VHpnX1I5cUdWb0FROWRMTnh2aFE?oc=5",
+   "data": "2026-09-08T20:18:12+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Bom negócio para o Santos? Veja lances de Everton Cebolinha, quecom a camisa do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Vbmhwblc4VXRLTVh1c0VQeWQtTEFBM0F4d3M2eEtsM0VPaWNKVHhsQ3p6RXlyTUk1UDl5aDNlb1ZnQkM1OWZXQTZpcDc4Y1ctOHE5MlZSNEFsbkRTamc?oc=5",
+   "data": "2026-09-08T20:14:32+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -58,27 +162,11 @@
    "resumo": "Meio-campista, revelado nas categorias de base do Rubro-Negro, deu passe decisivo na vitória do Aston Villa sobre o Club Brugge, na Bélgica O Aston Villa (ING) venceu o Club Brugge (BEL) por 3 a 2 nesta terça-feira (08)…"
   },
   {
-   "titulo": "Flamengo e Palmeiras têm campanhas parecidas após 26 rodadas na comparação com Brasileirão 2025",
-   "link": "https://colunadofla.com/2026/09/flamengo-e-palmeiras-tem-campanhas-parecidas-apos-26-rodadas-na-comparacao-com-brasileirao-2025/",
-   "data": "2026-09-08T19:32:08+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro assumiu a liderança após vitória sobre o Remo e voltou a ficar à frente do Palmeiras, assim como na campanha do título de 2025 Flamengo e Palmeiras voltam a protagonizar uma disputa acirrada pela liderança d…"
-  },
-  {
-   "titulo": "'Flamengo joga melhor': Colunistas debatem se Palmeiras sofre com 3 frentes",
+   "titulo": "'Flamengo joga melhor': Colunistas debatem motivos da queda do Palmeiras",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXZZUElHQ180RTNFSGRLVnd0enZOa2FUeEIyX0lHTUxQNVphU0w4eUpSTVF3elM3VFhPZ251NEhIekNxTkZLZkZFWXFfZ3didDhwRGpmYXE0QWtxRDdld0NUZXRsdUZwSERVMk83YW1ZRFBrZW5JQkJaZl93ay1tOUFVd3RSRjQzc2dvMmhqblpFMEExejVyYlkxSGkzRmNkX2pqTDZWdEM4WFBEUmZnczZzMzYyQTBXZ1o0WXVqTWtpUjdrdEs5SHFCRUN4MEhfRk11SjlRZEMyR25qVTYycw?oc=5",
    "data": "2026-09-08T19:21:42+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flamengo estreia com vitória e assistência na Champions League",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbUdHU2lGRFJDbUFJZmRKc1dxS0h5N3dFNWtla0dGSUVPeVBDNmJISmJTZXpMTTBoM015eTFES2kzSk1yS2szVG9XUTBuUGNKbHpWTmZobVE2cW52WHVsTDJQVUVGS3BubjlOdWxBcktuTXZHOU1HZHRmVzJuT2s1cjlMa1VMMU1Xb0E3bjRrMURJWmpFajk5YVo3Z2p2d2ZKTnlaeEROQ3JKNkM5cFJDOFNWNmhCSWc?oc=5",
-   "data": "2026-09-08T18:55:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -96,14 +184,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Primo de Messi, Maxi Biancucchi esteve em Miami nos últimos dias O ex-jogador do Flamengo Maxi Biancucchi viajou até Miami, nos Estados Unidos, para visitar o primo Lionel Messi. Atualmente no Inter Miami (ARG), o craqu…"
-  },
-  {
-   "titulo": "Por que a ‘antecipação’ do Flamengo na altitude de Quito pode ser decisiva contra o Del Valle?",
-   "link": "https://colunadofla.com/2026/09/por-que-a-antecipacao-do-flamengo-na-altitude-de-quito-pode-ser-decisiva-contra-o-del-valle/",
-   "data": "2026-09-08T18:02:07+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo antecipa treinos na altitude de Quito, no Equador O Flamengo venceu o Remo por 1 a 0 no último domingo (06), pela 26ª rodada do Brasileirão. Sem folga, o elenco rubro-negro treinou em Belém na segunda-feira (07…"
   },
   {
    "titulo": "O plano de Leonardo Jardim para manter o Flamengo invicto na Libertadores 2026",
@@ -208,14 +288,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Saiba onde assistir ao jogo do Flamengo hoje, pela estreia da Copa do Brasil Sub-20",
-   "link": "https://colunadofla.com/2026/09/saiba-onde-assistir-ao-jogo-do-flamengo-hoje-pela-estreia-da-copa-do-brasil-sub-20/",
-   "data": "2026-09-08T14:54:04+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo x Forte-ES acontece pela primeira fase da Copa do Brasil Sub-20 O Flamengo começa a caminhada em busca de um título inédito para as categorias de base nesta terça-feira (08), contra o Forte, do Espírito Santo.…"
   },
   {
    "titulo": "Classificação do returno: Flamengo, Bahia e Fluminense pressionam liderança do Cruzeiro",
@@ -402,14 +474,6 @@
    "resumo": "Flamengo chega no Equador para duelo da Libertadores O Flamengo desembarcou em Quito, no Equador, na noite desta segunda-feira para seguir com a preparação para o confronto com o Independiente del Valle, na próxima quin…"
   },
   {
-   "titulo": "Flacentrismo: jogador do Mirassol desabafa sobre a arbitragem do Brasileirão e cita o Flamengo",
-   "link": "https://colunadofla.com/2026/09/flacentrismo-jogador-do-mirassol-desabafa-sobre-a-arbitragem-do-brasileirao-e-cita-o-flamengo/",
-   "data": "2026-09-08T00:40:18+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Reinaldo, lateral do Mirassol, reclamou da arbitragem de jogo contra o Coritiba O Mirassol venceu o Coritiba no Couto Pereira, por 2 a 1, e se distanciou da zona de rebaixamento. Mas, após o jogo, o assunto foi o Flamen…"
-  },
-  {
    "titulo": "Flamengo entra na trend dos anos 80 e brinca: \"Trabalho mais fácil do chat\"; veja imagens",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/07/flamengo-entra-na-trend-dos-anos-80-e-brinca-trabalho-mais-facil-do-chat-veja-imagens.ghtml",
    "data": "2026-09-08T00:09:35+00:00",
@@ -450,7 +514,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo libera Cebolinha de viagem, e saída ganha força",
+   "titulo": "Flamengo libera Cebolinha para tratar assuntos pessoais, e saída ganha força",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEJ0WHFHQzQzdU1sT3VxUmNuS25Ed3NmX0ltYnlyYVhZZjFjUmdKaC1Za29zb2cybFpwM2h6dXdNMDRuajdfY1BMWG55S2w3WGdDNGFud2g0ZmNLTDFHMkE5VktNMVcwZXExM0VJLVJLRGVRamdZbFlNVFhWdHVueWl3UmtOSVBoVVlnX2ZNbloxeFRNYnNHS1NyQ1FUYWQ5Y3dxbmhjZ3o4N0prYVJVVHF0MHg?oc=5",
    "data": "2026-09-07T18:19:40+00:00",
    "fonte": "lance",
@@ -1034,6 +1098,14 @@
    "resumo": "Gol do Palmeiras! No fim do jogo, Juliano recebe na área e marca O Flamengo apresentou oficialmente o atacante Juliano Viana, que fez parte da negociação que levou Wallace Yan para o Bragantino por 6 milhões de euros (R…"
   },
   {
+   "titulo": "Guga critica gramado do Maracanã antes da Libertadores: 'Desesperador'",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDlNTy1NMHFuSXFuVEJRX2tmdkNNX1Fnc2swRHBXZnpyLW1BcmdmeXZHTmltOENHQ0RpQVc0aUhCUVEwSUFtX1NrVzU4TVJ0NUg3WFFIeGdpTkR2SHBLcTdjRlREZGhNNVF2Wmx4VzJyU2FBeXpMVFhlMnlnYTJES1k2SWhJdXVrcTdNOG9YUWlXeWtwWUxIWGloRzJfNW44dmF6N0VwQTZfZS1U?oc=5",
+   "data": "2026-09-06T14:37:48+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Plata diz estar '100% focado' no Flamengo após recuo do Dínamo",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMW5KTE1lT1Y0TGdFMEJ1MnlaVHNkUWRRVlVqNFFjU012YzRMX1V0QVJvTV9rcll5YkxkempXWC1TZlBSRGZWQ0k2Y21uZ0NtdjNWLWdlVHhWd3ROQlNkNXRfTmxGeWdXMWk3eDA3UjBYU25FTC1HV0V0QUU3ZVZIVjNhaTZSSGhiS2o3N0drMjFPSUxVdHlpRnFtbEFQdEhHckNJaUtqaEhmZmFBRFllQlBQVi0xQ2ROQlBiRUZiTmtZbXVFVjZOd1A4dUhFXzg?oc=5",
    "data": "2026-09-06T14:17:21+00:00",
@@ -1122,16 +1194,16 @@
    "resumo": "Bap agradeceu por ter vendido Plata ao Dinamo Ao mesmo tempo em que entrar em campo para enfrentar o Remo neste domingo em Belém, o Flamengo também estará de olho no Rio de Janeiro. O clube espera que Plata esteja no vo…"
   },
   {
-   "titulo": "Remo x Flamengo: horário e onde assistir ao jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUFdkU0I2T09LdHFnbzNUaXB5R2FraVpZSVRaanhtOXRzTU9YU3ZpLXZZQ2hjUlA0Q0ZXcklDZDd5cWlqVWVtM25LczEwSHhUcHQxd0FkOXk0NFlsTUQwdDZNbk1fVjBGR3lsSG9ORGJhSGRrWEQ3ZnVLNjU2Uy03QkZER0FYN0ZqODJRdExnQ3J5WVQyZEJwUW81SGFGX05sT0FjMlowek8zb2dZazBqZURjYW9PTHFQWlpzOXNzQ0Z2bklX?oc=5",
+   "titulo": "De olho no topo da tabela, Flamengo aposta na força do elenco em visita ao Remo no Mangueirão",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRUREc0xRWC1xYjNlQjducjZoRURTZmpuajB1UzEzcUQ4Njlic3YxZGlwcWF0Zm02dEFQMk80QkRWY1ctWVVRUkZCRjhXM080SWlXUlQ0RXVveTlMdVhJRkFTTy0yRy1XNHVEcmF0eDAtcjljMjU4TnVhUkpqZ2V1bW9CR1N0ZFIwUVIzSVhuVTBoSkhuSXZBZUdVM3hGN0J5blllVFh4RHhVaFZpSWZzUWwza3puRHItaWZ2V1M3b19ubWotcmM1d21VQTY2Vm1YOFAyb1VfemVEZmZsU2ZNejN0bzU4dGNSSnFNRlV0dWYxR0Vwd3c?oc=5",
    "data": "2026-09-06T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "De olho no topo da tabela, Flamengo aposta na força do elenco em visita ao Remo no Mangueirão",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRUREc0xRWC1xYjNlQjducjZoRURTZmpuajB1UzEzcUQ4Njlic3YxZGlwcWF0Zm02dEFQMk80QkRWY1ctWVVRUkZCRjhXM080SWlXUlQ0RXVveTlMdVhJRkFTTy0yRy1XNHVEcmF0eDAtcjljMjU4TnVhUkpqZ2V1bW9CR1N0ZFIwUVIzSVhuVTBoSkhuSXZBZUdVM3hGN0J5blllVFh4RHhVaFZpSWZzUWwza3puRHItaWZ2V1M3b19ubWotcmM1d21VQTY2Vm1YOFAyb1VfemVEZmZsU2ZNejN0bzU4dGNSSnFNRlV0dWYxR0Vwd3c?oc=5",
+   "titulo": "Remo x Flamengo: horário e onde assistir ao jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUFdkU0I2T09LdHFnbzNUaXB5R2FraVpZSVRaanhtOXRzTU9YU3ZpLXZZQ2hjUlA0Q0ZXcklDZDd5cWlqVWVtM25LczEwSHhUcHQxd0FkOXk0NFlsTUQwdDZNbk1fVjBGR3lsSG9ORGJhSGRrWEQ3ZnVLNjU2Uy03QkZER0FYN0ZqODJRdExnQ3J5WVQyZEJwUW81SGFGX05sT0FjMlowek8zb2dZazBqZURjYW9PTHFQWlpzOXNzQ0Z2bklX?oc=5",
    "data": "2026-09-06T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1159,78 +1231,6 @@
    "data": "2026-09-06T05:00:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Flamengo exige volta de Plata ao Rio e vê agentes forçando transferência",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekhuLXdpWnpSTFNGbldxUUF2VklaUUlHYkxzMW5LZEEwNGNnRG9sUXNPc0cyTEVRTnJLR2dqZVFOX1NVSDlENHkzSXZrbzFKcTVjQWc4bEpGZlNuMDgzYkJ4VTF2N3h3RHNpS29SZm11QWV1anVwUHlydGtiWEV3Y1RlQTlCZlFqeUNkdjNkMGxvd0dwRjh3YVBTMk1NUDlTZ29STkNxSVJhMlpkekQ2ZDlHSU11LTJRNTFzNTBSVmUxaWZsSGpGOW9aazNWQ0pESUdueGFHcUdTd3Q2VFhDc1JtT29yR2c?oc=5",
-   "data": "2026-09-06T02:56:27+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Plata em Dubai irrita Flamengo, que dá ultimato a atacante e quer retorno imediato",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNkJ3MTl5TzVJdE1TNTIyeVdqdzAwTnk3TjJUazJOQzczWDNxa0x3dC1vT3pWUi13R0lCN1gzd2FLM2djZ19yUVR4bV9jVmRNZkhzVjFyQ19GU3FjUl91RENPSzE2RkFBdDQweGtkazUzVzNEZlRuVk5Tc2U2cmNyTElJTXlzSlUtaUF0NUJRSXdFNnNLd1RDRl9LTXBCd2FLRklfZEFIOFo4ZTRBRmZyS3hRSzdUNUhOWE84TUhqVFp1VWVKaXBya091VnhaT3J2Q2JUUWk1aUg?oc=5",
-   "data": "2026-09-06T01:36:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Juca Kfouri: Flamengo e São Paulo nas semifinais do Brasileirão das mulheres",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORElkYmE2Rk05dENlOG9JT2E5SWR6Q2kteEU2eFIwUHp2TGY2Z0FuaUZrQ0tpOVNEcGoxUFo0VHBNdEVXQUlxalV1U3VTWGZOLS13UjhvNVpWOVZKTkExcE1ENW5IbmYyTlgzMGdIWVhiWUlPU245VDFtUHZQbm9meUdpc1REcFlVUlJNSGJWNm54dWhuZjFfbU96TThjbWdTOHo2c2JKS01QQVBkQ1dtNDJweXFLUlNub01XN1V2U3JGb2dUaTNUOTE0NXNlMS1fSEpN?oc=5",
-   "data": "2026-09-06T01:30:32+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "'Tira uma foto, por favor?': Pedro atende pedido e faz alegria de criança em festa incrível na chegada do Flamengo a Belém",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdmQzSy1pNnZERlh6TUlVMms2ZFdkendaalB6aEltZDdCTGNLay1Vb3NrMWk0OXc3SWVQcTFFa0Q1X2t5bHdCYnp4Z1lGQ0JaUC1FaXpaZ1dza2pxTEVyVHJQUk5lS0JSdHRIUTVSeE1BaE1TLWd2M0RrdmpwcDZTdzVSM0ZNS3B1amRkSzhydkhqN0k5NUdCa0pUUTl5aXdSS2xGOTdUdFdrV3IwOEs2cVY4U3h4V0x5enh0Q2dQQ2huckJrUUk5ME5sNFRRS25yX1VTNHFySjJfSzZYazRjOHVnWWlEb096SDZqeHlRR2pwa2dKR0E?oc=5",
-   "data": "2026-09-05T23:35:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo chega a Belém com festa, e jogadores vão ao encontro da torcida; veja vídeo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/05/flamengo-chega-a-belem-com-festa-e-jogadores-vao-ao-encontro-com-a-torcida.ghtml",
-   "data": "2026-09-05T23:34:55+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja como foi a recepção do Flamengo em Belém O Flamengo chegou a Belém na noite deste sábado com muita festa de rubro-negros que não viam o clube desde a Supercopa Rei, em fevereiro do ano passado. Neste domingo, o tim…"
-  },
-  {
-   "titulo": "Wallace Yan, ex-Flamengo, viraliza na estreia no Bragantino: 'Misericórdia'",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHVUd3NUWFduUk1IeGtxbTh2cVFIWld2dE9fQ012OXpSdXY1elZvUHg0eHUxYUU2UHlXRUNwTTdTMHJRc0NfU3M0enZwVXBXdFRrbzZYeEg3Z3pNQ1RCd2tlTDlpV3B2VnZRUWtpQjJiTHkyRGtLWl92TE9Nd2xqMmRfeU1JRlJSYmh0U0xLTEtoeDFJVUIzeU8yMlRraUFrRS1JZDdDcV96Yy1EVDBDYnZIVlU?oc=5",
-   "data": "2026-09-05T23:19:43+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Filipe Luís faz Monaco ser oposto do Flamengo para ser líder na França",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDNNeHpaMTZhdk5neDd0ZWNCTXp5T2dnaGxqakJPUWxrQ3oyMlZZdHNiOW52SEkxb2ZqbVc4ODdhWk83Vkh6bm91S2JNNFlMYTRZVUxSQ1NiTldOREg2Q2ZSd0RyRzJLRmM2Y204bVZtUTlwUjlPWXBHbEJUSS1taTVsUFo3eXVrTlRZNG92ZTBLdUVfRmQxdEZSM1M3NzlfUzFZa3lGSFJvNG1wNlFJdTVBUHNlYjdLZzhMM2w0bnROZUNNdWJJ?oc=5",
-   "data": "2026-09-05T23:05:13+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Brasileirão Feminino: Fla aguenta pressão com uma a menos, empata com Ferroviária e vai à semi",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmdtQm5VRmMtdkYtbS02WjZlQ3E1OU1qZW9nT0ZxejVlZHNmNDBSTEpCU3B2SFJzOXltRThNUjVUNDNvQ25GZkF3d3NIU09MekFKcXdtUzVkMW1mZzkweEV0WmhZZEVUa1NoamVTcXdpREJTQkcxN0xVWEFaODRzT1lTSjBmeXFTbFFpSkRKYVJ2dXdSN09tencwYUFvMV90UloyMmpSVk1vSTBneFhhRl9GS1doZw?oc=5",
-   "data": "2026-09-05T21:30:17+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Remo x Flamengo ao vivo: onde assistir, horário e escalações pela 26ª rodada do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX25jN01WbTlsckN0ZFhQbDBpVE5WcnhaNGZ1VTUtUEhnMUxLWUVjTzU0V1lCclF5R1RFeDY5d3MtNG9OWFktR09DeXprVVdCTTlDME5VRVdWcVctQkRnY0dVZTZiZGhxSkg3a2hma1NZN1lhMjhSWlN2TE4xek1SUmlHdW1qODFTcElIcGVZVVVUaHNoNVIyN3BnZFotU0NueW5OdzR5X2twb25XaXBwcG80M2VxZzlKZEoxNzdzejlmNmlkOU1LTktKaEZJX0g4ZEh3MEpVQW5qWEx0RXhxSEwzYUY3bVhmeHFRV25n?oc=5",
-   "data": "2026-09-05T20:46:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
