@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-08T04:24:41.254252+00:00",
+ "atualizadoEm": "2026-09-08T09:02:29.921211+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 60
+   "itens": 58
   },
   {
    "id": "colunadofla",
@@ -29,24 +29,40 @@
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 95
+   "itens": 94
   }
  ],
  "itens": [
+  {
+   "titulo": "Líder, Fla só não fica à frente do Palmeiras em um critério de desempate",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb2gzaEhDbVVaN2RKRkd5UmloSlBmd2tGdXhjeFpQN0ltbzB6RW01MWQzT1pUamdTN1NvTzFCY1U2NkpRWl9hbG82bFhkdGdZTHpKaGFPQmNlOHJDUU82bTUyeXhJeWNMMGNCbE5wVmI2dWZ0eWZZZDc5RWRPOGpRSUFtOGpralNCUEZ5S053SkJ4bFJlcGZRVG5Tc2pBOEpacU5VdTdfZGp2WHY1RjlmOUdmcG5uaG1oMTJkN3UyZWhPYk0?oc=5",
+   "data": "2026-09-08T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Independiente del Valle x Flamengo ao vivo hoje 10/09: siga placar agora | Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0hYV2FPdUk3eVlKTk9GT3ppeFJxb3RHdVFrY05kNk4xekR0NER3b1JmWEN1ZEVuZWpYa2dwVy0zSFdkVGlwUGZ2UGdkMmpod0ZXT3ZhaXRYX2E4MzIxcUNUMWxUUjhtZkEteHhRQm5FRmV2b0hYMV80eTM0emJYYXZNQjdwbnZpN0FhOGZicTYxOTJOTk1DLUVyb0QxYlpVRUJQdV8xSQ?oc=5",
+   "data": "2026-09-08T07:35:33+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Anthony Valencia volta às origens e encara clube que o formou em primeiros passos no Flamengo",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/08/anthony-valencia-volta-as-origens-e-encara-clube-que-o-formou-em-primeiros-passos-no-flamengo.ghtml",
+   "data": "2026-09-08T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Voz do Setorista: informações da chegada do Flamengo ao Equador O confronto entre Flamengo e Independiente del Valle definirá um dos semifinalistas da Libertadores, mas será especial para um jogador em específico. Defin…"
+  },
   {
    "titulo": "Elias critica postura de Abel após Palmeiras perder a liderança do Brasileirão para o Flamengo: 'Sempre arruma desculpa'",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BWjRHVGZnd0VXWEpBaFUtbS1NclRKOWlrcmMwT1NWSzYzdDBmRWw1MGdaZlZUUThkQUpVb2ZWay1LcDFmTXRvdFhMYjFvMjU5R21sVEhpcWNzaGUwUHc?oc=5",
    "data": "2026-09-08T04:12:59+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Independiente del Valle x Flamengo ao vivo hoje 10/09: siga placar agora | Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0hYV2FPdUk3eVlKTk9GT3ppeFJxb3RHdVFrY05kNk4xekR0NER3b1JmWEN1ZEVuZWpYa2dwVy0zSFdkVGlwUGZ2UGdkMmpod0ZXT3ZhaXRYX2E4MzIxcUNUMWxUUjhtZkEteHhRQm5FRmV2b0hYMV80eTM0emJYYXZNQjdwbnZpN0FhOGZicTYxOTJOTk1DLUVyb0QxYlpVRUJQdV8xSQ?oc=5",
-   "data": "2026-09-08T03:05:30+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -922,14 +938,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Pogba no Corinthians? Ex-campeão com a Juventus vê futuro após liberação de Filipe Luís: 'Fundamental para Diniz'",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1ZZN0ZOYmdLanNBSEJUMFE2T3FnejFDQnhIekFzNXRPQ0R3WXJaSXBHTkNuOWREM2tyQTBGZkdZdTNPV3VsWk5TZGN5ekFKLUI4UmpYbTE5MGM3QmRnTjV1c3pScTdackUzcWFlVV9ZTkpXU1p2M2Q5c1ZJRm5WZmlRSzROZUc5dldKMnBLSTJQUldBdmhhVUZGeHg5bXNseUtnV1hyb09pNzAxTnBjR19hSnJ0Q2h2Ny13Szk4SHZNOXhRY01xdkU2aw?oc=5",
-   "data": "2026-09-06T05:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Rodrigo Mattos: Flamengo exige volta de Plata ao Rio e vê agentes forçando transferência",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekhuLXdpWnpSTFNGbldxUUF2VklaUUlHYkxzMW5LZEEwNGNnRG9sUXNPc0cyTEVRTnJLR2dqZVFOX1NVSDlENHkzSXZrbzFKcTVjQWc4bEpGZlNuMDgzYkJ4VTF2N3h3RHNpS29SZm11QWV1anVwUHlydGtiWEV3Y1RlQTlCZlFqeUNkdjNkMGxvd0dwRjh3YVBTMk1NUDlTZ29STkNxSVJhMlpkekQ2ZDlHSU11LTJRNTFzNTBSVmUxaWZsSGpGOW9aazNWQ0pESUdueGFHcUdTd3Q2VFhDc1JtT29yR2c?oc=5",
    "data": "2026-09-06T02:56:27+00:00",
@@ -1066,7 +1074,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Escalação: Flamengo ganha reforços e retorno contra o Remo",
+   "titulo": "Escalação do Flamengo: Jardim ganha reforços importantes para duelo com o Remo",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaEk0ZWZ0eW5WTkthc3d6ZG5fblNQXzVRLVRGM0IxX2dZX0kxNTVxeUx4Q3Z4N2tJS3VqUXVRTTV2U0xNZko5dDRDS0syTm14WTdYejQ1SmxScjltc180YTZWUlVEc3h6bGUtek9iR3VpZjIzbVVxcFlna0xZRFR2Q1J1Z2JUQ0R0QXFoM0kwak8zMjdBZ3ZKeXZGbG5CMkpwVlpQMEFsMEg5SnBRLWlNZGtFQUlYZXM?oc=5",
    "data": "2026-09-05T14:17:36+00:00",
    "fonte": "lance",
@@ -1216,14 +1224,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Remo x Flamengo: informações e palpite para o jogo Consideradas todas as competições, o Flamengo perdeu um dos últimos 12 jogos (8 V, 3 E, 1 D, 75%). Em suas últimas 12 partidas, o Remo tem três vitórias, três empates e…"
-  },
-  {
-   "titulo": "Gabigol se pronuncia após declarações sobre Cruzeiro e Flamengo e faz pedido à torcida do Santos; assista",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTWJrbjc1YjJ3a1dQOWRsbDhCNzNka1BVaGtEMTB3UmNoSGhwWFFkYXYzNlA2TGl4NzZFbGxsTFIwUHRLQmttaFZVUnFxalJ2Z2gxMXNLNnF0ak1jVXZUUExlZWpSbXR3Rm5CbW1aWEVsNHlqanN4OHk3T2tSUXhlVlcxaTN5VGIxN1NzSnU3S1NHTWRwYVJtclE1OThWY3RWNktMcVc0MTJfMFZHUDFKRERqR0pXUHk5RjEwZEZOcDRPNTc1WUdzZ2tWMlVLY3huUE1fQklZVDAyMkXSAeABQVVfeXFMTkpLNTI3dlZuNVM0OFNmYnZzTk9UUU15TWQwTjVOZjFTejUzWkEydVc1cUJIUTVRTU9jbVRuY1BuOHhSa2Zuek5pWnRqdnR4Y241SzNIV2dTbGhhcU92QnVRTlFXYTdnNWJlNTVIRGFfOE9IZG5iZ2hFc2ZHc2xpRjhEbXpDOEZjVm90Um1yYTJwdjFkeXJqSmJBQnRpMm5jeFR2NEs2ajN3dUJvOTVaME5WSzBQZUdQM1JBamFTaExIam96MEUyNGVDbXItMjZzY0hNMWFsOWNTT2NrdTd1cmQ?oc=5",
-   "data": "2026-09-04T23:24:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Ferroviária x Flamengo: onde assistir ao jogo do Brasileirão Feminino",
