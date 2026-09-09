@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-08T22:56:23.321803+00:00",
+ "atualizadoEm": "2026-09-09T01:12:02.211672+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 60
+   "itens": 61
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 60
+   "itens": 59
   },
   {
    "id": "uol",
@@ -34,12 +34,84 @@
  ],
  "itens": [
   {
+   "titulo": "Ind. del Valle x Flamengo Palpite – Análise e notícias (10/09)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0V5VWgtemt1Rm1WTHNweTJVekZkOGpxNlNENGdzNWtQMkpTOC1ITFNrR0txQUhxTHM1bkk5TURIb1BQVEUxTUtDVTlqZG1TYmljSEpkN3FON0I4WkNxWk9kSW5EaVJZWnF5NExvSS1qUG1tS3A1X1lwNjVUd2Q2a00xWnlmYkFucU1sNVpiU0NfZXN2MlE?oc=5",
+   "data": "2026-09-09T00:44:07+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Boto diz que Cebolinha ‘se excluiu’ do Flamengo e confirma saída do atacante",
+   "link": "https://colunadofla.com/2026/09/boto-diz-que-cebolinha-se-excluiu-do-flamengo-e-confirma-saida-do-atacante/",
+   "data": "2026-09-09T00:24:14+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Everton Cebolinha tem contrato com o Flamengo até o fim de 2026 Everton Cebolinha possui conversas para reforçar o Santos nesta janela de transferências. O jogador tem contrato com o Flamengo até o fim de 2026 e já havi…"
+  },
+  {
+   "titulo": "Flamengo celebra indicação a clube do ano: 'Motivo de orgulho'",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNkpYaTVNNG5UbE8zeTJzZGNHZ1dyYjctYldSQS1ueUhaNmdES2xUZzNnTUJQRXJwcmRPWFNxbFdsWnk1SE1aWC1JVm9WTk15XzlTR1I2R2N2eFduN09mWTUzcGd1RWhjM2lNenBLclVFZHFiLUdKMGhPQ1FMbEFmNkZzek5UUFc5WlRIdzZWcjRFZWlnbkNtRktQS0Y1OVJpM0dUaUtaNVU2WHNGRlFGR3pUN19QRWh4V0xKT0JEbGI0bjNyYVhlcmdjV05YWUE2bERlU2NmSmYzUQ?oc=5",
+   "data": "2026-09-08T23:58:30+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vice do River Plate diz como venceu o Flamengo na disputa por Thiago Almada",
+   "link": "https://colunadofla.com/2026/09/vice-do-river-plate-diz-como-venceu-o-flamengo-na-disputa-por-thiago-almada/",
+   "data": "2026-09-08T23:44:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Ignacio Villarroel deu a declaração durante a Confut Sudamericana, evento que reúne nomes ligados ao futebol sul-americano O vice-presidente do River Plate (ARG), Ignacio Villarroel, revelou como o clube venceu o Flamen…"
+  },
+  {
+   "titulo": "Arrascaeta, Danilo e Saúl: jogadores do Flamengo reagem à indicação para Bola de Ouro 2026",
+   "link": "https://colunadofla.com/2026/09/arrascaeta-danilo-e-saul-jogadores-do-flamengo-reagem-a-indicacao-para-bola-de-ouro-2026/",
+   "data": "2026-09-08T23:11:23+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "A cerimônia do Ballon d’Or 2026 acontece em Londres, no dia 26 de outubro A France Football divulgou, nesta terça-feira (08), a lista de concorrentes das premiações da Bola de Ouro 2026. O Flamengo, inclusive, recebeu i…"
+  },
+  {
+   "titulo": "Flamengo festeja indicação ao prêmio de clube do ano na Bola de Ouro: \"Reconhecimento mundial\", diz Arrascaeta",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/08/flamengo-festeja-indicacao-ao-premio-de-clube-do-ano-na-bola-de-ouro-reconhecimento-mundial-diz-arrascaeta.ghtml",
+   "data": "2026-09-08T23:01:33+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo é indicado ao prêmio de melhor clube masculino da Bola de Ouro A divulgação da lista de indicados aos prêmios da France Football movimentou os bastidores do Ninho do Urubu. Pela primeira vez figurando na presti…"
+  },
+  {
+   "titulo": "À ESPN, Boto diz que volta de Plata inviabiliza reforço ao ataque do Flamengo e é direto sobre Luiz Henrique: 'Nunca quisemos'",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTlFheXVqUW9PZXlEbnhiYU0zTHZrSTJuejAxcmZpcldSNU5wbkRwYUJZeXl3VHpUVjlfYnpzbi1rX1FmSUltcktSakhkQ3h4V1piR3hkUW1YNktRdmw1OHY0RHFibFc1cUFGS3YzODM1OHgtci1Td2pVT2dBem1UQ3JuejdiOFN1d3h1VXRBQjVULVlfSU1sdGFLeG96YkZKYWM4QzVHa2J6S3czUF9WNTFnUmRkNmhmYjVYV01lV19MRTJaSlpRd1l5U3VPNnFaR3lEZzdWd2pIeEs0c3MwUllveXlLamF4M0xsOXdfakNnOEJybEE?oc=5",
+   "data": "2026-09-08T22:59:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "José Boto celebra indicação do Flamengo à Bola de Ouro e valoriza legado de Filipe Luís",
    "link": "https://colunadofla.com/2026/09/jose-boto-celebra-indicacao-do-flamengo-a-bola-de-ouro-e-valoriza-legado-de-filipe-luis/",
    "data": "2026-09-08T22:54:50+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Atual técnico Leonardo Jardim também se manifestou sobre o Flamengo entre os melhores O Flamengo concorre ao prêmio de Melhor Time da temporada 2025/26. Portanto, o diretor de futebol José Boto reconheceu a contribuição…"
+  },
+  {
+   "titulo": "Flamengo está jogando melhor do que o Palmeiras neste momento? PVC e Eudes debatem",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FeEU2YjZDd2NyemNNN0JKVDRyVEdZUkxuekhYVU1pVHp6cGxhZG5fUnJwQ0NEV0RIWHVwX1lObjVDZFZCT0luNk9OTjVxNkhfM0hXZFVrWllmMmkxU1hpbGMydTQ5RlE?oc=5",
+   "data": "2026-09-08T22:53:37+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Boto diz que volta de Plata 'impede' reforço ao Flamengo e abre o jogo sobre Luiz Henrique: 'Nunca quisemos'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NZVpqRTROQWdqNG82UURiQ2gzUDFJYzhmUmM2elBILUNWRGc0cVJsQ3pHYi15TllKZkhBdUZaUmY1dlFzS3MwNHQ4U2ZVendEZ1pfSFdlTjJTUFktYUE?oc=5",
+   "data": "2026-09-08T22:51:44+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo estreia com goleada na Copa do Brasil Sub-20 e pode enfrentar o Vasco na próxima fase",
@@ -154,36 +226,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Cria do Flamengo, João Gomes estreia na Champions League com assistência para Aston Villa",
-   "link": "https://colunadofla.com/2026/09/cria-do-flamengo-joao-gomes-estreia-na-champions-league-com-assistencia-para-aston-villa/",
-   "data": "2026-09-08T19:44:53+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Meio-campista, revelado nas categorias de base do Rubro-Negro, deu passe decisivo na vitória do Aston Villa sobre o Club Brugge, na Bélgica O Aston Villa (ING) venceu o Club Brugge (BEL) por 3 a 2 nesta terça-feira (08)…"
-  },
-  {
    "titulo": "'Flamengo joga melhor': Colunistas debatem motivos da queda do Palmeiras",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaXZZUElHQ180RTNFSGRLVnd0enZOa2FUeEIyX0lHTUxQNVphU0w4eUpSTVF3elM3VFhPZ251NEhIekNxTkZLZkZFWXFfZ3didDhwRGpmYXE0QWtxRDdld0NUZXRsdUZwSERVMk83YW1ZRFBrZW5JQkJaZl93ay1tOUFVd3RSRjQzc2dvMmhqblpFMEExejVyYlkxSGkzRmNkX2pqTDZWdEM4WFBEUmZnczZzMzYyQTBXZ1o0WXVqTWtpUjdrdEs5SHFCRUN4MEhfRk11SjlRZEMyR25qVTYycw?oc=5",
    "data": "2026-09-08T19:21:42+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Pedro x Lautaro Martinez: comparação gera ‘briga’ em programa esportivo",
-   "link": "https://colunadofla.com/2026/09/pedro-x-lautaro-martinez-comparacao-gera-briga-em-programa-esportivo/",
-   "data": "2026-09-08T18:52:14+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Discussão em programa da TNT Sports dividiu comentaristas entre o atacante do Flamengo e o argentino da Inter de Milão (ITA) Uma comparação entre Pedro e Lautaro Martínez gerou discussão acalorada no programa “De Placa”…"
-  },
-  {
-   "titulo": "Ex-Flamengo visita Messi em Miami e registra encontro nas redes sociais",
-   "link": "https://colunadofla.com/2026/09/ex-flamengo-visita-messi-em-miami-e-registra-encontro-nas-redes-sociais/",
-   "data": "2026-09-08T18:49:17+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Primo de Messi, Maxi Biancucchi esteve em Miami nos últimos dias O ex-jogador do Flamengo Maxi Biancucchi viajou até Miami, nos Estados Unidos, para visitar o primo Lionel Messi. Atualmente no Inter Miami (ARG), o craqu…"
   },
   {
    "titulo": "O plano de Leonardo Jardim para manter o Flamengo invicto na Libertadores 2026",
@@ -650,6 +698,14 @@
    "resumo": "Athletic Club 5 x 0 Vila Nova | Melhores momentos | 26ª rodada | Brasileirão Série B O atacante Carlinhos, que está emprestado pelo Flamengo ao Athletic, fez um golaço na última rodada da Série B do Campeonato Brasileir…"
   },
   {
+   "titulo": "'O Palmeiras tem uma chance': colunistas respondem se ainda tem campeonato com o Flamengo líder",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fS0dyekVOVXp2TV9QbUE2MFlpTkxxQW5YSkFlemlFQm9NUXQzMGxKYmNOUy11MEZlckMxSW9lTjJ1S3RnaVBFYVg4Z1kxRGJfbkRMckxzcTJSLVJwZzBCWG96bExERWc?oc=5",
+   "data": "2026-09-07T12:47:53+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Abel recorre a jogo mental com o Flamengo após Palmeiras virar perseguidor",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQckFDcGd4RjN3aUVxdEFzbU4xZDZzUnFMLUhUSmlFMGpyYkFPeUp6bTNNbWJGd0xwQWlvTHprZ2dmOVQzLWNYNEZqTnBxWjM5Y1NJZEY1azFyektGLWRjSzZ6Rkx3U1gtcEREc1BqalRyczY3cnlFT1FGSFFkU1ctTlgycmVpQnJzRXhxdDNxWGVwc29TN1hBSDhUeWNNcnd2eDl4WEhCQWpkNTNlSGpZY1ZSbkNVaWpsN2R5NHJ4bWRyV2FwX1U1X2ZjMUNDZlVIcjRQd28xTUpDOE45NldF?oc=5",
    "data": "2026-09-07T12:30:00+00:00",
@@ -930,6 +986,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Flamengo vence Remo com gol de Samuel Lino e derruba Palmeiras da liderança do Brasileirão; VEJA como foi",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyaU5MbDU0OWNENVFLZ3I3SEZoS0RnQ0hiSmFnbFdhbWZzYWVINDM5OVJzZW9wSXd5XzZVdzl6RnlPNFpTbnNhcWtSQ0hYYmIzZ3RaUXBTSGl1SlI3Qnc?oc=5",
+   "data": "2026-09-06T21:28:59+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Atuações do Flamengo: Lino brilha e é o melhor de novo; dê suas notas",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/06/atuacoes-do-flamengo-lino-brilha-e-e-o-melhor-novamente-de-suas-notas.ghtml",
    "data": "2026-09-06T21:24:01+00:00",
@@ -1167,70 +1231,6 @@
    "data": "2026-09-06T12:00:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Veja o que o Flamengo precisa para ser líder do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjJmaHQ1MEhXUkJSZlRZSXZ3bzFwczZfY0FBalh6UW90d2VhZ0tHUkZndXdDMW8yNzJmak9vYzI2VngzZV9VMlZJMTVDSkFOUkl5TlREaHI1blV5Z0NEUHEtTVFUdG01QmZkV24zVWhPaGxSZ09vTTNiR0kxLVB1VTM4RDk5Wkt3cGdNUVdkeUhXMlFvYUtyYUxwQU9SNnhPTEJzU2twdGQyR1VGZHRnMXMtaHpETFh3WjNNMG5SREoycy1l?oc=5",
-   "data": "2026-09-06T10:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ameaçado pelo Flamengo, Palmeiras visita o Botafogo no Rio para manter liderança",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUTUxQ0VQdWJKLXBrdUh0ZThpb0pxakxpdm1YM3lmTW5BTnRuYTJ6ZUFSb3ZrUXlEV3RFdEd4RkV0QkpQdzE5N0c0NGFNZ2JRYllkUnNNZm9hU1ZjM2otYXpNQ1VRUHlnYUdza01RVDh3NHVzUmZORW1pbTFKa3JIcnlaZGVrdnY1TzNIWlJRZjdwaFdvcU5iamNocHpXUVB2X2Ntd2czSmZwTWRvWkQ2R3RfanYtY0JYTXBsaHpkcVJPWlJ3TUM3Q2VYZHRia3A4YUpUNkxkMmZFSEU2N2tSLUowRU8?oc=5",
-   "data": "2026-09-06T09:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo espera a volta de Plata neste domingo e se irrita com atraso na reapresentação",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/06/flamengo-espera-volta-de-plata-neste-domingo-e-se-irrita-com-demora-em-reapresentacao.ghtml",
-   "data": "2026-09-06T09:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Bap agradeceu por ter vendido Plata ao Dinamo Ao mesmo tempo em que entrar em campo para enfrentar o Remo neste domingo em Belém, o Flamengo também estará de olho no Rio de Janeiro. O clube espera que Plata esteja no vo…"
-  },
-  {
-   "titulo": "De olho no topo da tabela, Flamengo aposta na força do elenco em visita ao Remo no Mangueirão",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRUREc0xRWC1xYjNlQjducjZoRURTZmpuajB1UzEzcUQ4Njlic3YxZGlwcWF0Zm02dEFQMk80QkRWY1ctWVVRUkZCRjhXM080SWlXUlQ0RXVveTlMdVhJRkFTTy0yRy1XNHVEcmF0eDAtcjljMjU4TnVhUkpqZ2V1bW9CR1N0ZFIwUVIzSVhuVTBoSkhuSXZBZUdVM3hGN0J5blllVFh4RHhVaFZpSWZzUWwza3puRHItaWZ2V1M3b19ubWotcmM1d21VQTY2Vm1YOFAyb1VfemVEZmZsU2ZNejN0bzU4dGNSSnFNRlV0dWYxR0Vwd3c?oc=5",
-   "data": "2026-09-06T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Remo x Flamengo: horário e onde assistir ao jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUFdkU0I2T09LdHFnbzNUaXB5R2FraVpZSVRaanhtOXRzTU9YU3ZpLXZZQ2hjUlA0Q0ZXcklDZDd5cWlqVWVtM25LczEwSHhUcHQxd0FkOXk0NFlsTUQwdDZNbk1fVjBGR3lsSG9ORGJhSGRrWEQ3ZnVLNjU2Uy03QkZER0FYN0ZqODJRdExnQ3J5WVQyZEJwUW81SGFGX05sT0FjMlowek8zb2dZazBqZURjYW9PTHFQWlpzOXNzQ0Z2bklX?oc=5",
-   "data": "2026-09-06T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Remo x Flamengo: onde assistir ao vivo, horário e escalações",
-   "link": "https://ge.globo.com/pa/futebol/brasileirao-serie-a/noticia/2026/09/06/remo-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-   "data": "2026-09-06T06:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Remo x Flamengo: informações e palpite para o jogo Remo e Flamengo se enfrentam neste domingo, dia 6, às 16h (horário de Brasília), no Estádio do Mangueirão, em Belém, pela 26ª rodada da Série A do Campeonato Brasileiro…"
-  },
-  {
-   "titulo": "As mudanças que Flamengo deve ter no Brasileirão e como Libertadores impacta em time de Jardim",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdElPVnByU1M3V0VJNHhDUktoLVhoSDZ2ZGd4TGJvUXR5MTVRZF8yN2trWmJHTHZnbm9PVmlnSjFJdlVvaXZkVUI3cGpkdFJXYmFqY1BBUndNNDF4VS1XY0ZsU0xteHo2RTY2VXlQeno5NDk4Y2RzaEhMV1k0NkFQbHJRWkVqVjJRNER5YWhHTFlEUjU4NnVDZk9HMTFvY2pROVROTVdHd1psWGFIU2FhUkw4VXRlSG5keFFrclIya0ZNbE5nQ25ldTByRUxVWDA?oc=5",
-   "data": "2026-09-06T06:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Pogba no Corinthians? Ex-campeão com a Juventus vê futuro após liberação de Filipe Luís: 'Fundamental para Diniz'",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1ZZN0ZOYmdLanNBSEJUMFE2T3FnejFDQnhIekFzNXRPQ0R3WXJaSXBHTkNuOWREM2tyQTBGZkdZdTNPV3VsWk5TZGN5ekFKLUI4UmpYbTE5MGM3QmRnTjV1c3pScTdackUzcWFlVV9ZTkpXU1p2M2Q5c1ZJRm5WZmlRSzROZUc5dldKMnBLSTJQUldBdmhhVUZGeHg5bXNseUtnV1hyb09pNzAxTnBjR19hSnJ0Q2h2Ny13Szk4SHZNOXhRY01xdkU2aw?oc=5",
-   "data": "2026-09-06T05:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   }
  ]
