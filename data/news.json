@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-09T06:37:17.403701+00:00",
+ "atualizadoEm": "2026-09-09T12:17:52.887950+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 61
+   "itens": 60
   },
   {
    "id": "colunadofla",
@@ -23,22 +23,78 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 57
+   "itens": 60
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 94
+   "itens": 95
   }
  ],
  "itens": [
   {
+   "titulo": "Cebolinha deixa Flamengo como nome de peso ofuscado por lesão e poucos gols",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLWJnM2ZhUlYtc2ZwaTc4NUR4a0Z2RUN0M0dMOWRiN0h6RGJRRnM5ZWQ4TVZzOGkwUnhzb0U3cUlNV1pIdmx1NHdpc2pMVVNXaXpPaEpwRVZ5Q2o0TlJnSmNXQ2JmQnRhcExXNHNDUGNfN0U4UUEwWVA2QnlKXzh3QzNTNVlMWDcydE9ZNVo4TU1ocjRpQ0R2ZF9JMldNTVdvdWRBSloza1Z5amVScTRQcUpNcEJPc3ZhblJZRU5pd3hDSG52MTJhbmlDTWRUc3B3bVBYQjVGb2xIQnMzN3lvRQ?oc=5",
+   "data": "2026-09-09T11:58:37+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Leonardo Jardim define time titular para jogo do Flamengo x Independiente del Valle em treino desta quarta",
+   "link": "https://colunadofla.com/2026/09/leonardo-jardim-define-time-titular-para-jogo-do-flamengo-x-independiente-del-valle-em-treino-desta-quarta/",
+   "data": "2026-09-09T11:48:24+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e Independiente del Valle (EQU) disputam jogo de ida das quartas de final da Libertadores O Flamengo entra em campo nesta quinta-feira (10), quando enfrenta o Independiente del Valle (EQU), pelo jogo de ida das…"
+  },
+  {
+   "titulo": "Provável volta de Jorginho à seleção da Itália aumenta ainda mais 'drama' do Flamengo em próxima Data-Fifa",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSnZlT0FRT2FYbjY0U3pFSy1kR0FzNUJJYmF4VUVpNjdENGJHTTBWYUxhbUo3TV8ycFJLZ1ZJc2pwLTV3WUk2NElIcjFualRoMkdGMHlfR0p3eXhJU0ticUNmTEpDdFJWRzVmUHVHS3VxXzk2eXVmU0VjU2EtbzhWc0Z6bmNaX0VvMVg2X0pXMzVFZkt1eExpZVhUQTFWX0NGeGtLa3lPWThTOEl3Y0l4VWhKdV9zUEY1aTlLd0VKTlY0dEpZSndoak9BR3lOdU1COHFxRmdOSE1ySmMyenBycVJLd0JWaXc?oc=5",
+   "data": "2026-09-09T10:10:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Ind. del Valle x Flamengo Palpite – Análise e notícias (10/09)",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0V5VWgtemt1Rm1WTHNweTJVekZkOGpxNlNENGdzNWtQMkpTOC1ITFNrR0txQUhxTHM1bkk5TURIb1BQVEUxTUtDVTlqZG1TYmljSEpkN3FON0I4WkNxWk9kSW5EaVJZWnF5NExvSS1qUG1tS3A1X1lwNjVUd2Q2a00xWnlmYkFucU1sNVpiU0NfZXN2MlE?oc=5",
-   "data": "2026-09-09T06:33:53+00:00",
+   "data": "2026-09-09T10:09:44+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Brasileiro Feminino: CBF divulga dias e horários dos jogos das semifinais",
+   "link": "https://ge.globo.com/ba/futebol/futebol-feminino/brasileiro-feminino/noticia/2026/09/09/brasileiro-feminino-cbf-divulga-dias-e-horarios-dos-jogos-das-semifinais.ghtml",
+   "data": "2026-09-09T09:41:19+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Esporte Espetacular mostra como ficou a semifinal do Brasileirão Feminino A CBF divulgou, na noite da última terça-feira, os dias e os horários dos jogos das semifinais do Campeonato Brasileiro Feminino. Bahia, Corinthi…"
+  },
+  {
+   "titulo": "Flamengo pode ter Lino e Pedro na convocação da Seleção",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc0xmVUFYVjVtUFJmMHFFajZPSEVlNWxYNExKTHJtR01yd2h3NzROZjBlX0dRLU1mekJXSS0tTERTN1FqbUVzTm1vbDBTb0VNTTd2OGo3bXJva3hWb0hZZjNkcHJoRFRoRzk3OHdzRzFCTEwyQXRmb1RuNTFTdWRsY21YaDNDVkJvU0hIVGNmVU85X1BZWjkxdVg2UXdEXzF3UjkxWW1WN0lhRy1kWnE3clhnRFVaQlk?oc=5",
+   "data": "2026-09-09T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Del Valle virou potência com formação antirracista, foco em base e estrutura e tenta assombrar novamente o Flamengo",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/09/del-valle-virou-potencia-com-formacao-antirracista-foco-em-base-e-estrutura-e-tenta-assombrar-novamente-o-flamengo.ghtml",
+   "data": "2026-09-09T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Base da seleção equatoriana, o Independiente del Valle carrega a alcunha de \"matador de gigantes\". A ascensão meteórica nos últimos anos não é por acaso e acontece como resultado de um investimento principalmente na for…"
+  },
+  {
+   "titulo": "José Boto fala sobre volta de Plata e novela Luiz Henrique no Flamengo: 'Nunca quisemos'",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zNHJQWFJXTmxrY0dqN2xvQVR5ZjJJWEJoOG01a0lhd3lLT3k0enJHSm9VUHFIalJtX0tob0dYRXVQVXJ4TEVCWTZPeGkxd1FUVGpUVEtYQWpFLVR4bTNoeG5VVXoyNjg?oc=5",
+   "data": "2026-09-09T04:21:12+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -186,14 +242,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Bruno Lima: Santos supera Grêmio e avança em negociação com Flamengo por Cebolinha",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYllHYk5yLWtuYXdJMTlnYzk0RzdTYkJqLUZHQmd2OTRYY09yMXJUa3NZNWlZQjVWd2lmdmREa01uVkxUaHF4aXZOVmd4Zl9mSVhYNkE5UmhPWFNLUU1lVVplZXBtMi0xWWhaQ0FNdTl4ekdSU0l2ajdnaUZaVkw4YzdiWkZzTmhOV002eTZKY1E4VE5FMGhCQkhjMDJEOWt6UXF3VTFRMXg4RHJEMlRSRmtyU1hZMXVUcjZBQUQxeW4yNEFPY2RPLWRoNElGbWtkbVE?oc=5",
-   "data": "2026-09-08T21:06:37+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Jorginho, do Flamengo, é incluído em pré-lista da Itália e pode ser convocado após dois anos fora da seleção",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMXJIRmZnYmJSV2h6TkhkWjNYd1p5V25XNFdvWlpVTUJsYlFmcjQ3TXZaZGhwd1NsU1Y2ZThCOHppZVg5UE5CRDNaMkpWUnFzV3U5MGxQOVNoX1dGSGFDek4yWkE1QkVZSDBNV1ZiU2RiUl9KNlhORmw0dGVrQTMyQXlZSThOLUtnZHdSdlcwb0RTRXFxYmQ5MVN4N01SX0ZGcVhTY1ZfVmdWSDl0eHJVMnRJWWJFMklRXzdNNmpFeFpKMDVHNFI4bVQwUmp4Wmc?oc=5",
    "data": "2026-09-08T21:02:00+00:00",
@@ -258,11 +306,27 @@
    "resumo": ""
   },
   {
+   "titulo": "Rodrigo Mattos: Pedro e Lino, do Flamengo, estão na pré-lista de Ancelotti; Paquetá, fora",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcTczTWhESFBWdEVQZEg3UzNPTkRDU3dabV9vWXB4VHQxczZNU0NVeEh1RjAxUlZDaHUzMi1icUVUZWFyS0J3ZG05QlRTVmhaNlhzcTNaWWtfZXlId0QwQVVNTlhfeHNlZVVxSHhCeHJVUXpFSF91bGF3aGJ2eEVia09XOGdlR1ZKeXZtMXI5N3pOOWwtNmRoSXJGWnRoenRSVXZ0aHFPQU5ORl9qMlNmUGpFb0FKa1l2VkMxMnRYZTl0SXNxcUFyZHdudHJjNkxWNGY0TS1zRnVmOUU3aEoxMw?oc=5",
+   "data": "2026-09-08T17:41:51+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Everton Cebolinha: Santos encaminha contratação de atacante do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRkpwcHFWMzh5YXFlbExnYXJKLThYOTJZcFZIclpIREdnMzR4WVpYNlZyOEVTRkRiclFDVWJxN3ZMY1Y0cnJkempnUWpkb3AteDhCZm1NZGdHSGlhaGlVempnY0JGT3RaZTRnYm5EVkRKV21FR2NLem1nSm5RM0ViUjFIYy1PV0w2Tzk1WmVLSjZYcGxkSGlucTZ2aGUyREpaUVdQazVkRkFMV3paV2ZicWd6NnNyWXJEenNhY3BRMzloSldWc1FQYUNsMFZYUQ?oc=5",
    "data": "2026-09-08T17:19:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Bruno Lima: Santos supera Grêmio e avança em negociação com Flamengo por Cebolinha",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYllHYk5yLWtuYXdJMTlnYzk0RzdTYkJqLUZHQmd2OTRYY09yMXJUa3NZNWlZQjVWd2lmdmREa01uVkxUaHF4aXZOVmd4Zl9mSVhYNkE5UmhPWFNLUU1lVVplZXBtMi0xWWhaQ0FNdTl4ekdSU0l2ajdnaUZaVkw4YzdiWkZzTmhOV002eTZKY1E4VE5FMGhCQkhjMDJEOWt6UXF3VTFRMXg4RHJEMlRSRmtyU1hZMXVUcjZBQUQxeW4yNEFPY2RPLWRoNElGbWtkbVE?oc=5",
+   "data": "2026-09-08T17:06:37+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -346,43 +410,11 @@
    "resumo": ""
   },
   {
-   "titulo": "Rodrigo Mattos: Pedro e Lino, do Flamengo, estão na pre-lista de Ancelotti a após a Copa",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd0t5THlJMDBnODlOeWJadjdVYnpTRG5jNEtZdXotMkJKa3lkTllZTjBXaGxqN09SRkdyZW9UYjZPWmFoUFRrRUY1Z1ZqUlJUQ1FEMzBLanpMWnU3SGYzMHVLcTVaTFdhMURLRGZPM19BZEF1d0trajB5bUpyNUJYSldJSFBzT3oyaUV0UUJJRTdHZGdTck5VOGt4MHpyUlh3Y2ozSmFock51X3Fna1lwVVAyMlFVRUJ0TmRHVVprMkFBZmRpUk9SZHlxR3lwakVVSXVKbHRDT0gwYjdhdDRyd3g3Mmc5dw?oc=5",
-   "data": "2026-09-08T13:44:48+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Pedro e Lino, do Flamengo, estão na pré-lista de Ancelotti; Paquetá, fora",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcTczTWhESFBWdEVQZEg3UzNPTkRDU3dabV9vWXB4VHQxczZNU0NVeEh1RjAxUlZDaHUzMi1icUVUZWFyS0J3ZG05QlRTVmhaNlhzcTNaWWtfZXlId0QwQVVNTlhfeHNlZVVxSHhCeHJVUXpFSF91bGF3aGJ2eEVia09XOGdlR1ZKeXZtMXI5N3pOOWwtNmRoSXJGWnRoenRSVXZ0aHFPQU5ORl9qMlNmUGpFb0FKa1l2VkMxMnRYZTl0SXNxcUFyZHdudHJjNkxWNGY0TS1zRnVmOUU3aEoxMw?oc=5",
-   "data": "2026-09-08T13:41:51+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo concorre a ?Clube do Ano? na Bola de Ouro; veja indicados",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tQ09nSDdjOWlldFdfMG5OYlZTUE1yOTJidmUyTjI4Q0NqbG1ka2d1cEpSVjllOUY2bjh4dG1vRzBXMndBeC00VlJza3YyU1hTRmVUS2twSV9UNzRWMm91MW41akF4LU0?oc=5",
-   "data": "2026-09-08T13:33:29+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Clube russo faz proposta por Carrascal, e Flamengo toma decisão sobre futuro",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ3ppaFd0eXh0a0ZnWUNkOF91TWhZNnVJNEdESVgtY3lSVkhmdk9Yd1NtU1JtZ3FWdmJEQWJrYlF2OTVQZlA4aGhEMzhhWHFVRkpfelp5NmxpSHo5ODdWYlc3WFpYcWtoVzFQczBibzdmazh4c05JampvTWVnTGl1SnZfQlBMSjlEQUduWFl1ZnNWdW9Jc2xWalpPd201Q1EwSU1JcXU1S09PS1o5NGxjZ1hMbmNUUmFEOU1PTU9wLVM4eDNBYWJpNkhjMVRSUVR0dUhR?oc=5",
    "data": "2026-09-08T12:57:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo é indicado ao prêmio de Melhor Clube do Ano na Bola de Ouro",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkhGTS1jVlpRNUxoVUlYVE1pcFM5REM1RHpjd1RudUVIOEpyZlVkMENOcXMtOTlqNFFpWU9Ha2Rwc25SM3NWQ0lTRGhablBTTDJvWjJhNjVrcFFLemNNTWYyNFlmdE52QU5tZ3R0VTRoQ0RLTjR3b0ZRTXF0WnBHNy15V1czaGRVR2xqTUl5ZUZnc19DLTRQNm5odElmZlhJNW1EOHRnZw?oc=5",
-   "data": "2026-09-08T12:56:55+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -504,14 +536,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Voz do Setorista: informações da chegada do Flamengo ao Equador O confronto entre Flamengo e Independiente del Valle definirá um dos semifinalistas da Libertadores, mas será especial para um jogador em específico. Defin…"
-  },
-  {
-   "titulo": "Elias critica postura de Abel após Palmeiras perder a liderança do Brasileirão para o Flamengo: 'Sempre arruma desculpa'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BWjRHVGZnd0VXWEpBaFUtbS1NclRKOWlrcmMwT1NWSzYzdDBmRWw1MGdaZlZUUThkQUpVb2ZWay1LcDFmTXRvdFhMYjFvMjU5R21sVEhpcWNzaGUwUHc?oc=5",
-   "data": "2026-09-08T03:45:16+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   },
   {
    "titulo": "Flamengo desembarca em Quito para jogo das quartas de final da Libertadores",
@@ -671,14 +695,6 @@
    "data": "2026-09-07T13:10:56+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "'O Flamengo joga melhor, por isso é o líder do campeonato. Soube brigar!', diz Rodrigo Mattos",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GcElHczFsN19qcWFSUWZaLXNpMjRoSVlCRndCcW1PNllzeXJKaFJkQVM4Z1l3dVhNLWdMaGZEMUc0M0Rxb1ZTbk1rYm1rN2p4Vm5RZWNxMVZpOFZNa3dFem81a3BVcnM?oc=5",
-   "data": "2026-09-07T13:07:12+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -855,14 +871,6 @@
    "data": "2026-09-07T02:02:11+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "'Há uma equipe que tem a obrigação de fazer muito mais', diz Abel após Flamengo ultrapassar o Palmeiras no Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XenFNT3BaSnJyUVVUZE0yWm5pWUFPcXRfeUlzaVRyQUlsMFFBT250MFRoOGNCREJHOGFyMHpMcldKbVUzc2c2eGhBM1pqNnR5bmN0bk9NUlVleUpzSFE?oc=5",
-   "data": "2026-09-07T01:52:24+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -1223,14 +1231,6 @@
    "data": "2026-09-06T12:00:59+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jogo do Flamengo hoje pelo Brasileirão: que horas começa e onde assistir",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHcyaVpCTTlJVUJUV2tTZ21pNVJtSW1rWjVObFIyUDBqUnIyQ3lzcmFzVEFaN256dXR0UHRBQlFxYV9oVHluZi1CSkdYYWFaak9wdXNBZmZsb1BaQXV5Zks4Q01VM29kbGtSSXp1LUFWNEFjMnZtVUVqWlBDdnZxaFM4UHVtalZYVEJPSHNNR1pYTU9TVkpZcjlNRkxOa1NmM0lvQXJFTmtaS0l2SXJPOHdoOHFGY0p6Tnc2OFY2VmVuZjA4UDBYYVpaM2o1Ykg4?oc=5",
-   "data": "2026-09-06T12:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
