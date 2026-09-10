@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-10T17:49:38.594212+00:00",
+ "atualizadoEm": "2026-09-10T20:47:34.609347+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -23,16 +23,80 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 60
+   "itens": 61
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 81
+   "itens": 79
   }
  ],
  "itens": [
+  {
+   "titulo": "Passos diferentes em 2026: Flamengo e Del Valle cruzam caminhos na Libertadores com campanhas distintas no ano",
+   "link": "https://colunadofla.com/2026/09/passos-diferentes-em-2026-flamengo-e-del-valle-cruzam-caminhos-na-libertadores-com-campanhas-distintas-no-ano/",
+   "data": "2026-09-10T20:39:34+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo tem 63,9% de aproveitamento na temporada 2026, contra 82,5% do Independiente del Valle (EQU) O Flamengo enfrenta o Independiente del Valle (EQU) nesta quinta-feira (10), em jogo válido pela ida das quartas de f…"
+  },
+  {
+   "titulo": "Flamengo lidera elencos mais valiosos das Américas, e imprensa equatoriana cita ‘Davi e Golias’ antes de jogo da Libertadores",
+   "link": "https://colunadofla.com/2026/09/flamengo-lidera-elencos-mais-valiosos-das-americas-e-imprensa-equatoriana-cita-davi-e-golias-antes-de-jogo-da-libertadores/",
+   "data": "2026-09-10T20:20:53+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "CIES Football Observatory divulgou lista dos elencos mais caros do mundo, e a imprensa do Equador fez comparação com a história de Davi e Golias O Flamengo aparece como o elenco mais valioso das Américas em ranking do C…"
+  },
+  {
+   "titulo": "Independiente del Valle tem 4 desfalques para jogo contra o Flamengo, pela Libertadores",
+   "link": "https://colunadofla.com/2026/09/independiente-del-valle-tem-4-desfalques-para-jogo-contra-o-flamengo-pela-libertadores/",
+   "data": "2026-09-10T19:54:12+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Time equatoriano, comandado por Joaquín Papa, sofre com uma série de lesões graves antes do confronto pela ida das quartas de final O Flamengo enfrenta o Independiente del Valle (EQU), nesta quinta-feira (10), pela Copa…"
+  },
+  {
+   "titulo": "Flamengo favorito contra Del Valle? PVC aposta em vitória, mas faz ressalva",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG5TaWdsbkEwbHJid0Z6bzdVTTJzbUZSQncyUjZXaHJnVHlHUlZHWE9yQnhrWF9vbGFHSHF1SGs3bXNJQWZhY2xhVmR0OUptQUIzajVUS2FhYnd5X3I2Nkh6QlRqLUhOZjQwbmE4SXR0bWx5cFhyLVhYNkdxekFDaFUzT1k5ZE9PMEhtSE0xcTRzVlQ3a0EtVi1VaWJfMm0tVHhxbjN6al8yeGhETEdmeEw3U2x2bE92?oc=5",
+   "data": "2026-09-10T19:34:42+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Cebolinha nega “autoexclusão” e rebate versão de José Boto sobre saída do Flamengo",
+   "link": "https://colunadofla.com/2026/09/cebolinha-nega-autoexclusao-e-rebate-versao-de-jose-boto-sobre-saida-do-flamengo/",
+   "data": "2026-09-10T19:21:23+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Everton Cebolinha revelou chateação por falta de oportunidades na virada de 2025 para 2026 Everton Cebolinha rebateu a versão de José Boto sobre a própria saída do Flamengo. Na coletiva de apresentação no Santos, o atac…"
+  },
+  {
+   "titulo": "Olho neles: Del Valle tem cinco remanescentes de time campeão contra o Flamengo; saiba quem são",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/10/olho-neles-del-valle-tem-cinco-remanescentes-de-time-campeao-contra-o-flamengo-saiba-quem-sao.ghtml",
+   "data": "2026-09-10T18:57:15+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "O duelo entre Flamengo e Independiente del Valle, nesta quinta-feira, válido pelas quartas de final da Conmebol Libertadores, pouco pode ter como base a final da Recopa Sul-Americana de 2023, disputada entre as duas equ…"
+  },
+  {
+   "titulo": "Boto escarece novela entre Flamengo e Luiz Henrique",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWUV0Wlp1UF9HaDRSdXV5bS04WndvbmJyeEFIZ20wanlaQnFzQ3pBWVNRUFhUeEt3cEd6T01HRkMxRmxVWHB4WDdZbnkzRUFqUlBTVWdRM1hJa2hldXJ4UHFXdUVlM3F0WDJpODgyVkt0aDA3NlhBYVVIYW43d0tOZXFsaF9pTklpcDU3cFRoNVIwZDV6Zm44YVdxdm5WN0dXcWQyYm9RLTBWS19ZS3hXUg?oc=5",
+   "data": "2026-09-10T18:30:42+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "IA crava placar de jogo do Flamengo x Independiente del Valle, pela Libertadores",
+   "link": "https://colunadofla.com/2026/09/ia-crava-placar-de-jogo-do-flamengo-x-independiente-del-valle-pela-libertadores/",
+   "data": "2026-09-10T18:02:36+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Em jogo de ida das quartas da Libertadores, IA aposta um empate entre Flamengo x Independiente del Valle (EQU) O Flamengo enfrenta o Independiente del Valle (EQU) nesta quinta-feira (10), pelo jogo de ida das quartas de…"
+  },
   {
    "titulo": "José Boto opina diferença entre filosofia rígida de Filipe Luís e versatilidade de Jardim",
    "link": "https://colunadofla.com/2026/09/jose-boto-opina-diferenca-entre-filosofia-rigida-de-filipe-luis-e-versatilidade-de-jardim/",
@@ -58,7 +122,7 @@
    "resumo": "Flamengo e Corinthians se enfrentam no domingo (13) em meio aos jogos da Libertadores O Corinthians vive um dilema. Afinal, na quarta-feira (16), a equipe encara o Estudiantes (ARG), pelo jogo de volta das quartas da Li…"
   },
   {
-   "titulo": "Cebolinha busca protagonismo no Santos e explica saída do Flamengo",
+   "titulo": "Cebolinha busca protagonismo no Santos e explica saída do Fla",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjlpM2UxWTUyTFAyV20xR0x5S2Vmb0Y2WUhhSGIzMS1yOVJqaGtDemtjQ183MWxpRHRjamJrSDlzZFdYTm9aOTdCeW5GM0kzVTlJXzNzSUZOdnViTHR3R0xqZ1FMOXUyT0pycC0zQi1wQ3VqZGV2dG9EMXZiM0IzNWlZUy1SVEhDbDc4NnVyTEVCLUd5RmtoU0RDUThMUThwTVBTU3BR?oc=5",
    "data": "2026-09-10T17:03:42+00:00",
    "fonte": "lance",
@@ -88,6 +152,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Flamengo e Independiente del Valle (EQU) disputam vaga na semifinal da Libertadores O Flamengo tem o esboço da provável escalação para o confronto contra o Independiente del Valle (EQU), nesta quinta-feira (10), às 21h3…"
+  },
+  {
+   "titulo": "Governo multa Consórcio Fla-Flu por falhas na gestão do Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDYtUHBCdlRRak1FR1czT3hLT1kxZ2Q4ckZpaTJqWjB2Smx2Wnc0SU1OeUVwLTZ4M2ZXcFpraUpFaHgzUzZ0NXhqOEVuYjBFeF9pS09OM29GSXhpT0Z0YVRvOGdyZGtKM2diaUlIcFd2VnNGSTBrZEtTRXBQWlc2Sjh3dUcwcExQOGYtblRtWExJcjI2anhTZnhRMzNsRkVnVGlpYWp3M2xfMjEwaUJUbg?oc=5",
+   "data": "2026-09-10T14:00:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo gastou R$ 260 milhões a mais do que o Palmeiras para montar elenco",
@@ -194,14 +266,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Independiente del Valle x Flamengo: horário e onde assistir ao jogo da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXVyWXFwZ0JJeTJaYk15MUU1R3F1eEhWN0JmN0FIRDNuRjkzTTRzS01IRU9nR3JfM2t3c1BrX1pXWVpLaUFkQTVZTWcyTjJpN3gtVTZxUGJCUmZUNjZPSmJ6X2FfWDFHcTRNR01QZ1VaX1FJVENSRDloc09jQ1NyUEFRMHd4Q1M1QlQ3eTh6T3VUa3ZibkRRV3h1V0pVdkpWcDB5SkVMeXRTVzhRZjZTX2RoVUh1NUxMMFVhblJjQ1hZcldWSzZUZFRaa2ZxNjdYYzJuVFdMWG1ZaF9TdVVN?oc=5",
-   "data": "2026-09-10T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Independiente del Valle x Flamengo: onde assistir ao vivo, horário e escalações",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/10/independiente-del-valle-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
    "data": "2026-09-10T06:00:00+00:00",
@@ -226,22 +290,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Jogos da Libertadores: Palmeiras sai vaiado de campo, Corinthians empata com Estudiantes",
-   "link": "https://colunadofla.com/2026/09/jogos-da-libertadores-palmeiras-sai-vaiado-de-campo-corinthians-empata-com-estudiantes/",
-   "data": "2026-09-10T02:31:48+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Dois jogos movimentaram as quartas de final da Copa Libertadores Mais dois brasileiros entraram em campo nesta quarta-feira (09), pelas quartas da Copa Libertadores da América. Quem ganhou, saiu com sabor de derrota. Qu…"
-  },
-  {
-   "titulo": "As primeiras palavras de Cebolinha, ex-Flamengo, como jogador do Santos: “Não tinha como recusar”",
-   "link": "https://colunadofla.com/2026/09/as-primeiras-palavras-de-cebolinha-ex-flamengo-como-jogador-do-santos-nao-tinha-como-recusar/",
-   "data": "2026-09-10T02:00:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Everton Cebolinha é o novo reforço do Santos Anunciado nesta quarta-feira (09) como novo reforço do Santos Futebol Clube, Everton Cebolinha falou pela primeira vez como jogador do time paulista. O ex-Flamengo receberá a…"
-  },
-  {
    "titulo": "Deyverson diz que deseja encerrar carreira no Palmeiras e responde se prefere enfrentar Flamengo ou Corinthians em uma eventual final de Libertadores",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01VlJjOGZoeHRLeFZvZEp6c3RQSFdWclZzbnhvOG0xeW9teEFfQkt6MFdVUHJFaEZGaVp4bWgtTXF6bk8zSk1GS3BEWkpPbl9FclpYRm1SMndPYk5QMGc?oc=5",
    "data": "2026-09-10T01:55:48+00:00",
@@ -250,17 +298,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Arrascaeta se aproxima de feito histórico no Flamengo e manda recado antes de jogo na Libertadores",
-   "link": "https://colunadofla.com/2026/09/arrascaeta-se-aproxima-de-feito-historico-no-flamengo-e-manda-recado-antes-de-jogo-na-libertadores/",
-   "data": "2026-09-10T00:24:37+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Arrascaeta concedeu entrevista um dia antes de jogo contra o Independiente del Valle (EQU) Se entrar em campo nesta quinta-feira (10), Arrascaeta completará 70 jogos com a camisa do Flamengo pela Copa Libertadores da Am…"
-  },
-  {
-   "titulo": "Escalação: Flamengo finaliza preparação para enfrentar o Del Valle pela Libertadores - LANCE!",
+   "titulo": "Escalação: Flamengo encerra preparação para jogo na altitude",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR254ODZQOW5jWUVjQXg1cEpyTXRDRTk3ZmdfUk9rQUxEdkVMclZXOHJPZWIzRU1kbHVoNHlUSWgwQXJwdlYyQk9HOUVGTGt2ZTJwc0JRZmJtNEVjY2pTNHN4RXVxUXNDbHhPWVhkM2Q1XzlvRFkzQ0VpSk9MX1VQQjNId0NxT1Y0UTlmQ29uODVFSVFhc2R1U3VfRWVWSDZ3Q2pRVWVHZUtndGVyRjZOUGRFVzVfQ2VQN2xCZlNHQQ?oc=5",
-   "data": "2026-09-10T00:03:56+00:00",
+   "data": "2026-09-09T23:59:58+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -328,14 +368,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "River Plate tenta devolver Matías Viña ao Flamengo pela 2ª vez",
-   "link": "https://colunadofla.com/2026/09/river-plate-tenta-devolver-matias-vina-ao-flamengo-pela-2a-vez/",
-   "data": "2026-09-09T20:49:26+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo só aceita a devolução do lateral caso o clube argentino pague os salários Matías Viña segue ‘encostado’ no River Plate (ARG) na temporada 2026. Não à toa, o time argentino tentou devolver o lateral ao Flamengo…"
   },
   {
    "titulo": "Ex-Flamengo de 18 anos realiza sonho e vai estrear na Champions",
@@ -416,14 +448,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Com Pedro e Samuel Lino, Ancelotti divulga 26 convocados para jogos do Brasil contra Austrália e Índia",
-   "link": "https://colunadofla.com/2026/09/com-pedro-e-samuel-lino-ancelotti-divulga-26-convocados-para-jogos-do-brasil-contra-australia-e-india/",
-   "data": "2026-09-09T18:13:41+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Quando serão os próximos amistosos da Seleção Brasileira? O técnico Carlo Ancelotti divulgou, nesta quarta-feira (09), a convocação da Seleção Brasileira para os amistosos da próxima Data FIFA. Desse modo, o italiano re…"
   },
   {
    "titulo": "Pedro e Samuel Lino, do Flamengo, são convocados por Ancelotti para a Seleção Brasileira",
@@ -546,6 +570,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Rafael Reis: Ameaça para Palmeiras e Fla, Equador se firma como 3ª força da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNalh0ZktwQklITVZfazJHQlNUcFlPZ1F5ZWhVc3FucERkRjljWEZpWWNvemduNEo5ZWUyRUdUbV9ycXh2RDdCVVBXOEljN09NbHBNTU9vM0pvYVQ3NVp2X0tETmNpTEN4T2JEek03NElreGhwUDhTdDlzWURaMWFNeWh0VVgwcmlQanZjcjlWd3VGbXl6SkF6RWpjcURlcUNsVGVpNWZ4OUdfYXBMN0ZDdXhFTFlvY3VkemJOZ09LR045cWlocW5RZ0pDUEIzcmF4cGZUUFZ4MU1JVnlRV3V6bw?oc=5",
+   "data": "2026-09-09T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Provável volta de Jorginho à seleção da Itália aumenta ainda mais 'drama' do Flamengo em próxima Data-Fifa",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSnZlT0FRT2FYbjY0U3pFSy1kR0FzNUJJYmF4VUVpNjdENGJHTTBWYUxhbUo3TV8ycFJLZ1ZJc2pwLTV3WUk2NElIcjFualRoMkdGMHlfR0p3eXhJU0ticUNmTEpDdFJWRzVmUHVHS3VxXzk2eXVmU0VjU2EtbzhWc0Z6bmNaX0VvMVg2X0pXMzVFZkt1eExpZVhUQTFWX0NGeGtLa3lPWThTOEl3Y0l4VWhKdV9zUEY1aTlLd0VKTlY0dEpZSndoak9BR3lOdU1COHFxRmdOSE1ySmMyenBycVJLd0JWaXc?oc=5",
    "data": "2026-09-09T10:10:00+00:00",
@@ -615,14 +647,6 @@
    "data": "2026-09-08T22:59:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo está jogando melhor do que o Palmeiras neste momento? PVC e Eudes debatem",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FeEU2YjZDd2NyemNNN0JKVDRyVEdZUkxuekhYVU1pVHp6cGxhZG5fUnJwQ0NEV0RIWHVwX1lObjVDZFZCT0luNk9OTjVxNkhfM0hXZFVrWllmMmkxU1hpbGMydTQ5RlE?oc=5",
-   "data": "2026-09-08T22:53:37+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -1205,30 +1229,6 @@
    "titulo": "Diretor do Palmeiras faz alerta após Flamengo assumir liderança: 'Não podemos cometer os mesmos erros'",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeDVqTVRValA0Q0I1X21UUFBFWmRaVUJGOEJkYXZlNjlWZk5VMW1QQ2trX2N4UUZlc0tBYmpqLWdwT0NrSVVnZW42ZjBTS1ZUUHdHUTRYeFJaakNfSnMwTzRFNHUxanVkUDJUZnozTVQzOWJCbDhtancxT3VmUDQ1Ymlrd3RoNTVXREF5NHMtNGV6bk5fMENUSkJBemVpSUpFd2Q1U09XVlk3MDAyVWpVSXZTdm5HRjZqRnBIQjF1Yk41WGUxWG5wRkJzeDZrSGd5NGNSWjZn?oc=5",
    "data": "2026-09-07T10:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ayrton Lucas celebra desempenho em maratona de jogos pelo Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORk15c2xkNjRwaXJ4REJPRjdnM2VJMFJ3M0RNczQwTWl1NFFaYU9sVnlHb0ZEaDRtdnpXbTRaTHpDMHBiWU1waG1HalJQQm9BeW1vNEltcGlRZGlibXhvSWpCbkozdXB5ZXFKaWtFRjQwclBPWURwYlpMcGpJU1RRNHpudklHQVdjU1hmOWQ3RWxCV0RiS0pFNjZoMVJiQzkxVUphX1NMZ3k?oc=5",
-   "data": "2026-09-07T09:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "12 rodadas para a taça: o que Fla e Palmeiras terão até o fim do Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFpMZXhuME9mM2h1WHE5Yi0wTVAtVUpnbFZ3WWdwNm9kWUpQSXRqRWlYNEk1SElZaXo0QWV6RWgweHRDeVgzZmFUR21BN3pRNlR4UWllenRwakFMUlZDWkVkU2NGNlpOcEp0MGMyZTFNeXdzbkh4R1R4eFBCZTRCUEpZMjhuM0ZndUpqcFBIZUV4eHV2WFlJTU5xUmlZT3NIY2I0SmdFbXZpOU9fV0tXZXlpbUJkSER2eUZj?oc=5",
-   "data": "2026-09-07T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Decisão de Jardim mantém futuro de Cebolinha no Flamengo em aberto",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSldOZGd1ODFaU3phMUJnSk5nVmhwSkFKY3M1dHY0b2xsZi16bkJ1cVJqYnc5dG9TNHB5R0JBNllLcnlMVzRLUTZDWWltNktRMVJOc081bFZvS1Y4U3BJdEkyZEcwbzVETTdRdTZPOUJHWlNrWWIwdVFfTHJXaGNQZk5MWVBUaGQxemZPd1ZJdHpuMXdTOFJCQjVYekdtTU9ubm5YVllTdVE?oc=5",
-   "data": "2026-09-07T08:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
