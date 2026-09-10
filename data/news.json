@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-10T14:18:51.357399+00:00",
+ "atualizadoEm": "2026-09-10T17:49:38.594212+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 65
+   "itens": 67
   },
   {
    "id": "colunadofla",
@@ -23,39 +23,79 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 58
+   "itens": 60
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 82
+   "itens": 81
   }
  ],
  "itens": [
   {
-   "titulo": "Governo multa Fla-Flu em R$ 401 mil por gestão do Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDYtUHBCdlRRak1FR1czT3hLT1kxZ2Q4ckZpaTJqWjB2Smx2Wnc0SU1OeUVwLTZ4M2ZXcFpraUpFaHgzUzZ0NXhqOEVuYjBFeF9pS09OM29GSXhpT0Z0YVRvOGdyZGtKM2diaUlIcFd2VnNGSTBrZEtTRXBQWlc2Sjh3dUcwcExQOGYtblRtWExJcjI2anhTZnhRMzNsRkVnVGlpYWp3M2xfMjEwaUJUbg?oc=5",
-   "data": "2026-09-10T14:00:58+00:00",
+   "titulo": "José Boto opina diferença entre filosofia rígida de Filipe Luís e versatilidade de Jardim",
+   "link": "https://colunadofla.com/2026/09/jose-boto-opina-diferenca-entre-filosofia-rigida-de-filipe-luis-e-versatilidade-de-jardim/",
+   "data": "2026-09-10T17:39:08+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Diretor de futebol do Flamengo comentou os estilos dos dois treinadores em entrevista à ESPN A saída de Filipe Luís do Flamengo ainda é motivo de questionamento sobre José Boto. Assim, o diretor de futebol do Rubro-Negr…"
+  },
+  {
+   "titulo": "Cebolinha comenta fala de Boto sobre saída do Flamengo: 'Talvez eu não tivesse oportunidade'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hRU1uYTlzSE53QXpxTkdLRDVUZUNPaXVyNTIzbHNtRHFlLWV4MDdoLVhrUDd2WldlUi0wSW9OMlYyYzVZRHIwT1hOWENpc1h1REx2NGtmdkN2U1ZZcEE?oc=5",
+   "data": "2026-09-10T17:16:17+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Reservas contra o Flamengo? Fernando Diniz revela dúvidas na escalação do Corinthians no Brasileirão",
+   "link": "https://colunadofla.com/2026/09/reservas-contra-o-flamengo-fernando-diniz-revela-duvidas-na-escalacao-do-corinthians-no-brasileirao/",
+   "data": "2026-09-10T17:12:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e Corinthians se enfrentam no domingo (13) em meio aos jogos da Libertadores O Corinthians vive um dilema. Afinal, na quarta-feira (16), a equipe encara o Estudiantes (ARG), pelo jogo de volta das quartas da Li…"
+  },
+  {
+   "titulo": "Cebolinha busca protagonismo no Santos e explica saída do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjlpM2UxWTUyTFAyV20xR0x5S2Vmb0Y2WUhhSGIzMS1yOVJqaGtDemtjQ183MWxpRHRjamJrSDlzZFdYTm9aOTdCeW5GM0kzVTlJXzNzSUZOdnViTHR3R0xqZ1FMOXUyT0pycC0zQi1wQ3VqZGV2dG9EMXZiM0IzNWlZUy1SVEhDbDc4NnVyTEVCLUd5RmtoU0RDUThMUThwTVBTU3BR?oc=5",
+   "data": "2026-09-10T17:03:42+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
   },
   {
-   "titulo": "Flamengo gastou R$ 260 milhões a mais do que o Palmeiras para montar elenco atual",
+   "titulo": "Que horas começa o jogo do Flamengo x Independiente del Valle hoje, pela Libertadores?",
+   "link": "https://colunadofla.com/2026/09/que-horas-comeca-o-jogo-do-flamengo-x-independiente-del-valle-hoje-pela-libertadores/",
+   "data": "2026-09-10T16:45:51+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Confira os detalhes do duelo entre Flamengo e Independiente del Valle (EQU) O Flamengo ajusta os detalhes finais para mais um compromisso importantíssimo pela Copa Libertadores da América. Nesta quinta-feira (10), o tim…"
+  },
+  {
+   "titulo": "Cebolinha rebate Boto por fala sobre 'se excluir do Flamengo' e revela o que o irritou no clube após títulos: 'Acabou me chateando...'",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY2twamFNcnZJbkJ0YUY1Z0o0Tk1RbUpfOUdVdko1bDJPSWFPbzdkaU5faTU3SlhldEkzT1M5NzRBY3J3X0czLXdEVGwzRnRSU0hIQm0xak9IUk1jSnJZZFJzMUttZGVaWlkxRmhuREZmb3BQMjlNQXlZZWRwNHE2b2Q1ZENZclEyRmdvbWotMjBVdVhDaDFOZmVvaDZyV2R4VldVcmViVGFySlg5endOeUFTSjBXNUpOLW1HWnZWZnp6Y0ZuUmdVbU90YjNSdWJoVTJXX0t1aVoyZzFYYlE?oc=5",
+   "data": "2026-09-10T16:44:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Veja prováveis escalações de Flamengo e Independiente del Valle, pela Libertadores",
+   "link": "https://colunadofla.com/2026/09/veja-provaveis-escalacoes-de-flamengo-e-independiente-del-valle-pela-libertadores/",
+   "data": "2026-09-10T14:50:28+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e Independiente del Valle (EQU) disputam vaga na semifinal da Libertadores O Flamengo tem o esboço da provável escalação para o confronto contra o Independiente del Valle (EQU), nesta quinta-feira (10), às 21h3…"
+  },
+  {
+   "titulo": "Flamengo gastou R$ 260 milhões a mais do que o Palmeiras para montar elenco",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTkhZWEZEanVaZ05uWml3TTZoTnd5MVU1YmhNUFZxNGRDLUw5V0Q0LUloeFUydWJfejl1V3FNV0M2b2VidVhBR1p6OGVTaFN6RW5SUXhZODhUUlJpdHVBVU9mMlhlaUw0Ylo1YU5SWklhNWZDQWx6V2pwNGJfb1dYZ3hfMVpBR1Qwc0dPS1ZUQV9TOUJrZF8wQV9rSnpSdnpkLXJQRHZjdW1Tam00cElQV2otZGI3b3k4bXV2em5vN2RmNHNKMmJfZkhhSkdoUVNFTDRaV0syRjhYUGZpOGNGVXJwMnBrQQ?oc=5",
    "data": "2026-09-10T13:20:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Jogo do Flamengo x Independiente del Valle passa na Globo?",
-   "link": "https://colunadofla.com/2026/09/jogo-do-flamengo-x-independiente-del-valle-passa-na-globo/",
-   "data": "2026-09-10T13:09:24+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo entra em campo nesta quinta-feira (10), pela ida das quartas de final da Libertadores O Flamengo enfrenta o Independiente del Valle nesta quinta-feira (10), às 21h30 (horário de Brasília). Portanto, a partida a…"
   },
   {
    "titulo": "Corinthians pode vencer Flamengo? 'Não ganha nem da Chape', diz Julio Gomes",
@@ -90,20 +130,20 @@
    "resumo": ""
   },
   {
+   "titulo": "Rival do Fla nadou de braçada no Equador, vendeu joia e 'mata gigantes'",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2xiTjlTREw4WGxjbEE2UVU5Y05oLW9SUUVHV3pKb3dHZ0NSd04wOENiNnk3dnAwSmJKbWFqa1ZKOTJFbWs5TXJydHlNaDljWG1SMmV4bmFDRmVtLWJCYWMtaGI4cUgyUlgwZEV6WE5Ja3R3RGppSkRPTV9YWFEzRG5xNVlncThjOVlMUDRNOFF3aGE2ZWFjTU5wLU5qcExOVGNtNHB3?oc=5",
+   "data": "2026-09-10T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Jogo do Flamengo hoje pela Libertadores: que horas começa e onde assistir",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM2trVnA0RS1WZExPYzNaM25VZi1jQzByVExMMkZ3YXM3TlowTlVFem90VTgxQzBZU3dEaG53aFVpNDB0WnVDX3RfVlViTDhMNzU2dEw1akdqZW53MXZJWVMzTFFrMFRWNmNQbGF6NTNYU1M4cUZ6Wmd2d3VqY01LVkdkaFhTdEhLT2s4NUxwcElCeWUwZ3htUzdUR3VHOFRaRE85LTQzZC1IMHM0SW5mSnpFNlBfU3g2dlAwODdaVWxkc3NESkRvcDhJeFRHQ0FLQ3c?oc=5",
    "data": "2026-09-10T12:00:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Jogo ao vivo, escalações e mais: saiba tudo sobre Flamengo x Independiente del Valle",
-   "link": "https://colunadofla.com/2026/09/jogo-ao-vivo-escalacoes-e-mais-saiba-tudo-sobre-flamengo-x-independiente-del-valle/",
-   "data": "2026-09-10T11:50:19+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo e Independiente del Valle (EQU) disputam vaga nas semifinais da Libertadores O Flamengo se prepara para enfrentar o Independiente del Valle (EQU), nesta quinta-feira (10), no Estádio Olímpico Atahualpa, em Quit…"
   },
   {
    "titulo": "Jornal argentino aponta diferença de Corinthians para Palmeiras e Flamengo na Libertadores: 'Ao contrário dos poderosos...'",
@@ -146,7 +186,7 @@
    "resumo": "Pedro e Samuel Lino, do Flamengo, comemoram convocação à Seleção Brasileira É quase impossível olhar para a temporada do Flamengo sem lembrar de Samuel Lino. Principal jogador da Era Leonardo Jardim, o atacante se desta…"
   },
   {
-   "titulo": "Análise: por que o Independiente del Valle é perigoso e onde o Flamengo pode atacar",
+   "titulo": "Del Valle: por que o rival do Flamengo assusta e preocupa",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVG9UamNKMEpBa21jTWNQNGNRbGxWLU9Hc3U5dTM4V3dzbnM5RXcxOVFOUUdqWVI4QlJtZHNqMDhCaW9tYWxSblJiV3Q3aVNKWDZCT1Q4TnZkMWZzejcwZHhrWFlMOXUzQVRCVkZpWHNraWxxVHhvTTB0LWFRcDVpVVBZN2hkYTB2LUJzNWF0Z2NPSGFQWUVfUzNmaVNlYldmcGFIdVJfM2JpaHAyenhzTDJmRkgzSmRPV0pwLVdR?oc=5",
    "data": "2026-09-10T09:00:00+00:00",
    "fonte": "lance",
@@ -154,8 +194,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Rival do Fla nadou de braçada no Equador, vendeu joia e 'mata gigantes'",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2xiTjlTREw4WGxjbEE2UVU5Y05oLW9SUUVHV3pKb3dHZ0NSd04wOENiNnk3dnAwSmJKbWFqa1ZKOTJFbWs5TXJydHlNaDljWG1SMmV4bmFDRmVtLWJCYWMtaGI4cUgyUlgwZEV6WE5Ja3R3RGppSkRPTV9YWFEzRG5xNVlncThjOVlMUDRNOFF3aGE2ZWFjTU5wLU5qcExOVGNtNHB3?oc=5",
+   "titulo": "Independiente del Valle x Flamengo: horário e onde assistir ao jogo da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXVyWXFwZ0JJeTJaYk15MUU1R3F1eEhWN0JmN0FIRDNuRjkzTTRzS01IRU9nR3JfM2t3c1BrX1pXWVpLaUFkQTVZTWcyTjJpN3gtVTZxUGJCUmZUNjZPSmJ6X2FfWDFHcTRNR01QZ1VaX1FJVENSRDloc09jQ1NyUEFRMHd4Q1M1QlQ3eTh6T3VUa3ZibkRRV3h1V0pVdkpWcDB5SkVMeXRTVzhRZjZTX2RoVUh1NUxMMFVhblJjQ1hZcldWSzZUZFRaa2ZxNjdYYzJuVFdMWG1ZaF9TdVVN?oc=5",
    "data": "2026-09-10T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -210,14 +250,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Boto é sincero sobre convocações de jogadores do Flamengo para a Seleção: “Às vezes não é tão bom”",
-   "link": "https://colunadofla.com/2026/09/boto-e-sincero-sobre-convocacoes-de-jogadores-do-flamengo-para-a-selecao-as-vezes-nao-e-tao-bom/",
-   "data": "2026-09-10T01:10:39+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Samuel Lino e Pedro irão para o outro lado do mundo com a Seleção Brasileira A Seleção Brasileira foi convocada nesta quarta-feira (09) para três amistosos na próxima Data FIFA. O técnico Carlo Ancelotti chamou dois jog…"
-  },
-  {
    "titulo": "Arrascaeta se aproxima de feito histórico no Flamengo e manda recado antes de jogo na Libertadores",
    "link": "https://colunadofla.com/2026/09/arrascaeta-se-aproxima-de-feito-historico-no-flamengo-e-manda-recado-antes-de-jogo-na-libertadores/",
    "data": "2026-09-10T00:24:37+00:00",
@@ -226,20 +258,12 @@
    "resumo": "Arrascaeta concedeu entrevista um dia antes de jogo contra o Independiente del Valle (EQU) Se entrar em campo nesta quinta-feira (10), Arrascaeta completará 70 jogos com a camisa do Flamengo pela Copa Libertadores da Am…"
   },
   {
-   "titulo": "Escalação: Flamengo encerra preparação para jogo na altitude",
+   "titulo": "Escalação: Flamengo finaliza preparação para enfrentar o Del Valle pela Libertadores - LANCE!",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR254ODZQOW5jWUVjQXg1cEpyTXRDRTk3ZmdfUk9rQUxEdkVMclZXOHJPZWIzRU1kbHVoNHlUSWgwQXJwdlYyQk9HOUVGTGt2ZTJwc0JRZmJtNEVjY2pTNHN4RXVxUXNDbHhPWVhkM2Q1XzlvRFkzQ0VpSk9MX1VQQjNId0NxT1Y0UTlmQ29uODVFSVFhc2R1U3VfRWVWSDZ3Q2pRVWVHZUtndGVyRjZOUGRFVzVfQ2VQN2xCZlNHQQ?oc=5",
-   "data": "2026-09-09T23:59:58+00:00",
+   "data": "2026-09-10T00:03:56+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Os números que sustentam a confiança do Flamengo antes de encarar o Del Valle fora de casa",
-   "link": "https://colunadofla.com/2026/09/os-numeros-que-sustentam-a-confianca-do-flamengo-antes-de-encarar-o-del-valle-fora-de-casa/",
-   "data": "2026-09-09T23:43:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro enfrenta o Independiente del Valle (EQU), mas chega embalado por bons números como visitante O Flamengo vai jogar fora de casa contra o Independiente del Valle (EQU), mas tem bons números na temporada como v…"
   },
   {
    "titulo": "Arrascaeta diz receita para Flamengo vencer o Del Valle na altitude",
@@ -386,14 +410,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Pedro e Samuel Lino, do Flamengo, são convocados por Ancelotti para a Seleção Brasileira - LANCE!",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdDZhRHl0ZFZBNEV6VzZpNW5Xem1sMU5mRmpNdXdPOXVvVWcwWFAxQnZpQ3loYVpKTHcyNVFGS0VCZEJwVFhfUWNBdDZUM1RlaVF0U2NVN2hLSEktYVBvN1JUY3IteVdjUkNVLW95dThvQnNxOWxIMjhUY0xlZjB6Vkl3YjgyWnlOdGFZWTM4YU9SYnR4d1dLTzdZWExINTdMenVrbkJnaGFiS0ZsZXNPLXVkNGZWQVN0NG1lVzNMc1JwVnM?oc=5",
-   "data": "2026-09-09T18:14:45+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Convocação da Seleção Brasileira: lista de Ancelotti tem trio do Corinthians, dupla do Flamengo e inúmeras surpresas",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaFEzUVJoWTZuZ1h4OGQtVF83UkZES2lWc1JwbjByRkZZN0dQaEJJNXltaGswanZXc2oxOEZGbS1ja0hGeDg4aTIxaWNGVTNFRHhiVVY0czM1MmJqUkhIMF9JVTM2U1Q3bzFwWk5KbUx1eERZYzdxRXp3MWJEaFkzTUJSZFRmbnZtaFhTRU9HUHh3VDVHS2RXTFdMMFFaQ2VQekRwU3pQUURoeGNKd0E3Vm15WlhQZGNBTXJVNzJpSFRsVEFENTVqazV0T0NXWnlyNDk0LVJIWHNqU0twZzNNN1ItdHZHekJKNzl4Zkk2ampFUnBaQ0U4djk0ay0?oc=5",
    "data": "2026-09-09T18:14:00+00:00",
@@ -408,6 +424,22 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Quando serão os próximos amistosos da Seleção Brasileira? O técnico Carlo Ancelotti divulgou, nesta quarta-feira (09), a convocação da Seleção Brasileira para os amistosos da próxima Data FIFA. Desse modo, o italiano re…"
+  },
+  {
+   "titulo": "Pedro e Samuel Lino, do Flamengo, são convocados por Ancelotti para a Seleção Brasileira",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdDZhRHl0ZFZBNEV6VzZpNW5Xem1sMU5mRmpNdXdPOXVvVWcwWFAxQnZpQ3loYVpKTHcyNVFGS0VCZEJwVFhfUWNBdDZUM1RlaVF0U2NVN2hLSEktYVBvN1JUY3IteVdjUkNVLW95dThvQnNxOWxIMjhUY0xlZjB6Vkl3YjgyWnlOdGFZWTM4YU9SYnR4d1dLTzdZWExINTdMenVrbkJnaGFiS0ZsZXNPLXVkNGZWQVN0NG1lVzNMc1JwVnM?oc=5",
+   "data": "2026-09-09T18:12:37+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "TRÊS JOGADORES DO FLAMENGO NO TIME TITULAR DA SELEÇÃO BRASILEIRA?",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1cxMWJ4ZnB4eDNrR0Uwb3ZacTlrUk5pY3BqbWJkZGtHZ1JLTnNEc0p4RVRaYUg3X20zOUI0X2htZ21nUk8xLW5Ca2VuendPcEtxWklQVktxMWVXOUhFX1NTZzZWTjRzS3lVWWhhNGlBb2VWaTNpMGc3VXQtc1JsSHlVeWFFUjhoajN2dnA2M0N2VFdvaU5CVXNYZFA?oc=5",
+   "data": "2026-09-09T17:55:07+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo acerta contratação de promessa de 16 anos para a zaga",
@@ -1199,38 +1231,6 @@
    "data": "2026-09-07T08:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Viralizou: árbitro peita Canobbio, bate-boca no Cruzeiro e ajuda do Botafogo ao \"amigo\" Flamengo",
-   "link": "https://ge.globo.com/pe/futebol/noticia/2026/09/07/viralizou-arbitro-peita-canobbio-bate-boca-no-cruzeiro-e-ajuda-do-botafogo-ao-amigo-flamengo.ghtml",
-   "data": "2026-09-07T07:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "MILAAAAAGREEEE! Marcelo Rangel faz uma defesa milagrosa em desvio de Pedro O Brasileirão pegou fogo neste fim de semana. Da peitada do árbitro Davi de Oliveira Lacerda em Canobbio à ajudinha do “amigo” Botafogo ao Flame…"
-  },
-  {
-   "titulo": "Plata chega a Belém em meio a \"climão\" com o Flamengo, que relaciona atacante na Libertadores",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/07/plata-chega-a-belem-em-meio-a-climao-com-o-flamengo-que-relaciona-atacante-na-libertadores.ghtml",
-   "data": "2026-09-07T05:36:37+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Plata chega a Belém para se reapresentar ao Flamengo Gonzalo Plata chegou a Belém na madrugada desta segunda-feira para se reapresentar ao Flamengo 10 dias depois da sua venda do Dínamo Moscou, da Rússia, ser cancelada.…"
-  },
-  {
-   "titulo": "Análise: Flamengo vira líder do Brasileirão com futebol vistoso até debaixo de temporal",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/07/analise-flamengo-vira-lider-do-brasileirao-com-futebol-vistoso-ate-debaixo-de-temporal.ghtml",
-   "data": "2026-09-07T04:32:55+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Remo 0 x 1 Flamengo | Melhores momentos | 26ª rodada | Brasileirão 2026 O Campeonato Brasileiro tem um novo líder, e com justiça. Dono do melhor ataque e da melhor defesa (ao lado do Palmeiras) da competição, o Flamengo…"
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Palmeiras só empata com Gustavo Gómez melhor em campo e Flamengo é líder",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3Nnd1NleVV5WmNHcEhUOXhiMGdnaHhPdm00clI3bmR2WURXQTVySHhaajJjSmRNWDY2c2lIbG1CbVBfcHRWYUxUT2pCOUlHdFhIWXFkUGxWUDhyOTdYSDFBWkJmcFc5T19zRUdGSEFMNFR5Z3dyNWZfa0w4SXNkVWtqM0Q0MFB1RUh6SURtbTRmTHQ1WElXRjRwNTY1Rkh3dWJ6c3Q0Z05vQlJFM21pQy1Dc0xOaUQwUnVwdGZINXVDR3pxbGpmZU93?oc=5",
-   "data": "2026-09-07T03:27:42+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
