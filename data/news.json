@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-11T05:51:22.598231+00:00",
+ "atualizadoEm": "2026-09-11T11:09:28.960391+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 75
+   "itens": 73
   },
   {
    "id": "colunadofla",
@@ -23,20 +23,108 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 68
+   "itens": 71
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 88
+   "itens": 90
   }
  ],
  "itens": [
   {
-   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo vence com gol de Bruno Henrique e Jardim bate no peito por escolha",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZG9Ra3JVNEVnQ0hWTUlTbDVPN01LM1pOMUlJcW9BMzBvWUMwMnZMYTZLUWpVZ0s4cDV2QW9RNEg2XzJiWmd0Z0dLZkJNOGdoTy12VlB2dnRQNlZkNDRrMmw0QXc4R2x5eFg2eUJDR0g1Q1pQek1PYWRhN3ppMzMzTk04SEtDZnlwWDA3dFAwNWJsN25HNGo2Wi04TW40ZXR3R045eUR5c2U5NGQzV2dBcjN2N3BqSnBTY0hoNmFQVXduYzBaWkRkTGxEUHpsQQ?oc=5",
-   "data": "2026-09-11T05:47:35+00:00",
+   "titulo": "Distância do Flamengo para os rivais (todos) aumenta mais ainda",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV25PWXp1TFNvZV9iRk1hWXZiYlJ4UDd5MjFtUHFHdVdSM0tuNGczbUhad2gxM1k2XzhFcUQ1czhSbGNwTm5kbUZQVjNHamJrek01MTRfS1I5SW1xNEY0RTAwM1JoVWl5Y1ZpQlhJaTlrZ2I3VTNjUXlVc1F5MDJIVFg1a3J6VWZtc0VzVHVxUXM0Q3R1OVdhNDRYVWpOREMzUWhiN0NqN2hJelVRREtUZ2U0aW5KQQ?oc=5",
+   "data": "2026-09-11T11:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Bruno Henrique é decisivo! VEJA gols importantes do atacante pelo Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrYTQyNV9XSXJRY2EzTm15aTNrVlZYclFScVhieUFXRE9YYmxnbDMxTkV1N1dvU04yQlY0WWxaTG50b2FjYWdWMGZZMjFmOGNCeUZNWTk5ZFl6YzNGcHc?oc=5",
+   "data": "2026-09-11T10:39:02+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Carinho de equatorianos, clima amistoso e tranquilidade marcam passagem do Flamengo por Quito na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNemh1Ul9NOUlOWUQwZ1VoS3E5TVBLeTZOX3ZoZjFRQ1VoME9VQjg3X1FoOXhpNkJldGsxNTU0M3hjd3ZVNXdFX2R0VHNrcllsSE9jbDNyY25mS3c2SFBTOFNoOHdNdWMyT2ptanZwMkQ3SXNNbmpPN2FFTHVEaklYYnJmMFg0a3dTR2U4ZHZHOG9lRlUxTlVUTS1YZ041bzVnVGpDSGRSOHZULWdzbzlRQmlqZWdYVTdDRWhuOHNLVlgxUjdKRVJjMGdVOXJEZVB5NHNEeXlHb2hDWk4xWU5GMmRlWDNtWGc?oc=5",
+   "data": "2026-09-11T10:35:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Corinthians ao vivo hoje 13/09: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWdqZjZCeklzR21peU1jVmx0WlNtanVoaC1RU2ttQW1IWnBoblJubW9wS3lTSi1jNkZhaUxFd3VjejNZVTFyTHdXMmRnRWtlc0hxZUdvYTdsZmY2SUx5NTlKQm51WHd4b0NUVkRBV0ROaXVIWGtVS2w2M0NRR3dfZVJ6ODVYZUJfVm43UDdsc1NqeXBOMVE?oc=5",
+   "data": "2026-09-11T10:32:59+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo alfineta o Palmeiras após vitória na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkxxVXpMOHpJXzFMaU5QLTdXQ2RPQlhUTWl1Wm50Q2RqeDluX1NmbkJZczlkTnFnNl95aktCU1FHd01xWVQwOUM0VWlXZHpNUVlIeGdDQktkYTJXUVVtTkVYTUJDVHFzcnl5Q1JhWGszUUk0TWhoRG1XN1FHRWVMT3ZvTGM0M1VKanh3Wm1wdnBkVm1uRjR6UU5hQWJ3MmlrRDNGNw?oc=5",
+   "data": "2026-09-11T10:10:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Mauro Cezar Pereira: O Flamengo também tem o direito de vencer sem dar espetáculo",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTVYNURONVAxZjdxbG13czdsaXc1LWFweE81NGt6Z3J0X1Bfc2xaS3VBUjdwMFNSSjFuRms1QTBGMUI2eDJUZHhKaFo4RlJhMk5BSmtYTEREUnJzU2RYRG1vQjI3Q3BJWFJLWkM5MmxDa0RKSlZqWWd4ajZzbnN2SWlkT2VDbE82ZGZCUldDWWFXUkZPWGtlRUtvRnVwQlBOVGJSblZwUldHUG9GYUJtSjc1ZC1IVVFyVlZRTWEzcklDdlllMTlYemVISHVydlhxa21sZGtQVFdVQQ?oc=5",
+   "data": "2026-09-11T10:01:17+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Bruno Henrique vira assunto após vitória do Flamengo: 'Absurdo'",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3dLTS1BTktFd2tQNjdOMHdxalM3ZWxYTkM1OHJaRGJqdE1BYnVEQm1HRVJkeURNWVZLdFRTSlJtVHZ4cHM3MDA2WGcxNWxWUmw1b3pPN3czUkZBblFRTGU3Rkp6a0ZiVWdBNlFPSTA2dlFpSEVjMFk4MDhKWXlVc0ZWa180aVJTcmlqQWJkSDBxNDlZQW5XVFVQZ2JLTmN4M3M0aXpEbw?oc=5",
+   "data": "2026-09-11T09:10:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Chutou? É gol! Flamengo ativa 'modo letal' com BH avassalador na altitude",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ001aVRGZmpnMFpzNG1vZl9VTnRhemVMeGF3MWdXUnNlcVJ4bWZlZGhGZ2haYXBaOFZMbXg4U3p3MENMY0VOOFJsSGZPTG02X0lLUEF2SG9OZlpHaFpWdnJKX3MtUlQ1ZzFRWlFBeHBTMVRNOUE5Tld3anprRjhsVEpHWGNkMllrU0h5NWMyV0NZSk9WWTBPUThMR2NNbTNDRENxVXUxRkdpUmFGQVR6Yi1FcHBqNTZmNFJUbkRLeVROcUU5QXBWVXJTVF90dERkSjh1QXJwY0s?oc=5",
+   "data": "2026-09-11T08:46:03+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Gramado do Maracanã desafia Flamengo e fragiliza narrativa contra sintético",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOFc0RmFVM1pOUEV5d2JmWHFpVnVCM2tZaHVTbnNQTVF4bTBKYTN3TG9zUDFTNDV6bkNnZm45V2I4SzlsWGprNEd1Q3pvSmFVdWM0VC1hekZQd2xoRmRTUWJYWWdlOE41emxTTTAxaHUzZ0ZLdlFPWlpjaU9TZ2VZc1JCZjR3NlZWOF9paFo0b2dHckVFUnM3a1lvbzBvb054ekxQTHN6akZVcVlqZkhFWFgyaU5DQ19Ga1VVbXJNcklYTExGWkNjMTRWdXAtZ2xlNG1JaHoyTG9oMHNBLXc?oc=5",
+   "data": "2026-09-11T08:34:36+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo ignora fator altitude e manda recado na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1JyaEh0Tk5SN2stUHYxcnlHUElyZm5wNENBel8tRGFuaDJXcGluZTZhdjZsUnlFUm9tRDRlV1B1RjJxdGJfam9zb3lMd3U2WUM3dnZ1czFpTHZmQnpoUC0wSW0wZ3ZES2ZoOFNjdmREbnlNdWYxRk03dTJHbEJpSkRrdWJLQVFqZlVMUTd2ZTl0YVZJMkhHNHNyYjc5SkY3Q3N1dExKT2xtTGFPWkhHNUF4UUpQQQ?oc=5",
+   "data": "2026-09-11T08:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Análise: Flamengo tem atuação madura com defesa brilhante e se credencia ao penta da Libertadores",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/11/analise-flamengo-tem-atuacao-madura-com-defesa-brilhante-e-se-credencia-ao-penta-da-libertadores.ghtml",
+   "data": "2026-09-11T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Leonardo Jardim explica como o Flamengo se adaptou à altitude de Quito O Flamengo apostava na experiência para superar o desafio de jogar na altitude. O primeiro tempo pode até ter dado um susto no torcedor, mas a equip…"
+  },
+  {
+   "titulo": "Casagrande: Não tem discussão: o Flamengo tem o melhor time da América do Sul",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbWU3blM5Q0ozR1lNYk5HLTA5MnJSNXQ3TklScER1M29lcURNNzJhbFFwUkxMQ2x3MDRZVkd0c2Y4Wng5aGJVLXpZSmtXdHI1THBzc1d3TXJKUnVlNW5ULUU1Vk8zSGR0a3lpY180V3NPZ2VwSHBfajBsUDhpOXQ1Y0s5UXBScUpwcGhnR2FiX1d0MWd0WERMVWtVT0tjbEs2YWxKX0syZ0JESmFBc190Yk55T25zMjBjXzE0cDcxT2tUVW05c3RhT1JuTWQxdE43TlE?oc=5",
+   "data": "2026-09-11T06:38:29+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -44,7 +132,7 @@
   {
    "titulo": "Alicia Klein: Imagina o Flamengo no auge e ao nível do mar",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQamM2aU1HN2h3bDhBb2tINm16Z0JaZUFxczFiUVZvWnlIWGtBZzlCSnR4ampqbGdpbW5DMnA3MExVN1M3S1RkMWpNX2xFY182clN6Ql92dU90MFBMcV9CSzBic25EN0NDazFaTEtndjhCdjNGTXFMemxUM09WTHhSbE1nTTVwTS1ld1NqT1lLYWZVN0x4dkhaWFhJdw?oc=5",
-   "data": "2026-09-11T05:47:35+00:00",
+   "data": "2026-09-11T06:33:08+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -52,15 +140,15 @@
   {
    "titulo": "Juca Kfouri: Flamengo ensina: o que vale é bola na rede",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0dvdzVPNlZKNFY5eXVZdkQtel9yd0dLZUc4c0ZudGtxa1lLb3huaDVhanZzdF9RYjJ4dzZkRWhBTHJkQ0s4Ul9wbnVRQ21Td3ZTaVYtNXJZY2ZZSWNKUEt2U2JYVS03Ukt2MWlTWjFwXy0ySHdVOVpEaWs0dkJ5cUx6alo2em5ZdkE?oc=5",
-   "data": "2026-09-11T05:41:05+00:00",
+   "data": "2026-09-11T06:26:15+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Casagrande: Não tem discussão: o Flamengo tem o melhor time da América do Sul",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbWU3blM5Q0ozR1lNYk5HLTA5MnJSNXQ3TklScER1M29lcURNNzJhbFFwUkxMQ2x3MDRZVkd0c2Y4Wng5aGJVLXpZSmtXdHI1THBzc1d3TXJKUnVlNW5ULUU1Vk8zSGR0a3lpY180V3NPZ2VwSHBfajBsUDhpOXQ1Y0s5UXBScUpwcGhnR2FiX1d0MWd0WERMVWtVT0tjbEs2YWxKX0syZ0JESmFBc190Yk55T25zMjBjXzE0cDcxT2tUVW05c3RhT1JuTWQxdE43TlE?oc=5",
-   "data": "2026-09-11T05:39:51+00:00",
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo vence com gol de Bruno Henrique e Jardim bate no peito por escolha",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZG9Ra3JVNEVnQ0hWTUlTbDVPN01LM1pOMUlJcW9BMzBvWUMwMnZMYTZLUWpVZ0s4cDV2QW9RNEg2XzJiWmd0Z0dLZkJNOGdoTy12VlB2dnRQNlZkNDRrMmw0QXc4R2x5eFg2eUJDR0g1Q1pQek1PYWRhN3ppMzMzTk04SEtDZnlwWDA3dFAwNWJsN25HNGo2Wi04TW40ZXR3R045eUR5c2U5NGQzV2dBcjN2N3BqSnBTY0hoNmFQVXduYzBaWkRkTGxEUHpsQQ?oc=5",
+   "data": "2026-09-11T06:24:16+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -85,14 +173,6 @@
    "titulo": "Léo Pereira valoriza vitória do Flamengo na altitude, mas critica condições: 'Para a gente é horrível jogar aqui'",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWWZZRmhvOXhkUGl5c2k2ZC1rbWNOQmExRnNaLXJubUVNNDVkWjZtcnNYQzJKcVRyVDl4MFc3dWs3WkMwVTBlTkVpenhIMUN1QS1YOVhPd2ZmQ3FWOGg5dktrMGRKY3lGd2M3WHljZU8ydFRoYUpwUXNwdzFybnZFYjhXUkR1MkdhMFlfemdqNDBvT3lHQW9Ga1lJc3BRbndLazNEd3lxdHNaZjMwU2R3NXN5MjZzWHo4VTdyNzVGMldnQnc3TWdRMVloYmRxUEFTSEtWRk53b0lKWWZwRVJFNG41MUF4eDF4OWc?oc=5",
    "data": "2026-09-11T04:09:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo é favorito ao título da Libertadores? VEJA a resposta de Jardim após vitória sobre o Del Valle",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uSjQ5Tzh3Q2w1cG44X1Y5aTRiX2RMai1VWmhtQnRPZFBIcktBMFN4RXRkcDNSQmZUVEJNRlV6Tmo0emFUVUZQUXlrOEZpYmhrdlZxcVpLUGh6cGtDdFE?oc=5",
-   "data": "2026-09-11T04:02:23+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -128,6 +208,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Leonardo Jardim pregou respeito ao jogo de volta contra o Independiente del Valle (EQU) e falou do cansaço do time Vaga encaminhada, mas não confirmada. Esse é o pensamento do Flamengo no confronto com o Independiente d…"
+  },
+  {
+   "titulo": "FLAMENGO SUPERA ALTITUDE, VENCE O DEL VALLE E LEVA VANTAGEM PARA O MARACANÃ.",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRk9MQUY3Vk1iSkFUUVY0ZnZaWHg5OEV5XzBDV1RVNzVLY295WHBtelB5emtkRDJ5YWY2X0EwbEF5eGxHaDJLQVlLY1lRMEU1S3pfcEcxT01DWjBWSWtyVW52VFZLckVwOE91aW1HcnkzQ25waERRWXNsR0wteGtUNXZwNUxwbVkwOE1TRzQyS1M5ZnowcUdRYTNRTWVBSFdEeHdwcEdlYUF0Zw?oc=5",
+   "data": "2026-09-11T03:42:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "O fim da invencibilidade do Del Valle como mandante na Libertadores após derrota para o Flamengo",
@@ -170,7 +258,7 @@
    "resumo": "Autor do primeiro gol do Flamengo, Bruno Henrique falou com a imprensa após o jogo Bruno Henrique não sente a altitude. Mais uma prova disso aconteceu nesta quinta-feira (10), quando o ídolo correu o campo todo e ainda…"
   },
   {
-   "titulo": "Flamengo alfineta Palmeiras nas redes sociais após vitória na Libertadores: \"desfrutem\"",
+   "titulo": "Flamengo alfineta Palmeiras nas redes sociais após vitória na Libertadores: 'Desfrutem'",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNazBOZllrUFNrTGZHanBYZzRvdDREYXFfQzU0V3ZMTFdLZjdtR2EyY2ppTzlqTW5uLUV3WnUwTmx3ZkNkM1R5aFpSbzl1anpjTjB2UVlUQk5ENXIzUHVObXF6MzUwaUJZZkhZN2hBdVpaQ1lyWVpGQ0VScTNMN3Q3TDAwZ2o2STMwRG9ZWWVXWkI0REUtcGdLWEcxcmJOUi1fMDJNbmx2dnlvaXNnSHBodnZpdUNYRzFsd1gyTE5ZQ2R3ZHpLeTRYdG8wMk5wUERnb0QzRUpn?oc=5",
    "data": "2026-09-11T03:13:00+00:00",
    "fonte": "espn",
@@ -200,14 +288,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Del Valle (EQU) não terá vida fácil para reverter a derrota no Maracanã O Flamengo venceu o Independiente del Valle (EQU) nesta quinta-feira (10), por 2 a 0, pelo jogo de ida das quartas de final da Libertadores. A part…"
-  },
-  {
-   "titulo": "Flamengo x Corinthians ao vivo hoje 13/09: siga placar agora | Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWdqZjZCeklzR21peU1jVmx0WlNtanVoaC1RU2ttQW1IWnBoblJubW9wS3lTSi1jNkZhaUxFd3VjejNZVTFyTHdXMmRnRWtlc0hxZUdvYTdsZmY2SUx5NTlKQm51WHd4b0NUVkRBV0ROaXVIWGtVS2w2M0NRR3dfZVJ6ODVYZUJfVm43UDdsc1NqeXBOMVE?oc=5",
-   "data": "2026-09-11T03:02:52+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Vaga garantida? Colunistas debatem vitória do Flamengo na Libertadores",
@@ -354,12 +434,28 @@
    "resumo": ""
   },
   {
+   "titulo": "Flamengo supera Independiente del Valle na altitude e sai na frente na Libertadores; VEJA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TWlZRU1UwVnBrUFViR256MnRKQnVObWdfdzBrLVR3OXQ2MnFncm0xOGV3R2RIb29maWJPdEctcVlsWUdqN2J6TmpIX21BRWJRbkNaQXhHWnZEZDFna3c?oc=5",
+   "data": "2026-09-11T02:19:46+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "VÍDEO | Léo Pereira sobe sozinho e marca 2º gol do Flamengo contra o Del Valle, pela Libertadores",
    "link": "https://colunadofla.com/2026/09/video-leo-pereira-sobe-sozinho-e-marca-2o-gol-do-flamengo-contra-o-del-valle-pela-libertadores/",
    "data": "2026-09-11T02:14:07+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Flamengo abre boa vantagem em busca de vaga na semifinal da Libertadores Logo depois de abrir o placar com Bruno Henrique, o Flamengo marcou o segundo gol diante do Independiente del Valle (EQU), nesta quinta-feira (10)…"
+  },
+  {
+   "titulo": "GOL DO FLAMENGO! Léo Pereira cabeceia no cantinho e faz 2 x 0 contra o Del Valle",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xRHQ2a1lHSVA5Mk11NU5BcWxtWG1YcEdIaHR0OHJNTTR4TDhFQ3RBWmEtZEVOR0xLNDFMb3FCSFk2THNFLVluT21waXdjdkl1ZEZHNnNXNHM4WUhVTGc?oc=5",
+   "data": "2026-09-11T02:09:04+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "VÍDEO | Bruno Henrique recebe passe de Samuel Lino e marca 1º gol em jogo do Flamengo x Del Valle",
@@ -426,6 +522,14 @@
    "resumo": "Flamengo e Del Valle (EQU) disputam vaga na semifinal da Libertadores O Flamengo entra em campo nesta quinta-feira (10) para enfrentar o Independiente del Valle (EQU), pela ida das quartas de final da Libertadores. Dess…"
   },
   {
+   "titulo": "Veja onde assistir Independiente del Valle x Flamengo nesta quinta-feira (10) - TNOnline",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmUwdXgzNndobVJvYzVXNGdqb1lBVlNKR0hiWFFjME5iWVltckxPZENUcmpyakFWR1ZNZ0I4Vi1oanI5WXZDVzRBMlFHYW5EVlZCNUYxOHZfS3NtcENQTzFfZFljdUp0MEZqZ2pxNnctb2Y0QzI5U3ZYTG1SZWhkWV9aTXcxMW5HQlNRZVhqWGM5WWRiS1YySnl2enkyZ0ZLMjd1YTBuRWlfNmQwck1MT3EtaGlOa1JUWkpwbl90aTB4c2l1ekZZNtIB0wFBVV95cUxPUHhrc2RScEw3WWF0WGEzbWgzN1pDTmx4X1N6U1FwWTE1OV9ka1Vsbmx3SjRJOHpkMkRpd1ZvYnR6akJDSmdaTFViR3NEcEVTc1Nsb0ZPWlpGVzNCZzI1cmIwMlVSdEdKY0R0SHFFU1FYOVJvaXBTdEg1RWhYV0xud3NuWWJqd19pZDVKSXdINXVuOXZKck5lN1QxR1gwVmFZMHBCbFNQblJFR2VMUXBGcFRra1NHOUp1alRWdWdBVXBicmpfUXVUNkJhZFBkVWVvYkdB?oc=5",
+   "data": "2026-09-11T00:00:11+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Leila Pereira, do Palmeiras, desbanca Bap, do Flamengo, em prêmio internacional",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVZEVU9xQnVyQnU0OExUS3VlMWVtMkYzWXprU1BCSVM4eFEtcTNBY3Q5UG41SjdYSGpjMVIyTGNBdmR4ZmNqeVZHcDNaZ0RDUHZsa0c0eE12WHpxVER6VFlXOXRUd1hLdlNERjFGRWV5ZGVHSDJkMjlKWTVPQTRYRDB5cHRzUWRWSF9jZU1kQ3dWSzJraXJjel90cDdyVjVkZ0VoMmppUDhxcXJBdW5mRGFJR3RqbTJKX1FFZmdhNA?oc=5",
    "data": "2026-09-10T23:49:18+00:00",
@@ -450,11 +554,19 @@
    "resumo": ""
   },
   {
-   "titulo": "Jardim define escalação do Flamengo para enfrentar o Del Valle",
+   "titulo": "Escalação: Jardim define Flamengo com mudança para pegar Del Valle na altitude",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzRWTkxuOHhUcWhWY3pzYUtPZzM5U0poYUFmRlRDTEVPQ2VGcWVHY0RuVGZsb2Q5ODFiakFmQW5raHNwaEFHMVVHeXgydkdYMmxNOThFX0hsdzFqVTAwRjVoRDA0NkdGbmo4bUsxQzNldnk2NjdtUlA5XzJ3RlB1MG51ZnFQV3hZMmd0U1pXeDB3WUNRaXpnN1BlTFBab2RpaHdkYUNOek1JUFhuUzJtcjBBWHZXNHNCVFVCOEdWQQ?oc=5",
    "data": "2026-09-10T23:01:24+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Transmissão ao vivo de Ind del Valle x Flamengo pela Libertadores: veja onde assistir",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNHoyUTE5c0k3ZE43czBReHREeWczbkRVdFRZaGNDSXJ1dmZHY21SeHNNWks2Vm5mckVhVzRDbEFrR2VyNmlTa2tkbTVicHBsTURqc1NBeWNycDdGS0hzU3lVZ25oTktQU1N5amRPOEFCLU5sN3F5clkxYXJUdUE5cDR2WXlfRUdMMmR4dmhEZXFZX3hvWEZVUnVjLXNoQUdHYi1SaG9lUkJLQS01RGVTcXFjQU9rSy1VWlEtc2drOFAtTWJGTDRadlNsaEQ4QWdvZDQtOVRSZHN6elZGMlJGQ1ZaSjgwTkRzNFF6M3BHQQ?oc=5",
+   "data": "2026-09-10T23:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -487,14 +599,6 @@
    "data": "2026-09-10T18:30:42+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Onde vai passar Ind del Valle x Flamengo pela Libertadores? Como assistir ao vivo",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSUdPTzZNVVJVTDdlX0QxY2RNbUs4REcyVnBsel9xT1BSWWRkV3hzQVRqR0F4S2psSC1STFZscXhpZDN1LThFSzRjUVpEeXo5UjhmR19wX3FJbG4xY0VwblBUSkdKUGlmWEoya2FlZUZ2QTB6Y3JDVzdHejAzMUNYM2FaRWRQS1FlNHR5ajE1Ml9RRllwcndiOGVnTHE0U0JLSV9STDZ1Zk9xRFp2cW5sMGpwQ3RLOUQ1SWl3Y2hjRWNqT1hVU2lYbW1LS3g0anAxNndwT2szUGJ3QzdBVWRpYUlEcW1yRTdtSmc?oc=5",
-   "data": "2026-09-10T18:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -562,16 +666,16 @@
    "resumo": "O Governo do Estado do Rio de Janeiro multou o Consórcio Fla-Flu em R$ 401.217,48. A penalidade corresponde a 2% do valor de outorga anual (R$ 20 milhões) e se baseia em relatório de 2025 do verificador independente do…"
   },
   {
-   "titulo": "Rafael Reis: Rival do Flamengo vive ano mágico e é 'melhor Del Valle de todos os tempos'",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWHc5Rmt3empWeFJqUlpWOFZEZW1SeGI4SllhWklUSHZobEhZMUdwZHF1QVRSazNrV1JpbFJSRGxqZG9MR3hKMXo4V1N6RnB3TEotS3FDRHJ0emdPWEZtSGJPdnMtR3ctMlJhSkdRQnNVTF9KcE16TjI2Mjd3UGJpRTdEdVBKeGhGbGNiMEpGbXFrTHZjUEVRNUt4NjB6aV9hNnRJX2E0MUo1U0o4aHR6aHlIbzRnOWk4WDlfX2llbzdiQUdkaVh1TXY4OUpGZVpsbm1udWJMZE4xYkVtazkzVg?oc=5",
+   "titulo": "Rival do Fla nadou de braçada no Equador, vendeu joia e 'mata gigantes'",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2xiTjlTREw4WGxjbEE2UVU5Y05oLW9SUUVHV3pKb3dHZ0NSd04wOENiNnk3dnAwSmJKbWFqa1ZKOTJFbWs5TXJydHlNaDljWG1SMmV4bmFDRmVtLWJCYWMtaGI4cUgyUlgwZEV6WE5Ja3R3RGppSkRPTV9YWFEzRG5xNVlncThjOVlMUDRNOFF3aGE2ZWFjTU5wLU5qcExOVGNtNHB3?oc=5",
    "data": "2026-09-10T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Rival do Fla nadou de braçada no Equador, vendeu joia e 'mata gigantes'",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2xiTjlTREw4WGxjbEE2UVU5Y05oLW9SUUVHV3pKb3dHZ0NSd04wOENiNnk3dnAwSmJKbWFqa1ZKOTJFbWs5TXJydHlNaDljWG1SMmV4bmFDRmVtLWJCYWMtaGI4cUgyUlgwZEV6WE5Ja3R3RGppSkRPTV9YWFEzRG5xNVlncThjOVlMUDRNOFF3aGE2ZWFjTU5wLU5qcExOVGNtNHB3?oc=5",
+   "titulo": "Rafael Reis: Rival do Flamengo vive ano mágico e é 'melhor Del Valle de todos os tempos'",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWHc5Rmt3empWeFJqUlpWOFZEZW1SeGI4SllhWklUSHZobEhZMUdwZHF1QVRSazNrV1JpbFJSRGxqZG9MR3hKMXo4V1N6RnB3TEotS3FDRHJ0emdPWEZtSGJPdnMtR3ctMlJhSkdRQnNVTF9KcE16TjI2Mjd3UGJpRTdEdVBKeGhGbGNiMEpGbXFrTHZjUEVRNUt4NjB6aV9hNnRJX2E0MUo1U0o4aHR6aHlIbzRnOWk4WDlfX2llbzdiQUdkaVh1TXY4OUpGZVpsbm1udWJMZE4xYkVtazkzVg?oc=5",
    "data": "2026-09-10T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -618,7 +722,7 @@
    "resumo": "Pedro e Samuel Lino, do Flamengo, comemoram convocação à Seleção Brasileira É quase impossível olhar para a temporada do Flamengo sem lembrar de Samuel Lino. Principal jogador da Era Leonardo Jardim, o atacante se desta…"
   },
   {
-   "titulo": "Del Valle: por que o rival do Flamengo assusta e preocupa",
+   "titulo": "Análise: por que o Independiente del Valle é perigoso e onde o Flamengo pode atacar",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVG9UamNKMEpBa21jTWNQNGNRbGxWLU9Hc3U5dTM4V3dzbnM5RXcxOVFOUUdqWVI4QlJtZHNqMDhCaW9tYWxSblJiV3Q3aVNKWDZCT1Q4TnZkMWZzejcwZHhrWFlMOXUzQVRCVkZpWHNraWxxVHhvTTB0LWFRcDVpVVBZN2hkYTB2LUJzNWF0Z2NPSGFQWUVfUzNmaVNlYldmcGFIdVJfM2JpaHAyenhzTDJmRkgzSmRPV0pwLVdR?oc=5",
    "data": "2026-09-10T09:00:00+00:00",
    "fonte": "lance",
@@ -741,14 +845,6 @@
    "titulo": "Boto comemora convocações de Lino e Pedro, mas diz que 'para o Flamengo às vezes não é tão bom': 'Viagens desgastantes'",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSzlUNjQ0VjZieDVLdnZfZkc5MF9mVUdaVFBBamZYOTJoQXRLODN2NEpKZXBTaUlvYzN3bTZEQldMVkVCUFBKQzhtN2hKUGE3MUZsZ1VFQ1pxY3JQMUI5dWs2cXlMWmR6bGRZcnRVNi1BNzRPcDhBV0piUDNlMTVwdE1mc25aamlhSjFfU1NmamVCRDNRNlAzQTBYOWxCejdZbl9CTTNuRU1idklqUWJ4Y2g5Sm5zOExGZUxYa1kyY1ZsUFlWR2RVUUFwM0tUeEd4UXZ3OFN5bFg1Z29iVjVncjRyWjBnd2F3RURNNTl1dWFpUWdnaWZqMGhyb2k1dw?oc=5",
    "data": "2026-09-09T20:21:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "'Não é tão bom para o Flamengo': Boto fala sobre convocações de Pedro e Samuel Lino para a Seleção Brasileira",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NalJReHFaVWdjMkVLM0cwMGRSX1BOR2gxeFJEb3dpZVhhOThvbGR0emk1SGhOYU9hMFVCOGlkTjduMkZJNEkyQ19TeDBQQzRaSElqZzc4ZWlxQmM0YUE?oc=5",
-   "data": "2026-09-09T20:01:37+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -994,14 +1090,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Cebolinha de saída do Flamengo? José Boto fala sobre futuro do jogador e se clube recebeu proposta do Santos",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JZXU4blBNb2g5MkZLQTY0aHV0OTRMZTZmNXZ3bkJEOEthUVZTTVdxaUx4ZmZvVEUtSC1EbWd0Q1NtTUdBMDRVb0RUU1pQZGt6dUtaYjZRSUg1aXA4MUE?oc=5",
-   "data": "2026-09-08T21:33:14+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Boto diz que Cebolinha 'se excluiu do Flamengo', responde sobre Santos e revela condições para negociar atacante",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbWFXazZPY19ya1hDS01FdTJJalBoWmFQaW8zNUpmTUU5dzJva01GcUZDSGlfOGhIUjd3OTY1RE5HMFM0UTdRUEREVzJiaXlfYkhlNjVCLWF4bUs4RjJETHFTWG9nVExVRHhxRkNjN3BQUlhhQ2JNSGw2NFhtci00N3RUSGlpd3RzSnNSc0hfMjZZOF9JdVB5UWlnbklyX19sMi1ORmVPNHQ1akhXOHFuLUltZjlSa2djWlNiUnFSVDh6b2F3MTVGMTBabm5TZlk0U1pTYkpxYTJ4R1FPZWNtQS1Ib2l3a0tlMXY3b0JTYlQ2MzVB?oc=5",
    "data": "2026-09-08T21:11:00+00:00",
@@ -1037,14 +1125,6 @@
    "titulo": "Melhor Gabigol desde o Flamengo? Jailson Vilas Boas analisa momento do camisa 9 do Santos; VEJA",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11MHZHb0JUMTBtaXJBd0tadExLUlRJa1l4dzB0WXdpbDdyOThxTHVfSzlhUUhTMVQtU29MMU9US3dERFRHb0lCbmU2VHpnX1I5cUdWb0FROWRMTnh2aFE?oc=5",
    "data": "2026-09-08T20:18:12+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Bom negócio para o Santos? Veja lances de Everton Cebolinha, quecom a camisa do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Vbmhwblc4VXRLTVh1c0VQeWQtTEFBM0F4d3M2eEtsM0VPaWNKVHhsQ3p6RXlyTUk1UDl5aDNlb1ZnQkM1OWZXQTZpcDc4Y1ctOHE5MlZSNEFsbkRTamc?oc=5",
-   "data": "2026-09-08T20:14:32+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -1152,86 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Cruzeiro 3 x 1 Athletico-PR | Melhores momentos | 26ª rodada | Brasileirão 2026 O Cruzeiro retomou a liderança da classificação do returno ao derrotar em casa o Athletico-PR por 3 a 1, com aproveitamento de 71% dos pont…"
-  },
-  {
-   "titulo": "Indicados da Bola de Ouro 2026: Flamengo concorre a melhor clube do mundo",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkQwVXhBajdzcG4zUmhpdFdCek9CU2lVVUZJUEQyb2ZNQ1RUbVhxX0RfXzJGNXF3RnBiUDBEb1NkSG56X2JRLXVGZnN5cWs1MTBWYkEzeG9ibGt3R0FFVTZ3Y3dUcC1oUXlkdGZxQU5JdHZhNjczYU1nbXpleGdFb3h4QUg4UTlNc3o1eGxWTFliRHowWkpaWkIyQzNPVGE0VkluMnE0VXFpZWhsU1dsNUVqdndxZXltamNmRmR4YzNzUEnSAd4BQVVfeXFMT09UVllpa3BuQ0ZkSzZoV08tVDEzWkhDZ1pDVzZ2YWIzN0ZuMlY5SXBtclNEUm14SDBQZF90bW5RWW9IYUk1ZV9tNDlVN3JLc0NMdlF3UmNoNG50eU5uWURnQXlUSVhKd0huTURDZlBCU3FITENHY0E0Xy14cnBpd3YybGl2d0xIOC0yN3NvWGI3bmJHQUlXanpsczRtOGoxejJ0c3RtWkVnUE5tY19yT3c2alFRMXItYk5xRnZrYmJndmptaDB3WU00YkpESFRNb3NhSFpXU0lJNlB6NzJ3?oc=5",
-   "data": "2026-09-08T14:03:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Clube russo faz proposta por Carrascal, e Flamengo toma decisão sobre futuro",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ3ppaFd0eXh0a0ZnWUNkOF91TWhZNnVJNEdESVgtY3lSVkhmdk9Yd1NtU1JtZ3FWdmJEQWJrYlF2OTVQZlA4aGhEMzhhWHFVRkpfelp5NmxpSHo5ODdWYlc3WFpYcWtoVzFQczBibzdmazh4c05JampvTWVnTGl1SnZfQlBMSjlEQUduWFl1ZnNWdW9Jc2xWalpPd201Q1EwSU1JcXU1S09PS1o5NGxjZ1hMbmNUUmFEOU1PTU9wLVM4eDNBYWJpNkhjMVRSUVR0dUhR?oc=5",
-   "data": "2026-09-08T12:57:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo concorre ao título de melhor clube do ano no Bola de Ouro 2026",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOEplR1FxOHQ3SGVnY283ZkNuSWl2VVNycTdfOURjTjNkZnhCcVJ1cjByRndRV2F6VjJQNDloNWtnWnlkSElKUllzZGtOcXo0N0c5cTh2QlE1eU11TG5qQl9KS19nTGdLM3ZmY0tOTGp4dHd5dG1xNFowRHh5cmZoaFZ0WFNYYmlIVUJOR0lxNlIwa2VaU3FhektyOHJad29pRFh0WUZSU3JZZEZ6ZmZqU2doZHpjWjVia3V4MUxxM0VNbWlNbEpndHdjR1U2QnJzeUwxMWR5UjV2Zw?oc=5",
-   "data": "2026-09-08T12:49:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "'Palmeiras vai ter que melhorar para acompanhar o Flamengo', diz Arnaldo",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemhaVDRtVWlNTjkwdHhHZHgtek8tNmJudFV3U3lyUFNyZEN5emcycTlUNkJta0F1Y3dnUjFYdG5weXJVcl90M3JGdzdTTllyUmNzUzFCUFRvMmFQUnVaU2g4VFBtb3gtcms5SnhoRUpNZ0FKVTFTb2o5ZC1wRWcyRVYwdF91eDFoLVNUNTRqand1NlJDZVdxTE5fR01sU3VwRkxKY1MzU0hsejJjSVExUmM3N3JOTGpFTHlKYndlRi1ZVDV6TmFId2FVT2lGbmZkQmZZeGJwWlA?oc=5",
-   "data": "2026-09-08T12:45:24+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Grêmio e clube russo disputam Everton Cebolinha, do Flamengo, na reta final do mercado",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRzRBeGVNcnNYaTQtckV1SDFTUVo5TkFNUDJoUFBwU1lndWN4cEJpSUFsT2VtMXV5ZDhhQmliYnM0UG1mRzc5ZVU1RlAyWWRwT2U4VHRLWDVwck9VeFBJSVdyd0hSYnhrY3FHMEdvVUpvSmdLZU5wN2pycS1qcmo4TjFzTWxMeVdLWjlJSVVyLUZudlVCUVVJRFNRQmYxTXBDWFREckdrdzNLY0lPR0lPQzVFUWZfZGxZRWUyZi0wVk5SYXd1R3Fua3JzLVNfT0tUcnltbkxzWQ?oc=5",
-   "data": "2026-09-08T12:38:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jogadores de Corinthians, Flamengo e Santos estão na pré-lista de Ancelotti",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0R3FiUHVmdFdZN2lyc0pzMjl1WEJweE9SNnF4aDJsR1h3aWExRXRTSHBVSmtwX0g3Um1wNl9ZWWJhV0RNZ3I2UTJJM0RvMTc5YmM5dXVBc1pKVV8tZk9xXzB6SlBOVXc?oc=5",
-   "data": "2026-09-08T12:11:10+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo é indicado a melhor clube do ano na Bola de Ouro; veja concorrentes",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNekw0MmZvNUJyQjVVbXg5S2trMnlfSURNYmlmZXdYM1YySG1QZXdoYXB1UUlxdDVmcDc5Wkl4R0xCdm5OSWJyVGVFOTdtLWc0X3Zfb3QzM0hDVUZrV2t1eUNEY3hHSk9SbzNSUV9JTzZ2cDZ6SUs4dWp1V0c5N0M2MVRJbzhjdzIwVTZPQ0daOG1kQkwzMy1SOG5SVDNXZjZxNGlfYTNmVVFQdzlrby03NF96b1R5SzZZOEd4T0J2OTBQOWtNeXFKNW03Zw?oc=5",
-   "data": "2026-09-08T11:21:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Fla clube do ano e Vozinha melhor goleiro: veja os indicados à Bola de Ouro",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbThacGRKZnZBZW5QdEMxNFhiOVlZT0N4Rk5BUDNkVG93ZmY3RDZuWTh2bmllQlpjeU1LUE1CQnllY05GUlBscmVnY1FCbVdsY0dSSmJja1ZleHM0VTNEc3BXZFRXd3pVTG9zbW9ublNxQk11Qi1RSm45WmtnRkJydkpGYlVfaWhlaVN6c3NTcnJlSEFEbUsyMUJR?oc=5",
-   "data": "2026-09-08T11:07:48+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Quem gastou mais? Investimento em reforços do Flamengo é 23% maior que do Palmeiras desde 2020",
-   "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/08/quem-gastou-mais-investimento-em-reforcos-do-flamengo-e-23percent-maior-que-do-palmeiras-desde-2020.ghtml",
-   "data": "2026-09-08T11:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja a entrevista coletiva de Abel Ferreira após o empate do Palmeiras com o Botafogo Quem tem mais poder de investimento: Flamengo ou Palmeiras? A resposta está nos números e eles dão razão a Abel Ferreira. Desde 2020,…"
-  },
-  {
-   "titulo": "Rota das campanhas de título de Libertadores, Equador volta ao caminho do Flamengo com desafios",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/08/rota-das-campanhas-de-titulo-de-libertadores-equador-volta-ao-caminho-do-flamengo-com-desafios.ghtml",
-   "data": "2026-09-08T11:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Voz do Setorista: informações da chegada do Flamengo ao Equador O Equador fez parte de três dos quatro títulos do Flamengo na Libertadores e entra novamente na rota da equipe nesta quinta-feira. O confronto contra o Ind…"
   }
  ]
 }
