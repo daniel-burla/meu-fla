@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-15T07:37:45.321424+00:00",
+ "atualizadoEm": "2026-09-15T13:27:14.009613+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 53
+   "itens": 57
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,104 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 59
+   "itens": 56
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 92
+   "itens": 91
   }
  ],
  "itens": [
+  {
+   "titulo": "Alvo de polêmica no Chile, Pulgar desabafa em post nas redes sociais",
+   "link": "https://colunadofla.com/2026/09/alvo-de-polemica-no-chile-pulgar-desabafa-em-post-nas-redes-sociais/",
+   "data": "2026-09-15T13:14:09+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Volante do Flamengo negou desgaste com o técnico Nicolás Córdova e defendeu mais espaço para os jovens da equipe chilena Diferentes versões circularam nos últimos tempos sobre um possível desgaste de Erick Pulgar com a…"
+  },
+  {
+   "titulo": "Renovação de Danilo com o Flamengo não tira convite para cargo na Seleção com Ancelotti",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT09ERjlrVmdjckw0Qjg4dng0d3hCaFZ2OEtabktCYVJabDBqWTRtaHJWUDJCLWMycnFVaEZidS1aNXd6bDctSmF3VGlfbWpJQ05YZ0xBcWRxb2ZHZVNuN3ZLQzdWRTc3R2FtbHBwWkRwUlRfSlNITnA2eHZQeFNiZXFjb1QtOWRMSE9Qd1RFVUJoTTN0clFwQ1VwcmpJYk5mazhyZFQ3NVpHS2FtaXJvczN0TUhEano1MjJmUHlFcWN2UmRTNGJseVZ2U0F3WmY3aWowVWJn?oc=5",
+   "data": "2026-09-15T12:35:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Guerrero diz à Justiça que Flamengo quer 'vingança', e clube faz acordo para encerrar briga",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMmlISzE1b1U2Zy1ta04zcUZSbUdxNVgwc0RJRkh5Q2tGb1RJN1BHZFdHR2ZYZ1prSUxURmRGN1dQOEQ1Z3ExSDZZUC1rMy16dUpaZUVUS3lwdk85SEV6T2J0V3p0a1V5NGdwSDhGYVNZWXNuOVpHYkczaUQ5NEx5VGotVVlCZ0dXQjNhaDQ4MWpxLXliaEFjTTNmb19DS3lOWU05dzZPSkxFZTF2NHRJUkNxM29TU2tLMWNWblFUcU05MWNFUHg3VF9KM1hYYVR5bWhB?oc=5",
+   "data": "2026-09-15T12:14:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Leonardo Jardim intensifica preparação do Flamengo para decisão contra o Independiente del Valle",
+   "link": "https://colunadofla.com/2026/09/leonardo-jardim-intensifica-preparacao-do-flamengo-para-decisao-contra-o-independiente-del-valle/",
+   "data": "2026-09-15T12:09:58+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Elenco rubro-negro segue de olho no confronto decisivo pelas quartas de final da Libertadores Na segunda-feira (14), o elenco do Flamengo se reapresentou no Ninho do Urubu, depois de vencer o Corinthians por 2 a 1, no d…"
+  },
+  {
+   "titulo": "Flamengo x Independiente del Valle ao vivo hoje 17/09: siga placar agora | Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGdHUmdwcWRVVkRPUDZocDRIcmZvdW53YmhOTXU3c2czOG9FUVJUYjE4MU9OSS16VU9sbnFMdWM4bEVBdjYxNjhVVjNmczBfTF9KOTV3S0NqajE5WW83ejY3eHl3MmhvVDdhdFNQcWx1a2FCVTlXTXNTX3ZoWjJjRTIxSk1aTkFlajJrdURKdWdFQVdaWEtFWWRBTlFDS3VVZHh5UUVUaw?oc=5",
+   "data": "2026-09-15T12:06:33+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Felipe Melo aponta falta de seriedade em Pedro após vitória do Flamengo e afirma: “Não é insubstituível”",
+   "link": "https://colunadofla.com/2026/09/felipe-melo-aponta-falta-de-seriedade-em-pedro-apos-vitoria-do-flamengo-e-afirma-nao-e-insubstituivel/",
+   "data": "2026-09-15T12:06:12+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Comentarista apontou “falta de seriedade” do centroavante em lance aos 21 minutos do primeiro tempo, no Maracanã O Flamengo venceu o Corinthians por 2 a 1, no último domingo (13), pela 27ª rodada do Brasileirão. Apesar…"
+  },
+  {
+   "titulo": "Jogo da Libertadores hoje: Fluminense x Platense decidem 1ª vaga na semifinal nesta terça",
+   "link": "https://colunadofla.com/2026/09/jogo-da-libertadores-hoje-fluminense-x-platense-decidem-1a-vaga-na-semifinal-nesta-terca/",
+   "data": "2026-09-15T11:35:39+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Jogo acontece pela pela volta das quartas de final da Libertadores nesta terça-feira (15) A bola vai rolar para mais um jogo importante da Copa Libertadores da América. Nesta terça-feira (15), dois times entram em campo…"
+  },
+  {
+   "titulo": "Conselho do Flamengo vota proposta de gestão profissional nesta terça; veja mudanças",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEw5ZFItQnhLTV8tY1JlSGZxWkxNVGhjOFZ1UzUycjl2WGU2SDh1a1RwNkRWZHYzNm5Ha195Wjh4bUZEckJnTlZnOVVhWkxYdUVuRjZkam5kQVo3dzQ5ZjVGTkFBbVNxZjJfZG1aWWpmTndDcUVTR1F5UUpGRTJ4bFU5Vk5ZTnVPNXdOQUdIRnhiYlhxSDhGRHRHZHZiZThXcWNIOEpjUndBUWJyQ25ZOTJNdFNoeDVUd1dPeUNn?oc=5",
+   "data": "2026-09-15T10:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Danilo manda recado sobre renovação no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1Y3eXhaTUhNbWI1SE1pcWd6bnM3aXNXMjJlZTFTRUdYaF96YzdLVnJiMmJZd09TOW5fYnV0elVZanhad0l4N1RqV2Z6cnpScGNEWmFxaGhEdmoxYnhQMjEweW84V21zWFhtU1VvaUFjYWRrRFZhY0c5VFRZOE9ycGcwYV80Y1N5OE9PbnMwejVzOTBlMzBtSVl1VlVyS21JV1Fsekk1eHhSOW8tS0dhbFAwUE9jYTloYjBMcQ?oc=5",
+   "data": "2026-09-15T09:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Entenda como foi a recuperação de Alex Sandro, que volta ao Flamengo em meio à disputa com Ayrton Lucas",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/15/entenda-como-foi-a-recuperacao-de-alex-sandro-que-volta-ao-flamengo-em-meio-a-disputa-com-ayrton-lucas.ghtml",
+   "data": "2026-09-15T09:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Veja as reações do time do Flamengo ao gol de Bruno Henrique contra o Corinthians O Flamengo recebeu outra boa notícia além da vitória por 2 a 1 sobre o Corinthians, no domingo, no Maracanã. Fora desde o dia 29 de julho…"
+  },
+  {
+   "titulo": "Joaquín Freitas mostra credenciais e ganha aval no Flamengo: 'Entendeu como funciona'",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTYzejFNVXY5V01KWXd3ak45T1pTQVltZzVLSmV3bHdVbUszUG1FZ1lueV80a3NFOUR3bUFpSE0wdzQ5TXZJeDhXWVA3cHBlRDROcUZPTHNpMER2YVRfaDJGcVJHX0wxYTlsOVFSdDdoZnlHMkZIWEVUTVc4bFJHUTMwS2VlbVI1YVk4SmhfTmRCeGxCQWJLSGxhTDFfTXUwQ2pucWRiVkg3YkxmSjFJUEdqR3hhaTM5ZGdRU1BR?oc=5",
+   "data": "2026-09-15T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Flamengo vira a chave para a Libertadores e defende vantagem que não é revertida há 18 anos",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/15/flamengo-vira-a-chave-para-a-libertadores-e-defende-vantagem-que-nao-e-revertida-ha-18-anos.ghtml",
@@ -42,19 +130,11 @@
    "resumo": "Senhor Libertadores! Bruno Henrique decide e Flamengo mantém a defesa zerada Após vencer o Corinthians e retomar a liderança do Brasileirão, o Flamengo vira a chave para a Conmebol Libertadores. Nesta quinta-feira, enca…"
   },
   {
-   "titulo": "Elias compara Flamengo x Corinthians a Real Madrid x Barcelona e questiona Diniz: 'Não faria isso'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxMU1tZXhnQWNqSXIyVkNvTkc4Y2l6S3BiUV9ZamNrbnlyOHpMWGZWRDkwcVRTT296SDNUVEtOQkFld0VXaTE3UFo0MGQ3MkNNeXQwcE9DTHlpYnBaZkE?oc=5",
-   "data": "2026-09-15T03:35:57+00:00",
+   "titulo": "Renê deixa fase 'egoísta' no passado e vê Flu capaz de desafiar Palmeiras e Flamengo na Libertadores: 'Não deve nada'",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTkhJNTJ6UDU0c3RqeUxhNTZHc0xUYkwwMW9zSm1URGdPcHFjd1A1SndMVkpZWlNQSDFuTEpRTUppM25YQm1qNUktT1BlVGdQcnU4OXBFU1RUOU1tLTh5LUk5ZGcyWmpvRHRwdWN1dE52SXhha25GTHV0d0xNWXB0bkRPVnZwbzVHOWlCalluanhsSURIOWFVMEprTEVfSGhzOWQ4MHpKNFFxVEJqRXpTdDRCZDJjb2hxVnY2X1RlX1dPemFzdGkwZUIySHo0Wm5PX2xGcE4wdVUxVTJyUVhvMkZVOVFPcFNvZmZYRmEwNEQ5czd1c2FoaQ?oc=5",
+   "data": "2026-09-15T06:00:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Independiente del Valle ao vivo hoje 17/09: siga placar agora | Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGdHUmdwcWRVVkRPUDZocDRIcmZvdW53YmhOTXU3c2czOG9FUVJUYjE4MU9OSS16VU9sbnFMdWM4bEVBdjYxNjhVVjNmczBfTF9KOTV3S0NqajE5WW83ejY3eHl3MmhvVDdhdFNQcWx1a2FCVTlXTXNTX3ZoWjJjRTIxSk1aTkFlajJrdURKdWdFQVdaWEtFWWRBTlFDS3VVZHh5UUVUaw?oc=5",
-   "data": "2026-09-15T03:06:27+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -90,14 +170,6 @@
    "resumo": "Zagueiro de 35 anos prioriza permanência no clube e já projeta função no futebol rubro-negro após pendurar as chuteiras Danilo decidiu continuar no Flamengo e recusou, neste momento, um convite da Confederação Brasileir…"
   },
   {
-   "titulo": "Flamengo “10 a 1”, crítica à Data FIFA e retorno de Alex Sandro: as falas de Jardim após vitória sobre o Corinthians",
-   "link": "https://colunadofla.com/2026/09/flamengo-10-a-1-critica-a-data-fifa-e-retorno-de-alex-sandro-as-falas-de-jardim-apos-vitoria-sobre-o-corinthians/",
-   "data": "2026-09-15T00:50:58+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Confira todas as aspas de Leonardo Jardim após jogo do Flamengo x Corinthians O Flamengo segue líder do Brasileirão. No domingo (13), o Rubro-Negro venceu o Corinthians por 2 a 1. Após o duelo, o técnico Leonardo Jardim…"
-  },
-  {
    "titulo": "Ídolo do Flamengo, Gabigol provoca Vasco em anúncio de Coutinho no Santos",
    "link": "https://colunadofla.com/2026/09/idolo-do-flamengo-gabigol-provoca-vasco-em-anuncio-de-coutinho-no-santos/",
    "data": "2026-09-15T00:45:57+00:00",
@@ -120,14 +192,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Bap compareceu em despedida de Paulo Angioni Faleceu, no último sábado (12), Paulo Angioni, diretor de futebol do Fluminense com passagem pelo Flamengo. O velório aconteceu no domingo (13), na sede do clube tricolor, co…"
-  },
-  {
-   "titulo": "Ex-Flamengo, Felipe Teresa se posiciona após ser afastado do Palmeiras por acusações de agressão a ex-mulher",
-   "link": "https://colunadofla.com/2026/09/ex-flamengo-felipe-teresa-se-posiciona-apos-ser-afastado-do-palmeiras-por-acusacoes-de-agressao-a-ex-mulher/",
-   "data": "2026-09-14T23:45:10+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "ogador publicou nota em rede social após vídeo de Marcelle Barbosa relatando agressões durante viagem em família com o filho do casal Felipe Teresa publicou uma nota no Instagram para afirmar que as acusações de violênc…"
   },
   {
    "titulo": "Mattos: Jardim tem que colocar De la Cruz para jogar no Flamengo",
@@ -154,12 +218,12 @@
    "resumo": "Viralizou: em Alagoas, pai surpreende filho com passagem para assistir a jogo do Flamengo Torcedor fanático do Flamengo, Felipe Azevedo aprontou uma surpresa para o filho Bernardo na semana passada. Ele disse que iria v…"
   },
   {
-   "titulo": "Lesão de Evertton Araújo: veja quando volante do Flamengo deve voltar a jogar",
-   "link": "https://colunadofla.com/2026/09/lesao-evertton-araujo/",
-   "data": "2026-09-14T22:25:31+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Evertton Araújo tem lesão considerada grave Sem Pulgar e Lucas Paquetá suspensos para o próximo jogo do Brasileirão, contra o Bragantino, um possível substituto também não terá condições de atuar. Isso porque, Evertton…"
+   "titulo": "Renê vê Fluminense capaz de enfrentar Palmeiras e Flamengo de igual para igual na Libertadores: 'Podemos vencer'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sVTNvczB1WDQwTGs4aTNiOTNqWXpubDlOb24xTDI1ZUozMGJ0V093QnpSN3k5Y2hublZ1ckpORW1qaG5TcHc4RDFYbHdBOGQwRUtYRTFaalFUT2JZUkE?oc=5",
+   "data": "2026-09-14T22:18:14+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Jogador emprestado pelo Flamengo sofre trauma cranioencefálico",
@@ -176,14 +240,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Viña reclama de demora entre Flamengo e River Plate para acerto com o Cruzeiro",
-   "link": "https://colunadofla.com/2026/09/vina-reclama-de-demora-entre-flamengo-e-river-plate-para-acerto-com-o-cruzeiro/",
-   "data": "2026-09-14T21:50:38+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Uruguaio se apresentou ao Cruzeiro após passagem frustrada pelo clube argentino e comentou o acerto entre os times Matías Viña se apresentou ao Cruzeiro após uma passagem frustrada pelo River Plate (ARG). Assim, o urugu…"
   },
   {
    "titulo": "Flamengo e Palmeiras provam força, e Corinthians aposta tudo na Libertadores",
@@ -218,7 +274,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Ex-Flamengo é convocado para seleção pela primeira vez",
+   "titulo": "Ex-Flamengo, Yuri César é convocado para seleção asiática",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVo2TTJtRHBoRXNpWGlVM1gzNlZVVUJieW40a242VkEzdV9mcldlOGF1ZGJua0RVSjBtcS1FVVBRM0FQeExZZkV3Ykh0ckpNVndpM1I1eDhWWi1STG5WdklfR3FkRHAtV1J5STVwVjFuM3RPVzdQalhzWEJkNnZKb0ZxdU80V2ZsODhRS3FSYm5xUmtQMDg0Q1Q3QVpCTEd1M2k5S1RPRHdaLXhk?oc=5",
    "data": "2026-09-14T19:55:00+00:00",
    "fonte": "lance",
@@ -354,16 +410,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Rodrigo Mattos: Flamengo transforma vitória 'tranquila' em épica e repete rumo de 2025",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYWNZNjZaUFk3M3I3VEJ2OHZlaHZYUWVPUXJ1S0xzTzRLaVpIZk85MjVNbi1jSUhNZll5WWdVUjdHdHdacm5mR2pKSnpaaml5WXNJa01fYXhjb0p2LXdNQnJPVHdNUm0xV3hQd0UwOEhmYTZXSEI1OTFHZi1RTEJWV1hXNEhWZFJYMDlYd1pTUEYzTWpyMVVweWRHanpJOVFsa090TjJMTV9ENGFzT0ozVUtWcEFEOGpFNHA0YzdrRVdvUHEtZ2hlb3JUMUlwN0dvcTJLd1RDQWYwaG50bHc?oc=5",
+   "titulo": "Bruno Henrique vive temporada mais decisiva no Flamengo desde a grave lesão",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSkNMRUNUQlZzSnJ5em5NOExhNmY1NlhFMnFHcktmM2pscnAtSC1PUll0SUNONnMyVTcxMXh6R24taThKQ3p0Y0ttM2lYZXozWkt2c20taUpUeVVYODBUeVhQOEJKX2hqaVg1LXBFeHhNazN1anVtdG9XMnJyZ1V0TU5RNURRWFlwOHJtbmdwVi1mZy1GUlJkRUkzRWVWY2x2S0h1bmtaMWlld09sSVljVGJvTGZBNUU2UG9CeEM5TmtqUmYyZmxwaElWMGZWYkRsMkd0b25temE4Y09uc0FN?oc=5",
    "data": "2026-09-14T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Bruno Henrique vive temporada mais decisiva no Flamengo desde a grave lesão",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSkNMRUNUQlZzSnJ5em5NOExhNmY1NlhFMnFHcktmM2pscnAtSC1PUll0SUNONnMyVTcxMXh6R24taThKQ3p0Y0ttM2lYZXozWkt2c20taUpUeVVYODBUeVhQOEJKX2hqaVg1LXBFeHhNazN1anVtdG9XMnJyZ1V0TU5RNURRWFlwOHJtbmdwVi1mZy1GUlJkRUkzRWVWY2x2S0h1bmtaMWlld09sSVljVGJvTGZBNUU2UG9CeEM5TmtqUmYyZmxwaElWMGZWYkRsMkd0b25temE4Y09uc0FN?oc=5",
+   "titulo": "Rodrigo Mattos: Flamengo transforma vitória 'tranquila' em épica e repete rumo de 2025",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYWNZNjZaUFk3M3I3VEJ2OHZlaHZYUWVPUXJ1S0xzTzRLaVpIZk85MjVNbi1jSUhNZll5WWdVUjdHdHdacm5mR2pKSnpaaml5WXNJa01fYXhjb0p2LXdNQnJPVHdNUm0xV3hQd0UwOEhmYTZXSEI1OTFHZi1RTEJWV1hXNEhWZFJYMDlYd1pTUEYzTWpyMVVweWRHanpJOVFsa090TjJMTV9ENGFzT0ozVUtWcEFEOGpFNHA0YzdrRVdvUHEtZ2hlb3JUMUlwN0dvcTJLd1RDQWYwaG50bHc?oc=5",
    "data": "2026-09-14T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -826,14 +882,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Aposta de Diniz contra o Flamengo é observado por Arsenal e Chelsea",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTEl5OTRnbnFKQk9qWW9GSXlIcWJWOWg0dzk3a1hRVHZvSGtmVW1oYWFxQ1haXzM4V1NNeUlNTm5sa2FiaGk0bThKclMtMGxrcXNyeGlLYmNUSGhUZEUydDFWWV9vMXRyVVZEUTZrRHpUVEVWUC1lSnFZS1VOS01LSndrXzdldWZ5LXNsSmxZRXh0RXl3djNwRmUwY1pRcFN6Vk9UUW1zY0NFSGtSalE?oc=5",
-   "data": "2026-09-13T13:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Saudade: Há um ano morria Merica, ex-volante do Flamengo e Bahia",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY0pVOU40WERES0Y4OUtfUmRoNTJ0R1g1NF91a1ZNUlVicU5MbU5fSUhmeTlESzFFVFRrTTFYSkZhaTVlTEFNTHVTb1N4cXRHVHZxaUhLeFp3NVhTWmlBbUFJaGhlQW5RQUE1R0UwY0hQNFZ3Y2ZyWExVdzBJbEVzNEN5cTNteGwyczgtbTNMcVBnMDdCZEhxOFZMXzI3eE9jV09oS1NfQQ?oc=5",
    "data": "2026-09-13T13:00:00+00:00",
@@ -981,14 +1029,6 @@
    "titulo": "Veja a provável escalação do Corinthians para enfrentar o Flamengo",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVhja0FDRk9iTlZaaDcydVBjaWdQR0VtbExDemxvUzQ3X1FTNzFNcDdkOHVzUDJCNDFXXzhMTUc5cnQ5NDhDUm9iQ2g5TTlDNDJ0bjZYSDlZTHcwaFVyVmhYc3RRdlNZd1dIZkU5Ujh6MmFFd3p1NHJXMFlXS05wYjA3OENsQzJsQTRnZktqQnV4Z3VwYXI2eDhENmlzbTFrd0lSNmVIcFcxYkwt?oc=5",
    "data": "2026-09-12T19:03:52+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "PAQUETÁ E A MÍSTICA CAMISA 11 DO FLAMENGO!",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPSlBmdHJzQnBfWHpKSFllQm5IMzUySWVvZjh1aEE4Z1dIUWI0WDBDZ0xPd3FEdXZfM0ppM1F4Qm1XOTdSSkZmajJGVGFXdzhkN1FrRUU5MjkzcVRWbkszdnFGV1RiZFVJd2N3WXhSbjJoOFhMd21wM29JMHRNQQ?oc=5",
-   "data": "2026-09-12T18:33:05+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -1192,46 +1232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Palpites e dicas para Flamengo x Corinthians pelo Brasileirão",
-   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/09/11/palpites-e-dicas-para-flamengo-x-corinthians-pelo-brasileirao.ghtml",
-   "data": "2026-09-11T21:05:42+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Corinthians: informações e palpite para o jogo O Flamengo é muito dominante quando recebe o Corinthians pelo Brasileirão. Desde 2006, foram 13 vitórias do Flamengo, três empates e três vitórias do Corinthians…"
-  },
-  {
-   "titulo": "Flamengo x Corinthians Palpite – Análise e notícias (13/09)",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMGw4WDFOV202X1oxRk85YmRkbzlfNmFYSXRKYVpWbHFNcWNDaFpEa283WldEYUFIbnVTMjZzVnplXzM0M25oSGVjTjRzVTdnUW05UnFwWGRsYkxWUncxdkJ2OUVtcVd2ZUlUUGVzOGRYRFBwcnl1XzZ5WDh1cWxOSXEzdjRyc3g2ZU83bFZyTFhSNmc?oc=5",
-   "data": "2026-09-11T21:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Cruzeiro anuncia Matías Viña, que pertence ao Flamengo; veja valores do negócio",
-   "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/09/11/cruzeiro-anuncia-contratacao-de-vina.ghtml",
-   "data": "2026-09-11T20:49:05+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Os detalhes do acerto de Viña com o Cruzeiro O Cruzeiro anunciou a contratação do lateral-esquerdo Matías Viña, que pertence ao Flamengo. O vínculo será por empréstimo até o fim de 2026, com opção de compra fixada em US…"
-  },
-  {
-   "titulo": "Flamengo x São Paulo: onde assistir, horário e prováveis escalações pelo Brasileirão Feminino",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTkxnS09XQi1odVpRcjdyNzVvdTJ2bVIyODZsMUN4MmxlTDAyUFJmUlhmNEkza1c3RHJWNENGS0RYd25mT01WNkc3dTd6LXZSQzNkRnVNWFk5Vm5VMGVDZFhLWC0zODVTUnIzR0hDMTM0aHBFS0lzV21tdFRLNVVyZkJvOHZ2U2FuX0ZaRlEtSGNIRHhnbll1WGx6OXE1VkZSUTdjNThJOGJMLUFCQ043M3BGd011TUlqdktMWjhQYmxjMlZyT2pablNBT3Q3S05j?oc=5",
-   "data": "2026-09-11T20:32:11+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Escalação do Flamengo: Jardim avalia poupar jogadores contra o Corinthians devido ao desgaste em Quito",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/11/escalacao-do-flamengo-jardim-avalia-uso-de-time-misto-contra-o-corinthians.ghtml",
-   "data": "2026-09-11T20:00:02+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo abre boa vantagem contra o Independiente Del Valle O Flamengo desembarcou no Rio de Janeiro na manhã desta sexta-feira após vencer o Independiente del Valle por 2 a 0, na quinta, em Quito, pelas quartas de fina…"
   }
  ]
 }
