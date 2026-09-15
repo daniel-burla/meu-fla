@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-15T21:14:40.329203+00:00",
+ "atualizadoEm": "2026-09-15T23:39:25.165949+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 50
+   "itens": 51
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 61
+   "itens": 60
   },
   {
    "id": "uol",
@@ -34,20 +34,76 @@
  ],
  "itens": [
   {
+   "titulo": "Flamengo lança coleção com Jeremias pelos 90 anos de Mauricio de Sousa",
+   "link": "https://colunadofla.com/2026/09/flamengo-lanca-colecao-com-jeremias-pelos-90-anos-de-mauricio-de-sousa/",
+   "data": "2026-09-15T23:28:57+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Personagem, que já faz parte da torcida rubro-negra, aparece nas cores e nos símbolos do clube em itens que vão de camisetas a chaveiros O Flamengo se une às homenagens pelos 90 anos de Mauricio de Sousa com uma coleção…"
+  },
+  {
+   "titulo": "Libertadores: jogador do Del Valle manda recado e crê em virada contra o Flamengo no Maracanã",
+   "link": "https://colunadofla.com/2026/09/libertadores-jogador-do-del-valle-manda-recado-e-cre-em-virada-contra-o-flamengo-no-maracana/",
+   "data": "2026-09-15T23:04:35+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Mateo Carabajal falou sobre o confronto de volta das quartas de final da Libertadores, marcado para o Maracanã A delegação do Independiente del Valle (EQU) já embarcou para o Rio de Janeiro para o confronto com o Flamen…"
+  },
+  {
+   "titulo": "Flamengo x Del Valle: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRUlYRUJMTEtLOFpuQVpkb1ZBcEhiN0N0TGI2VGpYVWFRVVBvaUJGdnlyYjdyR1NhNTg3ejVvcEt3OUt1R2VTMVJISnItTGs1WXF0ZGYzTVpMbmVhbHUxaFdzdVJHOHJpV25Ec2N4QktGOU1qY20wa1FUczFuclBIbGJWSkwzVWFudHhwVnJjaXFHckRJa1BjMEZVR2VudGJRS2lkWVRobm1TekJ6R1ZJb21FVjJUMUdHeEIwREt0MmhTTVdNLWh4OFMxT2R1NjVCSmx0VS1ZeUhTOU5ibndMbDgyNXlHeWNvNUJvOTd0ZWhSYTQ0T3N3cEFHUQ?oc=5",
+   "data": "2026-09-15T22:58:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Viña agradece Flamengo e reclama de tratamento em ex-time na chegada ao Cruzeiro: 'É um grande clube, mas...'",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzk4UUdKTTJhZ3A2ZVh5cXQ0WUhDUENzT1RJdDZic0FfQ1FNeGVwa0dNNjMyamdnMkZfQUlxU3FKZ3dkMUV0bDd0R2sxWFphWkswaFJfcWtFWGJfNnJtakZCbzAyOE93OUF4RlVpbUhxeHZGMTdJYk1GVEFEU2hnQU1nblNubncwbXUzSjQzeWFfSS1EdjJEUkZ3Mi1xM05FUjV2M3MyTWhnR1RFQTVwa0xUUXNUcm1YYnJzaFNwLXJYdw?oc=5",
+   "data": "2026-09-15T22:19:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "A atitude de Leonardo Jardim e jogadores com Bruno Henrique após vitória do Flamengo sobre o Corinthians",
+   "link": "https://colunadofla.com/2026/09/a-atitude-de-leonardo-jardim-e-jogadores-com-bruno-henrique-apos-vitoria-do-flamengo-sobre-o-corinthians/",
+   "data": "2026-09-15T22:17:47+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Como foi a comemoração dos jogadores do Flamengo com Bruno Henrique? A vitória do Flamengo sobre o Corinthians, pelo Brasileirão, teve Bruno Henrique como grande protagonista. Dessa forma, o camisa 27 foi bastante feste…"
+  },
+  {
+   "titulo": "De 4 derrotas seguidas a série invicta: a reação do Flamengo no Brasileirão Sub-17",
+   "link": "https://colunadofla.com/2026/09/de-4-derrotas-seguidas-a-serie-invicta-a-reacao-do-flamengo-no-brasileirao-sub-17/",
+   "data": "2026-09-15T22:09:50+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Garotos do Ninho chegam a 13 jogos sem derrota na competição e sobem para o mínimo de sétimo lugar Os crias seguem invictos. Isso porque, o Flamengo venceu o Grêmio por 3 a 1 nesta terça-feira (15), na Gávea, pela 17ª r…"
+  },
+  {
+   "titulo": "Rodrigo Muniz, ex-Flamengo, marca e Fulham elimina West Ham na Copa da Liga Inglesa; VEJA os melhores momentos",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbTJMdnNtNDQzWVJDcW1DZHNLd0FGcWwtM3l4TkF3Mm1KQ3BsQVFLRTFNeWR2cExfQUhjWHdEenlXNXgwYnJMeXdySW5TOUJiYmVLVU9yLVpSMmtBbFE?oc=5",
+   "data": "2026-09-15T21:38:30+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Independiente del Valle Palpite – Análise e notícias (17/09)",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW5pMW9BV1lRRE00bjlvRG1BdjRiTDAzY05UZDF6ZTg1RkNBMWNJaE5lZi00eVdmUmh5aVV3RHhMTzMxa3dHbDZHWXJkM3pnS3JDS1R0cXU0WEs4LTFtTDJPVFU3eXNxa0p5c0tra01jMGxTd2VmT0NSLXdFSG1tdE0yZDJkbkF3ZU44UGJnM2Y1NG5TNFZPY0RXdFNmc0VJMXhz?oc=5",
+   "data": "2026-09-15T21:20:19+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Jogador do Corinthians admite “motivação a mais” para jogar contra o Flamengo",
    "link": "https://colunadofla.com/2026/09/jogador-do-corinthians-admite-motivacao-a-mais-para-jogar-contra-o-flamengo/",
    "data": "2026-09-15T21:04:01+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Autor do gol do Corinthians contra o Flamengo, Gui Negão confirmou que encarar o tetra da Libertadores é especial Que todos os times jogam ‘finais de Copa do Mundo’ contra o Flamengo, isso não é novidade. Porém, não é c…"
-  },
-  {
-   "titulo": "Flamengo x Independiente del Valle Palpite – Análise e notícias (17/09)",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW5pMW9BV1lRRE00bjlvRG1BdjRiTDAzY05UZDF6ZTg1RkNBMWNJaE5lZi00eVdmUmh5aVV3RHhMTzMxa3dHbDZHWXJkM3pnS3JDS1R0cXU0WEs4LTFtTDJPVFU3eXNxa0p5c0tra01jMGxTd2VmT0NSLXdFSG1tdE0yZDJkbkF3ZU44UGJnM2Y1NG5TNFZPY0RXdFNmc0VJMXhz?oc=5",
-   "data": "2026-09-15T20:58:01+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Erazo revela o que faltou em passagem pelo Flamengo: “Se tivesse, a história seria diferente”",
@@ -58,36 +114,12 @@
    "resumo": "O que disse Erazo em entrevista ao Coluna do Fla? Por: Rodrigo Lima O equatoriano Frickson Erazo atuou pelo Flamengo na temporada 2014. Dessa forma, durante a passagem por Quito, a reportagem do Coluna do Fla bateu um p…"
   },
   {
-   "titulo": "Rodrigo Muniz, ex-Flamengo, marca gol contra o West Ham na Copa da Liga Inglesa; VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OeGUwSHAwX0NWaG1lcGQxdVhva0RVbmN0amhEeUd2dTl0TUtvUzY0SEtwSW1UdEFBRFhpcDNhODNxTlhnb3VhRDd0RGJKeVZQbzRHSEx1d2FHZ2lLN0E?oc=5",
-   "data": "2026-09-15T20:04:28+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-técnico do Flamengo é anunciado por time de Portugal",
-   "link": "https://colunadofla.com/2026/09/ex-tecnico-do-flamengo-e-anunciado-por-time-de-portugal/",
-   "data": "2026-09-15T19:52:07+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Mario Jorge é o novo técnico da Trofense (POR) Campeão da Libertadores Sub-20 pelo Flamengo em 2024, Mario Jorge é o novo técnico da Trofense, de Portugal. O clube lusitano anunciou o brasileiro nesta terça-feira (15),…"
-  },
-  {
    "titulo": "Danilo Lavieri: O exemplo do Grêmio que faz Flamengo e Palmeiras dispararem ainda mais",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdWlqUTRORHNCQkF2ZGJkUmQzSk9BV2xuZ3dYcXc4Y1JTWnlCZG9tdFFNYU5BODNBMmcxekQxTUpsTUJ0SmlRZk1RTFMtNVJNR1NadGRkVkFwanF0MlpITldSNC1DRG1RRUtJNG4xdXBEUnJWaENKQ0NXc19tczhoaVJOODBLSXMtS1ZhSVhMcGtOX3lKYUhGelZlN3JNM2wzOU45SXhubllxenNTSUd3d3ByWWZLbW9zcEpVQTZyV3JOOXdXQi1wUXBULWktVXItWEpv?oc=5",
    "data": "2026-09-15T19:48:53+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Com Adriano Imperador, Conmebol prepara megaevento no Rio na semana de jogo do Flamengo na Libertadores",
-   "link": "https://colunadofla.com/2026/09/com-adriano-imperador-conmebol-prepara-megaevento-no-rio-na-semana-de-jogo-do-flamengo-na-libertadores/",
-   "data": "2026-09-15T19:45:30+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Como vai ser o evento da Conmebol no Rio de Janeiro? O Rio de Janeiro irá receber um megaevento da Conmebol durante esta semana. Dessa forma, os torcedores poderão usufruir e desfrutar de toda a estrutura montada na Ens…"
   },
   {
    "titulo": "Matías Viña relata descaso do River Plate e agradece apoio do Flamengo antes de ida ao Cruzeiro",
@@ -122,28 +154,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Renê rebate favoritismo e afirma que Fluminense não deve nada ao Flamengo na Libertadores",
-   "link": "https://colunadofla.com/2026/09/rene-rebate-favoritismo-e-afirma-que-fluminense-nao-deve-nada-ao-flamengo-na-libertadores/",
-   "data": "2026-09-15T18:40:25+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Lateral tricolor comentou possível confronto entre os rivais cariocas na decisão da Libertadores A Copa Libertadores da América caminha para a fase final, e uma possível decisão entre Flamengo e Fluminense já movimenta…"
-  },
-  {
    "titulo": "Flamengo encaminha venda de Lorran",
    "link": "https://colunadofla.com/2026/09/flamengo-encaminha-venda-de-lorran/",
    "data": "2026-09-15T18:08:49+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Lorran está perto de ser contratado pelo Sharjah (EAU) A trajetória de Lorran no Flamengo está perto do fim. Nesta terça-feira (15), o Rubro-Negro encaminhou a venda do jovem para o Sharjah, dos Emirados Árabes Unidos.…"
-  },
-  {
-   "titulo": "Flamengo líder isolado e Palmeiras em 4º: como ficaria a tabela do Brasileirão sem erros de arbitragem?",
-   "link": "https://colunadofla.com/2026/09/flamengo-lider-isolado-e-palmeiras-em-4o-como-ficaria-a-tabela-do-brasileirao-sem-erros-de-arbitragem/",
-   "data": "2026-09-15T18:05:58+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Levantamento aponta Flamengo isolado na liderança e troca na zona de rebaixamento entre Botafogo e Vasco Assim como nos últimos anos, Flamengo e Palmeiras disputam o título do Brasileirão. O Rubro-Negro é o líder do cam…"
   },
   {
    "titulo": "Flamengo e Guerrero entram em acordo e encerram disputa judicial que se arrastava há oito anos; veja detalhes",
@@ -1216,22 +1232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x São Paulo no Brasileiro Feminino: onde assistir ao vivo e horário",
-   "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2026/09/12/flamengo-x-sao-paulo-no-brasileiro-feminino-onde-assistir-ao-vivo-e-horario.ghtml",
-   "data": "2026-09-12T07:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x São Paulo: eficiência rubro-negra contra o volume tricolor na semifinal Flamengo e São Paulo se enfrentam neste sábado, às 16h30 (de Brasília), pelo jogo de ida da semifinal do Campeonato Brasileiro Feminino.…"
-  },
-  {
-   "titulo": "Balanço da janela do Flamengo tem interesse em astros, dupla de reforços e polêmica com Plata",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/12/balanco-da-janela-do-flamengo-tem-interesse-em-astros-dupla-de-reforcos-e-polemica-com-plata.ghtml",
-   "data": "2026-09-12T05:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Pé na semi! Flamengo abre boa vantagem sobre o Del Valle em Quito O período de transferências para o mercado brasileiro se encerrou nesta sexta-feira. E, se a janela do Flamengo não foi tão estrelada quanto em anos ante…"
   }
  ]
 }
