@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-15T01:51:42.062501+00:00",
+ "atualizadoEm": "2026-09-15T07:37:45.321424+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 56
+   "itens": 53
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 58
+   "itens": 59
   },
   {
    "id": "uol",
@@ -33,6 +33,54 @@
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo vira a chave para a Libertadores e defende vantagem que não é revertida há 18 anos",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/15/flamengo-vira-a-chave-para-a-libertadores-e-defende-vantagem-que-nao-e-revertida-ha-18-anos.ghtml",
+   "data": "2026-09-15T06:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Senhor Libertadores! Bruno Henrique decide e Flamengo mantém a defesa zerada Após vencer o Corinthians e retomar a liderança do Brasileirão, o Flamengo vira a chave para a Conmebol Libertadores. Nesta quinta-feira, enca…"
+  },
+  {
+   "titulo": "Elias compara Flamengo x Corinthians a Real Madrid x Barcelona e questiona Diniz: 'Não faria isso'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxMU1tZXhnQWNqSXIyVkNvTkc4Y2l6S3BiUV9ZamNrbnlyOHpMWGZWRDkwcVRTT296SDNUVEtOQkFld0VXaTE3UFo0MGQ3MkNNeXQwcE9DTHlpYnBaZkE?oc=5",
+   "data": "2026-09-15T03:35:57+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Independiente del Valle ao vivo hoje 17/09: siga placar agora | Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGdHUmdwcWRVVkRPUDZocDRIcmZvdW53YmhOTXU3c2czOG9FUVJUYjE4MU9OSS16VU9sbnFMdWM4bEVBdjYxNjhVVjNmczBfTF9KOTV3S0NqajE5WW83ejY3eHl3MmhvVDdhdFNQcWx1a2FCVTlXTXNTX3ZoWjJjRTIxSk1aTkFlajJrdURKdWdFQVdaWEtFWWRBTlFDS3VVZHh5UUVUaw?oc=5",
+   "data": "2026-09-15T03:06:27+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ex-Flamengo, Rafael Santos comemora marca de 100 jogos na carreira",
+   "link": "https://colunadofla.com/2026/09/ex-flamengo-rafael-santos-comemora-marca-de-100-jogos-na-carreira/",
+   "data": "2026-09-15T02:33:44+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Zagueiro Rafael Santos atingiu a marca na última semana Revelado nas categorias de base do Flamengo, clube pelo qual estreou profissionalmente em 2019, o zagueiro Rafael Santos completou na sexta-feira (11) a marca de 1…"
+  },
+  {
+   "titulo": "Goleiro do Remo revela elogio de Ceni por defesa contra o Flamengo: 'Maior dos últimos 10 anos'",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMk44bjZoZVBKdHBRTGh2RTl2dXRnbTVfY1VMMmJVRkF3cFl4X3dGX2hrb1JYT1dIWlNNeHI3RnMxVXoxS09qU05JQ2ctLVBXeGNkNWNaYWxUaFFGZDRVbnNVY2tWUUpwZlNWdHY5UEJ1SVZFUjlxUTBQekxrWHBhbUJhQ0NjMHFrMkJvdXl0Y2VjMUp4OTgtN2lEUU9oZm9rdTl4Zm1UbDBfaDc1UjdPeW9CaEVZQjVncDhQVXJjSXVaZ2otM3FyZnpQc2RZR1BNd2hhRWZWaTZaMmh1ZzhJM0lNaUY3d1Z4V3pIbl9oa0Q1MVdJSWc?oc=5",
+   "data": "2026-09-15T02:32:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Elias questiona Diniz por poupar titulares do Corinthians contra o Flamengo: 'A gente imagina Barcelona x Real Madrid com reservas?'",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZkJ5QTc4XzBTN3YwelVMMjRGNjc4dTNMSmhtTHctam42WHl0ZmNKbERBTDlrVzdING85TnBoejdidHhmV0FybXNYUmlYRFMxSHh3UGRWVjkyOUppc1EzaDdneENCYU1mdnhwd1BDTld6S1RtOVVvTkotYU5OMUdibkRFZHJvRnE5NUsyNHY1NGIyakVDUFJ2NC16a2R4MU93WHhBQVR1dXZNemNLOEg4cWt1ckFZV1FCVjFBQ2lvdG9ISnVsVHNXc3ZwSHJUbVhXRUVjbERCM21qNGF0YXBtRmkwdDhIeTVWMno5d3d2dVVYa1lFWjI4d0NuMjNxX3laQk81bHlLejV4MmR0RGhxTzVn?oc=5",
+   "data": "2026-09-15T02:28:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
   {
    "titulo": "Danilo recusa convite da CBF e decide ficar no Flamengo",
    "link": "https://colunadofla.com/2026/09/danilo-recusa-convite-da-cbf-e-decide-ficar-no-flamengo/",
@@ -242,14 +290,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Danilo manda recado sobre a convivência com Bruno Henrique no Flamengo: “Ele é muito…”",
-   "link": "https://colunadofla.com/2026/09/danilo-manda-recado-sobre-a-convivencia-com-bruno-henrique-no-flamengo-ele-e-muito/",
-   "data": "2026-09-14T15:58:03+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Danilo exalta humildade de Bruno Henrique após gol da vitória sobre o Corinthians Bruno Henrique marcou o gol da vitória do Flamengo aos 43 minutos do segundo tempo contra o Corinthians, no domingo (13), no Maracanã. De…"
-  },
-  {
    "titulo": "Flamengo tem o dobro de chances do Palmeiras de ser campeão brasileiro; veja probabilidades",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGFTelJndW1yN0hfaThLV2dOUHU1SUJrM3QzYXpfM1BkNHB3Y0JYc0kxT3EwNXNqVWpkcnN0ZTZIbi01bUJEaGFCSU83cHNtSEx2bnhkb196RTJXTHBtcTEwVnZVQ3ljUl9TLU51ZnM2eGxZdVR0cWVKTGpWX0p5b1JvYzBSZ0pTTWN6ODdHUlVPeEtIR1pqYTdhcHpHbVhiQ3BSdG9sUDMtMUJ5eUFUd2J5eW44dzFkalJTbTM5bE80WmxiVVVrNlpXNFpQSFd2X2dCV1Z5QmU5U0p2ZVY2bElUc0J5c0wwLXNHbmlVajN1eEk?oc=5",
    "data": "2026-09-14T15:00:00+00:00",
@@ -359,6 +399,14 @@
    "data": "2026-09-14T10:30:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Corinthians se complica, e Fla tem 66,2% de chance de título; veja cenários",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV3hFa0pRWVRjODkwRTZFNm1ZM3FOU1pMQ1VXamo3bjlscTRwRTBhQ1g0a3VVY1hpT0l0OFpxdnJvNlhZUkpWcGJGMjFyWnZlTTJtWTBjUzlLNFZNbmRRTXdLNHAxOXp4VnlzRDhfOWl3T3p4N1VYdTVsV0t5SmJzRUh5SWlNZVZvcjIyck5mY29zeWNSU1BEMlUxRDhnM0NFU3ZMVHJfMGx4MHVtQ1YwSkFCRVAzM2VMTE5qNjNxTUZoazlqQWhMYkJOek9kY2NUVjU3a2F3WEw5b3poNDlZ?oc=5",
+   "data": "2026-09-14T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -562,14 +610,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Bruno Henrique decide, Flamengo vence o Corinthians e se mantém na liderança do Brasileirão; VEJA como foi",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FOWZ2ekRzLWF0UDZqNmFQNmlPR1dpSElBNXFIUHRJWG1CbDBxN1hmTGpOQXNUSVVuVDJ0YXBhYXBkSHM3MmphN0F2ekFLR0lzdW1DaVg1OTJUSlgwY1E?oc=5",
-   "data": "2026-09-13T22:48:40+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Veja os gols da vitória do Flamengo do Corinthians por 2 a 1",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ja2I2ZzgtN01VdGpSWDZMLVRzbGdaOVZDcTMtWlVvbEVObHRlRTh5UHpYVVZkcGRkSHpUUG9KZVVxd2UtZGRLZzJldk1MSWxGbmoyQlFBRlBhUGJLcFpWQlhhd3Rla0k?oc=5",
    "data": "2026-09-13T22:47:42+00:00",
@@ -626,14 +666,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo 2 x 1 Corinthians: os gols que fizeram o Rubro-Negro se manter na liderança do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CZVBqQVZYYkF3MXhhQXJldzBzb3dKMWxZc19XQU9BSEtGUHMzeF83SmxERUIwaG82dTA1c0d1ZlJwTHhCQjdkSm9iSUxxMTI2Sld1TVBKQkt4bWRYNFE?oc=5",
-   "data": "2026-09-13T22:33:31+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo derrota o Corinthians no Maracanã e reassume a liderança do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdDBiMEJ3ZXZYTEs2Y3JBaWRVYlVRaVRzRVQydkx2dEpDR0FMZllDV2RISkIwNEZUM0tNbHRoUGQ2dk0tbjBsekswZnZyS1V0ejVoaDF2ekR4U0tBaVFRX2tUc1hxVnY0UFExYk9wN3NLdUNEc0d4aHpIZ2dEWXdaUU1scWZzM2hFazBINkRHVTdQYnlrNS1yZ0VRSWdjeDlFUXlCYjhncUZ5dWdrZGVQLVJSQ3VkSFFWU3c?oc=5",
    "data": "2026-09-13T22:31:53+00:00",
@@ -676,14 +708,6 @@
   {
    "titulo": "Veja gols em Flamengo x Corinthians: Paquetá e Bruno Henrique marcam",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3l3Q1lDZ2tXWHdlMWZDdk9fOHNEanF1ODdkaGQ0OGVzOFhteHF5dm5heTNhSWFmRm9qT2hzbnJjb28wZWdKa2hFemdELU9ZdnBDS3NRdG9nT1djRTAxYnptOXFzNGcySVZhSDIzQU03T2tYblpfdGlhQkNNSEdQTFdtSHI0NjdLbjJNdFRoaXpvaGJpLVdwM0xZdnZZX0RRZnluS0dsMzQ1Y3VVMUFWUW4xMUw?oc=5",
-   "data": "2026-09-13T21:42:19+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Veja gol em Flamengo x Corinthians: Paquetá abre o placar",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHB1SHQwSEprX1hfSTJZSzJMTkRXWWRHenhhWi1WSktKR1dPcGZid0RDNHlNd09relo4cDhlcktDLWlnOUNUdVpnZThhV2c4SGlzVHMxbmNnWEtZVUNJd19XSU55R0ZHTmxReUNmbHlRNkRPU1o4OE1kTGdzWFpuTHJBQTBUV0dZcVdsS3doLXRvZWNfZF9rak9IdFc2bmI3Y2FUcGhn?oc=5",
    "data": "2026-09-13T21:42:19+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
@@ -797,6 +821,14 @@
    "titulo": "São Paulo vence o Flamengo de virada e abre vantagem na semifinal do Brasileirão Feminino",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeGhaNEZVaTNxa0w2TkFwdEluSG80TkdBbEVFRGp6VGhudlhMc3NwQXZrUzJWUko5N3FkR2MyWkVERUdFNEE5TjRLZk8tclZkNGNSM2RmRTEtc2RSd2g0X1NhWnI3ZnZZYzRPN0pTS0xaazUwalpGVlEzYzhHUENoNElLcy00NTcyamt0Ti1VXzVta3pkbGJvYXhYZWt5cHZiX2trU1pkSVc5UmRfQkhzVUI4WXphOWdZRENLLUxUaVEyQ2tlZ0N0Zg?oc=5",
    "data": "2026-09-13T14:13:24+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Aposta de Diniz contra o Flamengo é observado por Arsenal e Chelsea",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTEl5OTRnbnFKQk9qWW9GSXlIcWJWOWg0dzk3a1hRVHZvSGtmVW1oYWFxQ1haXzM4V1NNeUlNTm5sa2FiaGk0bThKclMtMGxrcXNyeGlLYmNUSGhUZEUydDFWWV9vMXRyVVZEUTZrRHpUVEVWUC1lSnFZS1VOS01LSndrXzdldWZ5LXNsSmxZRXh0RXl3djNwRmUwY1pRcFN6Vk9UUW1zY0NFSGtSalE?oc=5",
+   "data": "2026-09-13T13:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -917,14 +949,6 @@
    "titulo": "Torcer para o Corinthians? Zagueiro do Palmeiras é sincero sobre se vai 'secar' Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSGZaVGkyRGM2enBRSnY5NEJybk9CLU94dmIzTlE3a3dheTRXcHRHT2o3MGNBYzJqZ1NJYlItRWJ6S3ljU0VuTGFxMTVKQV9NWGZZRnNGMzl3dVZIR21RVlFibngxekw4WEEwNW9GV0UyT2t4TFRzWVdzYU1yTl9ObnZtdU90bkJpbjlQeUlDUXhCS1R3VzBFLVJ2MS01VHU5QTNoUy1vNjdPNHhlYkFTZFFnY3JpX09JdWhaeWFNcFc1NFQzRWxydUt1bVQ4WVp2bHhWcTdfYzhVSUQxUVJTdFNGWQ?oc=5",
    "data": "2026-09-13T03:15:19+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flamengo, André Luiz anota golaço na MLS; VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oZ0dhRFFUb0NXM1RfZy1jaTJCallwSE9SMFBpOXE0bnpYbElpc3J0RVRJem5WQ2pHWEFZTTdGNWxZdTRoUlZyRnJhMUhZQlkyLUp6ZExpNG5SUUFqeWc?oc=5",
-   "data": "2026-09-13T01:31:19+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -1208,30 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo abre boa vantagem contra o Independiente Del Valle O Flamengo desembarcou no Rio de Janeiro na manhã desta sexta-feira após vencer o Independiente del Valle por 2 a 0, na quinta, em Quito, pelas quartas de fina…"
-  },
-  {
-   "titulo": "Cruzeiro acerta empréstimo de Viña, do Flamengo; uruguaio estava no River Plate",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3BkQWdMeDNfNTU3NTBaMzlTcmp4MENiTlZjTTVqOUg5Ums0ZXZqSUF0VmdZM0lfOFFqZXU5WFZsNXVhNGcwY1AyczJmczIzaWE3YjFRNWtuUWM2NEZRelczYnlUMXZtYVh1TXNDQjVQOWxsVDJrVVphSHBIekhOVjI2RVZ0QzlaQXoydnhHS2U3V2U4MlQtZ1RaWEhJOTduU3FoaGItZGxlNEladkJYUUU0cENLZ2RoM1BnSnlfb0JCUQ?oc=5",
-   "data": "2026-09-11T19:48:41+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 27ª rodada",
-   "link": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/09/11/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-27a-rodada.ghtml",
-   "data": "2026-09-11T19:48:06+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja quem foi eleito o craque da rodada 26 pelo Seleção O Campeonato Brasileiro está de volta com clássicos na 27ª rodada. Nesta sexta-feira, em jogo isolado, o Coritiba recebe o Athletico-PR, no Couto Pereira. O sábado…"
-  },
-  {
-   "titulo": "Favoritismos #27: dicas, palpites e chances no Brasileirão",
-   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/09/11/favoritismos-27-dicas-palpites-e-chances-no-brasileirao.ghtml",
-   "data": "2026-09-11T19:40:44+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Coritiba x Athletico-PR: informações e palpite para o jogo Coritiba e Athletico-PR abrem a 27ª rodada do Campeonato Brasileiro nesta sexta-feira sob um retrospecto histórico de amplo domínio do time que joga em casa, o…"
   }
  ]
 }
