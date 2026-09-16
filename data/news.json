@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-16T04:41:35.637437+00:00",
+ "atualizadoEm": "2026-09-16T09:51:07.938464+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 52
+   "itens": 51
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 61
+   "itens": 52
   },
   {
    "id": "uol",
@@ -34,12 +34,44 @@
  ],
  "itens": [
   {
+   "titulo": "Rodrigo Mattos: Flamengo adota um modelo de empresa sem se tornar SAF",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWZUWnM0by03SkYzY20zaG91amNSdDc0X0RXRl9KLU92dFZaYWRUVXFlaE1lN2I3VTc5am9VeVViY2luOU43X1hGLTkyVkFGazhXX255ZkdYdGJSdnVnaEtmUGZvZ1poWWJsYXJQN2JZQ00wbUExS1lrSkQ5c2F3b2VoRG9maEI0MmVsVHJDREc1ODFLXzc0OVB5TVozOFdFX2lNbHFIUHJjSVRrWWpFT2NLakZ5Tk5tU21jdEFKNUZEejJrMV9GaWt3?oc=5",
+   "data": "2026-09-16T09:36:04+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo se protege do mercado e negocia cinco renovações ainda em 2026",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcGt3U1lWYmF1R3FrUjdnUnlFel8xLW1lQmFudVFkZ0FhdVczbFNEd0NBaDBXOU9IS3AyRmhnb1VFQ2M3RlppLXljQVdqVUIyeVNjeE81czNSVm4ydkJVZENibDZHbVFqRkQxMkVtblpyREc5WkZWM1ZrY2huaGEtcENJcDVvNldtLTBlVVR6Q3hWYWtjbGROa3pjVEdZMzgzVF9XTkhRc0l6V1Y4ZVVUZzZ5TVFQc1VUS3BUOWNxenJ3RWFWZlFqWW43aUhqYjlZb2Z3UG4tc3JoclU?oc=5",
+   "data": "2026-09-16T09:03:27+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo x Independiente del Valle Palpite – Análise e notícias (17/09)",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW5pMW9BV1lRRE00bjlvRG1BdjRiTDAzY05UZDF6ZTg1RkNBMWNJaE5lZi00eVdmUmh5aVV3RHhMTzMxa3dHbDZHWXJkM3pnS3JDS1R0cXU0WEs4LTFtTDJPVFU3eXNxa0p5c0tra01jMGxTd2VmT0NSLXdFSG1tdE0yZDJkbkF3ZU44UGJnM2Y1NG5TNFZPY0RXdFNmc0VJMXhz?oc=5",
-   "data": "2026-09-16T03:41:29+00:00",
+   "data": "2026-09-16T08:58:03+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
+  },
+  {
+   "titulo": "Tempo Real | Flamengo x Independiente Valle",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUF2QnJqTjY3ZVJjMzFWc0habGhRZTdkNmRBYVZJRkEwMTl1T3RCS0w3T3pCSHM3dV83Y1A5N3E3RmJ0ZnpIOENJZm5sbWtFNTJXS1h4ZGZuVFF3SEluRGhrSUs3Rk1CVURMaXhPc0JKbGRYQ1U0RndGTFhJb0xmWkNPRERTTDZKdkZJLXE4aGJKRkxBLWROdTZXSVRiWGNhZ2JFdzRyNzk1bV9WVERCQi1IeUpYM0k?oc=5",
+   "data": "2026-09-16T08:39:17+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo avança com renovações de contrato e desenha planejamento para 2027",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/flamengo-avanca-com-renovacoes-de-contrato-e-desenha-planejamento-para-2027.ghtml",
+   "data": "2026-09-16T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Marcello Neves atualiza situações de Lorran, Danilo e processo com Guerrero Depois de resolver a situação de Pulgar, o Flamengo reorganizou as prioridades e passou a focar em outras renovações pendentes. A principal e m…"
   },
   {
    "titulo": "Os números por trás da melhor temporada de Gabigol desde auge no Flamengo e o que assistir no Disney+",
@@ -64,14 +96,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Rafael Sobis afirmou que é um privilégio ver o volante rubro-negro em campo Até os antis tiram o chapéu para Jorginho. Isso porque o ex-jogador Rafael Sobis, ídolo do Internacional, afirmou que é um privilégio ver o vol…"
-  },
-  {
-   "titulo": "Tempo Real | Flamengo x Independiente Valle",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUF2QnJqTjY3ZVJjMzFWc0habGhRZTdkNmRBYVZJRkEwMTl1T3RCS0w3T3pCSHM3dV83Y1A5N3E3RmJ0ZnpIOENJZm5sbWtFNTJXS1h4ZGZuVFF3SEluRGhrSUs3Rk1CVURMaXhPc0JKbGRYQ1U0RndGTFhJb0xmWkNPRERTTDZKdkZJLXE4aGJKRkxBLWROdTZXSVRiWGNhZ2JFdzRyNzk1bV9WVERCQi1IeUpYM0k?oc=5",
-   "data": "2026-09-16T02:39:17+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "CEO do Maracanã explica como excesso chuva prejudica o gramado da casa do Flamengo",
@@ -1178,14 +1202,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Arrascaeta esclarece polêmica com Lino no Flamengo: 'Jogo com mais 10'",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUZyenBWN3dvZEdkdldwc1ItZVF5bUc4aklyN25MR1ExNHpXYTgtMmFUMDUtLUNVTXoycENITGlsOHBoYWJoQi1HTTFScUs1Rm05M0JReV9uWjI0bllVR2pOdVMwZTFOQWhLTXh0eldtUklOb0k4dEdyOHlNQ1I2Y1F6OGNLT0Q3OUNhaUlidDZnQ1gxSnNmeTVET3hWYjVhVndZUWpBcmxRV1NsT1dNdWM0V1pESHJNTDY3RlFta1k?oc=5",
-   "data": "2026-09-12T14:14:59+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo x Corinthians: onde assistir, horário e escalações",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUG5FV1M0WVZBb1Itdml5ajZHZHlRWUhHYnh3dmVzR3JvbTVjU0wyWVBDbEFEeWlfNEhqSzdkblU3LXZZUXVuemNNZWo4T3ZHSlUtQ2E3QVFwbzZCd0FsM013aVlQLVpfQ1psTktJTk5NUkpyWUxEbUo0MW5MXy0xUDVIY3pjSTdjSzI3ejhYaENXTmRkUnBlNF94QlQ4czQ2Vm1F?oc=5",
    "data": "2026-09-12T13:00:00+00:00",
@@ -1216,22 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Abre aspas: veja a entrevista com Paulo Angioni Morreu Paulo Angioni, executivo de futebol com passagens por diferentes clubes brasileiros ao longo de quatro décadas dedicadas ao futebol, aos 80 anos. Por último, o diri…"
-  },
-  {
-   "titulo": "Flamengo tenta estrelas, muda rota e termina janela com perfil de José Boto",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0lDWjdpTEc5cGotV1dUTHRIaThvdFQxNzRCY3A3Vl9wank2cVRHU2k2aXhlX2lMM2FtX1hqTTliZ2V5ZVFfdzBOXzg0a2pDbW5Ybm1FMDR1YUFxUDJqVnBTZ0tiRmpyNHlHYm96SWh6Vk10bTJVSnpOX2RxZXZfSGJZRFpydzBndnZSRjh4MkFFLURqcmJod0l5UjZQLTRNX2lZYTVZblBRTE5DMW1VeU1uYw?oc=5",
-   "data": "2026-09-12T11:31:57+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras x Flamengo: compare disputa pela liderança e chances de título no Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNblZRNmVRTUxBSTlVa24tNUNnYTZWS0RPb3pIX0NOT2phRHBMVEIwRUw2MnQ1dUw5MGppMkdMWWVCeGdYZGc1aTVGMEtqNHpET1NsLVhsNlhMdGt5OTk3dE91Y0NXSUxLdU9DTHVEcllxNHY4OEF4a201VEZLenhYTUpzNThPSnhHZzNicXlGNFhUQTRtbWFYYTh4NjRaeVJ3R2hqYnU0Z29Hd0g4RHh5TGZxZk50al9wazB5R3lBdEwzSVp2UWhVT0x1U2VwUQ?oc=5",
-   "data": "2026-09-12T11:05:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   }
  ]
 }
