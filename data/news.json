@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-16T22:04:07.729513+00:00",
+ "atualizadoEm": "2026-09-17T00:24:09.127004+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 46
+   "itens": 44
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,80 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 54
+   "itens": 57
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 91
+   "itens": 92
   }
  ],
  "itens": [
+  {
+   "titulo": "Palmeiras leva virada da LDU, mas passa nos pênaltis para enfrentar Fluminense na semifinal",
+   "link": "https://colunadofla.com/2026/09/palmeiras-leva-virada-da-ldu-mas-passa-nos-penaltis-para-enfrentar-fluminense-na-semifinal/",
+   "data": "2026-09-17T00:11:00+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "LDU empatou o duelo no final e levou a decisão para disputa de pênaltis no Equador O Palmeiras passou da LDU (EQU) nos pênaltis, nesta quarta-feira (16), e confirmou a vaga na semifinal da Libertadores. A partida termin…"
+  },
+  {
+   "titulo": "Flamengo x Independiente del Valle Palpite – Análise e notícias (17/09)",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW5pMW9BV1lRRE00bjlvRG1BdjRiTDAzY05UZDF6ZTg1RkNBMWNJaE5lZi00eVdmUmh5aVV3RHhMTzMxa3dHbDZHWXJkM3pnS3JDS1R0cXU0WEs4LTFtTDJPVFU3eXNxa0p5c0tra01jMGxTd2VmT0NSLXdFSG1tdE0yZDJkbkF3ZU44UGJnM2Y1NG5TNFZPY0RXdFNmc0VJMXhz?oc=5",
+   "data": "2026-09-16T23:35:07+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Organizada do Flamengo é suspensa e fica fora de 2 jogos no Maracanã",
+   "link": "https://colunadofla.com/2026/09/organizada-do-flamengo-e-suspensa-e-fica-fora-de-2-jogos-no-maracana/",
+   "data": "2026-09-16T23:32:16+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Raça Rubro-Negra anuncia punição e não estará nas partidas contra Del Valle (EQU) e Bragantino A Raça Rubro-Negra anunciou uma punição que impede a torcida organizada de acompanhar o Flamengo nos próximos dois jogos. A…"
+  },
+  {
+   "titulo": "Torcedores do Flamengo reagem à atuação de Reinier em Atlético x Santos",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVhseE4wLWpYb0k1b1NyOE1WUHFIQTR1SmxkcDJVdlAyME1iZ2laVXJ5WmNtaDF5c25JNXZ0bFlDMER4UDlRSFdGS0JmRzNDMmNwRzRHMW5BRXl1Mm5GOEI0Mzk4RFhwNFoxMWYwY2lpUkk4UF9jR3NBTkdBQURiWHB5R3ZIenJ1M2FzbUJFV3FIUFJ0Y3FRdjQ2MWZkZV9vYVJINjNBSGd4SEo2MUN2WXJHNnJjQQ?oc=5",
+   "data": "2026-09-16T23:22:28+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Adriano causa alvoroço na Libertadores Experience e pede o penta do Flamengo",
+   "link": "https://colunadofla.com/2026/09/adriano-causa-alvoroco-na-libertadores-experience-e-pede-o-penta-do-flamengo/",
+   "data": "2026-09-16T22:48:12+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Ídolo do Flamengo participou da Libertadores Experience, na Enseada de Botafogo, e arrancou aplausos da torcida presente Tem celebridade na Libertadores Experience, no Rio de Janeiro. Adriano Imperador, ídolo do Flameng…"
+  },
+  {
+   "titulo": "Presidente da Federação Chilena desabafa após conversa com Pulgar, do Flamengo",
+   "link": "https://colunadofla.com/2026/09/presidente-da-federacao-chilena-desabafa-apos-conversa-com-pulgar-do-flamengo/",
+   "data": "2026-09-16T22:34:35+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Erick Pulgar mais uma vez ficou fora da Seleção do Chile Erick Pulgar segue fora da seleção do Chile, apesar do bom momento que vive no Flamengo. O volante decidiu não participar dos amistosos contra Canadá, Estados Uni…"
+  },
+  {
+   "titulo": "Escalação do Flamengo: Léo Pereira treina e pode voltar ao time contra o Del Valle",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/escalacao-do-flamengo-leo-pereira-treina-e-pode-voltar-ao-time-contra-o-del-valle.ghtml",
+   "data": "2026-09-16T22:22:16+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Mansur analisa gol da vitória do Flamengo sobre o Corinthians; confira O Flamengo venceu o Independiente del Valle por 2 a 0, em Quito, no jogo de ida das quartas de final da Conmebol Libertadores, e está muito perto da…"
+  },
+  {
+   "titulo": "NFL lança produtos com Flamengo, Vasco e Fluminense para jogo no Rio",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVW10WGZCN1RkLXRFblB1WTNCQTRIalRRZ2ZNcjUyYjJkaDR6dG04eU9fcUJ5YUVvN0RKSUJ6eU5NYlEwMTBVSDRtN1NqMUx1UUVhS0ZuQUUxblJmR29LVWdjeVd6cjh6Q2c0MjVodEE0RmUwekNaMUhrektzS3VXdmY1aUtndElWcHRRd2dYeE5nY21tVXFFdWswaENFc2tFaDd6M3Fucl9jcG44TzNmaA?oc=5",
+   "data": "2026-09-16T21:57:57+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Premiação em dobro! Brasileirão escolhe Samuel Lino como Melhor Jogador do Mês",
    "link": "https://colunadofla.com/2026/09/premiacao-em-dobro-brasileirao-escolhe-samuel-lino-como-melhor-jogador-do-mes/",
@@ -42,12 +106,20 @@
    "resumo": "Atacante do Flamengo recebe o prêmio Betano pelas atuações durante agosto no Brasileirão Samuel Lino é eleito pela Confederação Brasileira de Futebol (CBF) o Jogador do Mês de agosto do Campeonato Brasileiro. Assim, o p…"
   },
   {
+   "titulo": "Está devendo futebol no Flamengo? VEJA os gols e assistências de Arrascaeta na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LQ2pTUDFDcWZPXzRMZDlxSC1tLXJnclJFRXZxcElKdEpVVXU3X3pXOEpDTDk1QWVjcDlvcWZzemN1b1lSNHBNTk5BeEFyaFNkMFdPSWRieUkySXBFN2c?oc=5",
+   "data": "2026-09-16T21:48:06+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Forlán anuncia primeira convocação na seleção do Uruguai com Varela, Piquerez e Arrascaeta",
    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/16/forlan-anuncia-primeira-convocacao-na-selecao-do-uruguai.ghtml",
    "data": "2026-09-16T21:44:21+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Confira como foi a eliminação do Uruguai! O técnico Diego Forlán anunciou nesta quarta-feira sua primeira convocação à frente da seleção do Uruguai. A lista final do comandante conta com 25 nomes, sendo três que atuam n…"
+   "resumo": "Confira como foi a eliminação do Uruguai! O técnico Diego Forlán anunciou nesta quarta-feira sua primeira convocação à frente da seleção do Uruguai. A lista final do comandante conta com 26 nomes, sendo três de clubes b…"
   },
   {
    "titulo": "Arrascaeta e Varela são convocados pelo Uruguai e desfalcam Flamengo em período de treinos na Data FIFA",
@@ -96,30 +168,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo enfrenta Fluminense e Botafogo antes de estrear no NBB em outubro",
-   "link": "https://colunadofla.com/2026/09/flamengo-enfrenta-fluminense-e-botafogo-antes-de-estrear-no-nbb-em-outubro/",
-   "data": "2026-09-16T20:31:20+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Mengão estreia diante do Fluminense neste domingo, no Tijuca Tênis Clube O Orgulho da Nação está de volta. O FlaBasquete inicia oficialmente a temporada neste domingo (20), quando enfrenta o Fluminense, a partir das 15h…"
-  },
-  {
-   "titulo": "Gol do Everton! Carlos Alcaraz, ex-Flamengo, marca contra o Wolverhamptom pela Premier League",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45VmlhZDc1RllPbEpnTVVKcjNIYXlrMlVGeFl0dmw4VEZqd1o1RGh1UXdCcVJISHhGNWwtUk9EdUx6RElOT2N5eE9TX0I3MXRYdjZiV1VaN0FGbGdKVFE?oc=5",
-   "data": "2026-09-16T20:30:01+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Botafogo anuncia contratação de Tite, ex-técnico do Flamengo",
-   "link": "https://colunadofla.com/2026/09/botafogo-anuncia-contratacao-de-tite-ex-tecnico-do-flamengo/",
-   "data": "2026-09-16T19:44:21+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Tite assinou contrato com o Botafogo até dezembro de 2028 O Botafogo estava na busca por um novo treinador desde a demissão de Franclim Carvalho, em agosto deste ano. Enquanto isso, Rodrigo Bellão assumiu como técnico i…"
   },
   {
    "titulo": "Conmebol comete gafe com jogador do Flamengo em anúncio",
@@ -178,44 +226,12 @@
    "resumo": "Flamengo faz últimos treinos antes de enfrentar o Del Valle O Independiente del Valle terá um desfalque importantíssimo para enfrentar o Flamengo, pelo jogo de volta das quartas de final da Conmebol Libertadores. Isso p…"
   },
   {
-   "titulo": "Flamengo x Independiente del Valle Palpite – Análise e notícias (17/09)",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW5pMW9BV1lRRE00bjlvRG1BdjRiTDAzY05UZDF6ZTg1RkNBMWNJaE5lZi00eVdmUmh5aVV3RHhMTzMxa3dHbDZHWXJkM3pnS3JDS1R0cXU0WEs4LTFtTDJPVFU3eXNxa0p5c0tra01jMGxTd2VmT0NSLXdFSG1tdE0yZDJkbkF3ZU44UGJnM2Y1NG5TNFZPY0RXdFNmc0VJMXhz?oc=5",
-   "data": "2026-09-16T17:31:56+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Del Valle chega no Rio e treina no CT do Fluminense antes de jogo decisivo contra o Flamengo, pela Libertadores",
-   "link": "https://colunadofla.com/2026/09/del-valle-chega-no-rio-e-treina-no-ct-do-fluminense-antes-de-jogo-decisivo-contra-o-flamengo-pela-libertadores/",
-   "data": "2026-09-16T17:18:03+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo e Independiente del Valle (EQU) se reencontram na quinta-feira (17) O Independiente del Valle (EQU) definiu a programação para o jogo contra o Flamengo, que acontece nesta quinta-feira (17), pela volta das quar…"
-  },
-  {
    "titulo": "Cartola: veja cinco alternativas de ataque a Viveros e Samuel Lino, desfalques para rodada #28",
    "link": "https://ge.globo.com/gato-mestre/analises/noticia/2026/09/16/cartola-veja-cinco-alternativas-de-ataque-a-viveros-e-samuel-lino-desfalques-para-rodada-28.ghtml",
    "data": "2026-09-16T17:08:31+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Cassius explica como funciona a pontuação em assistência no Cartola Samuel Lino e Viveros são os nomes mais visados na hora de montar o ataque nesta temporada do Cartola. Contudo, na rodada #28, o cartoleiro precisará s…"
-  },
-  {
-   "titulo": "Visitante indigesto? Independiente del Valle ‘liga o alerta’ do Flamengo para jogo da Libertadores",
-   "link": "https://colunadofla.com/2026/09/visitante-indigesto-independiente-del-valle-liga-o-alerta-do-flamengo-para-jogo-da-libertadores/",
-   "data": "2026-09-16T16:47:59+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Time equatoriano venceu nove dos últimos dez jogos fora de casa na temporada 2026 O Flamengo volta a campo nesta quinta-feira (17) para enfrentar o Independiente del Valle (EQU), pela volta das quartas de final da Liber…"
-  },
-  {
-   "titulo": "Pedro ou Bruno Henrique: Quem deve ser titular do Flamengo na partida contra o Del Valle? Jailson Vilas Boas responde!",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ma2h1UDF4OG1lWmNXM2YzZzJWVE9xLWdqU3RvRU9mLU1wcnlONVhvOHYtSTBESlQwRUF6YUxYSUZNc0ZxVWcyV25aNGNIZEtGREZPYjc4ZXVXUFhNQnc?oc=5",
-   "data": "2026-09-16T16:33:36+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   },
   {
    "titulo": "Del Valle perde vice-artilheiro da Libertadores para jogo contra o Flamengo",
@@ -1216,22 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo x Corinthians: informações e palpite para o jogo r Flamengo e Corinthians se enfrentam neste domingo, às 17h30 (de Brasília), no Maracanã, em confronto válido pela 27ª rodada do Campeonato Brasileiro. TV Globo,…"
-  },
-  {
-   "titulo": "Tempo Real | Flamengo x Corinthians",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaEJDUzdXbTBVTGpUU052cl9BUXV2OUIzVXhyUHBONXhjcEp3Tk1DU3lRa3poQkRvWm9fRi1xdUxSbWFHbVlNS3B5WVB2MDczN3dWZWo5UkZPRW9ETG1kUEdGTjh6cHU1cHdnVjJITEdqekYtSEdRVm44a1YyNGlPUFNYYUd3X2tYa1FoVEQ0QmptVzRhVTlkTmJKanJuZjlX?oc=5",
-   "data": "2026-09-13T07:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Por que Flamengo x Corinthians é ainda mais tormento após Diniz admitir ter que 'quebrar a cabeça' para armar time",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcE9RZjNEYjNockhEWmFVLUNhVGRCUFRNSFlsZm41eGJwQk9KNkl5ZWRqcGlzeXFOd0dMOWNfUXlCZ05rUkRiSng2Q0IyMzUxZWpWMG5Gc3VtLXFleGNLdzlyb1ZQdFM5WTJmcXg3Y3F0V0gwTWg5UW9EM2hrSjhYREpBMVF1STlhcGdtWjNaZzJXUF9LSGNfUFhZVmN2NWNidjBMVGU0OU1pdURqZk5zRTJSQ21YQTAydDFFMVVjUUFnX09rd2pCNFlsVEhtelNiZXBRWlZyNTkxemk4X2JhbkE4LWZ4LWMwMzFlZzJaVVV1cmNoTlhuOHllSEMtQ0Vo?oc=5",
-   "data": "2026-09-13T05:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   }
  ]
 }
