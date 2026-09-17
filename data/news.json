@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-17T10:22:20.998163+00:00",
+ "atualizadoEm": "2026-09-17T15:16:56.016259+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 41
+   "itens": 44
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 56
+   "itens": 58
   },
   {
    "id": "uol",
@@ -34,25 +34,65 @@
  ],
  "itens": [
   {
-   "titulo": "Rafael Reis: Só derrota inédita na década pode eliminar Flamengo da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDhQaWpEcUtLTnFZakxHYzZuMktGRjFKM2ZiaUoxcl9rX0lhX0xoYXc1NXJpQ0x0dGpfdnRMdHlQQWd3ZzROV2tvOWg3VEgtcUVHN3h1SWFIaEttOVdpdk5wb3QxTC1WQkRrV1QybC1yblhEa0daWC0ydjNrRVpRWElKMGU1djlPUndlVjhDSUx4cXd2Z25HbTBKU1NNSC1wUWRfM1gwUURSdXZzRkNqSU5HZ1BqWmx1RG0zSk1OWnQ3YkdUeHhFV0ltbTlhdXpMNF9kUWw0ODA?oc=5",
-   "data": "2026-09-17T10:01:23+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
+   "titulo": "A atitude de Anthony Valencia com Samuel Lino antes de jogo do Flamengo na Libertadores",
+   "link": "https://colunadofla.com/2026/09/a-atitude-de-anthony-valencia-com-samuel-lino-antes-de-jogo-do-flamengo-na-libertadores/",
+   "data": "2026-09-17T15:01:08+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "O que aconteceu entre Anthony Valencia e Samuel Lino no treino dessa terça-feira (15)? Anthony Valencia ainda está iniciando a trajetória com a camisa do Flamengo, porém, já demonstra um bom entrosamento com o elenco. N…"
   },
   {
-   "titulo": "Flamengo aposta no retrospecto para avançar na Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1ZxNGxMNHVLd1JheHp1bHNRUGZsbFRhOUE0ZEU1UDBmcmNkc2FwaU5nTnQ3eFB0TG5MR0hWRk42OWMzc0lmMFdMYUV3WFI5Z2JWREtvRUZxQ2R5cldfVzh6MEM3enYtLWZiZEE2elZKRmRWTDhSVEdlRHRZdXFnWlVSQmlOT1N3WVE2bkdHT3h4a3J0TkppRlVnTXl6ZUpMVDdXVy1HeHI3LVVLZUpkWDBGMW4zX21oQ011WWdEa0VKRTJZbHVESg?oc=5",
-   "data": "2026-09-17T10:00:00+00:00",
+   "titulo": "Os desfalques e os pendurados de Flamengo e Del Valle para jogo decisivo na Libertadores",
+   "link": "https://colunadofla.com/2026/09/os-desfalques-e-os-pendurados-de-flamengo-e-del-valle-para-jogo-decisivo-na-libertadores/",
+   "data": "2026-09-17T14:32:06+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Confira as informações sobre desfalques e pendurados de Flamengo e Del Valle (EQU), pela Libertadores O Flamengo entra em campo nesta quinta-feira (17) para encarar o Independiente del Valle (EQU), pela volta das quarta…"
+  },
+  {
+   "titulo": "Tempo Real | Flamengo x Independiente Valle",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUF2QnJqTjY3ZVJjMzFWc0habGhRZTdkNmRBYVZJRkEwMTl1T3RCS0w3T3pCSHM3dV83Y1A5N3E3RmJ0ZnpIOENJZm5sbWtFNTJXS1h4ZGZuVFF3SEluRGhrSUs3Rk1CVURMaXhPc0JKbGRYQ1U0RndGTFhJb0xmWkNPRERTTDZKdkZJLXE4aGJKRkxBLWROdTZXSVRiWGNhZ2JFdzRyNzk1bV9WVERCQi1IeUpYM0k?oc=5",
+   "data": "2026-09-17T14:03:02+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
   },
   {
+   "titulo": "Jogo do Flamengo x Independiente del Valle passa na Globo?",
+   "link": "https://colunadofla.com/2026/09/jogo-do-flamengo-x-independiente-del-valle-passa-na-globo-2/",
+   "data": "2026-09-17T13:58:35+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo entra em campo nesta quinta-feira (17), pela volta das quartas de final da Libertadores O Flamengo enfrenta o Independiente del Valle (EQU) nesta quinta-feira (17), às 21h30 (horário de Brasília). Portanto, a p…"
+  },
+  {
+   "titulo": "Leonardo Jardim define time titular para jogo do Flamengo x Independiente del Valle em treino desta quinta",
+   "link": "https://colunadofla.com/2026/09/leonardo-jardim-define-time-titular-para-jogo-do-flamengo-x-independiente-del-valle-em-treino-desta-quinta/",
+   "data": "2026-09-17T13:57:53+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e Independiente del Valle (EQU) disputam jogo de volta das quartas de final da Libertadores O Flamengo entra em campo nesta quinta-feira (17), quando enfrenta o Independiente del Valle (EQU), pelo jogo de volta…"
+  },
+  {
    "titulo": "Flamengo x Independiente del Valle ao vivo hoje 17/09: siga placar agora | Libertadores",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGdHUmdwcWRVVkRPUDZocDRIcmZvdW53YmhOTXU3c2czOG9FUVJUYjE4MU9OSS16VU9sbnFMdWM4bEVBdjYxNjhVVjNmczBfTF9KOTV3S0NqajE5WW83ejY3eHl3MmhvVDdhdFNQcWx1a2FCVTlXTXNTX3ZoWjJjRTIxSk1aTkFlajJrdURKdWdFQVdaWEtFWWRBTlFDS3VVZHh5UUVUaw?oc=5",
-   "data": "2026-09-17T09:38:25+00:00",
+   "data": "2026-09-17T12:38:46+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vasco rebate Flamengo por buracos no gramado do Maracanã e ganha apoio da Conmebol contra o Boca",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNURqT2x4c2ZYS2RYQ19wLXNWV2FaSklGZDR1dGxFbEh6aXpObHlkSWtyZ2V2el83S2RSbXBEQWRqWC1hYnFsQ042bTFFckdydml1aWNEaWU0RDhrdkhsYWROVTQ0Y3YxZlNrT2tWWVByWTJia2l0eU5lNUNCaXZhSzhBU1hBZ2hmbXIyU3R3Y1ZsYmtSN2VVZlpYSGNueC1fMG51REVPbmV1dGo3dEhtbmtvaEppRGFXMmg1OFVLLW1BVzMxa3FkTTYyMTFoUlM1c2pVTTR3SHFHbnFQRXdF?oc=5",
+   "data": "2026-09-17T12:31:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rafael Reis: Só derrota inédita na década pode eliminar Flamengo da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDhQaWpEcUtLTnFZakxHYzZuMktGRjFKM2ZiaUoxcl9rX0lhX0xoYXc1NXJpQ0x0dGpfdnRMdHlQQWd3ZzROV2tvOWg3VEgtcUVHN3h1SWFIaEttOVdpdk5wb3QxTC1WQkRrV1QybC1yblhEa0daWC0ydjNrRVpRWElKMGU1djlPUndlVjhDSUx4cXd2Z25HbTBKU1NNSC1wUWRfM1gwUURSdXZzRkNqSU5HZ1BqWmx1RG0zSk1OWnQ3YkdUeHhFV0ltbTlhdXpMNF9kUWw0ODA?oc=5",
+   "data": "2026-09-17T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -60,9 +100,81 @@
   {
    "titulo": "Flamengo decide vaga contra Del Valle em alerta sobre gramado do Maracanã",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmpEcmt0Vm54MWhkeVhtMUNOLUdLNU9DN1Y5SVRQRTJTMDJST1ozRE1lak0zdmd6UlZTTTEwWndvcWE0WFNidVNJbnhvN2l6VzZ4MEVxbllQQ05QbE1NNm42Q25udzE0NkJNaWRzX3BjcTNkdGhHVUNyQVZUeVVvalJjcnlLTUZwTEUwY0Jia3BPYXNBWFdGYUttQjdUUS1OZGthTTBUNzNkUFFVSGhWcDNEcjIxSzlobHlfU0dCbTc3MC1QUVlxRnFfNDVVZVNRNHdnMmY2U3VfQ1BJQUE?oc=5",
-   "data": "2026-09-17T09:19:37+00:00",
+   "data": "2026-09-17T12:20:24+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Veja prováveis escalações de Flamengo e Independiente del Valle, pela Libertadores",
+   "link": "https://colunadofla.com/2026/09/veja-provaveis-escalacoes-de-flamengo-e-independiente-del-valle-pela-libertadores-2/",
+   "data": "2026-09-17T12:05:17+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e Independiente del Valle (EQU) disputam vaga na semifinal da Libertadores O Flamengo tem o esboço da provável escalação para o confronto contra o Independiente del Valle (EQU), nesta quinta-feira (17), às 21h3…"
+  },
+  {
+   "titulo": "Jogo do Flamengo hoje pela Libertadores: que horas começa e onde assistir",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUEYxVmowRkk5MmdnZnhndXpRM0pLTEVaVjRsclVzMlVjMTVscmZEUzVpdndTQ19kZG1iWXJpX1VxUWdDSVVQY2hSemNRejFwOTdRVTZiT0hCWHM5Ukw3RWdWc1ZGNFpfSjMtWXFBNThOREJNU2lMdG5Ta3c2bERuS2FkeElfVWNqUGR5V0ljSk4zcUZOeENRQVZ6djNfZjlwUDdSQ0J0WTBJTFVPcDdoQWVKMWFHVkFERVJ4T2ZVb1A4dVY5MXFkb0JWaE9CQlNseWc?oc=5",
+   "data": "2026-09-17T12:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Com boa vantagem, Flamengo recebe o Independiente del Valle por vaga na semifinal da Copa Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLTZneGQ5WGY4MWNBZkh3ZFpKTUk1dExkTlJlSHIwc3FQd1ZRTHBaSzRzbU1XQk5uX3BtTUE2WG04QUU0YkNDR25lRWxaM0NEWUpsTnpqQ3RvSGtvdFotMEhJWHlvMUJTd2ptNGo1d1hBTEVkWTQ3S2tVekhnU1dhOEhBVmtoU3U5cHBzMXdxVzhxVnBXMUZNX19IazhoV2NtNlZENUN5ZDYwSjJDV0xrUUhQNUMzaktqSFI5U0lfR0N5cXZPbHVwYjNHN0tsNmJtLXZN?oc=5",
+   "data": "2026-09-17T11:49:40+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Como Samuel Lino foi de última opção contra o PSG a destaque do Flamengo em 2026",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFhPakd0TWN3TnQ5U1lidXYzTjA0cV9YaHlEUm9ycWFOc2xveU8ybWNNbmdMdW1CMGZkTVQ0WVVCYjRINE8zYjRvUlo1Z2o3ZHJzNnVIWU95bEdFU01uVUlTQWNOOV9sdG03RWdUeU9HR1N4NnpZeUpxMkZtcUNDdVpyY3ItUEpFNnVqR21oTGpVeE52TElaclB0R1llN1JGdGVmRURzRC1SUVlxaWJPWXFVZ3hGaVZwb1c4QjhHeUg2bEJrTVlwVw?oc=5",
+   "data": "2026-09-17T11:34:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Filho de ex-São Paulo e nome de ídolo francês: o atacante do Del Valle que pode ser trunfo contra o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVXc2NHlSZ2prVFJPTnZYZHhvM3FtUG5oZHlDZ3VXUXdHcVoxTnkzX1dibFVRUFMta0ZTWjQ4TFppT2szQ001SjRSbTFqUGlReHdka1RIdUlYNnhhc0F6b19UbF9mc2tpSWJ5VXlTMXlMRm9TMVpiNzhGUWdwMU95VWNCRFNPcjZDYTBJVEZfZkJseGxiWVliUVUxWXZSMlJIajA0a0ZOX2E2Q2VrUjVZXzh2VC1VWlVhVThqam45aDd5ajRScFZOWXdoMlB5T1BUZ0FTbVRPQ3pIblpWYXlaMFg2eU9TRkRJb3c?oc=5",
+   "data": "2026-09-17T11:33:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Com vantagem, Flamengo terá tira-teima contra Del Valle após disputas de títulos",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/17/com-vantagem-flamengo-tera-tira-teima-contra-del-valle-apos-disputas-de-titulos.ghtml",
+   "data": "2026-09-17T11:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Mansur analisa gol da vitória do Flamengo sobre o Corinthians; confira O duelo entre Flamengo e Independiente del Valle, nesta quinta-feira, vale mais do que uma vaga nas semifinais da Conmebol Libertadores. Esse é o ob…"
+  },
+  {
+   "titulo": "Flamengo defende vantagem contra o Del Valle para confirmar vaga na semifinal da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWHFDZmV1TVZTZVlyS25fektRYTlMUWhSRE53WVQxWUlidjc2TnZFQjRlLVRVUEZCS1NKTWhHSklRQnNJcEFrY2ZqOHRtbUg4UXd6R1puXzdUaFUydHFBZXdTRGZVdGNPN1V0blNNdllkRzkzZHljRmtsQ2VYWTRqMFQwX2t1R3pGMDR6eDFwUHNKWWZsOW1mbWNfTlNsZE9VV1l6YWdsWExyckN1dEZBOHJ4S0ExS0hhU3N4VVFTMDd1RklxSnpTY00xeWl1WS0yaWlLNW4xNFdzektnWTNaRDg5YnpDRHJZZVVGSllrTWJEUlRGbF9F?oc=5",
+   "data": "2026-09-17T11:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogo ao vivo, escalações e mais: saiba tudo sobre Flamengo x Independiente del Valle",
+   "link": "https://colunadofla.com/2026/09/jogo-ao-vivo-escalacoes-e-mais-saiba-tudo-sobre-flamengo-x-independiente-del-valle-2/",
+   "data": "2026-09-17T10:47:21+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e Independiente del Valle (EQU) disputam vaga nas semifinais da Libertadores O Flamengo se prepara para enfrentar o Independiente del Valle (EQU), nesta quinta-feira (17), no Maracanã, no Rio de Janeiro. Dessa…"
+  },
+  {
+   "titulo": "Flamengo aposta em retrospecto para transformar trauma do passado em lição na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1ZxNGxMNHVLd1JheHp1bHNRUGZsbFRhOUE0ZEU1UDBmcmNkc2FwaU5nTnQ3eFB0TG5MR0hWRk42OWMzc0lmMFdMYUV3WFI5Z2JWREtvRUZxQ2R5cldfVzh6MEM3enYtLWZiZEE2elZKRmRWTDhSVEdlRHRZdXFnWlVSQmlOT1N3WVE2bkdHT3h4a3J0TkppRlVnTXl6ZUpMVDdXVy1HeHI3LVVLZUpkWDBGMW4zX21oQ011WWdEa0VKRTJZbHVESg?oc=5",
+   "data": "2026-09-17T10:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -88,22 +200,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo faz últimos treinos antes de enfrentar o Del Valle Flamengo e Independiente del Valle se enfrentam nesta quinta-feira, às 21h30 (de Brasília), no Maracanã, pelo jogo de volta das quartas de final da Conmebol Li…"
-  },
-  {
-   "titulo": "Flamengo x Independiente del Valle Palpite – Análise e notícias (17/09)",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW5pMW9BV1lRRE00bjlvRG1BdjRiTDAzY05UZDF6ZTg1RkNBMWNJaE5lZi00eVdmUmh5aVV3RHhMTzMxa3dHbDZHWXJkM3pnS3JDS1R0cXU0WEs4LTFtTDJPVFU3eXNxa0p5c0tra01jMGxTd2VmT0NSLXdFSG1tdE0yZDJkbkF3ZU44UGJnM2Y1NG5TNFZPY0RXdFNmc0VJMXhz?oc=5",
-   "data": "2026-09-17T05:48:38+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Tempo Real | Flamengo x Independiente Valle",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUF2QnJqTjY3ZVJjMzFWc0habGhRZTdkNmRBYVZJRkEwMTl1T3RCS0w3T3pCSHM3dV83Y1A5N3E3RmJ0ZnpIOENJZm5sbWtFNTJXS1h4ZGZuVFF3SEluRGhrSUs3Rk1CVURMaXhPc0JKbGRYQ1U0RndGTFhJb0xmWkNPRERTTDZKdkZJLXE4aGJKRkxBLWROdTZXSVRiWGNhZ2JFdzRyNzk1bV9WVERCQi1IeUpYM0k?oc=5",
-   "data": "2026-09-17T03:19:36+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "São Paulo x Flamengo ao vivo hoje 19/09: siga placar agora | Brasileiro Feminino A1",
@@ -154,52 +250,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Atlético-MG x Santos: 2 ex-Flamengo marcam gols em jogo da Sul-Americana",
-   "link": "https://colunadofla.com/2026/09/atletico-mg-x-santos-2-ex-flamengo-marcam-gols-em-jogo-da-sul-americana/",
-   "data": "2026-09-17T00:49:38+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Renier marcou duas vezes pelo Atlético-MG, enquanto Gabigol descontou para o Santos, na Arena MRV Atlético-MG e Santos se enfrentaram, nesta quarta-feira (16), nas quartas de final da Sul-Americana, com gols de dois ex-…"
-  },
-  {
-   "titulo": "Flamengo e Fluminense na final da Libertadores? Maestro Junior é sincero sobre possível decisão",
-   "link": "https://colunadofla.com/2026/09/flamengo-e-fluminense-na-final-da-libertadores-maestro-junior-e-sincero-sobre-possivel-decisao/",
-   "data": "2026-09-17T00:33:10+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ídolo eterno do Flamengo, Maestro Junior esteve em evento da Libertadores nesta quarta-feira (16) O Fluminense está na semifinal da Libertadores, e o Flamengo colocou um pé na vaga. Então, é inevitável que torcedores do…"
-  },
-  {
-   "titulo": "Palmeiras leva virada da LDU, mas passa nos pênaltis para enfrentar Fluminense na semifinal",
-   "link": "https://colunadofla.com/2026/09/palmeiras-leva-virada-da-ldu-mas-passa-nos-penaltis-para-enfrentar-fluminense-na-semifinal/",
-   "data": "2026-09-17T00:11:00+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "LDU empatou o duelo no final e levou a decisão para disputa de pênaltis no Equador O Palmeiras passou da LDU (EQU) nos pênaltis, nesta quarta-feira (16), e confirmou a vaga na semifinal da Libertadores. A partida termin…"
-  },
-  {
-   "titulo": "Organizada do Flamengo é suspensa e fica fora de 2 jogos no Maracanã",
-   "link": "https://colunadofla.com/2026/09/organizada-do-flamengo-e-suspensa-e-fica-fora-de-2-jogos-no-maracana/",
-   "data": "2026-09-16T23:32:16+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Raça Rubro-Negra anuncia punição e não estará nas partidas contra Del Valle (EQU) e Bragantino A Raça Rubro-Negra anunciou uma punição que impede a torcida organizada de acompanhar o Flamengo nos próximos dois jogos. A…"
-  },
-  {
    "titulo": "Torcedores do Flamengo reagem à atuação de Reinier em Atlético x Santos",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVhseE4wLWpYb0k1b1NyOE1WUHFIQTR1SmxkcDJVdlAyME1iZ2laVXJ5WmNtaDF5c25JNXZ0bFlDMER4UDlRSFdGS0JmRzNDMmNwRzRHMW5BRXl1Mm5GOEI0Mzk4RFhwNFoxMWYwY2lpUkk4UF9jR3NBTkdBQURiWHB5R3ZIenJ1M2FzbUJFV3FIUFJ0Y3FRdjQ2MWZkZV9vYVJINjNBSGd4SEo2MUN2WXJHNnJjQQ?oc=5",
    "data": "2026-09-16T23:22:28+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Adriano causa alvoroço na Libertadores Experience e pede o penta do Flamengo",
-   "link": "https://colunadofla.com/2026/09/adriano-causa-alvoroco-na-libertadores-experience-e-pede-o-penta-do-flamengo/",
-   "data": "2026-09-16T22:48:12+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ídolo do Flamengo participou da Libertadores Experience, na Enseada de Botafogo, e arrancou aplausos da torcida presente Tem celebridade na Libertadores Experience, no Rio de Janeiro. Adriano Imperador, ídolo do Flameng…"
   },
   {
    "titulo": "Presidente da Federação Chilena desabafa após conversa com Pulgar, do Flamengo",
@@ -240,14 +296,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Jorginho reage com bom humor após gafe da Libertadores em post errado",
-   "link": "https://colunadofla.com/2026/09/jorginho-reage-com-bom-humor-apos-gafe-da-libertadores-em-post-errado/",
-   "data": "2026-09-16T20:56:05+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Perfil oficial confundiu o volante do Flamengo com o ex-lateral campeão do mundo em 1994, e post viralizou entre os torcedores Um perfil da Conmebol Libertadores protagonizou uma confusão nas redes sociais. A conta bras…"
   },
   {
    "titulo": "Adriano Imperador 'para' evento no Rio e crava classificação do Flamengo na Libertadores",
@@ -354,16 +402,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo se protege do mercado e negocia cinco renovações ainda em 2026",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcGt3U1lWYmF1R3FrUjdnUnlFel8xLW1lQmFudVFkZ0FhdVczbFNEd0NBaDBXOU9IS3AyRmhnb1VFQ2M3RlppLXljQVdqVUIyeVNjeE81czNSVm4ydkJVZENibDZHbVFqRkQxMkVtblpyREc5WkZWM1ZrY2huaGEtcENJcDVvNldtLTBlVVR6Q3hWYWtjbGROa3pjVEdZMzgzVF9XTkhRc0l6V1Y4ZVVUZzZ5TVFQc1VUS3BUOWNxenJ3RWFWZlFqWW43aUhqYjlZb2Z3UG4tc3JoclU?oc=5",
+   "titulo": "Rodrigo Mattos: Flamengo adota um modelo de empresa sem se tornar SAF",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWZUWnM0by03SkYzY20zaG91amNSdDc0X0RXRl9KLU92dFZaYWRUVXFlaE1lN2I3VTc5am9VeVViY2luOU43X1hGLTkyVkFGazhXX255ZkdYdGJSdnVnaEtmUGZvZ1poWWJsYXJQN2JZQ00wbUExS1lrSkQ5c2F3b2VoRG9maEI0MmVsVHJDREc1ODFLXzc0OVB5TVozOFdFX2lNbHFIUHJjSVRrWWpFT2NLakZ5Tk5tU21jdEFKNUZEejJrMV9GaWt3?oc=5",
    "data": "2026-09-16T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Rodrigo Mattos: Flamengo adota um modelo de empresa sem se tornar SAF",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWZUWnM0by03SkYzY20zaG91amNSdDc0X0RXRl9KLU92dFZaYWRUVXFlaE1lN2I3VTc5am9VeVViY2luOU43X1hGLTkyVkFGazhXX255ZkdYdGJSdnVnaEtmUGZvZ1poWWJsYXJQN2JZQ00wbUExS1lrSkQ5c2F3b2VoRG9maEI0MmVsVHJDREc1ODFLXzc0OVB5TVozOFdFX2lNbHFIUHJjSVRrWWpFT2NLakZ5Tk5tU21jdEFKNUZEejJrMV9GaWt3?oc=5",
+   "titulo": "Flamengo se protege do mercado e negocia cinco renovações ainda em 2026",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcGt3U1lWYmF1R3FrUjdnUnlFel8xLW1lQmFudVFkZ0FhdVczbFNEd0NBaDBXOU9IS3AyRmhnb1VFQ2M3RlppLXljQVdqVUIyeVNjeE81czNSVm4ydkJVZENibDZHbVFqRkQxMkVtblpyREc5WkZWM1ZrY2huaGEtcENJcDVvNldtLTBlVVR6Q3hWYWtjbGROa3pjVEdZMzgzVF9XTkhRc0l6V1Y4ZVVUZzZ5TVFQc1VUS3BUOWNxenJ3RWFWZlFqWW43aUhqYjlZb2Z3UG4tc3JoclU?oc=5",
    "data": "2026-09-16T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -434,11 +482,27 @@
    "resumo": ""
   },
   {
+   "titulo": "Viña detona diretoria do River em apresentação no Cruzeiro e agradece Fla",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ0lvR1FNM0xPZ1pCVzZkcXJabEp4d3BxdUxYbGhoTkwxT1V1emdvV1lWZjRjQVB6TllIUklTV0JlWElrVlM2eTVfS1M4bFdJdGZ4QUFiU2RIb3ppaWw3cHBvVlpFWk9KQU1xVWdQb01iVG1NVU4yMHhDN0dDTHkzZ0NFcHlGSEV5ZXAwQnpqZ1Y0U3JiYmktdGI1djctb28?oc=5",
+   "data": "2026-09-15T22:40:24+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Viña agradece Flamengo e reclama de tratamento em ex-time na chegada ao Cruzeiro: 'É um grande clube, mas...'",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzk4UUdKTTJhZ3A2ZVh5cXQ0WUhDUENzT1RJdDZic0FfQ1FNeGVwa0dNNjMyamdnMkZfQUlxU3FKZ3dkMUV0bDd0R2sxWFphWkswaFJfcWtFWGJfNnJtakZCbzAyOE93OUF4RlVpbUhxeHZGMTdJYk1GVEFEU2hnQU1nblNubncwbXUzSjQzeWFfSS1EdjJEUkZ3Mi1xM05FUjV2M3MyTWhnR1RFQTVwa0xUUXNUcm1YYnJzaFNwLXJYdw?oc=5",
    "data": "2026-09-15T22:19:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Independiente del Valle Palpite – Análise e notícias (17/09)",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW5pMW9BV1lRRE00bjlvRG1BdjRiTDAzY05UZDF6ZTg1RkNBMWNJaE5lZi00eVdmUmh5aVV3RHhMTzMxa3dHbDZHWXJkM3pnS3JDS1R0cXU0WEs4LTFtTDJPVFU3eXNxa0p5c0tra01jMGxTd2VmT0NSLXdFSG1tdE0yZDJkbkF3ZU44UGJnM2Y1NG5TNFZPY0RXdFNmc0VJMXhz?oc=5",
+   "data": "2026-09-15T20:54:33+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -650,14 +714,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo lança série no YouTube sobre esportes olímpicos do clube",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTU0Q3VpN25TZ2dETzVQUXBRNXlnRHdXS3VMR3V0cFMtanV2Um5mOWU5TmZacTNOalFNZXN0YjZzYXd6cnNIR2dLcWNsRWU1ajhRNkZ1TUVnNndTcXBfV29VbDFiZGZGUGN6ZVdsTWQ1ZmV3MGdYNGRfQzhfY3R3Q1ZpNWQzYkN1dFZuVE1rTmY0Qjl1RDdpTkVMV09wQjZ6aFlmc1lwQQ?oc=5",
-   "data": "2026-09-14T21:14:03+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Libertadores: Flamengo x Del Valle terá árbitro de Copa do Mundo e Mundial de Clubes",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc2puTUtaM2RlQ3E1eHNyTXBMNEhYY184QmtTVTl3cE1WLXN5UHFhaGVMRXQ2Tm1ucEhJcEtpRE5faWtBbGVyRGlWb3RkdFNEWVN1aU56SExOdXpCS3lpRXhOLWpsa2d0Tjc4dFZZZVN3X0ZYckdUVzV0WDVTcktIVmhaUzJ1TTM1ajd2Y29vcW1vdGdkUW1DMmxSWkJkS25vZnFwcUdpWUc3Ti10Vlg3RWY5V292QXhEQ1hudE5tUQ?oc=5",
    "data": "2026-09-14T20:41:13+00:00",
@@ -736,14 +792,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Carlinhos, do Athletic, sofre grave lesão na cabeça e deixa jogo de ambulância na Série B A vitória do Athletic sobre o Juventude, fora de casa, acabou marcada por uma preocupação que foi além do resultado. Emprestado p…"
-  },
-  {
-   "titulo": "Maracanãzinho será palco do Sul-Americano Feminino de Clubes em 2027",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWh0RHloNUROemdzUzM3RjlWR0haeURpUXBPWGRSaWNabU50OHdUdUZHelNMTlFtZW9QSlNQRy1vNnlBcW1TeUI1SmlIZE5HcEtRYV9hRzdRczFQNUtpNnAzUWZFVF9hWV9nTHVlano1VFZ4N2ZnczR2SVlLRkZCbnBjMWxHWXVxSVFzU0s0LVRlSHZucnNpX1prdTRMTVl0M1dWTDRxcw?oc=5",
-   "data": "2026-09-14T14:31:52+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Felipe Melo manda recado a Pedro após Flamengo x Corinthians",
@@ -1002,6 +1050,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Veja os gols da vitória do Flamengo do Corinthians por 2 a 1",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ja2I2ZzgtN01VdGpSWDZMLVRzbGdaOVZDcTMtWlVvbEVObHRlRTh5UHpYVVZkcGRkSHpUUG9KZVVxd2UtZGRLZzJldk1MSWxGbmoyQlFBRlBhUGJLcFpWQlhhd3Rla0k?oc=5",
+   "data": "2026-09-13T22:47:42+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Bruno Henrique celebra marca no Maracanã e elogia Freitas: 'Vai dar frutos'",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejJlYlJvNTduQ0QwU3RyaGRuWjVYWHFDZVlWN1dxRU5PWDdrNlZHOVBPTVZ4cW5oTWNwZFhPXzR6a0hKQm5lVjNEQkRQa2tvVFFLV3hSVVJodndXT19DWHdOZWNjNUpMNTBacUdQVXVkQmF2YWVNakxTZTQ5X3dwa0VtRXVCVkZTbFpvZi0tcVhzRkhITTRienBCb1VGOVZJVmpHa0NpWmR6a1E?oc=5",
    "data": "2026-09-13T22:46:30+00:00",
@@ -1175,62 +1231,6 @@
    "data": "2026-09-13T16:25:51+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo e Corinthians vão poupar no clássico deste domingo?",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTTJJTE5PdXBQSC1TZ1hUOTU4dHZBTWowaDIwUDRUbzF1bDl2MnJjczJNeGJPaWg3dlpneEVvcUt5dUhCUFNidHFRUnI2OW9MZlAyak9nZFBMVmc4WjhpQy1rLU1IOEJBRHB4WTdpSC1qY1lZZ2ZYMXFVQ283enR5ZW4tWk5JZV9VeUJlSHVlXzV2Wk83anEwQnJ4VHBIQzVOeEQxRFFnTjA5QQ?oc=5",
-   "data": "2026-09-13T15:18:01+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Onde vai passar Flamengo x Corinthians pelo Brasileirão? Como assistir ao vivo",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS19JNVQ3QnBuWEZaazFjZzV0b3kxZWM5eVJIYklKd1BEdjVLMXpEcWxhYWZmWEFINjB1anVleXVBTnVTYTNveW5iXzU2UXBhYmZvbjYyVW1wNl9xenZWTENRUEhmTVBaX2Vfbk1KN0Jab3NZejJfZkNfX1FhM1ZDZWZqNnE1ZWdjcTdlZkRUNmhEMi1SVzRPSDYxS09EaGlRcUZXSWZscE9kVU1pVkExc191MlhQOEI2TVZqNzFPV293bGY0SkcxSWJxY2tLWk9jWjRGZURURVk?oc=5",
-   "data": "2026-09-13T14:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "São Paulo vence o Flamengo de virada e abre vantagem na semifinal do Brasileirão Feminino",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeGhaNEZVaTNxa0w2TkFwdEluSG80TkdBbEVFRGp6VGhudlhMc3NwQXZrUzJWUko5N3FkR2MyWkVERUdFNEE5TjRLZk8tclZkNGNSM2RmRTEtc2RSd2g0X1NhWnI3ZnZZYzRPN0pTS0xaazUwalpGVlEzYzhHUENoNElLcy00NTcyamt0Ti1VXzVta3pkbGJvYXhYZWt5cHZiX2trU1pkSVc5UmRfQkhzVUI4WXphOWdZRENLLUxUaVEyQ2tlZ0N0Zg?oc=5",
-   "data": "2026-09-13T14:13:24+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Saudade: Há um ano morria Merica, ex-volante do Flamengo e Bahia",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY0pVOU40WERES0Y4OUtfUmRoNTJ0R1g1NF91a1ZNUlVicU5MbU5fSUhmeTlESzFFVFRrTTFYSkZhaTVlTEFNTHVTb1N4cXRHVHZxaUhLeFp3NVhTWmlBbUFJaGhlQW5RQUE1R0UwY0hQNFZ3Y2ZyWExVdzBJbEVzNEN5cTNteGwyczgtbTNMcVBnMDdCZEhxOFZMXzI3eE9jV09oS1NfQQ?oc=5",
-   "data": "2026-09-13T13:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Torcer pelo Corinthians? Zagueiro do Palmeiras responde se vai 'secar' o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbVl4LWxtVXAzTzZCRVY5alVweEotMU1kX3c1a2pFRnd3NGpLOHd5WG5ZRVFWdmNuNHVuWTk5ZWYtSEpRY0h2QmhYV1NMV1I1NDlZT3dJYXFtb2gxbThKSWQyMVU1bFRBZFFUY2FEQ2htUUpKOFc1WlJLS1c0a3cwYmczNGRQSVNmZXpYOUFRdVBkMkg2cnVkMUVvT0V5bUV0dUtwM3NRWlZMdDJONG5neEFGWnFVbWMwWHc?oc=5",
-   "data": "2026-09-13T12:42:13+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Corinthians reúne trajetórias cruzadas e contrastes de espaço",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM190TUhydmpic01mU1NrcUcwYUJjb2hMamtJRjlXQTR5aHJHSmhlQ240RDFra0F4WDlVZlVNX1FMZEdseUN0WG93QTNqUmQ2MzR2MmMzNk9tRGowSlhQRUt1cy1IaEVtM2puX2FQa29FbnE0SGxrbEIxNEVnbkc2WHhzVHA3N0RuS0ZQUkV0eW9sMzhXRHhzWEs0dDAwM09pSFlZOHpPeFNRY3ZTYlhMcDZUVEo3dWlzNkN3V1E4ektmUDZRaWtpUjFNRGhqN1BqSWwwMU5yNmo3YjRP?oc=5",
-   "data": "2026-09-13T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jogo do Flamengo hoje pelo Brasileirão: que horas começa e onde assistir",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUlh2MXdvaUs1cWdiUEtNTHVPWXB0MXVpa3Y3eWl1UmNyZGF1R0hyM2JiTUFNOEc0THBiM2JrdHhZTHcwUEJzM1BNWTJMOGRmRmdKVkRxOVhBUjY3dHFpZE80UmE0OUtIbWp3RklfNDJRTWJCWkRfU2ZfMXBjWXV3ZDVJeFRlMlZoNUwxYXVXSTh0TGZzMkpWVnhucVhuQU9DX0Fhd2s3STA0elpYaVdva19NUURNOHFHblJxbkJueVNfeEdwaHFERU9kRmpjcFh5?oc=5",
-   "data": "2026-09-13T12:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
