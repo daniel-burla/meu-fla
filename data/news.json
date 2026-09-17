@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-17T19:13:36.687539+00:00",
+ "atualizadoEm": "2026-09-17T22:24:19.397516+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 41
+   "itens": 38
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,104 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 58
+   "itens": 59
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 86
+   "itens": 84
   }
  ],
  "itens": [
+  {
+   "titulo": "Clubes defendem bets reguladas e afirmam que restrições podem ser o “fim do futebol brasileiro”",
+   "link": "https://ge.globo.com/sp/futebol/noticia/2026/09/17/clubes-defendem-bets-reguladas-e-afirmam-que-restricoes-podem-ser-o-fim-do-futebol-brasileiro.ghtml",
+   "data": "2026-09-17T22:04:17+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Governo estabelece novas regras para publicidade de bets Em manifesto publicado na noite desta quinta-feira, alguns dos principais clubes de futebol do país defenderam o mercado regulado de apostas no Brasil. O document…"
+  },
+  {
+   "titulo": "Como assistir Flamengo x Del Valle pela Libertadores na Disney+?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFROSHl4ZVltQ1pGMFBFY0NJVWxsckJPSXNIUWxjVjdSNWZ1b2hvamtsVXRvT0ZUWjkxUnF2OENLdWw3UzRFUkRXS0RTTFo1ZkJ2cVlmUXI3NEtZcFpPM2RYQVBvLVBMc0puUTdJWUhIXy00OTliVXFZMDFzVkItRzYtYXF1a1U0S045bUE1YnUxLTBKbGVsU0loSWJkeWRUdkctaUcwVUVPZw?oc=5",
+   "data": "2026-09-17T21:56:23+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "CBF define data de apresentação de jogadores da Seleção Brasileira; dupla do Flamengo foi convocada por Ancelotti",
+   "link": "https://colunadofla.com/2026/09/cbf-define-data-de-apresentacao-de-jogadores-da-selecao-brasileira-dupla-do-flamengo-foi-convocada-por-ancelotti/",
+   "data": "2026-09-17T21:42:31+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Pedro e Samuel Lino integram a lista de Carlo Ancelotti para os amistosos contra Austrália e Índia, na próxima Data FIFA O técnico Carlo Ancelotti divulgou, no dia 9 de setembro, a convocação da Seleção Brasileira para…"
+  },
+  {
+   "titulo": "Flamengo x Independiente del Valle ao vivo hoje 17/09: siga placar agora | Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGdHUmdwcWRVVkRPUDZocDRIcmZvdW53YmhOTXU3c2czOG9FUVJUYjE4MU9OSS16VU9sbnFMdWM4bEVBdjYxNjhVVjNmczBfTF9KOTV3S0NqajE5WW83ejY3eHl3MmhvVDdhdFNQcWx1a2FCVTlXTXNTX3ZoWjJjRTIxSk1aTkFlajJrdURKdWdFQVdaWEtFWWRBTlFDS3VVZHh5UUVUaw?oc=5",
+   "data": "2026-09-17T21:36:15+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Com retorno de Léo Pereira, veja lista de relacionados do Flamengo para jogo contra o Del Valle, pela Libertadores",
+   "link": "https://colunadofla.com/2026/09/com-retorno-de-leo-pereira-veja-lista-de-relacionados-do-flamengo-para-jogo-contra-o-del-valle-pela-libertadores/",
+   "data": "2026-09-17T21:22:27+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e Independiente del Valle (EQU) se enfrentam nesta quinta-feira (17), pela volta das quartas de final da Libertadores O Flamengo encara o Independiente del Valle (EQU) pela volta das quartas de final da Copa Li…"
+  },
+  {
+   "titulo": "LA 2028 é logo ali! Natação e ginástica do Flamengo somam 12 medalhas nos Jogos Sul-Americanos",
+   "link": "https://colunadofla.com/2026/09/la-2028-e-logo-ali-natacao-e-ginastica-do-flamengo-somam-12-medalhas-nos-jogos-sul-americanos/",
+   "data": "2026-09-17T20:49:56+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Três nadadores e duas ginastas brilharam nos Jogos Sul-Americanos de Santa Fé O Flamengo já começou o ciclo rumo às Olimpíadas de Los Angeles 2028 com brilho na natação e na ginástica. Os dois esportes totalizaram 12 me…"
+  },
+  {
+   "titulo": "Técnico algoz do Corinthians atinge segunda semifinal de Libertadores desde fracasso no Brasil",
+   "link": "https://ge.globo.com/rs/futebol/libertadores/noticia/2026/09/17/tecnico-algoz-do-corinthians-atinge-segunda-semifinal-de-libertadores-desde-fracasso-no-brasil.ghtml",
+   "data": "2026-09-17T20:30:35+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Memphis perde pênalti e Corinthians está fora da Libertadores Corinthians perde para o Estudiantes e é eliminado da Libertadores A classificação do Estudiantes sobre o Corinthians recolocou o técnico Alexander Medina no…"
+  },
+  {
+   "titulo": "Flamengo tem jogador pendurado nas quartas da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFNpcnp0R0kwM2JDWHRMSFNBd0FTb1FmOXZTS1lqZzZOODcweUlfYkYyZzNTWjB3NWNZeTZJNFl5d2F1YnNxS2xlWGJ6T00yX3NFM0RwcVh1RExWOHdhYmctcl9CY3h0S2lJOWdMLTlFM2lMT3E4aWxEWWlsRGFTZHRfQTVBYjBPaUltWUs5TGtiSzEzMGJySXpIaUI3d2FuQnNKdXN4UTQ1VUJtUjV4end5dEVkUQ?oc=5",
+   "data": "2026-09-17T20:07:28+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Tempo Real | Flamengo x Independiente Valle",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUF2QnJqTjY3ZVJjMzFWc0habGhRZTdkNmRBYVZJRkEwMTl1T3RCS0w3T3pCSHM3dV83Y1A5N3E3RmJ0ZnpIOENJZm5sbWtFNTJXS1h4ZGZuVFF3SEluRGhrSUs3Rk1CVURMaXhPc0JKbGRYQ1U0RndGTFhJb0xmWkNPRERTTDZKdkZJLXE4aGJKRkxBLWROdTZXSVRiWGNhZ2JFdzRyNzk1bV9WVERCQi1IeUpYM0k?oc=5",
+   "data": "2026-09-17T20:03:02+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Tite volta a justificar demissão no Flamengo em coletiva de apresentação no Botafogo",
+   "link": "https://colunadofla.com/2026/09/tite-volta-a-justificar-demissao-no-flamengo-em-coletiva-de-apresentacao-no-botafogo/",
+   "data": "2026-09-17T19:57:13+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Técnico comentou as passagens recentes por Cruzeiro e Mengão durante a coletiva de chegada ao clube carioca Tite foi apresentado como novo técnico do Botafogo e reviveu, na coletiva de imprensa, fantasmas do passado rec…"
+  },
+  {
+   "titulo": "Flamengo receberá quantia milionária se avançar às semifinais da Libertadores; veja valor",
+   "link": "https://colunadofla.com/2026/09/flamengo-recebera-quantia-milionaria-se-avancar-as-semifinais-da-libertadores-veja-valores/",
+   "data": "2026-09-17T19:44:55+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Time comandado por Leonardo Jardim define vaga na semifinal da Libertadores contra o Independiente del Valle (EQU) O Flamengo encara o Independiente del Valle (EQU) nesta quinta-feira (17), pela volta das quartas de fin…"
+  },
   {
    "titulo": "Exigência da Conmebol ameaça estádio do Estudiantes na semi da Libertadores, possível adversário do Flamengo",
    "link": "https://colunadofla.com/2026/09/exigencia-da-conmebol-ameaca-estadio-do-estudiantes-na-semi-da-libertadores-possivel-adversario-do-flamengo/",
@@ -40,22 +128,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Clube argentino tentará usar o Estádio Uno, mesmo com o setor visitante abaixo da exigência da Conmebol O Estudiantes (ARG) já garantiu vaga na semifinal da Libertadores, depois de eliminar o Corinthians. Então, o clube…"
-  },
-  {
-   "titulo": "Análise do último Datafolha em relação ao futebol do Rio de Janeiro no Brasil",
-   "link": "https://colunadofla.com/2026/09/analise-do-ultimo-datafolha-em-relacao-ao-futebol-do-rio-de-janeiro-no-brasil/",
-   "data": "2026-09-17T18:46:30+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "AUTOR: Engº Civil Henrique Luduvice Ex-Presidente do CREA/DF, MÚTUA e CONFEA Sócio do Flamengo há 42 anos. Membro Nato do Conselho Deliberativo O Datafolha publicou, após pesquisa realizada no período de 22 e 23 de julh…"
-  },
-  {
-   "titulo": "Flamengo x Independiente del Valle ao vivo hoje 17/09: siga placar agora | Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGdHUmdwcWRVVkRPUDZocDRIcmZvdW53YmhOTXU3c2czOG9FUVJUYjE4MU9OSS16VU9sbnFMdWM4bEVBdjYxNjhVVjNmczBfTF9KOTV3S0NqajE5WW83ejY3eHl3MmhvVDdhdFNQcWx1a2FCVTlXTXNTX3ZoWjJjRTIxSk1aTkFlajJrdURKdWdFQVdaWEtFWWRBTlFDS3VVZHh5UUVUaw?oc=5",
-   "data": "2026-09-17T18:45:57+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Onde vai passar Flamengo x Ind del Valle pela Libertadores? Como assistir ao vivo",
@@ -66,36 +138,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Tempo Real | Flamengo x Independiente Valle",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUF2QnJqTjY3ZVJjMzFWc0habGhRZTdkNmRBYVZJRkEwMTl1T3RCS0w3T3pCSHM3dV83Y1A5N3E3RmJ0ZnpIOENJZm5sbWtFNTJXS1h4ZGZuVFF3SEluRGhrSUs3Rk1CVURMaXhPc0JKbGRYQ1U0RndGTFhJb0xmWkNPRERTTDZKdkZJLXE4aGJKRkxBLWROdTZXSVRiWGNhZ2JFdzRyNzk1bV9WVERCQi1IeUpYM0k?oc=5",
-   "data": "2026-09-17T18:27:46+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Jogador do Del Valle planeja hostilidade e decisão nos pênaltis contra o Flamengo",
    "link": "https://colunadofla.com/2026/09/jogador-do-del-valle-planeja-hostilidade-e-decisao-nos-penaltis-contra-o-flamengo/",
    "data": "2026-09-17T17:53:56+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Zagueiro equatoriano projeta postura ofensiva no Maracanã, mesmo após derrota por 2 a 0 na ida O Independiente del Valle (EQU) não se deu por vencido. Ao longo da semana, os jogadores do time equatoriano mostraram confi…"
-  },
-  {
-   "titulo": "Que horas começa o jogo do Flamengo x Independiente del Valle hoje, pela Libertadores?",
-   "link": "https://colunadofla.com/2026/09/que-horas-comeca-o-jogo-do-flamengo-x-independiente-del-valle-hoje-pela-libertadores-2/",
-   "data": "2026-09-17T17:36:02+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Confira os detalhes do duelo entre Flamengo e Independiente del Valle (EQU) O Flamengo ajusta os detalhes finais para mais um compromisso importantíssimo pela Copa Libertadores da América. Nesta quinta-feira (17), o tim…"
-  },
-  {
-   "titulo": "Os números do Flamengo no Maracanã destacam ritmo forte para decisão contra Del Valle",
-   "link": "https://colunadofla.com/2026/09/os-numeros-do-flamengo-no-maracana-destacam-ritmo-forte-para-decisao-contra-del-valle/",
-   "data": "2026-09-17T16:53:49+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro desafia o Independiente del Valle nesta quinta-feira (17), pela volta das quartas de final da Libertadores, no Maracanã O Flamengo é um baita mandante. Em casa, o time tem, neste momento, apenas uma derrota…"
   },
   {
    "titulo": "O recado do Monaco, de Filipe Luís, ao Flamengo antes de jogo decisivo da Libertadores",
@@ -112,14 +160,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Bruno Henrique faz tatuagens para cobrir marcas de lesões \"Pode chamar de tatuador oficial do Bruno Henrique\" Nascido e criado em Belford Roxo, na Baixada Fluminense, Gustavo Gomes começou quase por acaso na tatuagem ao…"
-  },
-  {
-   "titulo": "Jogo da Libertadores hoje: Flamengo x Del Valle define adversário do Estudiantes na semifinal",
-   "link": "https://colunadofla.com/2026/09/jogo-da-libertadores-hoje-flamengo-x-del-valle-define-adversario-do-estudiantes-na-semifinal/",
-   "data": "2026-09-17T16:17:57+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo x Independiente del Valle (EQU) disputam vaga nas semifinais da Libertadores O Flamengo enfrenta o Independiente del Valle (EQU) nesta quinta-feira (17), a partir das 21h30 (horário de Brasília). Portanto, a pa…"
   },
   {
    "titulo": "São Paulo x Flamengo ao vivo hoje 19/09: siga placar agora | Brasileiro Feminino A1",
@@ -250,14 +290,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Estudiantes perde 2 titulares para semifinal da Libertadores; adversário pode ser o Flamengo",
-   "link": "https://colunadofla.com/2026/09/estudiantes-perde-2-titulares-para-semifinal-da-libertadores-adversario-pode-ser-o-flamengo/",
-   "data": "2026-09-17T02:55:46+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Pendurados receberam o cartão amarelo contra o Corinthians Caso o Flamengo confirme a classificação para as semifinais da Copa Libertadores da América, pegará um Estudiantes (ARG) desfalcado no primeiro jogo, em La Plat…"
-  },
-  {
    "titulo": "Antes do UFC 331, Pantoja faz pedido a treinador: 'Ver o Flamengo'",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWxGMlNIRTA0UlptRU1fRmg4RDBFcE9rN0FLOVVUMXY0NUZUT0VhT2cxcEZ6SmhfZzdHRzkyOVk4T3NlVnU3WG1BRGsyQS0tR0pKTS1XUER0Yk1Mb2VxcE5sZlRHQjlEa05TYkZBTFc3YWF3TVJOLWE4Q3VEcHM3OU1oRnBkcEIzaFdqNWRjc1p0OG5QUkJhYlZrWExTR28?oc=5",
    "data": "2026-09-17T01:09:42+00:00",
@@ -376,14 +408,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Cassius explica como funciona a pontuação em assistência no Cartola Samuel Lino e Viveros são os nomes mais visados na hora de montar o ataque nesta temporada do Cartola. Contudo, na rodada #28, o cartoleiro precisará s…"
-  },
-  {
-   "titulo": "Pedro ou Bruno Henrique: Quem deve ser titular do Flamengo na partida contra o Del Valle? Jailson Vilas Boas responde!",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ma2h1UDF4OG1lWmNXM2YzZzJWVE9xLWdqU3RvRU9mLU1wcnlONVhvOHYtSTBESlQwRUF6YUxYSUZNc0ZxVWcyV25aNGNIZEtGREZPYjc4ZXVXUFhNQnc?oc=5",
-   "data": "2026-09-16T16:33:36+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   },
   {
    "titulo": "Artilheiros do Flamengo, Pedro e Bruno Henrique travam corrida para superar marca de Gabigol na Libertadores; saiba qual",
@@ -898,6 +922,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Corinthians se complica, e Fla tem 66,2% de chance de título; veja cenários",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV3hFa0pRWVRjODkwRTZFNm1ZM3FOU1pMQ1VXamo3bjlscTRwRTBhQ1g0a3VVY1hpT0l0OFpxdnJvNlhZUkpWcGJGMjFyWnZlTTJtWTBjUzlLNFZNbmRRTXdLNHAxOXp4VnlzRDhfOWl3T3p4N1VYdTVsV0t5SmJzRUh5SWlNZVZvcjIyck5mY29zeWNSU1BEMlUxRDhnM0NFU3ZMVHJfMGx4MHVtQ1YwSkFCRVAzM2VMTE5qNjNxTUZoazlqQWhMYkJOek9kY2NUVjU3a2F3WEw5b3poNDlZ?oc=5",
+   "data": "2026-09-14T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Análise: Flamengo flerta com perigo, mas Bruno Henrique resolve e garante a liderança",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/14/analise-flamengo-flerta-com-perigo-mas-bruno-henrique-resolve-e-garante-a-lideranca.ghtml",
    "data": "2026-09-14T07:00:01+00:00",
@@ -1199,38 +1231,6 @@
    "data": "2026-09-13T19:32:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Com time reserva, Corinthians está escalado para enfrentar o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVNyc1N0MWwwMkphOHBSemN5UHphN1VGSHI3N3FNM0tyNDVJRnpJSzhBTG9fQXBTX2gtR2NrM2N4dDBYV3hoWkJQWXJPX0JqbEowSmY0MXJSY1VrWXd0T0hlRlo0bV9YY1Jld1YydFdVYUZUcThmMUhnUmZUa1ZHNTNkR3I0SzBNLUFObGlJSVdJWkVkakprRTFwYTY4ai1PdXZrc1BTa3BwUlpnOVpr?oc=5",
-   "data": "2026-09-13T19:31:21+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Corinthians: onde assistir e escalações",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlB3TFZKZ3ViSUIzbnBXNGROaEk0VV96YXEwREZhSjViZ04ybVVYcHR0Z2p5RVhONkIzNW1LN3hTWGFKdDNPQTlpM2lrbWRSUng1ZnF3U2ZNTzVyZTZVcmlwWTQxd25DLVZRQUpjdko3d3FHTmh0TG1oV1BsalFZVlV0R1ZEcjVkX0x0MTdyLXBsTTVCNUZWTA?oc=5",
-   "data": "2026-09-13T19:30:24+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Corinthians: convocados por Ancelotti se encontram no Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3pNZk9TaWRPY2lNWFpjTDFmenNpaWo5MDl6QTRmVjhwc3IwVDVVUVNwZEdDT180Z0w1UTY0b3BnTDMwaE55NXQwZ2NDNmxPSTdnaVVCbmRwcXZnNloxRzMtSlJQSTgzeHpCQU1VbWNBbHJhdXhhUTFaSEVNaFFjT19uVkVqUmZnUmhsejRLOHBZdFRzRmFNbERTV1RHcm5WdDdNYzMxZnVISWdFc09aeXo0VHN4WE1UbWhV?oc=5",
-   "data": "2026-09-13T19:28:51+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Transmissão ao vivo de Flamengo x Corinthians pelo Brasileirão: veja onde assistir",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY0RNdGRXbUd1cGctU0JaUFRtYkxFbG45RG1WUGFEbXQxMnJtVjZYRXIwc2FKZVRZTTNxblBoaGYxc2UxaW01T2NNb1d2WUlvLWR2cE94ODV1UUhWY0d4enBJTk5jWS16dGhpVDZkR2wwOVUzOGtuZ3plWk16Z2VZRjJyU2gyM3VkWm1QNHlOcHpDSjMtUE1qWDBBc1BYM1lsa00zZ2dZZjJqU0ZmM2dBQnRHUjFuR192VmVDaEQ0a1h6SlFSd0JyU3hpZkRKdHdLcXFBeDM0TkxQYjdxaUE?oc=5",
-   "data": "2026-09-13T19:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
