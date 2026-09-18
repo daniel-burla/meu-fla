@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-18T21:11:28.250737+00:00",
+ "atualizadoEm": "2026-09-18T23:32:59.519896+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 39
+   "itens": 37
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 72
+   "itens": 68
   },
   {
    "id": "uol",
@@ -33,6 +33,110 @@
   }
  ],
  "itens": [
+  {
+   "titulo": "Emerson Royal compara Barcelona e Flamengo: 'Mais difícil'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUNick1hbkpISDJiMVJrRU1BT3RlTmhFMG5BM2VOLU5OOHVXcEtaOGFYQ09hWmJSX3Rfa3A4TGI5RTJxMGZFb013bmdQeGlyVmJDYUVIdDRmVXJ5Rk91V1EwWFV2MDdEX0l1aHpydV9JSE41RVFGZnFmb3dVV3Z5eU9VbTZ5aEh0eEExSGJSTktqY01weU93NXBfbUpmTVls?oc=5",
+   "data": "2026-09-18T23:26:36+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Lula cita Flamengo e Corinthians e diz estar decidido a 'acabar com bets'",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY0RQOUJuVGFHNHBSU1FsMWtJeTlzMXlRWmxscF9nMVduTXJ2bjdoV3NRUTVQMHpSMDdQMTJ1MmtEUzFTUWl4Yk5VVlhqV1Rvb29WQW5CQy1mdm9Ednl6eEN0NVhtSUJ6WENiaFpVdGlpWjZ6dmNQU0tKYk9QWGRvWlh5V0hCU2FZdGtIdTU2c0tqVUkwc2p2Wk51MnQ4MmRPOUJZMEhFRkxuN20yY1V5SFJSU3kxVGlvekFmdWl3WnhWUQ?oc=5",
+   "data": "2026-09-18T23:24:42+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Casagrande: Que energia! Torcidas são mágicas em classificações de Flamengo e Atlético",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFlIREdVbU1SRXlpVFphem52eGpJMk1rUG52NlQwclA1emFGX1cwNnptZjQ1UkxrNVRWY0dWT0tnd2ItazRPV3RnZXNZNl96M1RaMnRXbXFybGViS09sM1NyaHVGWGtuRUJJMm4yYXlRMmZOVkxTRkxjNjdwMWNVOFVvMVpZYWlQMlpxREtMZFhBNHgzUmZpaGxWRzM0cVd2WEJwV1BPRHA3MVYyQW9zYWdmUWhWdEVZSC04U0VVYW45czNaWkRHY2doWXBfaWsydWJRTzBFQUNSWjBq?oc=5",
+   "data": "2026-09-18T23:15:59+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Favoritismos #28: dicas, palpites e chances no Brasileirão",
+   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/09/18/favoritismos-28-dicas-palpites-e-chances-no-brasileirao.ghtml",
+   "data": "2026-09-18T23:14:43+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Athletico-PR x Bahia: informações e palpite para o jogo O terceiro colocado Athletico-PR e o quarto colocado Bahia, empatados com 46 pontos, vão fechar a rodada com o jogo de mais alto nível técnico do fim de semana. Ca…"
+  },
+  {
+   "titulo": "Palpites e dicas para Flamengo x Bragantino pelo Brasileirão",
+   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/09/18/palpites-e-dicas-para-flamengo-x-bragantino-pelo-brasileirao.ghtml",
+   "data": "2026-09-18T23:03:50+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "O Flamengo tem sido dominante contra o Bragantino, com quatro vitórias nos quatro últimos jogos como mandante pela Série A, inclusive no ano passado, quando Vagner Mancini já era o técnico do Massa Bruta. Líder do Brasi…"
+  },
+  {
+   "titulo": "Mágoa do Estudiantes? Arrascaeta dispara sobre sentimento de encarar o time argentino na semifinal da Libertadores",
+   "link": "https://colunadofla.com/2026/09/magoa-do-estudiantes-arrascaeta-dispara-sobre-sentimento-de-encarar-o-time-argentino-na-semifinal-da-libertadores/",
+   "data": "2026-09-18T22:58:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "O que disse Arrascaeta após classificação do Flamengo para a semifinal da Libertadores? Arrascaeta não guarda boas lembranças do último jogo em que atuou contra o Estudiantes (ARG). Isso porque, no duelo na Argentina ai…"
+  },
+  {
+   "titulo": "Bruno Henrique 600 jogos! Ídolo do Flamengo celebra marca na carreira: “Espero comemorar no Maracanã”",
+   "link": "https://colunadofla.com/2026/09/bruno-henrique-600-jogos-idolo-do-flamengo-celebra-marca-na-carreira-espero-comemorar-no-maracana/",
+   "data": "2026-09-18T22:42:59+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Bruno Henrique atingirá feito no próximo domingo (20) Ídolo do Flamengo, Bruno Henrique vai atingir a marca de 600 jogos na carreira neste domingo (20), contra o Bragantino, no Maracanã. O atacante espera que seja uma n…"
+  },
+  {
+   "titulo": "Palmeiras ironiza Flamengo por críticas ao gramado do Maracanã: 'Tempo é o senhor da razão'",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa3JvNUpDRktyZG5ScUpjbHhQbUkwMlNZVHhRYmxncVBFTDY2YTJaLTNrcUR1ZGdzQ1JNQVBGQ0xQRjg2a0M0RzF3a01fbVo0aU1WaWNHbEpNemN6eVE3eW1kbUNsMHh5M3NkWmJXZnR0MUhsM0E4T216X21KRVNmS0ZPNVNHV3RQU1g1VklsSjQyd29icGs2dWx6S0tnalllSmRFMzNobElUMm00MU1peGczMHBKcDJ6dS1lbk1jNmFWcGx6azdEVWxaX2drb0tYTkN3eXZsVUY1TVM3aGd4dmw3UVRUd0V5ZHpDS1lOZmU?oc=5",
+   "data": "2026-09-18T22:25:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x RB Bragantino Palpite – Análise e notícias (20/09)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVZUXpHUjA2aUxMVW5ZRzVpSGpvU1RDdWJGU2ZmYmxmWFd6bElJRXFnOEFIM3pEMmgzVlZTQ280bFZ1bnYzLUs1SWRaVVpyTEJ1WXVfcmNSbmE2N0ZQdVQyOWIydi1fdUZ6OG0yMzB4ajZVUkZWWlNYVGNfWVVOUVBWSFlrV1dTS1dRQWh4UlpqeGhtVkE?oc=5",
+   "data": "2026-09-18T22:17:50+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Filipe Luís chama atenção após jogo do Monaco: 'Avassalador'",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHI5cUxnV1BFYW9HMjBjV1BQODBRWnViR2pTY2Z2NGI0RkVUTmV6OUdOZE9IOTV0a2NOS3IzMWJYVm9aNHJUN0JITUVNeTJJVllPbUh3ZGRGN3ZJWm1maHBtZGhYWEY3d0RUX3VvUFBtQlVweEVMbm5UeUZyLUt0RUVIeE9xdTVjSHQ1MUNsdzdJVXJSTDl2SWRUR19md1MydFlB?oc=5",
+   "data": "2026-09-18T22:16:35+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "A sinceridade de Royal ao falar sobre a atuação do Flamengo contra o Del Valle no Maracanã",
+   "link": "https://colunadofla.com/2026/09/a-sinceridade-de-royal-ao-falar-sobre-a-atuacao-do-flamengo-contra-o-del-valle-no-maracana/",
+   "data": "2026-09-18T21:57:26+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "O que disse Emerson Royal após classificação do Flamengo para a semifinal da Libertadores? O Flamengo não fez a melhor atuação diante do Independiente del Valle (EQU) nessa quinta-feira (17), porém, garantiu vaga na sem…"
+  },
+  {
+   "titulo": "Segue o líder! Monaco de Filipe Luís vence Lens e está na ponta do Campeonato Francês",
+   "link": "https://colunadofla.com/2026/09/segue-o-lider-monaco-de-filipe-luis-vence-lens-e-esta-na-ponta-do-campeonato-frances/",
+   "data": "2026-09-18T21:42:12+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Equipe comandada pelo ex-técnico do Flamengo bateu o Lens (FRA) por 2 a 1 nesta sexta-feira (18), no Stade Louis II O Monaco (FRA), comandado por Filipe Luís, venceu o Lens (FRA) por 2 a 1 nesta sexta-feira (18), no Sta…"
+  },
+  {
+   "titulo": "Sharjah FC anuncia Lorran, agora ex-Flamengo; clube carioca mantém 30%",
+   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/18/sharjah-fc-anuncia-lorran-agora-ex-flamengo-clube-carioca-mantem-30percent.ghtml",
+   "data": "2026-09-18T21:07:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Seleção debate escalação do Flamengo contra o Del Valle: \"Pedro não pode ser banco\" Lorran é oficialmente jogador do Sharjah FC. Jogador que já teve status de grande joia do Flamengo, ele foi vendido ao clube dos Emirad…"
+  },
   {
    "titulo": "Estudiantes confirma novo desfalque antes de jogo contra o Flamengo, pela semifinal da Libertadores",
    "link": "https://colunadofla.com/2026/09/estudiantes-confirma-novo-desfalque-antes-de-jogo-contra-o-flamengo-pela-semifinal-da-libertadores/",
@@ -56,14 +160,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Seleção debate escalação do Flamengo contra o Del Valle: \"Pedro não pode ser banco\" O Flamengo conquistou a classificação para a semifinal da Libertadores, mas precisará virar rápido a chave pensando no Campeonato Brasi…"
-  },
-  {
-   "titulo": "Casagrande: Que energia! Torcidas são mágicas em classificações de Flamengo e Atlético",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFlIREdVbU1SRXlpVFphem52eGpJMk1rUG52NlQwclA1emFGX1cwNnptZjQ1UkxrNVRWY0dWT0tnd2ItazRPV3RnZXNZNl96M1RaMnRXbXFybGViS09sM1NyaHVGWGtuRUJJMm4yYXlRMmZOVkxTRkxjNjdwMWNVOFVvMVpZYWlQMlpxREtMZFhBNHgzUmZpaGxWRzM0cVd2WEJwV1BPRHA3MVYyQW9zYWdmUWhWdEVZSC04U0VVYW45czNaWkRHY2doWXBfaWsydWJRTzBFQUNSWjBq?oc=5",
-   "data": "2026-09-18T20:18:41+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Sornoza conta bastidores da reação de goleiro do Del Valle após falha em gol de Arrascaeta",
@@ -106,14 +202,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Arrascaeta encosta em recorde de Zico após gol da classificação do Flamengo na Libertadores",
-   "link": "https://colunadofla.com/2026/09/arrascaeta-encosta-em-recorde-de-zico-apos-gol-da-classificacao-do-flamengo-na-libertadores/",
-   "data": "2026-09-18T18:49:20+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Camisa 10 marcou o gol da classificação do Flamengo contra o Del Valle (EQU) Arrascaeta foi o grande nome do Flamengo no empate em 1 a 1 com o Independiente del Valle (EQU), nessa quinta-feira (17). Afinal, o uruguaio m…"
-  },
-  {
    "titulo": "Flamengo x Red Bull Bragantino: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdTRQUV9MSzF5RXdQdnIwMzNNd3JWYzJrWkdVNGNCUUI1VFlHeU5EMktKUllZaER6VW9ZMWQwZGVYajBteUF2QTJzWGJvZkIzU1FjaWIxckZtNjI2N2pVc3dHbzZmU1BoMklHZ2JPc3NySlJEV2k1MnNhaTd4Wm44NlcwaEVsOVVjRmdsdHZDSnVvQ3d6MzFMaG5uN1B5UG0zYUlvOHdNdjd1RlR4ZHVPN2JmS3FpQTJiRTRtVk53cU5BNnZaWkFGR0hxZF9OOU9ybFpyYk1Nek4zYVpyRzJiRFh6cmx6SlA5c1cyVlpPOXZPU2VkRUl6cFBxcF9SUQ?oc=5",
    "data": "2026-09-18T18:48:00+00:00",
@@ -138,14 +226,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Itália divulga convocados para próxima Data FIFA, e Jorginho, do Flamengo, fica de fora da lista",
-   "link": "https://colunadofla.com/2026/09/italia-divulga-convocados-para-proxima-data-fifa-e-jorginho-do-flamengo-fica-de-fora-da-lista/",
-   "data": "2026-09-18T17:58:27+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Quais são os compromissos da Itália nesta Data FIFA? As seleções mundiais estão divulgando os convocados visando a próxima Data FIFA de 2026, que acontece entre os dias 24 de setembro e 06 de outubro. Nesta sexta-feira…"
-  },
-  {
    "titulo": "Outro Canal: Com Flamengo, ESPN vence A Fazenda 18 e só fica atrás da Globo em audiência",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV3hMTXR3TEdjS0tIYjJMOTFTLUxRZnJlQWNSTXpPT0RJXzBVZVRJc0h3bEN0SnhaS3pBa0JhQ19KaHdTSGNpcUxXSy1JMG9uaHVfXzZRakRpb1VldndlbjhKRGp0cC16QlFFUzJEY2lQTXYxeldUaHdXTFJnNDZKdlg4R0VIODBZV0ZmWnVfNEJRY1kxSDBOdVhZYTZwWFIzVnNlYmVaNnBvR0dwXzBBUGNNM2ZMT3FKN2pTQnpkZUFSNURmSjQ2QkwxejRIelFqR1hDMndB?oc=5",
    "data": "2026-09-18T17:54:04+00:00",
@@ -162,28 +242,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Filipe Luís em ação: saiba onde assistir a Monaco x Lens, pela Ligue 1",
-   "link": "https://colunadofla.com/2026/09/filipe-luis-em-acao-saiba-onde-assistir-a-monaco-x-lens-pela-ligue-1/",
-   "data": "2026-09-18T17:42:35+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "O Monaco (FRA), de Filipe Luís, busca manter a invencibilidade e a liderança do Campeonato Francês Para a alegria dos fãs do ex-treinador do Flamengo, Filipe Luís, nesta sexta-feira (18), o Monaco (FRA) entra em campo.…"
-  },
-  {
    "titulo": "Gramado do Maracanã vai melhorar até o fim do ano? Entenda",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/18/gramado-do-maracana-vai-melhorar-ate-o-fim-do-ano-entenda.ghtml",
    "data": "2026-09-18T17:38:01+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Arrascaeta critica gramado: \"Se queremos ser campeões, temos que ter um campo bom\" \"O que será do gramado para o resto do ano?\". Estefoi o questionamento do zagueiro Léo Ortiz após a classificação do \"O que será do gram…"
-  },
-  {
-   "titulo": "Conmebol barra Jorginho de falar com imprensa após expulsão em jogo do Flamengo",
-   "link": "https://colunadofla.com/2026/09/conmebol-barra-jorginho-de-falar-com-imprensa-apos-expulsao-em-jogo-do-flamengo/",
-   "data": "2026-09-18T17:33:26+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "O que aconteceu com Jorginho em jogo do Flamengo x Del Valle (EQU)? Jorginho foi expulso no empate em 1 a 1 entre Flamengo e Independiente del Valle (EQU), nessa quinta-feira (17), pela volta das quartas de final da Lib…"
   },
   {
    "titulo": "Dicas do Cartola: Especialista sugere Arrascaeta e mais dois nomes nas dicas gratuitas da #28",
@@ -218,6 +282,14 @@
    "resumo": "Léo Ortiz admite cobranças no vestiário do Flamengo e avalia empate: \"Parece perdemos\" O Flamengo está classificado para a semifinal da Libertadores, mas a vaga não foi um momento total de celebração por parte do elenco…"
   },
   {
+   "titulo": "Rossi explica discussão com torcedor do Flamengo após gol de Arrascaeta na Libertadores",
+   "link": "https://colunadofla.com/2026/09/rossi-explica-discussao-com-torcedor-do-flamengo-apos-gol-de-arrascaeta/",
+   "data": "2026-09-18T15:52:59+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Goleiro pediu desculpas, mas justificou a reação após ouvir crítica no intervalo da partida Agustín Rossi discutiu com um torcedor do Flamengo após o gol de empate contra o Independiente del Valle (EQU). O episódio acon…"
+  },
+  {
    "titulo": "Gramado do Maracanã é dilema para Flamengo e Fluminense",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3dqMEhobjZYZG9pTThjY2NOTm9RcXpMVHMyNDJoUG9wc2FWazlFOVU5UDBFTG1CeWdob01OOE4wN3NUSXVPTEdiWmJDYnVicDlCaXBqaFFRbmxmWXRGQnRGQzA4SFBYaDRhNkFYWjhMVUZvMkVRcjdGSEt0MVU4aWNoY0Vkd0dFRlZySG1mbG9xR2xES1dSWGo3ZU5Oc2NBblc3YWdqWnM4OFk?oc=5",
    "data": "2026-09-18T15:45:02+00:00",
@@ -231,6 +303,14 @@
    "data": "2026-09-18T15:36:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras usa críticas de atletas do Fla ao Maracanã para exaltar sintético",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEswNDF2RjU5Y05qcUFxVU5HVE52ejR6a2FFX2FGRkVrV0xrNE5aN2ZnN3dOOXhoWHE3WkNlQ2g1dWV0U1dFMk1EQkU1Vl9TTWhUTHlBb2xvZ2ZfQ25wVDdUbEhzTUQxQVc0TUVxYUhPeHBOQnMtd0NlVGM0cDFpSmZtSUh6T0lmUVp1NGtBWkh1ekU5REJuZTZKOXVtaDNqdk41QXJKZS1jdw?oc=5",
+   "data": "2026-09-18T15:28:48+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -272,14 +352,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Jorginho desabafa após expulsão em classificação do Flamengo na Libertadores",
-   "link": "https://colunadofla.com/2026/09/jorginho-desabafa-apos-expulsao-em-classificacao-do-flamengo-na-libertadores/",
-   "data": "2026-09-18T14:02:25+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Volante lamentou o cartão vermelho, mas exaltou o grupo rubro-negro pela vaga na semifinal do torneio continental O Flamengo avançou às semifinais da Libertadores após superar o Independiente del Valle (EQU) por 3 a 1 n…"
   },
   {
    "titulo": "Destaque suspenso e ascensão fora de campo: como chega o Estudiantes para enfrentar o Flamengo",
@@ -466,14 +538,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Juca Kfouri: Nenhum brasileiro venceu o jogo de volta das quartas; nem o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejZBaU5lcW1yQkNfOFhkM2lOSXJDWks1UGQ4QlNjMllaZzcwWnhhU0Zoclg3bGxTR0hxcW9jT0oxQmFCX2xCaDdpYUFhYVg2TV9WZVlfX0tWbG1vZ0JMSkU5cy1aS2RTYndyWUlFbU9LNHZBWnNEM2thcDNsWU1Ddw?oc=5",
-   "data": "2026-09-18T06:27:04+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo tem drama e expulsão, mas segura Del Valle e segue na Libertadores",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVRBT1h5TG9LMkcwbnJ4Z3lLaVlqc1dJSHBuZlVHZExrRnVYMVAtSnZManZIRFROLTZIbTFpbzRpdG01WGhiLUVKdVZuY1NzNms4Rm51TmJ2V1BtTGNtQW5TUnBKOXZncGFWOVhobXV2Q0ZXWHFiVnFUbkphczF3a284RDR3SGxwTWgyakNUZzJKZEtTQko1Mkt4LUFKcnMxZUpQUGRPUW54S19zZ3luVE5MRm9OUXRpeE1VcXVRNmFFTndOTVRzOWxwRG5EUlBIdHNnTTZGQjE?oc=5",
    "data": "2026-09-18T06:26:55+00:00",
@@ -504,14 +568,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo 1 x 1 Independiente del Valle | Melhores momentos | CONMEBOL Libertadores 2026 O Flamengo está na semifinal da Libertadores, e o jornal espanhol AS destacou Giorgian de Arrascaeta como o principal personagem da…"
-  },
-  {
-   "titulo": "Flamengo correu perigo! Susto desnecessário, diz Renan",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuUks3akVWc1Q3TnI4VEdzOEhIUTJpUDRyUFo2NTEtN0V2YUdFMTk5SmF2S1cya3JGeERjdzJXdDRvai1YTE9BQmg0cXU1SnNudU01a002TDlWc1ZHWVE0TndwSXhrZ1k?oc=5",
-   "data": "2026-09-18T04:24:15+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Quanto Flamengo faturou em premiação após classificação na Libertadores?",
@@ -642,14 +698,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo leva susto, mas empata com Del Valle e vai à semifinal da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRTZfZGdYMVptbU1mWkc0X1JPOW9GdjNDU0VQclVZYXJIdWFHQ2FGb29ya1pLV2dyT3pfR0NCMWJISXA4R3pteXZDZGpTaW0wd2hkdUxBbW1hY0hnN0h2cVkzY0NWcEF5QkJ0Q3N1a2EweExGSDV5S3Zpb1JBLXBzb09PZmMwMVBNQWhIMkowdkZobEY2UnN4c1gtOU1ncWNWSzdCZWJyX1BtbVBZanJWdGptM2Q?oc=5",
-   "data": "2026-09-18T02:31:05+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo chega à quinta semifinal de Libertadores em oito anos; veja o retrospecto",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/17/flamengo-chega-a-cinco-semifinais-de-libertadores-em-oito-anos-veja-como-foram-as-outras.ghtml",
    "data": "2026-09-18T02:31:01+00:00",
@@ -675,7 +723,7 @@
   },
   {
    "titulo": "Flamengo empata com Del Valle (1-1) e vai à semifinal da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0xUNmVqTXo4SFNHNHhhb1VqV1J3X1dEcEtFSXZKd1R6YzJaLVMtV2E5WHNXMEhSdmNCdjRjZkdicVlwaFlQYTJva0hhZ3VJUU1CR0EtdWw4SDVqMW5PeFhyRVlSdjFwXzMydGtTT0JHYTM5eVBuaTBoMlQ2ckN4N2pBLTJ3a3ROV0RfQ21UaGxPTXZlWFhiTkdLYy00MlJ0UUdha1JHNUdyTVBObW5HTU1GNzRTQVVZQVA1SW44UDhGLXZSbG9XaFRRdFhHbklE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHZOWFV6cjYxNFd5Z0kzVzRUMXdfT3VnVERvX0FhU3dmWDhwMEtpR1QxSzc0dGY5OTdtbzdUU0JlN0hkWVViSDZqUzd2WllhRHM0T204VjRNOWttMEJlUnV6UUtuOUJtSFJaOHRUS1pfR1ZGX2Y3Qy1uMjlBWTNXSFd5ZTdFLWVZWG1GdnlsUzR3UnB1VXZROFc4ZHlhblh6U3RXcGFZbjZHSjJxMzFBTXNpNVkyckJtY0tzV3NyN1FNY2o0aGlLSjNfVQ?oc=5",
    "data": "2026-09-18T02:28:27+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -700,6 +748,14 @@
   {
    "titulo": "Fla, Flu e Palmeiras: tudo o que sabemos da semifinal da Libertadores",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONDRSX0tfeTNYTFFXbFctRGxTQmJ5OEhOLXBzaTZSSEtHaDJEX1hkd0pmYnhoVlQwQlB0QWh6aDZmV3VOZFIwTTljSlhudkE2QzUtRHowaEctWGpieF9JT09wV285ZkQxbl9OYWExRGQ0Q2ZtRGdib0FkclpvTDlkMEVSNHVKX0pfWFJVUUhLN1hEYXdrdE42UDRQUQ?oc=5",
+   "data": "2026-09-18T02:27:04+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Juca Kfouri: Nenhum brasileiro venceu o jogo de volta das quartas; nem o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejZBaU5lcW1yQkNfOFhkM2lOSXJDWks1UGQ4QlNjMllaZzcwWnhhU0Zoclg3bGxTR0hxcW9jT0oxQmFCX2xCaDdpYUFhYVg2TV9WZVlfX0tWbG1vZ0JMSkU5cy1aS2RTYndyWUlFbU9LNHZBWnNEM2thcDNsWU1Ddw?oc=5",
    "data": "2026-09-18T02:27:04+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -938,16 +994,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo decide vaga contra Del Valle em alerta sobre gramado do Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmpEcmt0Vm54MWhkeVhtMUNOLUdLNU9DN1Y5SVRQRTJTMDJST1ozRE1lak0zdmd6UlZTTTEwWndvcWE0WFNidVNJbnhvN2l6VzZ4MEVxbllQQ05QbE1NNm42Q25udzE0NkJNaWRzX3BjcTNkdGhHVUNyQVZUeVVvalJjcnlLTUZwTEUwY0Jia3BPYXNBWFdGYUttQjdUUS1OZGthTTBUNzNkUFFVSGhWcDNEcjIxSzlobHlfU0dCbTc3MC1QUVlxRnFfNDVVZVNRNHdnMmY2U3VfQ1BJQUE?oc=5",
+   "titulo": "Rafael Reis: Só derrota inédita na década pode eliminar Flamengo da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDhQaWpEcUtLTnFZakxHYzZuMktGRjFKM2ZiaUoxcl9rX0lhX0xoYXc1NXJpQ0x0dGpfdnRMdHlQQWd3ZzROV2tvOWg3VEgtcUVHN3h1SWFIaEttOVdpdk5wb3QxTC1WQkRrV1QybC1yblhEa0daWC0ydjNrRVpRWElKMGU1djlPUndlVjhDSUx4cXd2Z25HbTBKU1NNSC1wUWRfM1gwUURSdXZzRkNqSU5HZ1BqWmx1RG0zSk1OWnQ3YkdUeHhFV0ltbTlhdXpMNF9kUWw0ODA?oc=5",
    "data": "2026-09-17T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Rafael Reis: Só derrota inédita na década pode eliminar Flamengo da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDhQaWpEcUtLTnFZakxHYzZuMktGRjFKM2ZiaUoxcl9rX0lhX0xoYXc1NXJpQ0x0dGpfdnRMdHlQQWd3ZzROV2tvOWg3VEgtcUVHN3h1SWFIaEttOVdpdk5wb3QxTC1WQkRrV1QybC1yblhEa0daWC0ydjNrRVpRWElKMGU1djlPUndlVjhDSUx4cXd2Z25HbTBKU1NNSC1wUWRfM1gwUURSdXZzRkNqSU5HZ1BqWmx1RG0zSk1OWnQ3YkdUeHhFV0ltbTlhdXpMNF9kUWw0ODA?oc=5",
+   "titulo": "Flamengo decide vaga contra Del Valle em alerta sobre gramado do Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmpEcmt0Vm54MWhkeVhtMUNOLUdLNU9DN1Y5SVRQRTJTMDJST1ozRE1lak0zdmd6UlZTTTEwWndvcWE0WFNidVNJbnhvN2l6VzZ4MEVxbllQQ05QbE1NNm42Q25udzE0NkJNaWRzX3BjcTNkdGhHVUNyQVZUeVVvalJjcnlLTUZwTEUwY0Jia3BPYXNBWFdGYUttQjdUUS1OZGthTTBUNzNkUFFVSGhWcDNEcjIxSzlobHlfU0dCbTc3MC1QUVlxRnFfNDVVZVNRNHdnMmY2U3VfQ1BJQUE?oc=5",
    "data": "2026-09-17T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1175,62 +1231,6 @@
    "data": "2026-09-16T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Flamengo adota um modelo de empresa sem se tornar SAF",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWZUWnM0by03SkYzY20zaG91amNSdDc0X0RXRl9KLU92dFZaYWRUVXFlaE1lN2I3VTc5am9VeVViY2luOU43X1hGLTkyVkFGazhXX255ZkdYdGJSdnVnaEtmUGZvZ1poWWJsYXJQN2JZQ00wbUExS1lrSkQ5c2F3b2VoRG9maEI0MmVsVHJDREc1ODFLXzc0OVB5TVozOFdFX2lNbHFIUHJjSVRrWWpFT2NLakZ5Tk5tU21jdEFKNUZEejJrMV9GaWt3?oc=5",
-   "data": "2026-09-16T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Chuvas intensas desafiam gramados do Brasileirão; estádios buscam adaptação",
-   "link": "https://ge.globo.com/futebol/noticia/2026/09/16/chuvas-intensas-desafiam-gramados-do-brasileirao-estadios-buscam-adaptacao.ghtml",
-   "data": "2026-09-16T11:58:22+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Rodrigo Lois explica no Clima em Jogo o impacto das chuvas no Brasileirão Fortes e duradouras chuvas atingem o Brasil há mais de dois meses, em especial no Sul e Sudeste do país. Essas regiões concentram 85% dos clubes…"
-  },
-  {
-   "titulo": "Lorran sofre desvalorização em menos de dois anos e deixa Flamengo sem vingar",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/lorran-sofre-desvalorizacao-em-menos-de-dois-anos-e-deixa-flamengo-sem-vingar.ghtml",
-   "data": "2026-09-16T11:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Disputa judicial encerrada entre Flamengo e Paolo Guerrero O Flamengo avançou para concluir a venda de Lorran para o Sharjah FC, dos Emirados Árabes Unidos. O meia-atacante, tratado como uma das grandes joias formadas p…"
-  },
-  {
-   "titulo": "Flamengo avança com renovações de contrato e desenha planejamento para 2027",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/flamengo-avanca-com-renovacoes-de-contrato-e-desenha-planejamento-para-2027.ghtml",
-   "data": "2026-09-16T07:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Marcello Neves atualiza situações de Lorran, Danilo e processo com Guerrero Depois de resolver a situação de Pulgar, o Flamengo reorganizou as prioridades e passou a focar em outras renovações pendentes. A principal e m…"
-  },
-  {
-   "titulo": "Os números por trás da melhor temporada de Gabigol desde auge no Flamengo e o que assistir no Disney+",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTW1lXzlOVjdJNEQ4UkVPeWdmUHhtR3pJdUZUWXNpa0U4TFdCS2hXZ1drYXRaQXd4NTBMRk9vNXJSQXZ2R1BNaWNDb0J4WDZPTC1JRUJ0NU84RHBXNE83OENWTEN6Um5PeWoyajBGdi1SU0JTMXhNMmQ0azhHSXFXNEhjRm5XWWNmXzVSTWM0LUFXbVlqSkZneVZVOHVBMHlmSzJfTmw5NTB4S3R4WGFkZ1M1eEhRYW5pQzNxSU5nQlM0VFlWbG8taEd0RzYtS1p6eDg5dVZzT0d3b2lEdTVMVGZvT2NxQkYtSmZXOA?oc=5",
-   "data": "2026-09-16T03:04:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Conselho do Flamengo aprova reforma do estatuto e muda estrutura de poder",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGpPNXlwbzlQcnJXdWhlZjg4QmdnckxlMmx5anI4OGc0YTlGQkxsbWNYVl85OG5CSzRMUmRCMzBmVlBha3pVX09DbGh2ZUtnSk5xbWJ5emd2LVNVRGdyRnFmMHZTZDFHSHF1U2RSMUhFb0N6bk56V1prS2RjTV9vTmVZTk9DY3Brc1RLM2tqVTd1OUlCSmxXaGVTN2xwV3BJRjBZTzZUS2lSS0xiM2ZUcG9XZ1JqcHFSY3QwTVdZa0Fwdi1pRjlMYW85eFlQR3ZmenVVNkNkaHRuWEFhX3c?oc=5",
-   "data": "2026-09-16T00:43:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo aprova reforma estatutária e institucionaliza modelo de gestão profissional",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnV0NG1aZ1NNUWJmY21TTXM5VjFSLW1FeDZBWExNaEk5YmpSMU5mNy1RbXZfY0dvdUtBQzlhWUdDS1JLdmZiTk5EdWt4R1pwLUVFZUhGWjNRT1pEcHEzbFVLbFgzSGJWOHBhUE52V0Q5OHBmblhxb3pfdmtoZFFiZ18ySjQ4Rk8xbXJtbUZNX3A5QV9DRldPSXFRcDRlOGRCUFhvWkNtSmFTWktuNEdQUThZNVE2aDZFZUQyTVNhbzA?oc=5",
-   "data": "2026-09-16T00:25:44+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   }
  ]
