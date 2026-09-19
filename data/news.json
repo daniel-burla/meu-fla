@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-19T06:32:28.419859+00:00",
+ "atualizadoEm": "2026-09-19T11:27:09.106860+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 35
+   "itens": 36
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,64 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 67
+   "itens": 68
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 89
+   "itens": 90
   }
  ],
  "itens": [
+  {
+   "titulo": "Volpi volta ao Maracanã, palco de feitos contra o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVGE4MGdWYXhsSDlJc1BlNUhkSW1FUkJBY2ZIRkozUXRuLTRnT0VXSEtFcFNxZy1FRW41MnFmeDVKNnVmT2VuNmdITldMMjcwRGRMclVJODlVU0FDbktOQThSekc3UWtuVlEydC1lUzFIVWxlX2pVMGhlejhrbmxDRldlb3N3anZfY3YwMnpUemFrZjZIWVF4b2c4M0lWR1A0eTNicW50ODFHSEVQbkJSQjJQX3VkM0gteGxDQi1EcWU?oc=5",
+   "data": "2026-09-19T11:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo contra o gramado e Palmeiras contra Renato. Informações e palpites",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHFIbmpaMXlNSWxpLWl6Q2hWLXhHUE10R011T0ExQmtLajhSRWNLSWw0Q0FxNnNjR09sTnFUXzFYeVBrS1U1bW9CN1lzNlBwdUk1dzh5NGI3Yk0teTRaUTdjR3lLYVIwOU9YX1BJMjZDVDZEVlFINEQ2UnVyMF83S1pydjR2NVhaU21vOWw3UFN4dllzbWI2RmFGT3c3YlJnY3hNdU14Y09YOWdVTExYbUVyeVFtMTN6UVNKTWR4VXNKSWctUzROSHpBMkU?oc=5",
+   "data": "2026-09-19T10:45:49+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Geração 2019 participa de 60% dos gols do Flamengo na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTnlYZE45bEZNVmd4eWxpYTVUbkdoMldCemRrZ1RYTzlhTTJHaUxuWWRPaEc0aVVrUmFZMjFJaWkxcnBXM2FncjZYM3p3RVBLQ2V2bkJ3SDNaVkVoVVFFWkxpdWZTQVdnYVlMQ2pwckxiMlRlVmY5NkVVel8tMkFVeG03ZmhOZG1yN1ZocUh6X00yM2FnTHA2T3FyS2NUUDBPVnFIaU9fVUN3eXVtOGcwZkVmWkYxZ2d2RTVzdDhqTVpuN0NaYjZIb01GajNjRmR3YktST3JIQUJkWnowS3c?oc=5",
+   "data": "2026-09-19T10:28:47+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Red Bull Bragantino: onde assistir, horário e escalações",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGctUlFRdFVJeVJfWkJma0Q0VW1WaWFOQ3p4V0wtYlU1TVVabnpHY1ZudzZFMkhQckFKXzZYbFVPWVJqZFB1cENXbWhhOUZ3OWFmU0U4Z3k4UEFPaDRTdFZKYTdmTlNEcl9VUHhjcTItY0Zxa25OaTYtX25OOXNQUHAzSXYxVFJKMmxXV2NEMlA4ZjZhZUtTRGhaam8wejg0cnFuZGJYalJMWS1EdHAxbzNB?oc=5",
+   "data": "2026-09-19T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Suspensões fazem Flamengo colocar à prova setor que Jardim considera ter excesso de opções",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/19/suspensoes-fazem-flamengo-colocar-a-prova-setor-que-jardim-considera-ter-excesso-de-opcoes.ghtml",
+   "data": "2026-09-19T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo flertou com a flamengada das antigas: \"Misto de nervosismo com salto alto\" O Flamengo tem três desfalques certos para o jogo contra o Bragantino, neste domingo, pela 28ª rodada do Campeonato Brasileiro, no Mara…"
+  },
+  {
+   "titulo": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 28ª rodada",
+   "link": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/09/19/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-28a-rodada.ghtml",
+   "data": "2026-09-19T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Essa foi a seleção da 27ª rodada do Troca de Passes Depois da pausa no meio desta semana para a disputa das competições internacionais, o Campeonato Brasileiro retorna neste sábado com cinco partidas válidas pela 28ª ro…"
+  },
   {
    "titulo": "Flamengo x RB Bragantino Palpite – Análise e notícias (20/09)",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVZUXpHUjA2aUxMVW5ZRzVpSGpvU1RDdWJGU2ZmYmxmWFd6bElJRXFnOEFIM3pEMmgzVlZTQ280bFZ1bnYzLUs1SWRaVVpyTEJ1WXVfcmNSbmE2N0ZQdVQyOWIydi1fdUZ6OG0yMzB4ajZVUkZWWlNYVGNfWVVOUVBWSFlrV1dTS1dRQWh4UlpqeGhtVkE?oc=5",
@@ -106,20 +154,20 @@
    "resumo": ""
   },
   {
-   "titulo": "Casagrande: Que energia! Torcidas são mágicas em classificações de Flamengo e Atlético",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFlIREdVbU1SRXlpVFphem52eGpJMk1rUG52NlQwclA1emFGX1cwNnptZjQ1UkxrNVRWY0dWT0tnd2ItazRPV3RnZXNZNl96M1RaMnRXbXFybGViS09sM1NyaHVGWGtuRUJJMm4yYXlRMmZOVkxTRkxjNjdwMWNVOFVvMVpZYWlQMlpxREtMZFhBNHgzUmZpaGxWRzM0cVd2WEJwV1BPRHA3MVYyQW9zYWdmUWhWdEVZSC04U0VVYW45czNaWkRHY2doWXBfaWsydWJRTzBFQUNSWjBq?oc=5",
-   "data": "2026-09-19T00:15:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "‘Sem zaga’ para o duelo contra o Flamengo, Estudiantes mira 3 contratações para semi da Libertadores",
    "link": "https://colunadofla.com/2026/09/sem-zaga-para-o-duelo-contra-o-flamengo-estudiantes-mira-3-contratacoes-para-semi-da-libertadores/",
    "data": "2026-09-18T23:42:47+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Estudiantes (ARG) não terá dois defensores titulares no jogo de ida da semifinal da Libertadores Se o Flamengo não terá Jorginho, expulso contra o Del Valle (EQU), o Estudiantes (ARG) também sofrerá com jogadores suspen…"
+  },
+  {
+   "titulo": "Emerson Royal compara Barcelona e Flamengo: 'Mais difícil'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUNick1hbkpISDJiMVJrRU1BT3RlTmhFMG5BM2VOLU5OOHVXcEtaOGFYQ09hWmJSX3Rfa3A4TGI5RTJxMGZFb013bmdQeGlyVmJDYUVIdDRmVXJ5Rk91V1EwWFV2MDdEX0l1aHpydV9JSE41RVFGZnFmb3dVV3Z5eU9VbTZ5aEh0eEExSGJSTktqY01weU93NXBfbUpmTVls?oc=5",
+   "data": "2026-09-18T23:26:36+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Favoritismos #28: dicas, palpites e chances no Brasileirão",
@@ -200,6 +248,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Seleção debate escalação do Flamengo contra o Del Valle: \"Pedro não pode ser banco\" O Flamengo conquistou a classificação para a semifinal da Libertadores, mas precisará virar rápido a chave pensando no Campeonato Brasi…"
+  },
+  {
+   "titulo": "Casagrande: Que energia! Torcidas são mágicas em classificações de Flamengo e Atlético",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFlIREdVbU1SRXlpVFphem52eGpJMk1rUG52NlQwclA1emFGX1cwNnptZjQ1UkxrNVRWY0dWT0tnd2ItazRPV3RnZXNZNl96M1RaMnRXbXFybGViS09sM1NyaHVGWGtuRUJJMm4yYXlRMmZOVkxTRkxjNjdwMWNVOFVvMVpZYWlQMlpxREtMZFhBNHgzUmZpaGxWRzM0cVd2WEJwV1BPRHA3MVYyQW9zYWdmUWhWdEVZSC04U0VVYW45czNaWkRHY2doWXBfaWsydWJRTzBFQUNSWjBq?oc=5",
+   "data": "2026-09-18T20:15:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Sornoza conta bastidores da reação de goleiro do Del Valle após falha em gol de Arrascaeta",
@@ -287,14 +343,6 @@
    "data": "2026-09-18T16:24:41+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flu, meia do Del Valle também critica gramado do Maracanã: 'Está ruim'",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFNRYWV4WEF5UTlTeUI3ODlfbGVfakhFUW93VXQ5LUxLQm1KLVVIeURKVFpmZktXS0E3UVBVMVJlNnlQU2tfR0Fsa3ZVb1FUUWtiTld4M0JTOGN1Y3pLekc1Mm1uT0JsbXBNWGs1UEZXWEI1ak1tRk1JdW9TVFRlTFgwaklrcTlpdXhNU1VlbE9SREllQVdqaVVCTEl2N3AzREgtYmtLYktLZjhZVjhzS0RXR3R2Rms2ZVBaZg?oc=5",
-   "data": "2026-09-18T16:13:12+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -514,6 +562,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Do Brasileirão à Ligue 1, Filipe Luís e Davide Ancelotti causam impacto na Europa",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYkVVU2R1VHlUdHpkRzJuZllEQVNFRzBNOFY3WjhTd3B5R2oyQk5OLU84QUZFUEZRX3NPbEJNcVdfSm9XNkdDQXI3SHRfa0NYWUxpLVBzdWZzb1A0eUozV19DNkhvcXMybzZtTDF3UnN2Y080czJ4ci1wUkJuWWtpaDJCT25BUzZ2UkxRWS15cURMQWsweWNwNWpvSHdWdEgtZkQzVFB4Q3FKMjJiRW5keVBKYWQ3QUN3X2VOeElUWmJzVUt4MnNTYWJlQlQ?oc=5",
+   "data": "2026-09-18T08:50:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "'Tem que dar razão a quem quer grama sintética', diz Ortiz sobre Maracanã",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmZsT3JwOVByWmxoNW5oMWc0LTB5dkViNWhGOEdCV1JfWW1GN1B3R1I3VXlSRFp6SWxtU2NTZEpfZlNtb0pSaHVRV210LVBtS3NrNEJqWXllSVhyUWEwSUh5Q2pRMmYxaDZ4SV9jMFl1ZHR5ZHhxczRocngxenAwMXRCeDdjV05sSndaMzJ5cEpVcVdham5sSUNWODEwQmVaUEp0MnVHcjk1QnF2SW1UbkRPZ3VnMzZQ?oc=5",
    "data": "2026-09-18T08:30:00+00:00",
@@ -549,6 +605,14 @@
    "titulo": "Flamengo tem drama e expulsão, mas segura Del Valle e segue na Libertadores",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVRBT1h5TG9LMkcwbnJ4Z3lLaVlqc1dJSHBuZlVHZExrRnVYMVAtSnZManZIRFROLTZIbTFpbzRpdG01WGhiLUVKdVZuY1NzNms4Rm51TmJ2V1BtTGNtQW5TUnBKOXZncGFWOVhobXV2Q0ZXWHFiVnFUbkphczF3a284RDR3SGxwTWgyakNUZzJKZEtTQko1Mkt4LUFKcnMxZUpQUGRPUW54S19zZ3luVE5MRm9OUXRpeE1VcXVRNmFFTndOTVRzOWxwRG5EUlBIdHNnTTZGQjE?oc=5",
    "data": "2026-09-18T06:26:55+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo tem Arrascaeta herói e ajuda de goleiro com nome que louva Aldair",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVld5THFiMzBETGN1WktYVjZadGxpTU9ZUzlOWXA5ZTJxRXRuTGVqdmNOcFZGSkMtX1ZKVF9wMC1ZclQxYU1DVmNaWVZOMnVjZHBranZNeFM0Z2tJdS1UVmtmZnVYVXN1V1lwMjNNU1BmdDdFVThoaEZIcU5HVWFrZTRpQVhyRThHMGZISzJFV1l1dGtLOFB6SC0yM3ZKdmhvN2ZFQjN3?oc=5",
+   "data": "2026-09-18T06:26:05+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -634,7 +698,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Jardim reconhece partida ruim do Flamengo e elogia Arrascaeta",
+   "titulo": "Jardim admite atuação ruim do Flamengo e exalta 'ídolo' Arrascaeta na classificação",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLS1PLUNuSWZwWXl1YUE5emJxdElHWWxsYk5iNjUtRmFpRFkzWTdvM1BpS0lmTm5uQk1fQ3hVb0I0dXdMcG96eVpPVG9lQTNzV2k0VFhyR1ZaS2hwZy1FMjFXLWQzNmljNFJfNGV0Nmd0SklzT1RVTDV6TVFBLS1LODJsamJaUmtmUlBMeG9PZzdmcmdGcTk3aWVCckRPTDRoWlJUVjZoMEN4X3lXOXJNcFlRNVd0eVluUVpQcw?oc=5",
    "data": "2026-09-18T03:17:58+00:00",
    "fonte": "lance",
@@ -688,6 +752,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Initial plugin text Flamengo 1 x 1 Independiente del Valle | Melhores momentos | CONMEBOL Libertadores 2026 Jogadores do Flamengo antes da partida contra o Independiente del Valle REUTERS/Ricardo Moraes + Leia mais notí…"
+  },
+  {
+   "titulo": "Flamengo sai atrás, mas Arrascaeta garante empate e comanda classificação contra o Del Valle na Libertadores; VEJA os gols",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TVjNJaEFYMVNzOGdiUHgtSlVtT2hNd0kydktRWmJmRXZwbnNLeVNoNldpbFBPRVF2ODZyTzVHR2tQMFdpems2bE5MU2VTUWRoRUxBa0xYemQ5OVh4NHc?oc=5",
+   "data": "2026-09-18T02:38:15+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo passa sufoco, mas empata com Independiente del Valle e está na semi da Libertadores",
@@ -783,22 +855,6 @@
    "data": "2026-09-18T02:26:51+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo tem Arrascaeta herói e ajuda de goleiro com nome que louva Aldair",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVld5THFiMzBETGN1WktYVjZadGxpTU9ZUzlOWXA5ZTJxRXRuTGVqdmNOcFZGSkMtX1ZKVF9wMC1ZclQxYU1DVmNaWVZOMnVjZHBranZNeFM0Z2tJdS1UVmtmZnVYVXN1V1lwMjNNU1BmdDdFVThoaEZIcU5HVWFrZTRpQVhyRThHMGZISzJFV1l1dGtLOFB6SC0yM3ZKdmhvN2ZFQjN3?oc=5",
-   "data": "2026-09-18T02:26:05+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "GOL BIZARRO DO FLAMENGO! Goleiro do Del Valle se atrapalha feio e entrega presente para Arrascaeta na Libertadores; VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aM1FTTTJTTU9kNDhJUk5jb1hvVFBiaGFQLTNjYVpoOGsxZElJb1MwX3dwcDR6b2x5VFNRbmI4OERiNjFoSDlGWnBKMWhwZTlaR3Zzc3JhN0ljNGFVMWc?oc=5",
-   "data": "2026-09-18T02:23:01+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -959,6 +1015,14 @@
    "data": "2026-09-17T20:07:28+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras x Fluminense e Flamengo x Estudiantes: Quem é favorito para chegar à final da Libertadores?",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XWUlPVmg0U19ocnlxN1BDNm1PaFhBT0JwMkJlRHdKcHVfZG9tVHRiMWxhUTJtdzRRM3IwSHBFSjY4Q1JuQ0E5TmcyM1ZDX08zRkRoTWdma2FQV1E0WWc?oc=5",
+   "data": "2026-09-17T18:43:31+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -1146,14 +1210,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Conmebol comete gafe com jogador do Flamengo em anúncio",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM010MW1YNkFMRWhyRjJlMmhleU5ka3V1a3FTSl9jX20wcm9QampLaHJQN093Z2ZMR2dzZHFienAyYVk0UjF4bWZVd19Na2ZwdUwtQUVEZDRHWjZxLVNDMWpfWjVWaEJyZEJSQmhaeHBScGg2VkhXZVRFd0RXcFluRkdpSWtONWU0V1hHbkx1TU5PSHFXMlBVc01tb1Rzc1Jp?oc=5",
-   "data": "2026-09-16T19:15:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo acerta patrocínio com receita atrelada ao engajamento da torcida",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUzU2c0xCUHRVQ21TZWtZV0F2ODVNZG16MnZ2SC0xYmpqTHpvRGtNUkFTcmtmYlVPMFAyS0g4QkNCaWsyLS1SbnAxRUlsYTVKR1oybXlqUHRCbV92ZVM2ZXdaQXZ1M2c3TlloT0c3MGItZ3RWX1ZkYVFDRzBibGJFdlMyLU4ybGtKY0d3UXkwSXF1cWhYODNWTUhFOTdOWjd3R1dkMFZ2ekV2VndhdnN5d2hHS1VGYl9RUk5OSjBGS3U2RXM2OGNSX21CWDU2Mks5TS04aVk1OXRqY0JuVEE?oc=5",
    "data": "2026-09-16T19:00:00+00:00",
@@ -1175,62 +1231,6 @@
    "data": "2026-09-16T18:26:34+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Del Valle chega ao Brasil, treinará no CT do Fluminense e não terá seu principal artilheiro contra Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/del-valle-chega-ao-brasil-treinara-no-ct-do-fluminense-e-nao-tera-seu-principal-artilheiro-contra-flamengo.ghtml",
-   "data": "2026-09-16T17:53:29+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo faz últimos treinos antes de enfrentar o Del Valle O Independiente del Valle terá um desfalque importantíssimo para enfrentar o Flamengo, pelo jogo de volta das quartas de final da Conmebol Libertadores. Isso p…"
-  },
-  {
-   "titulo": "Cartola: veja cinco alternativas de ataque a Viveros e Samuel Lino, desfalques para rodada #28",
-   "link": "https://ge.globo.com/gato-mestre/analises/noticia/2026/09/16/cartola-veja-cinco-alternativas-de-ataque-a-viveros-e-samuel-lino-desfalques-para-rodada-28.ghtml",
-   "data": "2026-09-16T17:08:31+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Cassius explica como funciona a pontuação em assistência no Cartola Samuel Lino e Viveros são os nomes mais visados na hora de montar o ataque nesta temporada do Cartola. Contudo, na rodada #28, o cartoleiro precisará s…"
-  },
-  {
-   "titulo": "Artilheiros do Flamengo, Pedro e Bruno Henrique travam corrida para superar marca de Gabigol na Libertadores; saiba qual",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/artilheiros-do-flamengo-pedro-e-bruno-henrique-travam-corrida-para-superar-marca-de-gabigol-na-libertadores-saiba-qual.ghtml",
-   "data": "2026-09-16T16:12:53+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Independiente del Valle: Léo Pereira, Jorginho e BH devem voltar ao time titular Não há dúvida de que Pedro e Bruno Henrique são as principais referências do ataque do Flamengo nesta temporada. A ponto de a d…"
-  },
-  {
-   "titulo": "Flamengo fecha parceria com novo patrocinador e estreia marca contra o Del Valle",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/flamengo-fecha-parceria-com-novo-patrocinador-e-estreia-marca-contra-o-del-valle.ghtml",
-   "data": "2026-09-16T15:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Independiente del Valle: Léo Pereira, Jorginho e BH devem voltar ao time titular O Flamengo estreará um novo patrocinador na partida contra o Independiente del Valle, nesta quinta-feira, pelas quartas de fina…"
-  },
-  {
-   "titulo": "Mauro: Flamengo busca outras fontes de receita; clubes precisam se ligar",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUmVYS19GSEJxRDN1U2daVDFpSWJfVWU3bGhjU1lLZ2xQZGpDakpSY3I2SENHTFE5R3pRWVY3SzN4TEdZX016a2JRUHdxTUVXdXV4QlJ2eS1wNDdzQzZZTC1QYjI1WjBIdnc4YmtweHBLOUxpazFFbjg3YWpmYktxSkNYN3hFYjU3QXRpMDN1LVdkQmJ3WFNQNmhWbFNldUJmOWdOQXBhYVZvMUp3SkNSYUlaVzY1dGI4bGpaWU1QMy1GeEp0dWhCeEtiN2hnVmljdkpRcllBRVJYeDFsekVFTVBn?oc=5",
-   "data": "2026-09-16T14:28:51+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo se protege do mercado e negocia cinco renovações ainda em 2026",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcGt3U1lWYmF1R3FrUjdnUnlFel8xLW1lQmFudVFkZ0FhdVczbFNEd0NBaDBXOU9IS3AyRmhnb1VFQ2M3RlppLXljQVdqVUIyeVNjeE81czNSVm4ydkJVZENibDZHbVFqRkQxMkVtblpyREc5WkZWM1ZrY2huaGEtcENJcDVvNldtLTBlVVR6Q3hWYWtjbGROa3pjVEdZMzgzVF9XTkhRc0l6V1Y4ZVVUZzZ5TVFQc1VUS3BUOWNxenJ3RWFWZlFqWW43aUhqYjlZb2Z3UG4tc3JoclU?oc=5",
-   "data": "2026-09-16T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Flamengo adota um modelo de empresa sem se tornar SAF",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWZUWnM0by03SkYzY20zaG91amNSdDc0X0RXRl9KLU92dFZaYWRUVXFlaE1lN2I3VTc5am9VeVViY2luOU43X1hGLTkyVkFGazhXX255ZkdYdGJSdnVnaEtmUGZvZ1poWWJsYXJQN2JZQ00wbUExS1lrSkQ5c2F3b2VoRG9maEI0MmVsVHJDREc1ODFLXzc0OVB5TVozOFdFX2lNbHFIUHJjSVRrWWpFT2NLakZ5Tk5tU21jdEFKNUZEejJrMV9GaWt3?oc=5",
-   "data": "2026-09-16T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
