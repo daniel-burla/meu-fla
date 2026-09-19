@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-19T14:43:41.456697+00:00",
+ "atualizadoEm": "2026-09-19T17:56:31.026105+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 37
+   "itens": 38
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,80 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 65
+   "itens": 63
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 81
+   "itens": 79
   }
  ],
  "itens": [
+  {
+   "titulo": "Possível cusparada de ex-alvo de Flamengo e Palmeiras vira polêmica em um dos clássicos mais tensos da Inglaterra",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbTdzbVJqMzhleWoyeUlOdThTWHRnTzZmbk1Td1dUSmlRamoyeTExZFFkRWVNZ1FSc2JZQjNNMUtLa0RGZU13aG9mTGhSa3Q4TWxpNEFCYmRhbXJXS016NUtaV2Y3XzZpd1hDNG5NcFg5cFB1akZIbFA4ZjVfSENFeWwwVDlheUZFaUhxck55SVA3cm9YWDdwdW5jSHJHY0lUdWs2Q0RnS2FQTGVGVDdEckpLTmJzZHh1Z0Ffb3dOMllpWVp2TmthTU5hZVU1UjJXWS1WYWR3S3JVT2JGdXc?oc=5",
+   "data": "2026-09-19T17:47:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo prepara homenagem aos 90 anos de Maurício de Sousa no Maracanã antes de jogo contra o Bragantino; veja como será",
+   "link": "https://colunadofla.com/2026/09/flamengo-prepara-homenagem-aos-90-anos-de-mauricio-de-sousa-no-maracana-antes-de-jogo-contra-o-bragantino-veja-como-sera/",
+   "data": "2026-09-19T17:38:46+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Crianças entrarão em campo com a camisa especial da parceria entre Flamengo, MSP Estúdios e Só Ídolos O Maracanã será palco, neste domingo (20), do jogo entre Flamengo e Red Bull Bragantino. A bola rola às 18h30 (horári…"
+  },
+  {
+   "titulo": "Promessa do Flamengo provoca Botafogo com 'chororô' em vitória na base; veja vídeo",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREJiZ3ozQmpsZVh4a3ZhTmFZMFJsVWNEZ250cm5aN0JDTmx2Z1VDVVo4T1JGY3gyYmlnM1lRQjdMMGx1Nk1FOVAxVzJyZ3llbk1HWWNoXzFuWlF4cng0aTZEYTNNU0ZJXzk3cll2WTF0UXdrSXFUX29MV0FFN3FGRUFFaHVsTVNtM2hQTEF3WU9IY0RUUHdMZUo4Ml9KTWUtanRXRXZ5MzgyMDQ4eGRPX1NpVW1vTjhsbFE?oc=5",
+   "data": "2026-09-19T17:16:37+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Escalação: Flamengo tem desfalques contra o RB Bragantino",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR3NqRHdEaVBwZllDd3B0LVVTNnlldG92OGt1NmY5aWRpdi1tREE1cE9aQlBqRnNmZkRBcjhQQjVzWjlNcU95SlM0QmJIb0lGVHN0U3ZkMFJHWVprMUs3VkxSUlhDRjJBWXlmVW9ZM0trcmJCRWtDc3lNNEt5ZUdQYmUyOGstN1BjLW1Cek10TE9uajZ3MG5WSHNXQjMzRklRZnVXZmhIUkYzVS1QRTZ2Sm1CWTdJRE45YnlVVk5raVU?oc=5",
+   "data": "2026-09-19T16:40:10+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vai lotar! Veja parcial de ingressos emitidos para jogo do Flamengo x Red Bull Bragantino, no Brasileirão",
+   "link": "https://colunadofla.com/2026/09/vai-lotar-veja-parcial-de-ingressos-emitidos-para-jogo-do-flamengo-x-red-bull-bragantino-no-brasileirao/",
+   "data": "2026-09-19T16:37:18+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo enfrenta o Red Bull Bragantino em busca da manutenção da liderança do Brasileirão Contagem regressiva para mais um jogo importante! Neste domingo (20), o Flamengo recebe o Red Bull Bragantino às 18h30 (horário…"
+  },
+  {
+   "titulo": "Com gol de Josmar e ‘chororô’, Flamengo vence o Botafogo e mantém 100% de aproveitamento no Carioca Sub-20",
+   "link": "https://colunadofla.com/2026/09/com-gol-de-josmar-e-chororo-flamengo-vence-o-botafogo-e-mantem-100-de-aproveitamento-no-carioca-sub-20/",
+   "data": "2026-09-19T16:05:19+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Josmar marcou o único gol da partida, no Nilton Santos, mesmo com a equipe terminando o jogo com um a menos O Flamengo venceu o Botafogo por 1 a 0 neste sábado (19), pelo Campeonato Carioca Sub-20. A partida aconteceu n…"
+  },
+  {
+   "titulo": "Semifinal do Brasileirão Feminino: onde assistir ao vivo Flamengo x São Paulo",
+   "link": "https://colunadofla.com/2026/09/semifinal-do-brasileirao-feminino-onde-assistir-ao-vivo-flamengo-x-sao-paulo-2/",
+   "data": "2026-09-19T15:03:35+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e São Paulo se reencontram para definir finalista do Brasileirão Feminino Mais um dia de mata-mata! Neste sábado (19), Flamengo e São Paulo fazem o segundo jogo da semifinal do Brasileirão Feminino. A bola rola…"
+  },
+  {
+   "titulo": "Real Madrid quebra recorde que era do Flamengo e é campeão mundial sub-20 em final com três expulsos",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaFVVNU9vazJkU2ZYNTU1LXJrQ01MRXRXeERrb2xtQ2hIaVU0dnRWQUZPOTNMVjhxNWJqQlJfRXRtTVlucVJjZjNIUEdxdkdmVUZHZGxQQ242ejJVQTltaEJfX09ldFdSNmNDOWplUFlxclJTb1hnTHgzVXEteDRWT3BGdVg1dGNCVmd1dkNOX3pSQkhIQ3NjdGxKTFJIeHl1WGFhRFU0WmxGMDJPdWVKRFUzYUdWVnZYZW95c0IwUHNVNUlpQVR3dHZfMU05SHBuZXdtRw?oc=5",
+   "data": "2026-09-19T14:48:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
   {
    "titulo": "Flamengo x RB Bragantino Palpite – Análise e notícias (20/09)",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVZUXpHUjA2aUxMVW5ZRzVpSGpvU1RDdWJGU2ZmYmxmWFd6bElJRXFnOEFIM3pEMmgzVlZTQ280bFZ1bnYzLUs1SWRaVVpyTEJ1WXVfcmNSbmE2N0ZQdVQyOWIydi1fdUZ6OG0yMzB4ajZVUkZWWlNYVGNfWVVOUVBWSFlrV1dTS1dRQWh4UlpqeGhtVkE?oc=5",
@@ -47,7 +111,7 @@
    "data": "2026-09-19T14:00:00+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "ge Flamengo critica: \"Paquetá não tinha o direito de voltar para o segundo tempo\" O Flamengo mal garantiu a classificação para a semifinal da Libertadores e já entra em campo novamente neste domingo, às 18h30 (de Brasíl…"
+   "resumo": "Flamengo x Bragantino: informações e palpite para o jogo ge Flamengo critica: \"Paquetá não tinha o direito de voltar para o segundo tempo\" O Flamengo mal garantiu a classificação para a semifinal da Libertadores e já en…"
   },
   {
    "titulo": "Saiba onde assistir ao jogo do Flamengo x Red Bull Bragantino, pelo Brasileirão",
@@ -74,7 +138,7 @@
    "resumo": "Time de Leonardo Jardim entra em campo neste domingo (20), no Maracanã O Flamengo vem de uma vitória importante no Campeonato Brasileiro diante do Corinthians, por 2 a 1. Agora, para a 28ª rodada do Brasileirão, o Rubro…"
   },
   {
-   "titulo": "Flamengo tem desfalques importantes para enfrentar o Red Bull Bragantino",
+   "titulo": "Flamengo tem desfalques importantes para pegar o RB Bragantino",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWFxcXEyS3R4N3NVUjRySFd6cTlTM01Tcm9NQzQxSUNKZ0JneXkwNnFHZmRJOFJQMXhlVVhrYkJRX2toSlFOa0pYREJhcE5EZkU3WnZfZHpQdFY2TEdJLXRtMnIwb0R3YmQwR1VNN3h3RzRRcG1xel9MMkF5Nmc2WHQ2M2ZQWEZCS2cxUTZmano5MkwxTm9DQkZZdmRjVS03aUpDZkdIc3czNFNsQV9JTw?oc=5",
    "data": "2026-09-19T12:39:05+00:00",
    "fonte": "lance",
@@ -85,6 +149,14 @@
    "titulo": "Paulo Vinicius Coelho (PVC): Flamengo contra o gramado e Palmeiras contra Renato. Informações e palpites",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHFIbmpaMXlNSWxpLWl6Q2hWLXhHUE10R011T0ExQmtLajhSRWNLSWw0Q0FxNnNjR09sTnFUXzFYeVBrS1U1bW9CN1lzNlBwdUk1dzh5NGI3Yk0teTRaUTdjR3lLYVIwOU9YX1BJMjZDVDZEVlFINEQ2UnVyMF83S1pydjR2NVhaU21vOWw3UFN4dllzbWI2RmFGT3c3YlJnY3hNdU14Y09YOWdVTExYbUVyeVFtMTN6UVNKTWR4VXNKSWctUzROSHpBMkU?oc=5",
    "data": "2026-09-19T12:31:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Geração 2019 participa de 60% dos gols do Flamengo na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTnlYZE45bEZNVmd4eWxpYTVUbkdoMldCemRrZ1RYTzlhTTJHaUxuWWRPaEc0aVVrUmFZMjFJaWkxcnBXM2FncjZYM3p3RVBLQ2V2bkJ3SDNaVkVoVVFFWkxpdWZTQVdnYVlMQ2pwckxiMlRlVmY5NkVVel8tMkFVeG03ZmhOZG1yN1ZocUh6X00yM2FnTHA2T3FyS2NUUDBPVnFIaU9fVUN3eXVtOGcwZkVmWkYxZ2d2RTVzdDhqTVpuN0NaYjZIb01GajNjRmR3YktST3JIQUJkWnowS3c?oc=5",
+   "data": "2026-09-19T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -119,14 +191,6 @@
    "data": "2026-09-19T09:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Geração 2019 participa de 60% dos gols do Flamengo na Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTnlYZE45bEZNVmd4eWxpYTVUbkdoMldCemRrZ1RYTzlhTTJHaUxuWWRPaEc0aVVrUmFZMjFJaWkxcnBXM2FncjZYM3p3RVBLQ2V2bkJ3SDNaVkVoVVFFWkxpdWZTQVdnYVlMQ2pwckxiMlRlVmY5NkVVel8tMkFVeG03ZmhOZG1yN1ZocUh6X00yM2FnTHA2T3FyS2NUUDBPVnFIaU9fVUN3eXVtOGcwZkVmWkYxZ2d2RTVzdDhqTVpuN0NaYjZIb01GajNjRmR3YktST3JIQUJkWnowS3c?oc=5",
-   "data": "2026-09-19T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -168,30 +232,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Léo Moura lamenta ‘lacuna’ deixada em passagem pelo Flamengo",
-   "link": "https://colunadofla.com/2026/09/leo-moura-lamenta-lacuna-deixada-em-passagem-pelo-flamengo/",
-   "data": "2026-09-19T02:11:34+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Léo Moura participou de evento da Libertadores nesta sexta-feira (18) Campeão brasileiro, da Copa do Brasil e do Carioca pelo Flamengo, Léo Moura só não ganhou a Libertadores pelo clube. Nesta sexta-feira (18), o ex-lat…"
-  },
-  {
-   "titulo": "Emerson Royal diz que é mais difícil jogar no Flamengo do que no Barcelona e cobra convocação à Seleção",
-   "link": "https://colunadofla.com/2026/09/emerson-royal-diz-que-e-mais-dificil-jogar-no-flamengo-do-que-no-barcelona-e-cobra-convocacao-a-selecao/",
-   "data": "2026-09-19T01:30:18+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Emerson Royal entende que merece voltar a vestir a Amarelinha Em boa fase no Flamengo, Emerson Royal quer voltar à Seleção Brasileira. O lateral se adaptou ao clube, que tem mais pressão do que o Barcelona (ESP), segund…"
-  },
-  {
-   "titulo": "Libertadores: Estudiantes estuda ceder espaço da própria torcida para receber o Flamengo em La Plata",
-   "link": "https://colunadofla.com/2026/09/libertadores-estudiantes-estuda-ceder-espaco-da-propria-torcida-para-receber-o-flamengo-em-la-plata/",
-   "data": "2026-09-19T01:01:44+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Segundo o jornalista Léo José, do Coluna do Fla, o clube argentino busca solução para cumprir exigência da Conmebol e mandar o jogo em casa Estudiantes (ARG) e Flamengo vão se enfrentar por volta do dia 15 de outubro pe…"
   },
   {
    "titulo": "Jardim cita Gabigol e aponta desafio para motivar o Flamengo na Libertadores",
@@ -250,14 +290,6 @@
    "resumo": "Flamengo x Bragantino: informações e palpite para o jogo O Flamengo tem sido dominante contra o Bragantino, com quatro vitórias nos quatro últimos jogos como mandante pela Série A, inclusive no ano passado, quando Vagne…"
   },
   {
-   "titulo": "Libertadores tem semifinais definidas com Palmeiras x Fluminense e Flamengo x Estudiantes",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ydjRnLWoyYVpwUXFCY3Q1QmtXNTdpZzNjLXFPenFzY2FTMi15Yl80Vi1EODJRY21aLS1NUVFrUE1reEdJNzdWZ3FVeHI1cXRFeHY5U1FqQlFqM2Y3NS1OV1dfaGVQdTBaSElTZlhmUDlDZFdPdjFQYnRFLXZoQjQ?oc=5",
-   "data": "2026-09-18T22:47:03+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Palmeiras ironiza Flamengo por críticas ao gramado do Maracanã: 'Tempo é o senhor da razão'",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa3JvNUpDRktyZG5ScUpjbHhQbUkwMlNZVHhRYmxncVBFTDY2YTJaLTNrcUR1ZGdzQ1JNQVBGQ0xQRjg2a0M0RzF3a01fbVo0aU1WaWNHbEpNemN6eVE3eW1kbUNsMHh5M3NkWmJXZnR0MUhsM0E4T216X21KRVNmS0ZPNVNHV3RQU1g1VklsSjQyd29icGs2dWx6S0tnalllSmRFMzNobElUMm00MU1peGczMHBKcDJ6dS1lbk1jNmFWcGx6azdEVWxaX2drb0tYTkN3eXZsVUY1TVM3aGd4dmw3UVRUd0V5ZHpDS1lOZmU?oc=5",
    "data": "2026-09-18T22:25:00+00:00",
@@ -288,14 +320,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Seleção debate escalação do Flamengo contra o Del Valle: \"Pedro não pode ser banco\" O Flamengo conquistou a classificação para a semifinal da Libertadores, mas precisará virar rápido a chave pensando no Campeonato Brasi…"
-  },
-  {
-   "titulo": "Sornoza conta bastidores da reação de goleiro do Del Valle após falha em gol de Arrascaeta",
-   "link": "https://colunadofla.com/2026/09/sornoza-conta-bastidores-da-reacao-de-goleiro-do-del-valle-apos-falha-em-gol-de-arrascaeta/",
-   "data": "2026-09-18T19:59:15+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Sornoza, jogador do Del Valle (EQU), contou que o goleiro pediu desculpas ao grupo no vestiário após o lance O Flamengo empatou em 1 a 1 com o Independiente del Valle (EQU), nessa quinta-feira (17), no Maracanã, e avanç…"
   },
   {
    "titulo": "Ex-Flu, meia do Del Valle também critica gramado do Maracanã: 'Está ruim'",
@@ -826,6 +850,14 @@
    "resumo": "O Flamengo está na quinta semifinal de Libertadores em oito anos, a oitava de sua história. A equipe conquistou o feito após o empate por 1 a 1 com o Independiente del Valle nesta quinta-feira, no Maracanã, pelas quarta…"
   },
   {
+   "titulo": "Libertadores tem semifinais definidas com Palmeiras x Fluminense e Flamengo x Estudiantes",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU24tM3hicWhJa2FSd0ZpUFZ2eXlRNW9SWUlsZ1BONk5YTmlGbHRwamREZWJPUXB5clBWcGd4eGxMcV84NXFocXRZRGxXZ3R2V1dZZU8yUWFYZkQwZ0hZLVE5SWsxeXJ2RHFFNURlSXBMLWdyUmQwTWcwX0djc3VLZHJPblVkeHRBaDZTV3NrNWwtSTJNWENxdnlWZldJa1hubTBfZUMzcWNCQWtYbTEyRGJQelF3WnlrOWo1QkRlSzdfdmhPYXc?oc=5",
+   "data": "2026-09-18T02:29:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo alcança valor milionário em premiações na Libertadores",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk9GeS0zRnBwQkx1U1B4WTBlNDRmSUhUUHNraTJWOTg3amZYUDBjQnk4RVVKVms3aHN4bkRZX0k3bkhRUDJ5WHYtVE5zZ2FzU3FpZHFaekkwUHBvNExzZXdMT2FubTNRR1BhQmw5ZmFxSHFXSmpLbWtIQTN3STIwakJldlU3VDVOMEN5ZnVxcm9wLUhmNXFhOXJXc0lSV2ExT1VKNnhIS1JNVU9nNFJEbDhZVkZTV2xXVC0w?oc=5",
    "data": "2026-09-18T02:28:54+00:00",
@@ -1106,6 +1138,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Flamengo decide vaga contra Del Valle em alerta sobre gramado do Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmpEcmt0Vm54MWhkeVhtMUNOLUdLNU9DN1Y5SVRQRTJTMDJST1ozRE1lak0zdmd6UlZTTTEwWndvcWE0WFNidVNJbnhvN2l6VzZ4MEVxbllQQ05QbE1NNm42Q25udzE0NkJNaWRzX3BjcTNkdGhHVUNyQVZUeVVvalJjcnlLTUZwTEUwY0Jia3BPYXNBWFdGYUttQjdUUS1OZGthTTBUNzNkUFFVSGhWcDNEcjIxSzlobHlfU0dCbTc3MC1QUVlxRnFfNDVVZVNRNHdnMmY2U3VfQ1BJQUE?oc=5",
+   "data": "2026-09-17T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Jogo do Flamengo hoje pela Libertadores: que horas começa e onde assistir",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUEYxVmowRkk5MmdnZnhndXpRM0pLTEVaVjRsclVzMlVjMTVscmZEUzVpdndTQ19kZG1iWXJpX1VxUWdDSVVQY2hSemNRejFwOTdRVTZiT0hCWHM5Ukw3RWdWc1ZGNFpfSjMtWXFBNThOREJNU2lMdG5Ta3c2bERuS2FkeElfVWNqUGR5V0ljSk4zcUZOeENRQVZ6djNfZjlwUDdSQ0J0WTBJTFVPcDdoQWVKMWFHVkFERVJ4T2ZVb1A4dVY5MXFkb0JWaE9CQlNseWc?oc=5",
    "data": "2026-09-17T12:00:00+00:00",
@@ -1162,14 +1202,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo decide vaga contra Del Valle em alerta sobre gramado do Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmpEcmt0Vm54MWhkeVhtMUNOLUdLNU9DN1Y5SVRQRTJTMDJST1ozRE1lak0zdmd6UlZTTTEwWndvcWE0WFNidVNJbnhvN2l6VzZ4MEVxbllQQ05QbE1NNm42Q25udzE0NkJNaWRzX3BjcTNkdGhHVUNyQVZUeVVvalJjcnlLTUZwTEUwY0Jia3BPYXNBWFdGYUttQjdUUS1OZGthTTBUNzNkUFFVSGhWcDNEcjIxSzlobHlfU0dCbTc3MC1QUVlxRnFfNDVVZVNRNHdnMmY2U3VfQ1BJQUE?oc=5",
-   "data": "2026-09-17T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Tempo Real | Flamengo x Independiente Valle",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUF2QnJqTjY3ZVJjMzFWc0habGhRZTdkNmRBYVZJRkEwMTl1T3RCS0w3T3pCSHM3dV83Y1A5N3E3RmJ0ZnpIOENJZm5sbWtFNTJXS1h4ZGZuVFF3SEluRGhrSUs3Rk1CVURMaXhPc0JKbGRYQ1U0RndGTFhJb0xmWkNPRERTTDZKdkZJLXE4aGJKRkxBLWROdTZXSVRiWGNhZ2JFdzRyNzk1bV9WVERCQi1IeUpYM0k?oc=5",
    "data": "2026-09-17T07:00:00+00:00",
@@ -1200,38 +1232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Torcedores do Flamengo reagem à atuação de Reinier em Atlético x Santos",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVhseE4wLWpYb0k1b1NyOE1WUHFIQTR1SmxkcDJVdlAyME1iZ2laVXJ5WmNtaDF5c25JNXZ0bFlDMER4UDlRSFdGS0JmRzNDMmNwRzRHMW5BRXl1Mm5GOEI0Mzk4RFhwNFoxMWYwY2lpUkk4UF9jR3NBTkdBQURiWHB5R3ZIenJ1M2FzbUJFV3FIUFJ0Y3FRdjQ2MWZkZV9vYVJINjNBSGd4SEo2MUN2WXJHNnJjQQ?oc=5",
-   "data": "2026-09-16T23:22:28+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Escalação do Flamengo: Léo Pereira treina e pode voltar ao time contra o Del Valle",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/escalacao-do-flamengo-leo-pereira-treina-e-pode-voltar-ao-time-contra-o-del-valle.ghtml",
-   "data": "2026-09-16T22:22:16+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Mansur analisa gol da vitória do Flamengo sobre o Corinthians; confira O Flamengo venceu o Independiente del Valle por 2 a 0, em Quito, no jogo de ida das quartas de final da Conmebol Libertadores, e está muito perto da…"
-  },
-  {
-   "titulo": "NFL lança produtos com Flamengo, Vasco e Fluminense para jogo no Rio",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVW10WGZCN1RkLXRFblB1WTNCQTRIalRRZ2ZNcjUyYjJkaDR6dG04eU9fcUJ5YUVvN0RKSUJ6eU5NYlEwMTBVSDRtN1NqMUx1UUVhS0ZuQUUxblJmR29LVWdjeVd6cjh6Q2c0MjVodEE0RmUwekNaMUhrektzS3VXdmY1aUtndElWcHRRd2dYeE5nY21tVXFFdWswaENFc2tFaDd6M3Fucl9jcG44TzNmaA?oc=5",
-   "data": "2026-09-16T21:57:57+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Forlán anuncia primeira convocação na seleção do Uruguai com Varela, Piquerez e Arrascaeta",
-   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/16/forlan-anuncia-primeira-convocacao-na-selecao-do-uruguai.ghtml",
-   "data": "2026-09-16T21:44:21+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Confira como foi a eliminação do Uruguai! O técnico Diego Forlán anunciou nesta quarta-feira sua primeira convocação à frente da seleção do Uruguai. A lista final do comandante conta com 26 nomes, sendo três de clubes b…"
   }
  ]
 }
