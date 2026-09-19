@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-19T17:56:31.026105+00:00",
+ "atualizadoEm": "2026-09-19T20:32:06.956814+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 38
+   "itens": 37
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,80 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 63
+   "itens": 65
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 79
+   "itens": 77
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo x RB Bragantino Palpite – Análise e notícias (20/09)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVZUXpHUjA2aUxMVW5ZRzVpSGpvU1RDdWJGU2ZmYmxmWFd6bElJRXFnOEFIM3pEMmgzVlZTQ280bFZ1bnYzLUs1SWRaVVpyTEJ1WXVfcmNSbmE2N0ZQdVQyOWIydi1fdUZ6OG0yMzB4ajZVUkZWWlNYVGNfWVVOUVBWSFlrV1dTS1dRQWh4UlpqeGhtVkE?oc=5",
+   "data": "2026-09-19T20:23:30+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Brasileirão: retrospecto equilibrado marca confronto entre Flamengo e Bragantino",
+   "link": "https://colunadofla.com/2026/09/brasileirao-retrospecto-equilibrado-marca-confronto-entre-flamengo-e-bragantino/",
+   "data": "2026-09-19T19:38:18+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Mengão e time paulista já se enfrentaram 24 vezes na história, com vantagem mínima rubro-negra no retrospecto geral Flamengo e Red Bull Bragantino se enfrentam neste domingo (20), pela 28ª rodada do Campeonato Brasileir…"
+  },
+  {
+   "titulo": "Nicolas de La Cruz e Saúl devem ganhar chance no Flamengo; VEJA os números dos meias",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PRFdDeDdWOVQya2hIcFV2aXBwaTF3YUJyMzZ2TE9uZU8wZW1lVW5Xa3NLNXpSNC1xNlhvbXhKNFpCTF9tQTVDVlFweXpUSjd1MG93bC0xUVhDNm9ZVnc?oc=5",
+   "data": "2026-09-19T19:26:23+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "São Paulo x Flamengo ao vivo hoje 19/09: siga placar agora | Brasileiro Feminino A1",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0UwY3ptM1hMTC1VUUpkYWc3ajNzbE1IS3ZWSUcxX053dlZSUGdRNnB6TlB3TzBKTkk4NDMtRUNjOXdtZ0h3TE5iazhrNU9UMTlmSDdLSno2Nmg0TWZTMXFSU2tXM0hKbjNqOWQ4TWgtMUNheHdXSnRmV3doaUVmY2RxM1ZXWElMREIyYjlacFNSZDdDVmRyenI1cVNxNXFfd0E?oc=5",
+   "data": "2026-09-19T19:23:43+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Escalação do Flamengo: Jardim fará mudanças na equipe para enfrentar o Bragantino",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/19/escalacao-do-flamengo-jardim-fara-mudancas-na-equipe-para-enfrentar-o-bragantino.ghtml",
+   "data": "2026-09-19T19:08:52+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Seleção debate escalação do Flamengo contra o Del Valle: \"Pedro não pode ser banco\" O Flamengo deve ter um time com mudanças para enfrentar o Bragantino, neste domingo, às 18h30 (de Brasília), no Maracanã. Isso porque o…"
+  },
+  {
+   "titulo": "Flamengo tem desfalques importantes para pegar o RB Bragantino",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWFxcXEyS3R4N3NVUjRySFd6cTlTM01Tcm9NQzQxSUNKZ0JneXkwNnFHZmRJOFJQMXhlVVhrYkJRX2toSlFOa0pYREJhcE5EZkU3WnZfZHpQdFY2TEdJLXRtMnIwb0R3YmQwR1VNN3h3RzRRcG1xel9MMkF5Nmc2WHQ2M2ZQWEZCS2cxUTZmano5MkwxTm9DQkZZdmRjVS03aUpDZkdIc3czNFNsQV9JTw?oc=5",
+   "data": "2026-09-19T18:46:32+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo tem 4 desfalques para jogo contra o Red Bull Bragantino, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/09/flamengo-tem-4-desfalques-para-jogo-contra-o-red-bull-bragantino-pelo-brasileirao/",
+   "data": "2026-09-19T18:42:35+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "A bola rola para Flamengo x Red Bull Bragantino às 18h30 (horário de Brasília) deste domingo (20) O Flamengo vive contagem regressiva para mais um jogo do Brasileirão. Neste domingo (20), o Rubro-Negro recebe o Red Bull…"
+  },
+  {
+   "titulo": "Ex-alvo do Flamengo é acusado de cuspir em goleiro no 'clássico dos hooligans' na Inglaterra",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTBSanU4NXJDZEhlazJUcmUxS0ViMWh5a3JjMWFVczdYSFgzZFRCWmo0Y3VNNGhpdXVqd3dJejM5MzlLSDRybm1lT0dXWU1tUUdqNnltdUVPRTVxdEhvRjBVNVRRbkp5Rnl1UTYxd3otdjZvNkdVMmV2U3c1MUxCVDYtYUk5YWlCdVJGaTNWb3ZtVjNjeGY5MzNyTTJoSTVvdUpCc1dIZjZLcVhyWUNBenVhc0w?oc=5",
+   "data": "2026-09-19T18:23:43+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Possível cusparada de ex-alvo de Flamengo e Palmeiras vira polêmica em um dos clássicos mais tensos da Inglaterra",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbTdzbVJqMzhleWoyeUlOdThTWHRnTzZmbk1Td1dUSmlRamoyeTExZFFkRWVNZ1FSc2JZQjNNMUtLa0RGZU13aG9mTGhSa3Q4TWxpNEFCYmRhbXJXS016NUtaV2Y3XzZpd1hDNG5NcFg5cFB1akZIbFA4ZjVfSENFeWwwVDlheUZFaUhxck55SVA3cm9YWDdwdW5jSHJHY0lUdWs2Q0RnS2FQTGVGVDdEckpLTmJzZHh1Z0Ffb3dOMllpWVp2TmthTU5hZVU1UjJXWS1WYWR3S3JVT2JGdXc?oc=5",
@@ -90,19 +154,19 @@
    "resumo": "Flamengo e São Paulo se reencontram para definir finalista do Brasileirão Feminino Mais um dia de mata-mata! Neste sábado (19), Flamengo e São Paulo fazem o segundo jogo da semifinal do Brasileirão Feminino. A bola rola…"
   },
   {
+   "titulo": "Jogos do Brasileirão hoje: Vasco, Santos e mais 8 times disputam 28ª rodada neste sábado",
+   "link": "https://colunadofla.com/2026/09/jogos-do-brasileirao-hoje-vasco-santos-e-mais-8-times-disputam-28a-rodada-neste-sabado/",
+   "data": "2026-09-19T15:02:21+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Cinco jogos movimentam a 28ª rodada do Brasileirão hoje O sábado (19) vai ser de muitos jogos do Brasileirão. Isso porque, cinco confrontos movimentam a 28ª rodada do Campeonato Brasileiro. Apesar disso, o líder da comp…"
+  },
+  {
    "titulo": "Real Madrid quebra recorde que era do Flamengo e é campeão mundial sub-20 em final com três expulsos",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaFVVNU9vazJkU2ZYNTU1LXJrQ01MRXRXeERrb2xtQ2hIaVU0dnRWQUZPOTNMVjhxNWJqQlJfRXRtTVlucVJjZjNIUEdxdkdmVUZHZGxQQ242ejJVQTltaEJfX09ldFdSNmNDOWplUFlxclJTb1hnTHgzVXEteDRWT3BGdVg1dGNCVmd1dkNOX3pSQkhIQ3NjdGxKTFJIeHl1WGFhRFU0WmxGMDJPdWVKRFUzYUdWVnZYZW95c0IwUHNVNUlpQVR3dHZfMU05SHBuZXdtRw?oc=5",
    "data": "2026-09-19T14:48:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x RB Bragantino Palpite – Análise e notícias (20/09)",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVZUXpHUjA2aUxMVW5ZRzVpSGpvU1RDdWJGU2ZmYmxmWFd6bElJRXFnOEFIM3pEMmgzVlZTQ280bFZ1bnYzLUs1SWRaVVpyTEJ1WXVfcmNSbmE2N0ZQdVQyOWIydi1fdUZ6OG0yMzB4ajZVUkZWWlNYVGNfWVVOUVBWSFlrV1dTS1dRQWh4UlpqeGhtVkE?oc=5",
-   "data": "2026-09-19T14:39:17+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -138,14 +202,6 @@
    "resumo": "Time de Leonardo Jardim entra em campo neste domingo (20), no Maracanã O Flamengo vem de uma vitória importante no Campeonato Brasileiro diante do Corinthians, por 2 a 1. Agora, para a 28ª rodada do Brasileirão, o Rubro…"
   },
   {
-   "titulo": "Flamengo tem desfalques importantes para pegar o RB Bragantino",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWFxcXEyS3R4N3NVUjRySFd6cTlTM01Tcm9NQzQxSUNKZ0JneXkwNnFHZmRJOFJQMXhlVVhrYkJRX2toSlFOa0pYREJhcE5EZkU3WnZfZHpQdFY2TEdJLXRtMnIwb0R3YmQwR1VNN3h3RzRRcG1xel9MMkF5Nmc2WHQ2M2ZQWEZCS2cxUTZmano5MkwxTm9DQkZZdmRjVS03aUpDZkdIc3czNFNsQV9JTw?oc=5",
-   "data": "2026-09-19T12:39:05+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Paulo Vinicius Coelho (PVC): Flamengo contra o gramado e Palmeiras contra Renato. Informações e palpites",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHFIbmpaMXlNSWxpLWl6Q2hWLXhHUE10R011T0ExQmtLajhSRWNLSWw0Q0FxNnNjR09sTnFUXzFYeVBrS1U1bW9CN1lzNlBwdUk1dzh5NGI3Yk0teTRaUTdjR3lLYVIwOU9YX1BJMjZDVDZEVlFINEQ2UnVyMF83S1pydjR2NVhaU21vOWw3UFN4dllzbWI2RmFGT3c3YlJnY3hNdU14Y09YOWdVTExYbUVyeVFtMTN6UVNKTWR4VXNKSWctUzROSHpBMkU?oc=5",
    "data": "2026-09-19T12:31:00+00:00",
@@ -160,14 +216,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Leonardo Jardim intensifica preparação do Flamengo para jogo contra o Red Bull Bragantino, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/09/leonardo-jardim-intensifica-preparacao-do-flamengo-para-jogo-contra-o-red-bull-bragantino-pelo-brasileirao/",
-   "data": "2026-09-19T12:10:59+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Jogadores do Flamengo têm treino marcado às 11h (horário de Brasília) deste sábado (19) O Flamengo empatou em 1 a 1 com o Independiente del Valle (EQU), na quinta-feira (17), e garantiu classificação às semifinais da Li…"
   },
   {
    "titulo": "Do cartão de visita contra o Flamengo ao recomeço: como ex-promessa do São Paulo quase abandonou futebol",
@@ -218,28 +266,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Com 1 do Flamengo, Conmebol divulga time da semana das quartas de final da Libertadores",
-   "link": "https://colunadofla.com/2026/09/com-1-do-flamengo-conmebol-divulga-time-da-semana-das-quartas-de-final-da-libertadores/",
-   "data": "2026-09-19T02:53:19+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Arrascaeta, do Flamengo, e três jogadores do Estudiantes (ARG) estão entre os destaques dos jogos de volta A Conmebol divulgou a seleção da rodada dos jogos de volta das quartas de final da Libertadores. Os confrontos d…"
-  },
-  {
    "titulo": "Parabéns, Mozer! Um dos melhores da zaga rubro-negra, completa 66 anos",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHIxM2FRR3hWbXNJUlZ0MGNibjJDYVdSQ1NPUXladFJJTlRtQ0xFekt2WklMai1veXNfajJYOTctSUZpbmNSVS1NVGEzd1E3MVVHNkJndE5KTGRzcFhhYjBwT2JNdG00WC1hQjg0cjVDOVB1emNRcEh3dVNIOFdpUXVjV2MtclpQRFlaY1N1bG12M0JmdzYzWTItaV9kdEo0OGJIR2JpMUF4UGZnbHc?oc=5",
    "data": "2026-09-19T02:52:05+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Jardim cita Gabigol e aponta desafio para motivar o Flamengo na Libertadores",
-   "link": "https://colunadofla.com/2026/09/jardim-cita-gabigol-e-aponta-desafio-para-motivar-o-flamengo-na-libertadores/",
-   "data": "2026-09-19T00:32:19+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Confira todas as falas de Leonardo Jardim após jogo do Flamengo contra o Del Valle (EQU) Técnico do Flamengo, Leonardo Jardim falou por mais de meia hora com a imprensa após a classificação para a semifinal da Libertado…"
   },
   {
    "titulo": "Torcida do Flamengo reage ao anúncio de Lorran no Sharjah FC: 'Ficou claro'",
@@ -522,14 +554,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Mauro Cezar: Flamengo teve atuação soberba, todo errado! Estaria eliminado se...",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00RlBLV2twbktvXzgwRkh1TFY2N0Jvak1LNERrLVlMNWwyc0o2clVMOEhURXF5N2cyekRIVU5SWDFrVGE0Rk5BdHVMbVRxellraUs4WWJERnExUEIxdlBHWTJrX2ZwUlE?oc=5",
-   "data": "2026-09-18T13:04:45+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Arrascaeta cola em recorde de Zico na Libertadores pelo Flamengo",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXpRaTlRelhDOVp6U2p6SnVXTHJ0azdXWTRIQjVVX0U2dmtMaVM0THpuNjRmaFA0WkJZNHEzdHRHbVlNTHhMYUtUQWwtakEyU05aMWg4djltczZaVThCY2xCN1JhaHE1WVZhZWoxemhfN01aNmd0eWxlRUZlVlVscGdDMzNmWTJvV1dieW5RRDlobzNYWVVPT2NvdWZzQnlSaTVTdDZ3?oc=5",
    "data": "2026-09-18T13:04:39+00:00",
@@ -621,14 +645,6 @@
    "titulo": "Jogadores do Flamengo condenam gramado do Maracanã e citam 'razão' para o sintético",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFQ3aWVoTTZnTFF2dENUYVFGOXdzLTRlYldGTmFNaV9aNEdYOVBrcDdjSkoySDdvVXdsRElHeG9yRFZSMmUyTjlVMk11THZ4LXVCWVQ4R3RRQV9zM2tNc0ZXSzZiZDIxOUowazRSS3B3azA2MVkwMm5haVpUNm95VTU1LUdOLUltazg0bFZhRGtUc09sMUh3TW56SXlORVhERVMyeUtISE9lekF1eEg2WlFKQXhMcFlVMGd2Qg?oc=5",
    "data": "2026-09-18T09:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Do Brasileirão à Ligue 1, Filipe Luís e Davide Ancelotti causam impacto na Europa",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYkVVU2R1VHlUdHpkRzJuZllEQVNFRzBNOFY3WjhTd3B5R2oyQk5OLU84QUZFUEZRX3NPbEJNcVdfSm9XNkdDQXI3SHRfa0NYWUxpLVBzdWZzb1A0eUozV19DNkhvcXMybzZtTDF3UnN2Y080czJ4ci1wUkJuWWtpaDJCT25BUzZ2UkxRWS15cURMQWsweWNwNWpvSHdWdEgtZkQzVFB4Q3FKMjJiRW5keVBKYWQ3QUN3X2VOeElUWmJzVUt4MnNTYWJlQlQ?oc=5",
-   "data": "2026-09-18T08:50:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -818,14 +834,6 @@
    "resumo": "Initial plugin text Flamengo 1 x 1 Independiente del Valle | Melhores momentos | CONMEBOL Libertadores 2026 Jogadores do Flamengo antes da partida contra o Independiente del Valle REUTERS/Ricardo Moraes + Leia mais notí…"
   },
   {
-   "titulo": "Flamengo sai atrás, mas Arrascaeta garante empate e comanda classificação contra o Del Valle na Libertadores; VEJA os gols",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TVjNJaEFYMVNzOGdiUHgtSlVtT2hNd0kydktRWmJmRXZwbnNLeVNoNldpbFBPRVF2ODZyTzVHR2tQMFdpems2bE5MU2VTUWRoRUxBa0xYemQ5OVh4NHc?oc=5",
-   "data": "2026-09-18T02:38:15+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo passa sufoco, mas empata com Independiente del Valle e está na semi da Libertadores",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbGV6c1YtX3FjZHZOeC1UZEEyY2ZpYk1OQXRWc0h3cXpwLTRnUTF3bUpHX1puX2pSY1puM01mbFdycVdiVTFhTDQ3OXBvbUxBd19Rc0tPOFBJMFJlZ2lyMWRGeWViTktVazBVdmhDTDNSMGc5TlNkNi1FaWF6SEhWek01dFA4djJqWnZxTVFpd1JvUGxyRHQxUno0dXFXdXJ1NGNodV8wRE5RREtsYnAxUEtDcU1UaTZvTGRkYkltMUI3cnNEcDlzUEFzQnpKUWxLQ1RwNjlEZDFoM1l3NjZvVWYtZ2pPZ0ZEUTc3ZW1oOTRFTy1F?oc=5",
    "data": "2026-09-18T02:37:00+00:00",
@@ -867,7 +875,7 @@
   },
   {
    "titulo": "Flamengo empata com Del Valle (1-1) e vai à semifinal da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHZOWFV6cjYxNFd5Z0kzVzRUMXdfT3VnVERvX0FhU3dmWDhwMEtpR1QxSzc0dGY5OTdtbzdUU0JlN0hkWVViSDZqUzd2WllhRHM0T204VjRNOWttMEJlUnV6UUtuOUJtSFJaOHRUS1pfR1ZGX2Y3Qy1uMjlBWTNXSFd5ZTdFLWVZWG1GdnlsUzR3UnB1VXZROFc4ZHlhblh6U3RXcGFZbjZHSjJxMzFBTXNpNVkyckJtY0tzV3NyN1FNY2o0aGlLSjNfVQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0xUNmVqTXo4SFNHNHhhb1VqV1J3X1dEcEtFSXZKd1R6YzJaLVMtV2E5WHNXMEhSdmNCdjRjZkdicVlwaFlQYTJva0hhZ3VJUU1CR0EtdWw4SDVqMW5PeFhyRVlSdjFwXzMydGtTT0JHYTM5eVBuaTBoMlQ2ckN4N2pBLTJ3a3ROV0RfQ21UaGxPTXZlWFhiTkdLYy00MlJ0UUdha1JHNUdyTVBObW5HTU1GNzRTQVVZQVA1SW44UDhGLXZSbG9XaFRRdFhHbklE?oc=5",
    "data": "2026-09-18T02:28:27+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -962,14 +970,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Veja gols em Flamengo x Del Valle: Arrascaeta empata a partida",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamd5RXNhblN6ck9YQ0o2aUwzU09EMFlLYXJXbHVtT1dSUFFwN2NpampNX2MxcTFBS1JPUmc2TUFHVlk3VGFoV2pEemZmQU5mSlptVVRhUHkxWWxXMHZNVHF6STVDZDdVcGtLTGM5eW5RMExsbndUZUlzX2tPMElPM1F6RzVOeElUSlQ1V05GczhRUEk0QXBIV00zLUo4cG56RktSMHBIZFJhOHQz?oc=5",
-   "data": "2026-09-18T01:06:57+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Veja gol em Flamengo x Del Valle: Reasco abre o placar",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaFc0eTVtSFh2YWt1Uk9VSThaOU1FVU9mYXhpakNDUm96RDNuSmJFMG02Y0lGamhhNE9acElTemZtRnlqQzlUNWtsVHJnbnJPdHNybVZBdVFiMW03bHhLWUtSV1ZTNG9FdHNkaHlvQU1nd3NORzFKM0pNblEtUWtmRTR6SXhpaGJsazVxRDBUelFDYkswMWRFOFRPN0dwS2tqWkE?oc=5",
    "data": "2026-09-18T01:06:57+00:00",
@@ -978,11 +978,11 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo 1-1 Ind. del Valle (17 de set, 2026) Estatísticas dos times",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDeUVaaDg4TTJVWTJkYWRaajZVNGxfVWYxbE56WVVqWS05N2JjWEltXzVraHlqT3FzQXZjZjgxalc3U2pmaGw3Wm1HeWp3eFBrNWExdzBMUmRHTUVoX3NUaU1mUTVYQ3BaTU9yMDEwazZqWHF0SUdvaGgxaw?oc=5",
-   "data": "2026-09-18T01:04:28+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
+   "titulo": "Veja gols em Flamengo x Del Valle: Arrascaeta empata a partida",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamd5RXNhblN6ck9YQ0o2aUwzU09EMFlLYXJXbHVtT1dSUFFwN2NpampNX2MxcTFBS1JPUmc2TUFHVlk3VGFoV2pEemZmQU5mSlptVVRhUHkxWWxXMHZNVHF6STVDZDdVcGtLTGM5eW5RMExsbndUZUlzX2tPMElPM1F6RzVOeElUSlQ1V05GczhRUEk0QXBIV00zLUo4cG56RktSMHBIZFJhOHQz?oc=5",
+   "data": "2026-09-18T01:06:57+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
