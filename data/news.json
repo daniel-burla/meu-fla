@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-22T01:35:51.308869+00:00",
+ "atualizadoEm": "2026-09-22T06:45:11.127650+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 11
+   "itens": 30
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,48 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 12
+   "itens": 65
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 12
+   "itens": 86
   }
  ],
  "itens": [
+  {
+   "titulo": "Santos x Flamengo (8 de out, 2026) Ao vivo",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWRF91SG1laXBDN2VKSGdnekpnbFY1VHpyWjZqZWdTTTRrN0Y0VWQxT2hlUUFrcDl4LVBJd1RiMTVWOGI0QWg5TlA0MHBzOF8wNC1aLUlUNk9YRDR0ZXlpV0pKbjdkbG4xQVE?oc=5",
+   "data": "2026-09-22T05:45:34+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo de olho: Estudiantes perde para o Lanús pelo Argentino antes de jogo da Libertadores",
+   "link": "https://colunadofla.com/2026/09/flamengo-de-olho-estudiantes-perde-para-o-lanus-pelo-argentino-antes-de-jogo-da-libertadores/",
+   "data": "2026-09-22T02:43:24+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Estudiantes (ARG) entrou em campo nesta segunda-feira (21) O torcedor do Flamengo quer acompanhar cada passo do Estudiantes (ARG) até os duelos das semifinais da Libertadores. Então, o Coluna do Fla atualiza o rubro-neg…"
+  },
+  {
+   "titulo": "Torcida do Flamengo brinca com Arrascaeta após vídeo: 'Passou do ponto'",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnBvNDU1MWtnUDMzQnR3Rzl3ZC1Ea0x4VU04STZYelhSR1RKVmpsZjliZGpWYWpLMkx3TzBTSUtnTzRoVTgxRW0zWjZQYWhIZGlhUnN1Q3Ntb3V3VVFEZk1HOGxodWw0UHZZcGZRd3E5RjR5SlZ3SFROeHkzYmdmOUZBck1xSURzWlFMaWl4SS1MODA5dF9WV25WMXdzZVhEMUJ6VkhjTXpPakNDb1A0aTlB?oc=5",
+   "data": "2026-09-22T02:36:56+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "A sugestão de Bap ignorada e a derrota do Flamengo nos bastidores da CBF",
+   "link": "https://colunadofla.com/2026/09/a-sugestao-de-bap-ignorada-e-a-derrota-do-flamengo-nos-bastidores-da-cbf/",
+   "data": "2026-09-22T01:40:16+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Bap pediu o fim do limite de jogos para transferências O Flamengo foi um dos dois clubes que votaram contra a redução do número de estrangeiros relacionados por partida a partir de 2027. Durante reunião realizada nesta…"
+  },
   {
    "titulo": "“Desfrutem”: torcedores do Flamengo usam frase de Abel Ferreira para provocar Palmeiras",
    "link": "https://colunadofla.com/2026/09/desfrutem-torcedores-do-flamengo-usam-frase-de-abel-ferreira-para-provocar-palmeiras/",
@@ -50,12 +82,20 @@
    "resumo": "André Luiz anotou uma verdadeira pintura na MLS Cria das categorias de base do Flamengo, André Luiz chocou os Estados Unidos na última rodada da MLS, a liga de futebol norte-americana. Atualmente no Sporting Kansas City…"
   },
   {
-   "titulo": "Leitura labial flagra chateação de Pedro em jogo do Flamengo: “Me tirar?!”",
-   "link": "https://colunadofla.com/2026/09/leitura-labial-flagra-chateacao-de-pedro-em-jogo-do-flamengo-me-tirar/",
-   "data": "2026-09-21T23:58:19+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Dois profissionais interpretaram a mesma reclamação do camisa 9 após ser substituído contra o Bragantino Pedro saiu chateado após fazer gol na vitória do Flamengo por 2 a 1 sobre o Red Bull Bragantino. Assim, a leitura…"
+   "titulo": "Flamengo vota contra redução de estrangeiros no Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92NTk3RGEzQnkyamloVk5JTmE3NnZGVjZrRHp1N1NPTTdrR0NpaVF5ZjQ4N1p6dWVjUEt5cFB2cGJwMkM1VHA0RHVmeW9YMHIteEYyUzVBWU0yeXJ6UjA2dDU2dXV1Wkk?oc=5",
+   "data": "2026-09-22T00:30:48+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "CBF propõe, e clubes aprovam redução de estrangeiros no Brasileirão; Flamengo vota contra",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV1g1bFNiWW91dDZSaWpnUnRfczVVZndMS3lqVDZYVWwwV3ZxeGVaNDBDa3RzNjlHclpqVmlLcTdMazl0WXJiVHk4UGl5SDhZVlpGYzNRS3daMkVfQTJtRl9DZV9lZENDS1hPeVh3NmFXX0l2MWRUSTFhdlljRVJpSEJ3bGQ4cWhsUzFhYzJ2OW1idWZ1bUhfeFVVQU43a2pjWjVsV3VFeF90TDNILU4weFNhX3VBMlp6R1lTYVBBTjJORFJuajVZakxLNzM2dVQ2MF92NQ?oc=5",
+   "data": "2026-09-22T00:00:18+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Mundial: FIFA define possível adversário de campeão da Libertadores no Intercontinental; Flamengo luta por vaga",
@@ -72,6 +112,22 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Jorge Jesus vai estrear por Portugal nesta Data FIFA Vai começar a trajetória de Jorge Jesus como treinador da Seleção Portuguesa. O técnico ex-Flamengo estreia na próxima Data FIFA comandando Cristiano Ronaldo e compan…"
+  },
+  {
+   "titulo": "Clubes aprovam redução de estrangeiros no Brasileirão; Flamengo vota contra",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kbmk5bDR2YWV2dHhSTGJMN3dQZHpvVlBuTmxJTVd5NENCcml2YXBfellWV3NUeGtqb2cwZnA2QVNoNzZ3QWNUckg5U0RjMmJjS1l0S0xicTJURDhua2dNLXpGc2ZBTGc?oc=5",
+   "data": "2026-09-21T22:21:31+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Saúl mostrou que tem sido injustiçado no Flamengo? Mattos analisa",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3U2RExEV1UyQjRzcDRscElOQWdjWkg5eGhqV09reldseGpJOUtIa3lRZVgyREZTQ2xyWXg1ZW9GNmM2bkFfSWp0XzBxUklJMnB0OU5Dc29RYU9XWXNMbXRraEl6UnNFa05IeTd3OXFPbDlOVmdNT2tXMzN2NU5OcTlTcjFMSWlSTWVRQ2EwamJfUVhuOUxWbmlUWl9TLXRZdnY0bF9wWDVkSGkwRzBUOHNUenNEZ2RIdU01U2xGdDY2a2s?oc=5",
+   "data": "2026-09-21T22:10:44+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Indireta? Esposa de De La Cruz manda recado após meia atuar por 1 minuto em jogo do Flamengo",
@@ -98,6 +154,14 @@
    "resumo": "Ayrton Lucas preocupa para a Libertadores e Plata será reavaliado pelo Flamengo O Flamengo foi um dos dois clubes a votar contra a redução de estrangeiros relacionados nos jogos a partir de 2027. Durante a reunião nesta…"
   },
   {
+   "titulo": "Dallas Cowboys usará CT do Flamengo antes de jogo da NFL",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkNuOFFkbG0wTElzaHBGVVg1b09vbDI3MHdtbFRXWlV2dlB5SXJmd2dwSmZWOXVtN0lVSm9XTktjcjdrcGpqTGdLazN2OEFOYmM5TVRORTRVQ05NMVNhT0xjNm8zcnZ6RTNJX2lFVDh5WERVU1hRY3lmS1BKY3FCSW9yRlhFX2c1ZkhCc0V4TWl5SkFaVk9wcm9ibmZKYXl4ZkVZUzZtSnBIZF9JQkYybzl4V2tNLTA4STEyT2IxbDRwV21PeXJtWFJB?oc=5",
+   "data": "2026-09-21T20:39:27+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "CBF define redução de estrangeiros nos times do Brasileirão; Flamengo vota contra",
    "link": "https://colunadofla.com/2026/09/cbf-define-reducao-de-estrangeiros-nos-times-do-brasileirao-flamengo-vota-contra/",
    "data": "2026-09-21T20:33:43+00:00",
@@ -114,20 +178,44 @@
    "resumo": "Governo estabelece novas regras para publicidade de bets Dirigentes dos principais clubes e de federações de futebol do país querem ser recebidos pelo presidente Luiz Inácio Lula da Silva. A intenção é pressionar o gove…"
   },
   {
-   "titulo": "Treinos nos profissionais e jogos com o sub-20: entenda o planejamento do Flamengo para o lateral Johnny",
-   "link": "https://colunadofla.com/2026/09/treinos-nos-profissionais-e-jogos-com-o-sub-20-entenda-o-planejamento-do-flamengo-para-o-lateral-johnny/",
-   "data": "2026-09-21T20:02:30+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Como está a situação de Johnny no Flamengo? Por: Rodrigo Lima Johnny foi um dos principais destaques do Flamengo durante a intertemporada em Portugal. Porém, por conta de pouca minutagem no time profissional, o Rubro-Ne…"
-  },
-  {
    "titulo": "Leonardo Jardim explica veto de Anthony Valencia em jogo do Flamengo x Bragantino",
    "link": "https://colunadofla.com/2026/09/leonardo-jardim-explica-veto-de-anthony-valencia-em-jogo-do-flamengo-x-bragantino/",
    "data": "2026-09-21T18:49:23+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "O que aconteceu com Anthony Valencia em jogo do Flamengo no Brasileirão? O técnico Leonardo Jardim deixou Anthony Valencia fora da lista de relacionados do Flamengo na vitória por 2 a 1 sobre o Red Bull Bragantino, ness…"
+  },
+  {
+   "titulo": "Palmeiras vê Flamengo ampliar vantagem e não depende mais de si para vencer o Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVU3Z2dwQk9VZlZKMDNtTzFpaGI0WUVEejVuUTlNSWhheVZVQUFrc1R1QmdFUkdhRTQ0UGpPckVKQW1tSWVVWFF0ZUo3OXZ5a2U1Z1ZiU3R0NFZKSXJtZmcyUU1XeUJlR1ZIZ2o0MW9TQW92bHBuVjczS25GazdoeUdCaTc5S2dvZnVzMjVXbS1kb3daX3Rfd1M5WWVfazFFczZ2N0ZSNkJqTWw4azY5MDM2OGI2RDhjOVJLODhoN29aQ1BqNDM3UQ?oc=5",
+   "data": "2026-09-21T18:48:45+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Santa Cruz supera público de oito jogos da Série A e fica atrás apenas de Flamengo e Grêmio",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUTRTaFNaRWljbnkwSWgzQ3J3cW9XU25kMnNKTGhKTVpXTXVoVEYwbUpVcTZhWXozS1FSU1hpWUtBSFp0Sk1fakMzelZPTm4wNVBBVmF2VGVRNHAybm9tNjlrUWtpRnFxZlVtVHdNMWdFVGd2VGJRZFJYb0wtOUpKYVVIUkJBeEtyV01aeERuME1XSmFrZXctUzZOaVozU190X21icG1sdlUyMldmVEp2ZUVUbFREWk9kSjk0NEVWQy15dnEwSnBrLVlkNFpyVW0xaWhtUkhpMUIwMEgtTzJmQ1pEa3dqTG1uVkFfOFlR?oc=5",
+   "data": "2026-09-21T18:45:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Alicia Klein: O desafio que Flamengo e Palmeiras levam para a Data Fifa",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclZDTXJOREJGcHNfZTN0VHJ5d2xwVDZqUTY5Q2VHMjlOck1MS0IzRUszS21VTHV6NkhOaE5yRVNaRU8wT1N4czhlQURCVkJNb1dTdkxzcUdJblI0Vlg4UVR5VWlPTk9FRmRxUm9CY1pvT0dwcVVwSUltUExjMk91X0Vvd05nbWY3SWpsVFRRZmdJOWc1Mm9fM0FBQXNBT3czVk8teFd4bFRLa2l5NHd4enBZWm9GVk5tdEdQTmhOQWRwdw?oc=5",
+   "data": "2026-09-21T18:30:53+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Danilo Lavieri: Globo terá Palmeiras x Flu na Libertadores; Flamengo joga semi nas quintas",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYV9yWXZNWTF6b2ZIazlQczYtUm5VbHhRT3hNSXhfQ3ZDN3dIRDhsNEdzMFFtVUtCUGtsNl8yUHJYd3pMRS1IcWd2OVB3bVVob1Q0QmlnQnBIWEVhTFBWY2tTOVBMeXlaNkJicU1RR2hTSDZ3UDBMdkh1SUh3S3dIMWxrNFBfSnNsaWNKOERTQ0ZYLTlMYVVfTldnQzE4bVRlMHRMd0Y3NUtEblozSVhHbkltSUQxT1FNOWxYVVJkNFZnZ1Jyb2ZIV0FYX2o2STVxWDlVUzh1OXAyQQ?oc=5",
+   "data": "2026-09-21T18:18:51+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo, Palmeiras e Bahia têm as melhores campanhas visitantes do Brasileirão; veja ranking",
@@ -146,6 +234,70 @@
    "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 O Flamengo está com a melhor campanha mandante do Brasileirão, com 33 pontos conquistados em 14 jogos, empatado com o Fluminense tam…"
   },
   {
+   "titulo": "Exames detectam lesão muscular e Ayrton Lucas deve desfalcar o Flamengo na semi da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWXJOWV9NQk1CT3lzSHhUbGd5VV9STmdaNm5ScDVSS1k3NzkyMUdZY3BWeE5OSGtzMG5pNDZaUGFCN05wVG5fd25qNFFOakpIMVFJSlJJWlZ2WVJDczBabklzY2ZMTUowVnRHTlpTVU1TMnBURVNrTjllTE5CbmpZbzdmemotZHRicUhBTGdpMkVtLVJPODFpbjFUUnlZOWVZY0lkSXg5cmdDVEJuUkxuZG5OdVpPUG9UazJMc01fTXlLaFdYZWt5MlpSZFlrWE5UZ2M4TTl0Q183NEo3VkdTUThVWDV4MlhMeGFXSjh2NzdIRHY2alpFSnpn?oc=5",
+   "data": "2026-09-21T17:28:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo confirma lesão de titular e atualiza quadro de atacante",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZThnQ0Zvdzd6VDBZTEpHWExDd182bjZTaEJqZ2dGZHJRUFB5TnFLVEZOdXRwVGZtYjc4RU1WTWxHTUJIRUpQaTMzX0NxWERIbFJwbEVIZk5kTlpfalk4dm1VU0VrQlJZZGtvd0hLNkc5V1BORnVTS215TzlZYkNDcGI0cXNPTFBlLUNNNDkxRVhCNlpmLTJlRWRob2lKSVdCandSVHUtNGJkRkRtRFpPLWtnYlRCZw?oc=5",
+   "data": "2026-09-21T16:17:14+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Cleitinho compara MG ao Flamengo e diz que estado não está quebrado, só precisa 'mudar energia'",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQa1FvME1LOEdOZTdSN3RaYTNwRVNKRXN5NVVkcTRfSFBYSWlRQW1TYzlfZnFRSmFwNk1ZcVl0SmNkYjBBb0w1ejZCYkFKWWxwa2U4aFk1ODR2VXdPMUY3cThWeXJrOVR4MmYyRjIyUWtjYkp0T19kRERPZEVZaHJmUS14SWdpTTJBMWV1ZURSU1FvMDV1U2p3LW1uUVY1X29Kd3hUdVk1Y1c0TkdYSkczMGtwLVUyWlFTaFZQYUZjSVA2T2hlM2o1dV9CUWRUTm8tenlYaVNmMDJ3R0lHbXUxcWxDc1RCUHpFeVBwSktyWmVaWmZLdGRYX041cw?oc=5",
+   "data": "2026-09-21T16:05:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Estudiantes: veja datas da semifinal da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWJUd2h1Z0xsamlHYVlxYzlqQ0hsa3hSdXdHT1ZXYi1SY1JzdTNySHYySTZvdmNySVcxNnlDa1FpZ3VDODdyZkQtOGxGMGVKeU5xTkt4T2ZNMW1OWU5UT09mQmlUa1JYMUR5RXpQTzJ0MmE1dHVHZ04wQlowWmZYVmRlOVd6anBzNTdtM1l3WVlNUG9YTVcxU2ZmcXZ6RC1yUVlKQVdSajZSbUlTNGJxcC1KWXBHdw?oc=5",
+   "data": "2026-09-21T15:58:30+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo chega a 76% de título no Campeonato Brasileiro e deixa Palmeiras longe",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeElwcW82djBBNFVzZDMwdTFoNFpVRjFBbk1aaUZmY1lhRlBJVThrU3JORFRjWlk4ZVB0dEZRXzF0MU9ZTXZOaXdfSFVwOXVneGdIajF3SjZrc0VqSFlpazV3ZmxDNjVab0d6N21uZEFGaUZDMFJaTDhtQUNNTDVzWFdUR2ZEU3NfNE1keFlkSnRFRU5CV3NPa05CekhDYk1pVVp0cEItT1hETmo3Z2FXZDA1UXY2S09reTljY21GREk4WHFEd3BhZzNFRHZyT1lZTW5KOHptZmwyRWhzMzctYzgyaw?oc=5",
+   "data": "2026-09-21T15:16:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Retrospecto da reta final indica caminho do Flamengo ao título; Palmeiras, Vasco, Grêmio e Inter terão que evoluir",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0WUpMdHhzQ0RNN2RBX0ZFeHdMSW5QNmY1Tk5vcnV6b2pxTU9xdEFzZFhCbFpLakJvWHhpMW9PTmFxZm8yRkxsTlZkZUFxb3ZMM1BzZndpYlNQajZvWHNGd1hMcXdpaEpLdzI2YlprREFKMHRWeWFqclRKZkVYczQ?oc=5",
+   "data": "2026-09-21T15:00:41+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Justiça rejeita tese do Flamengo de que Vasco x Palmeiras danificou gramado do Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWndFVzBjRjA2cHQ4S3ppSk5JVVZsVzFoZ0piZzNjOGhWWXRtM0s0QjFpTnVFSFRRVWZTNWJNTW9pSXdmdWhfMnMyUm85RXNub091MXVYMVoxQ2dyS050WElFWkt3LTBtZUV2U1N0VmwyTlZDWUwybVJ0VmkxRURnWHFmUWN6RHAzV0tiQ2RLMVRFUXRkc0dseURPaGZoNE5LdTQtVEJyZmtiWE9Gd3FHek1ubkx3b0lIbDZwWGRTU3dFV295Y3RUa1FyTjV1YjFXeFZjYjhiQl9KZWJPNE85cTZLdw?oc=5",
+   "data": "2026-09-21T14:53:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo: Exame aponta lesão na coxa direita de Ayrton Lucas",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbl9tMmRXdkVkWW1BVkdsSkJrUDRMNmhoRmpFMWpKaE9abm5QR0NEZnhSOHR2Ujl6N0dObGRLVlJZbm44S3cyRWs0U09HZVBnWTBoUkNTNVVRQjBxSGRsVXA4OG1kXzN0eW05ZUdxRWc1WDJLX1J0dTZjUGExV21HSnlvSVBZZ1M1UXJxZC1kZmRWSUhrMUZ2VUdiVEp2ZnVIOWlQcjk2RWVZTWQxMmhLQnd5a2RzSFBudHRVeklhYnBMajJmMV9Ob1dib3NyTFRCLWl2WUNybzNMUQ?oc=5",
+   "data": "2026-09-21T14:41:40+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Semifinais da Libertadores 2026: veja datas, horários e onde assistir",
    "link": "https://ge.globo.com/futebol/libertadores/noticia/2026/09/21/semifinais-da-libertadores-2026-veja-data-hora-e-onde-assistir.ghtml",
    "data": "2026-09-21T14:34:16+00:00",
@@ -162,12 +314,52 @@
    "resumo": "Preocupação: Ayrton Lucas sente a posterior da coxa esquerda após dividida com Fernando O lateral-esquerdo Ayrton Lucas passou por exames médicos e teve uma lesão muscular na região posterior da coxa direita confirmada.…"
   },
   {
+   "titulo": "Flamengo: dublador revela discussão entre Pedro e Jardim",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUU5ZENJNFRCT1RGazdRNnRUemlSemJQVkw5NFJWMkNxZHZpOXpSNE9QZTUydVpOZ2hVWjIzVHpNa3poRTNCNG5xNW8zTm9Nd25FLS1KR3k2U3JxRzQ0WFdjeU5sX2lvaHdrYmstQkRCMF9kQ0N4enRMN3ZfeTlEOEtJZm1lLUZhRkg4MzFWNU1oeHRiZmVKWHAxNkdObDli?oc=5",
+   "data": "2026-09-21T13:03:48+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Pedro vai da irritação ao abraço em Jardim, encerra seca no Flamengo e projeta ida à Seleção: \"Cabeça feliz\"",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/21/pedro-vai-da-irritacao-ao-abraco-em-jardim-encerra-seca-no-flamengo-e-projeta-ida-a-selecao-cabeca-feliz.ghtml",
    "data": "2026-09-21T13:00:00+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 Pedro viveu uma montanha-russa de emoções no último jogo pelo Flamengo antes de se apresentar à seleção brasileira para a Super Data…"
+  },
+  {
+   "titulo": "A 10 rodadas do final, Flamengo será campeão brasileiro se repetir 1° turno",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS09KcVZVNjB6U0hqdV9Kek02aGZRUFlpR29Wd2NyRWR1Y00wRGpGb1ZiT3FfMFNSRXRSQmhLWHM5M2VHaUUtSFhDdzFLSndsQTAzSkFmWTB5dzVaakRWVlpiaWp5Wk1CNkFUZ1Vma2d3clRXN2ZFblVwOVpHdTBJbE13QTZBSlItRTJ3TXl2dzhyQnJnUkhpSnZfVTZIZXpnV3RlRnRmenNPNThO?oc=5",
+   "data": "2026-09-21T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Saúl desabafa e não descarta saída do Fla: 'Todo jogador quer jogar'",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3c0SDloS0Z6c1VXS1BNTGNYUDBwVUpXb01MS2hRc3c5VWJqTGowM3FDZGhXREhRQ3QwS2lKekpUOW14Y21nY1dtQTFUOXZGLU1iUUYtLWZLZlo5LWlBbFZwUFc2ajB2RXJOZjA4aHVDZVpKbVRvWC04YW5iTkdOeG5Od0k2VEotUTZIeEdVSEVpeWx3Y3RhdU5VWHVTaGQ1UkZJdDN0Z3JBcTJNYmdxQzdVZFpwUFQ0aDVVQ3pLdHBiT3lic2FmZzJrZE05MDV5TUNn?oc=5",
+   "data": "2026-09-21T11:25:17+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo dispara após tropeço do Palmeiras e chega a 76% de chance de título do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenhWUUtrclFuTm51aUxoRVJBMDVsOFRudlNMQXI5RWJhbVFJZzRDZFNoMGJtUEtxS0NSbEJhRkpQUVpHSzNYYllWdXFFWjRxQzRVbEx1bGpCbEJkTkd2MUIxYXk1cHZpcFNUZ0VoRFdaLUIzNkpJbDNzWlkwUFBqYUVmR3FucEQ5RHlJbmIzYXY0dXN0YWJnRXZvWmhPakF4VlUtNkVrVFIzYklpMVZUZjBuLTJmckdtNFJwN0JSS0pRa1lZY0oyN1FTeVpITTVDSUdXUDh3WGNvSUZhZEE?oc=5",
+   "data": "2026-09-21T11:17:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Sóbis eleva o tom sobre atitude de Pedro, do Flamengo: 'Não tinha o direito'",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdFhDNU0tal92RnFDU3lYZ3dZNU5QSDZpbjk4MEVuejFjUG1JMFZEbjctNHF5N1o3aUhIVUJmSTBGNmlwdE15SUFManB2RWNPTUlMTlVtbVU2ZWU2ZERSLWRGc3ZrMFZWZVVNTFhjY1REbzZSSmtOQUhldGk5Y051SGsyTFhGeURqLXBqcS1lZlR3SzItRjY0ZFBHeGFsRWZrWmpHN1ZKUHhtNWEwRUNxNkVsTHp5TG8?oc=5",
+   "data": "2026-09-21T11:10:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Classificação do segundo turno: Flamengo continua na liderança, e Santos sobe para o terceiro lugar",
@@ -178,20 +370,12 @@
    "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 Chegada ao fim a 28ª rodada do Campeonato Brasileiro, o líder Flamengo aumentou sua vantagem na ponta de cima da competição. E, além…"
   },
   {
-   "titulo": "Exames detectam lesão muscular e Ayrton Lucas deve desfalcar o Flamengo na semi da Libertadores",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2fultimas-noticias%2fagencia%2f2026%2f09%2f21%2fexames-detectam-lesao-muscular-e-ayrton-lucas-deve-desfalcar-o-flamengo-na-semi-da-libertadores.htm&c=16479568050286853444&mkt=pt-br",
-   "data": "2026-09-21T10:28:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "O lateral-esquerdo Ayrton Lucas é o mais novo problema do departamento médico do Flamengo. O jogador foi submetido a exames de imagem que constataram uma lesão muscular na região posterior da coxa dir ..."
-  },
-  {
-   "titulo": "Cleitinho compara MG ao Flamengo e diz que estado não está quebrado, só precisa 'mudar energia'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fnoticias.uol.com.br%2fultimas-noticias%2fagencia-estado%2f2026%2f09%2f21%2fcleitinho-compara-mg-ao-flamengo-e-diz-que-estado-nao-esta-quebrado-so-precisa-mudar-energia.htm&c=617134420106863330&mkt=pt-br",
-   "data": "2026-09-21T09:05:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "O candidato ao governo de Minas Gerais Cleitinho Azevedo (Republicanos) rejeitou nesta segunda-feira, 21, a avaliação de que o Estado esteja quebrado e comparou a situação financeira mineira à recuper ..."
+   "titulo": "Veja e simule os 10 jogos restantes de Flamengo e Palmeiras no Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1pzTkhVZHZBTmZtbDFacVpFR2hPS3BqdmM1T2pyZjZUWW5kQnNVTkFUaWJOMEhtU1JsNWdSM3IzMUN3b01XbEJrVi1wRXNaZjlNcS1qRFRlTWV5SU51aUhwSGNjWmhmY05PTnhZNVVQVHNLR1M4cUJkZ3BkTnF6SllKOG02SjB4LUFpclFyQ2lhMUI0YzJJU3loYWJCOE10eUlMaDBNSkxaODhXN3lmejF6bi1TQ0tOcldISWh3?oc=5",
+   "data": "2026-09-21T09:10:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo faz 79% dos pontos possíveis depois da Copa e abre vantagem sobre Palmeiras",
@@ -202,36 +386,28 @@
    "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 O Brasileirão terá uma pausa de 16 dias devido à Super Data-Fifa. E o desejo do Flamengo é que, no retorno, mantenha os bons números…"
   },
   {
-   "titulo": "Palmeiras vê Flamengo ampliar vantagem e não depende mais de si para vencer o Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2fpalmeiras%2fpalmeiras-ve-flamengo-ampliar-vantagem-e-nao-depende-mais-de-si-para-vencer-o-brasileirao.html&c=18321365912455127850&mkt=pt-br",
-   "data": "2026-09-21T08:48:00+00:00",
+   "titulo": "Análise: Flamengo chega à Data Fifa como líder, forte e com margem para evoluir",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVURBQThTZ29tX1I2ck1UbndnR19QQ1lGWTlZTlN3c0I4WTRoM3Utb01SeXJNM3RNMVNrUUo2MkNiRzM1aUVNcWplY3FfUWFSRlVGcTB5TFFIbjV3RjZxMGpQR2d2c2FET0trWWVfU0NoRDd2UHZLT1BCemJ3QWZhcGg4aXJlZ2JhUF9lMmY1ZEdPUGpaZm5uWVdfclZ2QmpmZkkwV0lOYklhMzN6ZWdwbjlfb1J0dzg?oc=5",
+   "data": "2026-09-21T09:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "O Palmeiras terminou a 28ª rodada do Campeonato Brasileiro a três pontos do Flamengo, mas com duas vitórias a menos que o rival carioca ..."
+   "resumo": ""
   },
   {
-   "titulo": "Flamengo chega a 76% de título no Campeonato Brasileiro e deixa Palmeiras longe",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2fultimas-noticias%2fagencia%2f2026%2f09%2f21%2fflamengo-chega-a-76-de-titulo-no-campeonato-brasileiro-e-deixa-palmeiras-longe.htm&c=14844737710276054169&mkt=pt-br",
-   "data": "2026-09-21T08:16:00+00:00",
+   "titulo": "Fla sofre para ser eficaz, mas jogo aéreo salva e dá vantagem na Data Fifa",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUF3Y1JDSXhrLWZKWGtMbFltTFV2WnBHeDlkaEZhelNmR2cySjZySXZkelRGdkR5dmYzOWRoRERXMzM1ekFYbkJneXhOd2pfNnNfMFVBakdLZ2JjenFUUVRZN2pGZnNKV1UxY0FYWW1WeGktQkozMTVNbEdFUXZ4aGtWcEpjS0NZLUxkejNvSF9OUXdXZnhqbGZfU3RmaF9tWU1KUE1MWW9DdU05VVRYMVNB?oc=5",
+   "data": "2026-09-21T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": "O Flamengo abriu distância do Palmeiras na liderança do Campeonato Brasileiro e agora tem uma vantagem mais folgada para o rival paulista, com três pontos de vantagem. Assim, segundo o Departamento de ..."
+   "resumo": ""
   },
   {
-   "titulo": "Flamengo: Exame aponta lesão na coxa direita de Ayrton Lucas",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fultimas-noticias%2f2026%2f09%2f21%2fflamengo-ayrton-lucas-passa-por-exame-que-aponta-lesao-na-coxa-direita.ghtm&c=7925940524494454324&mkt=pt-br",
-   "data": "2026-09-21T07:41:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "O Flamengo informou, na manhã de hoje (21), que o lateral-esquerdo Ayrton Lucas realizou exame e foi constatada uma lesão muscular na região posterior da coxa direita.O que aconteceuAyrton Lucas foi s ..."
-  },
-  {
-   "titulo": "O desafio que Flamengo e Palmeiras levam para a Data Fifa",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2fcolunas%2falicia-klein%2f2026%2f09%2f21%2fo-desafio-que-flamengo-e-palmeiras-levam-para-a-data-fifa.htm&c=17512107539129714866&mkt=pt-br",
-   "data": "2026-09-21T07:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "Começou. A pior época para o futebol masculino brasileiro. A Data Fifa. Ou a melhor, dependendo do clube para o qual você torce e o nível de estresse que ele lhe causa. Gostando ou não, ela chegou e o ..."
+   "titulo": "Saúl se destaca em vitória do Flamengo e questiona tratamento: 'Quando não jogo, sou caro'",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hBcXpsTlR2R3h2aUNLZXN0MGN2aHhjbWJudkdUSFFuMVFtR21OMkk1S0V6TkgzcjhXLVpHMjBLQnl3M1NNNzBtRFVoMzZ1OWpyMFdqYVMzZ3hnT004N2tSTXdlRHZVeElNMjVFN3RzNmNYV1dfVXdEXzhJNHBIYWdVX0RHcmV5YWQ1ZEdVYU9sMWV6MlBRWUtXbFQ2SXdwck1Ec096ZnAxTjVhMmNpVVljbmg0VzhFYmRCWDlwVFk5OTg?oc=5",
+   "data": "2026-09-21T08:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Viralizou: Pedro bolado, 'SeleVasco', Weverton sobrenatural, silêncio no Morumbis e protestos da Fiel",
@@ -250,20 +426,28 @@
    "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 Quem olha apenas para o placar imagina que a vitória do Flamengo por 2 a 1 sobre o Bragantino, neste domingo, foi apertada. Longe di…"
   },
   {
-   "titulo": "Flamengo dispara após tropeço do Palmeiras e chega a 76% de chance de título do Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fbrasileirao%2fartigo%2f_%2fid%2f17286674%2fflamengo-dispara-tropeco-palmeiras-chega-a-76-de-chance-de-titulo-do-brasileirao&c=6923916172469487767&mkt=pt-br",
-   "data": "2026-09-21T04:17:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Segundo dados estatísticos do portal Opta, o Flamengo chegou a 76,8% de probabilidade de ser campeão em 2026, contra 68,2% da rodada passada ..."
+   "titulo": "Juca Kfouri: Flamengo volta a perder gols, mas abre dianteira sobre o Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDBQOXlLVDVSX1BfOTdob2RsMEpWUWs1OVR2d1hycG5fM0VmSk5PSkpNZlFvRk1EZjVhd3FWRzZJU0NaR2hhWkxLV3kwTkctd3B1OTBKYW9DRU5hVkhNWF9xRldWcDBGNnFlcjRZQ3p6b1Y1NlctTEZMU0JiRVVnXw?oc=5",
+   "data": "2026-09-21T03:30:58+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
-   "titulo": "Flamengo: dublador revela discussão entre Pedro e Jardim",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2fflamengo-dublador-revela-discussao-entre-pedro-e-jardim.html&c=551235438119195952&mkt=pt-br",
-   "data": "2026-09-21T03:03:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "Dublador revelou conversa de Pedro com Leonardo Jardim em discussão durante o confronto entre Flamengo e Bragantino. Confira ..."
+   "titulo": "Flamengo mais líder que nunca! \"Era pra ser goleada, terminou com sufoco\", diz Raisa",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzRHk5RDhLZWhxa3dSVUFlc1NaTnJsWkNTaWxXNUhNRnI0T090bGRBbDFkRVBha3ExVUpzQ0R3UXFWcTBCXzJrQkVHMy1RV1NtS2RIQWZ1YnNSZWp2TDhIenlJN0JWelk?oc=5",
+   "data": "2026-09-21T02:36:02+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Saúl fala sobre futuro no Flamengo e desabafa: 'Se não jogar, tem que buscar oportunidades'",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTUV3a3ozYUxBTGtQSi1tZXRWSm1FcjZoa3NPeENPY1JXOFhvS2JUZnN2UV9wS0JhUkFqZDQtOUFxbk45Rkg0T0tuOUZkbkhQdkhXTGpWSVJWVGF4YXRaQ2ctTG9GOXNsZHN1ZUxkTFMyZENuQ3ROUnNzUDNMeWo4cWRLTHExM3VpZzRaVl9Malo3M1puTHJVcWVrTEJVVHBJUFZ2SnMzLThpVm56T0dhLVp0SUVQejg5Q2lGTkJtUjZrREh3bTBWaFFfem0xRXdjLWVBSDhKYk0yQlN4?oc=5",
+   "data": "2026-09-21T02:25:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Saúl desabafa sobre oportunidades no Flamengo: \"Quando não jogo, sou caro. Quando jogo, sou bom\"",
@@ -274,12 +458,60 @@
    "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 Saúl foi um dos destaques do Flamengo na vitória por 2 a 1 sobre o Bragantino, neste domingo, no Maracanã, pela 28ª rodada do Campeo…"
   },
   {
-   "titulo": "Sóbis eleva o tom sobre atitude de Pedro, do Flamengo: 'Não tinha o direito'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2fsobis-eleva-o-tom-sobre-atitude-de-pedro-do-flamengo-nao-tinha-o-direito.html&c=12921984353120546269&mkt=pt-br",
-   "data": "2026-09-21T01:10:00+00:00",
+   "titulo": "Jardim descarta confusão com Pedro por substituição e dispara: 'No Flamengo tudo é caso'",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVjRNZHJCeWs3NlYxcGoyZEJEZWctOFlqQ2piUTJXVFdSWTd6bjFDUkhManlTVGZKam1TcDdZck9MbFY1NFV2cDhuOGNheXM4Z3RfZjZVYmJmRzFqTDRKX2h4M3huaUJNSUc0U2E5SjQwbWlhR2hrb01FNndpcjdqaUFwWFhCQ2huQzA5dGJ3RWZCRVlCSnVzazd6R3o3bklJSFpwanVEU29EbmZIeUNJNVVaQ2lZYzhib0haVjBGaTNKN1A3dmxDNkdHQ3F2dGhZcENsbWZ5cw?oc=5",
+   "data": "2026-09-21T01:07:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim minimiza irritação de Pedro após substituição: 'No Flamengo qualquer coisa é caso'",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWWVvbVkzREhJU0hwWmppTWFYdW85b2NOVVVicjVxN1U4Sy02dC14dW9fTFB1bXRrZmw4MGdGR1JpOWNmN1h5VC1FSlJVOVdkS09KNEt3V0IyR1IyTXBFN2tqWDNXaTNaTmIzdEg2aTFDNHBfeC13MllMa05JUlhsZG1pUmtLd1Jua3NFNWdDamZYUEc2Ukl5bGtkMjZoaFUwR2lzbldTTDFBZ2NpZ0NieXhoRU01TkNmOXNMQ2F2b1Q4SDI5eTFnSEZHdm1mU3Y5Q3ZadU52TTkxM1oyOGw5eldyaC1MNnhFMkM1X0x3?oc=5",
+   "data": "2026-09-21T01:06:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo: Jardim diz que Pedro queria ficar e que troca já estava prevista",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdjE0bFBzQnU0alRBVGhyU1IwMkowLWVEclI5Qk9ibS1VcHI3aVJTeDU3ZUJ5WnM2dUxXWDFsTWJjWlZkYkRudkFMSzJZalFneU9aYzRjQ2RhLUxtemZGQmpXNDNvTDF4Z3dFaUczTUxTVkVUQ0cwamM0akhnMDhRVGR1U25OWEFheEVTdWRKNlF2akdtcUgzbHVOT25GRXJkYVA5SVIxYnhuN3dzcER6TkhCcTRIUmdxTXphTm9OUnZsZlhUdV9SN1o1ZHZOTGpVMUE?oc=5",
+   "data": "2026-09-21T01:02:53+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim não quer sossego no Flamengo: 'Se quisesse, ia para fazenda'",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWZncmx6dzlRWUUyNWZZR29IaWJPR0ZTQzYxRFVhWVJTQnROOHJwS1NlS3VpYjZHNW9Cb2twVHRwMnlsbjU3RDhWVFhwYTkwTlptVTVmZl83TTZFc201VXlIaDYwSF8zNjhDbTdpZkxUa3RsT0s5Z0IzRWxEUEdscVlPemtCdGRXWDlndWF0UllaLXhzQlF1SkxyUElGYW1zN005VmowaGdoS0FTOVpMQm0wb1ZaVjk3?oc=5",
+   "data": "2026-09-21T00:39:18+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jradim explica por que susbtituiu Pedro após atacante marcar em Flamengo x Red Bull Bragantino",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXUDhjSzlmRE9tMEY0c2E4ZWpFRXdiTVl4b3ZWVWdaVDB4cjMyYXpHYjhwWkFjdXV1S3VoVjgxb3Vad0hQQkU0R19tNmp2azVFczRrOWVxSFFOT0dkbGc?oc=5",
+   "data": "2026-09-21T00:37:49+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo 2 X 1 Red Bull - 28 Rodada - Brasileirão 2026",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXo0LVhKMWNwLTNvbVFVQnZRZmNhb2gzQTZsTE5JcVA3VlpCNmJTTDBWRlc4cmhXT3gxSmNWelJNR25RN1A1dHYxNjhiSWM3RXZsQ0FhNWdvSXpjTldVcGxvVG5VMW1URUNKZm44RG1kUXJJMXdqOTNPUEk5djIydHQyd19XckJsLXNhNHAxeksxbmFGbW8zWDJRQWw0dmFjWUxNYVB1Qm8yNUtW?oc=5",
+   "data": "2026-09-21T00:36:24+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim comenta insatisfação de Pedro na vitória do Flamengo e nega rusgas: 'É normal'",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOWdQUnZmUkFXdHUzcEcyS0tyMGhGUnprOXlQS1IyM0lBS2pRbVJSbVlvc1RtTHZmSUlfcFNQN1BaeUNPRnVaRThaTHpkRzI0TjJGbTVQWDBlcjNFRUJDUktyc0ZtVTNHTkNNNGZuWUJfM0dubmZJOHdxTVoyRmZyN1VaMXptRllXa3ZJdGxkZFhtZ2hhYWFSaXhqZWNnMzhPOFowLXdIS1pCa3M3bEdiNF9rS2Rna1lkcDVwVl9R?oc=5",
+   "data": "2026-09-21T00:19:11+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "Após a vitória do Flamengo sobre o RB Bragantino no último domingo (20), pelo Brasileirão, Rafael Sóbis reprovou uma atitude de Pedro ..."
+   "resumo": ""
   },
   {
    "titulo": "Jardim celebra vantagem no Brasileirão e nega confusão com Pedro: \"No Flamengo tudo é caso\"",
@@ -290,12 +522,84 @@
    "resumo": "Jardim responde a reclamação de Pedro após substituição: \"Tenho carinho especial\" Após a vitória que aumentou a vantagem do Flamengo na liderança do Brasileirão, o técnico Leonardo Jardim analisou a partida e explicou a…"
   },
   {
+   "titulo": "Pedro explica irritação ao ser substituído em Flamengo x Bragantino: 'Não entendi muito'",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcGJUbUhpemhUTFdUUkRrOVRId00taWtrS20tWVBHS0YyYVVPanVtbzE5MnFaZnM2Uk5XdGZ2TEhzTUZ2NjhfekJGQWhjWlZtUEVOVEJsTzQ1cnVnbDVWNWd3Qm0wa09ncDYwUjhncGNfWjg3V1Rta3RoSVF0SnRqUVpZTXBNUjd6ZkZIeDBOamI1bUV3bEZxTlpvZHBFMTZ6R2xjYlFJakJjc1lnYkRuR2N6cm5wREpPcHZHRlZQRUh2czd3OVk5WXN5YW9QVlpfREU0eVJCcDBKNmFiVUF2SjAxbw?oc=5",
+   "data": "2026-09-21T00:08:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Pedro explica irritação após substituição no Flamengo: 'É isso'",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmlEOHhyMzBTNVZId1B4ajZXUzZpOUdrWXEwcDBvajNvV1NzQ2llcmw1REZvX0dLbEl5US1pbDdSZkNwSGpmSnl3dUUwcWZfbTVWbjI3R1B3cm9tSTY0MXFaeG11SkJvVTZibGlZYVZXQmhraHR2MVFFLWZkeU1NSVZVM1FjTTZ1dktKdnM1WmVmMTJLT1Y3OGpORXdWbWVSUG9pUVcyMnlWeTQ2OU5jbEJPdTVPU2k4bUdN?oc=5",
+   "data": "2026-09-20T23:58:53+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo e Palmeiras: veja as chances de título do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHR6UWxrS2ZXT0htSEJqNUh3OWs3R2hZS2hKZUpCdHVJbWdoazViNWNESFo1ZllXc3lseDhwTDhmOVpvTnhCQXJOWWtCOWJDQ25TUUY3eUhpcG1mcWdUQXVLTHpIdFV4RzRQa0N2WmRDckhLckNtMk0zWk83T2dfNG5SY1prRkVBQ3pGa3VEdjNRZWRUQXVQMnBNTWw1N0RUWU50SWJadnM0UEN4?oc=5",
+   "data": "2026-09-20T23:58:25+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Atitude de Pedro em Flamengo x RB Bragantino repercute: 'Não me desce'",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOGZhdkJJMXU5RUE3Qk5IWTZicVZfeWRvTU0zV0g0V3dsa0ZiR2hDVGMyanpJOUIwVlAyTUV0dWlsbHdvZWlLZXU3VS1KaWtPcmZBTldnRXF3Ml8yMGk1YTNsNmV2X2RoODM0LXdWWjdHX0VjMWpXc0l4WVp0SDhNY05HeF9NMF9aeVZHSVlpRkNuQjNDMld2VEY4elBGNlpMRkVrSm90cmRQX1lTSlVtTA?oc=5",
+   "data": "2026-09-20T23:57:07+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Atuações do Flamengo: Jorginho, Saúl e Varela são os melhores; dê suas notas",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/20/atuacoes-do-flamengo-jorginho-saul-e-varela-sao-os-melhores-de-suas-notas.ghtml",
    "data": "2026-09-20T23:42:39+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 Initial plugin text Jogadores do Flamengo contra o Bragantino André Durão 🎧 Ouça o podcast ge Flamengo 🎧 Assista: tudo sobre o Flame…"
+  },
+  {
+   "titulo": "Flamengo vence o Red Bull Bragantino e abre 3 pontos de vantagem para o Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTGhVTWlva2x6NWNwbG9ZeFBqcDZydkRUTV9UVzZaNTVQRkpseURxLUc1QmFwd0xic1N6OExfMy1qM0x1aTdNM3BZN3o2Mkd4bTN4TWt6aWJGQW5PNVIxTFVlRmNIWGNHOWxZbUJiNF81ZVRQeHFWLVEyX2h6OW1MUm53Z01xWFN5WDM2S1RSQmp4QkZ2ajJDWkVMSW1mSG5sM0EyeGMzc1pMRl8ySURSaGN3cHNmR1A5V2ZzMjRiWWxEZHVnRkJUeklFWDZYYjhWVFF2SU41dWRRZ2gyWG1NZ1M0RENLXzQ?oc=5",
+   "data": "2026-09-20T23:36:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo 2 X 0 Red Bull - Gol Pedro - Brasileirão 2026",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3QtbHRQNl9vVTVaWENJd2pkQkZrQTk3V0F3U1lKQjRCMHd6QWtDdzZwUzlCQUt0Y0VhYlJUenFGd2xvZ0tVQXMyR0JpS3o3NDhWbFpIVnFJNE5YNzdpSWk2eHpCSEpBRlQybnFzenRwLWVCbWZyMTlnUzNXZ0Z0YjRsZk4waG5MamNIVUVkdTdFX1hWTWg3cEIydlZqdE5YRmZYb08tUDl0RGxz?oc=5",
+   "data": "2026-09-20T23:31:33+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo vence Bragantino e abre vantagem; Pedro se irrita com substituição",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVZGcEpkRkVib0Y3NWJyZ3NzdHRJbVBxTTJOZTI4bHI1M3JseTh4cmNWUThZb0x2T2E2c24xY1lGR0pMY3pMN05xNXZOZHdzN28wUzVocFplWktzZzl4MWVVRkExcnhSekwxeUxUVk5VRS1fWkE0LWpUbmpLQ25mcVFFTVlmX0tqTlNzNnNFTnJINnBxTVc3eUhEaHd2ZUFRRFUtLVEtVVJjQUx1bDVJMXZLRUFuSXQyY29oSWx3Ylo0c05xV21xRGplUQ?oc=5",
+   "data": "2026-09-20T23:30:52+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo vence Bragantino e abre vantagem para o Palmeiras na liderança do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkk0MTdreTdFQkl5WEQ2Ql8xRmRKLXhBQUFuTndwd3F0TVRqR2NiM3R4eV94ck5ITHZJcEZ6NUwyNkJzS0NIdnhZeGRyUFBXTG9TbUpiQjlYV3pyb2hMaFVWR2w2Vld1b1VqaGJJdFF3ckpuU1ZDU0pPdzhSazJhUmQxTWJHVjVid1BUdF9CdWRMVm5KRmIxSW10bmhoNGtxM2VNdWtwLW1qc1MxS19vNy05eHhkS0diY0UtaUdWbVVZbG8?oc=5",
+   "data": "2026-09-20T23:30:47+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo bate Bragantino, vence a quinta seguida e abre vantagem sobre Palmeiras na liderança do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVEN2ck9KZjhMWXJjaTNfVlhRYUFpeER6WmV5OGM2Wnd0THF5NUxhY1JEd0lfeDV6OGJIalNKT1h5M2p0dXhEeFFKdmEweDlJQnU3VGRpRm90R2daYVBQeGVkVVVOV2llcXNrMGpGandKdkZsQkJTeG5BMEd5MzhGQnF2dkVoTEp2Z1p6N1FjUUtfekZQdEZXMDJDOG5KRC1vcWhnY3JncmVJWWI3VF9hZmNWTk5Jbmhsd3BxdlZQbkNMMllkZ0diOWVTZGljZ0gzUjdSUWh1SUVTejZGd3h0dnFKTEVtLXlUbk56UA?oc=5",
+   "data": "2026-09-20T23:30:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Pedro reclama com Leonardo Jardim ao ser substituído no jogo do Flamengo: \"Todo jogo?\"",
@@ -306,20 +610,44 @@
    "resumo": "Pedro reclama com Jardim ao ser substituído: \"Todo jogo?\" O atacante Pedro não ficou feliz ao ser substituído por Leonardo Jardim na vitória do Flamengo sobre o Bragantino, neste domingo, no Maracanã, pela 28ª rodada do…"
   },
   {
-   "titulo": "Veja e simule os 10 jogos restantes de Flamengo e Palmeiras no Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2ffutebol-nacional%2fveja-e-simule-os-10-jogos-restantes-de-flamengo-e-palmeiras-no-brasileirao.html&c=11998945373914673015&mkt=pt-br",
-   "data": "2026-09-20T23:09:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "Assim como em 2025, Flamengo e Palmeiras disputam ponto a ponto o título do Campeonato Brasileiro deste ano. No último domingo (20), o Rubro-Negro venceu o Red Bull Bragantino e abriu três pontos de ..."
-  },
-  {
    "titulo": "Flamengo é o primeiro time do Brasil com 100 gols na temporada; veja ranking",
    "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/20/flamengo-e-o-primeiro-time-do-brasil-com-100-gols-na-temporada-veja-ranking.ghtml",
    "data": "2026-09-20T23:03:29+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Aos 25 min do 2º tempo - gol de dentro da área de Pedro do Flamengo contra o Bragantino O Flamengo é o primeiro clube do futebol brasileiro a chegar aos 100 gols em 2026. A marca foi batida na vitória por 2 a 1 sobre o…"
+  },
+  {
+   "titulo": "Carrascal vira assunto em Flamengo x RB Bragantino: 'Inacreditável'",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkI1UnJnUnRVYVp2Z1BsNGwyY3Z6d1RnWDZSUVVJUjF3RWpnZVM1V3pJSk1nMFZkUnRuT2Nsal8zNUk0aXVYS1dsZ1dZamxwR1pKQlcwZmgzU0pNdTlEUXVNeDE0N1FTQUlSbktDZ09aVDVyQmI5WG1GeU9ubnh0aVc3d2hqUmJVaUpVYURsQVExOGhrb0NmMlE4NkhScU9USEJTNVB6Q0pRNGxU?oc=5",
+   "data": "2026-09-20T22:59:14+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo 1 X 0 Red Bull - Gol Guillermo Varela - Brasileirão 2026",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNG1qOXVKYWFwMDFQdExmeWVWVmpyX19xSXVUWFQ4V1ljZjYwRWZudXZQZ25LZVpJOEh3TktiQ3NCaTJQQThuZ082UFc1dmlOcUdMRVhnVlF3Z1N5b0VDdWZfVWNFbGdoZXM1QmxTWmVOcWlTTWE1LU1PMkZtdEkteDZ0RE92Mm5RcXJiUXYzd2lxaWRBVmpsNGtYV2JYd29SYVM3LUhfOV9HSVp1N0hIa1dQOWpvdG4zcGRJ?oc=5",
+   "data": "2026-09-20T22:04:49+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Titular do Flamengo deixa o campo com dores contra Bragantino",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3hYelRLLUdLem9KMnN0R1JHTDhMNG02YTA3bFYtdlNXQWR3YXVhaVNSd3d6bzhVdTU4YmJGM2NxcTJZSTdqS2JGeDZPeWdDN1h2TXYtV0ZCS2F0b0I5RVZXMkR1RVA5VlA1aDlBNHRrcnlOdlJyQW1MR09feHRROVk0MDEwZE04UEg0cWk1V2xBbWppSXBBLTZCaG1VZFZLbWc?oc=5",
+   "data": "2026-09-20T21:59:15+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Veja os gols da vitória do Flamengo sobre o RB Bragantino no Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHUySndKYy1sdHpLdFdncmRsSU1ZVmRUR2dwOXFvZ2ZWN0k3NGpra19pR0tNOVBuX3RMd183LVF4dThzODRSM1pvd1NaektkV0tOZ3ZaelROZTBhVFVBejFLRnF1Zlg2R3hqSVc4a1dDdDBKMHZpZGN4RzZvOW9BQUJTWXA5RU5lWlBwc3M0anVuWHlRVUVfd3AxN083ZW5ZVS1pdEtUajNoMm4xOUZTcVJzYms?oc=5",
+   "data": "2026-09-20T21:57:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Ayrton Lucas e Plata deixam vitória do Flamengo machucados; lateral sai de campo chorando",
@@ -338,84 +666,84 @@
    "resumo": "O Flamengo venceu o Fluminense neste domingo na abertura do Campeonato Carioca Masculino de Basquete 2026. A vitória do Rubro-Negro por 97 a 74 no ginásio do Tijuca marcou o retorno da competição após três anos. O Cario…"
   },
   {
-   "titulo": "Jardim minimiza irritação de Pedro após substituição: 'No Flamengo qualquer coisa é caso'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2fultimas-noticias%2fagencia%2f2026%2f09%2f20%2fjardim-minimiza-irritacao-de-pedro-apos-substituicao-no-flamengo-qualquer-coisa-e-caso.htm&c=10562599218225970350&mkt=pt-br",
-   "data": "2026-09-20T18:06:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "Leonardo Jardim tratou com naturalidade a insatisfação demonstrada por Pedro ao ser substituído durante a vitória do Flamengo por 2 a 1 sobre o Red Bull Bragantino, neste domingo, no Maracanã. O ataca ..."
-  },
-  {
-   "titulo": "Saúl mostrou que tem sido injustiçado no Flamengo? Mattos analisa",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fultimas-noticias%2f2026%2f09%2f21%2fsaul-se-tornou-injusticado-no-flamengo-mattos-analisa.ghtm&c=5684111377023271029&mkt=pt-br",
-   "data": "2026-09-20T17:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "Saúl mostrou que pode jogar mais no Flamengo, mas ainda não se coloca como titular, avaliou o colunista Rodrigo Mattos na Live do Flamengo, do Canal UOL.O debate começou com a pergunta sobre o espanho ..."
-  },
-  {
-   "titulo": "Clubes aprovam redução de estrangeiros no Brasileirão; Flamengo vota contra",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fultimas-noticias%2f2026%2f09%2f21%2fcbf-propoe-e-clubes-aprovam-reducao-de-estrangeiros-no-brasileirao.ghtm&c=1361513647104104386&mkt=pt-br",
-   "data": "2026-09-20T17:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "A CBF propôs, e os clubes aprovaram uma redução gradual no limite máximo de estrangeiros em jogos das Séries A e B do Brasileirão a partir do ano que vem.O modelo de regulamento que entra em vigor par ..."
-  },
-  {
-   "titulo": "Flamengo vence o Red Bull Bragantino e abre 3 pontos de vantagem para o Palmeiras",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2fultimas-noticias%2fagencia%2f2026%2f09%2f20%2fflamengo-vence-o-red-bull-bragantino-e-abre-3-pontos-de-vantagem-para-o-palmeiras.htm&c=13963799926216182650&mkt=pt-br",
-   "data": "2026-09-20T16:36:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "O Flamengo tirou proveito do tropeço do Palmeiras mais cedo e abriu três pontos de vantagem na liderança do Brasileirão. Sem sustos, superou com tranquilidade o Red Bull Bragantino pelo placar de 2 a ..."
-  },
-  {
-   "titulo": "Flamengo bate Bragantino, vence a quinta seguida e abre vantagem sobre Palmeiras na liderança do Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fbrasileirao%2fartigo%2f_%2fid%2f17284305%2fflamengo-bate-bragantino-vence-quinta-seguida-abre-vantagem-palmeiras-lideranca-brasileirao&c=8955705157758086078&mkt=pt-br",
-   "data": "2026-09-20T16:30:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "O Flamengo venceu o Red Bull Bragantino por 2 a 1 na noite deste domingo (20), no Maracanã, pela 28ª rodada do Brasileirão. Foi o quinto triunfo consecutivo do Rubro-Negro na competição. Com o resulta ..."
-  },
-  {
-   "titulo": "Flamengo volta a perder gols, mas abre dianteira sobre o Palmeiras",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2ffutebol%2fcolunas%2fjuca-kfouri%2f2026%2f09%2f20%2ff.htm&c=2486035406347518740&mkt=pt-br",
-   "data": "2026-09-20T16:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "Aos três minutos no Maracanã com arquibancadas empolgantes e gramado deplorável, o Flamengo levou dois sustos no jogo contra o Bragantno: o time paulista só não abriu o placar por preciosismo e Ayrton ..."
-  },
-  {
-   "titulo": "Flamengo 2 X 1 Red Bull - 28 Rodada",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fcomidasebebidas%2fbusca%2fmontecarlo.htm%3ftag-id%3d15308%26tag-texto%3d%2520atletismo%26repository%3dmix2%26next%3d0001H13181U80N&c=7980956388608410937&mkt=pt-br",
-   "data": "2026-09-20T14:36:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "Fernando Diniz reclamou de um pênalti que considerou \"claro\" não marcado para o Corinthians na derrota por 3 a 1 para o Fluminense, neste domingo (20), na Neo Química Arena, pela 28ª rodada do Brasile ..."
-  },
-  {
-   "titulo": "Flamengo e Palmeiras: veja as chances de título do Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2ffutebol-nacional%2fflamengo-e-palmeiras-veja-as-chances-de-titulo-do-brasileirao.html&c=7399375895192815320&mkt=pt-br",
-   "data": "2026-09-20T13:58:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "O Flamengo abriu três pontos em relação ao Palmeiras na liderança do Campeonato Brasileiro. Veja as chances de título: ..."
-  },
-  {
-   "titulo": "Atitude de Pedro em Flamengo x RB Bragantino repercute: 'Não me desce'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2fatitude-de-pedro-em-flamengo-x-rb-bragantino-repercute-nao-me-desce.html&c=6037589965317138090&mkt=pt-br",
-   "data": "2026-09-20T13:57:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "Durante a partida entre Flamengo e RB Bragantino neste domingo (20), pelo Brasileirão, uma atitude de Pedro viralizou nas redes sociais. Por opção de Leonardo Jardim, o camisa 9 foi substituído por ..."
-  },
-  {
    "titulo": "Flamengo x Red Bull Bragantino: onde assistir ao vivo e escalações do jogo do Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fbrasileirao%2fartigo%2f_%2fid%2f17274250%2fflamengo-red-bull-bragantino-onde-assistir-ao-vivo-escalacoes-jogo-brasileirao&c=12592886340368590627&mkt=pt-br",
-   "data": "2026-09-20T13:39:00+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVkxJSzJPVzlReWI3WHdzWkpkNS1IR2M1Y2lfSmRtUFBJXzFuWDBKanNrOVZUV3FINVdiX3M0cUNTQzFzbTAxa1lXYVVTOXNlaTdBRkdVZVE1aUNmWmxaQzdwOHpxX1FfSlpuUkVBU1FNSTlGT090WDBJaXZSMTJqZlByYkpUcDJGNVc0MzBPRlBCWEFtUUVFbkY0Y3cyZ0drRDJlVDVoajVaSU1iWTgxY2padU1aalJFRlJBZGpJRXJlSnNrb3A3ZGFQdWY2WFhQcU5QSWM5Tm4zeFk?oc=5",
+   "data": "2026-09-20T20:39:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": "Neste domingo (20), a partir de 18h30 (de Brasília), o Flamengo terá pela frente o Red Bull Bragantino, no Maracanã, pelo Brasileirão. Os donos da casa, que iniciaram a rodada na liderança, querem amp ..."
+   "resumo": ""
+  },
+  {
+   "titulo": "Fla tem Jorginho, Saúl e Carrascal contra o Bragantino; veja escalações",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUTctOW04R1FCWTZIdDdwc3hKR19FbkQ1ZVc2R1lxVS1KVXFtSU1neDJjY2ZqRjQwTktITDBMZVdSajl0Q2RZNU91ZDhzbWFCU1JrYXoyQzdUN205RkI4ZVZ3b0FQWXhxRG1fSmZFTWs3VFhPQXlwZEtxNy1ITmNSbUVuZ1haQjZBSWJvQ1N1RG9JbGZxQkhudFdkMTktaGZmd1dQSG0zMmYtdDcxOWNWN29laC1ua3RTX29Ic3RSb2FqWjVf?oc=5",
+   "data": "2026-09-20T20:34:29+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Com mudanças, Jardim define escalação do Flamengo para pegar o RB Bragantino",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2tXSEh6ZkVLM3BxWUN2MnY4bDVVSm91Wl9FNEthRkEwaVZiaUlGb2hKMkdfeDI0aXpORTR1TzV1VWlNOXloOHhJcE1Ib21UUWdXNlAwcEZNNWRwVEhEOW54Zk05WlRDSlRVak95dEkybGMteDRYM1RhSU9aTDBnRzJqaGp3OHBZOUhhVXhadm12N1loTnlDVnNZcUFYRjh4clZQblBSQzBkTmlXSkJyc3lFQ1Q?oc=5",
+   "data": "2026-09-20T20:31:42+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vai passar em qual canal? Onde assistir a Flamengo x Bragantino ao vivo hoje",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdFI3RmloeVdlYVNqMm1RTURPZlZFeUtEOWY3Mjd5azJKUXk3S3JlcV9fbFd6d3lSNU9sMkZPU19WSnVHbGNXUC1pdTBGV1lrMEExN3Q5X0dvVXRvVDE2eTRzLXpMbllDREtqVWRNcXE5TWV4SjB0cGtXczdUQ0l4SGlFOEVrX1EzNWtwdWNZYk44dXYwYXpZa2lDYUFIeGFCeC1TZkgtdkFTM1pTa2c?oc=5",
+   "data": "2026-09-20T20:18:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Palmeiras joga bem, para em Wéverton e Flamengo pode aumentar vantagem",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM0NFakotZmt6RzItWVFFMGJuYVhUVmVKOTFSTndUM1FpdUVOR3l6NmlCMXV6alFyV3RvM1BDSF9yaVQxeVNsWi1PZ0tRX2JoaWNBTkxJUXRmS09yNmI3QkJuM1RTQTJzV21Yb1JWb0lKUFlRa1VUZWY2YVNyRUNRYXB4QnJYVk9SWk9xNEdDUmhiTEtlN0pmZXV3QUR4REJiangyZzZMV05Na0w5RDlZUlN1TVlNTzlnOHQ3ZnFvNm5SUQ?oc=5",
+   "data": "2026-09-20T20:02:05+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Transmissão ao vivo de Flamengo x Red Bull Bragantino pelo Brasileirão: onde assistir",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa1ZwV3F2cWRKMldkTVFkUk9JdXQxZUJlTDRQZmp0S1Zrd2NOTW1kTkFVZ1FNd3dwTkJ6WkM0LUQ5Q1V5enNjV0ZMUWtVLW9TVkJNc2txWlhrVkJfRUJXbUlUSDlxNnNMMjhTbG95dko1aTBnc2dKWkdVWE50RnM0RFJSdTdGUmdlMTJQU0lOWUtmQUNMbHVmLWZvR3N0d3FRSEdUcTJ2YWpxaDJ0MlA3bnBLSW1HMkc1QVZ1TWhoQW1RUE95elR5SHJab0tZUmp5aHUxQWxoZkd3cjU1Y0ItVGgtVFkzWmRs?oc=5",
+   "data": "2026-09-20T20:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Onde assistir Flamengo x Bragantino ao vivo neste domingo - TNOnline",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObVRUT3laSHNROTJyTExQd2pRU1ZTR0N2LWllY1E4NVZTc01jN3VBbDZvOFR1cDhWTW5yZnBpOURBSjUyV25yX2pEYW5mbGtQOE44dnktcjh2VjhCUG9GeXBtNTFfVGtGUkVPUmY0MnF0WHBGbUhuLVl5QzZMN1k5aUIxVXZIX3BUMm1fVjBHdXBEOERzbDRDYXp2SmtGc1NLcklSdXl2Q2h6MFgtbDdpdtIBuwFBVV95cUxPZVJJUU4xNDFLNURHcTBBRFFRc3owc3JRQk9kT2FwUFR5aVNfNWNReW96cVBvZTZUT0pld3FCVGtTeHpkUXRFd212d2szU0l6ZXJvUms1Q0xmSzB6VUtYMWdqMk9GYi1ZX0lLOG5hX2RyVnlWbVlFSlAxOXd3RDk5d25Ua3V1akFaWHdQUW5XQ096QlE5ZjJFd3VQazRSMW1JRDhiNWZ2NEx2eVl1YTdfeXZycUVpd0xweEVz?oc=5",
+   "data": "2026-09-20T16:48:42+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras amassa Grêmio, mas para em 'milagres' de Weverton e pode ver Flamengo abrir na ponta",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaTQ1UC1jbmlZRFptTjllSHVoMGhOay05T3A3cDJNQTVZX3dkSlN5X0FodHI3Rm5fQmZuRlpiM2xkWXZfREQxTUcwc0xSM3JBelhaV0gxcmNxQS1Gd0s2N1lIRXhFNkRtazFQZ0lfQUpac2J3QnJ2SWt0QWdRSVJsVnk1a2JJdzJwS2ZRWFVieTVGN3M0M0pvdzBFSzhwNDRNRm1Nd2RsbnZEN2hpTmZTYWRCdDJqVjE2RDVuRGU1bTNvRnlHc0JaRklXRS1IOVZVZG9XWmJFOVkybmQtZGUzOUQ4Vy1PRDIyeGVFRU1ZLUN4cW9X?oc=5",
+   "data": "2026-09-20T16:20:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Onde vai passar Flamengo x RB Bragantino pelo Brasileirão? Como assistir ao vivo",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNjk2UVV1X3BRZlNYRGNiS1YtMnRXQkZRYzdwUzRKNHZVNExoXzRFT0FhNlBKeV9GeGw4WUFSLXJIcDRtTkE0SERPMWI1Sjg1dEQ1Qy1tZEV0a1RMWEszdkJqUFAxTkpyVlZvRlh1UWxIaS13NkcxRktiRldrY3B2NmtsR3BKLUl0Y2luMEFaeV9rcGJwTVo2ZzQ0Q1RNS296OHNOYXlISVg4RmRDbTg2NlBPWHhIV3p2OS1wZzdWdmNRS01VRG8tSWhNaUhDVzVpNWpiSjVMejhmb1M0ZEdWblVDbw?oc=5",
+   "data": "2026-09-20T15:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Tempo Real | Flamengo x Red Bull Bragantino",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd1NUTVI2RjNsdFJlLUlwZkVZY1ZUUWJsNG4tUW5Jak14eXdkNEpRUWR0am5uTm9taHZnQzVaeE1yNzRnZVk5N19VejNXZUYtb1F1N01FZDg2bzZ3NmVzcHVFZ2NXN3VEQ2pBUU5BMzVqaHNILU0ycnc4ZEZsNS1VMi12bUViamd5NzJzUFZ3X21WLU5IaW1wY2huX1hXQzdXdnpGSEdqSWs0X1U?oc=5",
+   "data": "2026-09-20T13:55:15+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "VC Escala: torcedores do Flamengo montam time com Saúl, Carrascal e Bruno Henrique contra Bragantino",
@@ -426,20 +754,60 @@
    "resumo": "Flamengo x Bragantino: informações e palpite para o jogo O torcedor do Flamengo escalou o time e mostrou preferência por Saúl, Carrascal e Bruno Henrique como titulares diante do Bragantino, neste domingo, às 18h30 (de…"
   },
   {
-   "titulo": "Carrascal vira assunto em Flamengo x RB Bragantino: 'Inacreditável'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2fcarrascal-vira-assunto-em-flamengo-x-rb-bragantino-inacreditavel.html&c=10113981034361078826&mkt=pt-br",
-   "data": "2026-09-20T12:59:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "Durante a partida entre Flamengo e RB Bragantino pelo Brasileirão, Jorge Carrascal virou assunto nas redes sociais; veja a repercussão ..."
+   "titulo": "Flamengo defende a liderança com quase 77% de aproveitamento em casa",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdk1WdmgzemlJSXpIbGloaE1mR0dXb19GNm1za21sMUVZY1RGQ1p5ai1LUlFyTVJVZVc3SGEtNzdtLUtRbkM3QVdGT1pKY2l6elRiSkJrUUYzRUFGaGdTSGFENEkzcFIxM0VHdDhLQVFpSGQ2cXZvSEVxQjVyeDZwSFJTRVVCSGV1eFM5a0xLNUtQcW9iX1J6WF96ZzV5RmkzX2pBSGJheTczTklsZUNmZHJ4RXp5ZUl1aC1LaF90aUZZdVVDZGpjRWpTV2lFTVZZVjdaVTh3?oc=5",
+   "data": "2026-09-20T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
-   "titulo": "Titular do Flamengo deixa o campo com dores contra Bragantino",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2fflamengo%2ftitular-do-flamengo-deixa-o-campo-com-dores-contra-bragantino.html&c=4805730770116660322&mkt=pt-br",
-   "data": "2026-09-20T11:59:00+00:00",
+   "titulo": "Cano é sincero sobre possível final entre Fluminense e Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVEzN1UtVHl4Z19vcVpibTVDR0hVU0dOMTNwWVVTYTROQlZESUNoSGRxaE9ycjk1Mk55M1pUWWFkVXRHREZiM0ZRTm5QNXlGZ1FqWEFpMXdIRjlrSHZSRWx1UktMNkowb0lMX0laZmd2ZzJIVnVHWVNlTm5HZ0dpVkhSTktXVndsZlNxNWE1cHo0V2dSSV9GVm5kdUQzTGVQc1RkZWRtWXFFX3EzLVd4VnlTMmNoZw?oc=5",
+   "data": "2026-09-20T12:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "Atleta titular da equipe do Flamengo precisou ser substituído após sentir dores na coxa durante o confronto contra o Bragantino. Veja ..."
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogo do Flamengo hoje pelo Brasileirão: que horas começa e onde assistir",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ1RrdVFlcDhxVkpUTzRDejJBWkdHSi1PUjdtcjdfcEFSSEdqVDBpYjFCSFN4M1hBVVdBa0gtRHZPT3p2S0xDUVE1NGwwbW9xS1JDeWgzRGJrVXZlN0d6QjI3cUl0UDJiX0phQzliR3lmZ3NZejJNcHBMZzFrdHdERFJzN3g0VU1STFFIR0xWSENqOWpUNHFMN3U0NFJaaHJHNlFWTzZRX1RQTFNPdm1KZ25XVWhtMk1CbzNyY0tfRDcwbEowUzJkcEtybmxpTU9X?oc=5",
+   "data": "2026-09-20T12:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x RB Bragantino Palpite – Análise e notícias (20/09)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVZUXpHUjA2aUxMVW5ZRzVpSGpvU1RDdWJGU2ZmYmxmWFd6bElJRXFnOEFIM3pEMmgzVlZTQ280bFZ1bnYzLUs1SWRaVVpyTEJ1WXVfcmNSbmE2N0ZQdVQyOWIydi1fdUZ6OG0yMzB4ajZVUkZWWlNYVGNfWVVOUVBWSFlrV1dTS1dRQWh4UlpqeGhtVkE?oc=5",
+   "data": "2026-09-20T11:51:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "As opções de Jardim para montar Flamengo sem Pulgar, Lino e Paquetá contra o Red Bull Bragantino",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQW1uQ285VktzY0l4a2pFY2c4ak1HSHNOWmluakJJMlY4eHBFQkhtZDlRNFdub1RqeEw0aU03S0lWYTNaZkNXbFBseGlnTTNfdk15VUZTZWpMdE5uT3pWWXZpSnJob25SZmRLcDFHcWtuR2tnZGlHWUpLUXJuUUo3YTkxWjhVZElqTnRPQ3Z5Qng1elZHNHJ4YV9qay1vU2tsYjcxTWRCbFJ6VXFMcl8xR3Z2ZGhnUFhpNUJ5M2dCRXllem03RE5fT282OHpzRWpOMW9tWkJTeDZ5Zw?oc=5",
+   "data": "2026-09-20T11:10:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Veja quem pode ganhar chance no Flamengo após desfalques",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkVpa1dmUGV3c2FSNW1oYjE4VXNDZlJ5WUVXaW1QTVkyN3pmV0ZGWVFDVFNnQjFzbzNIWVozUzZ5ZHJ6cjJMZV9ZVWdwWlNrNjhINThCWVlURjhqWnNYaHpMMzByOXBnS0JfelpOY1M1aFdUWW5jVGk2c19SZFdGd3U5NW80TGEwdE9Ob1pReXhqWUdjZm96QnAwcm9JNU85UTdsZjl4TlpVcHlkTHpGUVRyTmRfeENKVXVVaTJtOA?oc=5",
+   "data": "2026-09-20T10:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo busca quinta vitória seguida para ampliar vantagem na liderança do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU1BXOHV3VU9vb0k1NGpNQTBzMFVRZWtfWlo0SGxlSElwdUhjSy1rdllhNmhhcWtJdkVQQ1VTVjVOZjRNZ1E2Mm4yaHBLbEgtS0ZWdG80Q3BPZlptVGVGQ0lkeWVuLTRTdDNMX2RYNXZLYjFnTEVVcHhxTmk2c2U1ejU2Mmk1dzJTQUMxLW9iVV9ibWZRMFZYTDRqcmRkaG9TVkE1a1RvLTFleEVQQ0xiakpoY2Iyd3AxaktkRVNaYlhGTUlnSXlXRnpGQXFyT3NERTk4R3NaMm13WWRDUHBLZ2dpWEREbWxDR1RMOHFZYw?oc=5",
+   "data": "2026-09-20T09:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Saúl tenta aproveitar chance para ganhar espaço no Flamengo para Libertadores e Brasileirão; veja cenários",
@@ -450,6 +818,14 @@
    "resumo": "Flamengo e Bragantino se enfrentam no domingo, 18h30 em jogo ao vivo no Sportv O Flamengo terá problemas para montar suas próximas escalações, tanto no Campeonato Brasileiro quanto na Conmebol Libertadores. As suspensõe…"
   },
   {
+   "titulo": "Veja os trunfos do Flamengo para seguir líder do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGE1MXJuel96SnNlV29ha0lFNTJPQ19wQXpSTm1xNVZ1dVVKY3RCVTJaM2JwVG9sbmdzU3UwWlRMY1V6WVo3STdmQl9PV0VaR0hKcUdUT1RTYzhjRmpXb3JoeEtQUUtfV21jaVJ0VGFzNjRsNEs4SWkxRnktVGVkQW9WdElEWHphNzQ2dXJZWGxhc1k4M3pOQURYbEpDT09ySFVCa2tLLXJNRk1YLVhjQk5tS2hSNmhNRk80?oc=5",
+   "data": "2026-09-20T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo x Bragantino: onde assistir ao vivo, horário e escalações",
    "link": "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/09/20/flamengo-x-bragantino-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
    "data": "2026-09-20T06:00:00+00:00",
@@ -458,12 +834,44 @@
    "resumo": "Flamengo e Bragantino se enfrentam no domingo, 18h30 em jogo ao vivo no Sportv Flamengo e Bragantino se enfrentam neste domingo, às 18h30 (de Brasília), no Maracanã, em partida válida pela 28ª rodada do Campeonato Brasi…"
   },
   {
-   "titulo": "As opções de Jardim para montar Flamengo sem Pulgar, Lino e Paquetá contra o Red Bull Bragantino",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fflamengo%2fartigo%2f_%2fid%2f17274355%2fopcoes-jardim-montar-flamengo-sem-pulgar-lino-paqueta-contra-red-bull-bragantino&c=11079358879156177649&mkt=pt-br",
-   "data": "2026-09-20T04:11:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Após a suada classificação para a semifinal da CONMEBOL Libertadores, o Flamengo precisa mudar a chave, já que neste domingo (20) defende a liderança do Brasileirão em duelo com o Red Bull Bragantino."
+   "titulo": "Ex-alvo de Palmeiras e Fla é acusado de cuspir em rival durante clássico",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMElBYk1IMHQ4WXJYeHJvMTRTcmVub0MzTk0zbnlDaE15RFg0dTk3VGk5N05TZDZSc1VsUEJ5VWR5aXFmckhmUzJ1YWdyaU9vM2F4OUNLMXM2dXQwSFNqSDRWVV9wZU9MY0pfYktUcklrem5LZHpjNkpSd0tzZE5FYkdRd1NDZktRVG14Z0Y0VkdvNmp6c3NiWXRNSlVLbkltcXNMMk14Zzl3aEUzdDhza2tkemp1YUVvY2Rxd1F1T19QOTFJd2xVdWZLOXo?oc=5",
+   "data": "2026-09-20T00:54:18+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "São Paulo vence Flamengo de novo e volta à final do Brasileirão Feminino",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XNjEyd3h5OGdWdDJ4Y2tzcWMtdUVGTXo4ZUVid0tzVmtpeFViR0JHanBfVVd1aDk3Mm1CX2MyUUkzeDNHUmhpQ2V6ZGhfYlJlV0ZDbkQyLU53M0x0RS1oQjdkRFhyUXc?oc=5",
+   "data": "2026-09-19T21:52:32+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "São Paulo volta a bater o Flamengo e avança à decisão do Brasileiro feminino",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ0EtaVI2TnNJSFFDaUpMajVHVzdQcnNZb1B5RFg5REl6Qks4U3NCRjByU1FlYU9BX19hQmxDZkYtSVpQU3VjOHJzdEVqSFZiUUY1UU1WcUlHSXdOdG1LWGZNRmFBaWx2ZFRoZExnRVhhaHdGeVpzV21ENldJRHVuTzk4N3dOdXd3aW04NFZJbjN1c1JrcnN6WGw2OHdhdlh1YUxCLTg3T0JCbXBvTkhJOWlLUVgwZkFub0NUek1DR2tlZnNOajJN?oc=5",
+   "data": "2026-09-19T21:38:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "São Paulo vence o Flamengo de novo e vai à final do Campeonato Brasileiro de Futebol Feminino",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbG5paUZrUHB6eDV6R2YwQkxqUTE5LTRnM2gtRms5X2FObFBUYTZ0R1Y0TFFQZ2oyYXRkVjB1ZVRvOEVjeGZTd00zVFNxUE44MEtBSFotX0tidnVkM25KTEJtNlEycUNiYmtoRXdKTVVCemIxdmthWU8tVlpmaENZVmQwb196Y1hwSldDeXlZUkt4OHhxUHBIbm5HMUk5WTFBQmMteDZaOHpra3ZONVRlb1c5V3BPMmtqbTRLQjlWckdQa2k0X3BXdHN2XzQwWktrb3czOFhNOTdKbk1MdEY4MUhEZmtoZFQ5ZVhrSHc5R3R5Y0tUZVNJ?oc=5",
+   "data": "2026-09-19T21:35:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "São Paulo vai à final do Brasileirão Feminino após vitória contra Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYkRFdVhDc05xdm1MUU5ZWVNIWWZrZlZFMW1fcEduVDBuWjhBNURsaVc5Y1QwRmJfbHpBNVVMZmE4NmIyTmFTQjVaR2hPeE02T1NqLVpaOGw0SHcwR1pVazNGeU9PLWZKNDFVX3NKM0FWWTRoT005M3BFbnpCS3M5UGxna1FTWlhTUm9SSFYyeXBBTjg5RTZEWkVWdGRwbmRHQWZqMUJNODIzMlN4YnkzdkVXejhndG90RkxXMWktMWw?oc=5",
+   "data": "2026-09-19T21:24:40+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Escalação do Flamengo: Jardim fará mudanças na equipe para enfrentar o Bragantino",
@@ -474,12 +882,36 @@
    "resumo": "Seleção debate escalação do Flamengo contra o Del Valle: \"Pedro não pode ser banco\" O Flamengo deve ter um time com mudanças para enfrentar o Bragantino, neste domingo, às 18h30 (de Brasília), no Maracanã. Isso porque o…"
   },
   {
-   "titulo": "Flamengo x Red Bull Bragantino: horário e onde assistir ao jogo do Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db77541c4f42864dddf8fb7586b2&url=https%3a%2f%2fwww.uol.com.br%2fesporte%2fultimas-noticias%2f2026%2f09%2f20%2fflamengo-x-red-bull-bragantino-horario-e-onde-assistir-ao-jogo-do-brasileirao.ghtm&c=15840625241525967918&mkt=pt-br",
-   "data": "2026-09-19T17:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": "Flamengo e Red Bull Bragantino jogam neste domingo (20), às 18h30 (de Brasília), no Maracanã, no Rio de Janeiro (RJ), pela 28ª rodada do Brasileirão 2026.Onde assistir? O duelo terá transmissão do spo ..."
+   "titulo": "Ex-alvo do Flamengo é acusado de cuspir em goleiro no 'clássico dos hooligans' na Inglaterra",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTBSanU4NXJDZEhlazJUcmUxS0ViMWh5a3JjMWFVczdYSFgzZFRCWmo0Y3VNNGhpdXVqd3dJejM5MzlLSDRybm1lT0dXWU1tUUdqNnltdUVPRTVxdEhvRjBVNVRRbkp5Rnl1UTYxd3otdjZvNkdVMmV2U3c1MUxCVDYtYUk5YWlCdVJGaTNWb3ZtVjNjeGY5MzNyTTJoSTVvdUpCc1dIZjZLcVhyWUNBenVhc0w?oc=5",
+   "data": "2026-09-19T18:23:43+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Promessa do Flamengo provoca Botafogo com 'chororô' em vitória na base; veja vídeo",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREJiZ3ozQmpsZVh4a3ZhTmFZMFJsVWNEZ250cm5aN0JDTmx2Z1VDVVo4T1JGY3gyYmlnM1lRQjdMMGx1Nk1FOVAxVzJyZ3llbk1HWWNoXzFuWlF4cng0aTZEYTNNU0ZJXzk3cll2WTF0UXdrSXFUX29MV0FFN3FGRUFFaHVsTVNtM2hQTEF3WU9IY0RUUHdMZUo4Ml9KTWUtanRXRXZ5MzgyMDQ4eGRPX1NpVW1vTjhsbFE?oc=5",
+   "data": "2026-09-19T17:16:37+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Escalação: Flamengo tem desfalques contra o RB Bragantino",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR3NqRHdEaVBwZllDd3B0LVVTNnlldG92OGt1NmY5aWRpdi1tREE1cE9aQlBqRnNmZkRBcjhQQjVzWjlNcU95SlM0QmJIb0lGVHN0U3ZkMFJHWVprMUs3VkxSUlhDRjJBWXlmVW9ZM0trcmJCRWtDc3lNNEt5ZUdQYmUyOGstN1BjLW1Cek10TE9uajZ3MG5WSHNXQjMzRklRZnVXZmhIUkYzVS1QRTZ2Sm1CWTdJRE45YnlVVk5raVU?oc=5",
+   "data": "2026-09-19T16:40:10+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Real Madrid quebra recorde que era do Flamengo e é campeão mundial sub-20 em final com três expulsos",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaFVVNU9vazJkU2ZYNTU1LXJrQ01MRXRXeERrb2xtQ2hIaVU0dnRWQUZPOTNMVjhxNWJqQlJfRXRtTVlucVJjZjNIUEdxdkdmVUZHZGxQQ242ejJVQTltaEJfX09ldFdSNmNDOWplUFlxclJTb1hnTHgzVXEteDRWT3BGdVg1dGNCVmd1dkNOX3pSQkhIQ3NjdGxKTFJIeHl1WGFhRFU0WmxGMDJPdWVKRFUzYUdWVnZYZW95c0IwUHNVNUlpQVR3dHZfMU05SHBuZXdtRw?oc=5",
+   "data": "2026-09-19T14:48:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "VC Escala: monte o time ideal do Flamengo contra o Bragantino sem Pulgar, Lino e Paquetá",
@@ -490,12 +922,68 @@
    "resumo": "Flamengo x Bragantino: informações e palpite para o jogo ge Flamengo critica: \"Paquetá não tinha o direito de voltar para o segundo tempo\" O Flamengo mal garantiu a classificação para a semifinal da Libertadores e já en…"
   },
   {
-   "titulo": "Possível cusparada de ex-alvo de Flamengo e Palmeiras vira polêmica em um dos clássicos mais tensos da Inglaterra",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fartigo%2f_%2fid%2f17277783%2fpossivel-cusparada-ex-alvo-flamengo-palmeiras-vira-polemica-classicos-mais-tensos-inglaterra&c=13819445511560004452&mkt=pt-br",
-   "data": "2026-09-19T10:47:00+00:00",
+   "titulo": "Arrascaeta alcança marca histórica pelo Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2dnaUxWeE9RYkNyUFdpcUExamFVeDZacldfMWowbnVUd3RKZGNaaDM4OElaLVRsYmVDaGQwR184RW9ESkprRmZNQXpOR0ZaN0ZXdXkzWTRtLVplOFV6b0JTekZReXJBZkFIVXVDQ3ViZzhPTzdtcjVwQk9mUFJRV1B0NkR1bm40Q01OVExoZE56Y2cxTTFPdDZ3?oc=5",
+   "data": "2026-09-19T13:06:16+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo tem desfalques importantes para enfrentar o Red Bull Bragantino",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWFxcXEyS3R4N3NVUjRySFd6cTlTM01Tcm9NQzQxSUNKZ0JneXkwNnFHZmRJOFJQMXhlVVhrYkJRX2toSlFOa0pYREJhcE5EZkU3WnZfZHpQdFY2TEdJLXRtMnIwb0R3YmQwR1VNN3h3RzRRcG1xel9MMkF5Nmc2WHQ2M2ZQWEZCS2cxUTZmano5MkwxTm9DQkZZdmRjVS03aUpDZkdIc3czNFNsQV9JTw?oc=5",
+   "data": "2026-09-19T12:39:05+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo contra o gramado e Palmeiras contra Renato. Informações e palpites",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHFIbmpaMXlNSWxpLWl6Q2hWLXhHUE10R011T0ExQmtLajhSRWNLSWw0Q0FxNnNjR09sTnFUXzFYeVBrS1U1bW9CN1lzNlBwdUk1dzh5NGI3Yk0teTRaUTdjR3lLYVIwOU9YX1BJMjZDVDZEVlFINEQ2UnVyMF83S1pydjR2NVhaU21vOWw3UFN4dllzbWI2RmFGT3c3YlJnY3hNdU14Y09YOWdVTExYbUVyeVFtMTN6UVNKTWR4VXNKSWctUzROSHpBMkU?oc=5",
+   "data": "2026-09-19T12:31:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Geração 2019 participa de 60% dos gols do Flamengo na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTnlYZE45bEZNVmd4eWxpYTVUbkdoMldCemRrZ1RYTzlhTTJHaUxuWWRPaEc0aVVrUmFZMjFJaWkxcnBXM2FncjZYM3p3RVBLQ2V2bkJ3SDNaVkVoVVFFWkxpdWZTQVdnYVlMQ2pwckxiMlRlVmY5NkVVel8tMkFVeG03ZmhOZG1yN1ZocUh6X00yM2FnTHA2T3FyS2NUUDBPVnFIaU9fVUN3eXVtOGcwZkVmWkYxZ2d2RTVzdDhqTVpuN0NaYjZIb01GajNjRmR3YktST3JIQUJkWnowS3c?oc=5",
+   "data": "2026-09-19T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Do cartão de visita contra o Flamengo ao recomeço: como ex-promessa do São Paulo quase abandonou futebol",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQTlmdHlHQ1Q5OGtoLXFkWTJYaW15MHhIWjk1UkpJbTVhVFhhMWhyZEVQb1JiTXdnWFczODNKT2xwZ2M0STRuc3Y2a1MtLVh3V1FSQVd5ZzVNc0IzTW5ORjJZeTBLWkNpQlZwZjhZMWpua2ZQWEtZcDNhblVjQ0tudHJtZzc5bDZISDlBdGhMT0pkZW5tVmpCTk9Ub3NkU3RHTUVMbHU3amg1VV80NUQxN1FScmVaMjgzeFVlN1h6SXM?oc=5",
+   "data": "2026-09-19T11:23:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": "Rivais Millwall e West Ham fizeram clássico cercado de tensão neste sábado (19), pela 2ª divisão da Inglaterra ..."
+   "resumo": ""
+  },
+  {
+   "titulo": "Líder de assistências do Brasileirão supera rivais de Palmeiras e Flamengo, foi formado por Luís Castro e já teve castigo inusitado",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWHNlTUprNGE1OFNKVmtEeDg1MzBoV2Y2MmYxTXdSMkNOZjJuT0tzRi1NWGtXQzRKVGtIcF9RUDNNY3Q5VEloOElOR1NDVzA0MFlPeXU0SUw3bERZRHRSV3EwLUxrVnd4bWVCbF9vYU5PT19EU1J5WHpKQzBLNmNUUEEtS01ycFp5eHVxQXZPQ1BhOHpuM25rY3hUR2VwN0M5cDdGZHFDWTNKeW5BNldVTFNHOUFxNllmSlRXWUZ0Q3RDY1V2T3prTWh5bUIzSkhSaTlmdnF4QWFZTElmcFVTcWFUN1FOQzhMYmV5T1ZYcVZXQ2tS?oc=5",
+   "data": "2026-09-19T11:22:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Volpi volta ao Maracanã, palco de feitos contra o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVGE4MGdWYXhsSDlJc1BlNUhkSW1FUkJBY2ZIRkozUXRuLTRnT0VXSEtFcFNxZy1FRW41MnFmeDVKNnVmT2VuNmdITldMMjcwRGRMclVJODlVU0FDbktOQThSekc3UWtuVlEydC1lUzFIVWxlX2pVMGhlejhrbmxDRldlb3N3anZfY3YwMnpUemFrZjZIWVF4b2c4M0lWR1A0eTNicW50ODFHSEVQbkJSQjJQX3VkM0gteGxDQi1EcWU?oc=5",
+   "data": "2026-09-19T11:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Red Bull Bragantino: onde assistir, horário e escalações",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGctUlFRdFVJeVJfWkJma0Q0VW1WaWFOQ3p4V0wtYlU1TVVabnpHY1ZudzZFMkhQckFKXzZYbFVPWVJqZFB1cENXbWhhOUZ3OWFmU0U4Z3k4UEFPaDRTdFZKYTdmTlNEcl9VUHhjcTItY0Zxa25OaTYtX25OOXNQUHAzSXYxVFJKMmxXV2NEMlA4ZjZhZUtTRGhaam8wejg0cnFuZGJYalJMWS1EdHAxbzNB?oc=5",
+   "data": "2026-09-19T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Suspensões fazem Flamengo colocar à prova setor que Jardim considera ter excesso de opções",
@@ -514,6 +1002,46 @@
    "resumo": "Essa foi a seleção da 27ª rodada do Troca de Passes Depois da pausa no meio desta semana para a disputa das competições internacionais, o Campeonato Brasileiro retorna neste sábado com cinco partidas válidas pela 28ª ro…"
   },
   {
+   "titulo": "Lula cita Flamengo e Corinthians e diz estar decidido a 'acabar com bets'",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY0RQOUJuVGFHNHBSU1FsMWtJeTlzMXlRWmxscF9nMVduTXJ2bjdoV3NRUTVQMHpSMDdQMTJ1MmtEUzFTUWl4Yk5VVlhqV1Rvb29WQW5CQy1mdm9Ednl6eEN0NVhtSUJ6WENiaFpVdGlpWjZ6dmNQU0tKYk9QWGRvWlh5V0hCU2FZdGtIdTU2c0tqVUkwc2p2Wk51MnQ4MmRPOUJZMEhFRkxuN20yY1V5SFJSU3kxVGlvekFmdWl3WnhWUQ?oc=5",
+   "data": "2026-09-19T03:06:16+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Parabéns, Mozer! Um dos melhores da zaga rubro-negra, completa 66 anos",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHIxM2FRR3hWbXNJUlZ0MGNibjJDYVdSQ1NPUXladFJJTlRtQ0xFekt2WklMai1veXNfajJYOTctSUZpbmNSVS1NVGEzd1E3MVVHNkJndE5KTGRzcFhhYjBwT2JNdG00WC1hQjg0cjVDOVB1emNRcEh3dVNIOFdpUXVjV2MtclpQRFlaY1N1bG12M0JmdzYzWTItaV9kdEo0OGJIR2JpMUF4UGZnbHc?oc=5",
+   "data": "2026-09-19T02:52:05+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Torcida do Flamengo reage ao anúncio de Lorran no Sharjah FC: 'Ficou claro'",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVHQwWjlVaXFPajhoUXBHVUVaZFRNaVpqOFR5Vk1vUXVfZXFRamhBcUlrTVdiZnlaeEpjRVNJeWxmd3k3RksyUDZsclZxbUJIMktXV050MVJWMm9xYlJiWHlXTTBpaGZZMVdZeDRmdzY4c0swSHEwT1prdHdMSldvd1BDYXc4Yy1jLVVZaHhvNFNqVXB1VkE2LWgtc1RyRm55bUkxTkdKa0JlUUpfbFRQdjQ1eWRwUQ?oc=5",
+   "data": "2026-09-19T00:22:27+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Casagrande: Que energia! Torcidas são mágicas em classificações de Flamengo e Atlético",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFlIREdVbU1SRXlpVFphem52eGpJMk1rUG52NlQwclA1emFGX1cwNnptZjQ1UkxrNVRWY0dWT0tnd2ItazRPV3RnZXNZNl96M1RaMnRXbXFybGViS09sM1NyaHVGWGtuRUJJMm4yYXlRMmZOVkxTRkxjNjdwMWNVOFVvMVpZYWlQMlpxREtMZFhBNHgzUmZpaGxWRzM0cVd2WEJwV1BPRHA3MVYyQW9zYWdmUWhWdEVZSC04U0VVYW45czNaWkRHY2doWXBfaWsydWJRTzBFQUNSWjBq?oc=5",
+   "data": "2026-09-19T00:15:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Emerson Royal compara Barcelona e Flamengo: 'Mais difícil'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUNick1hbkpISDJiMVJrRU1BT3RlTmhFMG5BM2VOLU5OOHVXcEtaOGFYQ09hWmJSX3Rfa3A4TGI5RTJxMGZFb013bmdQeGlyVmJDYUVIdDRmVXJ5Rk91V1EwWFV2MDdEX0l1aHpydV9JSE41RVFGZnFmb3dVV3Z5eU9VbTZ5aEh0eEExSGJSTktqY01weU93NXBfbUpmTVls?oc=5",
+   "data": "2026-09-18T23:26:36+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Favoritismos #28: dicas, palpites e chances no Brasileirão",
    "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/09/18/favoritismos-28-dicas-palpites-e-chances-no-brasileirao.ghtml",
    "data": "2026-09-18T23:14:43+00:00",
@@ -530,12 +1058,20 @@
    "resumo": "Flamengo x Bragantino: informações e palpite para o jogo O Flamengo tem sido dominante contra o Bragantino, com quatro vitórias nos quatro últimos jogos como mandante pela Série A, inclusive no ano passado, quando Vagne…"
   },
   {
-   "titulo": "Flamengo x Red Bull Bragantino: onde assistir, horário e escalações",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2ffutebol-nacional%2fflamengo-x-red-bull-bragantino-onde-assistir-horario-e-escalacoes.html&c=749873801732395825&mkt=pt-br",
-   "data": "2026-09-18T23:00:00+00:00",
+   "titulo": "Palmeiras ironiza Flamengo por críticas ao gramado do Maracanã: 'Tempo é o senhor da razão'",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa3JvNUpDRktyZG5ScUpjbHhQbUkwMlNZVHhRYmxncVBFTDY2YTJaLTNrcUR1ZGdzQ1JNQVBGQ0xQRjg2a0M0RzF3a01fbVo0aU1WaWNHbEpNemN6eVE3eW1kbUNsMHh5M3NkWmJXZnR0MUhsM0E4T216X21KRVNmS0ZPNVNHV3RQU1g1VklsSjQyd29icGs2dWx6S0tnalllSmRFMzNobElUMm00MU1peGczMHBKcDJ6dS1lbk1jNmFWcGx6azdEVWxaX2drb0tYTkN3eXZsVUY1TVM3aGd4dmw3UVRUd0V5ZHpDS1lOZmU?oc=5",
+   "data": "2026-09-18T22:25:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Filipe Luís chama atenção após jogo do Monaco: 'Avassalador'",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHI5cUxnV1BFYW9HMjBjV1BQODBRWnViR2pTY2Z2NGI0RkVUTmV6OUdOZE9IOTV0a2NOS3IzMWJYVm9aNHJUN0JITUVNeTJJVllPbUh3ZGRGN3ZJWm1maHBtZGhYWEY3d0RUX3VvUFBtQlVweEVMbm5UeUZyLUt0RUVIeE9xdTVjSHQ1MUNsdzdJVXJSTDl2SWRUR19md1MydFlB?oc=5",
+   "data": "2026-09-18T22:16:35+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": "Flamengo e Red Bull Bragantino se enfrentam neste domingo (20), pela 28ª rodada do Brasileirão.. Saiba os detalhes!"
+   "resumo": ""
   },
   {
    "titulo": "Sharjah FC anuncia Lorran, agora ex-Flamengo; clube carioca mantém 30%",
@@ -552,6 +1088,46 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Seleção debate escalação do Flamengo contra o Del Valle: \"Pedro não pode ser banco\" O Flamengo conquistou a classificação para a semifinal da Libertadores, mas precisará virar rápido a chave pensando no Campeonato Brasi…"
+  },
+  {
+   "titulo": "Flamengo ainda não sabe onde enfrentará o Estudiantes no jogo de ida da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnB6Wmdza2VlcUFYbmVrRU9oUzJyY0o0b0h6bjVWWV9LZDRUT2FpZ3lER1lacGUzbUZyLS1qYjhDdko0dGQzSHUtMG5XWDI4dWNFUjlKVG9veXVISlZTZ3BvaERKMmtFMGVVQWJsa3FLYUI4NU40RVJiSU1TOWJISVQ2MG5jemVYWnNNR1pHT3BXU0UtV3RCUnYwRE5CYnZJc3Z5V0o5RWZhVkJNd28wWTZmYXI2anR0dTFDVW1nYVU?oc=5",
+   "data": "2026-09-18T18:59:26+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Red Bull Bragantino: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdTRQUV9MSzF5RXdQdnIwMzNNd3JWYzJrWkdVNGNCUUI1VFlHeU5EMktKUllZaER6VW9ZMWQwZGVYajBteUF2QTJzWGJvZkIzU1FjaWIxckZtNjI2N2pVc3dHbzZmU1BoMklHZ2JPc3NySlJEV2k1MnNhaTd4Wm44NlcwaEVsOVVjRmdsdHZDSnVvQ3d6MzFMaG5uN1B5UG0zYUlvOHdNdjd1RlR4ZHVPN2JmS3FpQTJiRTRtVk53cU5BNnZaWkFGR0hxZF9OOU9ybFpyYk1Nek4zYVpyRzJiRFh6cmx6SlA5c1cyVlpPOXZPU2VkRUl6cFBxcF9SUQ?oc=5",
+   "data": "2026-09-18T18:48:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Sintético é solução? Colunistas debatem 'operação salva Maraca' no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZWpmYVp0VUpFUEN6NEFoTGRSeThSRGRSX1c4Xzg1c1NRTndSRDJyeVJTRVZ5THdXcXUzeGo1NTg4b1JnN3JWdjdLZTVYU1VtZENGZkdTMGQwa19QX0NxN19PWG9qdnRFaGppS0dxMDRRRUlpcDV1c3dLNjktOVRrYUE2dlE2bkQ4WHhlUGdablNPSV8tMU1aZkFqdU0yWkJTalE0SGlFa3dBazNock9jOFlFQzNaM1p3emhJVVNUanhmMEpHekp6anc2NWdRSmk1aVU5LXNzWTM3OUpDUi1aTw?oc=5",
+   "data": "2026-09-18T18:19:06+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Outro Canal: Com Flamengo, ESPN vence A Fazenda 18 e só fica atrás da Globo em audiência",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV3hMTXR3TEdjS0tIYjJMOTFTLUxRZnJlQWNSTXpPT0RJXzBVZVRJc0h3bEN0SnhaS3pBa0JhQ19KaHdTSGNpcUxXSy1JMG9uaHVfXzZRakRpb1VldndlbjhKRGp0cC16QlFFUzJEY2lQTXYxeldUaHdXTFJnNDZKdlg4R0VIODBZV0ZmWnVfNEJRY1kxSDBOdVhZYTZwWFIzVnNlYmVaNnBvR0dwXzBBUGNNM2ZMT3FKN2pTQnpkZUFSNURmSjQ2QkwxejRIelFqR1hDMndB?oc=5",
+   "data": "2026-09-18T17:54:04+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Estudiantes confirma novo desfalque para duelo com Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXBvRS1VOXUtNmZYVDEtU2d0MzNOamktbG1CR21pNzZ2SHp4enZFWjAyamVlSmZqaEZBZDRIUVpVc28wMVR1UU9icGRRNzJsYVN0S0ljbmg5NEpDQ1RELVBCTHk5Tm15TzZLOTBRSHgwVkZMM3pHZFRTSGUxTVR6QVVBeVRHV0pkb2NiaHpWemhIRlZ2SjJxVF82UXd4S3M?oc=5",
+   "data": "2026-09-18T17:49:11+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Gramado do Maracanã vai melhorar até o fim do ano? Entenda",
@@ -578,12 +1154,68 @@
    "resumo": "Bósnia e Herzegovina 1 (4) x (1) 1 Itália | Gols | Repescagem | Eliminatórias Roberto Mancini anunciou nesta sexta-feira sua primeira convocação desde o retorno ao comando da seleção italiana. Foram chamados 34 jogadore…"
   },
   {
+   "titulo": "Palmeiras provoca Flamengo após críticas de jogadores ao gramado do Maracanã: 'O tempo é o senhor da razão'",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX2EybFo0T0dtYXdsVFAxSk9NbG92RTZfNFBGT1VwRllSdWFHWnhFSDgxajBqUjdUV2ZmemtSMlRWWTNzNXU2d01CcDNwM3V5QmhIa3NuQjNpbnVIOFRFaGcyeF9BRHJHWVBvOW5VZS0xaURUaDRiM3JYVjVDZk9rSjJNenZrMWFzRGFVSHBoZGxSeUlSRDBMMl9uMXRfUHBTWWlDSDY0ZFRYNWtPVUpsNHc5eWo0bExLNEYxa1JPWEJ2aXh4VHBkTWJjal9BVjd3NDIybWcwV0VPUnlC?oc=5",
+   "data": "2026-09-18T16:24:41+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Vestiário do Flamengo pós-classificação teve celebração contida e cobranças por atuação ruim",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/18/vestiario-do-flamengo-pos-classificacao-teve-celebracao-contida-e-cobrancas-por-atuacao-ruim.ghtml",
    "data": "2026-09-18T15:58:13+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Léo Ortiz admite cobranças no vestiário do Flamengo e avalia empate: \"Parece perdemos\" O Flamengo está classificado para a semifinal da Libertadores, mas a vaga não foi um momento total de celebração por parte do elenco…"
+  },
+  {
+   "titulo": "Gramado do Maracanã é dilema para Flamengo e Fluminense",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3dqMEhobjZYZG9pTThjY2NOTm9RcXpMVHMyNDJoUG9wc2FWazlFOVU5UDBFTG1CeWdob01OOE4wN3NUSXVPTEdiWmJDYnVicDlCaXBqaFFRbmxmWXRGQnRGQzA4SFBYaDRhNkFYWjhMVUZvMkVRcjdGSEt0MVU4aWNoY0Vkd0dFRlZySG1mbG9xR2xES1dSWGo3ZU5Oc2NBblc3YWdqWnM4OFk?oc=5",
+   "data": "2026-09-18T15:45:02+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras ironiza Flamengo após críticas ao gramado do Maracanã e 'apoio' de zagueiro ao sintético: 'O tempo é senhor da razão'",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY1I1S1BvdFliSTBTdzNNTXY1dzVLTnlmbWNCb3k0YmdWMFF4VUEyNUtha2MyVldFZ21pUXV0SER6T0ItRHVWcDVncEZ2eEZHX0JwWnI4QWRSVG1hQU9kUFNOeXFIdWt4cnp6UHlHeGd3Qm4xMl9TdFVrd1VBOHYwU2hERF9wZEJhRU9ydHZ0ek81NTdjdFRIa2RPWU5ZdE9rVmJrbWpHOXJmUXZrU0VOWnBqTk1CekNJNkJIWUtaNDVrb0NsWnB2X0NpZXZCOW1HckRtaEtGdUhKbTVJQWtuS3oxZHpMbnhVc2N2aTR3VlZtT2gw?oc=5",
+   "data": "2026-09-18T15:36:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Críticas após classificação: Jogadores do Flamengo detonam gramado do Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdWl6NC1ZYWlvT2hGN2FlUFdlSWJiOWFuNFhkVkJRRU0wUzYyN1ZFc1VSbzhIejJRREoteTVfMnJEZUNmV2F3UGpIZFBtSzNMblp6eFk0X1FISUsyMjhaMXE3amdmbjl6Z2UzalR1bmhRWHFFVGY5MEY0NW1RV3poQmlkX3ljeVlqOHprQ3ZtZ1pNaU1vYmg2TWNiRWtsQldOZVMtOThNM3l4VFJpdUktcnFzZFk2RENEV3dYSzVrRkZ0OUhnR1BV0gHiAUFVX3lxTFB5UURwT0xqdmY1X0I3TEpIN3FIdVlLUEFvcWV2X3R5RXhjeUNGUE5ad2tIbEMyUDhHOFIxVTVLTExnLWtPYzA0OUx3dDB2VnNHbmFFREdLdFBlcngzM0dHQ2p6d2xGa1hWTXRJY2w4UlNxQ2xnUHAtc21sYzRtYVloYjhPWTU2cVFzNTUySnhVRFl6T3RHSVJGN1E1LU9fN21GbTBNenRxcWRkaDF2Q3Aya0syYzVGczY4cmlkc2JyYkhOQ1BtYzEzM3pmQ0ZsdW5fNThBckJ1R0FpSmdqcjJoaUE?oc=5",
+   "data": "2026-09-18T14:44:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Red Bull Bragantino ao vivo: onde assistir, horário e informações pela 28ª rodada do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYXpDaHk5a2MtbmV0Tlo2ZlFoUVd2TC1Yb25iREtGWXRiY21JYjZzUGJFWWtwekZCeHAxVVFsSm04VTJCWDAyTnJJcTQwYUJOVVByRUJqdDkwNHk0OEhKYWt0QmRuZmRiOGRZWmE3anBvalpGRDJ3bGdIYU5pV3pmS2lZaU5uTGE3MHEybm5vY2FDNGZsZjQ4MkVreHJSbFZkOXVlTjA2dE5nUXloSk9JdWdxbUJCeDExOS04VWlQOUFBZDc3SWxXVEIxSTFhakJDZWh5bEctQnlwdGJIQm1QSU9EcFRiX0t6eS1rRS1KeW9HNHVUdjN2S1d5UmxFVllodTdN?oc=5",
+   "data": "2026-09-18T14:23:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Zagueiro do Flamengo dispara contra gramado do Maracanã: 'Às vezes tem que dar razão a quem fala do sintético'",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVUJkSndjeExEbHpJLUZYQk12N2Jra3U5WHZqRE5YM09QbUNGZkl6b1ZGMzVDZDJHNUE3QktRSWpiRkRmWTVXTHNhb1VlZ1FlendUM01NOElrWktadmZoV2lEOXozamlsVGREalNWb1FadXVjSldPNloxcWkyQUVwMUJKbXJXRHllak9WTGxrTTBhdTRRa3FCbEV0T1Zab2VwclFhR1JKemthUEFaNnJ0cUFKc0huZUt3dWh2R3VIQVlxRkNHM3ppaEtKNWs0aEtZNWFLdG9UUGpZYkg0SW5BNGRJaWhVbi02NFJ6TlFfX1ZWRnd2M043OWRzMVVlQQ?oc=5",
+   "data": "2026-09-18T14:11:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vasco prepara resposta ao Flamengo por impasse no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTi1jNXZDU0o2cVVjTDhKenJLaVlaTE1iZVo1OGtfTmo0UFNwV3JTNm95aUJrVWppSEVON0pTeTJtcVNkajFTTm5XYTJqRnV1VzNtZmtBRWZ0Z1dSQ3lkaEpHVHVfc3k2SllkOExNWHFNM29FM25ybDJ4dmxRWlhPZnU4MmFCNHQtaGxtMFlobFJJeEJYeGJBVW13?oc=5",
+   "data": "2026-09-18T14:09:01+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Destaque suspenso e ascensão fora de campo: como chega o Estudiantes para enfrentar o Flamengo",
@@ -594,604 +1226,12 @@
    "resumo": "O caminho do Flamengo na semifinal da Conmebol Libertadores passará por um velho conhecido: o Estudiantes, da Argentina, que eliminou o Corinthians nesta quarta-feira na Neo Química Arena. O time carioca já enfrentou -…"
   },
   {
-   "titulo": "Flamengo x RB Bragantino Palpite – Análise e notícias (20/09)",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2fsites-de-apostas%2fpalpites%2fflamengo-x-rb-bragantino-20-09-2026.html&c=1449737249866121707&mkt=pt-br",
-   "data": "2026-09-18T12:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "Confira os melhores palpites para Flamengo x RB Bragantino, domingo (20) às 18h30, no Maracanã, Rio de Janeiro, pelo Campeonato Brasileiro."
-  },
-  {
-   "titulo": "Flamengo leva lição de brinde com a vaga",
-   "link": "https://ge.globo.com/blogs/blog-do-alliatti/post/2026/09/18/flamengo-leva-licao-de-brinde-com-a-vaga.ghtml",
-   "data": "2026-09-18T11:05:41+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 1 x 1 Independiente del Valle | Melhores momentos | CONMEBOL Libertadores 2026 O Flamengo esteve sob risco real de ser eliminado da Libertadores nesta quinta-feira. Depois de vencer o Independiente del Valle po…"
-  },
-  {
-   "titulo": "Arrascaeta sai do banco para resgatar o Flamengo e se aproxima de marca de Zico na Libertadores",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/18/arrascaeta-sai-do-banco-para-resgatar-o-flamengo-e-se-aproxima-de-marca-de-zico-na-libertadores.ghtml",
-   "data": "2026-09-18T11:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Arrascaeta critica gramado: \"Se queremos ser campeões, temos que ter um campo bom\" Parece repetitivo, mas não é. Arrascaeta decidiu mais uma classificação do Flamengo na Conmebol Libertadores. O gol no empate por 1 a 1…"
-  },
-  {
-   "titulo": "Histórico no mata-mata: Palmeiras domina o Fluminense, e Flamengo leva vantagem sobre o Estudiantes",
-   "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/18/historico-no-mata-mata-palmeiras-domina-o-fluminense-e-flamengo-leva-vantagem-sobre-o-estudiantes.ghtml",
-   "data": "2026-09-18T10:15:43+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Com drama e nos pênaltis, Palmeiras elimina LDU na Libertadores Com as semifinais da Libertadores definidas, o ge mostra o histórico do mata-mata entre os quatro semifinalistas. O Estudiantes é o único estrangeiro na di…"
-  },
-  {
-   "titulo": "A Libertadores virou um Brasileirão com escalas internacionais",
-   "link": "https://ge.globo.com/blogs/meia-encarnada/post/2026/09/18/a-libertadores-virou-um-brasileirao-com-escalas-internacionais.ghtml",
-   "data": "2026-09-18T10:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 1 x 1 Independiente del Valle | Melhores momentos | CONMEBOL Libertadores 2026 O pênalti batido na lua por Memphis Depay impediu que a semifinal da Libertadores ficasse com cara de Copa do Brasil, algo que há a…"
-  },
-  {
-   "titulo": "Análise: Flamengo fica perto de desastre e reaprende que favoritismo só se confirma em campo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/18/analise-flamengo-fica-perto-de-desastre-e-reaprende-que-favoritismo-so-se-confirma-em-campo.ghtml",
-   "data": "2026-09-18T06:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 1 x 1 Independiente del Valle | Melhores momentos | CONMEBOL Libertadores 2026 O Flamengo está nas semifinais da Conmebol Libertadores, mas os aplausos serão contidos desta vez. Principalmente, porque o time es…"
-  },
-  {
-   "titulo": "Arrascaeta é exaltado por jornal espanhol após classificação: “Flamengo tem o melhor”",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/18/arrascaeta-e-exaltado-por-jornal-espanhol-apos-classificacao-flamengo-tem-o-melhor.ghtml",
-   "data": "2026-09-18T05:12:33+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 1 x 1 Independiente del Valle | Melhores momentos | CONMEBOL Libertadores 2026 O Flamengo está na semifinal da Libertadores, e o jornal espanhol AS destacou Giorgian de Arrascaeta como o principal personagem da…"
-  },
-  {
-   "titulo": "Jogadores do Flamengo detonam gramado do Maracanã: \"Lombada para c...\", diz Rossi",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/18/jogadores-do-flamengo-detonam-gramado-do-maracana-lama-para-c-diz-rossi.ghtml",
-   "data": "2026-09-18T03:03:18+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 1 x 1 Independiente del Valle | Melhores momentos | CONMEBOL Libertadores 2026 Os jogadores do Flamengo detonaram o gramado do Maracanã após o empate em 1 a 1 com o Independiente Del Valle, que garantiu o time…"
-  },
-  {
-   "titulo": "Jardim diz que apoio no Maracanã foi determinante para o Flamengo: \"Saiu Jorginho, entrou torcida\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/18/leonardo-jardim-analisa-classificacao-do-flamengo-para-a-semifinal-da-libertadores.ghtml",
-   "data": "2026-09-18T03:00:23+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Leonardo Jardim: \"Quando o Jorginho saiu, entrou a torcida do Flamengo. Foi fantástica\" Foi sofrido, com emoção, mas o Flamengo está mais uma vez nas semifinais da Copa Conmebol Libertadores. E o técnico Leonardo Jardim…"
-  },
-  {
-   "titulo": "Atuações do Flamengo: Arrascaeta salva em noite ruim de Jorginho, Paquetá e outros; dê suas notas",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/17/atuacoes-do-flamengo-arrascaeta-salva-em-noite-ruim-de-diversos-jogadores-de-suas-notas.ghtml",
-   "data": "2026-09-18T02:42:08+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Initial plugin text Flamengo 1 x 1 Independiente del Valle | Melhores momentos | CONMEBOL Libertadores 2026 Jogadores do Flamengo antes da partida contra o Independiente del Valle REUTERS/Ricardo Moraes + Leia mais notí…"
-  },
-  {
-   "titulo": "Flamengo chega à quinta semifinal de Libertadores em oito anos; veja o retrospecto",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/17/flamengo-chega-a-cinco-semifinais-de-libertadores-em-oito-anos-veja-como-foram-as-outras.ghtml",
-   "data": "2026-09-18T02:31:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "O Flamengo está na quinta semifinal de Libertadores em oito anos, a oitava de sua história. A equipe conquistou o feito após o empate por 1 a 1 com o Independiente del Valle nesta quinta-feira, no Maracanã, pelas quarta…"
-  },
-  {
-   "titulo": "Flamengo avança para a sua oitava semifinal de Libertadores e conta com histórico recente favorável",
-   "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/17/flamengo-avanca-para-a-sua-oitava-semifinal-de-libertadores-e-conta-com-historico-recente-favoravel.ghtml",
-   "data": "2026-09-18T02:27:32+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 1 x 1 Independiente del Valle | Melhores momentos | CONMEBOL Libertadores 2026 Atual campeão da Libertadores e dono da melhor campanha da edição até aqui, o Flamengo chega à oitava semifinal da história do torn…"
-  },
-  {
-   "titulo": "Semifinais da Libertadores 2026: veja todos os confrontos e as datas-base",
-   "link": "https://ge.globo.com/futebol/libertadores/noticia/2026/09/17/semifinais-da-libertadores-2026-veja-todos-os-confrontos-e-as-datas-base.ghtml",
-   "data": "2026-09-18T02:27:28+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Corinthians é eliminado, e Palmeiras avança em noite dramática de pênaltis na Libertadores Com a classificação do Flamengo na noite desta quinta-feira, estão definidos os duelos das semifinais da Libertadores. A próxima…"
-  },
-  {
-   "titulo": "Jorginho desfalca o Flamengo no primeiro jogo da semifinal da Libertadores",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/17/jorginho-desfalca-o-flamengo-no-primeiro-jogo-da-semifinal-da-libertadores.ghtml",
-   "data": "2026-09-18T02:26:59+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Confira os dois cartões amarelos que renderam a expulsão de Jorginho O Flamengo não terá Jorginho no jogo de ida da semifinal da Conmebol Libertadores 2026 contra o Estudiantes. O meia foi expulso no segundo tempo da pa…"
-  },
-  {
-   "titulo": "Veja quanto o Flamengo receberá de premiação por avançar à semifinal da Libertadores",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/17/veja-quanto-o-flamengo-recebera-de-premiacao-por-avancar-a-semifinal-da-libertadores.ghtml",
-   "data": "2026-09-18T02:26:57+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "O Flamengo garantiu a vaga na semifinal da Libertadores na noite desta quinta-feira, no empate por 1 a 1 com o Independiente del Valle, no Maracanã. Com a classificação, a equipe garantiu mais 2,3 milhões de dólares (R$…"
-  },
-  {
-   "titulo": "Análise: Flamengo joga mal, mas torcida pega o time e o leva à semi da Libertadores",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2fflamengo%2fanalise-flamengo-joga-mal-mas-torcida-pega-o-time-e-o-leva-a-semi-da-libertadores.html&c=6077678142274071875&mkt=pt-br",
-   "data": "2026-09-18T00:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "Lucas Paquetá talvez seja o maior símbolo dessa atuação abaixo do esperado. Um dos jogadores mais identificados com a torcida, o meia teve, segundo a avaliação do próprio Leonardo Jardim, uma partida ..."
-  },
-  {
-   "titulo": "Clubes defendem bets reguladas e afirmam que restrições podem ser o “fim do futebol brasileiro”",
-   "link": "https://ge.globo.com/sp/futebol/noticia/2026/09/17/clubes-defendem-bets-reguladas-e-afirmam-que-restricoes-podem-ser-o-fim-do-futebol-brasileiro.ghtml",
-   "data": "2026-09-17T22:04:17+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Governo estabelece novas regras para publicidade de bets Em manifesto publicado na noite desta quinta-feira, alguns dos principais clubes de futebol do país defenderam o mercado regulado de apostas no Brasil. O document…"
-  },
-  {
-   "titulo": "Técnico algoz do Corinthians atinge segunda semifinal de Libertadores desde fracasso no Brasil",
-   "link": "https://ge.globo.com/rs/futebol/libertadores/noticia/2026/09/17/tecnico-algoz-do-corinthians-atinge-segunda-semifinal-de-libertadores-desde-fracasso-no-brasil.ghtml",
-   "data": "2026-09-17T20:30:35+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Memphis perde pênalti e Corinthians está fora da Libertadores Corinthians perde para o Estudiantes e é eliminado da Libertadores A classificação do Estudiantes sobre o Corinthians recolocou o técnico Alexander Medina no…"
-  },
-  {
-   "titulo": "Flamengo leva susto, mas elimina Del Valle com gol bizarro de presente e vai à semifinal da Libertadores",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2flibertadores%2fartigo%2f_%2fid%2f17271772%2fflamengo-leva-susto-mas-elimina-del-valle-com-gol-bizarro-e-vai-semifinal-libertadores&c=6724957790514942253&mkt=pt-br",
-   "data": "2026-09-17T19:27:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Flamengo avançou ao empatar com o Independiente del Valle e vai enfrentar o Estudiantes na semifinal da Libertadores ..."
-  },
-  {
-   "titulo": "Tatuador vira amigo de Bruno Henrique e marca gerações de jogadores do Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/17/tatuador-vira-amigo-de-bruno-henrique-e-marca-geracoes-de-jogadores-do-flamengo.ghtml",
-   "data": "2026-09-17T16:41:06+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Bruno Henrique faz tatuagens para cobrir marcas de lesões \"Pode chamar de tatuador oficial do Bruno Henrique\" Nascido e criado em Belford Roxo, na Baixada Fluminense, Gustavo Gomes começou quase por acaso na tatuagem ao…"
-  },
-  {
-   "titulo": "Jorginho é expulso e torcedores do Flamengo reagem: 'Inadmissível'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db58cb8b4e4ab35439ca9d243278&url=https%3a%2f%2fwww.lance.com.br%2ffora-de-campo%2fjorginho-e-expulso-e-torcedores-do-flamengo-reagem-inadmissivel.html&c=12581052177215852340&mkt=pt-br",
-   "data": "2026-09-17T16:08:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": "Após sair atrás no placar, o Flamengo viu a situação se complicar ainda mais aos 19 minutos do segundo tempo, quando Jorginho foi expulso."
-  },
-  {
-   "titulo": "Com vantagem, Flamengo terá tira-teima contra Del Valle após disputas de títulos",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/17/com-vantagem-flamengo-tera-tira-teima-contra-del-valle-apos-disputas-de-titulos.ghtml",
-   "data": "2026-09-17T11:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Mansur analisa gol da vitória do Flamengo sobre o Corinthians; confira O duelo entre Flamengo e Independiente del Valle, nesta quinta-feira, vale mais do que uma vaga nas semifinais da Conmebol Libertadores. Esse é o ob…"
-  },
-  {
-   "titulo": "Flamengo x Independiente del Valle: onde assistir ao vivo, horário e escalações",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/17/flamengo-x-independiente-del-valle-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-   "data": "2026-09-17T06:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo faz últimos treinos antes de enfrentar o Del Valle Flamengo e Independiente del Valle se enfrentam nesta quinta-feira, às 21h30 (de Brasília), no Maracanã, pelo jogo de volta das quartas de final da Conmebol Li…"
-  },
-  {
-   "titulo": "Escalação do Flamengo: Léo Pereira treina e pode voltar ao time contra o Del Valle",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/escalacao-do-flamengo-leo-pereira-treina-e-pode-voltar-ao-time-contra-o-del-valle.ghtml",
-   "data": "2026-09-16T22:22:16+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Mansur analisa gol da vitória do Flamengo sobre o Corinthians; confira O Flamengo venceu o Independiente del Valle por 2 a 0, em Quito, no jogo de ida das quartas de final da Conmebol Libertadores, e está muito perto da…"
-  },
-  {
-   "titulo": "Forlán anuncia primeira convocação na seleção do Uruguai com Varela, Piquerez e Arrascaeta",
-   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/16/forlan-anuncia-primeira-convocacao-na-selecao-do-uruguai.ghtml",
-   "data": "2026-09-16T21:44:21+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Confira como foi a eliminação do Uruguai! O técnico Diego Forlán anunciou nesta quarta-feira sua primeira convocação à frente da seleção do Uruguai. A lista final do comandante conta com 26 nomes, sendo três de clubes b…"
-  },
-  {
-   "titulo": "Del Valle chega ao Brasil, treinará no CT do Fluminense e não terá seu principal artilheiro contra Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/del-valle-chega-ao-brasil-treinara-no-ct-do-fluminense-e-nao-tera-seu-principal-artilheiro-contra-flamengo.ghtml",
-   "data": "2026-09-16T17:53:29+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo faz últimos treinos antes de enfrentar o Del Valle O Independiente del Valle terá um desfalque importantíssimo para enfrentar o Flamengo, pelo jogo de volta das quartas de final da Conmebol Libertadores. Isso p…"
-  },
-  {
-   "titulo": "Cartola: veja cinco alternativas de ataque a Viveros e Samuel Lino, desfalques para rodada #28",
-   "link": "https://ge.globo.com/gato-mestre/analises/noticia/2026/09/16/cartola-veja-cinco-alternativas-de-ataque-a-viveros-e-samuel-lino-desfalques-para-rodada-28.ghtml",
-   "data": "2026-09-16T17:08:31+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Cassius explica como funciona a pontuação em assistência no Cartola Samuel Lino e Viveros são os nomes mais visados na hora de montar o ataque nesta temporada do Cartola. Contudo, na rodada #28, o cartoleiro precisará s…"
-  },
-  {
-   "titulo": "Artilheiros do Flamengo, Pedro e Bruno Henrique travam corrida para superar marca de Gabigol na Libertadores; saiba qual",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/artilheiros-do-flamengo-pedro-e-bruno-henrique-travam-corrida-para-superar-marca-de-gabigol-na-libertadores-saiba-qual.ghtml",
-   "data": "2026-09-16T16:12:53+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Independiente del Valle: Léo Pereira, Jorginho e BH devem voltar ao time titular Não há dúvida de que Pedro e Bruno Henrique são as principais referências do ataque do Flamengo nesta temporada. A ponto de a d…"
-  },
-  {
-   "titulo": "Flamengo fecha parceria com novo patrocinador e estreia marca contra o Del Valle",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/flamengo-fecha-parceria-com-novo-patrocinador-e-estreia-marca-contra-o-del-valle.ghtml",
-   "data": "2026-09-16T15:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Independiente del Valle: Léo Pereira, Jorginho e BH devem voltar ao time titular O Flamengo estreará um novo patrocinador na partida contra o Independiente del Valle, nesta quinta-feira, pelas quartas de fina…"
-  },
-  {
-   "titulo": "Chuvas intensas desafiam gramados do Brasileirão; estádios buscam adaptação",
-   "link": "https://ge.globo.com/futebol/noticia/2026/09/16/chuvas-intensas-desafiam-gramados-do-brasileirao-estadios-buscam-adaptacao.ghtml",
-   "data": "2026-09-16T11:58:22+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Rodrigo Lois explica no Clima em Jogo o impacto das chuvas no Brasileirão Fortes e duradouras chuvas atingem o Brasil há mais de dois meses, em especial no Sul e Sudeste do país. Essas regiões concentram 85% dos clubes…"
-  },
-  {
-   "titulo": "Lorran sofre desvalorização em menos de dois anos e deixa Flamengo sem vingar",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/lorran-sofre-desvalorizacao-em-menos-de-dois-anos-e-deixa-flamengo-sem-vingar.ghtml",
-   "data": "2026-09-16T11:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Disputa judicial encerrada entre Flamengo e Paolo Guerrero O Flamengo avançou para concluir a venda de Lorran para o Sharjah FC, dos Emirados Árabes Unidos. O meia-atacante, tratado como uma das grandes joias formadas p…"
-  },
-  {
-   "titulo": "Flamengo avança com renovações de contrato e desenha planejamento para 2027",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/16/flamengo-avanca-com-renovacoes-de-contrato-e-desenha-planejamento-para-2027.ghtml",
-   "data": "2026-09-16T07:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Marcello Neves atualiza situações de Lorran, Danilo e processo com Guerrero Depois de resolver a situação de Pulgar, o Flamengo reorganizou as prioridades e passou a focar em outras renovações pendentes. A principal e m…"
-  },
-  {
-   "titulo": "Conselho do Flamengo aprova proposta de profissionalismo e mudança de poderes no estatuto; entenda",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/15/conselho-do-flamengo-aprova-proposta-de-mudanca-estatutaria-e-de-poderes-entenda.ghtml",
-   "data": "2026-09-16T00:15:49+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Independiente del Valle: Léo Pereira, Jorginho e BH devem voltar ao time titular O Conselho Deliberativo do Flamengo aprovou, nesta terça-feira, uma proposta de reforma estatutária que institucionaliza o mode…"
-  },
-  {
-   "titulo": "Flamengo avança por venda de Lorran a clube dos Emirados Árabes; veja valores",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/15/flamengo-avanca-por-venda-de-lorran-a-clube-dos-emirados-arabes-veja-valores.ghtml",
-   "data": "2026-09-15T19:22:16+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Jardim explica crescimento de Lorran no time do Flamengo O Flamengo está próximo de acertar a venda do meia-atacante Lorran para o Sharjah FC, dos Emirados Árabes Unidos. Sem espaço no clube rubro-negro, o atleta de 20…"
-  },
-  {
-   "titulo": "Flamengo e Guerrero entram em acordo e encerram disputa judicial que se arrastava há oito anos; veja detalhes",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/15/flamengo-e-guerrero-entram-em-acordo-e-encerram-disputa-judicial-que-se-arrastava-ha-oito-anos-veja-detalhes.ghtml",
-   "data": "2026-09-15T18:01:24+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Mansur analisa gol da vitória do Flamengo sobre o Corinthians; confira Após anos de brigas em tribunais, Flamengo e Paolo Guerrero deram fim a uma briga judicial que se arrastava há oito anos. Clube e jogador informaram…"
-  },
-  {
-   "titulo": "Evertton Araújo segue tratamento no Flamengo e trabalha para voltar na reta final da temporada",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/15/evertton-araujo-segue-tratamento-no-flamengo-e-trabalha-para-voltar-na-reta-final-da-temporada.ghtml",
-   "data": "2026-09-15T17:34:54+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Mansur analisa gol da vitória do Flamengo sobre o Corinthians; confira O Flamengo tem um desfalque certo para enfrentar o Independiente del Valle, nesta quinta-feira, e nos próximos compromissos a curto prazo. O volante…"
-  },
-  {
-   "titulo": "Conselho do Flamengo vota proposta de mudança estatutária e de poderes nesta terça; veja pontos",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/15/conselho-do-flamengo-vota-proposta-de-mudanca-estatutaria-e-de-poderes-nesta-terca-veja-pontos.ghtml",
-   "data": "2026-09-15T16:12:39+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Marcello Neves explica acordo encaminhado do Flamengo para renovar com Danilo O Conselho Deliberativo do Flamengo votará, nesta terça-feira, a proposta final para reforma do estatuto do clube. Elaborado por uma Comissão…"
-  },
-  {
-   "titulo": "Flamengo x Del Valle: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Libertadores",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fpremier-league%2fartigo%2f_%2fid%2f17260505%2fflamengo-independiente-del-valle-onde-assistir-ao-vivo-horario-palpite-escalacoes-jogo-libertadores&c=6222066605138773140&mkt=pt-br",
-   "data": "2026-09-15T15:58:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "O Flamengo volta a campo contra o Independiente del Valle, nesta quinta-feira (17), no confronto de volta pelas quartas de final da CONMEBOL Libertadores. O duelo será às 21h30 (de Brasília), no Marac ..."
-  },
-  {
-   "titulo": "Classificação do segundo turno: Flamengo lidera e Corinthians é lanterna",
-   "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/15/classificacao-do-segundo-turno-flamengo-lidera-e-corinthians-e-lanterna.ghtml",
-   "data": "2026-09-15T15:05:13+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 1 Corinthians | Melhores momentos | 27ª rodada | Brasileirão 2026 O Flamengo assumiu a liderança da classificação do segundo turno do Brasileirão com 17 pontos em 24 disputados ao derrotar o Corinthians no…"
-  },
-  {
-   "titulo": "Entenda como foi a recuperação de Alex Sandro, que volta ao Flamengo em meio à disputa com Ayrton Lucas",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/15/entenda-como-foi-a-recuperacao-de-alex-sandro-que-volta-ao-flamengo-em-meio-a-disputa-com-ayrton-lucas.ghtml",
-   "data": "2026-09-15T09:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja as reações do time do Flamengo ao gol de Bruno Henrique contra o Corinthians O Flamengo recebeu outra boa notícia além da vitória por 2 a 1 sobre o Corinthians, no domingo, no Maracanã. Fora desde o dia 29 de julho…"
-  },
-  {
-   "titulo": "Flamengo vira a chave para a Libertadores e defende vantagem que não é revertida há 18 anos",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/15/flamengo-vira-a-chave-para-a-libertadores-e-defende-vantagem-que-nao-e-revertida-ha-18-anos.ghtml",
-   "data": "2026-09-15T06:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Senhor Libertadores! Bruno Henrique decide e Flamengo mantém a defesa zerada Após vencer o Corinthians e retomar a liderança do Brasileirão, o Flamengo vira a chave para a Conmebol Libertadores. Nesta quinta-feira, enca…"
-  },
-  {
-   "titulo": "Pai surpreende filho com viagem para assistir a jogo do Flamengo e vídeo viraliza; assista",
-   "link": "https://ge.globo.com/al/noticia/2026/09/14/pai-surpreende-filho-com-viagem-para-assistir-a-jogo-do-flamengo-e-video-viraliza-assista.ghtml",
-   "data": "2026-09-14T22:43:12+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Viralizou: em Alagoas, pai surpreende filho com passagem para assistir a jogo do Flamengo Torcedor fanático do Flamengo, Felipe Azevedo aprontou uma surpresa para o filho Bernardo na semana passada. Ele disse que iria v…"
-  },
-  {
-   "titulo": "Freitas estreia no Maracanã com assistência e acelera adaptação ao Flamengo: \"Venho para somar\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/14/freitas-estreia-no-maracana-com-assistencia-e-acelera-adaptacao-ao-flamengo-venho-para-somar.ghtml",
-   "data": "2026-09-14T17:57:27+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 1 Corinthians | Melhores momentos | 27ª rodada | Brasileirão 2026 Joaquín Freitas foi ao Maracanã apenas uma vez para se apresentar à torcida poucos dias depois de assinar com o Flamengo. Na primeira oportu…"
-  },
-  {
-   "titulo": "Vácuo de garçom e catarse: veja reações curiosas ao gol de Bruno Henrique contra o Corinthians",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/14/veja-sete-reacoes-ao-gol-decisivo-de-bruno-henrique-em-flamengo-x-corinthians.ghtml",
-   "data": "2026-09-14T17:56:22+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja as reações do time do Flamengo ao gol de Bruno Henrique contra o Corinthians Bruno Henrique foi o nome do Flamengo na vitória por 2 a 1 sobre o Corinthians, neste domingo, pelo Campeonato Brasileiro. Foi da cabeça…"
-  },
-  {
-   "titulo": "Bruno Henrique parabeniza campeão da Série D, primeiro clube dele como profissional",
-   "link": "https://ge.globo.com/mg/triangulo-mineiro/futebol/brasileirao-serie-d/noticia/2026/09/14/bruno-henrique-parabeniza-campeao-da-serie-d-primeiro-clube-dele-como-profissional.ghtml",
-   "data": "2026-09-14T17:40:49+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Uberlândia 1 x 1 ASA: veja os gols da final da Série D A noite de domingo foi especial para Bruno Henrique. Além de marcar o gol da vitória do Flamengo sobre o Corinthians pelo Campeonato Brasileiro, o atacante também c…"
-  },
-  {
-   "titulo": "Emprestado pelo Flamengo, Carlinhos sofre grave lesão na cabeça, deixa jogo de ambulância na Série B",
-   "link": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/futebol/times/athletic-club/noticia/2026/09/14/emprestado-pelo-flamengo-carlinhos-sofre-grave-lesao-na-cabeca-deixa-jogo-de-ambulancia-na-serie-b.ghtml",
-   "data": "2026-09-14T14:50:12+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Carlinhos, do Athletic, sofre grave lesão na cabeça e deixa jogo de ambulância na Série B A vitória do Athletic sobre o Juventude, fora de casa, acabou marcada por uma preocupação que foi além do resultado. Emprestado p…"
-  },
-  {
-   "titulo": "Danilo avança por renovação e deve assinar novo contrato nesta semana",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/14/danilo-avanca-por-renovacao-e-deve-assinar-novo-contrato-esta-semana.ghtml",
-   "data": "2026-09-14T11:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Danilo analisou a vitória do Flamengo e destacou a organização da equipe Titular na vitória do Flamengo sobre o Corinthians no Campeonato Brasileiro, Danilo está muito perto de assinar a renovação de contrato até o fim…"
-  },
-  {
-   "titulo": "Análise: Flamengo flerta com perigo, mas Bruno Henrique resolve e garante a liderança",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/14/analise-flamengo-flerta-com-perigo-mas-bruno-henrique-resolve-e-garante-a-lideranca.ghtml",
-   "data": "2026-09-14T07:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Herói do jogo, Bruno Henrique celebra gol: \"Estou aqui para servir o Flamengo\" O Flamengo flertou com o problema. Depois de dominar todo o primeiro tempo e abrir o placar cedo no segundo, o time levou o empate e correu…"
-  },
-  {
-   "titulo": "Felipe Melo critica atuação de Pedro na vitória do Flamengo: \"Faltou seriedade\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/13/felipe-melo-critica-atuacao-de-pedro-na-vitoria-do-flamengo-faltou-seriedade.ghtml",
-   "data": "2026-09-14T00:51:27+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Felipe Melo critica desempenho de Pedro em vitória do Flamengo: \"Faltou seriedade\" O \"Fechamento sportv\" repercutiu a vitória por 2 a 1 sobre o Corinthians neste domingo, que recolocou o Flamengo na liderança do Brasile…"
-  },
-  {
-   "titulo": "Leonardo Jardim elogia Bruno Henrique e vitória do Flamengo: \"Se houvesse justiça, seria 10 a 1\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/13/leonardo-jardim-exalta-bruno-henrique-seu-objetivo-nao-e-a-individualidade-e-o-flamengo.ghtml",
-   "data": "2026-09-13T23:15:46+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Jardim analisa Flamengo x Corinthians: \"Se houvesse justiça, seria 10 x 1\" O Flamengo reassumiu a liderança do Brasileirão neste domingo após vencer o Corinthians por 2 a 1, no Maracanã, pela 27ª rodada. Dentre os tópic…"
-  },
-  {
-   "titulo": "Bruno Henrique agradece assistência de joia na vitória do Flamengo: \"Promissor\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/13/bruno-henrique-agradece-assistencia-de-joia-na-vitoria-do-flamengo-promissor.ghtml",
-   "data": "2026-09-13T22:44:09+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Herói do jogo, Bruno Henrique celebra gol: \"Estou aqui para servir o Flamengo\" O gol da vitória do Flamengo sobre o Corinthians neste domingo, no Maracanã, foi marcado por Bruno Henrique, ídolo e multicampeão com a cami…"
-  },
-  {
-   "titulo": "Atuações do Flamengo: Bruno Henrique decide e é o melhor em vitória; dê suas notas",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/13/atuacoes-do-flamengo-bruno-henrique-decide-e-e-o-melhor-em-vitoria-de-suas-notas.ghtml",
-   "data": "2026-09-13T22:35:38+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 1 Corinthians | Melhores momentos | 27ª rodada | Brasileirão 2026 Initial plugin text Time do Flamengo posado antes de enfrentar o Corinthians André Durão / ge + Leia mais notícias do Flamengo 🎧 Ouça o podc…"
-  },
-  {
-   "titulo": "Léo Pereira é desfalque no Flamengo contra o Corinthians; Alex Sandro volta a ser relacionado",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/13/leo-pereira-e-desfalque-no-flamengo-contra-o-corinthians-alex-sandro-volta-a-ser-relacionado.ghtml",
-   "data": "2026-09-13T19:43:43+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Quem leva a melhor: Flamengo x Corinthians O Flamengo não terá um de seus zagueiros titulares neste domingo, às 17h30, em partida contra o Corinthians pelo Campeonato Brasileiro. Léo Pereira sentiu um desconforto muscul…"
-  },
-  {
-   "titulo": "Danilo indica renovação com o Flamengo e diz o que falta para acerto: 'A gente deve assinar nesta semana'",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fflamengo%2fartigo%2f_%2fid%2f17254405%2fdanilo-indica-renovacao-flamengo-diz-o-que-falta-acerto-a-gente-deve-assinar-nesta-semana&c=13374885185623193742&mkt=pt-br",
-   "data": "2026-09-13T18:31:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Autor do gol do título da CONMEBOL Libertadores de 2025, Danilo está perto de renovar com o Flamengo. Ao menos foi o que ele mesmo garantiu. Questionado sobre o tema após a vitória rubro-negra por 2 a ..."
-  },
-  {
-   "titulo": "Flamengo prioriza descanso, roda elenco e equilibra forças no Brasileiro e na Libertadores",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/13/flamengo-prioriza-descanso-roda-elenco-e-equilibra-forcas-no-brasileiro-e-na-libertadores.ghtml",
-   "data": "2026-09-13T11:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Sergio Lobo diz: \"Se parece com a que a gente sabe o que é o Flamengo na forma nua e crua\" Depois da vitória na altitude pela Libertadores, o Flamengo volta a campo neste domingo, às 17h30 (de Brasília), no Maracanã, de…"
-  },
-  {
-   "titulo": "Flamengo x Corinthians: onde assistir ao vivo, horário e escalações",
-   "link": "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/09/13/flamengo-x-corinthians-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-   "data": "2026-09-13T07:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Corinthians: informações e palpite para o jogo r Flamengo e Corinthians se enfrentam neste domingo, às 17h30 (de Brasília), no Maracanã, em confronto válido pela 27ª rodada do Campeonato Brasileiro. TV Globo,…"
-  },
-  {
-   "titulo": "Por que Flamengo x Corinthians é ainda mais tormento após Diniz admitir ter que 'quebrar a cabeça' para armar time",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fbrasileirao%2fartigo%2f_%2fid%2f17243495%2fpor-que-flamengo-corinthians-ainda-mais-tormento-apos-diniz-admitir-ter-que-quebrar-cabeca-para-armar-time&c=8482361125826668481&mkt=pt-br",
-   "data": "2026-09-12T22:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Flamengo e Corinthians se enfrentam neste domingo (14), às 16h (de Brasília), no Maracanã, pelo Campeonato Brasileiro. O Timão chega ao duelo pressionado pela necessidade de voltar a vencer na competi ..."
-  },
-  {
-   "titulo": "Paquetá muda de número e assume camisa 11 após a saída de Cebolinha do Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/12/paqueta-muda-de-numero-e-assume-camisa-11-apos-a-saida-de-cebolinha-do-flamengo.ghtml",
-   "data": "2026-09-12T15:38:12+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Sergio Lobo diz: \"Se parece com a que a gente sabe o que é o Flamengo na forma nua e crua\" O meia Lucas Paquetá mudou o número e assumiu a camisa 11 do Flamengo, que estava vaga após a saída de Everton Cebolinha para o…"
-  },
-  {
-   "titulo": "Morre Paulo Angioni, diretor de futebol do Fluminense e com mais de 40 anos de serviços no futebol",
-   "link": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/09/12/morre-paulo-angioni.ghtml",
-   "data": "2026-09-12T11:38:50+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Abre aspas: veja a entrevista com Paulo Angioni Morreu Paulo Angioni, executivo de futebol com passagens por diferentes clubes brasileiros ao longo de quatro décadas dedicadas ao futebol, aos 80 anos. Por último, o diri…"
-  },
-  {
-   "titulo": "Ayrton Lucas vai de \"terrível\" a \"melhor do jogo\" em semanas, emplaca sequência e vira chave no Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/12/ayrton-lucas-vai-de-terrivel-a-melhor-do-jogo-em-semanas-emplaca-sequencia-e-vira-chave-no-flamengo.ghtml",
-   "data": "2026-09-12T09:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Ayrton Lucas já viveu altos e baixos no Flamengo. Porém, neste momento, dá para dizer que o lateral-esquerdo vive um dos momentos mais importantes no clube. Nesta quinta-feira, ele foi um dos destaques rubro-negros na v…"
-  },
-  {
-   "titulo": "Flamengo x São Paulo no Brasileiro Feminino: onde assistir ao vivo e horário",
-   "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2026/09/12/flamengo-x-sao-paulo-no-brasileiro-feminino-onde-assistir-ao-vivo-e-horario.ghtml",
-   "data": "2026-09-12T07:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x São Paulo: eficiência rubro-negra contra o volume tricolor na semifinal Flamengo e São Paulo se enfrentam neste sábado, às 16h30 (de Brasília), pelo jogo de ida da semifinal do Campeonato Brasileiro Feminino.…"
-  },
-  {
-   "titulo": "Balanço da janela do Flamengo tem interesse em astros, dupla de reforços e polêmica com Plata",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/12/balanco-da-janela-do-flamengo-tem-interesse-em-astros-dupla-de-reforcos-e-polemica-com-plata.ghtml",
-   "data": "2026-09-12T05:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Pé na semi! Flamengo abre boa vantagem sobre o Del Valle em Quito O período de transferências para o mercado brasileiro se encerrou nesta sexta-feira. E, se a janela do Flamengo não foi tão estrelada quanto em anos ante…"
-  },
-  {
-   "titulo": "Arrascaeta, do Flamengo, esclarece polêmica por não passar a bola para Lino: “Já falamos e está tranquilo”",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/11/arrascaeta-do-flamengo-esclarece-polemica-por-nao-passar-a-bola-para-lino-ja-falamos-e-esta-tranquilo.ghtml",
-   "data": "2026-09-12T01:21:53+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Jardim explica insatisfação de Lino após ser substituído na vitória do Flamengo O meia Arrascaeta explicou a polêmica recente, que gerou insatisfação por parte de Samuel Lino. O companheiro saiu insatisfeito do campo po…"
-  },
-  {
-   "titulo": "NFL inaugura loja no Rio com camisas de times cariocas; veja modelos e preços",
-   "link": "https://ge.globo.com/futebol-americano/nfl/noticia/2026/09/11/nfl-inaugura-loja-no-rio-com-camisas-de-times-cariocas-veja-modelos-e-precos.ghtml",
-   "data": "2026-09-11T22:35:50+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Esquenta para o dia 27: taça da NFL faz tour pelo Rio antes de jogo no Maracanã A NFL inaugurou nesta sexta-feira (12) uma loja oficial no Rio de Janeiro, sede da partida entre Dallas Cowboys e Baltimore Ravens na Seman…"
-  },
-  {
-   "titulo": "Palpites e dicas para Flamengo x Corinthians pelo Brasileirão",
-   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/09/11/palpites-e-dicas-para-flamengo-x-corinthians-pelo-brasileirao.ghtml",
-   "data": "2026-09-11T21:05:42+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Corinthians: informações e palpite para o jogo O Flamengo é muito dominante quando recebe o Corinthians pelo Brasileirão. Desde 2006, foram 13 vitórias do Flamengo, três empates e três vitórias do Corinthians…"
-  },
-  {
-   "titulo": "Cruzeiro anuncia Matías Viña, que pertence ao Flamengo; veja valores do negócio",
-   "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/09/11/cruzeiro-anuncia-contratacao-de-vina.ghtml",
-   "data": "2026-09-11T20:49:05+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Os detalhes do acerto de Viña com o Cruzeiro O Cruzeiro anunciou a contratação do lateral-esquerdo Matías Viña, que pertence ao Flamengo. O vínculo será por empréstimo até o fim de 2026, com opção de compra fixada em US…"
-  },
-  {
-   "titulo": "Escalação do Flamengo: Jardim avalia poupar jogadores contra o Corinthians devido ao desgaste em Quito",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/11/escalacao-do-flamengo-jardim-avalia-uso-de-time-misto-contra-o-corinthians.ghtml",
-   "data": "2026-09-11T20:00:02+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo abre boa vantagem contra o Independiente Del Valle O Flamengo desembarcou no Rio de Janeiro na manhã desta sexta-feira após vencer o Independiente del Valle por 2 a 0, na quinta, em Quito, pelas quartas de fina…"
-  },
-  {
-   "titulo": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 27ª rodada",
-   "link": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/09/11/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-27a-rodada.ghtml",
-   "data": "2026-09-11T19:48:06+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja quem foi eleito o craque da rodada 26 pelo Seleção O Campeonato Brasileiro está de volta com clássicos na 27ª rodada. Nesta sexta-feira, em jogo isolado, o Coritiba recebe o Athletico-PR, no Couto Pereira. O sábado…"
-  },
-  {
-   "titulo": "Favoritismos #27: dicas, palpites e chances no Brasileirão",
-   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/09/11/favoritismos-27-dicas-palpites-e-chances-no-brasileirao.ghtml",
-   "data": "2026-09-11T19:40:44+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Coritiba x Athletico-PR: informações e palpite para o jogo Coritiba e Athletico-PR abrem a 27ª rodada do Campeonato Brasileiro nesta sexta-feira sob um retrospecto histórico de amplo domínio do time que joga em casa, o…"
-  },
-  {
-   "titulo": "Cruzeiro acerta contratação de Viña, que chega sem custos; veja detalhes do negócio",
-   "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/09/11/cruzeiro-chega-a-acordo-com-vina-que-chega-sem-custos-veja-detalhes-do-negocio.ghtml",
-   "data": "2026-09-11T18:55:35+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Cruzeiro tenta a contratação do lateral Viña, do Flamengo O Cruzeiro acertou a contratação de Matías Viña, do Flamengo. O lateral-esquerdo assina com a Raposa por empréstimo até o fim de 2026, com opção de compra fixada…"
-  },
-  {
-   "titulo": "Dicas do Cartola: Especialista sugere Carrascal e mais dois nomes nas dicas gratuitas da #27; veja",
-   "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/09/11/dicas-do-cartola-especialista-sugere-carrascal-e-mais-dois-nomes-nas-dicas-gratuitas-da-27-veja.ghtml",
-   "data": "2026-09-11T17:01:33+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "COMO ESCALAR O TIME PRA 27ª rodada do Brasileirão no Cartola | Dicas do Pra Onde Ir O Especialista Digital confia na boa fase de Carrascal na rodada 26 do Cartola. O meio-campista do Flamengo tem 60,50 pontos nos último…"
-  },
-  {
-   "titulo": "Cruzeiro tenta contratação de Matías Viña, lateral do Flamengo emprestado ao River",
-   "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/09/11/cruzeiro-tenta-contratacao-de-matias-vina-lateral-do-flamengo-emprestado-ao-river.ghtml",
-   "data": "2026-09-11T15:41:25+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Dono do Cruzeiro defende trabalho de Artur Jorge: \"Plano de cinco anos\" O Cruzeiro tenta o empréstimo de Matías Viña, lateral-esquerdo que está cedido pelo Flamengo ao River Plate, da Argentina, até o fim de 2026. O clu…"
-  },
-  {
-   "titulo": "CEO do Maracanã diz que negativas ao Vasco foram por causa do gramado: \"Acha que temos condições?\"",
-   "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/09/11/ceo-do-maracana-diz-que-negativas-ao-vasco-foram-por-causa-do-gramado-acha-que-temos-condicoes.ghtml",
-   "data": "2026-09-11T15:06:04+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "CEO do Maracanã apresenta justificativas para as más condições do gramado O CEO do Maracanã, Fred Nantes, afirmou nesta sexta-feira que as negativas recentes ao Vasco para utilização do estádio ocorreram por questões té…"
-  },
-  {
-   "titulo": "Flamengo x Corinthians: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fbrasileirao%2fartigo%2f_%2fid%2f17242471%2fflamengo-x-corinthians-onde-assistir-ao-vivo-horario-palpite-escalacoes-jogo-brasileirao&c=3649661105351869973&mkt=pt-br",
-   "data": "2026-09-11T15:03:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "Em meio à disputa das quartas da CONMEBOL Libertadores, Flamengo e Corinthians se enfrentam neste domingo (13), pela 27ª rodada do Campeonato Brasileiro. O duelo será disputado no Maracanã, no Rio de ..."
-  },
-  {
-   "titulo": "Santos anuncia Everton Cebolinha, ex-Flamengo, e Mattos explica contrato curto por só 4 meses",
-   "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1db3f17464079bdafa85c63f8ad53&url=https%3a%2f%2fwww.espn.com.br%2ffutebol%2fsantos%2fartigo%2f_%2fid%2f17233307%2fsantos-anuncia-everton-cebolinha-ex-flamengo-e-mattos-explica-contrato-curto&c=17609136212248684797&mkt=pt-br",
-   "data": "2026-09-09T15:01:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": "O Santos anunciou a contratação do atacante Everton Cebolinha, que estava no Flamengo. A negociação foi rápida e Cebolinha chega inicialmente com contrato até o fim do ano. Existe, porém, a possiblida ..."
+   "titulo": "Mauro Cezar cobra Bap, presidente do Flamengo, pelo gramado do Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnJkcWttZzB6VW5peG1QNnBmUU0wTlROUXVjNHVuaDZoTzNPUkJjakJZTXFrX3pLOF90bWY0S2RsM2kyeGVzUVRZdndQZFhEY29hRHlGQk1kc1M1WEtaNVVUQ2szbEhNTlhZSFRMTWMzQkZCam5mbFViY3VzUlhXS0wzSGJRcGttak1qZThJM01fVjBBYVhmbG5FUXhuRFRJVjE0cHdYVTQ4TzdaNEZValppN181Nm90cWpnd0FLX2VicVUxVjhQVDZiYTJRdC10OU9fU1NVZVM?oc=5",
+   "data": "2026-09-18T13:48:41+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   }
  ]
 }
