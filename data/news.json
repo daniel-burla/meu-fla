@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-22T06:45:11.127650+00:00",
+ "atualizadoEm": "2026-09-22T12:32:45.028133+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -23,16 +23,64 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 65
+   "itens": 66
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 86
+   "itens": 88
   }
  ],
  "itens": [
+  {
+   "titulo": "Vasco desiste do Maracanã para enfrentar o Palmeiras pela Copa do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHhIb2xJRjBjcVN6NHpzWmFZWkxRME9Pa015Y3V6MWJtY1lWRTBGOE13cERLeGNoSHBoeFMyV2VKbXdxeDNhdkswbkswNjRubmV3VWtiWEk1eVZVSi1WbXd1dGxiQTQ3X29NYlQ4ZE00TUtZZ0lxeUU0aUowckZCWXRxUnEyNXlYel9vY0VQZ3J0NUY4ZnVvVk5hWHlzLVc1UF8xX2dtNnJPUDBm?oc=5",
+   "data": "2026-09-22T12:09:16+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Tempo para ajustes de Jardim! Flamengo faz 1° treino em meio a Super Data FIFA",
+   "link": "https://colunadofla.com/2026/09/tempo-para-ajustes-de-jardim-flamengo-faz-1-treino-em-meio-a-super-data-fifa/",
+   "data": "2026-09-22T11:17:05+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Elenco do Flamengo treina na manhã desta terça-feira (22) O Flamengo venceu o Red Bull Bragantino por 2 a 1, no último domingo (20), pela 28ª rodada do Campeonato Brasileiro. Depois do embate no Maracanã, o elenco rubro…"
+  },
+  {
+   "titulo": "Veja o que impede o Estudiantes de definir estádio para enfrentar o Flamengo pela Libertadores",
+   "link": "https://colunadofla.com/2026/09/veja-o-que-impede-o-estudiantes-de-definir-estadio-para-enfrentar-o-flamengo-pela-libertadores/",
+   "data": "2026-09-22T09:53:17+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Clube argentino tem o Estádio UNO como primeira opção, mas precisa encontrar uma solução para atender às exigências da Conmebol O Estudiantes (ARG) ainda precisa resolver uma pendência antes de receber o Flamengo pela s…"
+  },
+  {
+   "titulo": "Saúl mostra força no Flamengo e ganha moral com Jardim",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOekMxb09WRWRRTlBnYlFSMXliQS10U0k2bHJiVFNrdGlGZjdaV2dlUFMwUGJnQVEtRnZoUGlyeWR6Z3haMXRZLXdaZkZKRVM3ZS1Ja0FHOEctR29KUmdRaFh0eGMxdlN0aV9XU2czUFJ0c3VlRGY3SnN1THRmeDg3b1BtLWp1WmtncnFoVWR1UEU5Qk5SalBhYVVJOW9FNlNRc3pOWTVpUmlOUS1aTHNYSWljcEtsanZlYWc?oc=5",
+   "data": "2026-09-22T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Saul volta a agradar em ano de poucos minutos, mas futuro é incerto no Fla",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblV3TjZWV3RFb05halJKdDVtTFlMY19mMXdodXJTcmdOcDBkMmVhdmhrb3V2LUhRRDE1TV9vQV83M1N2bXV4Y01UYnhfb2t6Z3l3UkFhLWJzRnptVmYtWk1IYVlDZTgySHlVeU92bjQwcmE2b2o5cjdPU1F1aDA0SEdmQzQ0YnRCODZHYmZ1c2k1TFdTYmFjWEUwaGlZQ0tRX1YzQlhld1RPQQ?oc=5",
+   "data": "2026-09-22T08:53:21+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Como mudança no limite de estrangeiros pode afetar janela do Flamengo",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/22/como-mudanca-no-limite-de-estrangeiros-pode-afetar-janela-do-flamengo.ghtml",
+   "data": "2026-09-22T07:00:01+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Saúl é o melhor no Flamengo: \"Fisicamente bem, a inteligência dele é um fato raro\" Os clubes das Séries A e B do Campeonato Brasileiro aprovaram a redução do limite de estrangeiros para os jogos em 2027. Contrário à med…"
+  },
   {
    "titulo": "Santos x Flamengo (8 de out, 2026) Ao vivo",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWRF91SG1laXBDN2VKSGdnekpnbFY1VHpyWjZqZWdTTTRrN0Y0VWQxT2hlUUFrcDl4LVBJd1RiMTVWOGI0QWg5TlA0MHBzOF8wNC1aLUlUNk9YRDR0ZXlpV0pKbjdkbG4xQVE?oc=5",
@@ -96,22 +144,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Mundial: FIFA define possível adversário de campeão da Libertadores no Intercontinental; Flamengo luta por vaga",
-   "link": "https://colunadofla.com/2026/09/mundial-fifa-define-possivel-adversario-de-campeao-da-libertadores-no-intercontinental-flamengo-luta-por-vaga/",
-   "data": "2026-09-21T23:44:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Mamelodi Sundowns (AFS) enfrentará campeão da Libertadores ou da Concacaf na semifinal O Flamengo está a três jogos da classificação para o Intercontinental 2026. Mesmo com o campeão da Libertadores ainda indefinido, o…"
-  },
-  {
-   "titulo": "Astro do PSG, Vitinha cita o Flamengo e fala da expectativa de trabalhar com Jorge Jesus em Portugal",
-   "link": "https://colunadofla.com/2026/09/astro-do-psg-vitinha-cita-o-flamengo-e-fala-da-expectativa-de-trabalhar-com-jorge-jesus-em-portugal/",
-   "data": "2026-09-21T22:42:37+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Jorge Jesus vai estrear por Portugal nesta Data FIFA Vai começar a trajetória de Jorge Jesus como treinador da Seleção Portuguesa. O técnico ex-Flamengo estreia na próxima Data FIFA comandando Cristiano Ronaldo e compan…"
   },
   {
    "titulo": "Clubes aprovam redução de estrangeiros no Brasileirão; Flamengo vota contra",
@@ -258,7 +290,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo x Estudiantes: veja datas da semifinal da Libertadores",
+   "titulo": "Conmebol define datas e horários de Flamengo x Estudiantes pela Libertadores",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWJUd2h1Z0xsamlHYVlxYzlqQ0hsa3hSdXdHT1ZXYi1SY1JzdTNySHYySTZvdmNySVcxNnlDa1FpZ3VDODdyZkQtOGxGMGVKeU5xTkt4T2ZNMW1OWU5UT09mQmlUa1JYMUR5RXpQTzJ0MmE1dHVHZ04wQlowWmZYVmRlOVd6anBzNTdtM1l3WVlNUG9YTVcxU2ZmcXZ6RC1yUVlKQVdSajZSbUlTNGJxcC1KWXBHdw?oc=5",
    "data": "2026-09-21T15:58:30+00:00",
    "fonte": "lance",
@@ -269,14 +301,6 @@
    "titulo": "Flamengo chega a 76% de título no Campeonato Brasileiro e deixa Palmeiras longe",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeElwcW82djBBNFVzZDMwdTFoNFpVRjFBbk1aaUZmY1lhRlBJVThrU3JORFRjWlk4ZVB0dEZRXzF0MU9ZTXZOaXdfSFVwOXVneGdIajF3SjZrc0VqSFlpazV3ZmxDNjVab0d6N21uZEFGaUZDMFJaTDhtQUNNTDVzWFdUR2ZEU3NfNE1keFlkSnRFRU5CV3NPa05CekhDYk1pVVp0cEItT1hETmo3Z2FXZDA1UXY2S09reTljY21GREk4WHFEd3BhZzNFRHZyT1lZTW5KOHptZmwyRWhzMzctYzgyaw?oc=5",
    "data": "2026-09-21T15:16:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Retrospecto da reta final indica caminho do Flamengo ao título; Palmeiras, Vasco, Grêmio e Inter terão que evoluir",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0WUpMdHhzQ0RNN2RBX0ZFeHdMSW5QNmY1Tk5vcnV6b2pxTU9xdEFzZFhCbFpLakJvWHhpMW9PTmFxZm8yRkxsTlZkZUFxb3ZMM1BzZndpYlNQajZvWHNGd1hMcXdpaEpLdzI2YlprREFKMHRWeWFqclRKZkVYczQ?oc=5",
-   "data": "2026-09-21T15:00:41+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -346,6 +370,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Retrospecto da reta final indica caminho do Flamengo ao título; Palmeiras, Vasco, Grêmio e Inter terão que evoluir",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPR0lKR1hDdjJtbVprZV9mbVVMUWNYSURfTGhHdlFoQUR0VVFNRkMyTmRNR1Z2V2FQR0ZnbE4xa2Z0SmpjUXVhMFcwT3I4eFZkbnpRR2NXY2tOcXd5R09hcUdzTGpneGlKNGF6eUlfX3hkZHowUy02ZV9hYlVyek9RQUdaVC1DT1MzQ2lNLTVXTnh1ZE9FcjA0djVOVnF3bnBzdTA5X29XOTcwSDl0TV8wUWZqZnF0cFRMeG9jMEtveDl1RUdVV3FnWC1vN1dmNWVabmFmWDdFVVRRSmF1MDFJWWktWGZQVWlxRFl4Mmp0WjllajRXTWc?oc=5",
+   "data": "2026-09-21T11:22:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo dispara após tropeço do Palmeiras e chega a 76% de chance de título do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenhWUUtrclFuTm51aUxoRVJBMDVsOFRudlNMQXI5RWJhbVFJZzRDZFNoMGJtUEtxS0NSbEJhRkpQUVpHSzNYYllWdXFFWjRxQzRVbEx1bGpCbEJkTkd2MUIxYXk1cHZpcFNUZ0VoRFdaLUIzNkpJbDNzWlkwUFBqYUVmR3FucEQ5RHlJbmIzYXY0dXN0YWJnRXZvWmhPakF4VlUtNkVrVFIzYklpMVZUZjBuLTJmckdtNFJwN0JSS0pRa1lZY0oyN1FTeVpITTVDSUdXUDh3WGNvSUZhZEE?oc=5",
    "data": "2026-09-21T11:17:00+00:00",
@@ -402,7 +434,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Saúl se destaca em vitória do Flamengo e questiona tratamento: 'Quando não jogo, sou caro'",
+   "titulo": "Saúl faz desabafo e questiona tratamento no Flamengo",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hBcXpsTlR2R3h2aUNLZXN0MGN2aHhjbWJudkdUSFFuMVFtR21OMkk1S0V6TkgzcjhXLVpHMjBLQnl3M1NNNzBtRFVoMzZ1OWpyMFdqYVMzZ3hnT004N2tSTXdlRHZVeElNMjVFN3RzNmNYV1dfVXdEXzhJNHBIYWdVX0RHcmV5YWQ1ZEdVYU9sMWV6MlBRWUtXbFQ2SXdwck1Ec096ZnAxTjVhMmNpVVljbmg0VzhFYmRCWDlwVFk5OTg?oc=5",
    "data": "2026-09-21T08:00:00+00:00",
    "fonte": "lance",
@@ -429,14 +461,6 @@
    "titulo": "Juca Kfouri: Flamengo volta a perder gols, mas abre dianteira sobre o Palmeiras",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDBQOXlLVDVSX1BfOTdob2RsMEpWUWs1OVR2d1hycG5fM0VmSk5PSkpNZlFvRk1EZjVhd3FWRzZJU0NaR2hhWkxLV3kwTkctd3B1OTBKYW9DRU5hVkhNWF9xRldWcDBGNnFlcjRZQ3p6b1Y1NlctTEZMU0JiRVVnXw?oc=5",
    "data": "2026-09-21T03:30:58+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo mais líder que nunca! \"Era pra ser goleada, terminou com sufoco\", diz Raisa",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzRHk5RDhLZWhxa3dSVUFlc1NaTnJsWkNTaWxXNUhNRnI0T090bGRBbDFkRVBha3ExVUpzQ0R3UXFWcTBCXzJrQkVHMy1RV1NtS2RIQWZ1YnNSZWp2TDhIenlJN0JWelk?oc=5",
-   "data": "2026-09-21T02:36:02+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -778,14 +802,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo x RB Bragantino Palpite – Análise e notícias (20/09)",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVZUXpHUjA2aUxMVW5ZRzVpSGpvU1RDdWJGU2ZmYmxmWFd6bElJRXFnOEFIM3pEMmgzVlZTQ280bFZ1bnYzLUs1SWRaVVpyTEJ1WXVfcmNSbmE2N0ZQdVQyOWIydi1fdUZ6OG0yMzB4ajZVUkZWWlNYVGNfWVVOUVBWSFlrV1dTS1dRQWh4UlpqeGhtVkE?oc=5",
-   "data": "2026-09-20T11:51:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "As opções de Jardim para montar Flamengo sem Pulgar, Lino e Paquetá contra o Red Bull Bragantino",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQW1uQ285VktzY0l4a2pFY2c4ak1HSHNOWmluakJJMlY4eHBFQkhtZDlRNFdub1RqeEw0aU03S0lWYTNaZkNXbFBseGlnTTNfdk15VUZTZWpMdE5uT3pWWXZpSnJob25SZmRLcDFHcWtuR2tnZGlHWUpLUXJuUUo3YTkxWjhVZElqTnRPQ3Z5Qng1elZHNHJ4YV9qay1vU2tsYjcxTWRCbFJ6VXFMcl8xR3Z2ZGhnUFhpNUJ5M2dCRXllem03RE5fT282OHpzRWpOMW9tWkJTeDZ5Zw?oc=5",
    "data": "2026-09-20T11:10:00+00:00",
@@ -890,6 +906,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Possível cusparada de ex-alvo de Flamengo e Palmeiras vira polêmica em um dos clássicos mais tensos da Inglaterra",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbTdzbVJqMzhleWoyeUlOdThTWHRnTzZmbk1Td1dUSmlRamoyeTExZFFkRWVNZ1FSc2JZQjNNMUtLa0RGZU13aG9mTGhSa3Q4TWxpNEFCYmRhbXJXS016NUtaV2Y3XzZpd1hDNG5NcFg5cFB1akZIbFA4ZjVfSENFeWwwVDlheUZFaUhxck55SVA3cm9YWDdwdW5jSHJHY0lUdWs2Q0RnS2FQTGVGVDdEckpLTmJzZHh1Z0Ffb3dOMllpWVp2TmthTU5hZVU1UjJXWS1WYWR3S3JVT2JGdXc?oc=5",
+   "data": "2026-09-19T17:47:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Promessa do Flamengo provoca Botafogo com 'chororô' em vitória na base; veja vídeo",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREJiZ3ozQmpsZVh4a3ZhTmFZMFJsVWNEZ250cm5aN0JDTmx2Z1VDVVo4T1JGY3gyYmlnM1lRQjdMMGx1Nk1FOVAxVzJyZ3llbk1HWWNoXzFuWlF4cng0aTZEYTNNU0ZJXzk3cll2WTF0UXdrSXFUX29MV0FFN3FGRUFFaHVsTVNtM2hQTEF3WU9IY0RUUHdMZUo4Ml9KTWUtanRXRXZ5MzgyMDQ4eGRPX1NpVW1vTjhsbFE?oc=5",
    "data": "2026-09-19T17:16:37+00:00",
@@ -967,14 +991,6 @@
    "data": "2026-09-19T11:22:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Volpi volta ao Maracanã, palco de feitos contra o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVGE4MGdWYXhsSDlJc1BlNUhkSW1FUkJBY2ZIRkozUXRuLTRnT0VXSEtFcFNxZy1FRW41MnFmeDVKNnVmT2VuNmdITldMMjcwRGRMclVJODlVU0FDbktOQThSekc3UWtuVlEydC1lUzFIVWxlX2pVMGhlejhrbmxDRldlb3N3anZfY3YwMnpUemFrZjZIWVF4b2c4M0lWR1A0eTNicW50ODFHSEVQbkJSQjJQX3VkM0gteGxDQi1EcWU?oc=5",
-   "data": "2026-09-19T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -1069,6 +1085,14 @@
    "titulo": "Filipe Luís chama atenção após jogo do Monaco: 'Avassalador'",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHI5cUxnV1BFYW9HMjBjV1BQODBRWnViR2pTY2Z2NGI0RkVUTmV6OUdOZE9IOTV0a2NOS3IzMWJYVm9aNHJUN0JITUVNeTJJVllPbUh3ZGRGN3ZJWm1maHBtZGhYWEY3d0RUX3VvUFBtQlVweEVMbm5UeUZyLUt0RUVIeE9xdTVjSHQ1MUNsdzdJVXJSTDl2SWRUR19md1MydFlB?oc=5",
    "data": "2026-09-18T22:16:35+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x RB Bragantino Palpite – Análise e notícias (20/09)",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVZUXpHUjA2aUxMVW5ZRzVpSGpvU1RDdWJGU2ZmYmxmWFd6bElJRXFnOEFIM3pEMmgzVlZTQ280bFZ1bnYzLUs1SWRaVVpyTEJ1WXVfcmNSbmE2N0ZQdVQyOWIydi1fdUZ6OG0yMzB4ajZVUkZWWlNYVGNfWVVOUVBWSFlrV1dTS1dRQWh4UlpqeGhtVkE?oc=5",
+   "data": "2026-09-18T22:00:19+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -1186,6 +1210,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Palmeiras usa críticas de atletas do Fla ao Maracanã para exaltar sintético",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEswNDF2RjU5Y05qcUFxVU5HVE52ejR6a2FFX2FGRkVrV0xrNE5aN2ZnN3dOOXhoWHE3WkNlQ2g1dWV0U1dFMk1EQkU1Vl9TTWhUTHlBb2xvZ2ZfQ25wVDdUbEhzTUQxQVc0TUVxYUhPeHBOQnMtd0NlVGM0cDFpSmZtSUh6T0lmUVp1NGtBWkh1ekU5REJuZTZKOXVtaDNqdk41QXJKZS1jdw?oc=5",
+   "data": "2026-09-18T15:28:48+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Críticas após classificação: Jogadores do Flamengo detonam gramado do Maracanã",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdWl6NC1ZYWlvT2hGN2FlUFdlSWJiOWFuNFhkVkJRRU0wUzYyN1ZFc1VSbzhIejJRREoteTVfMnJEZUNmV2F3UGpIZFBtSzNMblp6eFk0X1FISUsyMjhaMXE3amdmbjl6Z2UzalR1bmhRWHFFVGY5MEY0NW1RV3poQmlkX3ljeVlqOHprQ3ZtZ1pNaU1vYmg2TWNiRWtsQldOZVMtOThNM3l4VFJpdUktcnFzZFk2RENEV3dYSzVrRkZ0OUhnR1BV0gHiAUFVX3lxTFB5UURwT0xqdmY1X0I3TEpIN3FIdVlLUEFvcWV2X3R5RXhjeUNGUE5ad2tIbEMyUDhHOFIxVTVLTExnLWtPYzA0OUx3dDB2VnNHbmFFREdLdFBlcngzM0dHQ2p6d2xGa1hWTXRJY2w4UlNxQ2xnUHAtc21sYzRtYVloYjhPWTU2cVFzNTUySnhVRFl6T3RHSVJGN1E1LU9fN21GbTBNenRxcWRkaDF2Q3Aya0syYzVGczY4cmlkc2JyYkhOQ1BtYzEzM3pmQ0ZsdW5fNThBckJ1R0FpSmdqcjJoaUE?oc=5",
    "data": "2026-09-18T14:44:00+00:00",
@@ -1197,38 +1229,6 @@
    "titulo": "Flamengo x Red Bull Bragantino ao vivo: onde assistir, horário e informações pela 28ª rodada do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYXpDaHk5a2MtbmV0Tlo2ZlFoUVd2TC1Yb25iREtGWXRiY21JYjZzUGJFWWtwekZCeHAxVVFsSm04VTJCWDAyTnJJcTQwYUJOVVByRUJqdDkwNHk0OEhKYWt0QmRuZmRiOGRZWmE3anBvalpGRDJ3bGdIYU5pV3pmS2lZaU5uTGE3MHEybm5vY2FDNGZsZjQ4MkVreHJSbFZkOXVlTjA2dE5nUXloSk9JdWdxbUJCeDExOS04VWlQOUFBZDc3SWxXVEIxSTFhakJDZWh5bEctQnlwdGJIQm1QSU9EcFRiX0t6eS1rRS1KeW9HNHVUdjN2S1d5UmxFVllodTdN?oc=5",
    "data": "2026-09-18T14:23:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Zagueiro do Flamengo dispara contra gramado do Maracanã: 'Às vezes tem que dar razão a quem fala do sintético'",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVUJkSndjeExEbHpJLUZYQk12N2Jra3U5WHZqRE5YM09QbUNGZkl6b1ZGMzVDZDJHNUE3QktRSWpiRkRmWTVXTHNhb1VlZ1FlendUM01NOElrWktadmZoV2lEOXozamlsVGREalNWb1FadXVjSldPNloxcWkyQUVwMUJKbXJXRHllak9WTGxrTTBhdTRRa3FCbEV0T1Zab2VwclFhR1JKemthUEFaNnJ0cUFKc0huZUt3dWh2R3VIQVlxRkNHM3ppaEtKNWs0aEtZNWFLdG9UUGpZYkg0SW5BNGRJaWhVbi02NFJ6TlFfX1ZWRnd2M043OWRzMVVlQQ?oc=5",
-   "data": "2026-09-18T14:11:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Vasco prepara resposta ao Flamengo por impasse no Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTi1jNXZDU0o2cVVjTDhKenJLaVlaTE1iZVo1OGtfTmo0UFNwV3JTNm95aUJrVWppSEVON0pTeTJtcVNkajFTTm5XYTJqRnV1VzNtZmtBRWZ0Z1dSQ3lkaEpHVHVfc3k2SllkOExNWHFNM29FM25ybDJ4dmxRWlhPZnU4MmFCNHQtaGxtMFlobFJJeEJYeGJBVW13?oc=5",
-   "data": "2026-09-18T14:09:01+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Destaque suspenso e ascensão fora de campo: como chega o Estudiantes para enfrentar o Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/18/destaque-suspenso-e-ascensao-fora-de-campo-como-chega-o-estudiantes-para-enfrentar-o-flamengo.ghtml",
-   "data": "2026-09-18T14:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "O caminho do Flamengo na semifinal da Conmebol Libertadores passará por um velho conhecido: o Estudiantes, da Argentina, que eliminou o Corinthians nesta quarta-feira na Neo Química Arena. O time carioca já enfrentou -…"
-  },
-  {
-   "titulo": "Mauro Cezar cobra Bap, presidente do Flamengo, pelo gramado do Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnJkcWttZzB6VW5peG1QNnBmUU0wTlROUXVjNHVuaDZoTzNPUkJjakJZTXFrX3pLOF90bWY0S2RsM2kyeGVzUVRZdndQZFhEY29hRHlGQk1kc1M1WEtaNVVUQ2szbEhNTlhZSFRMTWMzQkZCam5mbFViY3VzUlhXS0wzSGJRcGttak1qZThJM01fVjBBYVhmbG5FUXhuRFRJVjE0cHdYVTQ4TzdaNEZValppN181Nm90cWpnd0FLX2VicVUxVjhQVDZiYTJRdC10OU9fU1NVZVM?oc=5",
-   "data": "2026-09-18T13:48:41+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
