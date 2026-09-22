@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-22T12:32:45.028133+00:00",
+ "atualizadoEm": "2026-09-22T17:14:06.065951+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 30
+   "itens": 28
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,128 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 66
+   "itens": 67
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 88
+   "itens": 89
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo agradece: Vasco desiste do Maracanã e define São Januário para semifinal contra o Palmeiras",
+   "link": "https://colunadofla.com/2026/09/flamengo-agradece-vasco-desiste-do-maracana-e-define-sao-januario-para-semifinal-contra-o-palmeiras/",
+   "data": "2026-09-22T16:54:00+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Vasco optou por não solicitar o estádio para o jogo de volta da Copa do Brasil; duelo acontece em 08 de novembro O Vasco decidiu não solicitar o Maracanã para enfrentar o Palmeiras pela semifinal da Copa do Brasil. Assi…"
+  },
+  {
+   "titulo": "Dirigente do Monaco cita trabalho de Filipe Luís no Flamengo e explica contratação de técnico",
+   "link": "https://colunadofla.com/2026/09/dirigente-do-monaco-cita-trabalho-de-filipe-luis-no-flamengo-e-explica-contratacao-de-tecnico/",
+   "data": "2026-09-22T16:52:18+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Como foi a passagem de Filipe Luís como técnico do Flamengo? Ex-técnico do Flamengo, Filipe Luís segue invicto no comando do Monaco (FRA) e, com isso, tem impressionado o futebol mundial. Dirigente do time francês, Thia…"
+  },
+  {
+   "titulo": "Rick era flamenguista e elogiou Argentina na Copa: 'Isso é honrar o país'",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1FSRlBaX3ViRGVMTEpMRi0zVDA1bXBiamhadGhUTDNubXA4cWRqWnZPM0p2Rm5xanNFYUQzeGZtOWRHYVgtdVI1ZUVpU3o5SV9kNnlNbWZ6QlNLQWdrd09ySjl6a19PQ1F6UXNVazdRcXExc1pRVy1uWGpQZHpNbGNvZGVPZE54cE5sakh5MXdvR2lKb1ZSWWtHM1RNYkVQczdPclJfUDJhc3Nj?oc=5",
+   "data": "2026-09-22T16:12:24+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "CBF aumenta premiação da Copa do Brasil para 2027, mas faz exigência aos clubes",
+   "link": "https://colunadofla.com/2026/09/cbf-aumenta-premiacao-da-copa-do-brasil-para-2027-mas-faz-exigencia-aos-clubes/",
+   "data": "2026-09-22T16:08:55+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Nova cota irá para o pagamento de dívidas e melhoria de infraestrutura A Confederação Brasileira de Futebol (CBF) decidiu aumentar a premiação da Copa do Brasil a partir da temporada 2027. Além dos pagamentos por desemp…"
+  },
+  {
+   "titulo": "Equador corta Plata, do Flamengo, e atacante seguirá em tratamento no clube",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXNSRS1vbzQxZmFvM3pEWWZqcnRoZEktOUl4aUkxaERzQjBCMVM3V1ZpX2FCTTlONVVWQjFiWVdGOVE1emx5Vy1LUU8zeVZjWDAwaVo4T056TW1nemx3bXJCWDg3c0kwQ3hCX0JZVUpmS0NDdFVaOFdPdXZ1c05aajJjVXUyZ0hVZHBfUDJIcERRX3FXbnE2Zzh0T2VqQ1dhczlQaGVTdEJoS2tmWFdfUmln?oc=5",
+   "data": "2026-09-22T15:59:50+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Estudiantes envia plano para a Conmebol e encaminha definição de estádio para jogo com o Flamengo na Libertadores",
+   "link": "https://colunadofla.com/2026/09/flamengo-faz-acordo-com-estudiantes-e-conmebol-avanca-para-definicao-de-local-de-jogo-da-libertadores/",
+   "data": "2026-09-22T15:26:57+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Clube argentino poderá disputar jogo de ida no Estádio Jorge Luis Hirschi O Estudiantes (ARG) apresentou um plano à Conmebol para receber, em casa, o Flamengo em jogo de ida da semifinal da Libertadores no Jorge Luis Hi…"
+  },
+  {
+   "titulo": "Gonzalo Plata, do Flamengo, é cortado da seleção do Equador por lesão",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2NlUl9rd3lfaC1JMTQycnEtcFViak43TlBRMkNMTVdvWjZ6WlZRRkdrRlNneFRjTU11LW1sMmtJVE9CcWltWlkzSFlERTM1cDBheWtJQURBTzI3Ni1aUG1HNHFwSzVVRzg2aVV2OHBKRTRXS1ZmbnVudi1QTGdEQkxXRW1mdVEzcTFfWUNkLXpPbG1CTU5SWVRXWlllTFhDUXBiUGl4NjdLVjRKRU8xS01XWUszR2s1Q3FWRlp1UnBtTm1yZHRBSkNfd3hiRHpL?oc=5",
+   "data": "2026-09-22T15:26:55+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Dallas Cowboys dividirá Ninho do Urubu com o Flamengo antes de jogo da NFL no Maracanã",
+   "link": "https://colunadofla.com/2026/09/dallas-cowboys-dividira-ninho-do-urubu-com-o-flamengo-antes-de-jogo-da-nfl-no-maracana/",
+   "data": "2026-09-22T15:16:02+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Primeiro treino do Dallas Cowboys (EUA) acontece nesta sexta-feira (25) O Maracanã se prepara para receber o primeiro jogo de futebol americano da história do estádio. Neste domingo (27), Dallas Cowboys (EUA) e Baltimor…"
+  },
+  {
+   "titulo": "Equador informa lesão de Plata e corta atacante do Flamengo de amistosos",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/22/equador-informa-lesao-de-plata-e-corta-atacante-do-flamengo-de-amistosos.ghtml",
+   "data": "2026-09-22T14:40:58+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Ayrton Lucas preocupa para a Libertadores e Plata será reavaliado pelo Flamengo Após sentir dores na partida contra o Bragantino, Plata foi desconvocado da seleção do Equador. O jogador foi reavaliado nesta terça-feira,…"
+  },
+  {
+   "titulo": "Danilo confessa desejo de encerrar a carreira na Juventus antes de fechar com o Flamengo",
+   "link": "https://colunadofla.com/2026/09/danilo-confessa-desejo-de-encerrar-a-carreira-na-juventus-antes-de-fechar-com-o-flamengo/",
+   "data": "2026-09-22T14:40:00+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Zagueiro, ídolo da torcida após gol do título da Libertadores, contou detalhes da saída do futebol italiano Danilo chegou ao Flamengo em 2025 e, rapidamente, se tornou ídolo da geração recente do clube. Um dos motivos f…"
+  },
+  {
+   "titulo": "Veja os contratos dos 10 estrangeiros do Flamengo após CBF aprovar redução do limite",
+   "link": "https://colunadofla.com/2026/09/veja-os-contratos-dos-10-estrangeiros-do-flamengo-apos-cbf-aprovar-reducao-do-limite/",
+   "data": "2026-09-22T14:10:54+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "CBF aprovou redução gradual do limite de estrangeiros; Flamengo votou contra a mudança O tema relacionado à redução do limite de estrangeiros no futebol brasileiro repercutiu bastante nas últimas horas. Os clubes da Sér…"
+  },
+  {
+   "titulo": "Mattos: Flamengo avalia que novo limite de gringos será ruim para a Liga",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNczNRR3VBU25FblFJWVZWc0NBVlNSLWRKN2dTbkVJeGJMTFo1OEVjNENfVFI4b3VKcHI4TzI4LUVBcDZPb0NNZnR3WVFhZC1VWHJzQjFremRjdlI2cjFhOTNvQ3hoeEVMMllwaDY5ZVdsTzNMbVNZVUM2bWJQbHVKbnpaVExBcnF2TWFVSVBrYXJCVFJsenhKLWVkNnkzRGtqWVVuaVpyb1FMRGZHWWhBbXpMWm9Ka3Q4M2VTRVdCRTBmX1B3SzJTWVJ0STlKM1FENkEzVllMTkVtNVM4c3p2SmlDaWdzYzdaWnNtQ0hUdHd4Xzg?oc=5",
+   "data": "2026-09-22T13:50:26+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Equador ‘corta’ Gonzalo Plata de convocação após nova lesão no Flamengo",
+   "link": "https://colunadofla.com/2026/09/equador-corta-gonzalo-plata-de-convocacao-apos-nova-lesao-no-flamengo/",
+   "data": "2026-09-22T13:31:05+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Plata sentiu dores na região posterior da coxa direita em jogo do Flamengo A Seleção do Equador confirmou, nesta terça-feira (22), o ‘corte’ de Gonzalo Plata da convocação para próxima Data FIFA, que tem início na quint…"
+  },
+  {
+   "titulo": "Saúl volta a agradar em ano de poucos minutos, mas futuro é incerto no Fla",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblV3TjZWV3RFb05halJKdDVtTFlMY19mMXdodXJTcmdOcDBkMmVhdmhrb3V2LUhRRDE1TV9vQV83M1N2bXV4Y01UYnhfb2t6Z3l3UkFhLWJzRnptVmYtWk1IYVlDZTgySHlVeU92bjQwcmE2b2o5cjdPU1F1aDA0SEdmQzQ0YnRCODZHYmZ1c2k1TFdTYmFjWEUwaGlZQ0tRX1YzQlhld1RPQQ?oc=5",
+   "data": "2026-09-22T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
   {
    "titulo": "Vasco desiste do Maracanã para enfrentar o Palmeiras pela Copa do Brasil",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHhIb2xJRjBjcVN6NHpzWmFZWkxRME9Pa015Y3V6MWJtY1lWRTBGOE13cERLeGNoSHBoeFMyV2VKbXdxeDNhdkswbkswNjRubmV3VWtiWEk1eVZVSi1WbXd1dGxiQTQ3X29NYlQ4ZE00TUtZZ0lxeUU0aUowckZCWXRxUnEyNXlYel9vY0VQZ3J0NUY4ZnVvVk5hWHlzLVc1UF8xX2dtNnJPUDBm?oc=5",
@@ -50,27 +162,11 @@
    "resumo": "Elenco do Flamengo treina na manhã desta terça-feira (22) O Flamengo venceu o Red Bull Bragantino por 2 a 1, no último domingo (20), pela 28ª rodada do Campeonato Brasileiro. Depois do embate no Maracanã, o elenco rubro…"
   },
   {
-   "titulo": "Veja o que impede o Estudiantes de definir estádio para enfrentar o Flamengo pela Libertadores",
-   "link": "https://colunadofla.com/2026/09/veja-o-que-impede-o-estudiantes-de-definir-estadio-para-enfrentar-o-flamengo-pela-libertadores/",
-   "data": "2026-09-22T09:53:17+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Clube argentino tem o Estádio UNO como primeira opção, mas precisa encontrar uma solução para atender às exigências da Conmebol O Estudiantes (ARG) ainda precisa resolver uma pendência antes de receber o Flamengo pela s…"
-  },
-  {
    "titulo": "Saúl mostra força no Flamengo e ganha moral com Jardim",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOekMxb09WRWRRTlBnYlFSMXliQS10U0k2bHJiVFNrdGlGZjdaV2dlUFMwUGJnQVEtRnZoUGlyeWR6Z3haMXRZLXdaZkZKRVM3ZS1Ja0FHOEctR29KUmdRaFh0eGMxdlN0aV9XU2czUFJ0c3VlRGY3SnN1THRmeDg3b1BtLWp1WmtncnFoVWR1UEU5Qk5SalBhYVVJOW9FNlNRc3pOWTVpUmlOUS1aTHNYSWljcEtsanZlYWc?oc=5",
    "data": "2026-09-22T09:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Saul volta a agradar em ano de poucos minutos, mas futuro é incerto no Fla",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblV3TjZWV3RFb05halJKdDVtTFlMY19mMXdodXJTcmdOcDBkMmVhdmhrb3V2LUhRRDE1TV9vQV83M1N2bXV4Y01UYnhfb2t6Z3l3UkFhLWJzRnptVmYtWk1IYVlDZTgySHlVeU92bjQwcmE2b2o5cjdPU1F1aDA0SEdmQzQ0YnRCODZHYmZ1c2k1TFdTYmFjWEUwaGlZQ0tRX1YzQlhld1RPQQ?oc=5",
-   "data": "2026-09-22T08:53:21+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -90,14 +186,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo de olho: Estudiantes perde para o Lanús pelo Argentino antes de jogo da Libertadores",
-   "link": "https://colunadofla.com/2026/09/flamengo-de-olho-estudiantes-perde-para-o-lanus-pelo-argentino-antes-de-jogo-da-libertadores/",
-   "data": "2026-09-22T02:43:24+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Estudiantes (ARG) entrou em campo nesta segunda-feira (21) O torcedor do Flamengo quer acompanhar cada passo do Estudiantes (ARG) até os duelos das semifinais da Libertadores. Então, o Coluna do Fla atualiza o rubro-neg…"
-  },
-  {
    "titulo": "Torcida do Flamengo brinca com Arrascaeta após vídeo: 'Passou do ponto'",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnBvNDU1MWtnUDMzQnR3Rzl3ZC1Ea0x4VU04STZYelhSR1RKVmpsZjliZGpWYWpLMkx3TzBTSUtnTzRoVTgxRW0zWjZQYWhIZGlhUnN1Q3Ntb3V3VVFEZk1HOGxodWw0UHZZcGZRd3E5RjR5SlZ3SFROeHkzYmdmOUZBck1xSURzWlFMaWl4SS1MODA5dF9WV25WMXdzZVhEMUJ6VkhjTXpPakNDb1A0aTlB?oc=5",
    "data": "2026-09-22T02:36:56+00:00",
@@ -112,22 +200,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Bap pediu o fim do limite de jogos para transferências O Flamengo foi um dos dois clubes que votaram contra a redução do número de estrangeiros relacionados por partida a partir de 2027. Durante reunião realizada nesta…"
-  },
-  {
-   "titulo": "“Desfrutem”: torcedores do Flamengo usam frase de Abel Ferreira para provocar Palmeiras",
-   "link": "https://colunadofla.com/2026/09/desfrutem-torcedores-do-flamengo-usam-frase-de-abel-ferreira-para-provocar-palmeiras/",
-   "data": "2026-09-22T00:59:17+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-negros usaram frase antiga do técnico português para ironizar tropeço do rival na tabela O Flamengo abriu três pontos de vantagem na liderança do Brasileirão após a vitória sobre o Red Bull Bragantino e o empate e…"
-  },
-  {
-   "titulo": "Atacante revelado pelo Flamengo faz ‘gol de Messi’ nos Estados Unidos; veja vídeo",
-   "link": "https://colunadofla.com/2026/09/atacante-revelado-pelo-flamengo-faz-gol-de-messi-nos-estados-unidos-veja-video/",
-   "data": "2026-09-22T00:44:07+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "André Luiz anotou uma verdadeira pintura na MLS Cria das categorias de base do Flamengo, André Luiz chocou os Estados Unidos na última rodada da MLS, a liga de futebol norte-americana. Atualmente no Sporting Kansas City…"
   },
   {
    "titulo": "Flamengo vota contra redução de estrangeiros no Brasileirão",
@@ -162,22 +234,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Indireta? Esposa de De La Cruz manda recado após meia atuar por 1 minuto em jogo do Flamengo",
-   "link": "https://colunadofla.com/2026/09/indireta-esposa-de-de-la-cruz-manda-recado-apos-meia-atuar-por-1-minuto-em-jogo-do-flamengo/",
-   "data": "2026-09-21T21:59:54+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Vanesa Britos comentou o momento do uruguaio após vitória do Flamengo sobre o Bragantino, pela 28ª rodada do Brasileirão A esposa de De La Cruz publicou uma mensagem de apoio ao jogador após a vitória do Flamengo por 2…"
-  },
-  {
-   "titulo": "Menos estrangeiros e horários extintos: veja as 5 mudanças do futebol brasileiro",
-   "link": "https://colunadofla.com/2026/09/menos-estrangeiros-e-horarios-extintos-veja-as-5-mudancas-do-futebol-brasileiro/",
-   "data": "2026-09-21T21:41:09+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "CBF definiu algumas mudanças no futebol nesta segunda-feira (21) A Confederação Brasileira de Futebol (CBF) realizou nesta segunda-feira (21), no Rio de Janeiro, a quarta reunião com representantes dos clubes das Séries…"
-  },
-  {
    "titulo": "Entenda por que Flamengo foi contra redução do limite de estrangeiros em reunião da CBF",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/21/entenda-por-que-flamengo-foi-contra-reducao-do-limite-de-estrangeiros-em-reuniao-da-cbf.ghtml",
    "data": "2026-09-21T21:18:29+00:00",
@@ -186,20 +242,12 @@
    "resumo": "Ayrton Lucas preocupa para a Libertadores e Plata será reavaliado pelo Flamengo O Flamengo foi um dos dois clubes a votar contra a redução de estrangeiros relacionados nos jogos a partir de 2027. Durante a reunião nesta…"
   },
   {
-   "titulo": "Dallas Cowboys usará CT do Flamengo antes de jogo da NFL",
+   "titulo": "Dallas Cowboys vai dividir o Ninho com o Flamengo antes de jogo da NFL no Maracanã",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkNuOFFkbG0wTElzaHBGVVg1b09vbDI3MHdtbFRXWlV2dlB5SXJmd2dwSmZWOXVtN0lVSm9XTktjcjdrcGpqTGdLazN2OEFOYmM5TVRORTRVQ05NMVNhT0xjNm8zcnZ6RTNJX2lFVDh5WERVU1hRY3lmS1BKY3FCSW9yRlhFX2c1ZkhCc0V4TWl5SkFaVk9wcm9ibmZKYXl4ZkVZUzZtSnBIZF9JQkYybzl4V2tNLTA4STEyT2IxbDRwV21PeXJtWFJB?oc=5",
    "data": "2026-09-21T20:39:27+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "CBF define redução de estrangeiros nos times do Brasileirão; Flamengo vota contra",
-   "link": "https://colunadofla.com/2026/09/cbf-define-reducao-de-estrangeiros-nos-times-do-brasileirao-flamengo-vota-contra/",
-   "data": "2026-09-21T20:33:43+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo rejeitou a proposta aprovada pelos clubes da Série A e B; mudança será aplicada de forma gradual até 2030 Os clubes da Série A e B do Brasileirão aprovaram, nesta segunda-feira (21), a redução do limite de estr…"
   },
   {
    "titulo": "Clubes e federações querem audiência com Lula para pressionar contra MP que veta bets",
@@ -208,14 +256,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Governo estabelece novas regras para publicidade de bets Dirigentes dos principais clubes e de federações de futebol do país querem ser recebidos pelo presidente Luiz Inácio Lula da Silva. A intenção é pressionar o gove…"
-  },
-  {
-   "titulo": "Leonardo Jardim explica veto de Anthony Valencia em jogo do Flamengo x Bragantino",
-   "link": "https://colunadofla.com/2026/09/leonardo-jardim-explica-veto-de-anthony-valencia-em-jogo-do-flamengo-x-bragantino/",
-   "data": "2026-09-21T18:49:23+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "O que aconteceu com Anthony Valencia em jogo do Flamengo no Brasileirão? O técnico Leonardo Jardim deixou Anthony Valencia fora da lista de relacionados do Flamengo na vitória por 2 a 1 sobre o Red Bull Bragantino, ness…"
   },
   {
    "titulo": "Palmeiras vê Flamengo ampliar vantagem e não depende mais de si para vencer o Brasileirão",
@@ -794,14 +834,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Jogo do Flamengo hoje pelo Brasileirão: que horas começa e onde assistir",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ1RrdVFlcDhxVkpUTzRDejJBWkdHSi1PUjdtcjdfcEFSSEdqVDBpYjFCSFN4M1hBVVdBa0gtRHZPT3p2S0xDUVE1NGwwbW9xS1JDeWgzRGJrVXZlN0d6QjI3cUl0UDJiX0phQzliR3lmZ3NZejJNcHBMZzFrdHdERFJzN3g0VU1STFFIR0xWSENqOWpUNHFMN3U0NFJaaHJHNlFWTzZRX1RQTFNPdm1KZ25XVWhtMk1CbzNyY0tfRDcwbEowUzJkcEtybmxpTU9X?oc=5",
-   "data": "2026-09-20T12:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "As opções de Jardim para montar Flamengo sem Pulgar, Lino e Paquetá contra o Red Bull Bragantino",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQW1uQ285VktzY0l4a2pFY2c4ak1HSHNOWmluakJJMlY4eHBFQkhtZDlRNFdub1RqeEw0aU03S0lWYTNaZkNXbFBseGlnTTNfdk15VUZTZWpMdE5uT3pWWXZpSnJob25SZmRLcDFHcWtuR2tnZGlHWUpLUXJuUUo3YTkxWjhVZElqTnRPQ3Z5Qng1elZHNHJ4YV9qay1vU2tsYjcxTWRCbFJ6VXFMcl8xR3Z2ZGhnUFhpNUJ5M2dCRXllem03RE5fT282OHpzRWpOMW9tWkJTeDZ5Zw?oc=5",
    "data": "2026-09-20T11:10:00+00:00",
@@ -853,14 +885,6 @@
    "titulo": "Ex-alvo de Palmeiras e Fla é acusado de cuspir em rival durante clássico",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMElBYk1IMHQ4WXJYeHJvMTRTcmVub0MzTk0zbnlDaE15RFg0dTk3VGk5N05TZDZSc1VsUEJ5VWR5aXFmckhmUzJ1YWdyaU9vM2F4OUNLMXM2dXQwSFNqSDRWVV9wZU9MY0pfYktUcklrem5LZHpjNkpSd0tzZE5FYkdRd1NDZktRVG14Z0Y0VkdvNmp6c3NiWXRNSlVLbkltcXNMMk14Zzl3aEUzdDhza2tkemp1YUVvY2Rxd1F1T19QOTFJd2xVdWZLOXo?oc=5",
    "data": "2026-09-20T00:54:18+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "São Paulo vence Flamengo de novo e volta à final do Brasileirão Feminino",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XNjEyd3h5OGdWdDJ4Y2tzcWMtdUVGTXo4ZUVid0tzVmtpeFViR0JHanBfVVd1aDk3Mm1CX2MyUUkzeDNHUmhpQ2V6ZGhfYlJlV0ZDbkQyLU53M0x0RS1oQjdkRFhyUXc?oc=5",
-   "data": "2026-09-19T21:52:32+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -991,6 +1015,14 @@
    "data": "2026-09-19T11:22:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Volpi volta ao Maracanã, palco de feitos contra o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVGE4MGdWYXhsSDlJc1BlNUhkSW1FUkJBY2ZIRkozUXRuLTRnT0VXSEtFcFNxZy1FRW41MnFmeDVKNnVmT2VuNmdITldMMjcwRGRMclVJODlVU0FDbktOQThSekc3UWtuVlEydC1lUzFIVWxlX2pVMGhlejhrbmxDRldlb3N3anZfY3YwMnpUemFrZjZIWVF4b2c4M0lWR1A0eTNicW50ODFHSEVQbkJSQjJQX3VkM0gteGxDQi1EcWU?oc=5",
+   "data": "2026-09-19T11:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -1199,38 +1231,6 @@
    "data": "2026-09-18T15:45:02+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras ironiza Flamengo após críticas ao gramado do Maracanã e 'apoio' de zagueiro ao sintético: 'O tempo é senhor da razão'",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY1I1S1BvdFliSTBTdzNNTXY1dzVLTnlmbWNCb3k0YmdWMFF4VUEyNUtha2MyVldFZ21pUXV0SER6T0ItRHVWcDVncEZ2eEZHX0JwWnI4QWRSVG1hQU9kUFNOeXFIdWt4cnp6UHlHeGd3Qm4xMl9TdFVrd1VBOHYwU2hERF9wZEJhRU9ydHZ0ek81NTdjdFRIa2RPWU5ZdE9rVmJrbWpHOXJmUXZrU0VOWnBqTk1CekNJNkJIWUtaNDVrb0NsWnB2X0NpZXZCOW1HckRtaEtGdUhKbTVJQWtuS3oxZHpMbnhVc2N2aTR3VlZtT2gw?oc=5",
-   "data": "2026-09-18T15:36:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras usa críticas de atletas do Fla ao Maracanã para exaltar sintético",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEswNDF2RjU5Y05qcUFxVU5HVE52ejR6a2FFX2FGRkVrV0xrNE5aN2ZnN3dOOXhoWHE3WkNlQ2g1dWV0U1dFMk1EQkU1Vl9TTWhUTHlBb2xvZ2ZfQ25wVDdUbEhzTUQxQVc0TUVxYUhPeHBOQnMtd0NlVGM0cDFpSmZtSUh6T0lmUVp1NGtBWkh1ekU5REJuZTZKOXVtaDNqdk41QXJKZS1jdw?oc=5",
-   "data": "2026-09-18T15:28:48+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Críticas após classificação: Jogadores do Flamengo detonam gramado do Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdWl6NC1ZYWlvT2hGN2FlUFdlSWJiOWFuNFhkVkJRRU0wUzYyN1ZFc1VSbzhIejJRREoteTVfMnJEZUNmV2F3UGpIZFBtSzNMblp6eFk0X1FISUsyMjhaMXE3amdmbjl6Z2UzalR1bmhRWHFFVGY5MEY0NW1RV3poQmlkX3ljeVlqOHprQ3ZtZ1pNaU1vYmg2TWNiRWtsQldOZVMtOThNM3l4VFJpdUktcnFzZFk2RENEV3dYSzVrRkZ0OUhnR1BV0gHiAUFVX3lxTFB5UURwT0xqdmY1X0I3TEpIN3FIdVlLUEFvcWV2X3R5RXhjeUNGUE5ad2tIbEMyUDhHOFIxVTVLTExnLWtPYzA0OUx3dDB2VnNHbmFFREdLdFBlcngzM0dHQ2p6d2xGa1hWTXRJY2w4UlNxQ2xnUHAtc21sYzRtYVloYjhPWTU2cVFzNTUySnhVRFl6T3RHSVJGN1E1LU9fN21GbTBNenRxcWRkaDF2Q3Aya0syYzVGczY4cmlkc2JyYkhOQ1BtYzEzM3pmQ0ZsdW5fNThBckJ1R0FpSmdqcjJoaUE?oc=5",
-   "data": "2026-09-18T14:44:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Red Bull Bragantino ao vivo: onde assistir, horário e informações pela 28ª rodada do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYXpDaHk5a2MtbmV0Tlo2ZlFoUVd2TC1Yb25iREtGWXRiY21JYjZzUGJFWWtwekZCeHAxVVFsSm04VTJCWDAyTnJJcTQwYUJOVVByRUJqdDkwNHk0OEhKYWt0QmRuZmRiOGRZWmE3anBvalpGRDJ3bGdIYU5pV3pmS2lZaU5uTGE3MHEybm5vY2FDNGZsZjQ4MkVreHJSbFZkOXVlTjA2dE5nUXloSk9JdWdxbUJCeDExOS04VWlQOUFBZDc3SWxXVEIxSTFhakJDZWh5bEctQnlwdGJIQm1QSU9EcFRiX0t6eS1rRS1KeW9HNHVUdjN2S1d5UmxFVllodTdN?oc=5",
-   "data": "2026-09-18T14:23:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
