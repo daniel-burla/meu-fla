@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-25T11:44:45.780783+00:00",
+ "atualizadoEm": "2026-09-25T17:03:50.868532+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 26
+   "itens": 25
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,136 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 64
+   "itens": 62
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 68
+   "itens": 65
   }
  ],
  "itens": [
+  {
+   "titulo": "NFL: Dallas Cowboys treina no CT do Flamengo hoje antes de jogo do Maracanã; veja programação",
+   "link": "https://colunadofla.com/2026/09/nfl-dallas-cowboys-treina-no-ct-do-flamengo-hoje-antes-de-jogo-do-maracana-veja-programacao/",
+   "data": "2026-09-25T16:58:22+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Time americano usa estrutura do Ninho do Urubu, CT do Flamengo, antes de enfrentar o Baltimore Ravens (EUA) no Maracanã O Dallas Cowboys (EUA) treina nesta sexta-feira (25), à tarde, no Ninho do Urubu, CT do Flamengo. A…"
+  },
+  {
+   "titulo": "Flamengo quebra o silêncio sobre possível fim das bets no Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVkhKWHZtZGE2UXhlV2hOeDhsR3YwTXdfejMwVFkxQVprNGl1VUozZjZCNTVwY0lFV2RXdnRzQ0lhNS1vNlQtcGxEZUFyZHgyeXE0YVhHZGNCNVBubzBFTkd3Uk5Ndi03VDBLSDd3UzVaajAzRC1JdDlQdmNUVUk0VXg5bUR6ZFhxa1ZKR1plR0xFamdjYnpxSVFGRlpRX2ZYUGR6M2ZTYTdWT0p2VVZBTTRxYTBiZzBMZ2pTRFZn?oc=5",
+   "data": "2026-09-25T16:49:59+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Multimedalhista, Dani Hypólito aponta raridade do Flamengo em esportes olímpicos",
+   "link": "https://colunadofla.com/2026/09/multimedalhista-dani-hypolito-aponta-raridade-do-flamengo-em-esportes-olimpicos/",
+   "data": "2026-09-25T16:47:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Ex-ginasta destaca por que o Flamengo é raro entre os clubes de futebol nos esportes olímpicos Seja na terra, seja no mar. O trecho do hino do Flamengo traduz a versatilidade do clube, que domina o cenário olímpico no B…"
+  },
+  {
+   "titulo": "Flamengo faz críticas a veto de bets: 'Atinge em cheio esporte brasileiro'",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmF3SFZFLUtuWUFlNDRfNXBtelY4bWREeW9HWWFwQjRfQVY3NHdRUlZEcE9UTld2Q01LdmhzN2h2bzBrXzIzQnpDMVhfak5LRGpnU0VuT1NON0hPcEJxQXRDcXVZQnNCWkhINkkwR3ZkQm9aNy1ILTBQQ0VoNDIyTmhVaUFoTWJtc0lFdnpZSDVuNDBoSjNnR2VjaEx3UHk1bFBRbld4UTV6OXl6OWVoRzZ5UGNNdXdzeEJvV1BDSDlmcURW?oc=5",
+   "data": "2026-09-25T16:22:56+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Radar das seleções: 4 jogadores do Flamengo entram em campo na 1ª rodada de amistosos Data FIFA",
+   "link": "https://colunadofla.com/2026/09/radar-das-selecoes-4-jogadores-do-flamengo-entram-em-campo-na-1a-rodada-de-amistosos-data-fifa/",
+   "data": "2026-09-25T16:22:23+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "A atual Data FIFA acontece de 21 de setembro a 6 de outubro de 2026 Os jogos dos clubes ao redor do mundo estão paralisados para a Super Data FIFA, que acontece de 26 de setembro a 6 de outubro. O Flamengo marca presenç…"
+  },
+  {
+   "titulo": "Flamengo ‘bate o martelo’ sobre jogo do Vasco x Boca Juniors no Maracanã",
+   "link": "https://colunadofla.com/2026/09/flamengo-bate-o-martelo-sobre-jogo-do-vasco-x-boca-juniors-no-maracana/",
+   "data": "2026-09-25T15:53:02+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Vasco tenta atuar contra o Boca Juniors (ARG), jogo de volta da semifinal da Sul-Americana, no Maracanã O Vasco está na briga para poder mandar o jogo contra o Boca Juniors (ARG), pela volta da semifinal da Sul-American…"
+  },
+  {
+   "titulo": "Entenda por que Flamengo e Palmeiras foram convidados para disputar torneio idealizado por Messi",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/25/entenda-por-que-flamengo-e-palmeiras-foram-convidados-para-disputar-torneio-idealizado-por-messi.ghtml",
+   "data": "2026-09-25T15:50:53+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Messi abre o placar para o Inter Miami na final da Leagues Cup Astro do Inter Miami e da seleção argentina, Lionel Messi fez uma grande divulgação em suas redes sociais: será o idealizador de uma competição de futebol q…"
+  },
+  {
+   "titulo": "Invencibilidade! Como 15 minutos iniciais viraram arma letal do Flamengo, em 2026",
+   "link": "https://colunadofla.com/2026/09/invencibilidade-como-15-minutos-iniciais-viraram-arma-letal-do-flamengo-em-2026/",
+   "data": "2026-09-25T15:47:14+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Retrospecto do Flamengo é quase perfeito quando o time abre o placar nos primeiros 15 minutos em 2026 Levantamento realizado pelo Flamengo mostra força nos minutos iniciais das partidas na temporada. Nos jogos do Brasil…"
+  },
+  {
+   "titulo": "Léo Ortiz encara astro do Ravens em bate-bola antes de estreia da NFL no Rio; veja vídeo",
+   "link": "https://colunadofla.com/2026/09/leo-ortiz-encara-astro-do-ravens-em-bate-bola-antes-de-estreia-da-nfl-no-rio-veja-video/",
+   "data": "2026-09-25T15:09:39+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Zagueiro do Flamengo jogou uma ‘pelada’ com Zay Flowers, wide receiver do Baltimore Ravens (EUA) O Flamengo está de olho na NFL. O clube cedeu o Ninho do Urubu ao Dallas Cowboys (EUA), que se prepara na cidade para o pr…"
+  },
+  {
+   "titulo": "Torcida do Flamengo reage às atuações de Lino e Pedro em empate do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLXA5VVhtRS0wTDZFX1l1UVBZWTBMWDRMYmtTTnNnbnNzcU5jb1N5YWYtc0RLNmNUd2VRSzRZbFFNeWpfQnB1b2d0UG9QbktuN1dCdF9YdnpNRmZTM183RVBCN0Znc0Ntek56MFk3YVhmelRwWThyRlhlU29XUUhtTVZfaDBFeV9xaWpUakdmSFVscDQwdWZfQ3UtUGZJcDJkcGpLVF90aG1PVmJ5Z182ME1NZU5WZ1JG?oc=5",
+   "data": "2026-09-25T15:01:44+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "VÍDEO: o lance de Samuel Lino, do Flamengo, que poderia terminar em assistência em jogo do Brasil",
+   "link": "https://colunadofla.com/2026/09/video-o-lance-de-samuel-lino-do-flamengo-que-poderia-terminar-em-assistencia-em-jogo-do-brasil/",
+   "data": "2026-09-25T14:54:36+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Jogador do Flamengo entrou no segundo tempo do empate com a Austrália e quase deixou a assistência O Brasil empatou por 1 a 1 com a Austrália no primeiro amistoso após a Copa do Mundo. Em campo, Samuel Lino entrou no se…"
+  },
+  {
+   "titulo": "Ex-Flamengo estreia como titular por seleção em goleada",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGtXWnJ6N0FaSWt4ZmNjQVFzX3dZNkphMTVHYzBja0RIeldaaVMxN2ZwN2JzbXNEX0tlRkwybkNPTFZNZVJaS0xIU2dXUXF6SGJpZVhWcW5jdmRRbnRVUC13eFlfVzU1c0tnTGhnMjBqaHdTbDdPdzhibXkxWkNCX29uaWdJU3N2X0J5QUN5OENmZl8zYzdyMUtnM2FnaFZKQ0VYbzZEazRhSG8?oc=5",
+   "data": "2026-09-25T14:34:47+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo gera 600 mil resgates de cerveja em ação-recorde; empresa esclarece dificuldades",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDg2MFJ2dHRLbHdON3gzdzdTUzNyX1UxMU9yWGRpeWdLYmNoNm92QWZvZEFfOW9zLWhiNHZlUDBhRnVTVUViV3BjXzI3VUFqdTR2T0x3VkZ3by04Yk51MjRUMzhVdlNPMFlqMjlVM0NjSllseWNHQ2FXNUJ2akQwWW9UQ2ZKU3VwM0JsTmZ0RmlPNHgwMENPWnZPN01HdzhNZjJseV9aYkd6alZuamxPWHRjeEtVWlhuQmYyY0hERjM2YkpsSVE?oc=5",
+   "data": "2026-09-25T13:55:25+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Análise: Pedro e Samuel Lino, do Flamengo, têm atuações apagadas em jogo ruim do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXd2d0g5QkhWeUFDV2JDUkZMaFE0N2dTTXUwRHM0MWxPNXRlTjcxUU42WkZjNC1Nc0pzWnMxakdiVUdNcGc1SG5fbEtNWklBX3lJNm1RV1o0QUFOTXNtc1FBT3pISEgya0pCOExiUm1MaDB6czhFUEo3VWFQd2I3N2hXRnJJM2p0STlFUTVPc1VxNzdyUlBMNFpEUDlMSXk3UjhjNUIwWWUxSHc5bzh2b2p5dHlRNXZxQXFYUE0telA?oc=5",
+   "data": "2026-09-25T13:00:05+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim se conecta a Paquetá no Flamengo e usa até conversa em francês",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGwtRVJvdFJjQnItV3ZDcTRTRmZqUklMT0k4TW1yMmt2eEJWR0h5WkJHdnRqRHNZU2RMTDNTUGdIQzJMbHhDaFFJTER1OUJtSmdVQjdIVS03OVlEUGtySllYMENtS0hPQlJEU3ZZcGVwaE5FZmdZVk5KSllfblNuM2dMMG1EV3VadERYQXlPMnB4Mm9HUTZMTjRWQ2Z1RTNKdnV3dERmRnBpd2ZkZEswOFg5NURkQ2ZJcHA2NW9YM0tqTllpeUZZb0FQbjc2cXl0eEx6bEtJYm0?oc=5",
+   "data": "2026-09-25T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
   {
    "titulo": "Patrocinadora máster do Flamengo, Betano quebra silêncio sobre possível proibição das bets no Brasil",
    "link": "https://colunadofla.com/2026/09/patrocinadora-master-do-flamengo-betano-quebra-silencio-sobre-possivel-proibicao-das-bets-no-brasil/",
@@ -42,7 +162,7 @@
    "resumo": "Manifestação da patrocinadora máster vem em meio à discussão sobre proibição das casas de apostas no Brasil A Betano se pronunciou sobre o risco de proibição das casas de apostas no Brasil. A patrocinadora máster do Fla…"
   },
   {
-   "titulo": "Vôlei: auxiliar de Bernardinho assume o Sesc Flamengo",
+   "titulo": "Sob o olhar de Bernardinho, Hélio Griner assume o Sesc Flamengo no Fla-Flu",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUc3QzZCQWY5dEZJY21ZdkFVSWFnbXFkM2FMZmRCNFVjTVhxZnI3cDdRQ3FRbWt2al95VWlFb2poMlRFcHc1UTl0Wk45OHBXLWJKSFBieWNvT2EtOElkRmtQcjUtSERKUV9heGQ3UmdjZ2MyYy1ONm43dExJT09GNldVREEtWkJDeEJ2U1RoWWt0VzcxdHRYcFdhMmp5cXlFYWJfbVpKSEJxN1pTLTdZMks4elBTUQ?oc=5",
    "data": "2026-09-25T10:00:00+00:00",
    "fonte": "lance",
@@ -50,27 +170,11 @@
    "resumo": ""
   },
   {
-   "titulo": "Ex-jogador do Flamengo será titular em jogo do Brasil x Austrália; Pedro e Lino ficam no banco",
-   "link": "https://colunadofla.com/2026/09/ex-jogador-do-flamengo-sera-titular-em-jogo-do-brasil-x-australia-pedro-e-lino-ficam-no-banco/",
-   "data": "2026-09-25T09:35:24+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ancelotti definiu primeira escalação da Seleção Brasileira após a Copa do Mundo O Brasil encara a Austrália nesta sexta-feira (25), às 7h (horário de Brasília). O técnico Carlo Ancelotti definiu o time titular da Seleçã…"
-  },
-  {
    "titulo": "Análise: Jorginho, do Flamengo, segue passos de Filipe Luís e mostra vocação para ser técnico",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZXY1LWdxR053OGFpNHJ0SVIwOTd4YjB6TExzcnFfUGFOZVJ3Smh0azlJeXE2UG5WSjJyM0E4TnlCRWd5QVRfSVpuQjN3NzYzMzJVTDNCX2EwbXFkODNvakhGdmhHQkVDZHU2V2RkajRvUGxaeVMwM3VYOGxLY19XT1dSWlNKdGJZSkQ0MDRQc0tTaHhaU1JYcDBHQjBrRFdYUEh4c1lZRHBDNFhWVEVGdGw5b0U4Y2hMT3ZsYmgwakpEZF9ScDJsVA?oc=5",
    "data": "2026-09-25T09:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jardim se conecta a Paquetá no Flamengo e usa até conversa em francês",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGwtRVJvdFJjQnItV3ZDcTRTRmZqUklMT0k4TW1yMmt2eEJWR0h5WkJHdnRqRHNZU2RMTDNTUGdIQzJMbHhDaFFJTER1OUJtSmdVQjdIVS03OVlEUGtySllYMENtS0hPQlJEU3ZZcGVwaE5FZmdZVk5KSllfblNuM2dMMG1EV3VadERYQXlPMnB4Mm9HUTZMTjRWQ2Z1RTNKdnV3dERmRnBpd2ZkZEswOFg5NURkQ2ZJcHA2NW9YM0tqTllpeUZZb0FQbjc2cXl0eEx6bEtJYm0?oc=5",
-   "data": "2026-09-25T08:36:37+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -106,14 +210,6 @@
    "resumo": "Diretor de futebol falou durante o Portugal Football Summit, dias após o Brasileirão aprovar a redução de estrangeiros por rodada O diretor de futebol José Boto afirmou que vender jogadores não é objetivo do Flamengo. A…"
   },
   {
-   "titulo": "Como o Flamengo venceu o Fluminense no 1º clássico de vôlei da temporada",
-   "link": "https://colunadofla.com/2026/09/como-o-flamengo-venceu-o-fluminense-no-1o-classico-de-volei-da-temporada/",
-   "data": "2026-09-25T01:41:16+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro superou o Tricolor em Niterói no primeiro clássico da temporada, com show de Tainara no saque O Sesc RJ Flamengo venceu o Fluminense por 3 sets a 1, em Niterói, no primeiro clássico da temporada. Assim, o re…"
-  },
-  {
    "titulo": "ESTUDIANTES CONFIRMA PARTIDA CONTRA FLAMENGO EM LA PLATA!",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX242OHExb2ZpcU9YME1wbDJNRTJPN3NWT180UDlPcjJrR0t0TkZWREFFOHh4bDZmOTBUcHJjX1VKeWhPczAyOGRHbWFFNUNNR3kwaXRtQWhxUHpCOE1fU3Y4dXNXUGxpOExic2pOMTZxeDdzRjhSM0Y5OTVDaDlhSjdKY1RDLW9wWGw2d0VmdFBYTHpoeWRNR0ZVc2wtMUdZLXlV?oc=5",
    "data": "2026-09-25T01:32:05+00:00",
@@ -130,44 +226,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Josmar sobe para a vaga de Pedro e ganha nova chance nos profissionais do Flamengo",
-   "link": "https://colunadofla.com/2026/09/josmar-sobe-para-a-vaga-de-pedro-e-ganha-nova-chance-nos-profissionais-do-flamengo/",
-   "data": "2026-09-25T00:39:21+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Cria do Ninho, Josmar tem participado dos últimos treinos com os profissionais do Flamengo Josmar voltou a ganhar oportunidade entre os profissionais do Flamengo. Durante essa primeira semana de Data FIFA, o jovem ataca…"
-  },
-  {
-   "titulo": "CBF define numerações de Pedro e Samuel Lino, do Flamengo, para jogos do Brasil; veja lista completa",
-   "link": "https://colunadofla.com/2026/09/cbf-define-numeracoes-de-pedro-e-samuel-lino-do-flamengo-para-jogos-do-brasil-veja-lista-completa/",
-   "data": "2026-09-24T23:40:29+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Quais são os números das camisas de Pedro e Samuel Lino na Seleção Brasileira? A Seleção Brasileira divulgou, nesta quinta-feira (24), a numeração dos jogadores convocados para os amistosos desta Data Fifa. Desse modo,…"
-  },
-  {
    "titulo": "Ancelotti dá forte declaração sobre redução de estrangeiros no futebol brasileiro",
    "link": "https://colunadofla.com/2026/09/ancelotti-da-forte-declaracao-sobre-reducao-de-estrangeiros-no-futebol-brasileiro/",
    "data": "2026-09-24T22:41:18+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Ancelotti comentou a mudança aprovada pela CBF, que reduz o número de estrangeiros relacionados por rodada a partir de 2027 O técnico Carlo Ancelotti comentou sobre a redução de jogadores estrangeiros no futebol brasile…"
-  },
-  {
-   "titulo": "GRAMADO DO MARACANÃ É TEMA DO “SEDA SEM FILTRO” |",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVHoxYUowUUlZNkE4ZDhYNFdyMlR3cHpQV21BXzFiRTU2ZzlQbkNnUE5CenQ5V2pCT0VQUkZ2WXRtSGVMUHdidFNBZjRoV0lKSW1GVzNBUUQ5cWpXZXVEVE9ad3lFZnF2TFdzR2VjQ25RQnlfSjQ5OFZkUnFPSVZPMWt4MGFETEE?oc=5",
-   "data": "2026-09-24T22:35:41+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Cria do Flamengo, Vinicius Souza revela que pensou deixar Europa para jogar no Corinthians",
-   "link": "https://colunadofla.com/2026/09/cria-do-flamengo-vinicius-souza-revela-que-pensou-deixar-europa-para-jogar-no-corinthians/",
-   "data": "2026-09-24T22:14:39+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Vinicius Souza revelou interesse de clubes brasileiros durante queda do Wolfsburg (ALE) para a segunda divisão alemã O volante Vinicius Souza, cria do Flamengo, afirmou que recebeu sondagens de clubes do Brasil. O inter…"
   },
   {
    "titulo": "Sesc-Flamengo inicia pré-temporada com vitória diante do Fluminense na Copa Super Vôlei",
@@ -184,14 +248,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Maracanã aplica fibra sintética em gramado antes de jogo da NFL",
-   "link": "https://colunadofla.com/2026/09/maracana-aplica-fibra-sintetica-em-gramado-antes-de-jogo-da-nfl/",
-   "data": "2026-09-24T20:59:25+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Qual foi a mudança que o gramado do Maracanã recebeu nesta quinta-feira (24)? O gramado do Maracanã recebeu uma fibra sintética nesta quinta-feira (24). A mudança ocorreu dias antes do confronto entre Dallas Cowboys e B…"
   },
   {
    "titulo": "Conmebol divulga prêmios acumulados dos semifinalistas da Libertadores e Sul-Americana; veja valores",
@@ -346,9 +402,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Tabela e classificação do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PN2xRQmdSUUM3eExnVVQxWDItd3BWOERZcDM5VVZOXy1EMDRsa0hQRUxKRVltQkZsb0ZCalMwYWF0ZHVSRW5xMHRRMjVTRU51S2VR?oc=5",
-   "data": "2026-09-24T11:31:22+00:00",
+   "titulo": "Agenda de jogos do Flamengo: próximos jogos e resultados",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94Rm5XU2V5b3FTWUpCMG84WU5qR3JwNjZZYWt5ZEVxTHp5SlpkeDVHMnk0cWs2SVZkbjg2bEJsQ3lUZGNna2M3VDZjXzNOc1dmdXJsVE1WLVY0SHpEY0E?oc=5",
+   "data": "2026-09-24T11:23:32+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -408,14 +464,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Betano sinaliza risco de encerramento de contrato de patrocínio máster do Flamengo",
-   "link": "https://colunadofla.com/2026/09/betano-sinaliza-risco-de-encerramento-de-contrato-de-patrocinio-master-do-flamengo/",
-   "data": "2026-09-24T00:49:11+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Patrocinadora máster avisou o clube, de forma informal, sobre possível rompimento em caso de proibição das bets; Rubro-Negro já avalia alternativas A Betano avisou o Flamengo, de forma informal, sobre a possibilidade de…"
   },
   {
    "titulo": "FLAMENGO, PALMEIRAS E FLUMINENSE: Datas definidas para os confrontos das semifinais da Libertadores.",
@@ -810,6 +858,14 @@
    "resumo": "Ayrton Lucas preocupa para a Libertadores e Plata será reavaliado pelo Flamengo O Flamengo foi um dos dois clubes a votar contra a redução de estrangeiros relacionados nos jogos a partir de 2027. Durante a reunião nesta…"
   },
   {
+   "titulo": "Gramado do Maracanã em estado ruim acende alerta na NFL para jogo no RJ",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOHRpOXBabUZjUGxvNklCNGtiQVd2QndILWRDYjlJOEpBU0dCYXpxZmlKUzNDMTFMTGVQbEFzWDA1dHJ2NDhWejlLaFN4Y1JKb2lEQmRpMGF5ckFxZjlpNlBQeHFqWV9RdTZsMzVhQ0k4a0o4dGFJYU9sYTZZM2FuVHRtRHRhc1lRVWRjNVNkcklCRHBYV0I3WUEzNTJwaEhnNnVDM2FzQWNYS1FVLVhzcFpObVRXTUp6WXlOUklrTTVWVWpOajRkcW1kNWVwc2x3ZDFJUDc5anZHZw?oc=5",
+   "data": "2026-09-21T20:50:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Dallas Cowboys vai dividir o Ninho com o Flamengo antes de jogo da NFL no Maracanã",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkNuOFFkbG0wTElzaHBGVVg1b09vbDI3MHdtbFRXWlV2dlB5SXJmd2dwSmZWOXVtN0lVSm9XTktjcjdrcGpqTGdLazN2OEFOYmM5TVRORTRVQ05NMVNhT0xjNm8zcnZ6RTNJX2lFVDh5WERVU1hRY3lmS1BKY3FCSW9yRlhFX2c1ZkhCc0V4TWl5SkFaVk9wcm9ibmZKYXl4ZkVZUzZtSnBIZF9JQkYybzl4V2tNLTA4STEyT2IxbDRwV21PeXJtWFJB?oc=5",
    "data": "2026-09-21T20:39:27+00:00",
@@ -837,6 +893,14 @@
    "titulo": "Santa Cruz supera público de oito jogos da Série A e fica atrás apenas de Flamengo e Grêmio",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUTRTaFNaRWljbnkwSWgzQ3J3cW9XU25kMnNKTGhKTVpXTXVoVEYwbUpVcTZhWXozS1FSU1hpWUtBSFp0Sk1fakMzelZPTm4wNVBBVmF2VGVRNHAybm9tNjlrUWtpRnFxZlVtVHdNMWdFVGd2VGJRZFJYb0wtOUpKYVVIUkJBeEtyV01aeERuME1XSmFrZXctUzZOaVozU190X21icG1sdlUyMldmVEp2ZUVUbFREWk9kSjk0NEVWQy15dnEwSnBrLVlkNFpyVW0xaWhtUkhpMUIwMEgtTzJmQ1pEa3dqTG1uVkFfOFlR?oc=5",
    "data": "2026-09-21T18:45:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "NYT: Gramado do Maracanã preocupa times da NFL antes de jogo internacional",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUFmLWNkaU10Z3djLUVnTFRZMkZBUHdJcDRUVGdHYmF4WWVFR21tZlkyc0FYa0I1WjFIQjA1UmZYQUxrLUdxbXN4V28zSF80eWlQT09aZ2J2dVpmcW1TSGZMR0xmTTVWV2ZUMDg4UmxCQ2M1a0JQdFFmZlB2b2l0c09JWnVFSlp6bjlKQXozZnpwbGs0eWk1blpYQzhlNE5lUnRmWTFRamNRdjZFN0M2c0Z3NUhXOThnVm12ODNtZ3pTQjZqcEpaNTN1UUhoODB5cU93?oc=5",
+   "data": "2026-09-21T18:44:29+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -954,6 +1018,14 @@
    "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 Pedro viveu uma montanha-russa de emoções no último jogo pelo Flamengo antes de se apresentar à seleção brasileira para a Super Data…"
   },
   {
+   "titulo": "Flamengo aumenta chances de título do Brasileirão após tropeço do Palmeiras; VEJA probabilidade",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qUUlnSV9tNXYxZVBubWFQSTVTZ1FuR0hDNmlVLXVWcjd5bHpLSVd1bmRyVG95YXRISlRLeFh3Ty03ajVURjlXam4tQkpKdVo0LXFwcmd4LURsVFNpaWc?oc=5",
+   "data": "2026-09-21T12:13:09+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Saúl desabafa e não descarta saída do Fla: 'Todo jogador quer jogar'",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3c0SDloS0Z6c1VXS1BNTGNYUDBwVUpXb01MS2hRc3c5VWJqTGowM3FDZGhXREhRQ3QwS2lKekpUOW14Y21nY1dtQTFUOXZGLU1iUUYtLWZLZlo5LWlBbFZwUFc2ajB2RXJOZjA4aHVDZVpKbVRvWC04YW5iTkdOeG5Od0k2VEotUTZIeEdVSEVpeWx3Y3RhdU5VWHVTaGQ1UkZJdDN0Z3JBcTJNYmdxQzdVZFpwUFQ0aDVVQ3pLdHBiT3lic2FmZzJrZE05MDV5TUNn?oc=5",
    "data": "2026-09-21T11:25:17+00:00",
@@ -967,14 +1039,6 @@
    "data": "2026-09-21T11:22:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Red Bull Bragantino: onde assistir, horário e escalações",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGctUlFRdFVJeVJfWkJma0Q0VW1WaWFOQ3p4V0wtYlU1TVVabnpHY1ZudzZFMkhQckFKXzZYbFVPWVJqZFB1cENXbWhhOUZ3OWFmU0U4Z3k4UEFPaDRTdFZKYTdmTlNEcl9VUHhjcTItY0Zxa25OaTYtX25OOXNQUHAzSXYxVFJKMmxXV2NEMlA4ZjZhZUtTRGhaam8wejg0cnFuZGJYalJMWS1EdHAxbzNB?oc=5",
-   "data": "2026-09-21T11:19:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -1168,70 +1232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Atuações do Flamengo: Jorginho, Saúl e Varela são os melhores; dê suas notas",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/20/atuacoes-do-flamengo-jorginho-saul-e-varela-sao-os-melhores-de-suas-notas.ghtml",
-   "data": "2026-09-20T23:42:39+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 Initial plugin text Jogadores do Flamengo contra o Bragantino André Durão 🎧 Ouça o podcast ge Flamengo 🎧 Assista: tudo sobre o Flame…"
-  },
-  {
-   "titulo": "Flamengo vence o Red Bull Bragantino e abre 3 pontos de vantagem para o Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTGhVTWlva2x6NWNwbG9ZeFBqcDZydkRUTV9UVzZaNTVQRkpseURxLUc1QmFwd0xic1N6OExfMy1qM0x1aTdNM3BZN3o2Mkd4bTN4TWt6aWJGQW5PNVIxTFVlRmNIWGNHOWxZbUJiNF81ZVRQeHFWLVEyX2h6OW1MUm53Z01xWFN5WDM2S1RSQmp4QkZ2ajJDWkVMSW1mSG5sM0EyeGMzc1pMRl8ySURSaGN3cHNmR1A5V2ZzMjRiWWxEZHVnRkJUeklFWDZYYjhWVFF2SU41dWRRZ2gyWG1NZ1M0RENLXzQ?oc=5",
-   "data": "2026-09-20T23:36:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo 2 X 0 Red Bull - Gol Pedro - Brasileirão 2026",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3QtbHRQNl9vVTVaWENJd2pkQkZrQTk3V0F3U1lKQjRCMHd6QWtDdzZwUzlCQUt0Y0VhYlJUenFGd2xvZ0tVQXMyR0JpS3o3NDhWbFpIVnFJNE5YNzdpSWk2eHpCSEpBRlQybnFzenRwLWVCbWZyMTlnUzNXZ0Z0YjRsZk4waG5MamNIVUVkdTdFX1hWTWg3cEIydlZqdE5YRmZYb08tUDl0RGxz?oc=5",
-   "data": "2026-09-20T23:31:33+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Juca Kfouri: Flamengo volta a perder gols, mas abre dianteira sobre o Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDBQOXlLVDVSX1BfOTdob2RsMEpWUWs1OVR2d1hycG5fM0VmSk5PSkpNZlFvRk1EZjVhd3FWRzZJU0NaR2hhWkxLV3kwTkctd3B1OTBKYW9DRU5hVkhNWF9xRldWcDBGNnFlcjRZQ3p6b1Y1NlctTEZMU0JiRVVnXw?oc=5",
-   "data": "2026-09-20T23:30:58+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo vence Bragantino e abre vantagem; Pedro se irrita com substituição",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVZGcEpkRkVib0Y3NWJyZ3NzdHRJbVBxTTJOZTI4bHI1M3JseTh4cmNWUThZb0x2T2E2c24xY1lGR0pMY3pMN05xNXZOZHdzN28wUzVocFplWktzZzl4MWVVRkExcnhSekwxeUxUVk5VRS1fWkE0LWpUbmpLQ25mcVFFTVlmX0tqTlNzNnNFTnJINnBxTVc3eUhEaHd2ZUFRRFUtLVEtVVJjQUx1bDVJMXZLRUFuSXQyY29oSWx3Ylo0c05xV21xRGplUQ?oc=5",
-   "data": "2026-09-20T23:30:52+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo vence Bragantino e abre vantagem para o Palmeiras na liderança do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkk0MTdreTdFQkl5WEQ2Ql8xRmRKLXhBQUFuTndwd3F0TVRqR2NiM3R4eV94ck5ITHZJcEZ6NUwyNkJzS0NIdnhZeGRyUFBXTG9TbUpiQjlYV3pyb2hMaFVWR2w2Vld1b1VqaGJJdFF3ckpuU1ZDU0pPdzhSazJhUmQxTWJHVjVid1BUdF9CdWRMVm5KRmIxSW10bmhoNGtxM2VNdWtwLW1qc1MxS19vNy05eHhkS0diY0UtaUdWbVVZbG8?oc=5",
-   "data": "2026-09-20T23:30:47+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo bate Bragantino, vence a quinta seguida e abre vantagem sobre Palmeiras na liderança do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVEN2ck9KZjhMWXJjaTNfVlhRYUFpeER6WmV5OGM2Wnd0THF5NUxhY1JEd0lfeDV6OGJIalNKT1h5M2p0dXhEeFFKdmEweDlJQnU3VGRpRm90R2daYVBQeGVkVVVOV2llcXNrMGpGandKdkZsQkJTeG5BMEd5MzhGQnF2dkVoTEp2Z1p6N1FjUUtfekZQdEZXMDJDOG5KRC1vcWhnY3JncmVJWWI3VF9hZmNWTk5Jbmhsd3BxdlZQbkNMMllkZ0diOWVTZGljZ0gzUjdSUWh1SUVTejZGd3h0dnFKTEVtLXlUbk56UA?oc=5",
-   "data": "2026-09-20T23:30:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Pedro reclama com Leonardo Jardim ao ser substituído no jogo do Flamengo: \"Todo jogo?\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/20/pedro-questiona-leonardo-jardim-ao-ser-substituido-no-jogo-do-flamengo-todo-jogo.ghtml",
-   "data": "2026-09-20T23:11:18+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Pedro reclama com Jardim ao ser substituído: \"Todo jogo?\" O atacante Pedro não ficou feliz ao ser substituído por Leonardo Jardim na vitória do Flamengo sobre o Bragantino, neste domingo, no Maracanã, pela 28ª rodada do…"
   }
  ]
 }
