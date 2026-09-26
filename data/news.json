@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-26T19:44:04.216410+00:00",
+ "atualizadoEm": "2026-09-26T22:40:51.492594+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -23,23 +23,71 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 60
+   "itens": 59
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 68
+   "itens": 64
   }
  ],
  "itens": [
   {
-   "titulo": "Quantas derrotas o Flamengo tem em 2026?",
-   "link": "https://colunadofla.com/2026/09/quantas-derrotas-o-flamengo-tem-em-2026/",
-   "data": "2026-09-26T19:15:49+00:00",
+   "titulo": "Aprende, Ancelotti! Ex-Flamengo, Jorge Jesus é sincero sobre jogo de Portugal x Noruega: “Não terei medo nenhum”",
+   "link": "https://colunadofla.com/2026/09/aprende-ancelotti-ex-flamengo-jorge-jesus-e-sincero-sobre-jogo-de-portugal-x-noruega-nao-terei-medo-nenhum/",
+   "data": "2026-09-26T22:29:06+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo tem 11 derrotas na temporada 2026 A temporada 2026 ainda está entrando na reta final. Mas, o Flamengo já fica ligado com a possibilidade de conquistar mais dois títulos: Brasileirão e Libertadores. Para isso, a…"
+   "resumo": "Noruega eliminou o Brasil nas oitavas de final da Copa do Mundo 2026 Jorge Jesus estreou com vitória como técnico de Portugal. Na quinta-feira (24), os europeus venceram País de Gales por 1 a 0, com gol de João Félix, e…"
+  },
+  {
+   "titulo": "Rival do Flamengo na Libertadores, Estudiantes perde final que termina em briga; veja",
+   "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-argentino/noticia/2026/09/26/rival-do-flamengo-na-libertadores-estudiantes-perde-final-que-termina-em-briga-veja.ghtml",
+   "data": "2026-09-26T22:17:11+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Confusão entre Estudiantes e Rosário Central na final da Supercopa Terminou em grande confusão a Supercopa Internacional, da Argentina. O Rosario Central venceu o Estudiantes por 3 a 1, no Estádio Jorge Luis Hirschi, em…"
+  },
+  {
+   "titulo": "Estudiantes ganha 'problemas' antes de jogo contra o Flamengo, leva dois de Di María e perde título na Argentina",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPXzVWOTFpREQycmRZSHNXc3Z3SUtaaDFVZjhhNGxQemE0WUVhakxpT2x0V2RwekdsazhfR3AtbmpYdHNaWEtTMWJZd3U3U2F6NnpqdFl2QVJPUzZfblYwamxhUHcxZ1JlNGk5TGJiQm41SkVBVjl6cmlVRkhCdjZORmRSckNBb3hCNlJQcGxzbnlab2EwblQtSTdwX2hmX0FXMTF6amx5T0E1Xy1XVV9ZOVd0M1RoTGkxcHFtVFlhTW1MeHFpbkRqRTNOZERvWXRGSko0SjA0ZExxUzZKMngySDdXZw?oc=5",
+   "data": "2026-09-26T21:48:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Preocupa? Gráfico destaca aproveitamento do Flamengo com e sem Plata em 2026",
+   "link": "https://colunadofla.com/2026/09/preocupa-grafico-destaca-aproveitamento-do-flamengo-com-e-sem-plata-em-2026/",
+   "data": "2026-09-26T21:42:45+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Gonzalo Plata, Ayrton Lucas e Evertton Araújo possuem lesões musculares no Flamengo O Flamengo utiliza a pausa da Data FIFA para recuperar três jogadores que, quando ausentes, diminuem o aproveitamento do time na tempor…"
+  },
+  {
+   "titulo": "Adversário do Flamengo na Libertadores, Estudiantes perde final da Supercopa para o Rosario Central com show de Di María",
+   "link": "https://colunadofla.com/2026/09/adversario-do-flamengo-na-libertadores-estudiantes-perde-final-da-supercopa-para-o-rosario-central-com-show-de-di-maria/",
+   "data": "2026-09-26T21:23:20+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Quando serão os jogos entre Flamengo e Estudiantes (ARG) na Libertadores? O Flamengo aproveita a pausa do calendário brasileiro durante a Data FIFA para se preparar visando a semifinal da Libertadores, contra o Estudian…"
+  },
+  {
+   "titulo": "Sesc Flamengo x Dentil Praia Clube: acompanhe em tempo real o jogo pela Copa Supervôlei",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkFMUk81YTdBQUZQbjMwZHliSlgzWFc0a2xkeHNHaFc0VmdJNDRxT1BSVFhqd1ZqZkxSWXk1UWsxYzZXSnlhb2J4VFRhT1ZmLVVuck11YkJWSlNYd2dYdEFPWFZzMGhMazF4Q3J6ZnlETlJreFNpdHBaYUhoSDlLSWRmXzlyc1hrNXZFbDRKRG1ILV9vTXQxUVBNZkxhdHktdkh1N0hvN2VCMkVsSERKd2Y0MDl0SU1qXzJ6QkxQQQ?oc=5",
+   "data": "2026-09-26T21:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ídolo do Flamengo, Jorge Jesus detona redução de atletas estrangeiros no Brasileirão",
+   "link": "https://colunadofla.com/2026/09/idolo-do-flamengo-jorge-jesus-detona-reducao-de-atletas-estrangeiros-no-brasileirao/",
+   "data": "2026-09-26T19:45:30+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Medida recebeu críticas contundentes de Jorge Jesus, técnico ex-Flamengo, que aponta falta de qualidade nas base A Confederação Brasileira de Futebol (CBF) definiu uma nova diretriz em conjunto com os clubes para diminu…"
   },
   {
    "titulo": "Praia Clube x Sesc Flamengo na 'final' da Copa Supervôlei: horário e onde assistir",
@@ -58,22 +106,6 @@
    "resumo": "Flamengo é um dos clubes na linha de frente contra a proibição das casas de apostas A recente decisão do Governo Federal de proibir a operação de casas de apostas esportivas no Brasil provocou uma reação de revolta nos…"
   },
   {
-   "titulo": "Ortiz vive ‘dia de fã’ e Royal brinca com atletas da NFL em treino no CT do Flamengo",
-   "link": "https://colunadofla.com/2026/09/ortiz-vive-dia-de-fa-e-royal-brinca-com-atletas-da-nfl-em-treino-no-ct-do-flamengo/",
-   "data": "2026-09-26T17:20:52+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Dallas Cowboys e Baltimore Ravens está agendado para este domingo (27), a partir das 17h25 (horário de Brasília), no Maracanã O Centro de Treinamento Ninho do Urubu virou palco de um encontro marcante entre o futebol tr…"
-  },
-  {
-   "titulo": "Flamengo perde em casa para o Fluminense e cede a liderança do Carioca Sub-20",
-   "link": "https://colunadofla.com/2026/09/flamengo-perde-em-casa-para-o-fluminense-e-cede-a-lideranca-do-carioca-sub-20/",
-   "data": "2026-09-26T16:28:49+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro acabou superado pelo Fluminense pelo placar de 3 a 1, no Ninho do Urubu A caminhada perfeita do Flamengo na Taça Guanabara Sub-20 chegou ao fim na manhã deste sábado (26). Em clássico disputado no Centro de…"
-  },
-  {
    "titulo": "Léo Ortiz e Royal vivem dia de fãs em treino do Cowboys no CT do Flamengo; veja imagens",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/26/leo-ortiz-e-royal-vivem-dia-de-fas-em-treino-do-cowboys-no-ct-do-flamengo-veja-imagens.ghtml",
    "data": "2026-09-26T16:24:16+00:00",
@@ -88,14 +120,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "NFL usou técnica para costurar fibras sintéticas à grama natural no Maracanã Neste domingo (27), o Maracanã vai sediar o jogo entre Dallas Cowboys e Baltimore Ravens, pela NFL. Antes do confronto, o gramado do estádio f…"
-  },
-  {
-   "titulo": "Quantas vitórias o Flamengo tem em 2026?",
-   "link": "https://colunadofla.com/2026/09/quantas-vitorias-o-flamengo-tem-em-2026/",
-   "data": "2026-09-26T14:41:47+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo tem 31 vitórias na temporada 2026 até o momento A temporada 2026 ainda está entrando na reta final. Mas, o Flamengo já fica ligado com a possibilidade de conquistar mais dois títulos: Brasileirão e Libertadores…"
   },
   {
    "titulo": "Quatro reforços da Europa no Flamengo? Boto indica nomes no mercado",
@@ -130,7 +154,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo bate recorde de público no Brasileirão; veja média",
+   "titulo": "Flamengo domina ranking de público e estabelece recorde no Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTJKQ1VBNXlBRnliTVJuRVhwZnRxbUh1bjJ2T3lpYXZfVExDUVJQZF9JdjE0c2otRmR2bC13NzdCeXFqVEZQMU9wSEJsUldabk91eVJ6UHRmYThGdE1Sb3Y1SWN6bFZiLUhiVW5OU2pvb2o5SDlwaThzN0pWT3Q3RjRla3dMMmJWSjdvaVFBMnQzTUJMUmpfNzlfRGdrdnd6OUxjYkZDbFVZdUJpNHc?oc=5",
    "data": "2026-09-26T09:00:00+00:00",
    "fonte": "lance",
@@ -312,14 +336,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Jogadores do Flamengo dão suas opiniões após churrasco de Arrascaeta O Flamengo tem se notabilizado pela formação de atacantes em suas categorias de base. Se Joshua e Josmar são destaques recentes, há mais esperanças de…"
-  },
-  {
-   "titulo": "Boto diz que gostaria de contratar 4 jogadores do futebol Europeu para: 'Com certeza cabem no Flamengo'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LU1BMcXdBWmpSUy1qUmZ6Sl9pVVpVci1TTmJ0aHVxb3VFanBLa3JXZVNxeG1fNWF1clJGcXpLZG5YV3VjeXJYM0k2RWZHd2lFMXRZVDlWVS1mZm81eFE?oc=5",
-   "data": "2026-09-25T19:37:56+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   },
   {
    "titulo": "Josmar aproveita ausência de Pedro, treina nos profissionais e tem nova chance no Flamengo",
@@ -647,14 +663,6 @@
    "data": "2026-09-24T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "No Sesc Flamengo, Laís mira volta à Seleção: 'Não é cadeira cativa'",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2JzTkFnMmduVWJpVGhROWhLaVlhLUtFZGVKakI3UUR2TXRXWVpjZDZtbVdXWmQ2dXdNWHQycUhQVWNPakNKZkJyaFRxVVNNSGFBSDRFekZlRzhXaktIYzZPV1AxcVduYmQtclNwZHhNRjZQY0Q2MVMwZ3BKNkkzX0FFeGVud2Uzd09oU2RNYWRHZzdTd3BLakVVTUJ5bkVl?oc=5",
-   "data": "2026-09-24T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -1224,14 +1232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Pedro vai da irritação ao abraço em Jardim, encerra seca no Flamengo e projeta ida à Seleção: \"Cabeça feliz\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/21/pedro-vai-da-irritacao-ao-abraco-em-jardim-encerra-seca-no-flamengo-e-projeta-ida-a-selecao-cabeca-feliz.ghtml",
-   "data": "2026-09-21T13:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 Pedro viveu uma montanha-russa de emoções no último jogo pelo Flamengo antes de se apresentar à seleção brasileira para a Super Data…"
   }
  ]
 }
