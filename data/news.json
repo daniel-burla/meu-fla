@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-26T07:32:52.374630+00:00",
+ "atualizadoEm": "2026-09-26T12:24:12.590258+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 27
+   "itens": 25
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,64 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 59
+   "itens": 58
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 70
+   "itens": 71
   }
  ],
  "itens": [
+  {
+   "titulo": "Elenco do Flamengo recebe fim de semana de folga",
+   "link": "https://colunadofla.com/2026/09/elenco-do-flamengo-recebe-fim-de-semana-de-folga/",
+   "data": "2026-09-26T12:23:42+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Sábado (26) e domingo (27) será de descanso para elenco do Flamengo O Flamengo venceu o Red Bull Bragantino por 2 a 1, no último domingo (20), pela 28ª rodada do Campeonato Brasileiro. Na segunda-feira (21), o elenco ru…"
+  },
+  {
+   "titulo": "Rodrigo Mattos: Por que o Flamengo estima prejuízo em R$ 400 milhões com veto às bets",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdnlVdm9yV3RjWHg1SG9Jd3ZwQ0pVdnBGaTVqQ0lQSVRBUm96Qll5emF1aGxjdVhNME5nczJJVmRWdkhMMW9rT2cxRVRtZUJaQThKblB0azRlcnVKc3JDQ0x6QWxGdmt2S3JhVkxSUGxsTjQ1VjV1YkJnbVJGYkFMUjBBT2c0aHlIeVR0eXpmakJVbXR0RVdXSzF3al9IcTNIcXZlMmp1X3o5Y1pRU1BHOTVCTnJpSkg5RXgwVGJFdjYxdXZKSEp4MFlGSWtzWmVSRnEw?oc=5",
+   "data": "2026-09-26T12:03:48+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Lorena comenta potencial rivalidade em Sesc Flamengo x Praia Clube",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWpDd3ptbkp5aERRQlh3dkl0WmZ2dHU0M1hBY3B6eEFnSE5kUnViSE5wUWY4eW5BZVhhLUJHQ1BIN3J6OXM1dnEwZXpYQUYxRi1fc1pfX0FUQkJoN2c1OUc1TnlwNkdkTWJYanJIODQ1Vm9INWg1VGhETU5zLUEwYzdIV2toTkdZaWZGMHFuaGwzeks2NlpVU0twR1RESjk2LW85bw?oc=5",
+   "data": "2026-09-26T11:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vale taça! Sesc Flamengo e Praia Clube duelam pela Copa Supervôlei neste sábado",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEhfWTZpYjVyQVYzWlVYWEtpVXY3UllpOGg4V0RPX2U1Y1RVVFJfd2JoeXFjS2hmX3MzSFpnRGN3OU0tM0EySmhyX2lzM2QtWDdDdHdzcHQ5QmlQWFRlUWpiSzJvdUhubVpkd1N0dEtWYVNOaEoxMWxaZmlLSDRfNmwwOWNMVEhsYkVVLWFqNXFzV2duRzV1ZkZYMnRfOGVJSDJocnZaRDg3enNRcHIwZFh5RWo?oc=5",
+   "data": "2026-09-26T10:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo domina ranking de público e estabelece recorde no Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTJKQ1VBNXlBRnliTVJuRVhwZnRxbUh1bjJ2T3lpYXZfVExDUVJQZF9JdjE0c2otRmR2bC13NzdCeXFqVEZQMU9wSEJsUldabk91eVJ6UHRmYThGdE1Sb3Y1SWN6bFZiLUhiVW5OU2pvb2o5SDlwaThzN0pWT3Q3RjRla3dMMmJWSjdvaVFBMnQzTUJMUmpfNzlfRGdrdnd6OUxjYkZDbFVZdUJpNHc?oc=5",
+   "data": "2026-09-26T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Estrangeiros e bets: Fla vê derrotas em articulações na CBF e em Brasília",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMEpaUUZyUFlyTE4ta2IwQUdENUtMX2c3bjlhR3h0TUJDSG9ZN0lVclB0QlVJRG02bDBraWEzdk1oQXNEYlFIaUVkMzNrRGd5dDF5N2Q2RmQ1Zi0tRXlVRVc0NWRkTFBDVzk1Sm93c09RQW0tUW1sdUl0a0dfYmpJY2h0YmswMm9hNzUzdFV6dTcyYTcwTWZtMW9yNEt1czBXZkdEM3o3ajc3czJJS3BVZkNEVm80cHY5M0NVYW50YWt6bjVUU0xpankzbS0?oc=5",
+   "data": "2026-09-26T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
   {
    "titulo": "Flamengo prega cautela com Valencia e confia em evolução; Jardim revela planejamento: \"Jogador que acredito\"",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/26/flamengo-prega-cautela-com-valencia-e-confia-em-evolucao-jardim-revela-planejamento-jogador-que-acredito.ghtml",
@@ -96,14 +144,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Comandante do time sub-20 do Flamengo no Mundial do ano passado, Bruno Pivetti é o novo técnico do Náutico Ex-técnico do sub-20 do Flamengo, Bruno Pivetti tem um novo desafio na carreira. Nesta sexta-feira (25), o trein…"
-  },
-  {
-   "titulo": "Vinicius Souza aponta “realização de sonho” ao falar sobre futuro retorno ao Flamengo",
-   "link": "https://colunadofla.com/2026/09/vinicius-souza-aponta-realizacao-de-sonho-ao-falar-sobre-futuro-retorno-ao-flamengo/",
-   "data": "2026-09-26T00:26:48+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "‘Vinição’ se formou na base do Flamengo Um dos destaques do Wolfsburg (ALE) em 2026, Vinicius Souza revelou que deseja voltar a vestir a camisa do Flamengo na carreira. Revelado pelo Rubro-Negro e integrante do elenco c…"
   },
   {
    "titulo": "Jogadores do Flamengo imploram para que Saúl seja banido do Instagram",
@@ -274,7 +314,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Boto, do Flamengo, brinca com Abel, do Palmeiras: 'Tiro o chapéu'",
+   "titulo": "Boto projeta final entre Flamengo e Palmeiras na Libertadores e elogia Abel: 'Tiro chapéu'",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVUtY20xWUZ6V1lSblJqMmJZNlJvc2ZfLWZlNFY2Vl9GN3JLLVhRdFJhSkpxeDFoZ05mNEFKZHZoeFh6UXNCLXA1UUVoN0t0al9peW9xaG1lcGlIeU92MkVVM21pUzA5Mm01djNuMTVYSldESFdjbWN4R2s5eFA2ZTBQM1hEenRWcDNVZmpPby1reGthaXdldXJ1NUVySmR5aG80NEcteVZBY2V3cGIteFNDVVVZTk5fcUszUEtRSnhLYmxE?oc=5",
    "data": "2026-09-25T17:51:32+00:00",
    "fonte": "lance",
@@ -314,7 +354,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo quebra o silêncio sobre possível fim das bets no Brasil",
+   "titulo": "Flamengo se manifesta sobre possível fim das bets e alerta para impacto no esporte",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVkhKWHZtZGE2UXhlV2hOeDhsR3YwTXdfejMwVFkxQVprNGl1VUozZjZCNTVwY0lFV2RXdnRzQ0lhNS1vNlQtcGxEZUFyZHgyeXE0YVhHZGNCNVBubzBFTkd3Uk5Ndi03VDBLSDd3UzVaajAzRC1JdDlQdmNUVUk0VXg5bUR6ZFhxa1ZKR1plR0xFamdjYnpxSVFGRlpRX2ZYUGR6M2ZTYTdWT0p2VVZBTTRxYTBiZzBMZ2pTRFZn?oc=5",
    "data": "2026-09-25T16:49:59+00:00",
    "fonte": "lance",
@@ -599,14 +639,6 @@
    "data": "2026-09-24T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Agenda de jogos do Flamengo: próximos jogos e resultados",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94Rm5XU2V5b3FTWUpCMG84WU5qR3JwNjZZYWt5ZEVxTHp5SlpkeDVHMnk0cWs2SVZkbjg2bEJsQ3lUZGNna2M3VDZjXzNOc1dmdXJsVE1WLVY0SHpEY0E?oc=5",
-   "data": "2026-09-24T11:23:32+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -1200,38 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 Pedro viveu uma montanha-russa de emoções no último jogo pelo Flamengo antes de se apresentar à seleção brasileira para a Super Data…"
-  },
-  {
-   "titulo": "Saúl desabafa e não descarta saída do Fla: 'Todo jogador quer jogar'",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3c0SDloS0Z6c1VXS1BNTGNYUDBwVUpXb01MS2hRc3c5VWJqTGowM3FDZGhXREhRQ3QwS2lKekpUOW14Y21nY1dtQTFUOXZGLU1iUUYtLWZLZlo5LWlBbFZwUFc2ajB2RXJOZjA4aHVDZVpKbVRvWC04YW5iTkdOeG5Od0k2VEotUTZIeEdVSEVpeWx3Y3RhdU5VWHVTaGQ1UkZJdDN0Z3JBcTJNYmdxQzdVZFpwUFQ0aDVVQ3pLdHBiT3lic2FmZzJrZE05MDV5TUNn?oc=5",
-   "data": "2026-09-21T11:25:17+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Retrospecto da reta final indica caminho do Flamengo ao título; Palmeiras, Vasco, Grêmio e Inter terão que evoluir",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPR0lKR1hDdjJtbVprZV9mbVVMUWNYSURfTGhHdlFoQUR0VVFNRkMyTmRNR1Z2V2FQR0ZnbE4xa2Z0SmpjUXVhMFcwT3I4eFZkbnpRR2NXY2tOcXd5R09hcUdzTGpneGlKNGF6eUlfX3hkZHowUy02ZV9hYlVyek9RQUdaVC1DT1MzQ2lNLTVXTnh1ZE9FcjA0djVOVnF3bnBzdTA5X29XOTcwSDl0TV8wUWZqZnF0cFRMeG9jMEtveDl1RUdVV3FnWC1vN1dmNWVabmFmWDdFVVRRSmF1MDFJWWktWGZQVWlxRFl4Mmp0WjllajRXTWc?oc=5",
-   "data": "2026-09-21T11:22:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo dispara após tropeço do Palmeiras e chega a 76% de chance de título do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenhWUUtrclFuTm51aUxoRVJBMDVsOFRudlNMQXI5RWJhbVFJZzRDZFNoMGJtUEtxS0NSbEJhRkpQUVpHSzNYYllWdXFFWjRxQzRVbEx1bGpCbEJkTkd2MUIxYXk1cHZpcFNUZ0VoRFdaLUIzNkpJbDNzWlkwUFBqYUVmR3FucEQ5RHlJbmIzYXY0dXN0YWJnRXZvWmhPakF4VlUtNkVrVFIzYklpMVZUZjBuLTJmckdtNFJwN0JSS0pRa1lZY0oyN1FTeVpITTVDSUdXUDh3WGNvSUZhZEE?oc=5",
-   "data": "2026-09-21T11:17:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Classificação do segundo turno: Flamengo continua na liderança, e Santos sobe para o terceiro lugar",
-   "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/21/classificacao-do-segundo-turno-flamengo-continua-na-lideranca-e-santos-sobe-para-o-terceiro-lugar.ghtml",
-   "data": "2026-09-21T11:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 Chegada ao fim a 28ª rodada do Campeonato Brasileiro, o líder Flamengo aumentou sua vantagem na ponta de cima da competição. E, além…"
   }
  ]
 }
