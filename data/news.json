@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-26T22:40:51.492594+00:00",
+ "atualizadoEm": "2026-09-27T01:20:04.089727+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 25
+   "itens": 26
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,80 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 59
+   "itens": 61
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 64
+   "itens": 65
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo vence o São Paulo e conquista título internacional no Feminino",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWEE0aG0zblQ2RV9VcUFLQnplM0FVcUE3RXVJRFVDVkx0WVRnWWZ1cGFjSUxQMHRaTE5CSjR5RktfRFc4dmdRMVRXbmNmM3I4OUtMeUVFUDEzbndrTkxHVnk1bm1pMmNZRFEweUhIaE42R1VlaHlBVnMyNENqQlJncVcyanhjQ0xCUVdsQmIydmx3Mm42ZFdHVmx2WndrTTU3SVpyclhKd1dmX2lPUmRqamVJVHhnUGtYR3c?oc=5",
+   "data": "2026-09-27T01:07:25+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo vence Praia Clube após virada espetacular e conquista título da Copa SuperVôlei",
+   "link": "https://colunadofla.com/2026/09/flamengo-vence-praia-clube-apos-virada-espetacular-e-conquista-titulo-da-copa-supervolei/",
+   "data": "2026-09-27T00:50:28+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Torneio amistoso de vôlei teve fim neste sábado (26) O Sesc RJ Flamengo venceu o Dentil Praia Clube de virada por 3 sets a 2, neste sábado (26), na Arena Niterói, pelo segundo jogo da Copa SuperVôlei. Com o resultado, o…"
+  },
+  {
+   "titulo": "De virada, Sesc Flamengo bate Praia Clube e é campeão da Copa Supervôlei",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnZDdy1kNUZnYm9hR1paUlYyazdBUUdVM2tPYXhZcUNPUjFkNkVpU09VUXF1eC1odE1ZZXJBVGo3bHY4cU9CX1o3X3ZnZ201VnNoMFRvbTFzRGtEM0dqRjAwRE5QRjhnMXU2WHNKZlQ5ajRQUE1BMUNJVkluUk1IYUxueEl6Qk9vYlFqb2ZJeEtybXdzWnItRE9zNGJ4d0h5MlpZLXNYTTVaVE0?oc=5",
+   "data": "2026-09-27T00:40:27+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "CEO da Adidas exalta Flamengo e projeta futuro da relação: “Parceiros para sempre”",
+   "link": "https://colunadofla.com/2026/09/ceo-da-adidas-exalta-flamengo-e-projeta-futuro-da-relacao-parceiros-para-sempre/",
+   "data": "2026-09-27T00:32:29+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo possui contrato válido com a Adidas até 2029 A Adidas voltou a destacar a importância do Flamengo no futebol brasileiro e deixou aberta a possibilidade de novos projetos com o clube no futuro. CEO da empresa, B…"
+  },
+  {
+   "titulo": "Sesc Flamengo x Dentil Praia Clube no tie-break: acompanhe em tempo real o jogo pela Copa Supervôlei",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkFMUk81YTdBQUZQbjMwZHliSlgzWFc0a2xkeHNHaFc0VmdJNDRxT1BSVFhqd1ZqZkxSWXk1UWsxYzZXSnlhb2J4VFRhT1ZmLVVuck11YkJWSlNYd2dYdEFPWFZzMGhMazF4Q3J6ZnlETlJreFNpdHBaYUhoSDlLSWRmXzlyc1hrNXZFbDRKRG1ILV9vTXQxUVBNZkxhdHktdkh1N0hvN2VCMkVsSERKd2Y0MDl0SU1qXzJ6QkxQQQ?oc=5",
+   "data": "2026-09-27T00:30:37+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Estudiantes, rival do Flamengo na Libertadores, perde final na Argentina, e jogo acaba em briga",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUDZEWWtJSTFoamI0TDZTQndXRmppV3FZaU1IQklPY2VnZ09MNVFZMUlpMWdLNEk0c2Joa01QcEgzTFRRTnMtUGE3al9wbnlQUHYxRW5obzhMSnhncFNLMDh1eHVZN0ZYOHo2ckRBa2NMTXBITEhPX3ZMZkR5bWpwVHBVOWpDeXlPRENPNm5LS1lkTW1ZTl9YTGVKTUlkOF9KeVN5LWIyZXA5N2NvTTQ0Tkl2cWpseDJGdEozSFJ6T0FzeW15T2VZNFJ0bkxmUldxa2VkRnNld2l6Um1ZQzluRElRYzZBOUR4UWptVFkxX2lLNHUzUHc?oc=5",
+   "data": "2026-09-26T23:45:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "José Boto convoca torcida do Flamengo para reta final de 2026: “Confiem no nosso trabalho”",
+   "link": "https://colunadofla.com/2026/09/jose-boto-convoca-torcida-do-flamengo-para-reta-final-de-2026-confiem-no-nosso-trabalho/",
+   "data": "2026-09-26T23:30:13+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo disputa os títulos do Brasileirão e da Libertadores Depois de uma temporada histórica em 2025, o Flamengo tem tudo para manter o ‘patamar’ em 2026. Afinal, o Rubro-Negro segue vivo em busca dos títulos do Brasi…"
+  },
+  {
+   "titulo": "Dirigente da NFL é sincero sobre gramado do Maracanã: 'Não há motivos para preocupação'",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1BwY0dBcDlfOFJfa0I2aWlwQl9LUjZFdXdHWjNtN0lfZzZDUmJWWlZKYjZBQ1JjdmVzWm5JTUUyNGpkdzBzQm9GOVhOb05Xb3E3NmcxU3VsTm5DX3VvRUVRRkt6T0Izb1MyMzN0U1FRNk9fbkgzTHpLOTNsYmlNMkE5SzVIbW5lTy11bXc3bXR6eEZ2T0JsR0hFSXF0b0M5THlSeXQzYjhwc1R4SzJDd1ZxNDFpYk8ycThveEgxNGIyaFVpWkxNMnJn?oc=5",
+   "data": "2026-09-26T23:08:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
   {
    "titulo": "Aprende, Ancelotti! Ex-Flamengo, Jorge Jesus é sincero sobre jogo de Portugal x Noruega: “Não terei medo nenhum”",
    "link": "https://colunadofla.com/2026/09/aprende-ancelotti-ex-flamengo-jorge-jesus-e-sincero-sobre-jogo-de-portugal-x-noruega-nao-terei-medo-nenhum/",
@@ -75,10 +139,18 @@
   },
   {
    "titulo": "Sesc Flamengo x Dentil Praia Clube: acompanhe em tempo real o jogo pela Copa Supervôlei",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkFMUk81YTdBQUZQbjMwZHliSlgzWFc0a2xkeHNHaFc0VmdJNDRxT1BSVFhqd1ZqZkxSWXk1UWsxYzZXSnlhb2J4VFRhT1ZmLVVuck11YkJWSlNYd2dYdEFPWFZzMGhMazF4Q3J6ZnlETlJreFNpdHBaYUhoSDlLSWRmXzlyc1hrNXZFbDRKRG1ILV9vTXQxUVBNZkxhdHktdkh1N0hvN2VCMkVsSERKd2Y0MDl0SU1qXzJ6QkxQQQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaF9ZeXVqOU5URzk5MnlYdDloMW9ORFB4bi1qSnFlNW1WQ2k4QjlONWtfVlA3ZzdMeTNjYTBhNFg2STJyd0xxUUFBODdnYXA1cnhjSVY0SXV3c05OUzVGYU1HZk1uRWpCRkpNb2hEUXZBd24zZDk3bV9GWHBjTDNBQ2E5ZmhyRks1Tm4ybndKV05vWTBmbGxpSi0wWVYtTGxCMlc5UkRJek9CZHZlMTFnV1NvVTlVT2ZpNDl4N0YwN2ZMc0dTa3RWUk93?oc=5",
    "data": "2026-09-26T21:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo estima prejuízo em R$ 400 milhões com veto às bets",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ab3padFgyN3p4VmhDU3hpZUtyX0RsWk5QVHVNUUszcWhwX1dWZEhMZXl1UFJxYWxaMzhUUE9uY3pmWGNTbG9pM1BsWmU0MVBYWkE3ZzZpdFNWWVN2Vkh3aEpvUVI5a1k?oc=5",
+   "data": "2026-09-26T20:50:39+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -186,14 +258,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Boto coloca Prestianni e mais 3 jogadores como ‘reforços que cabem’ do Flamengo",
-   "link": "https://colunadofla.com/2026/09/boto-coloca-prestianni-e-mais-3-jogadores-como-reforcos-que-cabem-do-flamengo/",
-   "data": "2026-09-26T01:40:08+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Diretor de futebol do Rubro-Negro citou quatro atletas que atuam em Portugal e que, na visão dele, poderiam defender o Mais Querido José Boto aproveitou a pausa para a Data FIFA e participou do Portugal Football Summit.…"
-  },
-  {
    "titulo": "Praia Clube bate o Fluminense e faz 'final' com Sesc Flamengo na Copa Supervôlei",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZU1mWVJqWHN2aDNKOC1MRUR3NlF6dDJ3RHhFb1pPV25laXdqSEdONFZBOHlBang3UENuYjk3b0N0U2dmNDFyUERaVGVTdGVmTk92YVc4ZFg5dm1QZUZSRlctajgwOGlFZjQyRU11SzR4MElIQzVjZk5JNmcwUzdhc2lDTTZJUVdYX0hYNXhldHVFNTBYMFBoWGE2MlJSZWRGOC15QkhsX3J4bVRQYUhsSzZabWg?oc=5",
    "data": "2026-09-26T01:21:21+00:00",
@@ -224,14 +288,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Oscar conta bastidores de quase acerto com o Flamengo e lamenta desfecho: “Uma pena, seria legal para mim”",
-   "link": "https://colunadofla.com/2026/09/oscar-conta-bastidores-de-quase-acerto-com-o-flamengo-e-lamenta-desfecho-uma-pena-seria-legal-para-mim/",
-   "data": "2026-09-25T22:42:56+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ex-meia da Seleção Brasileira, Oscar chegou a vestir a camisa do Flamengo em 2022 durante negociações Por muito pouco o Flamengo não contou com Oscar como um dos campeões da Libertadores de 2022. Isso porque, o meia est…"
   },
   {
    "titulo": "NFL no Rio: técnico dos Cowboys compara tamanho de Dallas e Flamengo",
@@ -280,14 +336,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Bap projeta prejuízo de R$ 400 milhões no Flamengo com fim das apostas esportivas: “Não temos plano B”",
-   "link": "https://colunadofla.com/2026/09/bap-projeta-prejuizo-de-r-400-milhoes-no-flamengo-com-fim-das-apostas-esportivas-nao-temos-plano-b/",
-   "data": "2026-09-25T21:27:31+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "O que disse Bap, presidente do Flamengo, sobre a Medida Provisória (MP) do Governo Federal? O Governo Federal irá assinar, nesta sexta-feira (25), a Medida Provisória (MP) que colocará novas regras nas apostas esportiva…"
   },
   {
    "titulo": "Técnico dos Cowboys compara time com Flamengo e é sincero sobre pressão na NFL: 'O mundo todo assiste ao que fazemos'",
@@ -498,6 +546,14 @@
    "resumo": ""
   },
   {
+   "titulo": "ESTUDIANTES CONFIRMA PARTIDA CONTRA FLAMENGO EM LA PLATA!",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX242OHExb2ZpcU9YME1wbDJNRTJPN3NWT180UDlPcjJrR0t0TkZWREFFOHh4bDZmOTBUcHJjX1VKeWhPczAyOGRHbWFFNUNNR3kwaXRtQWhxUHpCOE1fU3Y4dXNXUGxpOExic2pOMTZxeDdzRjhSM0Y5OTVDaDlhSjdKY1RDLW9wWGw2d0VmdFBYTHpoeWRNR0ZVc2wtMUdZLXlV?oc=5",
+   "data": "2026-09-25T01:32:05+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Sesc Flamengo vence clássico contra Fluminense na estreia da Copa Supervôlei",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUtoNlRFajByWHItWDNQR21rVlV1NlRNZGp3ZTU5NHlOZU1nVElRZ0R1VkV1bmc0RnRCUlNrRjNXdFNhdEZDZGVDdi1hSWhOcjdHdHAzMW1SVmtoVWpuVlhXbWlJRTBwNDVnVEczMVd2a2diN0JmcC1vY1pQMFgxcks5WmVMOVNyZl9NRXdQTUVidnZobzI1NE5JQ0FoZmZ4bW83SE0tYWJjNWVHNk42UHFB?oc=5",
    "data": "2026-09-25T00:45:33+00:00",
@@ -579,7 +635,7 @@
   },
   {
    "titulo": "Estudiantes define estádio para receber o Flamengo no 1º jogo da semifinal da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ1lOeTZzVGtjVk1uTHFHM0VIaXF3Z2w5VENiNTYycmp2RFFtUmhhRm9UWDJfSkQ1SWR2SmVHS0lMbk82RzhKMVZnalZLMEZDYjVOZDZ6aVRfdnREclhmR0pvWXlRS2Z6REo5cnNCa2lmT0Z3amtLRTUyM2RiVUJMVHJGeV96NTBGNzRuU1JhYUtabGNkZFBfZU1rVnM0YXhsUFFfN0hKbFQwS1pXempuRXhleHR6S1psSFdiNUM0dE1mVzFGQktiY1dKQnkxMG5MdmEtNXlR0gHbAUFVX3lxTFA4QjhWcjcyMExFMC16aW5pZTUycVVjZjRvQlM4ZkVjdEtKbnJCV3N2VEJGNmdqLWt5ZjVzUjNJazFudUdBYzZ3TUJ5Sjhlbk0wRG9aOEJtaGFKVFJUMmY2SVg2eUFMVVk4a3RURDJMUGlPX2JXb05GNnlpcmd2WlZ3QzBRS3JJZHR1MUNZZC1MM3F3MVV2Qlo4eE1VMHVZXzR1RzNkN1I5Rmo1cFZFTDZVUDQwblQtNkdjVlFKb1gxa2E2MXp3UHhoZ0pkLURJdEI4V2g1OXoteEtrdw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQWVzeEEydUp6Qk1hNHloNmhlNUdtSnQ4MDlfSWVmOE5CWkJ6RndFa1huQXE4a1JZSldzblpBNmdrcDd2T3hHTTZmYTJOQ19GdlpNOGJwckJOUHk2Z2k0bnFZaGdUM01tWFBpSFZzZ3BSM3pQUDVSeVRlSmpRY2hTdnJhV0hNTHIzVzlOdVBNUlNPeTh4X2RVQjBUeVZSSmpYWG5jQm1Tc2E3czAxUktsckdBc2Vxd2Q1Q0Z0U1ZDcEEwdzBjQnJweWtGYWJFY2prZW5lQWRXUGRfZzFVcmtmYmRxbjRIY0RrT1BsaDJ3RWprQQ?oc=5",
    "data": "2026-09-24T18:15:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1175,62 +1231,6 @@
    "data": "2026-09-21T16:05:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Conmebol define datas e horários de Flamengo x Estudiantes pela Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWJUd2h1Z0xsamlHYVlxYzlqQ0hsa3hSdXdHT1ZXYi1SY1JzdTNySHYySTZvdmNySVcxNnlDa1FpZ3VDODdyZkQtOGxGMGVKeU5xTkt4T2ZNMW1OWU5UT09mQmlUa1JYMUR5RXpQTzJ0MmE1dHVHZ04wQlowWmZYVmRlOVd6anBzNTdtM1l3WVlNUG9YTVcxU2ZmcXZ6RC1yUVlKQVdSajZSbUlTNGJxcC1KWXBHdw?oc=5",
-   "data": "2026-09-21T15:58:30+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo chega a 76% de título no Campeonato Brasileiro e deixa Palmeiras longe",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeElwcW82djBBNFVzZDMwdTFoNFpVRjFBbk1aaUZmY1lhRlBJVThrU3JORFRjWlk4ZVB0dEZRXzF0MU9ZTXZOaXdfSFVwOXVneGdIajF3SjZrc0VqSFlpazV3ZmxDNjVab0d6N21uZEFGaUZDMFJaTDhtQUNNTDVzWFdUR2ZEU3NfNE1keFlkSnRFRU5CV3NPa05CekhDYk1pVVp0cEItT1hETmo3Z2FXZDA1UXY2S09reTljY21GREk4WHFEd3BhZzNFRHZyT1lZTW5KOHptZmwyRWhzMzctYzgyaw?oc=5",
-   "data": "2026-09-21T15:16:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Justiça rejeita tese do Flamengo de que Vasco x Palmeiras danificou gramado do Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWndFVzBjRjA2cHQ4S3ppSk5JVVZsVzFoZ0piZzNjOGhWWXRtM0s0QjFpTnVFSFRRVWZTNWJNTW9pSXdmdWhfMnMyUm85RXNub091MXVYMVoxQ2dyS050WElFWkt3LTBtZUV2U1N0VmwyTlZDWUwybVJ0VmkxRURnWHFmUWN6RHAzV0tiQ2RLMVRFUXRkc0dseURPaGZoNE5LdTQtVEJyZmtiWE9Gd3FHek1ubkx3b0lIbDZwWGRTU3dFV295Y3RUa1FyTjV1YjFXeFZjYjhiQl9KZWJPNE85cTZLdw?oc=5",
-   "data": "2026-09-21T14:53:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo: Exame aponta lesão na coxa direita de Ayrton Lucas",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbl9tMmRXdkVkWW1BVkdsSkJrUDRMNmhoRmpFMWpKaE9abm5QR0NEZnhSOHR2Ujl6N0dObGRLVlJZbm44S3cyRWs0U09HZVBnWTBoUkNTNVVRQjBxSGRsVXA4OG1kXzN0eW05ZUdxRWc1WDJLX1J0dTZjUGExV21HSnlvSVBZZ1M1UXJxZC1kZmRWSUhrMUZ2VUdiVEp2ZnVIOWlQcjk2RWVZTWQxMmhLQnd5a2RzSFBudHRVeklhYnBMajJmMV9Ob1dib3NyTFRCLWl2WUNybzNMUQ?oc=5",
-   "data": "2026-09-21T14:41:40+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Semifinais da Libertadores 2026: veja datas, horários e onde assistir",
-   "link": "https://ge.globo.com/futebol/libertadores/noticia/2026/09/21/semifinais-da-libertadores-2026-veja-data-hora-e-onde-assistir.ghtml",
-   "data": "2026-09-21T14:34:16+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Um pouquinho da Libertadores Experience no Rio de Janeiro As datas e horários da semifinal da Conmebol Libertadores de 2026 estão definidas. O Fluminense recebe o Palmeiras, no Maracanã, no dia 14 de outubro, às 21h30,…"
-  },
-  {
-   "titulo": "Exames detectam lesão, e Ayrton Lucas vai desfalcar o Flamengo; Plata será reavaliado",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/21/exames-detectam-lesao-e-ayrton-lucas-vai-desfalcar-o-flamengo.ghtml",
-   "data": "2026-09-21T14:12:43+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Preocupação: Ayrton Lucas sente a posterior da coxa esquerda após dividida com Fernando O lateral-esquerdo Ayrton Lucas passou por exames médicos e teve uma lesão muscular na região posterior da coxa direita confirmada.…"
-  },
-  {
-   "titulo": "Flamengo: dublador revela discussão entre Pedro e Jardim",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUU5ZENJNFRCT1RGazdRNnRUemlSemJQVkw5NFJWMkNxZHZpOXpSNE9QZTUydVpOZ2hVWjIzVHpNa3poRTNCNG5xNW8zTm9Nd25FLS1KR3k2U3JxRzQ0WFdjeU5sX2lvaHdrYmstQkRCMF9kQ0N4enRMN3ZfeTlEOEtJZm1lLUZhRkg4MzFWNU1oeHRiZmVKWHAxNkdObDli?oc=5",
-   "data": "2026-09-21T13:03:48+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   }
  ]
