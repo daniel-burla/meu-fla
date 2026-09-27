@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-27T21:16:26.932380+00:00",
+ "atualizadoEm": "2026-09-27T23:55:40.003903+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 26
+   "itens": 27
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,128 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 61
+   "itens": 64
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 48
+   "itens": 46
   }
  ],
  "itens": [
+  {
+   "titulo": "'Informações falsas': Flamengo nega conversa com Fatal Model por patrocínio",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTkc0OUo4QjBhTmNITEFsSEtzWlZEZWN1b0d4UkdQMW1Hck5pS0RBemVKZ0tSV3FFQXhGQTdmcWdZNlZhT0Fha1Q2VFpzRmZDeTNjU0RHZ09wa3Y0ZmlncFltQmhETmJHel83c2RKUlljQWRleC1LM296NGcxTWUtc2lPVXoxMFo4UVExaXlPekxHUWFXWllyeGlMeW9lVHhQS2U1dWJaa2FqblJTQ0Jnck90YVd1bm9yQ3pVWUpIWHdpTzdiV3U3aWQxVzl2ZlBidkJxOUVDV0daUmtO?oc=5",
+   "data": "2026-09-27T23:51:19+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jorge Jesus se emociona com Flamengo e lamenta não ter voltado ao clube: “As coisas se tornaram difíceis”",
+   "link": "https://colunadofla.com/2026/09/jorge-jesus-se-emociona-com-flamengo-e-lamenta-nao-ter-voltado-ao-clube-as-coisas-se-tornaram-dificeis/",
+   "data": "2026-09-27T23:49:56+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Jorge Jesus voltou a falar do Flamengo após vitória de Portugal Ídolo do Flamengo, Jorge Jesus não esquece o clube onde fez história. Neste domingo (27), o treinador voltou a falar do Rubro-Negro após a vitória por 2 a…"
+  },
+  {
+   "titulo": "Jorge Jesus se declara ao Flamengo e diz se retorno ao clube ainda é possível: 'Sempre pensei que um dia voltaria, mas...'",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcFUtNmcyVU13YWFLVVM3OTJlZlBBeDBkWnBjeHdOcmVnVUZYYkllQ3dZVUtZdXJ4eWNDZ2NhVTFtMHlwRGp5WG96RkRVWGNZRnN4QWJTc2oycHllMk1KNjVOZFFFRDY4YWVRenRJc3dtTnpsMkxzdXFVUjRBWEdNM1JNNUtLYWtKRl9EUVd4YzQ0ZnB3N3A0d3d5Y2d5OGszS0tnaGwxTDJqOHJJeVVyc1RaSEdWakZSbkpRbHc2dnQ5MlhPcmlBdzUxaWdRVWpqMEZ4V0o2UHZDUUZ1T09oR2hUaC0yc0kyOE5tdE80dGc?oc=5",
+   "data": "2026-09-27T23:22:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "NFL supera Flamengo e tem o maior público do ano no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc2NSYU1COWtwejd2VGk0aE9UZXZMLVl3eUVjM1ZYdjV5SS1PV2xzRmdmaW5wOEdfVmd6TnJHR0JtSTN0WVBtaFBaWlI2WER4bGNsYV9ubUtacWNxZHRyWG1YYnB4R0tNQmZuME9DM0I1dWJUQjdLaEcyWmQ0dHRJVjNVejJEMmJHVmhiMTNYTGVKN3duWDJobTdHU3FfVDhrZThPMC1XQTFGZlR6?oc=5",
+   "data": "2026-09-27T23:20:57+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "E-mail enviado pela Fatal Model indica oferta de R$ 100 milhões ao Flamengo; clube nega negociação",
+   "link": "https://colunadofla.com/2026/09/e-mail-enviado-pela-fatal-model-indica-oferta-de-r-100-milhoes-ao-flamengo-clube-nega-negociacao/",
+   "data": "2026-09-27T23:06:49+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Agência provou que enviou oferta ao Flamengo A Fatal Model fez a proposta, o Flamengo negou e agora a agência provou o envio da oferta de patrocínio master. O Coluna do Fla conseguiu acesso ao e-mail enviado com oferta…"
+  },
+  {
+   "titulo": "Jorge Jesus se declara ao Flamengo, mas vê retorno distante: \"As coisas ficaram mais difíceis\"",
+   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/27/jorge-jesus-se-declara-ao-flamengo-apos-vitoria-sobre-a-noruega-sempre-pensei-em-voltar.ghtml",
+   "data": "2026-09-27T22:55:25+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Noruega 1 x 2 Portugal | Melhores momentos | 2ª rodada | Liga das Nações da UEFA 2026/27 Terminada a vitória por 2 a 1 de Portugal sobre a Noruega, neste domingo, em Oslo, Jorge Jesus voltou a se declarar ao Flamengo, m…"
+  },
+  {
+   "titulo": "Romário nega ter feito vídeo criticando fala de Lula sobre Flamengo e bets",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFNRTWNhNERXNnl6Zk9ZNGJIY3hDdF9vclZiLU9mRXZPTHpILWVDd0J1VkxVdGdNQ1dGcXEzcFRJUFVKNzdxRHd6bG15bGFGNnd6RlhUM1h1U0FwNHFBZ1c2NVc0OHM0M0hPTnFkVmRfRXdsYVUwYmdyanVxaWhtUzJsU2pLclVmQWIyWkhYMVdwZXl5b28zc3NyS1k2M3lFN1dGQVhGTHRHZUNkMm1EeDJ2UHdXWEd4U29UbVVB?oc=5",
+   "data": "2026-09-27T22:41:35+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Tente não rir: ex-Flamengo coloca Gabriel Gubela acima de Leandro, ídolo rubro-negro",
+   "link": "https://colunadofla.com/2026/09/tente-nao-rir-ex-flamengo-coloca-gabriel-gubela-acima-de-leandro-idolo-rubro-negro/",
+   "data": "2026-09-27T22:40:13+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Djair, que teve passagem rápida pelo Flamengo, deu opinião polêmica sobre quem é melhor lateral direito O Coluna do Fla respeita todas as opiniões, mas algumas merecem uma boa gargalhada. Em famoso jogo na internet sobr…"
+  },
+  {
+   "titulo": "Jorge Jesus se declara ao Flamengo, responde se já pensou em voltar e diz: 'Talvez o melhor período da minha carreira'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MOERuZC0wYXVTSEx6cjRQUFZQM0xndFN4ZHM3T3I4Y0phdy1qNS01WURsRDRPSm0zaG9JWHNldG5pNldyZjNsX05WRTJXRTNyYVNrYVpSQUFvdmVpZHc?oc=5",
+   "data": "2026-09-27T22:16:39+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ex-Flamengo estreia pela seleção dos Emirados Árabes com gol em jogada 100% brasileira; veja",
+   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/27/ex-flamengo-estreia-pela-selecao-dos-emirados-arabes-com-gol-em-jogada-100percent-brasileira-veja.ghtml",
+   "data": "2026-09-27T21:41:38+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": ""
+  },
+  {
+   "titulo": "Três jogadores do Estudiantes se lesionam e viram dúvidas para jogo contra o Flamengo na Libertadores",
+   "link": "https://colunadofla.com/2026/09/tres-jogadores-do-estudiantes-se-lesionam-e-viram-duvidas-para-jogo-contra-o-flamengo-na-libertadores/",
+   "data": "2026-09-27T21:40:54+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Estudiantes (ARG) pode ter desfalques importantes para os confrontos com o Flamengo O Estudiantes (ARG) ganhou problemas importantes às vésperas da semifinal da Libertadores contra o Flamengo. Afinal, três jogadores dei…"
+  },
+  {
+   "titulo": "Jogadores do Flamengo curtem jogo da NFL no Maracanã e trocam brincadeiras",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVElscnExMzNBb0p6Z2lWMHNTQnotc3BqeWhoYjhJaTdxSUJUb01Mb0Y4OEhoMUlobS10aEcybDkyelU2NG4xU0hqWEJuTUpqXy0xMVhSNEF6RUVGTUJXcUdLSGNiTzZRSUlyVHZ6VXZWQ09rcXI1T0ZIVGNtWjI4RGJtYWlkZFpZNkJlSl82QjBFUWhhN0RVeDR2MzNmbS1IVUZSLXpNRHJ3V0s1d1Z2ZXppenctc0dOWEVtR0Jwbw?oc=5",
+   "data": "2026-09-27T21:40:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Torcedores do Vasco protestam no Maracanã antes de jogo da NFL",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVC1tWjJWMWRMaE9oenJyQWlSc2kyenFLR1JNSXU4a2ZOd3l4anJ1TUpTYzZmQUxyRDMydlVFblpiLVBoakdXS1JaUl9RbjA4S0txaXFWTlNETGZvV0RRQjQ2YWdHSVhHanFkakZ0Z0FkNUM5V0JkWTFhTnAtWjE4M1RxOC1IamV0bUtvTUlKSTYyVlNxanV0SGJzMWVEYXc?oc=5",
+   "data": "2026-09-27T21:17:12+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ídolo do Flamengo, Diego brilha em festa na Alemanha com gol contra o Real Madrid",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZUNUdUFyb24tQk5Hb2hTYUxWSWNOanpRelNhVlNCSEUzeGI5UThzcHRrRDFuNjI4T1lPdkxHeXdUUXJfMTc2M09DUWpROGhTSGl2ZzVPVUpUMWVhVXZDYmM5b3UxUUhXZWdyUGh6T2pCdmRheGRzQUZmbEhoMVl2Ty14OW1NU2VxdFdXVGQ3SlRYajJfd2hzYy1mMGVobGFYNUVxUGE4YTBMbndnbnB3SmFNdXhQR29HNTdrRVZMMTRjbWNDVHVpaVdaNzY?oc=5",
+   "data": "2026-09-27T21:15:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Flamengo colocará outra marca no lugar da Betano? Veja como ficará a camisa após veto das bets como patrocínio",
    "link": "https://colunadofla.com/2026/09/flamengo-colocara-outra-marca-no-lugar-da-betano-veja-como-ficara-a-camisa-apos-veto-das-bets-como-patrocinio/",
@@ -40,6 +152,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Futuro do espaço master da camisa do Flamengo ainda é uma incógnita O principal espaço da camisa do Flamengo virou assunto após o Governo Federal determinar o veto das propagandas de bets em times de futebol. Patrocinad…"
+  },
+  {
+   "titulo": "Fatal Model faz proposta ao Corinthians e mira Flamengo após veto às bets",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0pUYVdUQWR4THBEanBMUENDakFnWEdVR2UzRXdzS0x3alV1Q1RCSlVQaHoxdXhNMUFIdUhSangyQUY0Q2tCa25fVTdNSUNYUjR1U09PM3pKb3BTQjlNNWtxR0VQbGZoZ2xfaUNpVnM5UjdMUk1ZN0RpMklRTko4OWVzRng4bWZGQmdqOFpwb1l6MEFXd0d4WF96R25nWnNsZ0xzeXhOVGYtckFRaGZnalc2Y2FFaC1keGxQRUo3M25ZRG9fR3dCRzJMNnFCUzN5SXd1RElfTG0tQQ?oc=5",
+   "data": "2026-09-27T20:57:52+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Jogo da NFL: Léo Ortiz, Saúl e Royal, do Flamengo, marcam presença no Maracanã",
@@ -72,22 +192,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Léo Ortiz, do Flamengo, fala antes de Ravens x Cowboys Depois de aproveitar as últimas semanas para estreitar relações com a NFL, o Flamengo também se fez presente na partida entre Baltimore Ravens e Dallas Cowboys nest…"
-  },
-  {
-   "titulo": "Fatal Model faz proposta ao Corinthians e mira Flamengo após veto às bets",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0pUYVdUQWR4THBEanBMUENDakFnWEdVR2UzRXdzS0x3alV1Q1RCSlVQaHoxdXhNMUFIdUhSangyQUY0Q2tCa25fVTdNSUNYUjR1U09PM3pKb3BTQjlNNWtxR0VQbGZoZ2xfaUNpVnM5UjdMUk1ZN0RpMklRTko4OWVzRng4bWZGQmdqOFpwb1l6MEFXd0d4WF96R25nWnNsZ0xzeXhOVGYtckFRaGZnalc2Y2FFaC1keGxQRUo3M25ZRG9fR3dCRzJMNnFCUzN5SXd1RElfTG0tQQ?oc=5",
-   "data": "2026-09-27T20:23:09+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "'Informações falsas': Flamengo nega conversa com Fatal Model por patrocínio",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTkc0OUo4QjBhTmNITEFsSEtzWlZEZWN1b0d4UkdQMW1Hck5pS0RBemVKZ0tSV3FFQXhGQTdmcWdZNlZhT0Fha1Q2VFpzRmZDeTNjU0RHZ09wa3Y0ZmlncFltQmhETmJHel83c2RKUlljQWRleC1LM296NGcxTWUtc2lPVXoxMFo4UVExaXlPekxHUWFXWllyeGlMeW9lVHhQS2U1dWJaa2FqblJTQ0Jnck90YVd1bm9yQ3pVWUpIWHdpTzdiV3U3aWQxVzl2ZlBidkJxOUVDV0daUmtO?oc=5",
-   "data": "2026-09-27T20:16:11+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Ex-Flamengo, Henrique Dourado dá dedo do meio para torcedor e leva garrafada na cabeça; veja vídeo",
@@ -146,14 +250,6 @@
    "resumo": "Veja qual é a sequência que o Flamengo terá ao longo do Brasileirão 2026 O Flamengo já tem conhecimento da sequência que terá na disputa pelo título do Brasileirão 2026. Isso porque, neste domingo (27), a Confederação B…"
   },
   {
-   "titulo": "Fatal Model oferece R$ 100 milhões por máster de Corinthians e Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3lyOW00a2N2Uk9mMHhHWkxJOGdWcDcxQmxuR3JEbHc1VnpXU18yclJCMXFOdlVkVFV6S1Bna2k2UkVtZlkyWGQxTGt1bHAyTEFxd3BoMU5OeGZ1akRHaV8xRnJZZGIwS2hqSU5sS1BLRFZINjQ3YVR0SXhxS3ZDM3NDT0VCeUpBUFVMeFZWd3RBMjB1UlNGVXRLWXNPa0JnamVZRUtKR09rVnBScXJZbS13LW43RXo5?oc=5",
-   "data": "2026-09-27T18:47:43+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Torcedores do Vasco colam cartazes no Maracanã antes de jogo da NFL",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlpxVHRaYS1FeFV0bjBEQXZnQUllWUtRcGNzMk1nNlF3bVprS2g2MVBqdXpEMGg5bkstbWt2eFhYbUZHTlpZQTRoSE1pcVYtaTBmOG1Lb1hkSGV3MmpySlY0Rk9NcGNXbDdPUGVUWlRGZ0xTUWtUTzhIOWZTdmlySV9UYVBWeUFTVjV0V2hEU1NYMDZ6VzNmR2IwM29wN05ibkM5ZW5DSnp2bW5PQm83ZldGQnNmUUxnekZaV2NfTVhMYk1JdTRxS0dfR1dhYTByQmxoTDBB?oc=5",
    "data": "2026-09-27T18:23:21+00:00",
@@ -162,28 +258,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Patrocínio da Fatal Model ao Flamengo: bastidores apontam jogada de marketing da empresa",
-   "link": "https://colunadofla.com/2026/09/patrocinio-da-fatal-model-ao-flamengo-bastidores-apontam-jogada-de-marketing-da-empresa/",
-   "data": "2026-09-27T18:16:47+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Qual é a posição do Flamengo em relação a proposta da Fatal Model para ser patrocinadora master do clube? A Fatal Model apareceu neste domingo (27) como uma possível substituta da Betano como patrocínio master do Flamen…"
-  },
-  {
    "titulo": "Jorge Jesus manda recado ao Flamengo e explica Cristiano Ronaldo no banco em Noruega x Portugal",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONS1fUGxEWFBkVHp4M205ZVdTN2QwZkNVY1VZTndZN2dDQ3dHWTAzdzM2TWRaWlFfSEdVbVhPT0Y1ZjhCckpwQ0RCajZLeVAzQjEzaXhNTERKWEJkSng5NFBJR29jTWJLcXFPMjlESkFNN2tlRm9DUzFMMUFiS1FHUGpDbkc0cHlhN2szSmpEekpGenpxVVM0Um00akQ4bkZmWHdod2doUDZ0TzV2S2VTcU5jZ1VUX3RPbFVLamhJcjF4dUF2OFA3RFRmWjlqdzZySmw0?oc=5",
-   "data": "2026-09-27T18:07:00+00:00",
+   "data": "2026-09-27T18:13:45+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Jogador se revolta com o árbitro e manda recado após sofrer forte entrada em jogo do Flamengo x Fluminense",
-   "link": "https://colunadofla.com/2026/09/jogador-se-revolta-com-o-arbitro-e-manda-recado-apos-jogo-do-flamengo-x-fluminense/",
-   "data": "2026-09-27T17:37:36+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Qual foi a crítica de Joshua após jogo do Flamengo x Fluminense, pelo Carioca Sub-20? Joshua se revoltou com Patrick do Nascimento Silva, árbitro do jogo entre Flamengo e Fluminense no último sábado (26), pelo Carioca S…"
   },
   {
    "titulo": "CBF desmembra rodadas do Brasileirão com duas semanas completas de jogos; veja as datas",
@@ -202,14 +282,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Fatal Model faz proposta de mais de R$ 100 milhões para se tornar patrocinadora máster do Flamengo",
-   "link": "https://colunadofla.com/2026/09/fatal-model-faz-proposta-de-mais-de-r-100-milhoes-para-se-tornar-patrocinadora-master-do-flamengo/",
-   "data": "2026-09-27T16:17:43+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Qual foi a proposta da Fatal Model para ser a patrocinadora máster do Flamengo? A Fatal Model está em busca de ter a marca estampada no uniforme do Flamengo. Dessa forma, a empresa fez uma oferta de mais de R$ 100 milhõ…"
-  },
-  {
    "titulo": "Com 'pulinho', Jorginho do Flamengo bate pênalti em SC",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYk5lclhDUW8tcm1EZzdEel9UcjFyb0pTQVVvTEUzSElTa0lQeGdOSTA5VGVtbkJBUFBpZW1rbWZGZjY3Z1VBWUhEcVFSMmVXUUh4eThPMkZPOF9IQlRvSlA5MlRxeUxSYS1JWDIyZ21UTVJZb0ZrdzhVQXNoTGJSekc0NWw0aS1kaEVuTlBwQTJGWXkw?oc=5",
    "data": "2026-09-27T16:07:08+00:00",
@@ -218,19 +290,19 @@
    "resumo": ""
   },
   {
-   "titulo": "BNDES nega linha de crédito para socorrer clubes afetados pela proibição das bets",
-   "link": "https://colunadofla.com/2026/09/bndes-nega-linha-de-credito-para-socorrer-clubes-afetados-pela-proibicao-das-bets/",
-   "data": "2026-09-27T15:56:49+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Negociação por auxílio financeiro circulava nos bastidores junto ao debate da Medida Provisória (MP) O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) descartou, por ora, a criação de uma linha de crédito v…"
-  },
-  {
    "titulo": "Corinthians na sexta e Flamengo segunda: CBF divulga tabela até 34ª rodada",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSEZhckhIc21KcnZhVFlOektKenNOcXh2bEtFbVQyQ0NudE9kalo3OGxzQ3ZwNnZxa0plT04yVmRJRGdORXY0OUpRXzdybWhmVmhVdHJHQkx2VlAyTldtcFRlUFNWcDAzMHEyMEtOVWpWZXFnU0puX1pwV2ozWURLWDltZlNCMUQ4VS0xV3BucTBOR1E3R1lhT1gwWTJEOEtvNVdMMnlzaFI0d3VJLXItQjVwZGtRZWUzbUZ5dmZLQjZFdGlLTGYtUnE3R1JUYjNYWFZkQnJxTTVLN1o5?oc=5",
    "data": "2026-09-27T15:56:08+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fatal Model diz que ofereceu R$ 100 milhões por máster de Corinthians e Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3lyOW00a2N2Uk9mMHhHWkxJOGdWcDcxQmxuR3JEbHc1VnpXU18yclJCMXFOdlVkVFV6S1Bna2k2UkVtZlkyWGQxTGt1bHAyTEFxd3BoMU5OeGZ1akRHaV8xRnJZZGIwS2hqSU5sS1BLRFZINjQ3YVR0SXhxS3ZDM3NDT0VCeUpBUFVMeFZWd3RBMjB1UlNGVXRLWXNPa0JnamVZRUtKR09rVnBScXJZbS13LW43RXo5?oc=5",
+   "data": "2026-09-27T15:47:45+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -1154,84 +1226,12 @@
    "resumo": "\"Pedro tem a personalidade de demonstrar os incômodos\": analisa ge Flamengo O Flamengo vai para a pausa da Data Fifa em ótimo momento na temporada. São sete jogos sem perder, sendo seis vitórias no período, além da lide…"
   },
   {
-   "titulo": "Duas semifinais e duelo com o Flamengo: a corrida do Palmeiras pela tríplice coroa",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNDk1V054UXZQdlNsakQwNGlJc1UzT3BsYUdwYVdpUFZna3FXRXV4b3E0c19VRkJkbFp1ek1KWXdMU3F2eU1hOVZVcGt0MC1wT3NtQWwxeTdjODBjMzVlR3huUC0xRVJwbTFHRUNHTnRWb3JFZGNWbFJibVpHSnlqei1KdWZ4UmhxY0liNnlNSnA4ZXp4M05NajduMHpiVVVGdjl0djgzQ1pWaDVYYzF5ZjRBMENRcGRNd0lJRm5B?oc=5",
-   "data": "2026-09-22T22:10:05+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Gonzalo Plata, do Flamengo, é cortado da seleção do Equador por lesão",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMjdsS3lMNmdNVjB1TnV3RE1UVTk3ajZjZEdHV0hDQzVnM3lqSFBsUEpJRmxDUDFEWjFxTmVMWkJOcnVMcm9ubHF0SnpmRTA5UWpQQktiaFFMUlhRXzVIZUN4N3djOTMzcXhJb0VIODEwbTJoY0FrLUtrVTd0d3dQc05iX0tqWkhvMVcwODRzcTlSOFhuV0lyMlRMLU1QU3NHWDBnc0d5aHFvV1ZPUVBlbU1SQWN0SGllOU9aVw?oc=5",
    "data": "2026-09-22T21:47:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo critica limite de estrangeiros no Brasileirão: 'Não engrandece'",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWxZVjZzbW85WVJMRVJvVElLbC15S1A2MW5ZeHpoREcweklYOE04c3VMMHRuWlJndWxuSWlxSzdmZmVPbFZoeTVmR1IxUDJGWHdDS1VVSzNIQ1FkUWRRbFJBZEIyUGdjSndGWnozZFA2SjdRUTc3Q19WWnNHYWFxQWRxYXlJMXpCVFAtOTdIcnNUTXZ3aEk1U3BzcU16NXB0VEVDX0tHNzVBN21p?oc=5",
-   "data": "2026-09-22T21:33:17+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-dirigente do Flamengo, Braz dispara contra CBF após restrição a jogadores estrangeiros: 'Retrocesso'",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVUxGQTFTQ2pJUWpIcEhQRU1rUlYyRzhiQ2Z3QTZzbks0Zk9YdWVDWE85TzR0VTFZby1BalE4U2lucm12V2I4TVUtRm9NXzZBcWs2azdZTGFmS0RxeElkMDVLaGZvS3hHUlJsUmJZQWFsanl0TElMbktGbWV4TlhVTjFpT01ObnU5WTRQN3lHOWNFbXQ2ZkROWDFOQnQyQmk4c2pLODRyTTNVNUZjazNDYWRFZlRRYS1DX0Yza0ppdWpMMHRsSUZVUlRhOE9paUNYWHYtUHB1c204OUkzUzB4ZHJuUTB2Y2k0WEE?oc=5",
-   "data": "2026-09-22T21:32:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Gramado do Maracanã preocupa a NFL? Diretor diz que chuvas atrapalham manutenção",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHpNLUNQU2xXYW5fa1luWE04WDhUckNSbjJyalVma3IzVlRvZVZuRmF5VTc3cWF6OGV2WDVXWUhlN0hFZU9MWXZ2Rzd5YWxrUVA0QWtBQ3hEUWxfejZNNzc1SGVsMkJiakVBWm5WUkNHWUY4WV9OMUVGQjdzbHZyUVNZczdHaTN3ckRZU2FrbkpHel9YTGI0Q05YNzVLdm4xeHZOOW9XMkwwN24wU3BKZjkyYmhyQTVCdXc?oc=5",
-   "data": "2026-09-22T21:12:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Boto, do Flamengo, dispara contra redução do limite de estrangeiros no Brasileirão: 'Isso vai baixar a qualidade da liga'",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR0tTZURaZmRFYm9FMEdlOXBveGFnOGNIcThLQjF1aWVmRkNQelBSZW5lYXExMHpaZFF2ejdmVmlLeWs2ZFczdHBZRjB5R01nRWxsRERTSUpYek5IN2Vud0ZFc09BQ3JVSnVTRlhnS1NKZ0pnbTFwU1hUNkxNOUdNTkhFY2lGREl6S0pfcWlfWGdvRThGYkJhWWRkc3hLdDAzcGRyNkJmU0t0M2ZBMWhPcWxlQTRuTGtWbGdwX2k0WVFNakI1U3NZYkxoNXAxTDVIYWF6OHkwbWtrQ21GSHNZVVQ1YnNsTzd1dkpQQWZNWVZiLU5IN0MwQ3NB?oc=5",
-   "data": "2026-09-22T20:03:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Saúl agrada no Flamengo e deve ser mais utilizado por Jardim",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaUdnYnppbWRrYWd0TWlnc0xBclI0bHFoOGVtdFBLTjlWUS1pNEJaUmxNT0FYSURKLU1zbzFiOElRNkQ2eUlCWm1vUHF4QlFiZURUT0VFUTZVQzU1RVhrX202aVYzNWpocFZrWWFnT2ZZdEVTVXM2ZHpFaGFHZ0Njc0lkMkE0WGtUb0MxZHZzSHZHTlVRV0FvNVgzNHBRakNLZGVSa1F3dlRLQkdIVWhJYXVLTTRhNTNXYk1qWVl3WkJydUtNenZMZ3BpT2dBallxc1E?oc=5",
-   "data": "2026-09-22T19:05:49+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Boto, do Flamengo, critica redução do limite de estrangeiros no Brasileirão: \"Vai abaixar a qualidade da liga\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/22/boto-do-flamengo-critica-reducao-do-limite-de-estrangeiros-no-brasileirao-vai-abaixar-a-qualidade-da-liga.ghtml",
-   "data": "2026-09-22T19:05:26+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "CBF reduz número de jogadores estrangeiros no Brasileirão A decisão de diminuir o limite de jogadores estrangeiros relacionados nos jogos a partir de 2027, aprovado nesta segunda-feira, continua rendendo muita polêmica.…"
-  },
-  {
-   "titulo": "Gonzalo Plata é cortado de amistosos do Equador por lesão e preocupa Flamengo em 'decisões'",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUEJKX1FXVUZOWlgtZXM4OWF5NW42aFJ6YXpBV0tJM2xoeVhmTW9nWkRCYWU5UlBEaGlWNzBUem9CelJtTzR3VGd3cXcteE5Ybk4wNU9yaXJLSjVZS2RmTGJheFVLNHQ4WVhDWm5saVdBZWVBRW5mcHdKMnZSZjZNNUZacDAyeVIxOEFLNE9kVzVMUTJCSHhDbGgxNjBkaVpIYnpBdmFjbTNES2lOaVl0b1o2Mml5emRXVmx4a3BsNnZwVk5uX2Fpb0J3UmJ2bkwxbERjSEkzdnNlRGNBMnphZVJUb2lxZXRrYmlFMVJMVFY0Zw?oc=5",
-   "data": "2026-09-22T18:35:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Com campo elogiado pela NFL, Flamengo vai ceder CT para treino do Dallas Cowboys; veja detalhes",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/22/com-campo-elogiado-pela-nfl-flamengo-vai-ceder-ct-para-treino-do-dallas-cowboys-veja-detalhes.ghtml",
-   "data": "2026-09-22T18:18:42+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "NFL Rio Game: Péricles vai cantar o hino nacional no Maracanã O Dallas Cowboys, equipe de futebol americano, vai usar as instalações do Flamengo para finalizar os treinamentos antes do confronto com o Baltimore Ravens,…"
   }
  ]
 }
