@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-27T07:02:59.441026+00:00",
+ "atualizadoEm": "2026-09-27T12:56:21.710284+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 26
+   "itens": 25
   },
   {
    "id": "colunadofla",
@@ -23,18 +23,90 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 60
+   "itens": 59
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 64
+   "itens": 61
   }
  ],
  "itens": [
   {
-   "titulo": "Ídolo do do Werder Bremen e do Flamengo, Diego marca contra Real Madrid e é ovacionado; veja",
+   "titulo": "VÍDEO: Pedro, do Flamengo, atende a pedido de torcedor do Palmeiras em meio a treino da Seleção",
+   "link": "https://colunadofla.com/2026/09/video-pedro-do-flamengo-atende-a-pedido-de-torcedor-do-palmeiras-em-meio-a-treino-da-selecao/",
+   "data": "2026-09-27T12:55:11+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Atacante do Flamengo autografou camisa de torcedor do Palmeiras em Brisbane Atacante do Flamengo, Pedro vive uma fase iluminada e atrai os olhares de torcedores em todo o mundo. Durante a preparação da Seleção Brasileir…"
+  },
+  {
+   "titulo": "NFL Rio Game: veja horário e onde assistir a Dallas Cowboys x Baltimore Ravens no Maracanã",
+   "link": "https://colunadofla.com/2026/09/nfl-rio-game-veja-horario-e-onde-assistir-a-dallas-cowboys-x-baltimore-ravens-no-maracana/",
+   "data": "2026-09-27T12:18:20+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Partida da liga de futebol americano acontece pela primeira vez no Maracanã É dia de ‘Super Bowl brasileiro’ no Maracanã. Neste domingo (27), o Dallas Cowboys (EUA) encara o Baltimore Ravens (EUA) às 17h25 (horário de B…"
+  },
+  {
+   "titulo": "Ação com jogadores, CT e médicos: Fla aproveita NFL no Rio para expor marca",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ0doWTBjZTZZMlRJUGhsQXBEN0s2ZUFVQURna3VKX2E4VzhpVVRUTW9Pb0NfTXlQWnFIMmJNSk1ialdrTnd2dUlOZTNWRnlhMXlhOVZWSlg1YUZYREx6bEt1a29ReGtrS2Z2M09vci1vSVdRaEVzTzFBQ096VFlRWE1FMVRPTzB3UGdNb1pWRmlnT05JNVRfMXM4OFRyNnpCOFpCMmRwQml6Zw?oc=5",
+   "data": "2026-09-27T12:13:45+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Elenco do Flamengo tem 2° dia de folga em meio à Super Data FIFA",
+   "link": "https://colunadofla.com/2026/09/elenco-do-flamengo-tem-2-dia-de-folga-em-meio-a-super-data-fifa/",
+   "data": "2026-09-27T11:37:30+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rubro-Negro recebeu o fim de semana de folga Após a vitória sobre o Red Bull Bragantino, no último domingo (20), o elenco do Flamengo ganhou folga na segunda-feira (21). Na terça (22), os jogadores se reapresentaram no…"
+  },
+  {
+   "titulo": "53 jogadores: a adaptação 'invisível' que NFL fez para jogo no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWDBoZzIxajc1a1ZkU3VUOHlJWTVkY3E0VWE4a0tOa2NxRVdtZVlQX2xXYlZpMk5sNWN2bXVtRGhEVmZNY3JzcUo0RURGcGlIeTVOeU1fdjFwcFRZbHZjdUFWVWRCdjBQMmo0bDBqTFd2NEZCWEgweDRUWDFLWDBvejVIN3QyRzVEaEVNY2M5VExGWUt4Znh2eDdIR0ljcnNHVlhZVmdSdHFKN0ZSX3lXaQ?oc=5",
+   "data": "2026-09-27T10:06:05+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Simone Lee exalta 'luta' do Sesc Flamengo pelo título da Copa Supervôlei",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWE5Xb1VybkxqUFBfamk2U29JamRVdTg4RXNLT1BKbWRQVXNlejBnTVFSSmVyQ3pQZE5tTG1PX2NNdUttR2dKVEU3UUZybE1FOGNheGZVZ3BMZllYOWpCN1AzbVFseTJSbjlCdW9nVUJCYXpXdXI1eHc5NG1wMm5RYS12VVFNX3Zmdm5FdlZHMHN3MUpENHJHUGZnRnZjdTVsWlVFZEltcVlodw?oc=5",
+   "data": "2026-09-27T09:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Torcida do Flamengo reage à fala de Boto: 'Não é possível'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXNVbjl3MEthNTYtdEVxVWd4WUstaDhXLTIxLUVraEtpRUF1aW9uYXJqLVBIcllkRzhZUGZSMHNxV1cxcHhuRTdsc282QkZmSXZhQUJtUnNlVTd6MlFjeEZSa2JvSzY1Qjd1ZnNjQXdWX3BqcmJLSG1iZlRCVHFKVEk0Qk9rZjgydml6YTEtbEdpVVFzb0NiQnpEd0I4UXlo?oc=5",
+   "data": "2026-09-27T09:10:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Saída da Betano pode custar 'um Paquetá' ao Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUZ3SkwwLTZBN2pBWHk4YW1sOXptVlhWbVY4U3RHMEtJeHdNZmpCdzA3UlI2S3R5VXluT3BFMHEtZTVNcVNmMHZLU0xpSi15cHpYaWJGRXM0cHF4VlZJOE9VUlZTcWpGVjV4NzFzZURQTW5YYm45RWxSdVluUXFTWGRMazNESFBCWksyak1odmFVNklHa2hEaWoyUmFXV25NSE5WY1JINVhtLVhiNWpfMQ?oc=5",
+   "data": "2026-09-27T09:03:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Adenízia lamenta 'baixa de guarda' do Praia Clube contra Sesc Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2pCdFdVMWY3M1lMUzYtRmpnb0t6S0E0NTdYTUcyckY2TGdWVEI4eDNNalVVbUF0bVQwU2tHMC1QR0FRTGhNZ2JOMnBmVlFXM1hMeWRhVF9jdWxyV3Rmb2FVWU1ReGtrcFIyVWFvVUlNTkdGNFA0XzVkOUhfb1Fwdm9hdEhrWG9WZ3BuME5uSXFrTkNyTnMxekNtSWI4bWlubFJXSm15Yw?oc=5",
+   "data": "2026-09-27T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ídolo do Werder Bremen e do Flamengo, Diego marca contra Real Madrid e é ovacionado; veja",
    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/27/idolo-do-do-werder-bremen-e-do-flamengo-diego-marca-contra-real-madrid-e-e-ovacionado-veja.ghtml",
    "data": "2026-09-27T07:00:00+00:00",
    "fonte": "ge",
@@ -186,14 +258,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Ídolo do Flamengo, Jorge Jesus detona redução de atletas estrangeiros no Brasileirão",
-   "link": "https://colunadofla.com/2026/09/idolo-do-flamengo-jorge-jesus-detona-reducao-de-atletas-estrangeiros-no-brasileirao/",
-   "data": "2026-09-26T19:45:30+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Medida recebeu críticas contundentes de Jorge Jesus, técnico ex-Flamengo, que aponta falta de qualidade nas base A Confederação Brasileira de Futebol (CBF) definiu uma nova diretriz em conjunto com os clubes para diminu…"
-  },
-  {
    "titulo": "Praia Clube x Sesc Flamengo na 'final' da Copa Supervôlei: horário e onde assistir",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmRDQ0RKX0ZubTZxenczbkFxZjU2Y05zV2l1X19TaDlQcVFKY1ItTGhWS29KdU5ubVVaRm1HTm4ySVktMUU1MkF0Y2hpUlNGaTZCb2dqZS1pdUZ2T3pOOGo0bkszMzRVVDdzZDVZZ3ppcDJRaHNnVW9nUGc3TE9HbXNSWG9zZTRrT0lwQ1V2OGg4ZEd6bjFTV1FuVzZwaVZBUWEtTjI5d0VxNzBKaGQzYTRwV2JkUQ?oc=5",
    "data": "2026-09-26T19:00:00+00:00",
@@ -202,28 +266,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Lula quer reunir clubes para conter revolta após proibição de bets",
-   "link": "https://colunadofla.com/2026/09/governo-lula-quer-reunir-clubes-para-conter-revolta-apos-medida-provisoria-proibir-bets/",
-   "data": "2026-09-26T18:39:42+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo é um dos clubes na linha de frente contra a proibição das casas de apostas A recente decisão do Governo Federal de proibir a operação de casas de apostas esportivas no Brasil provocou uma reação de revolta nos…"
-  },
-  {
    "titulo": "Léo Ortiz e Royal vivem dia de fãs em treino do Cowboys no CT do Flamengo; veja imagens",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/26/leo-ortiz-e-royal-vivem-dia-de-fas-em-treino-do-cowboys-no-ct-do-flamengo-veja-imagens.ghtml",
    "data": "2026-09-26T16:24:16+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Léo Ortiz e Emerson Royal acompanham treino do Dallas Cowboys no CT do Flamengo O Rio de Janeiro está prestes a receber o primeiro jogo de futebol americano de sua história com o duelo entre Dallas Cowboys e Baltimore R…"
-  },
-  {
-   "titulo": "Veja estado do gramado do Maracanã após cuidados da NFL",
-   "link": "https://colunadofla.com/2026/09/veja-estado-do-gramado-do-maracana-apos-cuidados-da-nfl/",
-   "data": "2026-09-26T15:50:52+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "NFL usou técnica para costurar fibras sintéticas à grama natural no Maracanã Neste domingo (27), o Maracanã vai sediar o jogo entre Dallas Cowboys e Baltimore Ravens, pela NFL. Antes do confronto, o gramado do estádio f…"
   },
   {
    "titulo": "Quatro reforços da Europa no Flamengo? Boto indica nomes no mercado",
@@ -304,14 +352,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Boto, sobre contratar jogadores portugueses para o Flamengo: \"Não é da cultura\" A pausa no calendário de clubes por causa da Data Fifa permitiu que José Boto, diretor de futebol do Flamengo, participasse do Portugal Foo…"
-  },
-  {
-   "titulo": "Vasco quer clássico em São Januário se não tiver Maracanã contra o Boca",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVkR2bW82bzNGaEpPbF9qdDl6S01IS0w5cGRlTW5DMGVvalIxODVfcm5aYVNnV1ZpNU9lTy1hTkNLVWVVbFotTTloQ3FibVdlTXZCd2dVN2dqeWMwRnBTTVpDYTFHR2tqSklUdUMxMVBmdVJDRUthRGhIZXFqdmh0c3pXNmJDamI4RE9zWk8xWVZ2TEJJWllwOTAyWEJEOVp5OGREeDU0QnVrRDhUNFpjYXBfRERVMjlCcXVJbzdrczdKNnNPMW9BWVJndWxZZjlub1hTbFhGZWtyV2c?oc=5",
-   "data": "2026-09-25T23:14:38+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Flamengo, Fluminense e Grêmio se manifestam sobre proibição das bets no Brasil",
@@ -418,7 +458,7 @@
    "resumo": "Jogadores do Flamengo dão suas opiniões após churrasco de Arrascaeta O Flamengo tem se notabilizado pela formação de atacantes em suas categorias de base. Se Joshua e Josmar são destaques recentes, há mais esperanças de…"
   },
   {
-   "titulo": "Boto diz que gostaria de contratar 4 jogadores do futebol Europeu para: 'Com certeza cabem no Flamengo'",
+   "titulo": "Boto diz que gostaria de contratar quatro jogadores do futebol europeu: 'Com certeza cabem no Flamengo'; VEJA",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LU1BMcXdBWmpSUy1qUmZ6Sl9pVVpVci1TTmJ0aHVxb3VFanBLa3JXZVNxeG1fNWF1clJGcXpLZG5YV3VjeXJYM0k2RWZHd2lFMXRZVDlWVS1mZm81eFE?oc=5",
    "data": "2026-09-25T19:37:56+00:00",
    "fonte": "espn",
@@ -432,6 +472,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Faltou luz! Partida entre Flamengo x Fluminense pela Super Copa demora a começar A ausência de Pedro nos treinamentos do Flamengo durante a Data Fifa abriu espaço para uma joia do clube rubro-negro. Quem tem aproveitado…"
+  },
+  {
+   "titulo": "Vasco quer clássico em São Januário se não tiver Maracanã contra o Boca",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVkR2bW82bzNGaEpPbF9qdDl6S01IS0w5cGRlTW5DMGVvalIxODVfcm5aYVNnV1ZpNU9lTy1hTkNLVWVVbFotTTloQ3FibVdlTXZCd2dVN2dqeWMwRnBTTVpDYTFHR2tqSklUdUMxMVBmdVJDRUthRGhIZXFqdmh0c3pXNmJDamI4RE9zWk8xWVZ2TEJJWllwOTAyWEJEOVp5OGREeDU0QnVrRDhUNFpjYXBfRERVMjlCcXVJbzdrczdKNnNPMW9BWVJndWxZZjlub1hTbFhGZWtyV2c?oc=5",
+   "data": "2026-09-25T19:14:38+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "José Boto aponta quatro nomes que atuam na Europa que 'cabem perfeitamente' no Flamengo",
@@ -882,14 +930,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Ge TV exibe 'Que Coffee' do Maracanã antes de Cowboys x Ravens pela NFL",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFFLX3NsdXZjR0xmbE1CaW5veENaY2xfMmFHeEpBd2ZSNGVvUEY3UWJPdzFnMFo5dU80S2Z5dklSNmlLU1QwQS0zS19nVlVpbkFKWGI0M0c1dGtHWm84WHJLSDZ0VG9YS3l6alBVR2E3Z0lvRnQ0d1JlZW04LVVGenBVSnJZTGFCMUpmQktEczhHR083bldUYnRKN1pnZTBYT2xMSjhVSVc3T3lIX043LVBjbw?oc=5",
-   "data": "2026-09-23T16:36:59+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Danilo, do Flamengo, brinca sobre reação de filho torcedor do Fluminense: \"Deixou de falar comigo\"",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/23/danilo-do-flamengo-brinca-sobre-reacao-de-filho-torcedor-do-fluminense-deixou-de-falar-comigo.ghtml",
    "data": "2026-09-23T16:18:27+00:00",
@@ -965,14 +1005,6 @@
    "titulo": "Ex-Flamengo vira assunto após provocação: 'Acha que é o Deyverson'",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTW54ZEVIU2Q1S1IyVE5OMk1NZWpkdzhvUXdUenVrN1pEalJLT0o4VUVNMmtYbUFKNW9RTEV5ZHQwRkVNbWcxRDdhZGkxZ2dNWHFVRUQ2TTZrSnBkN1h3aDlKQ0daaU1JRGY0QWNCY00yNlR4UGhLVzRyZnNZVDJmdThSUWtHdmdaY2QzX2J0M05KMC1mTklNbjZGTVpYdW1tVldfT3Fhcl9sZVk?oc=5",
    "data": "2026-09-23T09:10:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo ou Vasco? Jornalista da ESPN é sincero sobre melhor futebol",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQREt4WUxnZnRTV0hXMEphY1pJaGQ3MEhzakE5aUlVdWFrbGxQRTg5SEllUFNXZDFMRV9hYm5JNzAwandqS3dSamV2VGJnWUtoT0xZQWZlcldDSmZTWktNY2JjUndrWDZMd3dqakJDLWdFenFKZWxYVng0Nk9taTh2OWM0NjMyMVpSUzRzd280aGhzMlgyNkc3M3V5eldOS1dYb3pzV1hLcU10SXppd0Eycw?oc=5",
-   "data": "2026-09-23T08:30:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -1122,14 +1154,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Saúl volta a agradar em ano de poucos minutos, mas futuro é incerto no Fla",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblV3TjZWV3RFb05halJKdDVtTFlMY19mMXdodXJTcmdOcDBkMmVhdmhrb3V2LUhRRDE1TV9vQV83M1N2bXV4Y01UYnhfb2t6Z3l3UkFhLWJzRnptVmYtWk1IYVlDZTgySHlVeU92bjQwcmE2b2o5cjdPU1F1aDA0SEdmQzQ0YnRCODZHYmZ1c2k1TFdTYmFjWEUwaGlZQ0tRX1YzQlhld1RPQQ?oc=5",
-   "data": "2026-09-22T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Como mudança no limite de estrangeiros pode afetar janela do Flamengo",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/22/como-mudanca-no-limite-de-estrangeiros-pode-afetar-janela-do-flamengo.ghtml",
    "data": "2026-09-22T07:00:01+00:00",
@@ -1170,28 +1194,12 @@
    "resumo": "Ayrton Lucas preocupa para a Libertadores e Plata será reavaliado pelo Flamengo O Flamengo foi um dos dois clubes a votar contra a redução de estrangeiros relacionados nos jogos a partir de 2027. Durante a reunião nesta…"
   },
   {
-   "titulo": "Dallas Cowboys vai dividir o Ninho com o Flamengo antes de jogo da NFL no Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkNuOFFkbG0wTElzaHBGVVg1b09vbDI3MHdtbFRXWlV2dlB5SXJmd2dwSmZWOXVtN0lVSm9XTktjcjdrcGpqTGdLazN2OEFOYmM5TVRORTRVQ05NMVNhT0xjNm8zcnZ6RTNJX2lFVDh5WERVU1hRY3lmS1BKY3FCSW9yRlhFX2c1ZkhCc0V4TWl5SkFaVk9wcm9ibmZKYXl4ZkVZUzZtSnBIZF9JQkYybzl4V2tNLTA4STEyT2IxbDRwV21PeXJtWFJB?oc=5",
-   "data": "2026-09-21T20:39:27+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Clubes e federações querem audiência com Lula para pressionar contra MP que veta bets",
    "link": "https://ge.globo.com/sp/futebol/noticia/2026/09/21/clubes-e-federacoes-querem-audiencia-com-lula-para-pressionar-contra-mp-que-veta-bets.ghtml",
    "data": "2026-09-21T20:15:33+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Governo estabelece novas regras para publicidade de bets Dirigentes dos principais clubes e de federações de futebol do país querem ser recebidos pelo presidente Luiz Inácio Lula da Silva. A intenção é pressionar o gove…"
-  },
-  {
-   "titulo": "Palmeiras vê Flamengo ampliar vantagem e não depende mais de si para vencer o Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVU3Z2dwQk9VZlZKMDNtTzFpaGI0WUVEejVuUTlNSWhheVZVQUFrc1R1QmdFUkdhRTQ0UGpPckVKQW1tSWVVWFF0ZUo3OXZ5a2U1Z1ZiU3R0NFZKSXJtZmcyUU1XeUJlR1ZIZ2o0MW9TQW92bHBuVjczS25GazdoeUdCaTc5S2dvZnVzMjVXbS1kb3daX3Rfd1M5WWVfazFFczZ2N0ZSNkJqTWw4azY5MDM2OGI2RDhjOVJLODhoN29aQ1BqNDM3UQ?oc=5",
-   "data": "2026-09-21T18:48:45+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Santa Cruz supera público de oito jogos da Série A e fica atrás apenas de Flamengo e Grêmio",
@@ -1224,14 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Grêmio 0 X 0 Palmeiras | Melhores momentos | 28ª rodada | Brasileirão 2026 Líder e vice-líder do Brasileirão, Flamengo e Palmeiras estão empatados com as melhores campanhas forasteiras, com 27 pontos ganhos. Mesmo tendo…"
-  },
-  {
-   "titulo": "Flamengo, Fluminense e Athletico são os melhores mandantes do Brasileirão; veja ranking",
-   "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/21/flamengo-fluminense-e-athletico-sao-os-melhores-mandantes-do-brasileirao-veja-ranking.ghtml",
-   "data": "2026-09-21T18:00:18+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 1 Red Bull Bragantino | Melhores Momentos | 28ª rodada | Brasileirão 2026 O Flamengo está com a melhor campanha mandante do Brasileirão, com 33 pontos conquistados em 14 jogos, empatado com o Fluminense tam…"
   }
  ]
 }
