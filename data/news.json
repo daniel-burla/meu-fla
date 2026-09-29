@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-29T16:59:27.177473+00:00",
+ "atualizadoEm": "2026-09-29T21:21:25.421620+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 32
+   "itens": 31
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,96 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 52
+   "itens": 56
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 51
+   "itens": 48
   }
  ],
  "itens": [
+  {
+   "titulo": "Neymar avança em recuperação e pode voltar contra o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXZWbFBabVdHSGw0UXJmVEt2dk1VSzJKMURzdFRqZm9lRTJBU0RTakhjRkdhTXdqWURYbkdybXBFaFJocFBOMlZuUDBNektjNk0wUGxNVW8zOThXclpFY1FLd0NfTTZEbUZiVWR6WnE3ZDlJRmFiZk5HOUpyUGRnc19SRkVPNThJdUJIR2NDbkFmSHZXQ081WXJZTm1uLWhGeWhrM0Y3VVdQeDNqMlNBN1cyZVY1MHZub0g1R1hTckl1QnpZZkNLT1JVNzk?oc=5",
+   "data": "2026-09-29T21:01:49+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo veta pedido do Santos antes de jogo no Brasileirão",
+   "link": "https://colunadofla.com/2026/09/flamengo-veta-pedido-do-santos-antes-de-jogo-no-brasileirao/",
+   "data": "2026-09-29T20:42:55+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo não aceitou mudar o dia de jogo contra o Santos por conta do calendário que terá até o final da temporada 2026 O Flamengo não aceitou a proposta do Santos para antecipar o confronto entre as equipes, válido pel…"
+  },
+  {
+   "titulo": "Enquete: quem é o jogador mais importante da temporada do Flamengo até aqui?",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/29/enquete-quem-e-o-jogador-mais-importante-da-temporada-do-flamengo-ate-aqui.ghtml",
+   "data": "2026-09-29T19:59:27+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Tá na Área - Marcello Neves e a apuração sobre a lesão de Arrascaeta parte 01 O Flamengo vive uma temporada excelente até o momento. É líder do Campeonato Brasileiro e está nas semifinais da Conmebol Libertadores. Nomes…"
+  },
+  {
+   "titulo": "Campeão continental pelo Flamengo é anunciado como novo técnico do Rio Branco-ES",
+   "link": "https://colunadofla.com/2026/09/campeao-continental-pelo-flamengo-e-anunciado-como-novo-tecnico-do-rio-branco-es/",
+   "data": "2026-09-29T19:58:53+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Treinador de 47 anos, Reinaldo assume o time para a disputa do Campeonato Capixaba e da Copa Espírito Santo O Rio Branco do Espírito Santo anunciou, na segunda-feira (28), Reinaldo como novo técnico para a temporada 202…"
+  },
+  {
+   "titulo": "Júlio César conta bastidores de papel crucial na contratação de Jorge Jesus para o Flamengo",
+   "link": "https://colunadofla.com/2026/09/julio-cesar-conta-bastidores-de-papel-crucial-na-contratacao-de-jorge-jesus-para-o-flamengo/",
+   "data": "2026-09-29T19:53:53+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Júlio César recebeu ligações de dirigente e jogadores antes da chegada de Jorge Jesus ao Flamengo O ex-goleiro Júlio César já contribuiu por diversas vezes com defesas e boas atuações pelo Flamengo, porém, o ídolo do cl…"
+  },
+  {
+   "titulo": "As opções de Leonardo Jardim para substituir Arrascaeta no Flamengo",
+   "link": "https://colunadofla.com/2026/09/as-opcoes-de-leonardo-jardim-para-substituir-arrascaeta-no-flamengo/",
+   "data": "2026-09-29T19:50:30+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Arrascaeta vai desfalcar o Flamengo por cerca de seis semanas O Flamengo sofreu um ‘choque’ forte com a lesão de Arrascaeta nesta Data FIFA. Na vitória do Uruguai por 4 a 1 sobre a Coreia do Sul, o meia sofreu uma fratu…"
+  },
+  {
+   "titulo": "CBF define data, local e horário de jogos do Flamengo x Fluminense, pela Copa do Brasil Feminina",
+   "link": "https://colunadofla.com/2026/09/cbf-define-data-local-e-horario-de-jogos-do-flamengo-x-fluminense-pela-copa-do-brasil-feminina/",
+   "data": "2026-09-29T19:39:41+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Quartas de final da Copa do Brasil Feminina acontecem em jogos de ida e volta A Confederação Brasileira de Futebol (CBF) definiu, nessa segunda-feira (28), os detalhes dos jogos entre Flamengo e Fluminense, pelas quarta…"
+  },
+  {
+   "titulo": "Clubes ameaçam parar o Brasileirão após suspensão das bets",
+   "link": "https://colunadofla.com/2026/09/clubes-ameacam-parar-o-brasileirao-apos-suspensao-das-bets/",
+   "data": "2026-09-29T18:57:47+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Dirigentes querem transição de seis meses a um ano para o fim da publicidade das casas de apostas e tentam levar a CBF para a ofensiva Dirigentes de clubes brasileiros passaram a discutir a paralisação do Brasileirão em…"
+  },
+  {
+   "titulo": "Torcida do Flamengo esgota ingressos para jogo contra o Fluminense, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/09/torcida-do-flamengo-esgota-ingressos-para-jogo-contra-o-fluminense-pelo-brasileirao-2/",
+   "data": "2026-09-29T18:23:29+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Clássico entre Flamengo e Fluminense acontece no dia 11 de outubro O Flamengo aproveita a pausa da Data FIFA para preparar o elenco visando a sequência da temporada 2026. Enquanto isso, a torcida rubro-negra já pensa no…"
+  },
+  {
+   "titulo": "Dirigente de time da Série B insinua que o Flamengo não quer o adversário na 1ª divisão do Brasileirão",
+   "link": "https://colunadofla.com/2026/09/dirigente-de-time-da-serie-b-insinua-que-o-flamengo-nao-quer-o-adversario-na-1a-divisao-do-brasileirao/",
+   "data": "2026-09-29T17:49:29+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Edgard Montemor, dirigente do Novorizontino, concedeu entrevista e citou o Flamengo O Flamengo está na boca de todos, até mesmo de equipes de outras divisões. Depois do empate do Novorizontino com o São Bernardo pela Sé…"
+  },
   {
    "titulo": "Estudiantes confirma 2 lesionados e descarta problema em Carrillo antes de enfrentar o Flamengo na Libertadores",
    "link": "https://colunadofla.com/2026/09/estudiantes-confirma-2-lesionados-e-descarta-problema-em-carrillo-antes-de-enfrentar-o-flamengo-na-libertadores/",
@@ -48,30 +128,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Marcos Rojo é um velho conhecido da torcida do Flamengo Flamengo e Estudiantes (ARG) se preparam para disputar a semifinal da Libertadores. Em busca de uma vaga na final, o time argentino tenta se reforçar e, por isso,…"
-  },
-  {
-   "titulo": "Jogador revelado pelo Flamengo é anunciado em time de Balotelli",
-   "link": "https://colunadofla.com/2026/09/jogador-revelado-pelo-flamengo-e-anunciado-em-time-de-balotelli/",
-   "data": "2026-09-29T16:00:43+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ryan Luka é o novo reforço do Al-Ittifaq (EAU) Oriundo das categorias de base do Flamengo, Ryan Luka é o novo reforço do Al-Ittifaq (EAU). O atacante, que estava no Nacional do Amazonas, vai jogar com dois nomes importa…"
-  },
-  {
-   "titulo": "Ancelotti explica critério que definiu Vini Jr. como batedor de pênalti diante da Austrália mesmo com Bruno Guimarães em campo",
-   "link": "https://colunadofla.com/2026/09/ancelotti-explica-criterio-que-definiu-vini-jr-como-batedor-de-penalti-diante-da-australia-mesmo-com-bruno-guimaraes-em-campo/",
-   "data": "2026-09-29T15:54:57+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Cobrança de Vini Jr. reacendeu polêmica de eliminação do Brasil na Copa do Mundo Vini Jr. marcou um dos gols da vitória da Seleção Brasileira por 4 a 2 sobre a Austrália, em amistoso nesta terça-feira (29). A cobrança d…"
-  },
-  {
-   "titulo": "Ídolo do Flamengo, Ronaldo Angelim rasga críticas à Data FIFA após lesão de Arrascaeta",
-   "link": "https://colunadofla.com/2026/09/idolo-do-flamengo-ronaldo-angelim-rasga-criticas-a-data-fifa-apos-lesao-de-arrascaeta/",
-   "data": "2026-09-29T15:24:44+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Arrascaeta terá que passar por cirurgia após fratura no punho esquerdo O Flamengo recebeu uma péssima notícia com a lesão de Arrascaeta. O meia sofreu uma fratura no punho esquerdo a serviço do Uruguai e terá que passar…"
   },
   {
    "titulo": "Fratura de Arrascaeta faz Flamengo reviver 'maldição da Data Fifa'",
@@ -96,14 +152,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flamengo lamenta lesão de Arrascaeta e destaca ‘brilho’ que Paquetá e Carrascal não têm",
-   "link": "https://colunadofla.com/2026/09/ex-flamengo-lamenta-lesao-de-arrascaeta-e-destaca-brilho-que-paqueta-e-carrascal-nao-tem/",
-   "data": "2026-09-29T14:13:01+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Fábio Luciano lamentou a lesão sofrida por Arrascaeta nessa segunda-feira (28) Arrascaeta, um dos principais nomes do Flamengo, sofreu uma fratura no punho durante um amistoso pela seleção do Uruguai. Por causa disso, o…"
   },
   {
    "titulo": "E se vitória do Brasil valesse para o Cartola? Vanderson, Raphinha e Vini Jr. seriam os melhores",
@@ -146,14 +194,6 @@
    "resumo": "Tá na Área - Marcello Neves e a apuração sobre a lesão de Arrascaeta parte 02 O Flamengo informou, na manhã desta terça-feira, a data para a cirurgia no punho esquerdo de Arrascaeta. O uruguaio tem chegada prevista no R…"
   },
   {
-   "titulo": "Flamengo define data de cirurgia de Arrascaeta após fratura no punho; meia desembarca no Rio nesta quarta",
-   "link": "https://colunadofla.com/2026/09/flamengo-define-data-de-cirurgia-de-arrascaeta-apos-fratura-no-punho-meia-desembarca-no-rio-nesta-quarta/",
-   "data": "2026-09-29T13:03:57+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Arrascaeta se machucou nessa segunda-feira (28), em amistoso entre Uruguai e Coreia do Sul Arrascaeta chega ao Rio de Janeiro por volta das 16h (horário de Brasília) desta quarta-feira (30), após amistoso com a Seleção…"
-  },
-  {
    "titulo": "Alicia Klein: Proibição das bets: a curiosa lógica do presidente do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHI1WlhkZ1BLRE1wREFxNmZTVklmTUJibWVsV1N1d2tET3JNV2xuSnlYTlM1OTJ0U3l6dTRHZ3M1NkptczNxQVM1SFQzWFBVbzNMb1c4MGtScHh5cDZhTGpBNTFaTDhGQlhwOFV3NDg4eWtIX3FTQW5sS0RhUXhyRzdTQl9NZU9XRDFuaWRXWnpIRWR2T1ZleUp5emQxT3RlMmtWWnp5MGhRX05SMXJYUkFycVRLYmQxOG9rcm8zUDdyRWJjcjVN?oc=5",
    "data": "2026-09-29T12:30:00+00:00",
@@ -178,14 +218,6 @@
    "resumo": "Com 28 nomes na lista, Arthur Elias convoca Seleção feminina para amistosos contra Argentina A CBF divulgou os dias e horários dos jogos de ida e volta das quartas de final da Copa do Brasil Feminina 2026. A competição…"
   },
   {
-   "titulo": "Vini Jr marca, Brasil supera a Austrália em amistoso pós-Copa e Samuel Lino, do Flamengo, ganha minutos no 2º tempo",
-   "link": "https://colunadofla.com/2026/09/vini-jr-marca-brasil-supera-a-australia-em-amistoso-pos-copa-e-samuel-lino-do-flamengo-ganha-minutos-no-2o-tempo/",
-   "data": "2026-09-29T12:22:26+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Seleção Brasileira venceu Austrália por 4 a 2 nessa terça-feira (29) A Seleção Brasileira venceu a Austrália por 4 a 2, nesta terça-feira (29), no Suncorp Stadium, em Brisbane. Vanderson, Raphinha, Bruno Guimarães e Vin…"
-  },
-  {
    "titulo": "Flamengo recebe da Fifa por lesão de Arrascaeta na seleção do Uruguai? Entenda como funciona indenização",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONXZHU3dGZ0JyRjZhaUxkaVo4UVNlc3BlT21odzlyc0tUSl85X2hGSllQZDFZNjBfUjlreHRKbUJUeENncEQwUHh6ZzgyYVpDTk9iTXlzLWJZaWdjcGwzbWZwNDMwUGxWTkk0WTJ0N2NaS0pSOTd3ZkZOMi1iYldqLTBIY0FBRk95TzljdHdsMWpqajZRT082ZGNtMkF5YUFLLWFjWWJGZnJqbm9EWUc3ckJrSkRuZWVfQlFXbk56ZTJnSmlFZmNNSTkteE5MNElxM2lQallfb1ZBekdjX1o5MGRtTWRzZXNnWm51Z296SHlsNG9ST1NITg?oc=5",
    "data": "2026-09-29T11:47:00+00:00",
@@ -200,14 +232,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Por que uma fratura no punho tira Arrascaeta de jogos decisivos do Flamengo se o futebol é com os pés?",
-   "link": "https://colunadofla.com/2026/09/por-que-uma-fratura-no-punho-tira-arrascaeta-de-jogos-decisivos-do-flamengo-se-o-futebol-e-com-os-pes/",
-   "data": "2026-09-29T11:05:35+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Arrascaeta se machucou nessa segunda-feira (28), em amistoso Data FIFA O meio campista do Flamengo, Arrascaeta, vai perder jogos importantes na reta final da temporada por ter sofrido uma fratura no punho em amistoso co…"
   },
   {
    "titulo": "Sem Arrascaeta, Flamengo trabalha opções para volta da Data Fifa; Jorginho também desfalca na Libertadores",
@@ -314,14 +338,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Bap, do Flamengo, vê Argentina em festa com veto às bets no Brasil e desabafa: “Como vou pagar o Paquetá?”",
-   "link": "https://colunadofla.com/2026/09/bap-do-flamengo-ve-argentina-em-festa-com-veto-as-bets-no-brasil-e-desabafa-como-vou-pagar-o-paqueta/",
-   "data": "2026-09-29T00:33:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Presidente do Flamengo afirma que compromissos futuros estão “seriamente ameaçados”, rejeita ajuda do Governo e diz que a medida vai fortalecer o futebol argentino O presidente do Flamengo, Luiz Eduardo Baptista, o Bap,…"
-  },
-  {
    "titulo": "Flamengo: Bap dispara contra veto às bets: 'Como vou pagar o Paquetá em janeiro?'",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHBZWHlHaXBuT2s3c2o2QVF1MkJVMGdjRWdiVTgyeGlBMFE3N09zYTBzQWxaM19McU11Vy04LUc3c0RkbWhDOGVDeGFCQnR0U3lnc1dHUFJmS0J5cWZoSWt2dnJpR254UF9vbEoybnh6MmJjREo0ME56bVZmVGdHdlFNNnd6Y0FCZjIzRklTV3JPdFFIbGpVTjR2Z0g2VWttcEtBem1uU2h2UnNMb29wWDlEWGVwZkQzcDZqRThaZkFvZTBnSFZJbEVTX09ESVBuMURF?oc=5",
    "data": "2026-09-29T00:26:30+00:00",
@@ -354,7 +370,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Lesões de Arrascaeta em Datas Fifa: veja impacto no Flamengo",
+   "titulo": "Flamengo já foi eliminado durante lesão de Arrascaeta em Data Fifa; veja números",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdi1udzdzOGRWM0VOYkJ5b2VmaktkYUFXbEZfQm84WWZEX0NOYklvbTI4cFV6RWdJOWlwNk5jblJIczVKbXhYeDBiR0s3anh0eUk4X2RiSGhyczBQcXNUQ3RTVzhaNUNqU2pEbi1KdWN5RnpZTmQxZ3hBejFqcTNFaThzeTdGbEZMWnhqR3owbTBLWkczZ2tRNzJ5NlRidkk4TGM0cG1lQnF1QnJRZEI0M3pMcGlXOUgyUlJyWHpwaEhIbWxsX0FUaQ?oc=5",
    "data": "2026-09-28T21:14:23+00:00",
    "fonte": "lance",
@@ -536,6 +552,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Maracanã faz procedimento de reforço no gramado antes da NFL O Maracanã iniciou, nesta segunda-feira, a troca do gramado visando o decorrer da temporada. A mudança consiste, primeiro, na raspagem completa do campo para…"
+  },
+  {
+   "titulo": "Gramado do Maracanã começa a ser trocado após críticas e jogo da NFL",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVBySVZCNnVnTjk1T1RHbVBCcm9MTHRUamNQTEN4NjlUUjZXUDJsTjlRLUNQT19nV2xhSnRXZ1E5aS1LRVdWbGNRSmc4RE5heFJxUmFOc2gzRk5UbEI1cXZydmxEX0laczlvMzViVnFhVUNRaWhQVmRKelB2aVE5ZEJoOE5zTkpnS3ZTbnUxMkNHY1lHN0ZYUmZONEtONS1xOWQwWW9nWEI2QTFKY2dXdzNoU0VFQQ?oc=5",
+   "data": "2026-09-28T14:29:19+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Mauro Cezar: 'Jorge Jesus não voltou para o Flamengo porque não quis'",
@@ -1208,30 +1232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "NFL no Rio: técnico compara Cowboys com Flamengo: \"Olham para nós e cobram\"",
-   "link": "https://ge.globo.com/futebol-americano/nfl/noticia/2026/09/25/nfl-no-rio-tecnico-dos-cowboys-compara-tamanho-de-dallas-e-flamengo-olham-para-nos-e-cobram.ghtml",
-   "data": "2026-09-25T20:52:30+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Ravens e Cowboys chegam ao Brasil para jogo no Maracanã Técnico da franquia mais valiosa e popular dos Estados Unidos, Brian Schottenheimer comparou a pressão constante no dia a dia do Dallas Cowboys e as cobranças que…"
-  },
-  {
-   "titulo": "Pedrinho diz que não vai mais pedir para jogar no Maracanã e 'clama' por Vasco x Boca em São Januário",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRzBKQ3ppZFBYZU1zcXFyckNaS0pGV3dGWkt6NmpOMUdIUnhhbFJ0U1JweHJsNzY4OVZzcm1XNDhBa0pUQ2l6MnlORG1Vcnc5ZWtmcG5pTjNXY3hjanRXbnhSSjZwMmFocVpCOFFKZ08xUVFzWXJ6Z1lZb2xGUjJWZjlEMjJNT2tMdk4tZGxRN1BkZUluYVR4MlA1bnlyaEk5eURVUGdHOWVRUVdUODFIS0g3ekdpTjNfNWdkM1R1UzZ4ZTVTXzJvNXlfYkx0cTA?oc=5",
-   "data": "2026-09-25T20:25:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Quem é a promessa do Flamengo que chama atenção da Seleção e pode estar no Mundial Sub-17",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/25/quem-e-a-promessa-do-flamengo-que-chama-atencao-da-selecao-e-pode-estar-no-mundial-sub-17.ghtml",
-   "data": "2026-09-25T19:56:16+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Jogadores do Flamengo dão suas opiniões após churrasco de Arrascaeta O Flamengo tem se notabilizado pela formação de atacantes em suas categorias de base. Se Joshua e Josmar são destaques recentes, há mais esperanças de…"
   }
  ]
 }
