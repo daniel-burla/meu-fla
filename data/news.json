@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-30T06:36:48.357680+00:00",
+ "atualizadoEm": "2026-09-30T12:59:32.104912+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 28
+   "itens": 27
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,64 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 52
+   "itens": 58
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 45
+   "itens": 42
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo aciona o STF contra medida provisória que proíbe as bets",
+   "link": "https://colunadofla.com/2026/09/flamengo-aciona-o-stf-contra-medida-provisoria-que-proibe-as-bets/",
+   "data": "2026-09-30T12:41:30+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Clube rubro-negro é o primeiro a recorrer à Suprema Corte contra medida provisória que restringe apostas esportivas O Flamengo entrou com uma petição nessa terça-feira (29) para atuar como ‘amigo da corte’, conhecido ju…"
+  },
+  {
+   "titulo": "Após 4 dias de folga, elenco do Flamengo se reapresenta com foco no Santos",
+   "link": "https://colunadofla.com/2026/09/apos-4-dias-de-folga-elenco-do-flamengo-se-reapresenta-com-foco-no-santos/",
+   "data": "2026-09-30T11:42:45+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Leonardo Jardim retoma os trabalhos no Ninho do Urubu no mesmo dia em que Arrascaeta volta ao Rio para operar o punho O elenco do Flamengo se reapresenta nesta quarta-feira (30), no Ninho do Urubu, depois de quatro dias…"
+  },
+  {
+   "titulo": "Flamengo volta a treinar nesta quarta-feira; veja a programação",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUtRWkU1R25vdHZxYWs1bzFpRlBmVDhHZ05hdXp4cVJWYWhsR1dRZm9uZ3NxYTFpTzRZOFZCOXVsS2ZTOTQ2ckxZazFIUHZXUms2Vmo2emtCY25xNGI3SHAtUFpNSUFwd2NwLVJ3bjNEVmQxTUwweGlPNTNIbUtnX25DQUhtQVZaeWZMRWY5aUhaQ2RleXFPTkZSTENRM1NiTVhKSVVKMng0QQ?oc=5",
+   "data": "2026-09-30T10:05:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "'Como pago o Paquetá?': Flamengo faz conta sem bet e ainda deve por reforço",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVlRSN043VFZNWnpVMFdRSU1TampjNVpxS05KM0paOE5qa0xkbzhtc0RLWlFaNE82SjVEVGtLTmszTEdXb1otQTZYcXhfZ0ZHdFVrR0VVVlVmQlRFMG1rOW82WEp6M3lnazhpczNpV0I2X29IQ1NLazNLZThYQkdySV9nUE54emRjcEYyTllhaGtCMjJVSmRpa1lGMmkxQnFoYVJjQ0laT2N4bGdMUmdxaQ?oc=5",
+   "data": "2026-09-30T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Desfalque de peso: Flamengo perde mais em jogos sem Arrascaeta; veja comparação",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/30/desfalque-de-peso-flamengo-perde-mais-em-jogos-sem-arrascaeta-veja-comparacao.ghtml",
+   "data": "2026-09-30T07:00:01+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Tá na Área - Marcello Neves e a apuração sobre a lesão de Arrascaeta parte 01 O Flamengo viveu um baque na última segunda-feira. A notícia de que Arrascaeta, com uma fratura no punho esquerdo, será desfalque por tempo i…"
+  },
+  {
+   "titulo": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcE83SkJDM25zdkJJeFc0N05hYUlSM2lBTjNSdnk0OHF6cklPaWJhZWpBWm85eGNpSDBFNjdBN1dEay02NjRvSXl0MWdnSktwRWtrNVlWMU15aUNadWM0cFVVRklBTHJHd0NHUjFKck1vN0g2azZtQ2NxeEhlNE8tTzR4Q2N3eFBFcnhabXZsR1FQUmFQRExxZXktalRhTndPNmpULXRFN0lHVi0yalFTbW00SVg3OHktbnRUX3BUZ2JhcTBmb2FyUEh3QjZDQURMOTFDYjdfbmhiODZK?oc=5",
+   "data": "2026-09-30T05:03:28+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
   {
    "titulo": "Brasileirão Sub-17 2026: veja o que está em jogo na última rodada",
    "link": "https://ge.globo.com/pr/futebol/brasileirao-sub-17/noticia/2026/09/30/brasileirao-sub-17-2026-veja-o-que-esta-em-jogo-na-ultima-rodada.ghtml",
@@ -40,14 +88,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "São Paulo 2 x 1 Palmeiras | Melhores Momentos | Campeonato Brasileiro Sub-17 O Campeonato Brasileiro Sub-17 entra na última rodada e vai definir os classificados às quartas de final da competição. Cinco times já estão g…"
-  },
-  {
-   "titulo": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcE83SkJDM25zdkJJeFc0N05hYUlSM2lBTjNSdnk0OHF6cklPaWJhZWpBWm85eGNpSDBFNjdBN1dEay02NjRvSXl0MWdnSktwRWtrNVlWMU15aUNadWM0cFVVRklBTHJHd0NHUjFKck1vN0g2azZtQ2NxeEhlNE8tTzR4Q2N3eFBFcnhabXZsR1FQUmFQRExxZXktalRhTndPNmpULXRFN0lHVi0yalFTbW00SVg3OHktbnRUX3BUZ2JhcTBmb2FyUEh3QjZDQURMOTFDYjdfbmhiODZK?oc=5",
-   "data": "2026-09-30T04:19:06+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Especialista confirma ao Coluna do Fla troca do gramado do Maracanã em dezembro",
@@ -74,14 +114,6 @@
    "resumo": "Rubro-Negro encerrou os Jogos Sul-Americanos Santa Fé 2026 com 37 atletas no pódio, em campanha histórica O Flamengo encerrou a participação nos Jogos Sul-Americanos Santa Fé 2026, disputados na Argentina, com números d…"
   },
   {
-   "titulo": "Local, venda e valores: veja informações sobre ingressos para torcida do Flamengo contra o Estudiantes, na Argentina",
-   "link": "https://colunadofla.com/2026/09/local-venda-e-valores-veja-informacoes-sobre-ingressos-para-torcida-do-flamengo-contra-o-estudiantes-na-argentina/",
-   "data": "2026-09-30T00:33:05+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Estudiantes (ARG) definiu os setores em que os rubro-negros vão ficar no Estádio Uno; venda de ingressos começa nesta quinta-feira (01) O Estudiantes (ARG) divulgou informações sobre a venda de ingressos para jogo contr…"
-  },
-  {
    "titulo": "Jorginho elege Pulgar um dos melhores jogadores do Flamengo",
    "link": "https://colunadofla.com/2026/09/jorginho-elege-pulgar-um-dos-melhores-jogadores-do-flamengo/",
    "data": "2026-09-30T00:09:20+00:00",
@@ -96,14 +128,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Júlio César revela a Romário como ajudou a defender Zinho de torcedores do Flamengo",
-   "link": "https://colunadofla.com/2026/09/julio-cesar-revela-a-romario-como-ajudou-a-defender-zinho-de-torcedores-do-flamengo/",
-   "data": "2026-09-29T23:06:16+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ex-goleiro relembrou a Romário como ajudou a defender Zinho de torcedores após derrota do Flamengo para o Atlético-MG, em 2004 Ídolo da torcida do Flamengo, Júlio César relembrou, em conversa com Romário, um dos episódi…"
   },
   {
    "titulo": "Plata e Ayrton Lucas: veja as situações dos 2 jogadores antes do próximo jogo do Flamengo",
@@ -276,7 +300,7 @@
   {
    "titulo": "Uruguai posta foto de Arrascaeta com braço imobilizado e manda recado ao meia do Flamengo após fratura",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWnFnaFJaU3lEeUVOa1hEMTk3eFlhdmlRZ2YxM1hnY0lnejhseHA4YTRCVmo3bkNqd244MWFCS2Q5TG96YmRHV1B1TWNzaTVRSTVZeV81OXdWQmNLNnlwTHlpeDlVa1lmSURRY3JwUllwc05rYkNHS2VfQmt6WnBTeVYtb0w3dm56UjR6My10djhOdnBCSEFsV1NDcFZ0Y0xGU3loU3R0VzZBaXRYaUY5WEFCNnFYdVZVUTJXNlhnRnVHRG5PdVdYdElHX3FQRk9vRHdhOFc2UDJTdjFC?oc=5",
-   "data": "2026-09-29T10:16:00+00:00",
+   "data": "2026-09-29T10:25:11+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -463,14 +487,6 @@
    "data": "2026-09-28T18:47:44+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta passará por cirurgia após fratura com o Uruguai e desfalca o Flamengo!",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGeDB6STR3NVU3ZXBPYV9GZlppcFNVdWtqaHV1dXo1NmxTdF8wT05Za185MXV5YUlfbHNWZFEycXkyRms5c19kbUMyMWUycUQ5VXVmUWUzQi1LOVVXQ1JBanU4N0pCVFU?oc=5",
-   "data": "2026-09-28T18:22:16+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -735,14 +751,6 @@
    "data": "2026-09-28T00:12:48+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Lamar Jackson brilha no fim, e Ravens viram sobre Cowboys com cronômetro zerado em primeiro jogaço da NFL no Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWHRPVXRRSnUyaTF4WkpHZ19YcUtrRE1zRE5QMExwNHNYLTRqa25EU0U0bFE1Z3RJNzBUdU9XYlEyUWxUblpvQ1hwOWl6dTZFQWYtR08xVTgyUEg1QjBZbVAydHlFOW1ENVNrOVRrMmxoWW94Z3VFTlBjMlhMZFVEaElrWm1ZTjBDbC1vaHNyX2hmS1dDTEl2WkJURHdsSU8yUWlWZzJFZE85RWxNNXBwa2N5VEhzNEZNdnVtNzlXMUQxbGc3V2ktenJpN0U3N3dGRFh0UGN2VVBpWjdvVHVZYQ?oc=5",
-   "data": "2026-09-27T23:51:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -1082,14 +1090,6 @@
    "resumo": ""
   },
   {
-   "titulo": "NFL toma conta do Maracanã, templo do futebol",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjNvUWlPRjhVVFk1RGlWSElpU2JGVmYzNl9lZi1QSklhODNsQmFnbWNQWG51bTE2M3owUDBrZUt4Y3lGR2xhVVVhVkx3UnJ0YzhiU0cyX2drQ1lqaG45OVp4RHE5eXZrYVhHaG52TUFoMktFdU54M0MwRnVKbjg2TkJoQVVUU0RFT2ZONHAyd3F4X3c3aTY2aGpuTUR3R1BFZ0ZDY1lISGpCck1Y?oc=5",
-   "data": "2026-09-26T18:20:14+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Léo Ortiz e Royal vivem dia de fãs em treino do Cowboys no CT do Flamengo; veja imagens",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/26/leo-ortiz-e-royal-vivem-dia-de-fas-em-treino-do-cowboys-no-ct-do-flamengo-veja-imagens.ghtml",
    "data": "2026-09-26T16:24:16+00:00",
@@ -1226,12 +1226,12 @@
    "resumo": ""
   },
   {
-   "titulo": "NFL no Rio: técnico compara Cowboys com Flamengo: \"Olham para nós e cobram\"",
-   "link": "https://ge.globo.com/futebol-americano/nfl/noticia/2026/09/25/nfl-no-rio-tecnico-dos-cowboys-compara-tamanho-de-dallas-e-flamengo-olham-para-nos-e-cobram.ghtml",
-   "data": "2026-09-25T20:52:30+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Ravens e Cowboys chegam ao Brasil para jogo no Maracanã Técnico da franquia mais valiosa e popular dos Estados Unidos, Brian Schottenheimer comparou a pressão constante no dia a dia do Dallas Cowboys e as cobranças que…"
+   "titulo": "Em fala sobre bets, Lula faz alerta a Flamengo e Corinthians: 'Vão ter que arranjar outra forma'",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlc0ZDFmZFI0T2tCYTJSR1AzcFBlSEJOenB1NTVGeTljNnJ5NlFlUUhiS25mamd0TFJhQ2UzY24yRUlPSXhxU3NZQ3RkRVpkTzZjSnFLeWNTbWl1dk9YVUtaVFp2VEhZR0I4V2hIMFFPa0F3ZEFOeEhFcHdEWkRYalFBR2JnaXVod3B0SkVmQ0UwZjdLNXdOUzZibjBqaGFrYTFhQ2I2ZVBiQVgzcFE?oc=5",
+   "data": "2026-09-25T20:56:12+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   }
  ]
 }
