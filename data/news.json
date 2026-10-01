@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-01T01:30:25.017092+00:00",
+ "atualizadoEm": "2026-10-01T07:43:28.261701+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -23,16 +23,64 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 55
+   "itens": 57
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 49
+   "itens": 50
   }
  ],
  "itens": [
+  {
+   "titulo": "Entenda cirurgia de Arrascaeta e situação dos lesionados do Flamengo para reta final da temporada",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/01/entenda-cirurgia-de-arrascaeta-e-situacao-dos-lesionados-do-flamengo-para-reta-final-da-temporada.ghtml",
+   "data": "2026-10-01T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Luiza Sá conta as atualizações da lesão de Arrascaeta no Tá Na Área O Flamengo aproveitou a Data Fifa para dar dias de descanso e observar melhor o elenco, mas principalmente para focar na recuperação dos atletas. Com t…"
+  },
+  {
+   "titulo": "Vasco tem direito de jogar no Maracanã? Veja o que dizem edital e acordo com Fla-Flu",
+   "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/01/vasco-tem-direito-de-jogar-no-maracana-veja-o-que-dizem-edital-e-acordo-com-fla-flu.ghtml",
+   "data": "2026-10-01T06:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "João Almirante: \"Consórcio Maracanã negar o direito do Vasco é agir contra o edital\" O assunto Maracanã está no centro dos debates no futebol carioca, com uma guerra de versões entre o Vasco e o consórcio que administra…"
+  },
+  {
+   "titulo": "Vídeo não é de torcida do Flamengo protestando contra Lula por fim das bets",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnItbVBTM3drWDM0MTZ2MnVaSG81VjZiU3FFdThIYVpjOEhrcGdvdjBreDdrX1RhbVlRTzRLeWxjV20zRHY4LVU0XzN4Zm05SFlFWTZ0WWdRdktFSTJXTEs0WkRvNVUzYXRzYUdIbndqVkdpYUpsckNzME5GazFBQm1QejRHSW8tNkRXYXNfZEJCWlBBY0poRkZBTGJrb0QtRm9oZzM1TWZDVGZuX1pKeHZRMDM1SGlIVHJBTw?oc=5",
+   "data": "2026-10-01T03:02:16+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodinei vê “honra” em reencontro com o Flamengo e cita Bruno Henrique",
+   "link": "https://colunadofla.com/2026/09/rodinei-ve-honra-em-reencontro-com-o-flamengo-e-cita-bruno-henrique/",
+   "data": "2026-10-01T02:55:56+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Contratado pelo Santos em setembro, o lateral enfrenta o ex-clube no dia 8 de outubro, na Vila Belmiro, pela 29ª rodada do Brasileirão Rodinei já projeta o primeiro reencontro com o Flamengo desde que trocou a Grécia pe…"
+  },
+  {
+   "titulo": "Painel: Ex-vice do Flamengo, deputado quer transição de 2 anos para o fim de publicidade de bets no futebol",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTjN6MTlGRXNwU0YtWGNPOElNc0o1aXBUMmNwbUxhc2ppenU3Ul9iOVBwQnFPTm1uR2djUDZhcW9TLVhIQ1hGcFBFX0Z4clFyTm01TU1xTUgxTEx4S0ozYmREWkdnZjlEMmpPQ2xyeXFZNDlXN29sNGFuRlM5U0MyNkJlcDFXMlN3ZDZ2bHRCOUdKeWhTZGU0Qk5nYnRWM3RHRXhnTG4yanJqZkEwdzJObmZfWXl5U1B3UC1lT1VOOTdjSGRPdWowWWZ0YUJoMTZFUEVjUngwRElmUHVwb25qRy1HaVl5LUtfMU9KaXhR?oc=5",
+   "data": "2026-10-01T02:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Titular do River na final de 2019 pode reencontrar o Flamengo pelo Estudiantes na Libertadores",
+   "link": "https://colunadofla.com/2026/09/titular-do-river-na-final-de-2019-pode-reencontrar-o-flamengo-pelo-estudiantes-na-libertadores/",
+   "data": "2026-10-01T01:41:04+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Volante de 40 anos defende o Deportivo Maipú (ARG), mas virou ideia do clube argentino após duas lesões no meio de campo antes da semifinal O Estudiantes (ARG) avalia chamar o volante Enzo Pérez, de 40 anos, para a semi…"
+  },
   {
    "titulo": "Artur Jorge admite estratégia errada na eliminação do Cruzeiro para o Flamengo na Libertadores: 'Teria feito...'",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVEl3UDJTVlhybnZ0bTNuZW5OTU5adElJU3JUelp4UzAtZ0gtQmVaTEI2allNRDY1STRpSGVLOXR5VzVUaWRWdFY1LUlqc1lOZWhIQ1Yya1h1Z0V4TXhYMkJMU09iLUt2TnViczFiVWViNm5CTXNyaGZHcWJ0Uks3cEliY0RQX2pKeTFnZkJza2stOTNOZlFsTkFya0tFMkR2OXQ0MS11a2loTjJiMVJwZ0JqUXhoOVVHSkV6QW90OGZrTGZ1RzhjQV9SbDVUbzRwdUYtRFpyZnpxSWNTcVE?oc=5",
@@ -74,6 +122,14 @@
    "resumo": "O Fluminense venceu o Botafogo por 84 a 74 na noite desta quarta-feira (30), no segundo jogo do Campeonato Carioca. Com o triunfo em casa, no Ginásio João Coelho Netto, em Laranjeiras, o tricolor garantiu a vaga na fina…"
   },
   {
+   "titulo": "Flamengo: Arrascaeta chega ao Rio para cirurgia no punho: 'Voltar rapidamente'",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3htUnZ1Q0g3c3h6Uko3WG5UQ21iRjMtZE4wdWMwQ1g0Wm5kbWszd0loY29Bb1ktYXZOVjlpbDgwWFZwYTFpaU9FU2xWVjFraUhmMVZmSF9lNWJQU3pLQ2ZNYkxiaWU0UEIzTnUyeUNRZjF6Y04wUXZaYURLaGFicU9PVGlud2dIODRxYlNQVjhvaUZrXzc4NGhtbi1EX0p0VURvOHNjY21NOTVpQ2FfZGNXb2tPZVIx?oc=5",
+   "data": "2026-10-01T00:20:22+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Plata volta a treinar e pode reforçar o Flamengo contra o Santos",
    "link": "https://colunadofla.com/2026/09/plata-volta-a-treinar-e-pode-reforcar-o-flamengo-contra-o-santos/",
    "data": "2026-10-01T00:12:05+00:00",
@@ -106,14 +162,6 @@
    "resumo": "Léo Pereira fala sobre experiência de visitar os Estúdios Globo O zagueiro do Flamengo Léo Pereira fez uma visita aos Estúdios Globo nesta quarta-feira. O jogador é parte da campanha do Criança Esperança ao lado da namo…"
   },
   {
-   "titulo": "Vídeo não é de torcida do Flamengo protestando contra Lula por fim das bets",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMnItbVBTM3drWDM0MTZ2MnVaSG81VjZiU3FFdThIYVpjOEhrcGdvdjBreDdrX1RhbVlRTzRLeWxjV20zRHY4LVU0XzN4Zm05SFlFWTZ0WWdRdktFSTJXTEs0WkRvNVUzYXRzYUdIbndqVkdpYUpsckNzME5GazFBQm1QejRHSW8tNkRXYXNfZEJCWlBBY0poRkZBTGJrb0QtRm9oZzM1TWZDVGZuX1pKeHZRMDM1SGlIVHJBTw?oc=5",
-   "data": "2026-09-30T23:36:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo vence 1ª batalha no STF em disputa contra o fim das bets",
    "link": "https://colunadofla.com/2026/09/flamengo-vence-1a-batalha-no-stf-em-disputa-contra-o-fim-das-bets/",
    "data": "2026-09-30T23:22:51+00:00",
@@ -138,20 +186,20 @@
    "resumo": ""
   },
   {
-   "titulo": "Fux aceita Flamengo em processos do STF sobre futuro das bets",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNndvRmZhSDRWTHJ3d2w4dVMzcHFOOHJIdVFmOUMtSzJ5ZTVZNFBfZzJOQWFhNkdsWDR1aUJQVXhUWUQwUl8tc1BWUkc5MWhXemdDLUM5OXdrWmtBUm1sMlRiVWtGc2JFUlp3VlpiM2dvcE5qeWVPc0pZM2tIdGplUFFVdHFKVzIxWEFYM1dXS2prbTVVdnB2Q3dtMUpteE1PcTFCTFdhOWxTbEszam83b3p6dnhfeFVObFYzeEU0THV2Slc4RU9PNFZLVldvQQ?oc=5",
-   "data": "2026-09-30T22:53:47+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Arrascaeta tranquiliza a torcida do Flamengo após fratura",
    "link": "https://colunadofla.com/2026/09/arrascaeta-tranquiliza-a-torcida-do-flamengo-apos-fratura/",
    "data": "2026-09-30T22:52:43+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Meia fraturou o punho esquerdo em amistoso do Uruguai, será operado nesta quinta-feira (1º) e desfalca o Flamengo na semifinal da Libertadores Arrascaeta desembarcou no Rio de Janeiro na tarde desta quarta-feira (30) co…"
+  },
+  {
+   "titulo": "Fux aceita Flamengo em processos do STF sobre futuro das bets",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNndvRmZhSDRWTHJ3d2w4dVMzcHFOOHJIdVFmOUMtSzJ5ZTVZNFBfZzJOQWFhNkdsWDR1aUJQVXhUWUQwUl8tc1BWUkc5MWhXemdDLUM5OXdrWmtBUm1sMlRiVWtGc2JFUlp3VlpiM2dvcE5qeWVPc0pZM2tIdGplUFFVdHFKVzIxWEFYM1dXS2prbTVVdnB2Q3dtMUpteE1PcTFCTFdhOWxTbEszam83b3p6dnhfeFVObFYzeEU0THV2Slc4RU9PNFZLVldvQQ?oc=5",
+   "data": "2026-09-30T22:36:10+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Fim das bets foi pior para Palmeiras ou Flamengo? Lavieri explica",
@@ -168,14 +216,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Arrascaeta, do Flamengo, lesiona o punho esquerdo em vitória do Uruguai Em enquete realizada pelo ge, a torcida do Flamengo elegeu Samuel Lino como o jogador mais importante do elenco até esse momento da temporada. O at…"
-  },
-  {
-   "titulo": "Flamengo vence América-MG, vai às quartas do Brasileirão Sub-17 e pega o Corinthians",
-   "link": "https://colunadofla.com/2026/09/flamengo-vence-america-mg-vai-as-quartas-do-brasileirao-sub-17-e-pega-o-corinthians/",
-   "data": "2026-09-30T21:58:12+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Gol de Isaac Gomes na Gávea garantiu o sétimo lugar ao Flamengo O Flamengo venceu o América-MG por 1 a 0 nesta quarta-feira (30), na Gávea, pelo Campeonato Brasileiro Sub-17. Com o resultado, os Garotos do Ninho garanti…"
   },
   {
    "titulo": "Flamengo x Fluminense: CBF define árbitro para o clássico do Brasileirão",
@@ -210,14 +250,6 @@
    "resumo": "Alerta ligado: Aproveitamento do Flamengo cai sem Arrascaeta O Flamengo informou, na tarde desta quarta-feira, que a venda de ingressos para o jogo de ida contra o Estudiantes, em La Plata, será aberta nesta quinta-feir…"
   },
   {
-   "titulo": "Flamengo: Arrascaeta chega ao Rio para cirurgia no punho: 'Voltar rapidamente'",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3htUnZ1Q0g3c3h6Uko3WG5UQ21iRjMtZE4wdWMwQ1g0Wm5kbWszd0loY29Bb1ktYXZOVjlpbDgwWFZwYTFpaU9FU2xWVjFraUhmMVZmSF9lNWJQU3pLQ2ZNYkxiaWU0UEIzTnUyeUNRZjF6Y04wUXZaYURLaGFicU9PVGlud2dIODRxYlNQVjhvaUZrXzc4NGhtbi1EX0p0VURvOHNjY21NOTVpQ2FfZGNXb2tPZVIx?oc=5",
-   "data": "2026-09-30T20:20:22+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Cristiano Ronaldo anuncia saída da Seleção após ‘briga’ com Jorge Jesus, ex-Flamengo",
    "link": "https://colunadofla.com/2026/09/cristiano-ronaldo-anuncia-saida-da-selecao-apos-briga-com-jorge-jesus-ex-flamengo/",
    "data": "2026-09-30T19:49:07+00:00",
@@ -231,14 +263,6 @@
    "data": "2026-09-30T19:14:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Flamengo fecha patrocínio de R$ 10 mi com Maricá para time feminino",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjZzZWJ6TzhwVDNYTUtsb3owUUVhV0cwdnAwVDBoUmJyTW9xbDA1ME91bEpxeGhjcGlibFdnd3NGRFg0aTBCelU2cjIxZHR5UzFGUnIxWnZmSm9UNmhYMzZWTGhYeFREYmVZNV9pVUtTOTRsaHBoNXA4cVlBcy1yOWJSdllPOEVGYTF0eXYtRDhNYklGU0lHVW5PVE5ZSmZCR3F2NURadGJ0SU1TcUlCbldmbVFsSmVtT1VJZUlmZDBHLWY1M29DaXhYUnBTbzVqa296cDdjQlJObXM?oc=5",
-   "data": "2026-09-30T18:59:30+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -322,20 +346,20 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo desmente ‘não’ ao Santos após pedido para mudar data de jogo do Brasileirão",
-   "link": "https://colunadofla.com/2026/09/flamengo-desmente-nao-ao-santos-apos-pedido-para-mudar-data-de-jogo-do-brasileirao/",
-   "data": "2026-09-30T16:22:49+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Santos x Flamengo acontece no dia 08 de outubro O Flamengo volta a campo em 08 de outubro, quando enfrenta o Santos, pela 29ª rodada do Brasileirão. Enquanto os times se preparam, surgiram rumores de que o Fla teria rej…"
-  },
-  {
    "titulo": "Flamengo aprova parceria com a Prefeitura de Maricá e prevê futebol feminino lucrativo; veja detalhes",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/30/flamengo-aprova-parceria-com-a-prefeitura-de-marica-e-preve-futebol-feminino-lucrativo-veja-detalhes.ghtml",
    "data": "2026-09-30T16:00:40+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "O Flamengo acertou uma parceria com a Prefeitura de Maricá para o futebol feminino do clube. O projeto Flamengo Maricá foi aprovado, na última terça-feira, em reunião do Conselho Deliberativo, na sede do clube na Gávea,…"
+  },
+  {
+   "titulo": "Rodrigo Mattos: Flamengo fecha patrocínio de R$ 10 mi com Maricá para time feminino",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTjZzZWJ6TzhwVDNYTUtsb3owUUVhV0cwdnAwVDBoUmJyTW9xbDA1ME91bEpxeGhjcGlibFdnd3NGRFg0aTBCelU2cjIxZHR5UzFGUnIxWnZmSm9UNmhYMzZWTGhYeFREYmVZNV9pVUtTOTRsaHBoNXA4cVlBcy1yOWJSdllPOEVGYTF0eXYtRDhNYklGU0lHVW5PVE5ZSmZCR3F2NURadGJ0SU1TcUlCbldmbVFsSmVtT1VJZUlmZDBHLWY1M29DaXhYUnBTbzVqa296cDdjQlJObXM?oc=5",
+   "data": "2026-09-30T14:59:30+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Sem Arrascaeta? Flamengo tem dois meias que pontuam mais do que o uruguaio no Cartola 2026",
@@ -432,6 +456,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Tá na Área - Marcello Neves e a apuração sobre a lesão de Arrascaeta parte 01 O Flamengo vive uma temporada excelente até o momento. É líder do Campeonato Brasileiro e está nas semifinais da Conmebol Libertadores. Nomes…"
+  },
+  {
+   "titulo": "Maracanã: O novo gramado híbrido é a solução definitiva?",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeGdiZ0daWXRWYmxSajhxbm44ejlTQW8tcy1yTFd5UjFSUVNyVUdlZ0h0ZE0teGdBdzFXUlRMTGFfSVlyQ1FFVWl6NGVzaHJHdzBqejhoeVJDLXF4dS1ka2t6OS1CeGI4c1k5Mm9YVkFkcjhrRFFZR2NQcXpZY2JVNi1qU1lkbEtWYXd1dWpwdw?oc=5",
+   "data": "2026-09-29T17:19:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Fratura de Arrascaeta faz Flamengo reviver 'maldição da Data Fifa'",
@@ -666,6 +698,22 @@
    "resumo": ""
   },
   {
+   "titulo": "Vale taça! Sesc Flamengo e Praia Clube duelam pela Copa Supervôlei neste sábado",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEhfWTZpYjVyQVYzWlVYWEtpVXY3UllpOGg4V0RPX2U1Y1RVVFJfd2JoeXFjS2hmX3MzSFpnRGN3OU0tM0EySmhyX2lzM2QtWDdDdHdzcHQ5QmlQWFRlUWpiSzJvdUhubVpkd1N0dEtWYVNOaEoxMWxaZmlLSDRfNmwwOWNMVEhsYkVVLWFqNXFzV2duRzV1ZkZYMnRfOGVJSDJocnZaRDg3enNRcHIwZFh5RWo?oc=5",
+   "data": "2026-09-29T00:09:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Praia Clube bate o Fluminense e faz 'final' com Sesc Flamengo na Copa Supervôlei",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZU1mWVJqWHN2aDNKOC1MRUR3NlF6dDJ3RHhFb1pPV25laXdqSEdONFZBOHlBang3UENuYjk3b0N0U2dmNDFyUERaVGVTdGVmTk92YVc4ZFg5dm1QZUZSRlctajgwOGlFZjQyRU11SzR4MElIQzVjZk5JNmcwUzdhc2lDTTZJUVdYX0hYNXhldHVFNTBYMFBoWGE2MlJSZWRGOC15QkhsX3J4bVRQYUhsSzZabWg?oc=5",
+   "data": "2026-09-29T00:09:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Arrascaeta se pronuncia após lesão que o tirou do Flamengo na semifinal da Libertadores: 'Não há medo...'",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYkZxV1ZVa1ZZVnlpbW9BTFZQZ0t3M0hpV1dIdFdFcDJMXzVUWVdST3hseDFyNUlZMy1ETnJheEVPSU01aWRUbHlmbVhxWi1GX1IwYUlKYjROMHVqclFpTkVINTdXSEZGSUI4Q0JaSEdVaVEzMlVobkRFX1ExcnNjUTNkaTRKWXd1Q2ZDcVJUa2oyVzUtY0FiRFVYdlM1RmN1Zm5EZnd6clhyVTlzTUEyLVZlTTBQYWcxWGRSSnZyMV9GaW1pb0FnZDFnYw?oc=5",
    "data": "2026-09-28T21:28:00+00:00",
@@ -754,20 +802,20 @@
    "resumo": ""
   },
   {
-   "titulo": "Arrascaeta desfalcará Flamengo por seis semanas e vira baixa para Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlFhMlhtS0dlbXUzOERhUGU2ZXdqR1hMTDVUU2E3NmJhXzdBRy1CUXA4OFB0OFhjbzFPeFlyWThfOWswNFZ6d29OanpNZ2VJemVVdm02R1BTaUhNS0dJbHFUZVEzek12ck9Ib3JOX3BSRnlIQ0RtNlhQSFR1X0FabWhGaGVVWjhmQ2tRQW54dmlWa2xSbm9Hd2U4UkJfamwzTFYxWHk2Y2VsUHRsdGxnNnVVaUZTaU92QUppSFdvMVpKbGU3R1JqNA?oc=5",
-   "data": "2026-09-28T18:14:52+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Ex-Flamengo, Reinaldo é anunciado como novo técnico do Rio Branco-ES",
    "link": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/28/ex-flamengo-reinaldo-e-anunciado-como-novo-tecnico-do-rio-branco-es.ghtml",
    "data": "2026-09-28T18:12:08+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Vídeo de anúncio da parceria Rio Branco-ES e a Volt Sport O Rio Branco anunciou nesta segunda-feira Reinaldo, ex-jogador do Flamengo, como novo técnico para a temporada 2027. Aos 47 anos, o treinador chega para comandar…"
+  },
+  {
+   "titulo": "Arrascaeta desfalcará Flamengo por seis semanas e vira baixa para Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlFhMlhtS0dlbXUzOERhUGU2ZXdqR1hMTDVUU2E3NmJhXzdBRy1CUXA4OFB0OFhjbzFPeFlyWThfOWswNFZ6d29OanpNZ2VJemVVdm02R1BTaUhNS0dJbHFUZVEzek12ck9Ib3JOX3BSRnlIQ0RtNlhQSFR1X0FabWhGaGVVWjhmQ2tRQW54dmlWa2xSbm9Hd2U4UkJfamwzTFYxWHk2Y2VsUHRsdGxnNnVVaUZTaU92QUppSFdvMVpKbGU3R1JqNA?oc=5",
+   "data": "2026-09-28T18:08:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Neymar revela torcida para o Flamengo durante jogo da NFL: \"No Rio, sou Mengão\"",
@@ -866,6 +914,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Maracanã inicia troca do gramado visando a Libertadores após reclamação de jogadores",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZHhoVkx3OVRwRzFxbU13VEo5NHhQaUdzSnJ0alRXZXRQTlUyUUt6b3AtdER3ZUdSVjFvb01VRzgyY1N6d2NvSjM0X2lmVEluVVBWeFJlWEFyeXJQaWF5QkRQTnhjZWFLY0FTeVp6TFJsdmNjWDJvZVc4ejNmbU1ELUVYbWx4OHdkX2ZRX3VTNEF6cHZmOGdwVFR2Q1VNUmFHai1Nbkp2YV9tNVNERWJOVl8wTWpONUlXLXdxYW5GcG94bWM1SDhseGZGZ3h5SEhmZzZhVG5RbEc2Q2VURm1TZFZUYnptSFc3ekw4?oc=5",
+   "data": "2026-09-28T14:13:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Pós-Copa, Série A volta mais intensa e mais disciplinada",
    "link": "https://ge.globo.com/gato-mestre/noticia/2026/09/28/pos-copa-serie-a-volta-mais-intensa-e-mais-disciplinada.ghtml",
    "data": "2026-09-28T14:00:00+00:00",
@@ -941,14 +997,6 @@
    "titulo": "Lamar Jackson elogia Brasil após estreia no Maracanã e minimiza preocupação com gramado",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSm1UeHpPTDVKdTVMSW5obVB0Wi1TeDVKeEVmeFdOWktiWURoWEJkbmRIZDlCX2UtMHhOM1NFand3bElvUEM1T1k1M3o3ZEVYS1U1UHZhRWstYUROMldlV1lpZHZ5OGxONDdXSjYyN0F3QXRvbE5MbkJYc3JiOUZOT2t4S19vdnhTVm1SeGliMEx0MWRWTHdYQ1hDSDZ3Qlp0ZGRjUUVzNlNKcnFFd204OWNRQzdzWU4xQ2Q3V2NiUFBVQk1idGRqUFhjcVFaVEha?oc=5",
    "data": "2026-09-28T01:38:45+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Técnico dos Ravens avalia gramado do Maracanã após NFL Rio Game",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd1N2U3pURnI1VWhJNUpWY3RtZDFGMk9YX0M2T0I2c2NDaFd4MS1iQmhidEVabjMyc2NwakVENFNWb3hqYm5XNHFlbmpLaXctNDMzN2hkR3BETVdTT2NmUUpNNXZTVUNWWldzZkZZdWxWcm00eDZ3Q0l3dkNmY0RnWF9uTVhMX2VnZ3YzSDNkMHBkSDQ5Y3BNc2RzbXNRUWtWUEVCbzdyN0hsamRkRnRHOA?oc=5",
-   "data": "2026-09-28T01:19:28+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -1181,54 +1229,6 @@
    "titulo": "Saída da Betano pode custar 'um Paquetá' ao Flamengo",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUZ3SkwwLTZBN2pBWHk4YW1sOXptVlhWbVY4U3RHMEtJeHdNZmpCdzA3UlI2S3R5VXluT3BFMHEtZTVNcVNmMHZLU0xpSi15cHpYaWJGRXM0cHF4VlZJOE9VUlZTcWpGVjV4NzFzZURQTW5YYm45RWxSdVluUXFTWGRMazNESFBCWksyak1odmFVNklHa2hEaWoyUmFXV25NSE5WY1JINVhtLVhiNWpfMQ?oc=5",
    "data": "2026-09-27T09:03:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ação com jogadores, CT e médicos: Fla aproveita NFL no Rio para expor marca",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ0doWTBjZTZZMlRJUGhsQXBEN0s2ZUFVQURna3VKX2E4VzhpVVRUTW9Pb0NfTXlQWnFIMmJNSk1ialdrTnd2dUlOZTNWRnlhMXlhOVZWSlg1YUZYREx6bEt1a29ReGtrS2Z2M09vci1vSVdRaEVzTzFBQ096VFlRWE1FMVRPTzB3UGdNb1pWRmlnT05JNVRfMXM4OFRyNnpCOFpCMmRwQml6Zw?oc=5",
-   "data": "2026-09-27T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ídolo do Werder Bremen e do Flamengo, Diego marca contra Real Madrid e é ovacionado; veja",
-   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/09/27/idolo-do-do-werder-bremen-e-do-flamengo-diego-marca-contra-real-madrid-e-e-ovacionado-veja.ghtml",
-   "data": "2026-09-27T07:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Diego faz gol em festa do Werder Bremen, na Alemanha Aposentado desde dezembro de 2022, quando encerrou a carreira atuando pelo Flamengo, Diego deu show neste sábado ao participar da festa de 100 anos do Weserstadion, c…"
-  },
-  {
-   "titulo": "Flamengo estreita relações com a NFL e vê oportunidade em crescimento no Brasil",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/27/flamengo-estreita-relacoes-com-a-nfl-e-ve-oportunidade-em-crescimento-no-brasil.ghtml",
-   "data": "2026-09-27T07:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Léo Ortiz e Emerson Royal acompanham treino do Dallas Cowboys no CT do Flamengo A NFL terá o primeiro jogo da história no Rio de Janeiro neste domingo, no Maracanã, com o duelo entre Dallas Cowboys e Baltimore Ravens. E…"
-  },
-  {
-   "titulo": "Promessa do Sesc Flamengo entra e muda final: 'Não tem fórmula mágica'",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWVhLTZZOEs1QU5tNzFFY3E0NlVlOTNMWVdsY1BSdkhSRUMwTEtUZnp3ZUUzUmdtM2RwSm10RzNfRkxFVTItXy1VM1dhczhTd1VsM0MyaWVadkg0Q0lpTHpUNWRIeW5TQUZ1dGtvZHJVN2R1aDVBLWZPT3B6bDU3cmFya2JJY05DRGYxa3pvQmJ1LTNaNUpwZGtMamkzZ3JjMFVCYUFR?oc=5",
-   "data": "2026-09-27T03:35:47+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Final de adversário do Flamengo na Libertadores termina em confusão",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkFENjBOTkY0T0pXei1pSjJhRVRIRlMwcVJtLWVKSHF4LXJfVENTek5JU0lfRGVjUEprbGxvYndmQXhOSDNtLXhMcDE5dDl4U0hUcUszZXJoTXJPMnpaQ2l0alV0MkEyUWFUTWdJaERsN2Y0X0FzTEMzOVg1ay0weUZUekZlZy1RTnBIbkoyU3BEMUR5ZzF6QmNiaXFVclc4MXBqV1piMmtDa2pSaTBKdVJfaFpHaFBLcDkw?oc=5",
-   "data": "2026-09-27T01:18:21+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "De virada, Sesc Flamengo bate Praia Clube e é campeão da Copa Supervôlei",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnZDdy1kNUZnYm9hR1paUlYyazdBUUdVM2tPYXhZcUNPUjFkNkVpU09VUXF1eC1odE1ZZXJBVGo3bHY4cU9CX1o3X3ZnZ201VnNoMFRvbTFzRGtEM0dqRjAwRE5QRjhnMXU2WHNKZlQ5ajRQUE1BMUNJVkluUk1IYUxueEl6Qk9vYlFqb2ZJeEtybXdzWnItRE9zNGJ4d0h5MlpZLXNYTTVaVE0?oc=5",
-   "data": "2026-09-27T00:40:27+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
