@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-02T12:25:42.742893+00:00",
+ "atualizadoEm": "2026-10-02T18:00:06.088159+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 36
+   "itens": 37
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 59
+   "itens": 58
   },
   {
    "id": "uol",
@@ -34,36 +34,140 @@
  ],
  "itens": [
   {
-   "titulo": "Saiba onde assistir ao jogo do Brasil x Índia; Pedro e Lino, do Flamengo, estão à disposição de Ancelotti",
-   "link": "https://colunadofla.com/2026/10/saiba-onde-assistir-ao-jogo-do-brasil-x-india-pedro-e-lino-do-flamengo-estao-a-disposicao-de-ancelotti/",
-   "data": "2026-10-02T11:56:57+00:00",
+   "titulo": "Pedrinho dá explicação inacreditável sobre o Vasco ser a favor da redução de jogadores estrangeiros; Flamengo votou contra",
+   "link": "https://colunadofla.com/2026/10/pedrinho-da-explicacao-inacreditavel-sobre-o-vasco-ser-a-favor-da-reducao-de-jogadores-estrangeiros-flamengo-votou-contra/",
+   "data": "2026-10-02T17:41:31+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
-   "resumo": "Índia x Brasil acontece neste sábado (03), em Calcutá A Super Data FIFA está chegando ao fim. Neste sábado (03), a Seleção Brasileira entra em campo às 11h (horário de Brasília), para enfrentar a Índia, no terceiro amis…"
+   "resumo": "Com a aprovação da maioria dos clubes brasileiros, o limite de estrangeiros nos jogos será reduzido a partir de 2027 A redução do número de estrangeiros nos jogos do futebol brasileiro ainda segue dando o que falar. Ped…"
   },
   {
-   "titulo": "Rival do Flamengo na semi da Libertadores, Estudiantes sofre gol no fim e dá adeus à Copa Argentina",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOelBObk9rSTVFQmI5YnZCZU0yc2htNTV3RUpQZXNNcUQzT3lqajY4eklncUNxQ1h4a1A3bUZJQlVfMWpIZTF1aWxEZWMwVXhQcTRGZnhJV1lVSndjbnBNeVUyV04zMnZ6dl91aVBjV216SWlvdzA2dlNfX3ZQcGVHaW11NlhnZVM5bVN3Wm1abkowbV9rQWVhS1lHOFpoYXRyRkdYbmwxbmc4bV9PcFNJdFhQTllXYWtBT2ZpRDllNGZ3TWRLamZjbDkwRU5OeWF0?oc=5",
-   "data": "2026-10-02T11:24:00+00:00",
+   "titulo": "Flamengo tem calendário pesado com decisões no mês de outubro",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdTNSQ1RqM2dHRmFmYUFhTXVtQndycTI5WmNMdWtDb0tycE9ITm5BT01qcWFGMlNMU2hydERNV1hhZzBuVHNObDNzOEtlSzVONWNSa0p0U1BCRGpmakVKMVR0UTRxNGdHZGtCUkxTNlhtSXhnZFlkTlZpUTFZRjRCMVc2YjM3clF1UmNaMFQ2aHhaMUZxVXF3SjRvLWo1aVdVMlE?oc=5",
+   "data": "2026-10-02T17:39:16+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Joaquín Freitas ‘corta’ contato com Colidio e espera por ex-companheiro de River Plate em jogo do Flamengo x Vasco",
+   "link": "https://colunadofla.com/2026/10/joaquin-freitas-corta-contato-com-colidio-e-espera-por-ex-companheiro-de-river-plate-em-jogo-do-flamengo-x-vasco/",
+   "data": "2026-10-02T16:40:42+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Joaquín Freitas e Colidio deixaram o River Plate (ARG) na metade deste ano para atuarem por Flamengo e Vasco, respectivamente Joaquín Freitas ainda está tendo algumas primeiras vezes com a camisa do Flamengo. De momento…"
+  },
+  {
+   "titulo": "Com Flamengo de olho, Lorran marca primeiro gol nos Emirados Árabes; veja",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/02/com-flamengo-de-olho-lorran-marca-primeiro-gol-nos-emirados-arabes-veja.ghtml",
+   "data": "2026-10-02T16:15:34+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Lorran, ex-Flamengo, marca golaço na estreia pelo Sharjah FC, dos Emirados Árabes O Flamengo vendeu Lorran no mês passado, mas continua atento ao desempenho do jovem de 20 anos nos Emirados Árabes Unidos, de quem ainda…"
+  },
+  {
+   "titulo": "Radar das seleções: Lino, Varela e mais 2 jogadores do Flamengo entram em campo na 2ª rodada de amistosos Data FIFA",
+   "link": "https://colunadofla.com/2026/10/radar-das-selecoes-lino-varela-e-mais-2-jogadores-do-flamengo-entram-em-campo-na-2a-rodada-de-amistosos-data-fifa/",
+   "data": "2026-10-02T16:04:13+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "A atual Data FIFA acontece de 21 de setembro a 6 de outubro de 2026 Os jogos dos clubes ao redor do mundo estão paralisados para a Super Data FIFA, que acontece de 26 de setembro a 6 de outubro. O Flamengo marcou presen…"
+  },
+  {
+   "titulo": "Ancelotti enxerga diferença entre Pedro e Endrick antes de jogo do Brasil",
+   "link": "https://colunadofla.com/2026/10/ancelotti-enxerga-diferenca-entre-pedro-e-endrick-antes-de-jogo-do-brasil/",
+   "data": "2026-10-02T15:45:56+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Ancelotti esboçou o time titular da Seleção Brasileira contra a Índia com Pedro no ataque A Seleção Brasileira se prepara para realizar o último amistoso nesta Data FIFA, que será contra a Índia neste sábado (03). Antes…"
+  },
+  {
+   "titulo": "10 anos depois de ser artilheiro na Índia, Vini Jr. volta ao país pela Seleção Brasileira principal",
+   "link": "https://colunadofla.com/2026/10/10-anos-depois-de-ser-artilheiro-na-india-vini-jr-volta-ao-pais-pela-selecao-brasileira-principal/",
+   "data": "2026-10-02T15:16:14+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Vini Jr. volta à Índia dez anos após ser artilheiro pelo Brasil sub-17; relembre o título de 2016 do Cria do Flamengo Dez anos após ser artilheiro na Índia, Vinicius Júnior volta ao país neste sábado (03) pela Seleção p…"
+  },
+  {
+   "titulo": "Onde vai ser a final da Libertadores 2026?",
+   "link": "https://colunadofla.com/2026/10/onde-vai-ser-a-final-da-libertadores-2026/",
+   "data": "2026-10-02T15:12:18+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Libertadores 2026 está nas semifinais A Copa Libertadores da América é considerada a maior competição do futebol sul-americano. Chamada de ‘Glória Eterna’, o torneio está nas semifinais. Neste ínterim, ainda no fim de 2…"
+  },
+  {
+   "titulo": "Justiça dá 48h para concessionária Fla-Flu se manifestar, mas suspende processo do Vasco para jogar no Maracanã; entenda decisão",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcGZVQjFJUDJadlE2eFk5Q0VyZko5YksyTFBZYXM5bnFsTkVIcGhIMTh3czdqYXNUVzF5b1g0TzJUUHdiTGhhVjMyME1sejRUeW1aSGhLU1dreFJod1NRcElrUUdIYXBURHpiVW52d0Z1SXltOU5hdmdRZ3FYTWdfcTJmWkIxN1UzcWhfQU02enE0ajg1cmk2YllFYjRKZGswanFLcVRBUGREVEppZHh5UmtWcVotM1R6RW1KWHc5UlVrZWlLNFlqNW1pZlVvYXE4TFI5bDVPOXZvc0xfUWFsM0x2b0Faamxid0Y4d1ZXcnB1NXQ2UHZXOUR2VW1DamV2?oc=5",
+   "data": "2026-10-02T15:00:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
-   "titulo": "Vasco acusa contradições da dupla Fla-Flu em ação na Justiça por Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTEhEM2N6TU82X2ZSeEpMWjZPX0xIWndOVS1ueFRodHowdkxiSTBWNTlqS3N1aVNueWlsYy1BeHJlUkljSGNITmNTa2d4YXNsYVBHV1R5VGtzNzFjZG1ld3I0a2pQUkZZZl9FcUJmNmVlWkFmY1RzdXI0RExLR2p4ZUs1Ri1RbS1VQzFoVTBLbkdoUml6TmltWV85Q3h5RWVYMldDQUxwU0l0Y2hmVVVobTBZbzlwQlVvUExTckFaNmlpYkl2NEFMLXdLYU9xbi00VmZSeHZkSTNCdksy?oc=5",
-   "data": "2026-10-02T10:59:30+00:00",
+   "titulo": "Ex-jogadora do Sesc-Flamengo, líbero colombiana ingressa no Exército dos Estados Unidos",
+   "link": "https://ge.globo.com/volei/noticia/2026/10/02/ex-jogadora-do-sesc-flamengo-libero-colombiana-ingressa-no-exercito-dos-estados-unidos.ghtml",
+   "data": "2026-10-02T14:46:32+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Ex-jogadora do Sesc-Flamengo ingressa no Exército dos Estados Unidos Camila Gómez é natural de Cali, na Colômbia, vive nos Estados Unidos há 10 anos e atuou profissionalmente na Superliga Feminina de Vôlei, no Brasil, n…"
+  },
+  {
+   "titulo": "Adversário do Flamengo na semifinal da Libertadores, Estudiantes perde para o Platense e cai na Copa Argentina",
+   "link": "https://colunadofla.com/2026/10/adversario-do-flamengo-na-semifinal-da-libertadores-estudiantes-perde-para-o-platense-e-cai-na-copa-argentina/",
+   "data": "2026-10-02T14:42:09+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Estudiantes (ARG) sofreu a segunda eliminação em menos de uma semana e agora foca na Libertadores O Estudiantes (ARG), adversário do Flamengo na semifinal da Libertadores, foi eliminado da Copa Argentina nessa quinta-fe…"
+  },
+  {
+   "titulo": "Com Pedro, do Flamengo, Ancelotti esboça escalação do Brasil para jogo contra a Índia",
+   "link": "https://colunadofla.com/2026/10/com-pedro-do-flamengo-ancelotti-esboca-escalacao-do-brasil-para-jogo-contra-a-india/",
+   "data": "2026-10-02T14:15:58+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Brasil e Índia acontece às 11h (horário de Brasília) deste sábado (03) A Seleção Brasileira entra em campo neste sábado (03), quando enfrenta a Índia. O amistoso marca o terceiro e último compromisso da equipe de Carlo…"
+  },
+  {
+   "titulo": "Ex-Flamengo critica Jorge Jesus por treta com Cristiano Ronaldo",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkNheVdaWGprR25CaHl5QmtwSTBqOU9qX0swU1VkZEJUUjZTMXFSVi0tSjZLbGtZXzRaYlFoX3R1UjBFOWhXcTFWWFZpSWJ3LWJoZTdEMXA5WTlmbW1qb2E3MEtrZTk4eUZISVZHcFNsbjJyRTNXdkhRcDd5Tk5VTzJZUGZVSk5HTlllVXU4U1ViaXRraUFINldVbGV3QVhvaTltZjFPUF9IMTN0RFpUMEYzQkhpZw?oc=5",
+   "data": "2026-10-02T14:06:40+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Achados & Perdidos: Milton Neves no Brasil Sport Market em 2015, ao lado do então presidente do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeFlpTWVaZWVHUjREUUd3LWUyUjd0QldvWVROaXFFOVEybnpBTUFOYkNQTlBsanBDOFVLc0RTaDFhRjFMT2RXc1lHblhSOUM5X3pHMFB5MDMweHhNYzVER1lYM3ZhX0NPWHBEVjBscGdzVTl2N1hvcVZvOG1Vc0Y2aU5EdG91b3pqRlZxdnFGcnR5UGxreFNpOTRkZHY1RUpPa0V2TGUyMEdfbzdUTWFTSW9MVEQtUlhqMDVSOFJzSVJObk01Zlg4SU43NlFlU1AyWmNlaC1UcFc1dw?oc=5",
+   "data": "2026-10-02T13:49:08+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Jogo do Brasileirão hoje: São Paulo e Santos entram em campo nesta sexta",
-   "link": "https://colunadofla.com/2026/10/jogo-do-brasileirao-hoje-sao-paulo-e-santos-entram-em-campo-nesta-sexta/",
-   "data": "2026-10-02T10:54:35+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Jogo acontece por rodada atrasada do Brasileirão nesta sexta-feira (02) Enquanto o calendário de clubes segue parado para a Super Data FIFA, a CBF aproveita para ‘colocar a casa em ordem’. Pensando nisso, nesta sexta-fe…"
+   "titulo": "Vasco acusa contradições da dupla Fla-Flu em ação na Justiça por Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTEhEM2N6TU82X2ZSeEpMWjZPX0xIWndOVS1ueFRodHowdkxiSTBWNTlqS3N1aVNueWlsYy1BeHJlUkljSGNITmNTa2d4YXNsYVBHV1R5VGtzNzFjZG1ld3I0a2pQUkZZZl9FcUJmNmVlWkFmY1RzdXI0RExLR2p4ZUs1Ri1RbS1VQzFoVTBLbkdoUml6TmltWV85Q3h5RWVYMldDQUxwU0l0Y2hmVVVobTBZbzlwQlVvUExTckFaNmlpYkl2NEFMLXdLYU9xbi00VmZSeHZkSTNCdksy?oc=5",
+   "data": "2026-10-02T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Em negativa ao Vasco, concessionária Fla-Flu compara Maracanã ao San Siro e culpa calor e chuvas no Rio: 'Aumento de 208%'",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcUtxeFpLcVJ6dVBjREZGVjVFekFQRjduS1IycG1LZFUwdHdiMlZPQUw5NzZMaV91bzdpQkMwRVZvY2hnVlNyTHZDWUJUR1Z5YXlaY3o5QXRkQVNrRW1FanZiQmtwRUJHVmgyWHlsT3gzeTRsMDR6eG5xWVpEd2ZUcHM5d1lqNzVSM0xUNXNQZTNaSUdTbE1GRWY0dFhuZFlWdDlTNjlCd3piUjloX0puMEZxVGxROGIxc2V1d0p5YTBDSm02QTZ5Q3F2bGF4Uk40RlZEV0ZZQnJKNzh1am90TC0yaGtQREpNRnFQY0MwN2plSDlSLWRBVA?oc=5",
+   "data": "2026-10-02T12:14:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rival do Flamengo na semi da Libertadores, Estudiantes sofre gol no fim e dá adeus à Copa Argentina",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOelBObk9rSTVFQmI5YnZCZU0yc2htNTV3RUpQZXNNcUQzT3lqajY4eklncUNxQ1h4a1A3bUZJQlVfMWpIZTF1aWxEZWMwVXhQcTRGZnhJV1lVSndjbnBNeVUyV04zMnZ6dl91aVBjV216SWlvdzA2dlNfX3ZQcGVHaW11NlhnZVM5bVN3Wm1abkowbV9rQWVhS1lHOFpoYXRyRkdYbmwxbmc4bV9PcFNJdFhQTllXYWtBT2ZpRDllNGZ3TWRLamZjbDkwRU5OeWF0?oc=5",
+   "data": "2026-10-02T11:32:54+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Ex-Palmeiras e Flamengo vira agente 'por acaso' e tenta abrir mercado do futebol tailandês para brasileiros",
@@ -130,36 +234,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Lula cita Flamengo no Flow Podcast para explicar o fim das bets",
-   "link": "https://colunadofla.com/2026/10/lula-cita-flamengo-no-flow-podcast-para-explicar-o-fim-das-bets/",
-   "data": "2026-10-02T02:12:27+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Lula usou o Flamengo como exemplo ao defender a Medida Provisória que proíbe as bets O presidente Luiz Inácio Lula da Silva, candidato à reeleição, concedeu entrevista ao Flow Podcast nesta quinta-feira (1º). Na convers…"
-  },
-  {
    "titulo": "Aulinha do Paquetá? Meia faz palestra para jovens da base do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PdklGZ3lFMUpvMllNak43MXFXWkNNXzRaMU1GODFLZGlIRm1tOXlLNGtEemNlUHUzcVhmcUVDRnRqclVCWTdFVDFHZEk5MV91aVVjRXA1X0FPa2xNY3lFUGRabFNJYzg?oc=5",
    "data": "2026-10-02T01:55:37+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "“Vale muito a pena quando se alcança”, diz Paquetá a jovens da base do Flamengo",
-   "link": "https://colunadofla.com/2026/10/vale-muito-a-pena-quando-se-alcanca-diz-paqueta-a-jovens-da-base-do-flamengo/",
-   "data": "2026-10-02T01:14:44+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Lucas Paquetá foi o convidado para trocar experiências com atletas da base do Flamengo De cria para cria. O Flamengo realizou, nesta quinta-feira (1º), a quarta edição do Papo de Campeão, projeto que aproxima atletas da…"
-  },
-  {
-   "titulo": "Boto teme domínio de times argentinos na Libertadores com nova regra da CBF",
-   "link": "https://colunadofla.com/2026/10/boto-teme-dominio-de-times-argentinos-na-libertadores-com-nova-regra-da-cbf/",
-   "data": "2026-10-02T00:39:07+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "José Boto diz que a redução de estrangeiros no Brasileirão pode mudar a Libertadores José Boto, diretor de futebol do Flamengo, alertou para um risco concreto no futebol brasileiro. A Argentina pode se beneficiar da red…"
   },
   {
    "titulo": "Arrascaeta recebe alta após cirurgia no punho; veja boletim médico do Flamengo",
@@ -186,14 +266,6 @@
    "resumo": "Alerta ligado: Aproveitamento do Flamengo cai sem Arrascaeta O Flamengo divulgou na noite desta quinta-feira que o meia Arrascaeta recebeu alta após passar por cirurgia no punho esquerdo. Acompanhado do médico do clube…"
   },
   {
-   "titulo": "Maracanã recusa data a Zico e Jogo das Estrelas pode mudar de cidade",
-   "link": "https://colunadofla.com/2026/10/maracana-recusa-data-a-zico-e-jogo-das-estrelas-pode-mudar-de-cidade/",
-   "data": "2026-10-01T22:49:43+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Consórcio Maracanã avisou tarde sobre indisponibilidade de data e dificulta até o Jogo das Estrelas, de Zico Não é só com o Vasco. O Consórcio Maracanã pode dificultar até a realização do Jogo das Estrelas, tradicional…"
-  },
-  {
    "titulo": "Betano dá resposta ao Flamengo após a suspensão das bets no Brasil",
    "link": "https://colunadofla.com/2026/10/betano-da-resposta-ao-flamengo-apos-a-suspensao-das-bets-no-brasil/",
    "data": "2026-10-01T22:29:15+00:00",
@@ -205,6 +277,14 @@
    "titulo": "Arrascaeta atualiza torcida do Flamengo após cirurgia no punho; veja",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnEwTU12R2ZkTFM4Rml2a1h0NW54Q2pmdzlWekRCUGFneG84eW9vcnhxWEg5czU0akhaazUwZU9CdmltTU54SzVrTENHWGtpM1JsVGRrT1Y5R2pHSW40OXFOcDd0NVNJS2xBRHllRHR4ZWl1ZFd6RjMtNzhDLW1YMFVSZVFZQ3VCblZCRENYZVpIc2pORDd4MHZxWWRKQmtfQWFkMC13OGVhUQ?oc=5",
    "data": "2026-10-01T22:10:23+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Boto sobre o Flamengo: “Estamos precisando de dinheiro” | Informações do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHdETGN4UmFxUkxuNE9VNjd4TmtQRkg0cUJCWVZlbG9DbWVCd1dzOXdLYWFhd1Zrckt0Zm5YdEFzTmNKLW42SE5pbmRyMU1lRHE0T1VnVFQtX2ppNnp2T0x2cXo2Uk80NGxaNDlna1Zwb0xoSktGWlpkQ0RwV1l4RGdCYy1XV3pfQW1ZY1I0TzYzWjVmNFFMdmxwdmxwZXN1NHZZdVdxRmtzMDBQ?oc=5",
+   "data": "2026-10-01T22:04:40+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -240,14 +320,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Craque europeu aparece com camisa do Flamengo e agita torcedores",
-   "link": "https://colunadofla.com/2026/10/craque-europeu-aparece-com-camisa-do-flamengo-e-agita-torcedores/",
-   "data": "2026-10-01T19:42:26+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Atleta holandês do Tottenham (ING), Xavi Simons comprou o Manto Sagrado Que o Flamengo rompe fronteiras, não é novidade. Desse modo, mais uma prova foi vista nesta semana, quando o jogador holandês Xavi Simons acabou fl…"
   },
   {
    "titulo": "'No pior cenário, vender jogadores', diz Boto sobre Flamengo sem bets",
@@ -570,14 +642,6 @@
    "resumo": "Léo Pereira fala sobre experiência de visitar os Estúdios Globo O zagueiro do Flamengo Léo Pereira fez uma visita aos Estúdios Globo nesta quarta-feira. O jogador é parte da campanha do Criança Esperança ao lado da namo…"
   },
   {
-   "titulo": "Flamengo vence 1ª batalha no STF em disputa contra o fim das bets",
-   "link": "https://colunadofla.com/2026/09/flamengo-vence-1a-batalha-no-stf-em-disputa-contra-o-fim-das-bets/",
-   "data": "2026-09-30T23:22:51+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro vira “amigo da corte” no processo movido pelo setor de apostas e se antecipa à ofensiva conjunta dos clubes brasileiros O ministro Luiz Fux, do Supremo Tribunal Federal (STF), aceitou nesta quarta-feira (30)…"
-  },
-  {
    "titulo": "Flamengo é aceito por Fux em processos do STF sobre bets",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNEVxa2thOXNabnM1eVYybmtGRFRmblh1aUlob1hMbUVMNkJDOS13OWpucHNkZGYtelY1ZmxtVFJYcVpJemNJRmRGZEdWZC1Bb2RsY0NQcmZ1RE1zcnRqSHpmZTFuUmxrdGl1SjFwbUtwVkpfb3FUaVZxZ0NnWDNSZDVoZmxGYjBsYmlaVTl2Q3VRdTVvci02VzdtU0xzd2NNaTVIZVNKQQ?oc=5",
    "data": "2026-09-30T23:18:57+00:00",
@@ -832,6 +896,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Tá na Área - Marcello Neves e a apuração sobre a lesão de Arrascaeta parte 01 O Flamengo vive uma temporada excelente até o momento. É líder do Campeonato Brasileiro e está nas semifinais da Conmebol Libertadores. Nomes…"
+  },
+  {
+   "titulo": "Maracanã: O novo gramado híbrido é a solução definitiva?",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeGdiZ0daWXRWYmxSajhxbm44ejlTQW8tcy1yTFd5UjFSUVNyVUdlZ0h0ZE0teGdBdzFXUlRMTGFfSVlyQ1FFVWl6NGVzaHJHdzBqejhoeVJDLXF4dS1ka2t6OS1CeGI4c1k5Mm9YVkFkcjhrRFFZR2NQcXpZY2JVNi1qU1lkbEtWYXd1dWpwdw?oc=5",
+   "data": "2026-09-29T17:19:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Como fim das bets tem efeito no futebol brasileiro? Preocupação maior do Flamengo? Especialista em finanças do esporte analisa impacto",
@@ -1138,6 +1210,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Thiago Silva demonstra preocupação com gramado do Maracanã durante jogo da NFL: 'Meu campo'",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbTFOamZJampZRXJMTXJXeU5pa3VpR3VRd2NyM1RIYzQ5ZF9IRVFPbjNYc0cweFJILW95MUktYzdIanJaWWxheDNBbHJTT0VTV1otNUNRajltcU1FRU1uSm5zMW5YWjBpeG9HdnhQVFZEMlprNXcwUmFXcUxrV3l2ZGNZdzlvb2syV1phYnlCSFVjVkNPekYwc3RaNE5HY2RVcGZ3dWI4S2NMUGJlTFZja1lBejZaanlmbzRfMU12eVJEUzVwR241ZA?oc=5",
+   "data": "2026-09-28T18:47:44+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Ex-Flamengo, Reinaldo é anunciado como novo técnico do Rio Branco-ES",
    "link": "https://ge.globo.com/es/futebol/times/rio-branco-es/noticia/2026/09/28/ex-flamengo-reinaldo-e-anunciado-como-novo-tecnico-do-rio-branco-es.ghtml",
    "data": "2026-09-28T18:12:08+00:00",
@@ -1151,86 +1231,6 @@
    "data": "2026-09-28T18:08:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Neymar revela torcida para o Flamengo durante jogo da NFL: \"No Rio, sou Mengão\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/28/neymar-revela-torcida-para-o-flamengo-durante-jogo-da-nfl-no-rio-sou-mengao.ghtml",
-   "data": "2026-09-28T17:50:39+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Neymar e Bruna Biancardi chegam de mãos dadas para jogo da NFL no Maracanã Neymar esteve presente no jogo da NFL no Rio de Janeiro, entre Baltimore Ravens e Dallas Cowboys, no último domingo, no Maracanã. E não passou d…"
-  },
-  {
-   "titulo": "Conheça Wesley Natã, joia do Fluminense que decidiu clássico contra o Flamengo e tem atenção 'especial' de Fred",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUXY4YzFESFVTVWprVDVmVnhtcTZidEJveU5NVWd0NER2Y0wwaW16a1lKYTFjdy1UODRrQ1U5SUFoeUJESGhkaFNBWmpKYVFfUVlObTJybWwxeXd6YnVWTERPVlpTeFZvc21CSUlHUXRrWV81VTV0MjgxR0g5LVhVd0ZlTHJwTFRvNGx1ZWk0MjU0M2pkTDc1dk1yT1FIWFMtWTBibk8wWlBHQWlkZ2tvWV9IbjdfS0pwbldkZjlvSEJuc3pRQTRQdE5FTHM5S3E2TXZJZEI1cWZweVV4amNQWkE2Zw?oc=5",
-   "data": "2026-09-28T17:42:29+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta sofre fratura no punho esquerdo, informa Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEtuVUMwYWF6cHhWeHltM3hzSmZOU05ISGNza2JHQThBUkFLRHNrVmVKcDhsdzFnanVkMVBiX0o0REJLaEZTLWViSHFhYjZfM0lIVkZWUjc0VnFmZ0d2eGp2d0hVcDZ2VjJzUmhxZ1M5V1JmaXI0bkNkU1NnNjBHZWwzdEp2b3kxQVowNU1FTTk1MFotZnZTOHRpNkdUeUpnTnM4eXk5WTBlQlhPWGVBRDljcm1vanlLYXhVbllHWFc?oc=5",
-   "data": "2026-09-28T16:43:32+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Flamengo recebeu quase tudo da Betano do ano de 2026 antes de veto a bets",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMEpUSGNsU2dTYVJsMkRhRXFQa1NZR190ZW9HUms4ZUJENlhpR2NrelNZQ3JqU2dTUkdjNGtPd0RwZXEwNVpEQVI1cFIzcFlqbURZYWtkR2JSYjhhWURqZVQ3S1pDUmlieVJ3dElxWWVFMFVyalRiSXRHd3BaZzN0dXJZWHNHZkZfM2RLTmNfcS13ZjZzbGhQOGVBMUNCSGQ1RnBNa21xdzBkNmhwcEdKRkNsNFdDdWdJTG9mVjJHWE83cVFsOHRjemFJc3lZMUFYUE1wTklFRnlPUzdOWXhHRzFfZ2Q?oc=5",
-   "data": "2026-09-28T15:53:51+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta, do Flamengo, sofre fratura no punho e terá que passar por cirurgia",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQzdQa3M2M09JV3J0QmtQOTZ6anN2N2RoTVJzeUI0MGdBU255M1JqelNUa1R2cko3d2tLWTRqXzkyUFJiLWdPZUdmN2xNdi16R0dtRVVOazNYYWZ5ajdRZ1U0UmNCa2YzUE9mR1BMN1lHU2l2c2dwYmJvQUhZdkU0QUI0XzJ4UktyUGs5eFJlQlY4c1N1dVFRdldnNU93TXY0SzB4RngtUGMzWk1VTi1YdnczYlJPY0ZTcl81M0xLMnFKdElIWjlab2ZMVEFjLWVDb19N?oc=5",
-   "data": "2026-09-28T15:53:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta fratura o punho em amistoso do Uruguai, passa por cirurgia e desfalca o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSmh0Sy1zQ1hXRl9BZ09NWXVHLWRsREs0TGpBTThncjdHSWNQX2hEQ1Jnb3R2YkdmRFdCZkFpQ280WEJaTUUtazFab0VKM014ZVBmbjZqbkk1UmMyMVFZY2tLOFZ2aklwaDdjeXBHc2hCTGw0VHNBN3VhVm5EazZfNHRNRU5pUXdnSy1CejFKMjA5RUNpbWFDWjlKclZlYmtudzk0S2tQdlF2NkJHMWRaRldpZ3R2dWNKZkFaekJrSHhEaVY4NHNPRHFfRzd1dWxLemhpajRmNFozNGU3LVhKTmhPd21xYXRuQk5kSHdST09IZTg?oc=5",
-   "data": "2026-09-28T15:39:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo confirma fratura em Arrascaeta com indicação cirúrgica",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEpoYmcwUnllMjU0RFY0ckxMRkdKc3hYQ05ER3V0Rm5XNUcwZnNkT0lkVk5NUzYtSWlZY29JRE5BTndHTXZjSU4xOUdrQzJoa0RYTElDTjhWS0tZckRsZU1RdEZ3OE81R0ZScXRlMjlQQnpIYmdkb0ktbTdlZG02TTlSNU1wNXI3Z2dUS2pXVENOTktXVFRUeWh3Q0V3dWozVWtTWUFSNlZGOWp6VGxKRnEzS0FMYTZ5azd3?oc=5",
-   "data": "2026-09-28T15:37:11+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta passará por cirurgia após fratura com Uruguai e desfalca o Fla",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSlNlNjlYcEExblgySjFWQVBCei1zRzV6NXkzQ3F6clZFTGRqUTVnOU5tNGc5UmVYZWVFcXJWbmk5MVlucXl6TGhLSVMxYm5aX1BmTjNFOG9rUl9vOUpIYlRkbHU5cWpJblVIV2FrQkE2WHdkTlBDcFdsQWdWWW5WdGpJeTNiWWhLdFdHUVBDR09qQ0RHem9nQkVGLTVDTGo2dkVqWGlDQU9rc0RLb1JFYklqMl84ZlhfMGN0YmFKWFVjbjBHYUJYZEV0WE5IX3JwaUNEV19iaWNvSjh1aGc?oc=5",
-   "data": "2026-09-28T15:36:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta, do Flamengo, sofre fratura no punho, com indicação de cirurgia",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/28/flamengo-confirma-lesao-de-arrascaeta.ghtml",
-   "data": "2026-09-28T15:31:29+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Arrascaeta, do Flamengo, lesiona o punho esquerdo em vitória do Uruguai Enorme problema para o Flamengo. O clube rubro-negro informou, nesta segunda-feira, que foi confirmada uma fratura no punho esquerdo de Arrascaeta,…"
-  },
-  {
-   "titulo": "Arrascaeta sente lesão em jogo do Uruguai, agoniza em dor, é substituído e preocupa o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeEY4cXdob3ZTX0M3RzZLWnNQTG5CQXNhOEM3NDJoNlV3bWxVVHpHOWxKX0RTVjhpcjRIcGlwMmlLbXhCemdXZ3lSY0t0dzZUdUFPZVkxR1hjdXRlVDFQVFZIckc5dmd0bkVxUFFkblEwTUxGcVphVjYwQjNOblYyd0JBWDg5V2s1bWVNSnVYRk9lWXhXRDZOYjZCd0VRZFNBVWtYTWduRUJacmIwek5XdWRNUUs2bGg4eUk1TnNBV0lHV181NnFkYVVaR2Jfd0pVbUlsV1IzaFFTMjN4emtJcm9mT1RiQnNlUzZBeHk5c0NmNzNldWc?oc=5",
-   "data": "2026-09-28T15:04:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
