@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-03T01:09:23.127684+00:00",
+ "atualizadoEm": "2026-10-03T07:02:48.893629+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 34
+   "itens": 35
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,64 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 59
+   "itens": 57
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 62
+   "itens": 61
   }
  ],
  "itens": [
+  {
+   "titulo": "Neymar joga contra o Flamengo? VEJA a resposta sincera de Cuca",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SOXVUdjk3RVRQZnluZWtmSXJkS1BkZy12VFQyNTFUVGdGeGZ4YWRSd3hKUUxfTXFjcUF0OXJhOGVLOVI5QkR2TDM5c2V2SGl2NkljTGlyaXNRNzRGZXc?oc=5",
+   "data": "2026-10-03T03:10:03+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Justiça nega pedido para liberar Maracanã para Vasco x Boca Juniors",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1VLT2ZzVER2TnZXVUtRLWtkaUN5RlJVV3dnTmliNko5bk9ORkEtVVRkWkdlSWs1cm5PcXRFbjEyNS12R2FlWEcwNE85c2YtLWVUcml5MUlrUkFXWnppZFN2aG96YWl6Umc0MjhiazJOaXljMUJtZTZKS2htZFZ3bUxGVEpsTWsteHNPNUlBR3JDU2oyUjBIdGNZVFBwNGpDQm9LbjNfd3JRNFE2SFFqY1kxSG5lYVJsazJaYWhIRzlpZw?oc=5",
+   "data": "2026-10-03T03:06:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Técnico do Santos exalta confronto com o Flamengo: “Tem tudo para ser um jogão”",
+   "link": "https://colunadofla.com/2026/10/tecnico-do-santos-exalta-confronto-com-o-flamengo-tem-tudo-para-ser-um-jogao/",
+   "data": "2026-10-03T02:50:38+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Embalado por cinco vitórias seguidas no Brasileirão, o Santos recebe o líder na quinta-feira (8), na Vila Belmiro, e pode ter Neymar de volta O técnico Cuca já mira o Flamengo. Logo depois da vitória por 2 a 1 sobre o S…"
+  },
+  {
+   "titulo": "Neymar joga contra o Flamengo? Cuca responde sobre chance de ter craque de volta ao Santos",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSlBTcEY4NFkyWjFtM09SVHJIV0FfaFFvLXpCU2Z6TDh3Y2loemsyS3B5N09iY3FGQjZaTE5NaHJVdWh3aHVZa1dwbVE3TjhOYTZfUTMyeEdSOWRBM3ZmLWhIanJFaWpOR3VVUksxbUdpaXE2aVJDY0VPMXNxRTdFdFBSVmtCTFpiekZIUDVwd2I3Y3BwNHBUWUh4LWIzeDI5eE0yblg1ZlZOUHZpUzZkdlhLeDBMMVVVbm44QkVGUk8xaUh4NGJaOWpUd0JOMzd6cGh0aQ?oc=5",
+   "data": "2026-10-03T02:13:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Cuca festeja vitória no clássico e projeta Neymar contra Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd3MwUjZTSjNSTUlUUkxLSWNUQjQ0aU9sUFIyQmpMSHJ0MUxtYVlhN1BweUUxRURHRDVmdWlPR2NaT3QwZ1NRZ0pPZnByUEo4YjQtblN6bUpKZDVkMktSc3gtVXNISTZ6emdCMEZ0WlB1TFNJRl9QWFkzZWRoQm8zdjVuV2pjVzlhV2cyN0k1MEwzOUwxRm9wMXlUeUdzZGhPb09HZmpXMEUxZm9ZVENycEJtakh6bXprc0ttOGJVdU41NWRoR0NqSXp5QnRjLW03dWhwVXZERVFxNW5FenZ4SmxsTkZfcXpCZzlLaGR2b3k2NDJ3ek9NMg?oc=5",
+   "data": "2026-10-03T02:01:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Estudiantes fecha contratação de Marcos Rojo para jogos contra o Flamengo na Libertadores",
+   "link": "https://colunadofla.com/2026/10/estudiantes-fecha-contratacao-de-marcos-rojo-para-jogos-contra-o-flamengo-na-libertadores/",
+   "data": "2026-10-03T02:00:57+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Zagueiro aceitou contrato até 2027 com o Estudiantes (ARG) O zagueiro Marcos Rojo, de 36 anos, já tem acordo para voltar ao Estudiantes (ARG), adversário do Flamengo na semifinal da Libertadores. A transferência, porém,…"
+  },
   {
    "titulo": "Com 2 de Gabigol, Santos vence São Paulo antes de enfrentar o Flamengo no Brasileirão",
    "link": "https://colunadofla.com/2026/10/com-2-de-gabigol-santos-vence-sao-paulo-antes-de-enfrentar-o-flamengo-no-brasileirao/",
@@ -106,14 +154,6 @@
    "resumo": "Juíza paralisa o processo da SAF por causa de uma ação popular de torcedor, mas dá 48 horas para a gestora do estádio responder ao pedido liminar A Justiça do Rio suspendeu nesta sexta-feira (2) a ação do Vasco contra a…"
   },
   {
-   "titulo": "Saúl imita lance de Özil e ‘humilha’ goleiro em treino do Flamengo; assista",
-   "link": "https://colunadofla.com/2026/10/saul-imita-lance-de-ozil-e-humilha-goleiro-em-treino-do-flamengo-assista/",
-   "data": "2026-10-02T21:46:36+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "‘Bounce Shot’ de Mesut Özil apareceu em treino do Flamengo e encobre o goleiro Andrew O treino do Flamengo desta sexta-feira (02), no Ninho do Urubu, teve um lance plástico de Saúl Ñíguez. O meia espanhol encobriu o gol…"
-  },
-  {
    "titulo": "Concessionária Fla-Flu diz que negou Maracanã até a Zico e afirma que Vasco x Boca causaria 'graves prejuízos'",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd1QyQVV4RDhsUFVNZ2tlejJqSUxXRXNVTjVRVTBzVkNZR0ZkODlHcDVtTjZhdmIzdjFGdEw1clk2aGMtR2VPZzJ4NU5rdkhNak5VRHZZYy1kYndaVnBIY1JlVG1MU1Q3aFZCdldzcFJySzdwRVRaNUJ4NWZVbE5aVXdqSmpWNUIxZ25UV213WUUzdTg4M3k3U041SzcxOVFqYmNBTUFmT1dMRG43Um00LWtXd1pGRHp6V2dGVUpSVTBBa2xsU2FuRnZuSnJycXh6MHQ4TTluNzBndjdGSUhBREdJSURESXI4dmJvWkE3T053Y1JoMUE?oc=5",
    "data": "2026-10-02T21:04:30+00:00",
@@ -160,14 +200,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Desfalque de peso: Flamengo perde mais em jogos sem Arrascaeta A Libertadores, por pouco, não teve pela primeira vez a fase semifinal somente com clubes brasileiros. Isso só não aconteceu por causa do Estudiantes. O tim…"
-  },
-  {
-   "titulo": "Lubrax estampa marca em camisa do Flamengo; veja foto",
-   "link": "https://colunadofla.com/2026/10/lubrax-estampa-marca-em-camisa-do-flamengo-veja-foto/",
-   "data": "2026-10-02T18:28:31+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Propaganda da nova parceria entre Flamengo e Lubrax está estampada em frente ao prédio da empresa no Rio de Janeiro A nova parceria entre Flamengo e Lubrax entrou em vigor a partir do mês de outubro. Desse modo, a empre…"
   },
   {
    "titulo": "Flamengo tem calendário pesado com decisões no mês de outubro",
@@ -962,14 +994,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Como fim das bets tem efeito no futebol brasileiro? Preocupação maior do Flamengo? Especialista em finanças do esporte analisa impacto",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaW95cGtoenY5VVpoalBaVnRqRm50U3ZYMnJ3aldGU005dmVSSEFsN2FnLUx1c2pQVEJPSVdGaGJVT0JRaEI1RzR4WVJzYk1fUGt4a3VBYVk0UUJDaHpnWl92SFVDTW52Tlg4WVlsOWVxNWkxVXpFQTVZUEtucWJQdEt4SVV0Y0E2cUR0Mm9vS29rWlZ1LVJWLXoxQjMtVE1FWFZvaUhKbzZjenNmTXE4RGxUbDJBRUlGTjBIVFlJTWF6UmFTZWVxY1lZR2Jpc3V5YTJkZHZaallqVGpfUTljTEZSLWczVkV4cFJENjZOYlhaREo2NTBrYS1udHpnTGl2YUpCNVgzamUtS0VMOTM0?oc=5",
-   "data": "2026-09-29T15:29:24+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Fratura de Arrascaeta faz Flamengo reviver 'maldição da Data Fifa'",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcUFqYXpwRU44RUZCaTJoemxRdG1KdVI1MExxQ1ZrNlB1NC1uVjJIMWlvUWZxTkRlOGNRSFFSYmVKTmZrZXhkbjNRc0pYMGEybFpJUFRlUmVzaG5tRGVDTzRQWEZkQkVCREZsZ1F6d1VpQ1EwbzRZMF9CS3VvckhkMHdBR19scHhsZGtmOTdTQ0RXWEN0cUNQM3NfX3pWZl9OVHRISk12LTFZemdnbXEtWlFBRXBJMWZ3TVV0MFN0ZkN5Mi12d19JT1IzMTNjeWNxMnc?oc=5",
    "data": "2026-09-29T15:00:00+00:00",
@@ -1122,14 +1146,6 @@
    "resumo": "Tá na Área - Marcello Neves e a apuração sobre a lesão de Arrascaeta parte 01 O Flamengo recebeu uma péssima notícia nesta segunda-feira: Arrascaeta sofreu uma fratura no punho durante o amistoso entre Uruguai e Coreia…"
   },
   {
-   "titulo": "Fábio Luciano vê Arrascaeta como 'difícil de substituir' no Flamengo: 'Tem um brilho que esses caras não têm'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yUEtvRmRYREJ6SUZ0ZXpUSUEzRl96dm5JWXdXRWhPT1lIdll1cXJJZUFQelNrWWxPcEl1MmdleFhaRVNkN3JhMFM4Ym5vVFk2MUJodldIaWNzdWlGdWc?oc=5",
-   "data": "2026-09-29T03:00:41+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Seleção do Uruguai publica foto de Arrascaeta, do Flamengo, com braço imobilizado",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/28/selecao-do-uruguai-publica-foto-de-arrascaeta-do-flamengo-com-braco-imobilizado.ghtml",
    "data": "2026-09-29T02:35:47+00:00",
@@ -1215,22 +1231,6 @@
    "data": "2026-09-28T21:14:23+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Fluminense: venda de ingressos para tricolores é aberta; veja preços e como comprar",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbnNTYktXdzJ2bW1XaklwdVgyTi1qWVJpMWRQbXM2dnkxNk42MTctc2h4SWpzY0t4U29MZnNLU196Q2tjd0hEdW9LYUxXT2VXNXE1azIyWVBoblo5em5FQWRvS1dOU0txT2ozZmJKZHZyclZXRmpFZkJnUk81YjdKN1VETm8xQlBLV2dpYllRbE9NU1dmWHFXcXFRTmpHbGlfZTM0MDBsVnptSEVwblByT0wwak5oVlJiNU1EcDExN2M4aWdiRzFEdngwWEotaHNIS1hzaGZ3?oc=5",
-   "data": "2026-09-28T20:00:03+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Flamengo recebeu quase tudo da Betano do ano de 2026 antes de veto a bets",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMEpUSGNsU2dTYVJsMkRhRXFQa1NZR190ZW9HUms4ZUJENlhpR2NrelNZQ3JqU2dTUkdjNGtPd0RwZXEwNVpEQVI1cFIzcFlqbURZYWtkR2JSYjhhWURqZVQ3S1pDUmlieVJ3dElxWWVFMFVyalRiSXRHd3BaZzN0dXJZWHNHZkZfM2RLTmNfcS13ZjZzbGhQOGVBMUNCSGQ1RnBNa21xdzBkNmhwcEdKRkNsNFdDdWdJTG9mVjJHWE83cVFsOHRjemFJc3lZMUFYUE1wTklFRnlPUzdOWXhHRzFfZ2Q?oc=5",
-   "data": "2026-09-28T19:53:51+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
