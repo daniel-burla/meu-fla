@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-02T22:06:57.428279+00:00",
+ "atualizadoEm": "2026-10-03T01:09:23.127684+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 35
+   "itens": 34
   },
   {
    "id": "colunadofla",
@@ -29,10 +29,74 @@
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 63
+   "itens": 62
   }
  ],
  "itens": [
+  {
+   "titulo": "Com 2 de Gabigol, Santos vence São Paulo antes de enfrentar o Flamengo no Brasileirão",
+   "link": "https://colunadofla.com/2026/10/com-2-de-gabigol-santos-vence-sao-paulo-antes-de-enfrentar-o-flamengo-no-brasileirao/",
+   "data": "2026-10-03T01:07:42+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e Santos se enfrentam na próxima quinta-feira (08), na Vila Belmiro O Santos segue em crescente no Brasileirão. Nesta sexta-feira (02), o time da Vila Belmiro venceu o São Paulo, de virada, por 2 a 1, no Morumb…"
+  },
+  {
+   "titulo": "Após Flamengo, 17 times do Brasileirão entram com ação no STF contra fim das bets",
+   "link": "https://colunadofla.com/2026/10/apos-flamengo-17-times-do-brasileirao-entram-com-acao-no-stf-contra-fim-das-bets/",
+   "data": "2026-10-03T00:48:06+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo tomou a frente no STF contra a proibição das bets, enquanto a ANJL pede urgência antes do prazo da MP 1.394 O Flamengo tomou a frente dos clubes brasileiros na tentativa de reverter a proibição das casas de apo…"
+  },
+  {
+   "titulo": "Cássio avalia pausa que ajudou Flamengo e Cruzeiro antes das oitavas da Libertadores",
+   "link": "https://colunadofla.com/2026/10/cassio-avalia-pausa-que-ajudou-flamengo-e-cruzeiro-antes-das-oitavas-da-libertadores/",
+   "data": "2026-10-02T23:45:52+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Cruzeiro eliminado para o Flamengo na Libertadores e fala sobre os ajustes de Artur Jorge no confronto O goleiro Cássio relembrou a eliminação do Cruzeiro para o Flamengo nas oitavas de final da Libertadores deste ano.…"
+  },
+  {
+   "titulo": "Quando fecha a janela de transferências 2026?",
+   "link": "https://colunadofla.com/2026/10/quando-fecha-a-janela-de-transferencias-2026/",
+   "data": "2026-10-02T22:47:35+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "O segundo período de registros da CBF terminou em 11 de setembro, e novas inscrições agora dependem de exceções previstas no regulamento até a primeira janela de 2027 A janela de transferências do futebol brasileiro em…"
+  },
+  {
+   "titulo": "Pedrinho detona Bap: “Não cumpriu contrato assinado por Landim com a Liga”",
+   "link": "https://colunadofla.com/2026/10/pedrinho-detona-bap-nao-cumpriu-contrato-assinado-por-landim-com-a-liga/",
+   "data": "2026-10-02T22:45:09+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Bap é criticado por causa do uso do Maracanã e comenta a redução de estrangeiros aprovada pela CBF para o Brasileirão Pedrinho, presidente do Vasco, disparou contra Luiz Eduardo Baptista, o Bap, mandatário do Flamengo.…"
+  },
+  {
+   "titulo": "Vasco recorre na Justiça e acelera disputa pelo Maracanã contra o Boca",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3NWTXIySlhjQjFXT21aNUFuU2c2cTl5cmgwaF9DTXdlcXVvc3Y5ZGFuOFAwTDFVUTBuQVd0Z2IySkd1Z2lSZHBMeldaaVozbWFROXU1aVM4SWl5bVhyNTR1NzRBU1hkcGk5cUpaenZ3cUQyZVotRDlGSk1SU3Zlck1QX0RVcnpCODNFRjEwTG94X0x5MlNONGJlay1RZzYwWFUwSU45cDRxZw?oc=5",
+   "data": "2026-10-02T22:38:11+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vasco recorre contra suspensão de processo e pede decisão urgente sobre jogo no Maracanã",
+   "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/02/vasco-recorre-contra-suspensao-de-processo-e-pede-decisao-urgente-sobre-jogo-no-maracana.ghtml",
+   "data": "2026-10-02T22:05:44+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "João Almirante: \"Consórcio Maracanã negar o direito do Vasco é agir contra o edital\" O Vasco entrou, na noite desta sexta-feira, com um recurso pedindo o fim da suspensão do processo na Justiça. O clube pede uma decisão…"
+  },
+  {
+   "titulo": "Paquetá participa de encontro com jovens da base do Flamengo: \"Vivi um momento mágico\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/02/paqueta-participa-de-encontro-com-jovens-da-base-do-flamengo-vivi-um-momento-magico.ghtml",
+   "data": "2026-10-02T22:05:12+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "O meia Lucas Paquetá participou, na última quinta-feira, de um encontro com jogadores das equipes sub-11 e sub-13 das categorias de base do Flamengo. A conversa faz parte do projeto Papo de Campeão, feito para aproximar…"
+  },
   {
    "titulo": "Justiça trava ação do Vasco contra Flamengo e Fluminense por jogo com o Boca no Maracanã",
    "link": "https://colunadofla.com/2026/10/justica-trava-acao-do-vasco-contra-flamengo-e-fluminense-por-jogo-com-o-boca-no-maracana/",
@@ -64,30 +128,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Como o Flamengo lidera o ranking de público do Brasileirão pelo 5º ano seguido",
-   "link": "https://colunadofla.com/2026/10/como-o-flamengo-lidera-o-ranking-de-publico-do-brasileirao-pelo-5o-ano-seguido/",
-   "data": "2026-10-02T20:52:34+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo lidera a média de público do Brasileirão 2026, tem os três maiores públicos da competição O Flamengo chegou à pausa do Campeonato Brasileiro para a Data FIFA de setembro com números de destaque nas arquibancada…"
-  },
-  {
-   "titulo": "Ídolo do Flamengo compra briga de Rossi e dispara: “Eu também falhava”",
-   "link": "https://colunadofla.com/2026/10/idolo-do-flamengo-compra-briga-de-rossi-e-dispara-eu-tambem-falhava/",
-   "data": "2026-10-02T20:36:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "O que disse Raul Plassmann sobre o momento de Rossi com a camisa do Flamengo? Raul Plassmann, ídolo da história do Flamengo, saiu em defesa da trajetória do goleiro Rossi no clube. Na fala, o ídolo da história do Rubro-…"
-  },
-  {
-   "titulo": "Flamengo Sub-20 vence o Sampaio Corrêa-RJ antes enfrentar o Vasco 2 vezes",
-   "link": "https://colunadofla.com/2026/10/flamengo-sub-20-vence-o-sampaio-correa-rj-antes-enfrentar-o-vasco-2-vezes/",
-   "data": "2026-10-02T19:59:54+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Crias do Ninho do Urubu bateram o Sampaio Corrêa-RJ por 3 a 0 no estadual do sub-20 O Flamengo venceu o Sampaio Corrêa-RJ por 3 a 0 nesta sexta-feira (02), no Ninho do Urubu, pela Taça Guanabara do Campeonato Carioca Su…"
   },
   {
    "titulo": "Jorge Jesus sofre ataque após briga com Cristiano Ronaldo na Seleção Portuguesa",
@@ -130,28 +170,12 @@
    "resumo": "Propaganda da nova parceria entre Flamengo e Lubrax está estampada em frente ao prédio da empresa no Rio de Janeiro A nova parceria entre Flamengo e Lubrax entrou em vigor a partir do mês de outubro. Desse modo, a empre…"
   },
   {
-   "titulo": "Pedrinho dá explicação inacreditável sobre o Vasco ser a favor da redução de jogadores estrangeiros; Flamengo votou contra",
-   "link": "https://colunadofla.com/2026/10/pedrinho-da-explicacao-inacreditavel-sobre-o-vasco-ser-a-favor-da-reducao-de-jogadores-estrangeiros-flamengo-votou-contra/",
-   "data": "2026-10-02T17:41:31+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Com a aprovação da maioria dos clubes brasileiros, o limite de estrangeiros nos jogos será reduzido a partir de 2027 A redução do número de estrangeiros nos jogos do futebol brasileiro ainda segue dando o que falar. Ped…"
-  },
-  {
    "titulo": "Flamengo tem calendário pesado com decisões no mês de outubro",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdTNSQ1RqM2dHRmFmYUFhTXVtQndycTI5WmNMdWtDb0tycE9ITm5BT01qcWFGMlNMU2hydERNV1hhZzBuVHNObDNzOEtlSzVONWNSa0p0U1BCRGpmakVKMVR0UTRxNGdHZGtCUkxTNlhtSXhnZFlkTlZpUTFZRjRCMVc2YjM3clF1UmNaMFQ2aHhaMUZxVXF3SjRvLWo1aVdVMlE?oc=5",
    "data": "2026-10-02T17:39:16+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Joaquín Freitas ‘corta’ contato com Colidio e espera por ex-companheiro de River Plate em jogo do Flamengo x Vasco",
-   "link": "https://colunadofla.com/2026/10/joaquin-freitas-corta-contato-com-colidio-e-espera-por-ex-companheiro-de-river-plate-em-jogo-do-flamengo-x-vasco/",
-   "data": "2026-10-02T16:40:42+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Joaquín Freitas e Colidio deixaram o River Plate (ARG) na metade deste ano para atuarem por Flamengo e Vasco, respectivamente Joaquín Freitas ainda está tendo algumas primeiras vezes com a camisa do Flamengo. De momento…"
   },
   {
    "titulo": "Com Flamengo de olho, Lorran marca primeiro gol nos Emirados Árabes; veja",
@@ -471,14 +495,6 @@
    "data": "2026-10-01T15:16:40+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "'Nunca vai acontecer': Boto descarta salários atrasados no Flamengo, mas admite chance de vendas de jogadores sem dinheiro de bets",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uV2x2TDItbUhnenA1UzR6Mnc1X0pqNTRoT1BKakY5MTJYRW1oVlRjNzZVdmtPdnJPY3RueFAtSG93LXBkS3lsTXBWNVIwUlpKREJzVkJUZTg5Vlc3UEE?oc=5",
-   "data": "2026-10-01T15:15:53+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -1106,6 +1122,14 @@
    "resumo": "Tá na Área - Marcello Neves e a apuração sobre a lesão de Arrascaeta parte 01 O Flamengo recebeu uma péssima notícia nesta segunda-feira: Arrascaeta sofreu uma fratura no punho durante o amistoso entre Uruguai e Coreia…"
   },
   {
+   "titulo": "Fábio Luciano vê Arrascaeta como 'difícil de substituir' no Flamengo: 'Tem um brilho que esses caras não têm'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yUEtvRmRYREJ6SUZ0ZXpUSUEzRl96dm5JWXdXRWhPT1lIdll1cXJJZUFQelNrWWxPcEl1MmdleFhaRVNkN3JhMFM4Ym5vVFk2MUJodldIaWNzdWlGdWc?oc=5",
+   "data": "2026-09-29T03:00:41+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Seleção do Uruguai publica foto de Arrascaeta, do Flamengo, com braço imobilizado",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/28/selecao-do-uruguai-publica-foto-de-arrascaeta-do-flamengo-com-braco-imobilizado.ghtml",
    "data": "2026-09-29T02:35:47+00:00",
@@ -1208,30 +1232,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Tempo de recuperação de Arrascaeta preocupa Flamengo; médico explica cenário",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTV1VzdROG5MeUs3WTd3THVLQkI2emM4ejJYQnhPb1dUa1VQaWVCa0h4UjlPNm9keHpRWEtqZFFmOXdIMFYwT3h5QmtTWmMxdklfNXhaaGhQWFV1QWcycmU4b01ZaVhwTmh3OGlESThId085WmhwMG1ZQWhIUXVTM0lKU2ZPWndYajZIOVhpa0d2d25mcTg3eUw2bk10RzJpWmpoTEhlMllKYnpxU3Z5ZzNnYV8?oc=5",
-   "data": "2026-09-28T19:37:14+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo: Fratura no punho é novo problema para Arrascaeta em temporada com lesões",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTZ6MkdtbU5pSDJMMHdaYV9OUXVpaVVsS2FrZUJ4YXFWZEdFcTVrSl9pOU1MRVhVYUpVeUE1aldIajU5X0ZSR2xtTG9wczdnZW4wcno4VjVkT1cyNzNDdk5Qa0tVSy1MS1JMVEJNTVBvdFpvcFNfT2UzSThMeHloNGFMWm1TVVQ3Tmh5N25mblhYU082cGcxSVlRWExHUTJzcmhFVHAxdlU3cmZhcnNtRlhzekRaNzFGYWpIZ0RPSXhZMzE2ZXdn?oc=5",
-   "data": "2026-09-28T19:35:14+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta sofre quinta lesão com o Uruguai, que já o fez desfalcar o Flamengo por 118 dias",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/28/arrascaeta-sofre-quinta-lesao-com-o-uruguai-que-ja-o-fez-desfalcar-o-flamengo-por-118-dias.ghtml",
-   "data": "2026-09-28T19:24:37+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Arrascaeta fratura o punho esquerdo em goleada do Uruguai Parece notícia repetida, mas não é. Arrascaeta, de novo, se lesionou a serviço da seleção do Uruguai. Desta vez, o problema foi uma fratura no punho, sofrida dur…"
   }
  ]
 }
