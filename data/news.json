@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-05T06:53:45.997667+00:00",
+ "atualizadoEm": "2026-10-05T15:53:47.972318+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -23,31 +23,135 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 54
+   "itens": 48
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 56
+   "itens": 49
   }
  ],
  "itens": [
+  {
+   "titulo": "Conmebol divulga uniformes para jogos entre Flamengo e Estudiantes na semifinal da Libertadores; veja",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/05/conmebol-divulga-uniformes-para-jogos-entre-flamengo-e-estudiantes-na-semifinal-da-libertadores-veja.ghtml",
+   "data": "2026-10-05T15:25:48+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Desfalque de peso: Flamengo perde mais em jogos sem Arrascaeta A Conmebol definiu os uniformes com que Flamengo e Estudiantes, da Argentina, disputarão a semifinal da Libertadores. O jogo de ida será no Jorge Luis Hirsc…"
+  },
+  {
+   "titulo": "Justiça nega pedido do Vasco para usar o Maracanã contra o Boca na Sul-Americana",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbE50T2NVYTI5TG90WjZTc1ZrV2pvWS11dlM1b3JUdk1Lc3VOTlhnVEMtRWpVRFFYeUw2ZFZfSjEzSXhNb200Ty1uVFlxS19zUGxOR1pVZDlvM2ZfdWhyYXZjbnhzNm5tSFQ0ZV9UZmxVdGV1WjBrTzdPd0ZXUGlqaXNZU0F1ZXN1am1SMUgxLXlMRlFVVWV0Y3ZENU1iMFJGei10Tzhtem1lekJmalNSelg3TzhmRE1lejY2cDRTbTRLSVREMk5MVnZuWGZRelFGSS1Sc1o2UQ?oc=5",
+   "data": "2026-10-05T14:32:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogador do Flamengo perde pênalti em amistoso na Data Fifa",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTzhoMkROUWRSdi03dHhFbFRBNWIweXJ5ODR6UktSQUVTZG80aTVoeHZab1FUMnk4OVc5bGdWby1CM2dxZU5sVG9hYUhtTXNicGtweVJuMXBCa2ItZk9Eb1V4OENjNjYyOGNwWG5jS2huWWIyOWVraWQzcFFNdWFRNEVfLVR6YlZ3RmN1MUZvTGwwTFhWNzBVcGpxQnRGWUFFUGQ1TlBNX1lpby1yREZXQk9rTE5vM3AtdkE?oc=5",
+   "data": "2026-10-05T14:31:38+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo hoje: veja as principais notícias do Flamengo nesta segunda, 05/10/2026",
+   "link": "https://colunadofla.com/2026/10/flamengo-hoje-veja-as-principais-noticias-do-flamengo-nesta-segunda-05-10-2026/",
+   "data": "2026-10-05T14:27:45+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Confira os destaques do noticiário rubro-negro neste 05 de outubro O Coluna do Fla reuniu as principais informações do Flamengo nesta segunda-feira (05). Isso porque, o noticiário esportivo tem repercutido notícias rele…"
+  },
+  {
+   "titulo": "Justiça do Rio nega liminar para Vasco usar Maracanã contra o Boca",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGp4U05rR3ktTHpYRFB4Y0Z5VkZqSElMeTJxYTJNaUVEOXNSTFVBcC0wYVhZMWlzQUpoeWpBZUNQQk5SWnpuYVdXOURVOEV6Yi1fa0NXSFk4d2xEOFlaZUZ1TERYaTRLZ292dmRHRjJYY0N2QmN5ZnlFVllrMmx4clJVenJPY0RyQkdQSGpfSy1vY0lZMl80VVh6dTYwTHQ0cUExVHA2cUsxQVJUS1o0N2x2a21WdDBhajNQMnEzLWhSUGlIbXZEWVB4bUVBWXdnY3FIcg?oc=5",
+   "data": "2026-10-05T14:24:44+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Os times dos 20 governadores eleitos; Flamengo lidera preferência",
+   "link": "https://ge.globo.com/mg/futebol/noticia/2026/10/05/os-times-dos-20-governadores-eleitos-flamengo-lidera-preferencia.ghtml",
+   "data": "2026-10-05T14:19:41+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Loffredo aponta nova tendência no futebol mundial: \"técnicos de clubes assumindo seleções\" O Brasil elegeu, neste domingo, 20 governadores, um recorde desde a redemocratização do país. O Flamengo lidera a preferência en…"
+  },
+  {
+   "titulo": "Santos x Flamengo: ingressos para jogo do Brasileirão na Vila Belmiro começam a ser vendidos hoje",
+   "link": "https://colunadofla.com/2026/10/santos-x-flamengo-ingressos-para-jogo-do-brasileirao-na-vila-belmiro-comecam-a-ser-vendidos-hoje/",
+   "data": "2026-10-05T14:17:56+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Venda de ingressos para os torcedores começou na manhã desta segunda-feira (05) O Flamengo retorna aos gramados após a Super Data FIFA em confronto pelo Campeonato Brasileiro. O próximo compromisso ocorre contra o Santo…"
+  },
+  {
+   "titulo": "As opções de Leonardo Jardim para substituir Arrascaeta no Flamengo",
+   "link": "https://colunadofla.com/2026/10/as-opcoes-de-leonardo-jardim-para-substituir-arrascaeta-no-flamengo-2/",
+   "data": "2026-10-05T13:49:05+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Leonardo Jardim terá de testar soluções no meio-campo antes da semifinal da Libertadores Arrascaeta sofreu uma fratura no punho esquerdo durante o amistoso do Uruguai contra a Coreia do Sul, na última segunda-feira (28)…"
+  },
+  {
+   "titulo": "Anthony Valencia, do Flamengo, é titular e participa de gol em derrota do Equador para o Panamá",
+   "link": "https://colunadofla.com/2026/10/anthony-valencia-do-flamengo-e-titular-e-participa-de-gol-em-derrota-do-equador-para-o-panama/",
+   "data": "2026-10-05T13:09:14+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Equador perdeu para o Panamá, nesta segunda-feira (05), e encerrou ‘turnê asiática’ sem nenhuma vitória A Seleção Equatoriana sofreu a terceira derrota consecutiva desde a chegada do técnico argentino Marcelo Gallardo.…"
+  },
+  {
+   "titulo": "Briga pelo título: próximos rivais do Flamengo têm desempenho pior que do Palmeiras; veja rankings",
+   "link": "https://ge.globo.com/gato-mestre/noticia/2026/10/05/briga-pelo-titulo-proximos-rivais-do-flamengo-tem-desempenho-pior-que-do-palmeiras-veja-rankings.ghtml",
+   "data": "2026-10-05T13:02:30+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo 0 x 3 Palmeiras | Melhores momentos | 17ª rodada | Brasileirão 2026 A dez rodadas do final do Brasileirão, o Flamengo é neste momento o favorito para terminar o Brasileirão como campeão. Tem três pontos e duas…"
+  },
+  {
+   "titulo": "Como o Flamengo pode manter a liderança do Brasileirão na volta da Data FIFA?",
+   "link": "https://colunadofla.com/2026/10/como-o-flamengo-pode-manter-a-lideranca-do-brasileirao-na-volta-da-data-fifa/",
+   "data": "2026-10-05T12:46:57+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Com três pontos de vantagem sobre o Palmeiras, o Fla precisa transformar a pausa em combustível para a reta final Após a 28ª rodada, o Flamengo lidera o Brasileirão com 60 pontos. O Palmeiras aparece logo atrás, com 57,…"
+  },
+  {
+   "titulo": "Flamengo se reapresenta e terá 3 treinos antes de viajar para enfrentar o Santos",
+   "link": "https://colunadofla.com/2026/10/flamengo-se-reapresenta-e-tera-3-treinos-antes-de-viajar-para-enfrentar-o-santos/",
+   "data": "2026-10-05T11:27:37+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Elenco de Leonardo Jardim volta ao Ninho do Urubu nesta segunda-feira (05) O elenco do Flamengo se reapresenta e treina a partir das 10h (horário de Brasília) desta segunda-feira (05), no Ninho do Urubu. Segundo a progr…"
+  },
+  {
+   "titulo": "Opinião: Melhor jogador do Brasil, Samuel Lino volta ainda maior ao Flamengo sem Arrascaeta",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbldRcUpfa2hvTzltZWZXeWFPQUwwbi0wbzN5dDU3ZzVzeHBLTjh1X2lhS2ZWNGZ5MTlzaS1FcVNXSHN6a2dFcW9ub2l1b0JZOXlLV1ZHRjNsZ3R3ODQybmIxRThVQmhHVXAwVzBjcTNUa3Vza2diNklfTzdJR09EM0lCd0FEU1ZHU0dudEFRVG1udi1jY3hDMXplTTA3a1NiXzlpYkZmWlNBY18xZm03Wm8takpmYjQ3c3BwcF95UE1lRF9NdGdN?oc=5",
+   "data": "2026-10-05T10:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Desfalque, dúvidas e boa notícia: ataque ganha atenção em pausa do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVExjRlRpTlh1NVpkOUZITFlxdnlsM0MtTzREbC04eGpENXZjeXdBN0ZFdDlkdVczd0RhVEsxcFVkWklNQlFjbEVrUTZZN0pVbS0wMmFsSG1kVEV4aFVDY3BGMVl2Y3dQQjI1aVY2WG45M2VyeS10NlhhX3IyQkwtT1FIRW54VkJiaWNHQThyc2FuZ0VFS0x1R3c2Szk3S1Vvb2t2S3R5UmNJOGdBYzFPckQ4WWlKNGNVWDVrUEdIVS1RWDB3anJJOGNsRWQ3ZGtfZUd1STVrOG81WWx6OVE?oc=5",
+   "data": "2026-10-05T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
   {
    "titulo": "Flamengo não bate meta de vendas em 2026 e reacende debate sobre produção e utilização da base",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/05/flamengo-nao-bate-meta-de-vendas-em-2026-e-reacende-debate-sobre-producao-e-utilizacao-da-base.ghtml",
    "data": "2026-10-05T06:00:00+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Além do risco de perder o seu patrocinador master, o Flamengo também tem outra preocupação financeira nesta reta final do ano: o clube não atingiu a meta de vendas de jogadores em 2026. + Fifa vai ressarcir o Flamengo p…"
-  },
-  {
-   "titulo": "Ex-Sesc Flamengo, Camila Gómez deixa o vôlei e passa por treinamento no Exército dos EUA",
-   "link": "https://colunadofla.com/2026/10/ex-sesc-flamengo-camila-gomez-deixa-o-volei-e-passa-por-treinamento-no-exercito-dos-eua/",
-   "data": "2026-10-05T01:40:00+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Aos 31 anos, a colombiana Camila Gómez, ex-Sesc Flamengo, entrou no Exército dos EUA Do Flamengo para o exército dos Estados Unidos. Camila Gómez vive uma rotina completamente diferente da que tinha nas quadras de vôlei…"
+   "resumo": "Boto diz que Flamengo conta com Pedro e Samuel Lino contra o Santos Além do risco de perder o patrocinador master, o Flamengo também tem outra preocupação financeira nesta reta final do ano: o clube não atingiu a meta d…"
   },
   {
    "titulo": "Cebolinha pode jogar pelo Santos contra o Flamengo? Entenda a restrição imposta pelo clube",
@@ -66,28 +170,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Philippe Coutinho faz previsão de jogo do Flamengo x Santos, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/10/philippe-coutinho-faz-previsao-de-jogo-do-flamengo-x-santos-pelo-brasileirao/",
-   "data": "2026-10-05T00:13:03+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Philippe Coutinho estreou no Santos nessa sexta-feira (02) e deve ganhar mais minutagem contra o Flamengo, na Vila Belmiro O meio campista Philippe Coutinho projetou a reta final de 2026 e comentou o próximo jogo do San…"
-  },
-  {
    "titulo": "Santos deve perder Arthur e não terá Cebolinha contra o Flamengo; Neymar pode voltar",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQalB6Vzk0YWhlZ3h3Vk5pTmZyN3R1SzZpWkRzN1lyZ3VURURBQTdXNk5EeTZMcl85N2ZHbkFFT2JMRm56d3N5dUNoTjdBaGZJYkdyUktINWpJdWU1MW11U1pvemRkM1BTbUpGdHY0Wm00dm5IUlNBcDBfaV9pWGhkN0tHcjVxY2lxZDdvbHNlR1VnWjdmRWw2WnhuM1Rhc2lxU0c5anFJRDVxOEFmVTZoOUpFc09Yc010N04wYVZJVTBMQWI5a2k1R05HaEpqQ1hEX1lLTEpLSU14WS1RVEhXaUV4SVFkTWZPYUE?oc=5",
    "data": "2026-10-04T23:55:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Goleiro do Atlético-MG elege Pedro o atacante mais difícil de enfrentar no Brasil",
-   "link": "https://colunadofla.com/2026/10/goleiro-do-atletico-mg-elege-pedro-o-atacante-mais-dificil-de-enfrentar-no-brasil/",
-   "data": "2026-10-04T23:40:00+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Goleiro do Atlético-MG, Everson aponta Pedro, do Flamengo, como o centroavante mais difícil de marcar O goleiro Everson, do Atlético-MG, elegeu Pedro, do Flamengo, o atacante mais difícil de enfrentar no futebol brasile…"
   },
   {
    "titulo": "Flamengo avança no projeto de R$ 500 milhões com 2 hotéis e shopping na Gávea",
@@ -104,14 +192,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "O ge publicou neste domingo um quiz para os rubro-negros responderem quem são os maiores artilheiros da história do Flamengo em cada posição. Uma curiosidade é que só na lateral direita o goleador é um jogador do século…"
-  },
-  {
-   "titulo": "“Nesses moldes, poderia se pensar”, diz Braz sobre retorno de Gabigol ao Flamengo",
-   "link": "https://colunadofla.com/2026/10/nesses-moldes-poderia-se-pensar-diz-braz-sobre-retorno-de-gabigol-ao-flamengo/",
-   "data": "2026-10-04T21:40:58+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ex-vice do Flamengo, Marcos Braz diz que “poderia se pensar” em ter Gabigol de volta por um ano de empréstimo, nos moldes de 2019 Marcos Braz, ex-vice-presidente do Flamengo, defendeu a volta de Gabigol à Gávea, ideia j…"
   },
   {
    "titulo": "Volante contratado pelo Flamengo se emociona em jogo do Paysandu",
@@ -146,28 +226,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo pode receber valor milionário da FIFA após lesão de Arrascaeta no Uruguai",
-   "link": "https://colunadofla.com/2026/10/flamengo-pode-receber-valor-milionario-da-fifa-apos-lesao-de-arrascaeta-no-uruguai/",
-   "data": "2026-10-04T18:32:52+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo pode receber até R$ 3,3 milhões da FIFA por lesão de Arrascaeta O Flamengo pode receber um valor milionário da FIFA por causa da lesão de Arrascaeta, sofrida com a Seleção Uruguaia. O ressarcimento vem depois q…"
-  },
-  {
    "titulo": "Arrascaeta, Jorginho ou Danilo: qual jogador é o maior líder do Flamengo? Dê sua opinião!",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQk92NHJGVE0xYVozaGpuWHN3OHZRRmZLelZ3Z2VQSDJvM2RkMnpycUxIa043MndZQ0pjTi1DeC00cjJOTUhhVl81T0piS3p2alNreEVIV29Ld3hfU1Z0UmpVMU1oYVNvUEZyRUxmbzZiTG5GRExHUTBKNUltam5JRmdqMHlqdXJ2Q1phZEp3ZlNBUHNPUVgwSTdiVXpzQlZGSkh6b1IwTVNScFZmU0F3NWNhbWJlRzRFZmUzZFpEUkhtQQ?oc=5",
    "data": "2026-10-04T17:59:06+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Anos depois, Everson ainda não aceita o gol de Arrascaeta na Copa do Brasil",
-   "link": "https://colunadofla.com/2026/10/anos-depois-everson-ainda-nao-aceita-o-gol-de-arrascaeta-na-copa-do-brasil/",
-   "data": "2026-10-04T16:25:36+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Goleiro do Atlético-MG afirma que a bola não entrou por inteiro, mas áudio divulgado pela CBF mostra o que o VAR ‘viu’ O goleiro Everson, do Atlético-MG, voltou a contestar o gol de Arrascaeta que classificou o Flamengo…"
   },
   {
    "titulo": "Você sabe quem são os artilheiros do Flamengo por posição? Faça o teste!",
@@ -242,8 +306,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo pede a Fux liminar que derrube MP das bets antes do prazo para retirada de patrocínios",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPb19mV0ZqN1BKcXRmQTM0SVI4TkhTWGNBNVNzQ0VnZVpPVEx3eGR1c0RwRVJKVWxDTktSNTBlYzNkSU9OSUtfQTRsb2VpZHlaLW5YX3ozbkZ2WnB6ZWhXOGNiWjBQdjlydTRwVzRnX2FQV1FxYUk1RHhtTVdld3BKeE1xZXFONjk5ZWhYQkQ0V25pVzlEUkJZb29NYkRRVy11ZVo5cFhCaExzbEVySGNYWDRES3dRT3BZVVB2ZGZiRThBMG1PUmp2NEpaVzV0eXFkeGI4M2RVM0oyemc2dDhPa2VCVkxGdmltNUNjckF4UU5Tal9EUmZmVFpR?oc=5",
+   "titulo": "Flamengo pede a Fux liminar que derrube MP das bets antes do prazo para retirada de patrocínios - TNOnline",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZndZZERKR0h0cVAyUTY1RC11a3dlR3RFSk1feC13d1hVUW5UYU5rQmxMNWdCTjRBRl9sclg4WTdoWmNMa2IyVFVFZEJEYUFteGFKamx6a2Q2UFJNYjZQZ0FFcE9UaVhVbXVMY0NfWFR6NTN3WmpJUlp4WTRlVkJDd04xeFFVX3RNcVpHcjFUaEd1RnduSEJ4QW81dWtSWEVUTGFvYm5MQmJvalJrZW9POVFhWkFsaWdEem1pWTRlRWhNT3ZjNDNab1IxakliU0NXczRrSzFHUTNXLTctVnAzSXBjTdIB7gFBVV95cUxNaUpMNEQxVlREeU5sUUJQNlJPM3NVVGNYMjZjcEcwQTRmVDZPMFl5S1RXLUJRcVpHd2JTRzM0bkcxTGFaRUI5eF96SDFvZ2d3Nzh4QVY1ZkppNzNkbktYbnZSd2paTTJEaVE3SDZBRzV4bDRfd3V1SUtldDBpTGFUZFZMWHlqM1RIUmg0RFRfMDVqOGJkS0Z1eVNJRXA5aDYyZFZFVXZLNlNaT1NXR1A1ZGNCMUFNbXcxNlFuSlpMbUh2RzZlUUVYV25ZSXZ0czZPYUU3Zm95MnBoazdnVGRoVUpGMUJGRzhqNWRQaWNB?oc=5",
    "data": "2026-10-03T21:10:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -970,14 +1034,6 @@
    "resumo": "Léo Pereira fala sobre experiência de visitar os Estúdios Globo O zagueiro do Flamengo Léo Pereira fez uma visita aos Estúdios Globo nesta quarta-feira. O jogador é parte da campanha do Criança Esperança ao lado da namo…"
   },
   {
-   "titulo": "Flamengo é aceito por Fux em processos do STF sobre bets",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNEVxa2thOXNabnM1eVYybmtGRFRmblh1aUlob1hMbUVMNkJDOS13OWpucHNkZGYtelY1ZmxtVFJYcVpJemNJRmRGZEdWZC1Bb2RsY0NQcmZ1RE1zcnRqSHpmZTFuUmxrdGl1SjFwbUtwVkpfb3FUaVZxZ0NnWDNSZDVoZmxGYjBsYmlaVTl2Q3VRdTVvci02VzdtU0xzd2NNaTVIZVNKQQ?oc=5",
-   "data": "2026-09-30T23:18:57+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Artilheiro ex-Flamengo deixa os EUA e fecha com clube árabe",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYzJfMjl6b1M1SEJ1TE52Nk9jcktMcGhLQ1hWUGplcjhIWE4zMnpMUGVUbk1YN1pKQ08wMS1PcGx5My1LbDBNdlJWelU4dWZjcW1fbFh4NHc4aXFPSF9JZG1zandOX0lndGZUNXpiSzJfM0hFOUJ3T3FpTlBOMXg0cklGa2lGWkU5VzIxNFhvYlkyMDBnRnQyYjJNTjBEMVcxaVhoX3h3SFpUdnV2a3ZpZA?oc=5",
    "data": "2026-09-30T22:55:00+00:00",
@@ -1138,14 +1194,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo aciona STF contra proibição das bets no Brasil",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQm5kZDFDaDRsR3JxVVgzMVVhSWFocGY0YjdpTVQ1Wk8zV3lQWm1CUGtZOGVoY3ZBYjQ2Ym83b294X0RpSjB1WVpNMkZ6dTlCcGVmUTJ4dEdzRk5JVGNOSGZ2cUNoWHlwNUNWRHNLMGtoV2hQT3RmUmVRaWFJRFd0WVdvWWJfQXlYeWZ2MmRsNjZBYzc2OTJUYi1R?oc=5",
-   "data": "2026-09-30T13:28:01+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Quem é a modelo mineira apontada como affair de Carrascal, do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOallUb0t0MnltWE55Sk9FWThKY3o2MVlFNlpKNURWT2lmQWpibVZuZTdNdmE5ZTVENnhwd0k0LUd5cnZsX3djanNIaTdfTVJ2YXRWYlQxRllkTVpZTy1USllPaHNMSHRYTk0tTEJSVnNwVzRrOXFNa0s3MGl3UzNkSFNfQ0JmTG53R0Z6aXhXRGVxZHFQZTJSVlQ5OUJDbkRKSVk5WjkzUHplNWdCTEw5VFhPN1BCVjRjV2lFajg5ZUwxZndWbUJ5Q2VB?oc=5",
    "data": "2026-09-30T13:01:37+00:00",
@@ -1178,60 +1226,12 @@
    "resumo": "Tá na Área - Marcello Neves e a apuração sobre a lesão de Arrascaeta parte 01 O Flamengo viveu um baque na última segunda-feira. A notícia de que Arrascaeta, com uma fratura no punho esquerdo, será desfalque por tempo i…"
   },
   {
-   "titulo": "Flamengo aciona STF e reforça ação das bets contra proibição do governo",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcE83SkJDM25zdkJJeFc0N05hYUlSM2lBTjNSdnk0OHF6cklPaWJhZWpBWm85eGNpSDBFNjdBN1dEay02NjRvSXl0MWdnSktwRWtrNVlWMU15aUNadWM0cFVVRklBTHJHd0NHUjFKck1vN0g2azZtQ2NxeEhlNE8tTzR4Q2N3eFBFcnhabXZsR1FQUmFQRExxZXktalRhTndPNmpULXRFN0lHVi0yalFTbW00SVg3OHktbnRUX3BUZ2JhcTBmb2FyUEh3QjZDQURMOTFDYjdfbmhiODZK?oc=5",
-   "data": "2026-09-30T05:03:28+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Brasileirão Sub-17 2026: veja o que está em jogo na última rodada",
    "link": "https://ge.globo.com/pr/futebol/brasileirao-sub-17/noticia/2026/09/30/brasileirao-sub-17-2026-veja-o-que-esta-em-jogo-na-ultima-rodada.ghtml",
    "data": "2026-09-30T05:00:01+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "São Paulo 2 x 1 Palmeiras | Melhores Momentos | Campeonato Brasileiro Sub-17 O Campeonato Brasileiro Sub-17 entra na última rodada e vai definir os classificados às quartas de final da competição. Cinco times já estão g…"
-  },
-  {
-   "titulo": "ONDE O VASCO VAI JOGAR: MARACANÃ OU SÃO JANUÁRIO? O TEMPO ESTÁ ACABANDO!",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzdnaEdXbTFNYVRxcXBzWmk1Q3RZWEZ6Y1RzMXRSa0RSSmtuYVdPTFp2cTVzRlB5ekc0d21VMm5mc21Pb2NrejVsVUJ0Vncyck1YbnVqWlZHa2VBRGdVbDFNWGxLYXhRZENCcFozWXFlRHcxY2d6SnBDVVpFMmpyY3IzQ0s2OUV2Tk0zM2xQUi1PNlZCbFp5MUZCTnJvbWQ0VjZN?oc=5",
-   "data": "2026-09-29T23:15:14+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Neymar avança em recuperação e pode voltar contra o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXZWbFBabVdHSGw0UXJmVEt2dk1VSzJKMURzdFRqZm9lRTJBU0RTakhjRkdhTXdqWURYbkdybXBFaFJocFBOMlZuUDBNektjNk0wUGxNVW8zOThXclpFY1FLd0NfTTZEbUZiVWR6WnE3ZDlJRmFiZk5HOUpyUGRnc19SRkVPNThJdUJIR2NDbkFmSHZXQ081WXJZTm1uLWhGeWhrM0Y3VVdQeDNqMlNBN1cyZVY1MHZub0g1R1hTckl1QnpZZkNLT1JVNzk?oc=5",
-   "data": "2026-09-29T21:01:49+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Enquete: quem é o jogador mais importante da temporada do Flamengo até aqui?",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/09/29/enquete-quem-e-o-jogador-mais-importante-da-temporada-do-flamengo-ate-aqui.ghtml",
-   "data": "2026-09-29T19:59:27+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Tá na Área - Marcello Neves e a apuração sobre a lesão de Arrascaeta parte 01 O Flamengo vive uma temporada excelente até o momento. É líder do Campeonato Brasileiro e está nas semifinais da Conmebol Libertadores. Nomes…"
-  },
-  {
-   "titulo": "Fratura de Arrascaeta faz Flamengo reviver 'maldição da Data Fifa'",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcUFqYXpwRU44RUZCaTJoemxRdG1KdVI1MExxQ1ZrNlB1NC1uVjJIMWlvUWZxTkRlOGNRSFFSYmVKTmZrZXhkbjNRc0pYMGEybFpJUFRlUmVzaG5tRGVDTzRQWEZkQkVCREZsZ1F6d1VpQ1EwbzRZMF9CS3VvckhkMHdBR19scHhsZGtmOTdTQ0RXWEN0cUNQM3NfX3pWZl9OVHRISk12LTFZemdnbXEtWlFBRXBJMWZ3TVV0MFN0ZkN5Mi12d19JT1IzMTNjeWNxMnc?oc=5",
-   "data": "2026-09-29T15:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta retorna ao Rio nesta quarta e Flamengo marca a data para cirurgia no punho",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdDdLSWlmZEtoTDNkbUMwbUlyRmtZTGZSN3dSdnUyMkI2ME1pTTJDYWdwNWQ2SUtyWjhncElMQ2JHWkFCX1dSczZTV1FkU0I3UXVvek5FZW5ySUU5N1JmUzNVeENMd0hsRTBoX25GZ0RlalZaSEJtVGpmX0p2WW8yTjFkUG01VHJxa2pwRVJ3Wll6U2Q3YVZMVGFzSjhGSHROa0g3ZmIxbVByVG41bkZ2S1M3anB3bzhwUllTMnFuOElJRy0wQWJIZ1JzUG1VaW1idmhyODlXMW1ianczeFBNY1hYdGp5M083QVpoVA?oc=5",
-   "data": "2026-09-29T14:46:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   }
  ]
 }
