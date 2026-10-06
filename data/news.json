@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-05T22:32:49.323815+00:00",
+ "atualizadoEm": "2026-10-06T02:28:23.652238+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -23,16 +23,72 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 47
+   "itens": 44
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 50
+   "itens": 46
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo é o time de 5 dos 20 governadores eleitos no 1º turno; veja a lista",
+   "link": "https://colunadofla.com/2026/10/flamengo-e-o-time-de-5-dos-20-governadores-eleitos-no-1o-turno-veja-a-lista/",
+   "data": "2026-10-06T01:40:02+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Tarcísio de Freitas, reeleito em São Paulo, está entre os flamenguistas; Grêmio aparece em segundo lugar, com 2 governadores O Flamengo é o clube mais citado entre os 20 governadores eleitos no primeiro turno das Eleiçõ…"
+  },
+  {
+   "titulo": "Rodrigo Caio conta bastidor inédito de título da Libertadores e revela por que não seguiu Filipe Luís após Flamengo",
+   "link": "https://colunadofla.com/2026/10/rodrigo-caio-conta-bastidor-inedito-de-titulo-da-libertadores-e-revela-por-que-nao-seguiu-filipe-luis-apos-flamengo/",
+   "data": "2026-10-06T00:41:16+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rodrigo Caio foi auxiliar técnico do Flamengo no ano passado Com a demissão de Filipe Luís em março deste ano, o auxiliar Rodrigo Caio pediu desligamento do Flamengo. Apesar de ser fiel ao velho amigo, o ex-zagueiro não…"
+  },
+  {
+   "titulo": "Estudiantes tem mais um lesionado, mas time reencontra caminho das vitórias antes de jogo com Flamengo na Libertadores",
+   "link": "https://colunadofla.com/2026/10/estudiantes-tem-mais-um-lesionado-mas-time-reencontra-caminho-das-vitorias-antes-de-jogo-com-flamengo-na-libertadores/",
+   "data": "2026-10-05T23:56:05+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Ezequiel Piovi saiu ainda no primeiro tempo em jogo nesta segunda-feira (05) O Estudiantes (ARG) reencontrou o caminho das vitórias. Nesta segunda-feira (05), a equipe fez 3 a 0, em casa, no Gimnasia Mendoza (ARG), pela…"
+  },
+  {
+   "titulo": "Bruno Lima: Santos fica sem Arthur, mas conta com retorno de Bontempo contra o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0xQMFpoWXY0REN2bUpRWmctMnpTSUJTdGlWMjZZcF9WY0c5LWp4ejVmV2kwb2FzXzJVMU91Y3BjQTA5WWhGdXAxdVFvNG9hU0JpRkF5aWd3Zy0xR0dWOXVEampPUTZXVGZFTGhGY0FraVlMNWoxcmtBaVFDM1dNb3RRWXJ5eHR0Nl9DNUdyZWVwU0NZQjE4Yi1UV3dEaDNCSzFDUUtBWFkyWm1zaEhfQ3V6OVFaTWtCQWs5Rkl1QmlETUh3aVFrcGZfV1JvS19I?oc=5",
+   "data": "2026-10-05T23:29:24+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo visita o empolgado Santos, Corinthians tem confronto direto contra o Z-4 e mais: o PALPITÔMETRO na volta do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xQlV5ci01NGZ2WGpBaTBDZnpCMTBybXY0M1QxSVVqRnNqOEdSODRkajBCYjJKODBkcWFmQ3I5cXZXUE90NHJTa0pRbDRTdW5kdWkwV0ZNRmw2OVRHblE?oc=5",
+   "data": "2026-10-05T23:03:23+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Eleições 2026: ex-Flamengo vence como deputado estadual; Braz e Bandeira de Mello saem derrotados",
+   "link": "https://colunadofla.com/2026/10/eleicoes-2026-ex-flamengo-vence-como-deputado-estadual-braz-e-bandeira-de-mello-saem-derrotados/",
+   "data": "2026-10-05T22:51:01+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Bobô, ídolo do Bahia e campeão pelo Flamengo, foi eleito deputado estadual na Bahia Campeão da Copa do Brasil pelo Flamengo em 1990, Bobô conseguiu outro ‘título’ no domingo (04), sendo eleito deputado estadual na Bahia…"
+  },
+  {
+   "titulo": "Brasileirão: Santos ganha reforço de titular para jogo contra o Flamengo",
+   "link": "https://colunadofla.com/2026/10/brasileirao-santos-ganha-reforco-de-titular-para-jogo-contra-o-flamengo/",
+   "data": "2026-10-05T22:42:59+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Santos ganha reforço de Luan Peres para enfrentar o Flamengo; clube ainda espera contar com Neymar O Flamengo encara o Santos às 19h30 (horário de Brasília) desta quinta-feira (08), na Vila Belmiro. Para o confronto, o…"
+  },
   {
    "titulo": "Rodrigo Mattos: MP contraria Justiça e recomenda que Fla-Flu ceda Maracanã ao Vasco",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlZuT2VXcVNYRHRiNnpmS2tMTlUzVDcwbVVmbjFLMTk3WWFKMXlBcnoxNDJ1NmdXSy1SMHo4elNKOFpCWmpMcGU0Uk1UOXFobFVsaUh0Q2VHNVMxcVFWcnduQi1yaVdpQy1nU3lEbXNrbVFjcGw1TUZfRExVYnRlX2VjTVllLUVqUFhKdGxrRXBrR3U2OTdZQTdXUzRYdGNieVQ4TXExU3B2XzhYcWZpWEwwVHc3SGl3WnRLQjE0enkyUGFkaEl5TDJXeHVqajdWZGZvc295eEljZllO?oc=5",
@@ -45,14 +101,6 @@
    "titulo": "Mattos: Sem bet, Flamengo teria que fazer venda grande no fim do ano",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUWFUWm13SnVGVGltMG9kSmJMSmxvdnZwRFcxVHRQQWJ4TVQ5ZjN4MUlLM2NVcXZHcW01RU8tY1RTUWRjZW96ZzdzbkR1dnBwaGlHd1NtdHhJa0xnTWhUa2JYWnI0eTE0UWxDOEhmaHRPTVVmRjJmOVhBRjdybzczdTdKZWtpN0NKMHd6Y2RSUU9aQWp2RnhVQW9VMlZTalFXbUk2YTNsdkRzNlJYNUY2cUtuOExZbzFrRU5kY18yWG0yOFhCOEJIZHR5S1N4TkgzM2p0RQ?oc=5",
    "data": "2026-10-05T22:18:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Bruno Lima: Santos fica sem Arthur, mas conta com retorno de Bontempo contra o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0xQMFpoWXY0REN2bUpRWmctMnpTSUJTdGlWMjZZcF9WY0c5LWp4ejVmV2kwb2FzXzJVMU91Y3BjQTA5WWhGdXAxdVFvNG9hU0JpRkF5aWd3Zy0xR0dWOXVEampPUTZXVGZFTGhGY0FraVlMNWoxcmtBaVFDM1dNb3RRWXJ5eHR0Nl9DNUdyZWVwU0NZQjE4Yi1UV3dEaDNCSzFDUUtBWFkyWm1zaEhfQ3V6OVFaTWtCQWs5Rkl1QmlETUh3aVFrcGZfV1JvS19I?oc=5",
-   "data": "2026-10-05T21:59:24+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -72,14 +120,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Vasco ainda não sabe onde mandará clássico contra o Flamengo, pelo Brasileirão Irritado com as negativas em sequência impostas pelo Flamengo, o Vasco não quer jogar no Maracanã contra o maior rival pelo Brasileirão. Por…"
-  },
-  {
-   "titulo": "Ex-Flamengo, Jorge Jesus ‘surta’ com pergunta sobre Cristiano Ronaldo; veja vídeo",
-   "link": "https://colunadofla.com/2026/10/ex-flamengo-jorge-jesus-surta-com-pergunta-sobre-cristiano-ronaldo-veja-video/",
-   "data": "2026-10-05T21:37:14+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Novo treinador da Seleção Portuguesa debateu com jornalista após vitória sobre a Noruega, pela Liga das Nações Jorge Jesus segue dando o que falar nesse início de trabalho à frente de Portugal. Após vitória da seleção s…"
   },
   {
    "titulo": "Santos tem desfalque confirmado para jogo contra o Flamengo, pelo Brasileirão",
@@ -114,7 +154,7 @@
    "resumo": "Flamengo recebeu sondagens de times do exterior pelo atacante Samuel Lino Samuel Lino tem sido um dos destaques do Flamengo nesta temporada. Em meio as boas atuações, o atacante começou a ser observado por times do exte…"
   },
   {
-   "titulo": "Morre ex-meia de Flamengo, Botafogo, Fluminense e Vasco",
+   "titulo": "Morre Carlos Alberto Dias, ex-jogador de Flamengo, Botafogo, Fluminense e Vasco",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGtiV2dON3pWaWJ5UUxsRU9yTmxPSWZ2QWFtY3ZxWW5EZzNaYlRha3c2RGlUVkFoVWprQk9EQjZibVFPalhkWmw2X015ay01MEk0aE5TZ2trT2FhZFI4aTlLNnpPY21xRHdLaGY0SEJsT0ZPZkg1YmszZHAxSDlWSmV2ajVFYUpkUy1tWEE3Q1ozUC1MUWZhbnJjWV9lYjlhRWw2NVdKbUsyV3hxNmZ2RHNsOWROc0RuN3F6YQ?oc=5",
    "data": "2026-10-05T19:19:38+00:00",
    "fonte": "lance",
@@ -128,14 +168,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo não bate meta milionária com vendas de jogadores na temporada 2026",
-   "link": "https://colunadofla.com/2026/10/flamengo-nao-bate-meta-milionaria-com-vendas-de-jogadores-na-temporada-2026/",
-   "data": "2026-10-05T18:50:54+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo acumula R$ 171,6 milhões, enquanto a meta anual estava prevista para os R$ 250 milhões No início da temporada, o Flamengo estipulou arrecadação de R$ 250 milhões com venda de jogadores. Porém, já na reta final…"
   },
   {
    "titulo": "Justiça do Rio nega liminar para Vasco usar Maracanã contra o Boca",
@@ -162,20 +194,20 @@
    "resumo": ""
   },
   {
+   "titulo": "Rodrigo Caio explica por que não foi ao Monaco com Filipe Luís e descarta ser técnico",
+   "link": "https://ge.globo.com/futebol/noticia/2026/10/05/rodrigo-caio-explica-por-que-nao-foi-ao-monaco-com-filipe-luis-e-descarta-ser-tecnico.ghtml",
+   "data": "2026-10-05T17:58:23+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Rodrigo Caio admite idioma como barreira para trabalhar na Europa: \"Quero me comunicar bem\" A oportunidade de trabalhar no futebol europeu bateu à porta de Rodrigo Caio, mas acabou esbarrando em um detalhe extracampo: o…"
+  },
+  {
    "titulo": "Tite expõe maior mágoa que teve como técnico do Flamengo",
    "link": "https://colunadofla.com/2026/10/tite-expoe-maior-magoa-que-teve-como-tecnico-do-flamengo/",
    "data": "2026-10-05T17:57:13+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Treinador conquistou o título do Carioca 2024 e deixou o Flamengo na semifinal da Copa do Brasil Tite está à frente do Botafogo, porém, no futebol carioca, o treinador acumula passagem pelo Flamengo. Relembrando da traj…"
-  },
-  {
-   "titulo": "Show de Ronaldinho Gaúcho, gol Puskás do jovem Neymar e mais: relembre histórico Santos 4x5 Flamengo de 2011",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05OWJmc2JaQklpaGVRcGtlc2d4TFpyTmJ3VXZINUc1dDFMUlhyczlhQ0E3QktvaDBlV0hRY1l2dDNMcDlvVU80eWpaeWk0aWR2NV9uaERtakFSLVhGUVE?oc=5",
-   "data": "2026-10-05T17:42:37+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   },
   {
    "titulo": "'Sou completamente viciado em futebol', diz Filipe Luís - 05/10/2026 - Esporte",
@@ -192,14 +224,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo divulga data de retorno de Pedro, Lino, Varela e Valencia após amistosos das seleções",
-   "link": "https://colunadofla.com/2026/10/flamengo-divulga-data-de-retorno-de-pedro-lino-varela-e-valencia-apos-amistosos-das-selecoes/",
-   "data": "2026-10-05T16:51:14+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Jogadores voltam ao Flamengo em dias diferentes Pedro, Samuel Lino, Guillermo Varela e Anthony Valencia disputaram amistosos pelas respectivas seleções e voltam ao Flamengo em dias diferentes. O clube atualizou a progra…"
   },
   {
    "titulo": "Varela e Valencia voltam ao Rio na quarta e devem desfalcar o Flamengo contra o Santos",
@@ -240,14 +264,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Candidatos do esporte nas eleições O Brasil elegeu, neste domingo, 20 governadores, um recorde desde a redemocratização do país. O Flamengo lidera a preferência entre os eleitos, sendo citado por cinco dos 20 escolhidos…"
-  },
-  {
-   "titulo": "Santos x Flamengo: ingressos para jogo do Brasileirão na Vila Belmiro começam a ser vendidos hoje",
-   "link": "https://colunadofla.com/2026/10/santos-x-flamengo-ingressos-para-jogo-do-brasileirao-na-vila-belmiro-comecam-a-ser-vendidos-hoje/",
-   "data": "2026-10-05T14:17:56+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Venda de ingressos para os torcedores começou na manhã desta segunda-feira (05) O Flamengo retorna aos gramados após a Super Data FIFA em confronto pelo Campeonato Brasileiro. O próximo compromisso ocorre contra o Santo…"
   },
   {
    "titulo": "Briga pelo título: próximos rivais do Flamengo têm desempenho pior que do Palmeiras; veja rankings",
@@ -296,14 +312,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo avança no projeto de R$ 500 milhões com 2 hotéis e shopping na Gávea",
-   "link": "https://colunadofla.com/2026/10/flamengo-avanca-no-projeto-de-r-500-milhoes-com-2-hoteis-e-shopping-na-gavea/",
-   "data": "2026-10-04T22:41:46+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Projeto do Flamengo na Gávea prevê dois hotéis de quatro estrela e já tem licença da Prefeitura O Flamengo estará em obras. Isso porque o projeto para construir um complexo hoteleiro na sede da Gávea avançou e já recebe…"
   },
   {
    "titulo": "Flamengo tem no atual elenco seus maiores artilheiros do século em três das cinco posições; veja",
@@ -708,7 +716,7 @@
   {
    "titulo": "Rival do Flamengo na semi da Libertadores, Estudiantes sofre gol no fim e dá adeus à Copa Argentina",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOelBObk9rSTVFQmI5YnZCZU0yc2htNTV3RUpQZXNNcUQzT3lqajY4eklncUNxQ1h4a1A3bUZJQlVfMWpIZTF1aWxEZWMwVXhQcTRGZnhJV1lVSndjbnBNeVUyV04zMnZ6dl91aVBjV216SWlvdzA2dlNfX3ZQcGVHaW11NlhnZVM5bVN3Wm1abkowbV9rQWVhS1lHOFpoYXRyRkdYbmwxbmc4bV9PcFNJdFhQTllXYWtBT2ZpRDllNGZ3TWRLamZjbDkwRU5OeWF0?oc=5",
-   "data": "2026-10-02T11:32:54+00:00",
+   "data": "2026-10-02T11:24:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -832,14 +840,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Alerta ligado: Aproveitamento do Flamengo cai sem Arrascaeta Arrascaeta tranquilizou a torcida do Flamengo após passar por cirurgia no punho esquerdo nesta quinta-feira. Em publicação nas redes sociais, o meia apareceu…"
-  },
-  {
-   "titulo": "Quem é Evellin Nicomedes, modelo que apareceu com Jorge Carrascal, do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWFhTOGNhYVNoUnVYdllNWUZSdUJHa09xeDRENFBVdWNfd0U2V0hDblByNFdUQW1NaU9WRHNEZzdGVFZiUzNxSEZPekdkNmFCcmdRblQ4QzJtcTk1eVRoeHhzT2hOT2dvNDVGempkSEFQVnFlY0d1UmRsY0pFSzVFVjR5Z0w4T05JbzRZWmE0dWQ4UVN3T2ppQ3dTbVQwdmEyS1dlMkt4MHlNVVZvUEFYNC1waUJEcm1JZTRoTlB5amF4cmdTenl0OG9JTQ?oc=5",
-   "data": "2026-10-01T20:31:15+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Saúl sobre vaga de Arrascaeta no Flamengo: 'Tem escolhas melhores'",
@@ -1004,14 +1004,6 @@
   {
    "titulo": "Em atrito com CR7, Jesus cativou medalhões (e tretou com eles) no Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdmdCZEhYYzVFdC1MUlZaR3VLazhXb3F3ZFd6alZXeFl4QU9YNmxlMklFWHZUU1F1ZW5Md1FVWVNSTU5HYW9FSDBnWlQ4SVJLT2d2X3d3VlBDQ1FRMFJDbUdqd1hwSV9sVFJXU1VJRzlaWFE1bVlCc0NhYVYybDRTSnh5ZTVsMFFDbmZmZHR2SjU0M2V4c2V1bDhDZUZJVEdBVmRfcVNicDVrR1RTLUVCUzBHNTUwZTFEb1hUdlJBQVlOSElsTEthRi1KaTFBWUR2cUVyQXNqczdwMTN2?oc=5",
-   "data": "2026-10-01T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-Fla e São Paulo jogou na Índia e prevê 'loucura' com seleção brasileira",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVjNpSU53UW5XSldTVG5XRVhDNTEtbkVBTXdqUldWQnFxdTZzWkgtejB1U2xudUI4RHZYWjZfS3dJYmtEUXlnX18zal9pUzhJbzBhNG1SZ0REZ3VQWUR3azljYmF5M2J2Um9NRnhSd09kV3djT1ZNdjFQX21GdHRETE55cTd0TUg4cTI1eGdWSTRXVlRZTTJ6bFJFMmxabVRqZkhfZlEwbXQzNTROMkJiWloxM05FOE14N1VSbHlR0gHCAUFVX3lxTE05ZEV6UVdnMFBzQUhWT3N4WG1RVGo3dHBRQlVraXdkTmo4VGpNNEViZXNzQzBZX1JsZXBjbkVGSnJXUVBFbGRmTEswb3l1S08xQjNXWGMwOEhfNjJmOThwUmVZUDN3UzEwR2g3SjBWQWs2YWlMQmVBMHlzNkhhQ3BFMGJXX3djR2xxc2tEekVpYXBiQTdidFN2dDhzei1SMFFROHpnS19qUnlNQ0RnNk5CYm9BVTJHNWs0OTNRa1FDVTln?oc=5",
    "data": "2026-10-01T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1232,6 +1224,14 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
+  },
+  {
+   "titulo": "Flamengo tem camisa mais cara da Série A; veja ranking dos 20 clubes",
+   "link": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/noticia/2026/09/30/flamengo-tem-camisa-mais-cara-da-serie-a-veja-ranking-dos-20-clubes.ghtml",
+   "data": "2026-09-30T17:07:23+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Qual a camisa mais cara do Brasileirão? Com os clubes da Série A lançando suas novas camisas para a temporada 2026, o ge levantou quanto o torcedor precisa desembolsar para vestir as cores dos 20 times do Campeonato Bra…"
   }
  ]
 }
