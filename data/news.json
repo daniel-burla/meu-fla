@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-07T14:43:02.353722+00:00",
+ "atualizadoEm": "2026-10-07T20:33:43.782132+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 31
+   "itens": 29
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 61
+   "itens": 59
   },
   {
    "id": "uol",
@@ -34,12 +34,156 @@
  ],
  "itens": [
   {
+   "titulo": "Mauro Cezar Pereira: Fla e Flu desembolsam milhões com Maracanã em licitação que Vasco contesta",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSFZHYmNLNWFxZTFqNHBQQnJRMFRyejBPMHh6dER1RE1JeHRSbmdzTW1VMDBiZFB1QmRlYnZzSVZZb1p4aTIzSGE2VEZxZWt4eE40dlBNbWtSZVEtaFlrVm1fQk1KOTRXX05tMW9JaGhQSmlNN29hNlJnZ0lpbU50SU03bWdsemtxZGR5SkE5MkNCT3FFeGh1VGxBS1FoZ3hOb1hMQmlpMndpX0ZNTTZvcUpOODE1S2JDOUNEVXpFclBkRlNNa3RBa2Z2ZFpSUnNkOWN3Y0tWRm1CNEk3RVU2TU9rOERkVG9Wd2VXeg?oc=5",
+   "data": "2026-10-07T20:24:29+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Tempo Real | Santos x Flamengo",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlVzRjE0VmN5T252bm9faUZnZHh2RlNCNWFuaWRIY1ZPNXRTdkxQNm9xQkRuZ0JxeDRocXBVNGQwZzl0aU0zd2RsRjlCeGxWUVR2NHo3bkNoMm0tT2Nib2VLcUN0a2lCWUhhOEQ3XzE3YmppREstRUhlZGJrUzE2R1ZaRUgzc3NQal8tVEJqbExhZzR1dndiSE1n?oc=5",
-   "data": "2026-10-07T14:22:56+00:00",
+   "data": "2026-10-07T20:22:56+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
+  },
+  {
+   "titulo": "Cristiano Ronaldo rompe o silêncio e acusa Jorge Jesus em carta; ex-Flamengo responde jogador",
+   "link": "https://colunadofla.com/2026/10/cristiano-ronaldo-rompe-o-silencio-e-acusa-jorge-jesus-em-carta-ex-flamengo-responde-jogador/",
+   "data": "2026-10-07T20:08:26+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Jogador e treinador tiveram conflitos durante os últimos jogos de Portugal na Data FIFA; Cristiano Ronaldo ameaçou deixar a seleção Cristiano Ronaldo publicou, nessa terça-feira (06), um comunicado sobre a saída da Sele…"
+  },
+  {
+   "titulo": "Leonardo Jardim define substituto de 2 jogadores para jogo do Flamengo x Santos",
+   "link": "https://colunadofla.com/2026/10/leonardo-jardim-define-substituto-de-2-jogadores-para-jogo-do-flamengo-x-santos/",
+   "data": "2026-10-07T19:07:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Varela e Ayrton Lucas estão fora do jogo contra o Santos; Daniel Sales e Johnny, atletas do sub-20, são relacionados O Flamengo não terá Varela e Ayrton Lucas para enfrentar o Santos, nesta quinta-feira (08), às 19h30 (…"
+  },
+  {
+   "titulo": "Lorran, ex-Flamengo, faz gol espetacular em treino e tira onda: \"🖋️+🎈+🎈+🥅\"",
+   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/07/lorran-ex-flamengo-faz-gol-espetacular-em-treino-e-tira-onda.ghtml",
+   "data": "2026-10-07T18:52:46+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": ""
+  },
+  {
+   "titulo": "Léo Ortiz está fora de jogo do Flamengo x Santos",
+   "link": "https://colunadofla.com/2026/10/leo-ortiz-esta-fora-de-jogo-do-flamengo-x-santos-veja-o-motivo/",
+   "data": "2026-10-07T18:09:17+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Léo Ortiz é baixa confirmada no jogo desta quinta-feira (08), na Vila Belmiro O Flamengo divulgou a lista de relacionados para jogo contra o Santos, que acontece nesta quinta-feira (08), pelo Brasileirão. Para o confron…"
+  },
+  {
+   "titulo": "Braziline apresenta coleção Inverno 2027 do Flamengo e camisa dos 45 anos do Mundial",
+   "link": "https://colunadofla.com/2026/10/braziline-apresenta-colecao-inverno-2027-do-flamengo-e-camisa-dos-45-anos-do-mundial/",
+   "data": "2026-10-07T18:05:05+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Lançamento está previsto ainda para este ano A Braziline apresentou a lojistas das lojas oficiais do Flamengo a coleção Ginga Inverno 2027 e uma camisa nova, em releitura premium. A peça celebra os 45 anos da conquista…"
+  },
+  {
+   "titulo": "Ortiz e Varela são desfalques do Flamengo contra o Santos; Valencia viaja",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQi1WbW5HQXZkc3Y4cTI4ckFmMDRJaWpRemtUa3JMdHZObGs5VzB4WDNWNnhBYWVJQjV3dTVGeC1SYlpmRFY0dmxiOWM4MjFiaVg0R1cyOXVDSEROZk9WcEp2c2NoTUhCYmc2VWxJZjUzcVdGbVZSSE5CeWpPS01zWEVtWW9udTc3TW8zYzhDcWk1OFFySVMtRk1RZkdvWVlWalhEQ2w2cURSWW5lMzNSTXc5UEZoaE5GOVlJTHZkSTM1V0dSRVpjXzQxN3FlbExPNllEb1JPQ3lXR3N5?oc=5",
+   "data": "2026-10-07T17:53:42+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Presidente do Vasco, Pedrinho ataca Flamengo e Fluminense por Maracanã e dispara: “Vou incomodar muito mais”",
+   "link": "https://colunadofla.com/2026/10/presidente-do-vasco-pedrinho-ataca-flamengo-e-fluminense-por-maracana-e-dispara-vou-incomodar-muito-mais/",
+   "data": "2026-10-07T17:46:37+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Pedrinho segue na briga judicial na busca de levar jogo do Vasco contra o Boca Juniors (ARG), pela semifinal da Sul-Americana, para o Maracanã Pedrinho deu entrevista nessa terça-feira (06) para falar novamente sobre a…"
+  },
+  {
+   "titulo": "Pedro volta em alta da Seleção e quer recuperar artilharia do Brasileirão",
+   "link": "https://colunadofla.com/2026/10/pedro-volta-em-alta-da-selecao-e-quer-recuperar-artilharia-do-brasileirao/",
+   "data": "2026-10-07T17:42:14+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Artilheiro do Flamengo na temporada, Pedro soma 16 gols no Brasileirão Pedro retornou ao Flamengo em alta após a Super Data FIFA. O camisa 9 se reapresentou nessa terça-feira (06), depois de 16 dias à disposição de Carl…"
+  },
+  {
+   "titulo": "Jorginho, do Flamengo, cita \"gostinho\" por título sobre Palmeiras e brinca se rival tem Mundial: \"Que eu saiba não\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/07/jorginho-do-flamengo-cita-gostinho-por-titulo-sobre-palmeiras-e-brinca-se-rival-tem-mundial-que-eu-saiba-nao.ghtml",
+   "data": "2026-10-07T17:40:40+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Thiago Lima atualiza situação dos convocados do Flamengo após Data Fifa Há pouco mais de um ano vivendo a sua primeira experiência no futebol brasileiro, Jorginho, aos 34 anos, já conquistou uma Libertadores e um Brasil…"
+  },
+  {
+   "titulo": "Flamengo tem desfalques importantes para enfrentar o Santos; veja a provável escalação",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeUxab204UTlMRnpkZTViN2NfVjFQVVhKOGo3OExpUy1NRFJ6cXV2S08yUHZxYk9uSnlMZnlVM1JheEIxTkpRUkJOYXlodU90WGtpel9SaWIybVB5TUlTMXVkQzFWT2hIalFyV0p6TjUzeW1fNnpaNUg2VHRtb2FXSWw0bGFUNTJyelk5VnBxaS1JcDU1N3V2YlBMSExUemNmdVdwRVBselBGU2tIdTNoa2xzTnZKZm9yY2lrT3lIRlYtZw?oc=5",
+   "data": "2026-10-07T17:38:47+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Com Pedro e Samuel Lino, veja lista de relacionados do Flamengo para jogo contra o Santos, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/10/com-pedro-e-samuel-lino-veja-lista-de-relacionados-do-flamengo-para-jogo-contra-o-santos-pelo-brasileirao/",
+   "data": "2026-10-07T17:37:30+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e Santos se enfrentam nesta quinta-feira (08), pela 29ª rodada do Brasileirão O Flamengo encara o Santos pela 29ª rodada do Brasileirão às 19h30 desta quinta-feira (08), na Vila Belmiro. Antes da partida, o clu…"
+  },
+  {
+   "titulo": "Com Pedro e Lino, mas sem cinco jogadores, Flamengo divulga relacionados contra o Santos",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/07/com-pedro-e-lino-mas-sem-cinco-flamengo-divulga-relacionados-para-jogo-contra-o-santos.ghtml",
+   "data": "2026-10-07T17:32:11+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Santos x Flamengo: informações e palpite para o jogo O Flamengo divulgou a lista de relacionados para o jogo contra o Santos, nesta quinta-feira, no retorno do Campeonato Brasileiro após a Data Fifa. O técnico Leonardo…"
+  },
+  {
+   "titulo": "Santos x Flamengo: onde assistir, horário e escalações",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXNhNUtsY281RFpKUDRCTkdXRk1zQnB1WXhMNVNyTHk4alg1ZUstUWUxMEFzSy10X3FOYmRkd2hFUFlPUWI4TUNrdFljbGcza0ZUUEowbXNqWVJ1amhSR3NOc3VoX0lXSWRPYk91cldGelZpeG1xTjAzbktvRTNPaUNIeGg3TGsyUXRmYkNIUlh2Qi1obXRycEhJYmQ?oc=5",
+   "data": "2026-10-07T17:06:02+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Com ajuda de Neymar, Santos repete Flamengo como novo patrocinador e mira até R$ 50 milhões",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcDhNOHRTUnFFUGx3bkF3RTNFbFdyWGVndkprcFhlV0hjLWJ6aWEtLWpVNWx4YlJEN0ZkNkprVHI3NnFEX213eXJGU2ExaWlrbjdEZHBnam9GVmFjeDcyOVZtcnpGUjVkWU1GNXpWQU5FTloydzBpZ3RsVG4wX01nQ0pEODhwdVBXckhqMURiTTd5dE9vVUdGQk9jUW1xZV9ZaDJPVmVMUFdsM1dScDd4RUN5VHJyUlhuaTFWVzhDZDRfa3FqZkxmckdhVkZlaDhLc1doR1J6RUkyTTUwNWI2S2dYdVQ?oc=5",
+   "data": "2026-10-07T17:02:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Milton Neves: Palpites: Timão perderá mais uma; Verdão encostará no Fla",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2ZxbDZlRGZQbUNVdGNxODUybDUxSk9BeEZZMnpkY3FFdzQwVGx5dHlNcnl2dXVPLXp6ZXBRMW5mZERhZFdGQkt2QzkxUDFtX1l1VUxKeGxXQTViTlFrTlNjek5kbWhZa3FESWNXT0RGNk9SYmFEcS1RX2VFd0FSNVFZek1zenZTNF95STlrcE1FQ0F5emRYVWlIVlFkX3RNU2N6eU5nSndKaHJyM2FwSWo5cnp3NXFEWWY1T2pNRQ?oc=5",
+   "data": "2026-10-07T16:35:13+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Fluminense ao vivo: onde assistir, horário e escalações pelo Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU05kb29yMkZ2cEo5aHRIbERaeDBRamp6T1hPRHd5b1c5dkJhVGMzTjRuNlpWMHhDLWJ6VEN0UUFJaFJfUWJJUERldGtUTHAwUmlvR0hsekh2V2RXajJSSXFBSi11d294RkdBOHd6bktWNFFnUlVMR3FlV2NvU3JCYm1UV3Qyc0J3VEhuWlBvSTY0NU1ndkZzWEhaLS1Zd0M1NFl0SG5jRmNERDZ6RlBUMXBFQ1R2aU04T2lSWkxVM0pQVHZjMHJ6dUphbUNPVzF6cHZnTVU5Zzhxb0pMNjBKNndFcGI?oc=5",
+   "data": "2026-10-07T16:20:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Neymar joga contra o Flamengo? Veja como está a recuperação do camisa 10 do Santos",
+   "link": "https://colunadofla.com/2026/10/neymar-joga-contra-o-flamengo-veja-como-esta-a-recuperacao-do-camisa-10-do-santos/",
+   "data": "2026-10-07T14:43:08+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Atacante do Santos completa cinco semanas de recuperação e pode ser relacionado para jogo contra o Flamengo Neymar chega a cinco semanas de recuperação nesta quarta-feira (07) e está perto de entrar na lista de relacion…"
   },
   {
    "titulo": "Seu time faz gol de falta? Quando foi o último? Veja o ranking dos últimos dez anos",
@@ -50,14 +194,6 @@
    "resumo": "Veja todos os gols de falta de Hulk no Brasileirão \"Meu time nunca faz gol de falta\". A frase é comum entre os torcedores brasileiros e, de fato, eles viraram raridade, mas o Gato Mestre levantou os dados dos últimos de…"
   },
   {
-   "titulo": "Flamengo terá 7 jogos em 22 dias em outubro; veja calendário com Brasileirão e Libertadores",
-   "link": "https://colunadofla.com/2026/10/flamengo-tera-7-jogos-em-22-dias-em-outubro-veja-calendario-com-brasileirao-e-libertadores/",
-   "data": "2026-10-07T13:58:36+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Maratona começa nesta quinta-feira (08), contra o Santos, e reúne dois clássicos cariocas e a semifinal da Libertadores O Flamengo volta a campo nesta quinta-feira (8) para iniciar a sequência mais decisiva da temporada…"
-  },
-  {
    "titulo": "Flamengo tem bons números após Data Fifa, mas carrega alerta",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXdfZGlJdzVPd1hTb1FrVUE2Z01nQVFQVnNBaDQ3Tk9WQzNab2ZUY0tqa2lwaU9BQmZyeklkWHlLSmhvM1BlMDR2TkhncjZqTlAtVTFRTGR6NlFxdEtDVEkwZVJvWWxLa08zUl9YaFlYclNxeVBtazFYMWswUUJUbVh0VjFjODZMV3dLb2pBSE9VVTdhZUY3V3ZPSk4yUWs?oc=5",
    "data": "2026-10-07T13:36:34+00:00",
@@ -66,28 +202,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Jogos do Brasileirão hoje: Botafogo x Vasco, Internacional x Corinthians e outras 4 partidas acontecem nesta quarta",
-   "link": "https://colunadofla.com/2026/10/jogos-do-brasileirao-hoje-botafogo-x-vasco-internacional-x-corinthians-e-outras-4-partidas-acontecem-nesta-quarta/",
-   "data": "2026-10-07T13:24:30+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Seis jogos acontecem nesta quarta-feira (07) O Brasileirão vai recomeçar após a paralisação para a Super Data FIFA de setembro/outubro. Nesta quarta-feira (07), 12 equipes voltam a campo para disputar a 29ª rodada da co…"
-  },
-  {
    "titulo": "Ex-Flamengo e Palmeiras vendia licenças falsas a astros do futebol",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0FPaVZjMGkxQmgwdUJvOEhwNzU2M2JXRTVYV2NhVTVJZzY0RnFpY2VoelZRcUlsbE1KYTg3OVRnRkdqMGc4LW4xWkJBUExBSzRtc0p5bWRoTlBNb3JmSXE5Vm5JS0FBcUowMVJXcEt1a0hTOGNnNVpCZFBuT1p5a0NlS2ZsQ2NiMEZrTW9kdGZCbm5RZ0UwT3ctVndIWHczajVvWFA3b2VxRGR1U0RJ?oc=5",
    "data": "2026-10-07T13:05:58+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Foco no Brasileirão: delegação do Flamengo embarca para Santos nesta quarta",
-   "link": "https://colunadofla.com/2026/10/foco-no-brasileirao-delegacao-do-flamengo-embarca-para-santos-nesta-quarta/",
-   "data": "2026-10-07T12:39:15+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Líder do Brasileirão, o time de Leonardo Jardim viaja para encarar o Santos, na Vila Belmiro A delegação do Flamengo viaja para Santos às 16h (horário de Brasília) desta quarta-feira (07). O elenco de Leonardo Jardim en…"
   },
   {
    "titulo": "'Vou incomodar muito mais': Pedrinho dispara contra concessionária após veto ao Vasco pelo Maracanã",
@@ -104,14 +224,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo faz último treino no Rio antes de jogo contra o Santos pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/10/flamengo-faz-ultimo-treino-no-rio-antes-de-jogo-contra-o-santos-pelo-brasileirao/",
-   "data": "2026-10-07T11:26:30+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Com Pedro e Samuel Lino de volta, Leonardo Jardim fecha a preparação do Flamengo O elenco do Flamengo faz, nesta quarta-feira (07), o último treino no Rio de Janeiro antes do jogo contra o Santos. A atividade começa às…"
   },
   {
    "titulo": "Santos x Flamengo ao vivo hoje 08/10: siga placar agora | Brasileirão",
@@ -170,14 +282,6 @@
    "resumo": "Críticas públicas de Filipe Luís a Pedro marcaram a temporada de 2025 A temporada de 2025 foi especial para o Flamengo, com os títulos da Libertadores e do Brasileirão. Porém, nem tudo foi paz no Mengão no ano passado.…"
   },
   {
-   "titulo": "Despedida de Messi: relembre quando o argentino se ofereceu para acompanhar jogo do Flamengo no Maracanã",
-   "link": "https://colunadofla.com/2026/10/despedida-de-messi-relembre-quando-o-argentino-se-ofereceu-para-acompanhar-jogo-do-flamengo-no-maracana/",
-   "data": "2026-10-07T01:28:04+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Messi não joga mais pela Seleção Argentina Lionel Messi se despediu da Seleção da Argentina nesta terça-feira (06), com uma bela festa no Estádio Monumental de Nuñez, em Buenos Aires. Em amistoso, os ‘hermanos’ venceram…"
-  },
-  {
    "titulo": "Jaque Schmitz admite 'ansiedade' no início pelo Sesc Flamengo",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1lrdG5qQkEtZjZuVFZiQXZQSDhKZjVNNlVkd1VNbWotWW5QMk1qbksxcG1leER6YWNJX1NmNHotTEpWbllEbDlrMXhzd0NWMzBJZHVYVHFNaXMtMW42dTE1SnRENThrZTFqd3p3VjVuNDhLVDFHN2Rqd1ZiWk80YlFkbl9hNkRPVlFrYVVqTlRhYzd1ZEx3ZTJEbw?oc=5",
    "data": "2026-10-07T00:55:03+00:00",
@@ -194,14 +298,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Reforço do Flamengo publica carta de despedida do Paysandu; veja quando será apresentação no Ninho",
-   "link": "https://colunadofla.com/2026/10/reforco-do-flamengo-publica-carta-de-despedida-do-paysandu-veja-quando-sera-apresentacao-no-ninho/",
-   "data": "2026-10-07T00:46:08+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Pedro Henrique fez último jogo pelo Paysandu no domingo (04) Reforço do Flamengo para as categorias de base, Pedro Henrique publicou um texto e um vídeo emocionante de despedida do Paysandu. O volante de 18 anos se apre…"
-  },
-  {
    "titulo": "Ariele, do Sesc Flamengo, reencontra 'caminho' contra o Tijuca",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmllVkZWeUtfTERFQi13UWI5NzR4SjN2cHhWSG9ZSm5rdEpRYzc5bEJ0dlZVX2ZXSFBLRWdDbkNFQjdGdmhFdm1fOHk1OVJFOHlZVDBYS0FwX19hamtaaWtyWDJxZ0JPWWFMcHYzNnkwd3QtR05WeUpjeDZUd3d1U3NVdEhLTVFTX1dOVFdaMUpkX29Ub1Fhb2ZR?oc=5",
    "data": "2026-10-07T00:03:58+00:00",
@@ -210,28 +306,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Caso Bruno Henrique: STJ anula decisão sobre estelionato",
-   "link": "https://colunadofla.com/2026/10/caso-bruno-henrique-stj-anula-decisao-sobre-estelionato/",
-   "data": "2026-10-06T23:50:10+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ministro Joel Ilan Paciornik acolheu argumento da defesa sobre o prazo de seis meses, mas a decisão não absolve o atacante do Flamengo O Superior Tribunal de Justiça (STJ) anulou uma decisão do Tribunal de Justiça do Di…"
-  },
-  {
    "titulo": "Favoritismos #29: dicas, palpites e chances no Brasileirão",
    "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/10/06/favoritismos-29-dicas-palpites-e-chances-no-brasileirao.ghtml",
    "data": "2026-10-06T23:08:30+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Internacional x Corinthians: informações e palpite para o jogo Do 11º ao último colocado, todos têm nesta rodada um adversário que está na segunda metade da tabela de classificação. O Brasileirão volta a ser disputado a…"
-  },
-  {
-   "titulo": "Bahia x Flamengo: CBF define Wilton Pereira Sampaio como árbitro da 31ª rodada do Brasileirão",
-   "link": "https://colunadofla.com/2026/10/bahia-x-flamengo-cbf-define-wilton-pereira-sampaio-como-arbitro-da-31a-rodada-do-brasileirao/",
-   "data": "2026-10-06T23:05:55+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Árbitro do quadro da FIFA comanda o duelo da 31ª rodada na Fonte Nova Wilton Pereira Sampaio (GO) será o árbitro de Bahia x Flamengo, no dia 18 de outubro, um domingo, na Arena Fonte Nova. O jogo vale pela 31ª rodada do…"
   },
   {
    "titulo": "Palpites e dicas para Santos x Flamengo pelo Brasileirão",
@@ -1106,22 +1186,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Achados & Perdidos: Milton Neves no Brasil Sport Market em 2015, ao lado do então presidente do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeFlpTWVaZWVHUjREUUd3LWUyUjd0QldvWVROaXFFOVEybnpBTUFOYkNQTlBsanBDOFVLc0RTaDFhRjFMT2RXc1lHblhSOUM5X3pHMFB5MDMweHhNYzVER1lYM3ZhX0NPWHBEVjBscGdzVTl2N1hvcVZvOG1Vc0Y2aU5EdG91b3pqRlZxdnFGcnR5UGxreFNpOTRkZHY1RUpPa0V2TGUyMEdfbzdUTWFTSW9MVEQtUlhqMDVSOFJzSVJObk01Zlg4SU43NlFlU1AyWmNlaC1UcFc1dw?oc=5",
-   "data": "2026-10-02T13:49:08+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Vasco acusa contradições da dupla Fla-Flu em ação na Justiça por Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTEhEM2N6TU82X2ZSeEpMWjZPX0xIWndOVS1ueFRodHowdkxiSTBWNTlqS3N1aVNueWlsYy1BeHJlUkljSGNITmNTa2d4YXNsYVBHV1R5VGtzNzFjZG1ld3I0a2pQUkZZZl9FcUJmNmVlWkFmY1RzdXI0RExLR2p4ZUs1Ri1RbS1VQzFoVTBLbkdoUml6TmltWV85Q3h5RWVYMldDQUxwU0l0Y2hmVVVobTBZbzlwQlVvUExTckFaNmlpYkl2NEFMLXdLYU9xbi00VmZSeHZkSTNCdksy?oc=5",
-   "data": "2026-10-02T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Em negativa ao Vasco, concessionária Fla-Flu compara Maracanã ao San Siro e culpa calor e chuvas no Rio: 'Aumento de 208%'",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcUtxeFpLcVJ6dVBjREZGVjVFekFQRjduS1IycG1LZFUwdHdiMlZPQUw5NzZMaV91bzdpQkMwRVZvY2hnVlNyTHZDWUJUR1Z5YXlaY3o5QXRkQVNrRW1FanZiQmtwRUJHVmgyWHlsT3gzeTRsMDR6eG5xWVpEd2ZUcHM5d1lqNzVSM0xUNXNQZTNaSUdTbE1GRWY0dFhuZFlWdDlTNjlCd3piUjloX0puMEZxVGxROGIxc2V1d0p5YTBDSm02QTZ5Q3F2bGF4Uk40RlZEV0ZZQnJKNzh1am90TC0yaGtQREpNRnFQY0MwN2plSDlSLWRBVA?oc=5",
    "data": "2026-10-02T12:14:00+00:00",
@@ -1165,70 +1229,6 @@
    "titulo": "Flamengo encara reta final da Data Fifa sob alerta após lesão de Arrascaeta",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR3E0ekJJMnNtai0za2l6RDdDQ1hzM2NRakFwYktZZjFCNzk2bEV3Z3dqSTBwR1hnXzhPT0k5TkI0b2gzMWhyNjhDRExqQnBvN0dfWFFuQmZkNzFqUlNCNmtVa093Vk9SRkRRdlU0OTUzdXFsNlBxZGhNdVpBVnA2anA4YUZiY19vQVVRelRoTHF4eF9wVHExQWdFY0pMZ0xUMkdna3N0YWZlb0V4TzI5MmxEVGhCd3dyMFVScFk5TWw5dkJHMnM0R1JwMUd2Yzh2a0E?oc=5",
    "data": "2026-10-02T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Saúl avalia melhora mental e física no Flamengo e diz que brincadeiras com músicas vão acabar",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/02/saul-avalia-melhora-mental-e-fisica-no-flamengo-e-diz-que-brincadeiras-com-musicas-vao-acabar.ghtml",
-   "data": "2026-10-02T07:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Voz do Setorista: veja novidades sobre a cirurgia de Arrascaeta e o dia do Flamengo \"Agora que tem Data Fifa, que não tem muito do que falar, vocês falam somente de mim\" Dentre os vários personagens do Flamengo na atual…"
-  },
-  {
-   "titulo": "Flamengo: Arrascaeta recebe alta após cirurgia bem-sucedida",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZkpVSWNPT01tSThOWklkRnNMamN6bWJOZm90YndUbGlHOHV5Mmg3ZEpuZ3ZIS3hWbEJWZFNLamlrU2hWWUtHY0FCdnJKWkQybkNmQWZxcXZtNTNsMTl4LXhwbXZ2TDgtTzBmU2RvcHlGWDFBWDFvMDl0d0g4YWVFNk9RWkpIRjU5VkpGWUZXemFfWGNUTWFlMUZHY2pnZw?oc=5",
-   "data": "2026-10-02T02:39:23+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Adversário do Flamengo na Libertadores, Estudiantes cai na Copa Argentina",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkc2ZkZzWGY5eTZUN1FfaklVSlB0NTFIeHNOSE1aWFNBck8wekpnRU56UmppZ1owelFncUxvQlRmRU1mQlB4c1BpLXVYdS1KT3NqX0RfVndrSklQLTlaZ0FTaXAwSkRiclg1Nm15MVlBVDZsOWFLUHplNHRRd196Zms5RjRJczdrRkpKWi00X3BEcGNZQkRTMkRvMHJKV1dPUHB5TjN6RG5pRzh4QVFyVQ?oc=5",
-   "data": "2026-10-02T02:25:19+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta recebe alta após cirurgia no punho; veja boletim médico do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDgzemlqNW51bVIwYjloZkxvNmkzOFpSaVMwbzlrODVldEV3eC1CUXREX090dlNidENiSTZfRWw3NVFzVXUyY2tkTVBVS1lJajZyeUdhWTduQ3MzN3AyU0JVT2RIZWlUa1NDVklselVHMFozZDNrRTh4OW1QR0xkUUFDTm43Y0NaQWdpblZmTFc5NHVMVXppYXZoampNYWxUNUdMY25uM0pPdlc1Qk5NamQ2MlVScjJVS3RKNVQyRW9RWks1X09jdzRudE9yQQ?oc=5",
-   "data": "2026-10-02T00:27:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Botafogo acompanha Flamengo e vai ao STF por derrubada de MP das bets",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdjZSV0o5SkdWSEVTeWp0SmFyUHF1STFPajQwQjkta20tU1dRXzNnTnpYY0lCWnZXUDRFR0hXME5EeUhDaUs1bXNxTEUwdGh5ckVwcmM3M0lkV1JLWkt2Q3dZTXBxUmkyNTJ0Z28tRFlYRjNGX3JMdG9KOW1CWWVYT3BxOWhMZjBPR1lCcmtBMGVHa3ZlUHFXTnNqcXR3T3JhWUpFZTA0b09ETUtPUi10elV5dm1jZmlidDNGbk43LW9XSlRFY3BnNXM1VU82ZnNHaDdvTUF0QjZ4VVNRWnNrQUtWby0?oc=5",
-   "data": "2026-10-02T00:15:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta, do Flamengo, recebe alta após cirurgia no punho",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/01/arrascaeta-do-flamengo-tem-alta-apos-cirurgia-no-punho.ghtml",
-   "data": "2026-10-02T00:01:42+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Alerta ligado: Aproveitamento do Flamengo cai sem Arrascaeta O Flamengo divulgou na noite desta quinta-feira que o meia Arrascaeta recebeu alta após passar por cirurgia no punho esquerdo. Acompanhado do médico do clube…"
-  },
-  {
-   "titulo": "Arrascaeta atualiza torcida do Flamengo após cirurgia no punho; veja",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnEwTU12R2ZkTFM4Rml2a1h0NW54Q2pmdzlWekRCUGFneG84eW9vcnhxWEg5czU0akhaazUwZU9CdmltTU54SzVrTENHWGtpM1JsVGRrT1Y5R2pHSW40OXFOcDd0NVNJS2xBRHllRHR4ZWl1ZFd6RjMtNzhDLW1YMFVSZVFZQ3VCblZCRENYZVpIc2pORDd4MHZxWWRKQmtfQWFkMC13OGVhUQ?oc=5",
-   "data": "2026-10-01T22:10:23+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Entenda briga entre Vasco, Flamengo e Fluminense pelo uso do Maracanã que foi parar na Justiça",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRlJzWmZDaFdpNzdyV2U2OWlET0NraTZ4Q1hxek9wcmR2NEI5S2Mza19xVnRmV18ybVQ3cEdaVExMeFM5clBUamxYaHQwU3N5SVdYbUMzUjY3THhYVFE3a3ZIRGl6QWZzUW16Mmo4WmUxSVhfZlA3R3dMVllnUXlaOVFibnFGMzNlV1JxTGluOUY2WUZQcTdrRTFYSDV2b25zSG9QVGhOQ2hRZ1RXUzVscVNhcGZzeXl3cEg0SnNEYjFTUWpaZnladUs4X0NGSE8wUHZQQXJud3ZiRVVnN2Q5b0NFU2s4ajYxSWRUdk5zbkFMeFpBdml3?oc=5",
-   "data": "2026-10-01T21:42:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
