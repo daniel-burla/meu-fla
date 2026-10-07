@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-07T07:08:59.316374+00:00",
+ "atualizadoEm": "2026-10-07T14:43:02.353722+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 30
+   "itens": 31
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,112 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 60
+   "itens": 61
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 51
+   "itens": 52
   }
  ],
  "itens": [
+  {
+   "titulo": "Tempo Real | Santos x Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlVzRjE0VmN5T252bm9faUZnZHh2RlNCNWFuaWRIY1ZPNXRTdkxQNm9xQkRuZ0JxeDRocXBVNGQwZzl0aU0zd2RsRjlCeGxWUVR2NHo3bkNoMm0tT2Nib2VLcUN0a2lCWUhhOEQ3XzE3YmppREstRUhlZGJrUzE2R1ZaRUgzc3NQal8tVEJqbExhZzR1dndiSE1n?oc=5",
+   "data": "2026-10-07T14:22:56+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Seu time faz gol de falta? Quando foi o último? Veja o ranking dos últimos dez anos",
+   "link": "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/10/07/seu-time-faz-gol-de-falta-quando-foi-o-ultimo-veja-o-ranking-dos-ultimos-dez-anos.ghtml",
+   "data": "2026-10-07T14:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Veja todos os gols de falta de Hulk no Brasileirão \"Meu time nunca faz gol de falta\". A frase é comum entre os torcedores brasileiros e, de fato, eles viraram raridade, mas o Gato Mestre levantou os dados dos últimos de…"
+  },
+  {
+   "titulo": "Flamengo terá 7 jogos em 22 dias em outubro; veja calendário com Brasileirão e Libertadores",
+   "link": "https://colunadofla.com/2026/10/flamengo-tera-7-jogos-em-22-dias-em-outubro-veja-calendario-com-brasileirao-e-libertadores/",
+   "data": "2026-10-07T13:58:36+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Maratona começa nesta quinta-feira (08), contra o Santos, e reúne dois clássicos cariocas e a semifinal da Libertadores O Flamengo volta a campo nesta quinta-feira (8) para iniciar a sequência mais decisiva da temporada…"
+  },
+  {
+   "titulo": "Flamengo tem bons números após Data Fifa, mas carrega alerta",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXdfZGlJdzVPd1hTb1FrVUE2Z01nQVFQVnNBaDQ3Tk9WQzNab2ZUY0tqa2lwaU9BQmZyeklkWHlLSmhvM1BlMDR2TkhncjZqTlAtVTFRTGR6NlFxdEtDVEkwZVJvWWxLa08zUl9YaFlYclNxeVBtazFYMWswUUJUbVh0VjFjODZMV3dLb2pBSE9VVTdhZUY3V3ZPSk4yUWs?oc=5",
+   "data": "2026-10-07T13:36:34+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogos do Brasileirão hoje: Botafogo x Vasco, Internacional x Corinthians e outras 4 partidas acontecem nesta quarta",
+   "link": "https://colunadofla.com/2026/10/jogos-do-brasileirao-hoje-botafogo-x-vasco-internacional-x-corinthians-e-outras-4-partidas-acontecem-nesta-quarta/",
+   "data": "2026-10-07T13:24:30+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Seis jogos acontecem nesta quarta-feira (07) O Brasileirão vai recomeçar após a paralisação para a Super Data FIFA de setembro/outubro. Nesta quarta-feira (07), 12 equipes voltam a campo para disputar a 29ª rodada da co…"
+  },
+  {
+   "titulo": "Ex-Flamengo e Palmeiras vendia licenças falsas a astros do futebol",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0FPaVZjMGkxQmgwdUJvOEhwNzU2M2JXRTVYV2NhVTVJZzY0RnFpY2VoelZRcUlsbE1KYTg3OVRnRkdqMGc4LW4xWkJBUExBSzRtc0p5bWRoTlBNb3JmSXE5Vm5JS0FBcUowMVJXcEt1a0hTOGNnNVpCZFBuT1p5a0NlS2ZsQ2NiMEZrTW9kdGZCbm5RZ0UwT3ctVndIWHczajVvWFA3b2VxRGR1U0RJ?oc=5",
+   "data": "2026-10-07T13:05:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Foco no Brasileirão: delegação do Flamengo embarca para Santos nesta quarta",
+   "link": "https://colunadofla.com/2026/10/foco-no-brasileirao-delegacao-do-flamengo-embarca-para-santos-nesta-quarta/",
+   "data": "2026-10-07T12:39:15+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Líder do Brasileirão, o time de Leonardo Jardim viaja para encarar o Santos, na Vila Belmiro A delegação do Flamengo viaja para Santos às 16h (horário de Brasília) desta quarta-feira (07). O elenco de Leonardo Jardim en…"
+  },
+  {
+   "titulo": "'Vou incomodar muito mais': Pedrinho dispara contra concessionária após veto ao Vasco pelo Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY3RXTFRpVm9ZVE9CMndNNEFCNEZmcFBBUTJ1RWV4WW54V0pGZ21EMl9OcTRTQUlNdEV4REc0dEJtMDdBM016UXA1RXZIYWFuTllEYnZ3cXVkWm90MDZ3Z0NsTGFPRUVvSUVnODVLMUgzLW01cnJ1X0hKUW9DNkFEbVhIU1B1eEtEMUpUOWVXdUpIZEtPQ0VSWjUxTFFXNWZGWDBLNXlEQkV2dGJaLWNHZUxtR3lHS0h5?oc=5",
+   "data": "2026-10-07T12:39:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rafael Reis: Fla e Palmeiras 'marcam' na Data Fifa; demais brasileiros passam em branco",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU2VrS01Ua3ZaQmQzSnJ5bWd5eXFROHMzZ1pxMTdLT0Q3aTJOUXB6TGozbGcxZXdrbXd2V2QyeFhiRzYzWVJRUXoyWFN6RFBqTlZNTmZxQ3oxTWkxbERjSXNYU3NlcGlUZXJmSTRNcnlvdk83N2w1ckxSQV9yYWt5eDd2ZDlDcTAtS0ZNcm41eVZzT1NfNEFabTJXZVRPRlh6WXB4MVVlR0hvcVp4VUc5eGE0NFdvX1UyX0RYMGRqc0dMQzlxR05GUUx4YUQ3Q19JdzZSVTRWVmFnWkdUMnc?oc=5",
+   "data": "2026-10-07T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo faz último treino no Rio antes de jogo contra o Santos pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/10/flamengo-faz-ultimo-treino-no-rio-antes-de-jogo-contra-o-santos-pelo-brasileirao/",
+   "data": "2026-10-07T11:26:30+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Com Pedro e Samuel Lino de volta, Leonardo Jardim fecha a preparação do Flamengo O elenco do Flamengo faz, nesta quarta-feira (07), o último treino no Rio de Janeiro antes do jogo contra o Santos. A atividade começa às…"
+  },
+  {
+   "titulo": "Santos x Flamengo ao vivo hoje 08/10: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTFGMmhXYXkyZHpTb21waTNZNnU0TDRCTkZPd1dKNnlKNUdzTmdVWGwtaDYxaHdEWlJOQkpPTzVyYzNtQXZSS1lteldOZHNkNVlpWHBJRUE1MXFBbEVNb2hzSHhKZ1F5U3N5SjZtTWhuRUYzR2JVa2RIM0puVWpzZVR1RjduaHE1MEptUlJHcw?oc=5",
+   "data": "2026-10-07T10:30:55+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Cuca prepara mudanças no Santos para duelo com o Flamengo; veja provável escalação",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3d0NUxjSm9LVmJ2TjNZUVV3S2xYcHVPT0NPZF80ZnQtNXRUbHRkakJjYnYyLUx2N3JwX05hS205elMwelRHQXJRQjRKbUdzaGFUWmo3VVBNeVFfbmJjLUE4QWZ0dkxNT2t2OHdfM25zX3F0dFZrODJOeF95MlZuVWF6NTRtQjkxUFJnanpqV3FVUU1mdHlxcWJ2QlctVTBheVNNQm03VXRCVXBOUFZoVWdtSDNVTEpTWHc?oc=5",
+   "data": "2026-10-07T09:28:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Pedro se sai bem em estreia com Ancelotti, mas volta ao Flamengo após reclamação e insatisfação interna",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/07/pedro-se-sai-bem-em-estreia-com-ancelotti-mas-volta-ao-flamengo-apos-reclamacao-e-insatisfacao-interna.ghtml",
@@ -40,6 +136,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Pedro revela motivo da reclamação após ser substituído: \"Queria fazer mais gols\" t Um dos destaques da vitória da seleção brasileira sobre a Índia no amistoso no sábado, o atacante Pedro retornou ao Flamengo nesta terça…"
+  },
+  {
+   "titulo": "Flamengo com 76% de chance de título e Corinthians ameaçado pelo Z4: o Brasileirão após 'Super Data Fifa'",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZWtRekV4Mlh1MUh2dHFlcHBhUC1Xb2ZzME1TUjZTVjB6MDgwZGJjc2NqVEd1dFFsOG9WX2hqcUlhTzNEdmdBN2w3LVhwS0xITFN3d3hFZjV4dXdNR3pRd1NMT3liWERzWW5QX2ZodWlrYjZZWUVGRXZRc3RTR0M0SWN6dTFqTWQ1ZnQ3X2JOc2tPeFhjMXdibTQ4T0pVSEUycTFHeWVWRVVySklfWFpWWGEtd2lsOFEyNmRvU2VNQThxU0hvMjJGSWlzVDJ5bDNNbVptYUcwNXlLZmxTTmQwNVFWaEFvTWhsT2NGMHBhX2xpbTQxSFA3c056QQ?oc=5",
+   "data": "2026-10-07T07:00:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 29ª rodada",
@@ -56,14 +160,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Veja o golaço de Raí Silva do Juventude contra a Ponte Preta pela Série B Dono da melhor defesa entre as Séries A e B do Campeonato Brasileiro, o Juventude é também a equipe com mais jogos sem sofrer gols na temporada.…"
-  },
-  {
-   "titulo": "Tempo Real | Santos x Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlVzRjE0VmN5T252bm9faUZnZHh2RlNCNWFuaWRIY1ZPNXRTdkxQNm9xQkRuZ0JxeDRocXBVNGQwZzl0aU0zd2RsRjlCeGxWUVR2NHo3bkNoMm0tT2Nib2VLcUN0a2lCWUhhOEQ3XzE3YmppREstRUhlZGJrUzE2R1ZaRUgzc3NQal8tVEJqbExhZzR1dndiSE1n?oc=5",
-   "data": "2026-10-07T02:41:11+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Filipe Luís relembra briga com Pedro no Flamengo: “Ninguém é mais importante do que a equipe”",
@@ -90,6 +186,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Astros brasileiros compram diploma falso de técnico com ex-Flamengo e Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HQkRXekdLNEg1U2dETXlEaGIza1gzZERYMEVRSklLcUtwNFpxRUF5SzEwekw0YVFwdGxQRFdqdlNPZ1VTeWtqUmVHeUk3UXZLb2ViMEs0OWRJN3cyal8wbnFIWS1aVE0?oc=5",
+   "data": "2026-10-07T00:51:27+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Reforço do Flamengo publica carta de despedida do Paysandu; veja quando será apresentação no Ninho",
    "link": "https://colunadofla.com/2026/10/reforco-do-flamengo-publica-carta-de-despedida-do-paysandu-veja-quando-sera-apresentacao-no-ninho/",
    "data": "2026-10-07T00:46:08+00:00",
@@ -112,14 +216,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Ministro Joel Ilan Paciornik acolheu argumento da defesa sobre o prazo de seis meses, mas a decisão não absolve o atacante do Flamengo O Superior Tribunal de Justiça (STJ) anulou uma decisão do Tribunal de Justiça do Di…"
-  },
-  {
-   "titulo": "Santos x Flamengo ao vivo hoje 08/10: siga placar agora | Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTFGMmhXYXkyZHpTb21waTNZNnU0TDRCTkZPd1dKNnlKNUdzTmdVWGwtaDYxaHdEWlJOQkpPTzVyYzNtQXZSS1lteldOZHNkNVlpWHBJRUE1MXFBbEVNb2hzSHhKZ1F5U3N5SjZtTWhuRUYzR2JVa2RIM0puVWpzZVR1RjduaHE1MEptUlJHcw?oc=5",
-   "data": "2026-10-06T23:33:21+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Favoritismos #29: dicas, palpites e chances no Brasileirão",
@@ -176,14 +272,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Vasco passa vergonha e recebe “não” da Justiça sobre desejo de jogar no Maracanã contra o Boca Juniors",
-   "link": "https://colunadofla.com/2026/10/vasco-passa-vergonha-e-recebe-nao-da-justica-sobre-desejo-de-jogar-no-maracana-contra-o-boca-juniors/",
-   "data": "2026-10-06T22:06:43+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Justiça indeferiu o quarto pedido do Vasco sobre o Maracanã; time carioca encara o Boca Juniors (ARG) no dia 20 de outubro, pela Sul-Americana O Vasco segue lutando para conseguir mandar o jogo contra o Boca Juniors (AR…"
   },
   {
    "titulo": "Justiça nega liminar ao Vasco para mandar jogo contra o Boca no Maracanã",
@@ -258,14 +346,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo toma atitude drástica em uniforme; veja",
-   "link": "https://colunadofla.com/2026/10/flamengo-toma-atitude-drastica-em-uniforme-veja/",
-   "data": "2026-10-06T20:14:05+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo retirou a marca do patrocinador máster da parte frontal da camisa por conta da suspensão das bets no Brasil Os uniformes dos jogadores do Flamengo já apareceram diferentes nesta terça-feira (06). Diante da susp…"
-  },
-  {
    "titulo": "Flamengo tem tradicional 'sofrimento? com voltas de Data FIFA",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aeHhTNnUtXzdMcmNIWkprSnppRU5udGd1V0VnX2Zid3BNSTR6YVA4LVRsZU8zUDdsOVNrZVJUNDBwTUk2UkdEYXE3S1lPUVNjdjhXSmdwV1h6NVphaW5zRE1qRUpFMjg?oc=5",
    "data": "2026-10-06T19:28:46+00:00",
@@ -306,14 +386,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo repudia tentativa de intervenção do Ministério Público para liberar o Maracanã ao Vasco em jogo contra o Boca Juniors",
-   "link": "https://colunadofla.com/2026/10/flamengo-repudia-intervencao-do-ministerio-publico-para-liberar-o-maracana-ao-vasco-em-jogo-contra-o-boca-juniors/",
-   "data": "2026-10-06T18:02:45+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ministério Público do Rio de Janeiro recomendou que o Consórcio Fla-Flu libere o Maracanã para o Vasco atuar contra o Boca Juniors (ARG) O Vasco segue lutando para conseguir mandar jogo contra o Boca Juniors (ARG), pela…"
-  },
-  {
    "titulo": "Tijuca x Sesc Flamengo: horário e onde assistir ao Carioca de vôlei",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU05OdV80VTBkR2JBN1VkUGFtQ2pxaVhiUnNWbjZNVHcwSk5CRmYxd2RiTjJIQ1Radm9nQjk0alRHLXVuODFZQkFfRnZiWU96eHhERTdxSFYySU5XX0xLNEI2c2hxS3Z3ZUFUTUY1QkRTTzBJNDlMc1lzS2xWXzF3R1Y0QXVyQVFTaXBJWDhiVTRzd2ZDY2pyeW15UlBUR3NPeHptTA?oc=5",
    "data": "2026-10-06T18:00:00+00:00",
@@ -328,14 +400,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "O Flamengo publicou uma nota, na tarde desta terça-feira, criticando a recomendação do Ministério Público do Rio para que o jogo entre Vasco e Boca Juniors, pela semifinal da Copa Sul-Americana seja disputado no Maracan…"
-  },
-  {
-   "titulo": "Flamengo tem 5 desfalques confirmados para jogo contra o Santos, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/10/flamengo-tem-5-desfalques-confirmados-para-jogo-contra-o-santos-pelo-brasileirao/",
-   "data": "2026-10-06T17:58:30+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "A bola rola para Santos x Flamengo às 19h30 (horário de Brasília) desta quinta-feira (08) O Flamengo vive contagem regressiva para mais um jogo do Brasileirão. Nesta quinta-feira (08), o Rubro-Negro visita o Santos na V…"
   },
   {
    "titulo": "Cartola: Flamengo é o melhor visitante no meio e no ataque; veja o Mapa da Mitada da rodada #29",
@@ -1165,70 +1229,6 @@
    "titulo": "Entenda briga entre Vasco, Flamengo e Fluminense pelo uso do Maracanã que foi parar na Justiça",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRlJzWmZDaFdpNzdyV2U2OWlET0NraTZ4Q1hxek9wcmR2NEI5S2Mza19xVnRmV18ybVQ3cEdaVExMeFM5clBUamxYaHQwU3N5SVdYbUMzUjY3THhYVFE3a3ZIRGl6QWZzUW16Mmo4WmUxSVhfZlA3R3dMVllnUXlaOVFibnFGMzNlV1JxTGluOUY2WUZQcTdrRTFYSDV2b25zSG9QVGhOQ2hRZ1RXUzVscVNhcGZzeXl3cEg0SnNEYjFTUWpaZnladUs4X0NGSE8wUHZQQXJud3ZiRVVnN2Q5b0NFU2s4ajYxSWRUdk5zbkFMeFpBdml3?oc=5",
    "data": "2026-10-01T21:42:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta tranquiliza torcida do Flamengo após cirurgia no punho: \"Despertamos bem\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/01/arrascaeta-tranquiliza-torcida-do-flamengo-apos-cirurgia-no-punho-despertamos-bem.ghtml",
-   "data": "2026-10-01T21:03:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Alerta ligado: Aproveitamento do Flamengo cai sem Arrascaeta Arrascaeta tranquilizou a torcida do Flamengo após passar por cirurgia no punho esquerdo nesta quinta-feira. Em publicação nas redes sociais, o meia apareceu…"
-  },
-  {
-   "titulo": "Saúl sobre vaga de Arrascaeta no Flamengo: 'Tem escolhas melhores'",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1hmeWZDb2tYdVJINGx6MFgtOWZMRnV4RHlCZ1BPQ2hrT1o4XzI3OE90X292NFJuNXI5UnJOZER5dmc5NWlaT190blFRM3ZYTUlZX2owQjdVMjNPcG9YWnVhaUVCcUVxUTZnLUk3eEpoX0dKSFBabG1iTmVRN09hWnZJR3RvS2luLXRadWMyTmg1RUlOZXRyQzdpWG9XRGR1cnZ1LUJPS0FxUHNUVmV4d2hhaWFlMmM?oc=5",
-   "data": "2026-10-01T20:12:49+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "'No pior cenário, vender jogadores', diz Boto sobre Flamengo sem bets",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaENiTjQ1NmJ5a3U3eVdsQTRUSDhNNllEc2o5OGtrWGd0YlptdE5DRVdaVU84dnFXMURHVE9nT2hRMmVBVmk5alFIT3A4bEd0Qlp4Z1U1ZHBaZ1ZSLUpPMF8yQ0lPR3J5Z0EzeFdXUVhFT1VwVXE4LU5ZTFhFX1NEeGdtdmdzZm5vRDNaSEZVZnBjUDBRM0NSQ0NTdU5OUS0zb0xLVGNXSUdyWFd3bURUMFRZNWFVR1JxQ3hfR0c3ZnEwUUswSUQ5U3M1dF9aUmo2OXpn?oc=5",
-   "data": "2026-10-01T19:42:15+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Vasco vai à Justiça contra concessionária e tenta levar jogo contra o Boca para o Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdFhfLWRMVDhMdFIzWUtnYXRWdXJEVHNXajRDY21pYTU0bWdMdmpocmJtcnZRc1pVTXQ0UkNMYjBwTUFaaFdTcnN6Tjk1bTdsSDR2cFA5ODhMRnNBOWZzdVlZVXh5aVJMWHFMQlpic3NVc1U2THRsRF9oLU5iTGNkOUc5RHphWFFsQmpYRGhCUVlCRnJRNDBIUXVPdFMxcnZoVjlwazUyckYydmJDREtmMkFDM1hkTURPVDNKZkNKcDRsVkR5QWd3UXVlTW9Idk9DQU9ZTVdkelZhRlJuYkE?oc=5",
-   "data": "2026-10-01T19:04:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Freitas se diz motivado com torcida exigente no Flamengo: 'É impressionante'",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2xjSENqWTNkaERHdzkxVXc3b002M3lYc2lkYVR3b21uZ0JvcFd5clZid2xzV012Njh2eGM5Q0ZnYjZxNzVTUXBVQi0ySjktaGxJcjI2S0JId3l5eGhiUjRqNFhTSUxOZWVvQ2tGV3RyTWhGd3RKb0ppTmRXOVYzaS1VdzVPaWRreG9QcGVRTUFOdWh6TkFxUnFqaFBvQUszWHM2V1pXdDkydHZ4bnY4Z0JB?oc=5",
-   "data": "2026-10-01T18:37:36+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Após fratura no punho, Arrascaeta opera e Flamengo confia em volta antes do prazo - TNOnline",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY3VicVhqdkU5UWdfSnhnZ2pXRHYtTEFnYlhwOC16c2I0cTVyMTRFeGZIckF5NFF1NV9acnIzMkxuTkxDSjNrTlIyM1dROWJYeEFrdE1KUGlXbGsyLVNoMXF3LVhCVjZKVm1RX2JCT2gxYmlrQlJuSWVjVUhlNmZaLVdqYTZNRmZ3YmZjdmE3WFFMTHpnVkVrMW4tajRBS2lVX1ptZU9XcDlocy1JMmNlVUlJSHVidzc2RkVXWWJuY3dTMDNuN0V3Y1hoS1llZFHSAdoBQVVfeXFMTnhCQlhrcjQzTkRWTkZCOWJHbTNYVG9ubEhCQUJGZTJ6T1lMUlFMSWM2SVlMN1dOX1llYTFVcUV6M2hiZmVMdUdiYXpBU0pSM2pMZjJpR2RNcEV2MEJaMzZXVXUyZThndHd6c0ZKQjUzRnBzeG9sMzNkenNwbzNlczNDekNSdHNpSGY3NThPamhJa3o1LWM4azVONjNoZDVDdm1mVW1qc0JqZnhLRmMwcExEcGEyTTQ3NkZzMzJxM3FFLUEzME5rTTcyQ29HdDRIZmNONS1ZV2lZWEE?oc=5",
-   "data": "2026-10-01T17:58:05+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Argentinos vão dominar Libertadores por causa de bets? Boca e River ainda não ganham, juntos, nem um terço do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOHd1MC14VGN0cVJnVDZyOTB5QnJEQTUteW5HR2w2WGhIVTUwUXJ0SUZTMWVoNFE4UVFVRjA1ekFxQlRYQjZzWUctZ3hza0R3MTBCNGxGVHRjckhkQkpQeUlpMk16NWNwS2g0d1YwZ1hEcnpMTjFTemo1OVlIeHBPOTdOWlpjQlVPazVna0xiSEtNeHlhVFBaTFlPYU83MHllNTI4R3EtZXJzaDBaVG1lNW9KYjE3YkNIX3M1aW9MRkoxS0I5MnNnMnJyQkRuYWhmaVBoZDhEaFdxV1FMT0E?oc=5",
-   "data": "2026-10-01T16:55:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta passa por cirurgia bem-sucedida no punho e Flamengo confia em retorno antecipado",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR0ZtSk8wR0lTUEFxcl81QVY1eXNUMjkySnlkdlhNMEhVWkdZZnVvV1J6anVfQllLZ0dRYl9ReUZtVjBELWd1Y0dYdTltcE5COTc3NTJRV3Q1STctNi1QSFktNHg4c1g3akRnRlo3cExvdVkwV3p1ZjN0WTNEUlZROXRHYkd0bEV1RWxKNEFJemM3akw3ajNpbVoyaGt6TmVlQlVjS3pKVEdaeGpjRW1vZjRGZnA2VU5tNC1oLTJIRmduVVpaU0Z2VjduZTdtWFIya0hPUndHeUJSaTFNcjlKdG03bUFWemhTZWJzSkJOaXNEcjFR?oc=5",
-   "data": "2026-10-01T16:28:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
