@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-08T00:22:51.441905+00:00",
+ "atualizadoEm": "2026-10-08T06:35:10.552919+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 29
+   "itens": 27
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,64 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 58
+   "itens": 57
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 48
+   "itens": 45
   }
  ],
  "itens": [
+  {
+   "titulo": "Santos x Flamengo ao vivo hoje 08/10: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTFGMmhXYXkyZHpTb21waTNZNnU0TDRCTkZPd1dKNnlKNUdzTmdVWGwtaDYxaHdEWlJOQkpPTzVyYzNtQXZSS1lteldOZHNkNVlpWHBJRUE1MXFBbEVNb2hzSHhKZ1F5U3N5SjZtTWhuRUYzR2JVa2RIM0puVWpzZVR1RjduaHE1MEptUlJHcw?oc=5",
+   "data": "2026-10-08T05:47:57+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Matheus Gonçalves exalta Flamengo e revela foco no Al-Ahli após assédio de Vasco e Botafogo",
+   "link": "https://colunadofla.com/2026/10/matheus-goncalves-exalta-flamengo-e-revela-foco-no-al-ahli-apos-assedio-de-vasco-e-botafogo/",
+   "data": "2026-10-08T02:40:55+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Meia revelado no Ninho afirma que se blinda das especulações e mantém o foco no futebol saudita Revelado pelo Flamengo, o meia Matheus Gonçalves voltou a declarar gratidão ao clube que o formou. Além disso, comentou o i…"
+  },
+  {
+   "titulo": "Tempo Real | Santos x Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlVzRjE0VmN5T252bm9faUZnZHh2RlNCNWFuaWRIY1ZPNXRTdkxQNm9xQkRuZ0JxeDRocXBVNGQwZzl0aU0zd2RsRjlCeGxWUVR2NHo3bkNoMm0tT2Nib2VLcUN0a2lCWUhhOEQ3XzE3YmppREstRUhlZGJrUzE2R1ZaRUgzc3NQal8tVEJqbExhZzR1dndiSE1n?oc=5",
+   "data": "2026-10-08T02:22:56+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Técnico do Estudiantes prevê lesionados à disposição contra o Flamengo na Libertadores: “Jogo do ano”",
+   "link": "https://colunadofla.com/2026/10/tecnico-do-estudiantes-preve-lesionados-a-disposicao-contra-o-flamengo-na-libertadores-jogo-do-ano/",
+   "data": "2026-10-08T01:39:36+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Medina minimizou o problema de Piovi, exaltou Marcos Rojo e admitiu a busca por um volante antes da ida em La Plata O técnico Alexander Medina, do Estudiantes (ARG), acredita que terá os jogadores machucados à disposiçã…"
+  },
+  {
+   "titulo": "Bruno Lima: Santos: Neymar é relacionado ao lado de Coutinho para encarar o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYTgzSUJmeTRjeFRjdXVpU3VMS2pGU0k1SzRXd18xMkkzZWdLVGxVeDRfZVF2VldsQUI2cEN3RUFTUjdsSngySzVxeXo2dkZPTlRrLWRJbnVsekx1RWx0UkhLeUlKWUxTS2J6aWNwc3p6YmdZOU4zX2VkbHg5S0kyMlhlLUZYVjRPYnBWM1Z6b2QxRWVUVG9IMXlodXFUbVI4TnJDUjhLVkNyejlsNC1MODM5UC1WLVpkWllDdWZqN2tSNHV3ZjU5WF9ZUzdMWVVwaEE?oc=5",
+   "data": "2026-10-08T01:38:18+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Acidente, irritação de Jorginho e Bruno Henrique apaixonado: veja imagens do desembarque do Flamengo em Santos",
+   "link": "https://colunadofla.com/2026/10/acidente-irritacao-de-jorginho-e-bruno-henrique-apaixonado-veja-imagens-do-desembarque-do-flamengo-em-santos/",
+   "data": "2026-10-08T00:43:39+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo já está na Baixada Santista para enfrentar o time de Neymar A delegação do Flamengo desembarcou em Santos nesta quarta-feira (07). No dia seguinte, o líder do Brasileirão encara a equipe de Neymar, na Vila Belm…"
+  },
   {
    "titulo": "Petkovic, Guerrero e outros ex-Flamengo acusam Mancuso por fornecer licenças falsas de treinador",
    "link": "https://colunadofla.com/2026/10/petkovic-guerrero-e-outros-ex-flamengo-acusam-mancuso-por-fornecer-licencas-falsas-de-treinador/",
@@ -58,36 +106,12 @@
    "resumo": "O Flamengo desembarcou em São Paulo na noite desta quarta-feira para o confronto contra o Santos, nesta quinta, pela 29ª rodada do Campeonato Brasileiro, na Vila Belmiro. O técnico Leonardo Jardim teve a volta de três c…"
   },
   {
-   "titulo": "Santos x Flamengo ao vivo hoje 08/10: siga placar agora | Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTFGMmhXYXkyZHpTb21waTNZNnU0TDRCTkZPd1dKNnlKNUdzTmdVWGwtaDYxaHdEWlJOQkpPTzVyYzNtQXZSS1lteldOZHNkNVlpWHBJRUE1MXFBbEVNb2hzSHhKZ1F5U3N5SjZtTWhuRUYzR2JVa2RIM0puVWpzZVR1RjduaHE1MEptUlJHcw?oc=5",
-   "data": "2026-10-07T23:43:51+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Sem o Flamengo, 16 clubes se unem no STF para derrubar a proibição das bets",
    "link": "https://colunadofla.com/2026/10/sem-o-flamengo-16-clubes-se-unem-no-stf-para-derrubar-a-proibicao-das-bets/",
    "data": "2026-10-07T23:16:55+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Petição conjunta aumenta a pressão sobre Luiz Fux, enquanto Flamengo e Botafogo atuam com pedidos próprios Fluminense, Cruzeiro e outros 14 clubes pediram ao Supremo Tribunal Federal (STF) a suspensão imediata da Medida…"
-  },
-  {
-   "titulo": "Bruno Lima: Santos: Neymar é relacionado ao lado de Coutinho para encarar o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYTgzSUJmeTRjeFRjdXVpU3VMS2pGU0k1SzRXd18xMkkzZWdLVGxVeDRfZVF2VldsQUI2cEN3RUFTUjdsSngySzVxeXo2dkZPTlRrLWRJbnVsekx1RWx0UkhLeUlKWUxTS2J6aWNwc3p6YmdZOU4zX2VkbHg5S0kyMlhlLUZYVjRPYnBWM1Z6b2QxRWVUVG9IMXlodXFUbVI4TnJDUjhLVkNyejlsNC1MODM5UC1WLVpkWllDdWZqN2tSNHV3ZjU5WF9ZUzdMWVVwaEE?oc=5",
-   "data": "2026-10-07T23:10:21+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Neymar está relacionado para jogo do Flamengo x Santos, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/10/neymar-esta-relacionado-para-jogo-do-flamengo-x-santos-pelo-brasileirao/",
-   "data": "2026-10-07T22:46:55+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Nome de Neymar apareceu na lista de relacionados do Santos nesta quarta-feira (07) O Santos divulgou os relacionados para o jogo contra o Flamengo, pelo Brasileirão. Desse modo, Neymar apareceu na lista divulgada e, com…"
   },
   {
    "titulo": "Flamengo vence Corinthians e larga em vantagem por vaga na semifinal do Brasileirão Sub-17",
@@ -162,22 +186,6 @@
    "resumo": "Thiago Lima atualiza situação dos convocados do Flamengo após Data Fifa A longa Data Fifa enfim terminou na última terça-feira. E um balanço dos convocados do Flamengo foi positivo. Todos os cinco jogadores rubro-negros…"
   },
   {
-   "titulo": "Tempo Real | Santos x Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlVzRjE0VmN5T252bm9faUZnZHh2RlNCNWFuaWRIY1ZPNXRTdkxQNm9xQkRuZ0JxeDRocXBVNGQwZzl0aU0zd2RsRjlCeGxWUVR2NHo3bkNoMm0tT2Nib2VLcUN0a2lCWUhhOEQ3XzE3YmppREstRUhlZGJrUzE2R1ZaRUgzc3NQal8tVEJqbExhZzR1dndiSE1n?oc=5",
-   "data": "2026-10-07T20:22:56+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Cristiano Ronaldo rompe o silêncio e acusa Jorge Jesus em carta; ex-Flamengo responde jogador",
-   "link": "https://colunadofla.com/2026/10/cristiano-ronaldo-rompe-o-silencio-e-acusa-jorge-jesus-em-carta-ex-flamengo-responde-jogador/",
-   "data": "2026-10-07T20:08:26+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Jogador e treinador tiveram conflitos durante os últimos jogos de Portugal na Data FIFA; Cristiano Ronaldo ameaçou deixar a seleção Cristiano Ronaldo publicou, nessa terça-feira (06), um comunicado sobre a saída da Sele…"
-  },
-  {
    "titulo": "Leonardo Jardim define substituto de 2 jogadores para jogo do Flamengo x Santos",
    "link": "https://colunadofla.com/2026/10/leonardo-jardim-define-substituto-de-2-jogadores-para-jogo-do-flamengo-x-santos/",
    "data": "2026-10-07T19:07:25+00:00",
@@ -192,14 +200,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": ""
-  },
-  {
-   "titulo": "Léo Ortiz está fora de jogo do Flamengo x Santos",
-   "link": "https://colunadofla.com/2026/10/leo-ortiz-esta-fora-de-jogo-do-flamengo-x-santos-veja-o-motivo/",
-   "data": "2026-10-07T18:09:17+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Léo Ortiz é baixa confirmada no jogo desta quinta-feira (08), na Vila Belmiro O Flamengo divulgou a lista de relacionados para jogo contra o Santos, que acontece nesta quinta-feira (08), pelo Brasileirão. Para o confron…"
   },
   {
    "titulo": "Jorginho, do Flamengo, cita \"gostinho\" por título sobre Palmeiras e brinca se rival tem Mundial: \"Que eu saiba não\"",
@@ -336,6 +336,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Veja o golaço de Raí Silva do Juventude contra a Ponte Preta pela Série B Dono da melhor defesa entre as Séries A e B do Campeonato Brasileiro, o Juventude é também a equipe com mais jogos sem sofrer gols na temporada.…"
+  },
+  {
+   "titulo": "Nilton Santos ganha força como palco de Vasco x Boca Juniors após negativas a São Januário e Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYmQ3MnJBMG1GMjZLQy1RNXY2WnRiTlNad1RUT0NrazdHdUp2MjUtWnppV3BKODZLNjE5bjNMUjI2WUJRbk1DRWFqUnc1RG1KZ0xwYXVQNHNaeFpTYzJmT19uR2s5bFVGNEZQWFFOb2o3Yjd0dG5uc1hsSEx5YVRKTndzdUxJeXIzZkFwZ3E5TndONk1iT2xENS02SE1aTU12S3V5UUtLUW52YmU5dmlrX1J3Q3dhREFBbEkxRHBhdE1laXcxbVlWMEFZaU1fTDhWbDFj?oc=5",
+   "data": "2026-10-07T02:05:03+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Jaque Schmitz admite 'ansiedade' no início pelo Sesc Flamengo",
@@ -757,6 +765,14 @@
    "titulo": "Neymar contra o Flamengo? Camisa 10 deve voltar a treinar com o elenco do Santos essa semana",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16aDZpLUtJYmI2OHpPQ0tQM19GdzBBU0gzeEJDWUwxaXVieHpKZXV2cDRuTHp5bjhDN2dUQmJ1N2wwbG9IUGZuUFNBM0tCdmpQWWFOUGxKVUNXZ3gzYkZ2M3ozMk9OYzQ?oc=5",
    "data": "2026-10-05T19:07:11+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Justiça do Rio nega liminar para Vasco usar Maracanã contra o Boca",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGp4U05rR3ktTHpYRFB4Y0Z5VkZqSElMeTJxYTJNaUVEOXNSTFVBcC0wYVhZMWlzQUpoeWpBZUNQQk5SWnpuYVdXOURVOEV6Yi1fa0NXSFk4d2xEOFlaZUZ1TERYaTRLZ292dmRHRjJYY0N2QmN5ZnlFVllrMmx4clJVenJPY0RyQkdQSGpfSy1vY0lZMl80VVh6dTYwTHQ0cUExVHA2cUsxQVJUS1o0N2x2a21WdDBhajNQMnEzLWhSUGlIbXZEWVB4bUVBWXdnY3FIcg?oc=5",
+   "data": "2026-10-05T18:21:36+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -1216,22 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Ex-jogadora do Sesc-Flamengo ingressa no Exército dos Estados Unidos Camila Gómez é natural de Cali, na Colômbia, vive nos Estados Unidos há 10 anos e atuou profissionalmente na Superliga Feminina de Vôlei, no Brasil, n…"
-  },
-  {
-   "titulo": "Ex-Flamengo critica Jorge Jesus por treta com Cristiano Ronaldo",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkNheVdaWGprR25CaHl5QmtwSTBqOU9qX0swU1VkZEJUUjZTMXFSVi0tSjZLbGtZXzRaYlFoX3R1UjBFOWhXcTFWWFZpSWJ3LWJoZTdEMXA5WTlmbW1qb2E3MEtrZTk4eUZISVZHcFNsbjJyRTNXdkhRcDd5Tk5VTzJZUGZVSk5HTlllVXU4U1ViaXRraUFINldVbGV3QVhvaTltZjFPUF9IMTN0RFpUMEYzQkhpZw?oc=5",
-   "data": "2026-10-02T14:06:40+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Em negativa ao Vasco, concessionária Fla-Flu compara Maracanã ao San Siro e culpa calor e chuvas no Rio: 'Aumento de 208%'",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcUtxeFpLcVJ6dVBjREZGVjVFekFQRjduS1IycG1LZFUwdHdiMlZPQUw5NzZMaV91bzdpQkMwRVZvY2hnVlNyTHZDWUJUR1Z5YXlaY3o5QXRkQVNrRW1FanZiQmtwRUJHVmgyWHlsT3gzeTRsMDR6eG5xWVpEd2ZUcHM5d1lqNzVSM0xUNXNQZTNaSUdTbE1GRWY0dFhuZFlWdDlTNjlCd3piUjloX0puMEZxVGxROGIxc2V1d0p5YTBDSm02QTZ5Q3F2bGF4Uk40RlZEV0ZZQnJKNzh1am90TC0yaGtQREpNRnFQY0MwN2plSDlSLWRBVA?oc=5",
-   "data": "2026-10-02T12:14:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   }
  ]
 }
