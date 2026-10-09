@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-09T14:18:23.659666+00:00",
+ "atualizadoEm": "2026-10-09T19:41:30.379008+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 28
+   "itens": 31
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,240 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 52
+   "itens": 51
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 75
+   "itens": 80
   }
  ],
  "itens": [
+  {
+   "titulo": "Palmeiras ataca Flamengo após cobrança à CBF e acusa rival de tentar pressionar Daronco antes de confronto pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/10/palmeiras-ataca-flamengo-apos-cobranca-a-cbf-e-acusa-rival-de-tentar-pressionar-daronco-antes-de-confronto-direto-pelo-brasileirao/",
+   "data": "2026-10-09T19:11:41+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rubro-Negro se sentiu prejudicado pela arbitragem no empate por 2 a 2 com o Santos e questionou decisões de Anderson Daronco e do VAR O Palmeiras rebateu a cobrança feita pelo Flamengo à CBF após o empate com o Santos e…"
+  },
+  {
+   "titulo": "Saiba horário e onde assistir ao jogo do Flamengo x Minas pelo Torneio de Abertura do NBB",
+   "link": "https://colunadofla.com/2026/10/saiba-horario-e-onde-assistir-ao-jogo-do-flamengo-x-minas-pelo-torneio-de-abertura-do-nbb/",
+   "data": "2026-10-09T19:02:39+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo enfrenta o Minas nesta sexta-feira (09), pela última rodada da primeira fase da competição O Flamengo volta à quadra nesta sexta-feira (09) para enfrentar o Minas Tênis Clube pelo Torneio de Abertura do NBB 202…"
+  },
+  {
+   "titulo": "Perdas de bola geram expulsões, e Jorginho chega a 18 cartões no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVVMRDhYcmR1OGVXeVJMTjQwS2pUNkl3aG1IOXlLYWFHTTg5YV9OSlFFaTZxZm01S2xBS1Uyek1HNXREb01qanNVUEVFd0NCMVNxWm5odFVMeXVXREx0MGJSV2g4V0JIMHR6enNqYUduMmI5QXBPUHBmZHFQV3RuZTVBUVhNRjFvVndwbWVZMkZWNU44ZUJEQ1ZFMEw2OWNnNGI5SVByei1qSDlPd0xsc1FpeFZUQmFxZnJ6Z0hpaVRkZjVEMmRDUjFucDlVSC1CX2FNcWVNNG1QQk91?oc=5",
+   "data": "2026-10-09T19:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras ataca nota do Flamengo contra Daronco e fala em 'condutas antiéticas': 'Busca criar constrangimento ao árbitro'",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYW1QSWVoc1M3RFREOUl3NUxLRGc3Zm9VZ2lRbUtNSkRmSGVNR2xiN0xySVdWX0dGTGJhWHM2TGNfU1VUZ041aUlzU1JKLTdPcDVTVmdQS0hicWlzNTdaV1dUMXlJM2lsYkVNLUxselp6Y3RsYlVnc3FkODFwTEdtcG00bEM2ODRwY25xUThkS0c3TzQ1djd0R1dYWFJXSGc3WjJmRHpWOHI3YnpjLXgyNWp2Q1lvNkZITXZFNG15aWN2bWNPR2dkSzhXMlI4MlNyVUZ2ei1yNzhnTlRQdjd4d3p3bnptSk96cmxNMjd1S1J3Ql9JQUE?oc=5",
+   "data": "2026-10-09T18:59:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "'Rossi é avaliado como regular pelo Flamengo e se tiver uma boa proposta...': Bruno Andrade traz informações o futuro do goleiro",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXdmdNZ0NNNlZ0RGpJM0lVUG9sVGl3U2dmeFF0SllfOUplUExRRzB1QVNvRFVnVlZjTlBGdGxKZlItclJIVXhiU19pMmJaUjcybU1yX3pKNWZDX004a0E?oc=5",
+   "data": "2026-10-09T18:36:55+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo culpa arbitragem em duelo com Santos e aponta 'falta de critério' de Daronco",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWUhKeWpHcWZGZ3BjT2pyak5mZE4zNG5rNXZkc0NuNGtXY1k2NEd5aE9sdTM1NzgxSTFUSmMxQTljTjFVX2VUQzE3aWdreW5FMWRGNTIzVUxDWGs3UDZlWTBiNmdGWHNuNG43dWx2QWh1OWoxblBIazhETk51VHh0U2lvR2JibW8wMHB5Wm9MU2RfRjZxUUdseXpNWDFGWFBrZzQ0SWVOc09jUGhhWG5wTHB1TTRsVnBITXhLcXYybG1DS3pxRlYxTTNpTmhvUFgySW9SUk43VlAtSUNycXgtUjAzR2tUUlJVeUE?oc=5",
+   "data": "2026-10-09T18:33:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fluminense bate marca do Flamengo após goleada no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPajR6Wm92YlhpMHMyallCQmVzV1NwLTNKSi1fb1RUM2JTazZSaWd0RE5TZGY1M2JfcGJ0TmYzUkVhLXNzRENVMnVrM2dhS1lTUVNYTHNiTzF0ZXFycGpWWU5wcEExUTNGSG5pa28wdDFIOEk5c2FURFFPWXBqRmJhV285NTJNQkFLVW9vYkZYZ045M2VrY18xTDk2ekllMkVEZ1d0Yy1STjNSWFZVbXlSbjBSSlNYZ3ZkZGZaQWlxaFA3T0lQQmhWMkhsNkQ?oc=5",
+   "data": "2026-10-09T18:26:14+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "“Árbitro omisso”: Léo Pereira curte post do Coluna do Fla com crítica a Daronco após jogo do Flamengo x Santos",
+   "link": "https://colunadofla.com/2026/10/arbitro-omisso-leo-pereira-curte-post-do-coluna-do-fla-com-critica-a-daronco-apos-jogo-do-flamengo-x-santos/",
+   "data": "2026-10-09T18:19:30+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Léo Pereira e companheiros de Flamengo ficaram revoltados com postura de Anderson Daronco O Flamengo foi à Vila Belmiro e empatou com o Santos em 2 a 2. Porém, o principal nome da partida foi Anderson Daronco, árbitro d…"
+  },
+  {
+   "titulo": "'A escala está errada', diz PVC sobre Daronco após protesto do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYnVjeC1VUzU4Y2taeWFyVXpzd0JqV0lqeUMtcmlDdkpTX0lVdGZxUzQ1UklMNE9RUDFveHBoTXRRV094RW1CRUZwZ3FoekprN3lFRV9rYjdvQllUc2ZkQU5UQy11Mmprd1dJMWZwejRHRWNpb29UVWVyN0w0WTJFSVRHcXBWY0lHdEZNQ09pZnNxVk1rWm1KWXNzX3Y5TWtobUFFZEZSYXZHZ2RHRU5YRVFUa2RsMlNRN1A2VUIwUW0tdFB3NHVGYkZhVlVuVHdsdUdWUGFmdw?oc=5",
+   "data": "2026-10-09T18:18:09+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Classificação do segundo turno: Cruzeiro supera o Flamengo e lidera; Corinthians é o último",
+   "link": "https://ge.globo.com/gato-mestre/noticia/2026/10/09/classificacao-do-segundo-turno-cruzeiro-supera-flamengo-e-santos-e-lidera-corinthians-e-o-ultimo.ghtml",
+   "data": "2026-10-09T18:06:33+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Cruzeiro 2 x 0 São Paulo | Melhores momentos | 29ª rodada | Campeonato Brasileiro 2026 O Cruzeiro reassumiu a liderança da classificação do segundo turno do Brasileirão ao derrotar em casa o São Paulo (2 a 0). Foi benef…"
+  },
+  {
+   "titulo": "'Flamengo perdeu batalha mental para o Neymar', analisa Rômulo Mendonça",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZk8ya3JCM3lzdllRQjdOTURoTkNNUVlVUWtQTWxNVm5RanpkS2VHVmU0TmQ1U1BibWpEYmNyWkVTaGtQWFQzOVJvX0NCaVlOODNfR0sxR2pIOE9wbWg4TVBNOGx5Qm1IUDRkNzNmWENzVU5tRE9CdHZXYXJHVWY5d0U5ejRBSTNqa0xjMDZ2YzlrUFhUMTJrOUdJRGtndERGdnd1Z0ROWW9OVW1NM29XX1RqQ0xlYU9LY1BjcGYtUkdGVFhPenByM21CandwOFd6Vnc?oc=5",
+   "data": "2026-10-09T18:05:17+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Com Rossi contestado, Flamengo pensa em mudança no gol para 2027",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXI3dlYxaTJPTDdMRFpRS1BNWHd3YjlvYjI3THdTSUpwWmxZT280SHZBUHdnWUFuS0pDV3REcXdHZnNmbG9VN3BNSDZKOTByRVlYRDJnR2tRZnM4dGRKSUpMZHlRc1JvdFBSUVhQM0VaU0RiR1E1c3lrMUV4dXUxd2Y1bTNCbVQzblhJWW9NNE5IZzQzZUZ1bHFqV1d5TWRacTdIZFdfRmlLZEotekk4?oc=5",
+   "data": "2026-10-09T17:42:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Veto às bets: Lula debocha de protesto do Flamengo e sugere que clubes virem SAF",
+   "link": "https://colunadofla.com/2026/10/veto-as-bets-lula-debocha-de-protesto-do-flamengo-e-sugere-que-clubes-virem-saf/",
+   "data": "2026-10-09T17:34:21+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Lula voltou a se pronunciar sobre as bets no futebol O assunto do veto às bets voltou a ser tema de discurso do presidente Lula. Nesta sexta-feira (09), o candidato à reeleição citou o Flamengo, um dos líderes do movime…"
+  },
+  {
+   "titulo": "Palmeiras passa Flamengo e assume a liderança? Corinthians entra no Z-4? Veja os palpites ESPN para a 30ª rodada do Brasileirão - ESPN Video",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tck9ERktySUpUanRSc1UxQzZtSTF5blhDS1hNREh2Qlp3MkpsX1h6aVJHX3lDYTBVVWlzZ284cUdLZkFsajd6QUVJYmlYT0g4MTFYX0FvSHMxQ1hsM3c?oc=5",
+   "data": "2026-10-09T16:59:38+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo leva 78,6% de aproveitamento como mandante no Brasileirão para o Fla-Flu no Maracanã",
+   "link": "https://colunadofla.com/2026/10/flamengo-leva-786-de-aproveitamento-como-mandante-no-brasileirao-para-o-fla-flu-no-maracana/",
+   "data": "2026-10-09T16:57:13+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Após o 2 a 2 com o Santos, o Flamengo aposta no Maracanã para segurar a lideança do Brasileirão O Flamengo recebe o Fluminense neste domingo (11), às 17h30 (horário de Brasília), no Maracanã, pela 30ª rodada do Brasilei…"
+  },
+  {
+   "titulo": "Flamengo detona arbitragem após polêmicas contra o Santos",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQallTOTFWNkVEUTV0bHF1SzM5UzBfUDgwUTI3Y1lPT3ZhN29LbTFPOEdhV0YzWWY0SlBnYXAtT3RCM0xGY0lNaC1ESEN1a0gwcmRZVTFFZTd4SDJVTDYtcFRMNDhoQnI0VWMwZU9xYVU4T2xibWdnSkhGRTlmbUhqZ2ZIbkFQai03NEZXQXRHdFdWOUZzNnVRMnZCRjlDbHBMZUtpNHZVdlRwa3E0R3hIU3ZWcmtSazJrNkhyc2RCYkhZeEM3?oc=5",
+   "data": "2026-10-09T16:53:25+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fla lista 'erros graves' da arbitragem e entrará com representação na CBF",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLTRVX2g0b1lyOXZfM2JKQlpsMng5MjM0UmdkMkt2SF81QnFCM3k5UjNOZHJDMGgzWEJQaThIal9tZ0lKZTBCUEZ4U3hkSHRzZllnVjEwcU5iZlBHa2F1dUZveXhtQVZjZlNRWlhXakZyUjRSOWN4U0tUOFhTSU82Y3hkVnpIS1dmc045M3FoeHNXNjliSnI5WGttNHA5c2lNaGs0VA?oc=5",
+   "data": "2026-10-09T16:45:48+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo aponta erros graves de Daronco em empate com o Santos e cobra CBF",
+   "link": "https://colunadofla.com/2026/10/flamengo-aponta-erros-graves-de-daronco-em-empate-com-o-santos-e-cobra-cbf/",
+   "data": "2026-10-09T16:36:21+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rubro-Negro contesta decisões de Daronco e do VAR no empate por 2 a 2 na Vila Belmiro e aponta prejuízos em lances envolvendo Carrascal, Jorginho e Luiz Araújo O Flamengo divulgou um posicionamento contundente sobre a a…"
+  },
+  {
+   "titulo": "Flamengo destrói arbitragem de Daronco, cita 'falta de autoridade' e vê 'erro triplo' com Jorginho",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd1R3UTFPNUVIVGxQb1lCckFkU1ZXSHhYeXdfQW9qUlNmdjhhZjE5RjVkSC1qbmpTMG5xTndZY2p1cDVJYkpLcDg3YmZ3T3h5aFRUVFhWa1pHTlMycnhrRGh0LTlGX25RZmVzTU5DMHZrWUxPeFQ0cHBXYVllMTBraE1la0JDY1p0NVVfRExHZWx3UExzbzJzbzRrQmEtR0hrdmxkWWRfQ3lfaUxHTm5kNmZCRHExcTd6Y08yaXJ2WEZMNGdZYng2d1FXbkY2a3pQb0NHOW40RHpFRVE?oc=5",
+   "data": "2026-10-09T16:27:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo detona arbitragem contra Santos: \"Erros graves, falta de critério e completa ausência de autoridade\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/09/em-nota-oficial-flamengo-critica-arbitragem-contra-o-santos.ghtml",
+   "data": "2026-10-09T16:18:55+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Árbitro acertou em marcar pênalti e expulsar Jorginho? PC Oliveira analisa decisão O Flamengo soltou uma nota oficial na tarde desta sexta-feira e detonou a arbitragem no empate em 2 a 2 com o Santos na última quinta-fe…"
+  },
+  {
+   "titulo": "Analista contesta vermelho para Jorginho e detona Daronco após empate do Flamengo contra o Santos: “Não sabe a regra”",
+   "link": "https://colunadofla.com/2026/10/analista-contesta-vermelho-para-jorginho-e-detona-daronco-apos-empate-do-flamengo-contra-o-santos-nao-sabe-a-regra/",
+   "data": "2026-10-09T16:00:38+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo e Santos empataram em 2 a 2, nessa quinta-feira (08), em jogo cercado de polêmicas O analista de arbitragem Paulo Caravina criticou a atuação de Anderson Daronco no empate por 2 a 2 entre Flamengo e Santos, nes…"
+  },
+  {
+   "titulo": "Na briga pelo título, veja os caminhos de Flamengo e Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHpjazY1MS10WlBiMnhWTC1sTGxUYVUwa0I0LXl1a1FNZHJGbWFXMnhWeDB2REE0YVZhcjFTcnpOOHpGQVVnNnRobEw3UWUySXdkZ09YVmIyVlR5VUFVd2ZCOTRKY0xNZjg2b2NFZGtCRzBLNlB4VkNqNWNhXzFiQ3pfaDNSdHhxSHBsVG1KMlJ0RW1BM1JaWTNZU0duTWpYYWl1bHZnQTNHb2lW?oc=5",
+   "data": "2026-10-09T15:50:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rui Costa diz que demitiria Crespo novamente e revela como foi negociação com Filipe Luís antes de contratar Roger no São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb25INHNPLWphbjFFSXluVUhKX1JxYmRPVVNnS0ZqdmN0UnR5a1UyTVhVdktCcWF5NEdiTk9wWFk0bXBQU2FReDlFdGxSYTFySFJYejN3czdMWEE2aWFUeFhnb3JyNUFnbm5ETWItWnIxVjU3d2tTbUo2VjI3M1RVU0dyUTJGT0d6TTMyTHhwOW12cXh2Y3MtLWxkUlVnZmpsZm5ERHk2bi1sNi1QWmQwaEFadGFmRU5LNU5iU3VkSHo0dWdia1JUdjcyWFQyaVc2TXp4cWd1Sk10U2NaQW42enZIOXNLcG5GLW9jMVFoVFdFdzQ?oc=5",
+   "data": "2026-10-09T15:36:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo hoje: veja as principais notícias do Flamengo nesta sexta, 09/10/2026",
+   "link": "https://colunadofla.com/2026/10/flamengo-hoje-veja-as-principais-noticias-do-flamengo-nesta-sexta-09-10-2026/",
+   "data": "2026-10-09T15:21:54+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Confira os destaques do noticiário rubro-negro neste 09 de outubro O Coluna do Fla reuniu as notícias de maior repercussão do Flamengo nesta sexta-feira (09). O empate por 2 a 2 com o Santos, na noite de quinta (08), na…"
+  },
+  {
+   "titulo": "ANÁLISE: Erro de Rossi expõe problema de maturidade e pode custar caro ao Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlQydlNMZWo4UFhsNkRZam9Tc0duS3pmQzJfempLcm92eEF5ZC11b18ta2MySkxBTk5Fd3FINlE2RXV4TVpLRklJdUw0Ym9vaTZ0aU1ZWlJiQUsyOFF2WG5mVmc5RHFkWmZ1MmlLWTVha1drMVFhNFFpVS1CV3ZfT3oydXRLRmliVHRpQ0Y2dTJGWGtfQ1ZTNUdEUU9vdlI0MlIyNkg5eDdWWWtyMG1iZTItcVFOVFVvdVpVOA?oc=5",
+   "data": "2026-10-09T15:16:32+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Fluminense ao vivo hoje 11/10: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUlyaFAzamt0QjRrNjlNbV9xNWVqLWh4blc1UEt1RXBwRXFyMkM0dmkyV0JGX1ZkWF9ZcEJhV2FTN2RXeE01V2ZPaVNRLXljU0sxQ2R4QXpBLW13eTlrVUlqWXFjNDlvTnB4LUJ5dVk1WGVlQWV3OURMYWg4Y2tlOFlBVTZXamQ5dF9HTlJ5QllMMUxh?oc=5",
+   "data": "2026-10-09T15:03:54+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "\"Ô Paquetá, filho da p...\": dublagem mostra Neymar pistola e clima quente de Santos x Flamengo",
+   "link": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/10/09/o-paqueta-filho-da-p-dublagem-mostra-neymar-pistola-e-clima-quente-de-santos-x-flamengo.ghtml",
+   "data": "2026-10-09T14:52:53+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "\"Paquetá, filho da p*!\": veja a dublagem de Gustavo Machado em Santos x Flamengo O clima quente dentro de campo foi detalhado pelo dublador Gustavo Machado em lances cruciais que decidiram o empate por 2 a 2 entre Santo…"
+  },
+  {
+   "titulo": "Probabilidade de Palmeiras ser campeão vai a 34,7%, e a do Flamengo cai para 63,8%",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb05DOU5vVVllRGIyOGZwWjRJcmFZcnZKZTNONWE3ZnJvcFdBMDBYbzN6ZHdHS19xdUpOYUVQZnBjRFhkYmk2NGpNcE54MUhLV0JyZ2gzLW9CbTN2LUFZeTRhVzEwVklmbnJIcHg3UlN1OTdtTnJHdmRDaS1IVFNsTmlOaVUxLUJZX0dYUS1xdjJkNV82SGNKNDVDQ2Q3VUJUTkl3MGtQWjNGQ2xBUmpqZUM3LXJpX2ZqOVZOdWJwNk5uUENpOVlVYg?oc=5",
+   "data": "2026-10-09T14:50:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
   {
    "titulo": "Revolta do Flamengo com arbitragem e encontro com os ex do Santos: o que o ge viu do campo",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/09/revolta-do-flamengo-com-arbitragem-e-encontro-com-os-ex-do-santos-o-que-o-ge-viu-do-campo.ghtml",
@@ -50,7 +274,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Danilo desabafa após empate do Flamengo com o Santos",
+   "titulo": "Danilo desabafa após empate do Flamengo e pede união: 'Momento de compactar o ambiente'",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUNkbnEzT1JDZzRrXzVaVldfNGpCR1h6Sml2d1UyLXBkcm1feXRHc2p5MHdtUGg2enVJLTN5TEZ1YXgwdE55S3g4ZXVyMHYwN2RiME93LUZCSkRua0hfaTc5VW9CaGVMc2pER1poTEx2VzFEcU1neEEzZ0ZRWDl3Qi1mNVJZQ0lvVmJQQ0pYVjM4YnRTV3NVNm5ZQkYzVDJFX0FiZ2dBYnF6VTZfai03dk9aSTJPZ1hYSnZleEJUUkE?oc=5",
    "data": "2026-10-09T13:48:22+00:00",
    "fonte": "lance",
@@ -58,17 +282,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Alicia Klein: Protesto por bets: diretoria do Flamengo ignora sua torcida",
+   "titulo": "Alicia Klein: Protesto por bets: diretoria do Flamengo esnoba sua torcida",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3duTjZSLTJOVmVxTWdVQzlrdHk2dkpBT2hNa09nWkxFcGpwbzVxeG1hRmRub3lZeGRqOHUxX1RhRWFxYzhxUktLN1RFTXZ3UHRoaGxHWTlxa19qYzFvMnN0NjM4eGVTcW1vajFlNnZpemFyd0FGcVBvVHl5c3hNNENnUjdvaHNpM1p6eGR0WFAzMnpYNmFJdGlQM2dKRVNxelc4bnItQlc5aWNrMC1vZ29PUkp5V0VjWXJHSTc1bDV1LVU?oc=5",
-   "data": "2026-10-09T13:41:12+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Fluminense ao vivo hoje 11/10: siga placar agora | Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUlyaFAzamt0QjRrNjlNbV9xNWVqLWh4blc1UEt1RXBwRXFyMkM0dmkyV0JGX1ZkWF9ZcEJhV2FTN2RXeE01V2ZPaVNRLXljU0sxQ2R4QXpBLW13eTlrVUlqWXFjNDlvTnB4LUJ5dVk1WGVlQWV3OURMYWg4Y2tlOFlBVTZXamQ5dF9HTlJ5QllMMUxh?oc=5",
-   "data": "2026-10-09T13:33:53+00:00",
+   "data": "2026-10-09T13:37:57+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -114,25 +330,17 @@
    "resumo": ""
   },
   {
-   "titulo": "Mauro Cezar Pereira: Colecionador de falhas, Rossi é, inexplicavelmente, intocável no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQblJOZzRBNlZ0Rk9iSk53YVQ1cXBqSDhLbGE4eV9EbVItY1hMMkE4RFIweThlUjBhTHR3TDZEZmIxcE5xN3VmaXFjTjh5SExwaUhpN04wUUJKeUNveUpnZFAwUU5CX1FJRjJfdFNKR0JDYy1vY3NEandsbEI4WGhBalZIaVBKRWJZRGtveU1zdkQ5dU14ckRYaXh2emxNemRKV09CT2FmUlpTWERGeVBZWDNCb3lKTDVWWHh5RFR3R2tSUkRnMkxZRmItMlZPMmdSeTU1RW00b0JVYnV3MHRvTGdQZS12TUE?oc=5",
-   "data": "2026-10-09T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Falta de avanço em briga pelo Maracanã 'empurra' Vasco para o Nilton Santos",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTHA1MU1QajVRNlJXVy1BQUZoZlVRRnhMM2Fqdk9RLXBVNjRXN194N0hoNDJTR1hzcGpuSV9lcDMzckROY1ppck13Z1hUSU82M0FpSU85RDVQWTdLYUc2UDJrVmRrNHFSQlE0VE4tbUJaTWdoTVhsNlhxaGRScklWRURKZWd5VjFIeVprbDdEZ0VGN25ReW96X3Y4aFRxOU5fYXJKd2Rmd256UjlXZHpuZWREVW9ublcxMkVXQjlRZ1czcnhhbUFhZkpOY3NhUHIyTmVjek9OTW45bnVQMkE?oc=5",
-   "data": "2026-10-09T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Fluminense se une ao Flamengo e vai exibir mensagem pró-bets em clássico",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXJoMmdqVVZwMjhUSW5UUEZRc0wtZW92STNfbm9WTHgxdVFMckQzQUx2Mk5JMDNIc0FrZmJ1c1hkUE5RRUhqUVV5Y04tZlFsaXNoRGMtS3RaU3kwMXk1dDk4aDZteVd0X2MwTjFFSkhGa19iaDB1Vjg1M0ZOeFVDMVRmMjlnT2x5dnV5YWJRQ3R6TjFTeEdxcXp2SDZ0blFrNllhNzlDX3JiQ2VZRUF1MUctbVFRY241eEk2R0dicGhBWjJUSTZfTk13VkJzX3pBVGpCWWZsQy0?oc=5",
-   "data": "2026-10-09T12:22:36+00:00",
+   "data": "2026-10-09T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jorginho expulso e pênaltis: ex-árbitros analisam polêmicas em Santos x Fla",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnNrM2tDM2ZBR3pEak8xT09wLXl5YnJ0YzFsMDZsb3R6cGhPeUotalZCYy1JdUxOa2dqWkdrTVRxSFJkcXRrckxjRDNYcXpTSUlpYUE5YVB4bldTbGxtTHBZWG5lcWh1U3psbzBiaFRPbk14TnlsY2JsTWZGRGxxWGJidzZZTEx3VmRYbFBOLTktTU04Y19VVklId2Z4ZjJHMUxUQ2ZuMGk4VG9ERmJlOW5HWUU5QVU?oc=5",
+   "data": "2026-10-09T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -162,28 +370,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Jorginho expulso e pênaltis: ex-árbitros analisam polêmicas em Santos x Fla",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnNrM2tDM2ZBR3pEak8xT09wLXl5YnJ0YzFsMDZsb3R6cGhPeUotalZCYy1JdUxOa2dqWkdrTVRxSFJkcXRrckxjRDNYcXpTSUlpYUE5YVB4bldTbGxtTHBZWG5lcWh1U3psbzBiaFRPbk14TnlsY2JsTWZGRGxxWGJidzZZTEx3VmRYbFBOLTktTU04Y19VVklId2Z4ZjJHMUxUQ2ZuMGk4VG9ERmJlOW5HWUU5QVU?oc=5",
-   "data": "2026-10-09T11:57:36+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Palmeiras vê chance de título saltar após vencer o Bahia e aumenta pressão sobre o Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYjRib2lvbGxiMXR1cE5yLTBRc0pQbzRFX2N5Y2x5SXdMc2dreGhTYTlTUUhLbkU1Q2ZXSUtrU1lOYVdPTnNuNDRQMlJqbDNBdzU4cHMycEVOdXp2R0p5eWFOdkwtS3ljbXBDMUtTQmdKYVpSdHU3d2JCUE9OejZWNU9OMGhJVm1FSGdJamxLMkptYUUwcXc1OXZMS21vRURIcUV5cTdFUGFQRU9BbERsVUtFNVFZeHdVbVhYUm5JZlphaFlrRjl3S0Ezc2xNX0Jza3pHbnVmYWlfYzJjbS1ibUpxeHN0eWJ6d3AtZXdaQ0JNZGNF?oc=5",
    "data": "2026-10-09T11:55:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Gabigol deixa a Vila Belmiro com camisa do Flamengo nos ombros e aplaude a torcida rubro-negra",
-   "link": "https://colunadofla.com/2026/10/gabigol-deixa-a-vila-belmiro-com-camisa-do-flamengo-nos-ombros-e-aplaude-a-torcida-rubro-negra/",
-   "data": "2026-10-09T11:42:57+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Atacante do Santos sofreu um dos pênaltis no empate por 2 a 2 com o Flamengo Gabigol deixou o gramado da Vila Belmiro, na noite dessa quinta-feira (8), com uma camisa do Flamengo sobre os ombros. Depois do empate por 2…"
   },
   {
    "titulo": "Fla tem queda e vê Palmeiras se aproximar: as chances de título Brasileirão",
@@ -234,14 +426,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Tempo Real | Santos x Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlVzRjE0VmN5T252bm9faUZnZHh2RlNCNWFuaWRIY1ZPNXRTdkxQNm9xQkRuZ0JxeDRocXBVNGQwZzl0aU0zd2RsRjlCeGxWUVR2NHo3bkNoMm0tT2Nib2VLcUN0a2lCWUhhOEQ3XzE3YmppREstRUhlZGJrUzE2R1ZaRUgzc3NQal8tVEJqbExhZzR1dndiSE1n?oc=5",
-   "data": "2026-10-09T10:30:44+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Renato Maurício Prado rasga o verbo após Santos x Flamengo: 'Burrice'",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGVFdEd3U2VCazNVY0dUMkdsZFJtRnV3WGlMcUxPMmpIX0JyUXUwcFdnb3pDRkVpNE91djVtalRXT200eUJ1cDhBMXA2XzFDdHFMci01T3U1Tnp0NndTWUlsLXZ1V01IeGVsbjRpV284dlczTHlqMXM3alFFRmZvZ1k0UFB4VHJhc0FMeUVnNDFPX2xyenRNM3NnZG16MEJENHVHMVU0a24yajhsVGww?oc=5",
    "data": "2026-10-09T09:30:00+00:00",
@@ -250,7 +434,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo reclama da arbitragem, mas também falha na Vila",
+   "titulo": "OPINIÃO: Flamengo tem razão para reclamar da arbitragem, mas também precisa se cobrar",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmtrYWpyUnFTZkk2V3dwNVF2UnA2bmo3NG11aTBDdmtCMzFUTXJjN1UxM3RGNlBISUlOU1F5Uko0eVFHNVN0NXlmVXZnYlRFaFFQdnpPQjlIWmpFRl9vNFd3b0FwTTE1NW9ZS20zRzRzUklPbEUyZkRjRlUtVVhVRHNVNWx2ZFVDRS10bEFnWHlCV3U0SHlKa3BadTlMUTNTVm1RcmVsczBYcVFZTjBubm1QYUhVOXFmMXdpM1lBZw?oc=5",
    "data": "2026-10-09T09:00:00+00:00",
    "fonte": "lance",
@@ -266,20 +450,20 @@
    "resumo": ""
   },
   {
+   "titulo": "Mauro Cezar Pereira: Colecionador de falhas, Rossi é, inexplicavelmente, intocável no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQblJOZzRBNlZ0Rk9iSk53YVQ1cXBqSDhLbGE4eV9EbVItY1hMMkE4RFIweThlUjBhTHR3TDZEZmIxcE5xN3VmaXFjTjh5SExwaUhpN04wUUJKeUNveUpnZFAwUU5CX1FJRjJfdFNKR0JDYy1vY3NEandsbEI4WGhBalZIaVBKRWJZRGtveU1zdkQ5dU14ckRYaXh2emxNemRKV09CT2FmUlpTWERGeVBZWDNCb3lKTDVWWHh5RFR3R2tSUkRnMkxZRmItMlZPMmdSeTU1RW00b0JVYnV3MHRvTGdQZS12TUE?oc=5",
+   "data": "2026-10-09T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Análise: Flamengo se irrita com a arbitragem, recoloca o Santos no jogo e vê o empate reduzir a vantagem",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/09/analise-flamengo-se-irrita-com-a-arbitragem-recoloca-o-santos-no-jogo-e-ve-o-empate-reduzir-a-vantagem.ghtml",
    "data": "2026-10-09T07:00:00+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Jorginho critica arbitragem após expulsão: \"Conseguiu fazer o pior cenário possível\" Até os 30 minutos do segundo tempo, o Flamengo se encaminhava para um retorno tranquilo de mais um período sem jogos. O time carioca a…"
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Palmeiras vence Bahia e encosta no Flamengo perdendo gols além da conta",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXZNN3R5LUxPU3AxbUNTdVZOSTE5UmVkWnBHRjg3M2dCWVFYWDdtcXZ5XzRMVnZlZEN5Q21ibjNmS05la3pQSlVoQXpNQTN4aFNNUTJNX2J1YlBVc2pvYzlxSEhyZjJPUDJTVnA4Y0dFakZLZ0I0MjM0VW81S053MGlDTkU0Nmc2VDlucVktNVViS01hOC16MHpuYWpTOTNkOHp1RnpoMjFLemJIWnAzaFhzOXk4aEZEUzQxVVJtWEpwTXZJNFVXSg?oc=5",
-   "data": "2026-10-09T06:24:15+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Milton Neves: Santos alcança empate heroico e quase vira para cima do Fla!",
@@ -362,14 +546,6 @@
    "resumo": "Jorginho recebeu cartão vermelho após ter lance revisado pelo VAR, que culminou em pênalti para o Santos O meio campista Jorginho foi quem concedeu entrevista coletiva após o empate em 2 a 2 do Flamengo contra o Santos,…"
   },
   {
-   "titulo": "Jardim analisa impacto da ausência de Arrascaeta e detona não expulsão em jogo do Flamengo x Santos",
-   "link": "https://colunadofla.com/2026/10/jardim-analisa-impacto-da-ausencia-de-arrascaeta-e-detona-nao-expulsao-em-jogo-do-flamengo-x-santos/",
-   "data": "2026-10-09T02:50:25+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Leonardo Jardim lamentou a fratura de Arrascaeta Contra o Santos, o Flamengo fez o primeiro de muitos jogos sem Arrascaeta. Com uma fratura no braço esquerdo, o camisa 10 só deve voltar aos gramados na segunda quinzena…"
-  },
-  {
    "titulo": "Palmeiras domina o Bahia, vence em casa e reduz distância para o Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2xzZlQwQzRFZmRiWGY1aUN4SERKTnA2ZFpZYnh5b3FKU3dhLXRQVnlmNVFVQW80S1VyN0xqT2ZMbTMxb1hkdWM1dXJvOHQ5bHIxQnd1MUVKY0pIZk4teU5VdTFNWkVIMWUzVU1SY0hmYUpwNVBUZlV3S2dpdXFYeUR4eWRZQVhJS0d2c19GTjhtSmJvOU9qMTh0ZFNZX0c5Sjh3VWhSSU9wdXVVVXBNTDUxV21lYXJQNlFKNWxmNTNzY2UtbUZWLTNLckQyeGZ1OUJ3N1VyaWduZ1E?oc=5",
    "data": "2026-10-09T02:37:00+00:00",
@@ -402,17 +578,17 @@
    "resumo": ""
   },
   {
-   "titulo": "Palmeiras vence Bahia e fica a 1 ponto do Flamengo; veja tabela atualizada do Brasileirão 2026 na 29ª rodada",
-   "link": "https://colunadofla.com/2026/10/palmeiras-vence-bahia-e-fica-a-1-ponto-do-flamengo-veja-tabela-atualizada-do-brasileirao-2026-na-29a-rodada/",
-   "data": "2026-10-09T02:24:33+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Palmeiras tirou dois pontos de diferença nesta quinta-feira (08) A 29a rodada do Brasileirão não foi boa para o Flamengo. Afinal, o Palmeiras reduziu para um ponto a distância para o Rubro-Negro. O time de Leonardo Jard…"
-  },
-  {
    "titulo": "Brasileirão: Flaco López decide, Palmeiras domina o Bahia e fica a um ponto do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3JFQVZ0bHpsendmZFduTHU4SHZtZWlONWhFMlZVQXNXb25aNEZYQjktZFZIZWhLazVtQW9OOHdCSUNEdjMydXNlbjR2Y3JYTDVLQ1ZXTHVGSEp3X3NYRWRiLUNpcS1GQ0FVVktTZVpiMzJoVm8wWEFsZEpJQlhObF9BY244dWFOWWFyYlItN0pqNEJhMUFuZHhISld3RGdheEtaZmRn?oc=5",
    "data": "2026-10-09T02:24:19+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Palmeiras vence Bahia e encosta no Flamengo perdendo gols além da conta",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXZNN3R5LUxPU3AxbUNTdVZOSTE5UmVkWnBHRjg3M2dCWVFYWDdtcXZ5XzRMVnZlZEN5Q21ibjNmS05la3pQSlVoQXpNQTN4aFNNUTJNX2J1YlBVc2pvYzlxSEhyZjJPUDJTVnA4Y0dFakZLZ0I0MjM0VW81S053MGlDTkU0Nmc2VDlucVktNVViS01hOC16MHpuYWpTOTNkOHp1RnpoMjFLemJIWnAzaFhzOXk4aEZEUzQxVVJtWEpwTXZJNFVXSg?oc=5",
+   "data": "2026-10-09T02:24:15+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -440,14 +616,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Leonardo Jardim cobra Daronco e expõe clima dos jogadores do Flamengo após jogo contra o Santos",
-   "link": "https://colunadofla.com/2026/10/leonardo-jardim-cobra-daronco-e-expoe-clima-dos-jogadores-do-flamengo-apos-jogo-contra-o-santos/",
-   "data": "2026-10-09T02:01:04+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Jogadores do Flamengo saíram de campo sem conceder entrevista O elenco do Flamengo deixou o gramado da Vila Belmiro bastante indignado com o resultado diante do Santos, nesta quinta-feira (08). Após o 2 a 2, o técnico L…"
   },
   {
    "titulo": "Expulsão e pênaltis contestados: veja os lances do empate entre Santos e Flamengo",
@@ -480,14 +648,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Jardim aponta falha de Rossi em gol do Santos e admite sabor de derrota no Flamengo: “Perdemos 2 pontos”",
-   "link": "https://colunadofla.com/2026/10/jardim-aponta-falha-de-rossi-em-gol-do-santos-e-admite-sabor-de-derrota-no-flamengo-perdemos-2-pontos/",
-   "data": "2026-10-09T01:41:37+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Veja o que disse Leonardo Jardim após o empate do Flamengo com o Santos Após Santos 2×2 Flamengo, a sensação entre os torcedores rubro-negros era de derrota. Afinal, o Mengo abriu 2 a 0 e cedeu o empate na Vila Belmiro.…"
   },
   {
    "titulo": "Jardim isenta arbitragem e vê Flamengo cometer pênaltis 'desnecessários'",
@@ -530,14 +690,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Falha do Rossi? Torcedores do Flamengo criticam goleiro em empate contra o Santos",
-   "link": "https://colunadofla.com/2026/10/falha-do-rossi-torcedores-do-flamengo-criticam-goleiro-em-empate-contra-o-santos/",
-   "data": "2026-10-09T01:24:46+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Reclamações sobre Rossi chegam após passe na ‘fogueira’ para Jorginho, que acabou sendo expulso Após o empate amargo do Flamengo contra o Santos, os torcedores apontaram alguns possíveis culpados para o resultado. Com i…"
-  },
-  {
    "titulo": "Lance de Rossi com ex-Flamengo em campo pelo Santos viraliza: 'Acabou'",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVVURjA5SkZqYWRNeVVEOHVEZU9wX1VGZF9IeXhPNzJrTk1Eb0xuMGt1NnlJaXRtNVh1WTlNaFlxbVROQjVjNXhHY1I3OHZYbVR4d0VxTVdVOHlFQ2huTnFDM2dlX2RwMFpQUUlmR2FSeHhnRDJUU3FmT3Q4LV9HRjdwNU9sN1pjMml2TjBCTWxrenRTdlNzbXpzdWNnbjEwNmhuQmxXbC1WLUVac0gtTA?oc=5",
    "data": "2026-10-09T01:22:01+00:00",
@@ -554,14 +706,6 @@
    "resumo": "Santos 2 x 2 Flamengo | melhores momentos | 29ª rodada | Brasileirão 2026 Santos e Flamengo empataram em 2 a 2, nesta quinta-feira, em jogo muito movimentado na Vila Belmiro, válido pela 29ª rodada do Campeonato Brasile…"
   },
   {
-   "titulo": "Danilo sai de campo revoltado após entregada do Flamengo em jogo contra o Santos",
-   "link": "https://colunadofla.com/2026/10/danilo-sai-de-campo-revoltado-apos-entregada-do-flamengo-em-jogo-contra-o-santos/",
-   "data": "2026-10-09T01:08:34+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Danilo e Lucas Paquetá foram os mais irritados após a partida O Flamengo empatou em 2 a 2 com o Santos na Vila Belmiro, pelo Brasileirão. Como chegou a abrir 2 a 0, ficou um ‘gosto de derrota’ para os rubro-negros. Ao f…"
-  },
-  {
    "titulo": "Neymar cutuca o Palmeiras após Santos e Flamengo: 'Grande jogo dos 2 melhores times do Brasil'",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQmJ4cFY1bHlKdGNzOU9STE0tcHB0d1VoVFp2MVhENndkczhSTmZGZ3RxYUtaYlZmUHgwMkZjY2V3ckMwZHBWTml2azNFbW1sRFZkUldlQUUzZFIwaURiRFpsX25FS0J0Vnl6VGxQdGt3ajRrX1MzQi1aTWx4N2czYUliZ3NiRy1idkNjSndhekV0RlU3QUFDTmpvaGFGd1ZPNGdYQXVHSkR3bkNqLXlpWGFLVjlZTkpBUHYzVkxUTlZLRHRjeXM1SU9oMk1yeldwM1ZNMXQtYnFZMnpmVmM5MDZRWkR0VUxaSUoxQ08tMHhrSHB3?oc=5",
    "data": "2026-10-09T01:05:00+00:00",
@@ -576,14 +720,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Neymar exalta qualidade do jogo e coloca Santos no mesmo nível do Flamengo no Brasil",
-   "link": "https://colunadofla.com/2026/10/neymar-exalta-qualidade-do-jogo-e-coloca-santos-no-mesmo-nivel-do-flamengo-no-brasil/",
-   "data": "2026-10-09T00:57:57+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Neymar entrou na segunda etapa e marcou os dois gols do Santos no empate com o Flamengo, pelo Brasileirão O atacante Neymar entrou na segunda etapa e conseguiu um empate heroico para o Santos diante do Flamengo, pelo Br…"
   },
   {
    "titulo": "Inimigo de si mesmo",
@@ -631,14 +767,6 @@
    "data": "2026-10-09T00:41:40+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Santos 2 x 2 Flamengo: os gols do empate na Vila com show de Neymar",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RbE93X2dOQmpfbzBTejhqbEQ5ZVdTd1pQd052cTdpXzN4VTRIaGpkLUtVWW56bGhiMzE0cnQ2MEx0YWJnQjJZUUY0UWdjM01ueHlueDR3eVZkcHExNXc?oc=5",
-   "data": "2026-10-09T00:39:40+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -954,16 +1082,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Saudade do ex? 4 vezes em que Gabigol se declarou ao Flamengo após saída",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFp6a0ZOb2l5ek1CMjFQajhpU1RlNXp3YURZc3FMV3VEZVBIT2U4VkxGYWJkTjBDaU90WFpqTUxjamVnQUJpZi1KWEpIU3NFZWQyMFpPS2pvUV9VV1BHUTI0LWUwaTRBb2hkUDBOVzdNaWRlTUZ6N0N5R2NXY0dxcVFHaGktRks4OTl0ZXd4Y25vNzF5N1locTlPWVRHZktGemZGT1JJTlFhaENIUWlsd2cxWjVyV3l6OFFOUExRSDFBY0NGZWR6X0NkelhDdWhXeFNIU2JvWnFFclk?oc=5",
+   "titulo": "Coutinho revê Flamengo e tenta derrubar escrita de nunca ter vencido rival",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORFNqTFVEV0I2eW1TaDFjTlpfQUVRTDBjWks2RjZfbVpndTF4TnFvc1pwU1JHcEdCdFp0NGRYVzIyV2xtdXQ0NUdBYlRVZWRURmtUY1JzcXhoLU5YNDdUSXNVUHhZMGNJVi1XTUs4eXA4NnRDVjA0RVBZN2Q4a2Nud3poTmtiMHlBa284bHdhU3lIRVNaMzJoNmQ2MWJXVm0zQUFlSlI5TE5FTE5rM2lYVUNnZmZDOER0Z0ZVazcyUFppTWYzQXR0TVdJcHE3V3NOWlZacUI4UXVURGw5THZ3?oc=5",
    "data": "2026-10-08T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Coutinho revê Flamengo e tenta derrubar escrita de nunca ter vencido rival",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORFNqTFVEV0I2eW1TaDFjTlpfQUVRTDBjWks2RjZfbVpndTF4TnFvc1pwU1JHcEdCdFp0NGRYVzIyV2xtdXQ0NUdBYlRVZWRURmtUY1JzcXhoLU5YNDdUSXNVUHhZMGNJVi1XTUs4eXA4NnRDVjA0RVBZN2Q4a2Nud3poTmtiMHlBa284bHdhU3lIRVNaMzJoNmQ2MWJXVm0zQUFlSlI5TE5FTE5rM2lYVUNnZmZDOER0Z0ZVazcyUFppTWYzQXR0TVdJcHE3V3NOWlZacUI4UXVURGw5THZ3?oc=5",
+   "titulo": "Saudade do ex? 4 vezes em que Gabigol se declarou ao Flamengo após saída",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFp6a0ZOb2l5ek1CMjFQajhpU1RlNXp3YURZc3FMV3VEZVBIT2U4VkxGYWJkTjBDaU90WFpqTUxjamVnQUJpZi1KWEpIU3NFZWQyMFpPS2pvUV9VV1BHUTI0LWUwaTRBb2hkUDBOVzdNaWRlTUZ6N0N5R2NXY0dxcVFHaGktRks4OTl0ZXd4Y25vNzF5N1locTlPWVRHZktGemZGT1JJTlFhaENIUWlsd2cxWjVyV3l6OFFOUExRSDFBY0NGZWR6X0NkelhDdWhXeFNIU2JvWnFFclk?oc=5",
    "data": "2026-10-08T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1103,134 +1231,6 @@
    "data": "2026-10-08T01:38:18+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Escalação do Flamengo: sem Ortiz e Arrascaeta, Jardim terá mudanças contra o Santos",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/07/escalacao-do-flamengo-sem-ortiz-e-arrascaeta-jardim-tera-mudancas-contra-o-santos.ghtml",
-   "data": "2026-10-07T23:59:07+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Santos x Flamengo: informações e palpite para o jogo Depois de uma longa Data Fifa, o Flamengo volta a campo nesta quinta-feira, em confronto contra o Santos, pela 29ª rodada do Campeonato Brasileiro. Com cinco desfalqu…"
-  },
-  {
-   "titulo": "Acidente atrasa chegada do Flamengo a Santos; torcida recebe jogadores com festa",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/07/acidente-atrasa-chegada-do-flamengo-a-santos-torcida-recebe-jogadores-com-festa.ghtml",
-   "data": "2026-10-07T23:58:27+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "O Flamengo desembarcou em São Paulo na noite desta quarta-feira para o confronto contra o Santos, nesta quinta, pela 29ª rodada do Campeonato Brasileiro, na Vila Belmiro. O técnico Leonardo Jardim teve a volta de três c…"
-  },
-  {
-   "titulo": "Possível retorno de Neymar contra o Flamengo agita torcedores: 'Óbvio'",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVZVekdRZW1meHpELTg5bFdzeDhGMnhYYmdvT3dqRFZlX1Q0b3lTTFpYU2wycmZXakNjMjJUeUZhUVUtVWFpbF9RQW9RSUF3b0szN3R2Z1pqb19HOUMyNjMtVkkybFRQczl0UnRQVkc2MG5ONmNLcFlxNGVYNy0wZ2dhMHVwYTRaZFZjNFVjTW9IeUlsbkFJdHZsa09hT3lVaDRCWjZaS0U?oc=5",
-   "data": "2026-10-07T22:14:46+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ortiz e Varela são desfalques do Flamengo contra o Santos; Valencia viaja",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQi1WbW5HQXZkc3Y4cTI4ckFmMDRJaWpRemtUa3JMdHZObGs5VzB4WDNWNnhBYWVJQjV3dTVGeC1SYlpmRFY0dmxiOWM4MjFiaVg0R1cyOXVDSEROZk9WcEp2c2NoTUhCYmc2VWxJZjUzcVdGbVZSSE5CeWpPS01zWEVtWW9udTc3TW8zYzhDcWk1OFFySVMtRk1RZkdvWVlWalhEQ2w2cURSWW5lMzNSTXc5UEZoaE5GOVlJTHZkSTM1V0dSRVpjXzQxN3FlbExPNllEb1JPQ3lXR3N5?oc=5",
-   "data": "2026-10-07T21:45:26+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Com Neymar, Santos divulga lista de relacionados para enfrentar o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzZyM2Z3UjBJS3pkVk11MlMxWVNINDNVeTVvTndMWnZoY3E3WmEyNmhyRExoS0hITUJtQ1Zfby1sLWxQQkhlZVFJbXRYUTM4SjVVaXdCNG1LTzZlMWt6dXZ5aHBpbWNjNDJfQ05Da0llM3VfVXpFMFM5alhUSmNMRDQzQU9yeWRBa0pndElHaTh2UnFMazVFbTE3YS1xUDZGaDBqLXVoX1VaZUxCMnJz?oc=5",
-   "data": "2026-10-07T21:39:55+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Quatro gols, quatro assistências e um pênalti perdido: veja como os convocados do Flamengo se saíram",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/07/quatro-gols-quatro-assistencias-e-um-penalti-perdido-veja-como-os-convocados-do-flamengo-se-sairam.ghtml",
-   "data": "2026-10-07T20:44:25+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Thiago Lima atualiza situação dos convocados do Flamengo após Data Fifa A longa Data Fifa enfim terminou na última terça-feira. E um balanço dos convocados do Flamengo foi positivo. Todos os cinco jogadores rubro-negros…"
-  },
-  {
-   "titulo": "Lorran, ex-Flamengo, faz gol espetacular em treino e tira onda: \"🖋️+🎈+🎈+🥅\"",
-   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/07/lorran-ex-flamengo-faz-gol-espetacular-em-treino-e-tira-onda.ghtml",
-   "data": "2026-10-07T18:52:46+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jorginho, do Flamengo, cita \"gostinho\" por título sobre Palmeiras e brinca se rival tem Mundial: \"Que eu saiba não\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/07/jorginho-do-flamengo-cita-gostinho-por-titulo-sobre-palmeiras-e-brinca-se-rival-tem-mundial-que-eu-saiba-nao.ghtml",
-   "data": "2026-10-07T17:40:40+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Thiago Lima atualiza situação dos convocados do Flamengo após Data Fifa Há pouco mais de um ano vivendo a sua primeira experiência no futebol brasileiro, Jorginho, aos 34 anos, já conquistou uma Libertadores e um Brasil…"
-  },
-  {
-   "titulo": "Flamengo tem desfalques importantes para enfrentar o Santos; veja a provável escalação",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeUxab204UTlMRnpkZTViN2NfVjFQVVhKOGo3OExpUy1NRFJ6cXV2S08yUHZxYk9uSnlMZnlVM1JheEIxTkpRUkJOYXlodU90WGtpel9SaWIybVB5TUlTMXVkQzFWT2hIalFyV0p6TjUzeW1fNnpaNUg2VHRtb2FXSWw0bGFUNTJyelk5VnBxaS1JcDU1N3V2YlBMSExUemNmdVdwRVBselBGU2tIdTNoa2xzTnZKZm9yY2lrT3lIRlYtZw?oc=5",
-   "data": "2026-10-07T17:38:47+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Com Pedro e Lino, mas sem cinco jogadores, Flamengo divulga relacionados contra o Santos",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/07/com-pedro-e-lino-mas-sem-cinco-flamengo-divulga-relacionados-para-jogo-contra-o-santos.ghtml",
-   "data": "2026-10-07T17:32:11+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Santos x Flamengo: informações e palpite para o jogo O Flamengo divulgou a lista de relacionados para o jogo contra o Santos, nesta quinta-feira, no retorno do Campeonato Brasileiro após a Data Fifa. O técnico Leonardo…"
-  },
-  {
-   "titulo": "Com ajuda de Neymar, Santos repete Flamengo como novo patrocinador e mira até R$ 50 milhões",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcDhNOHRTUnFFUGx3bkF3RTNFbFdyWGVndkprcFhlV0hjLWJ6aWEtLWpVNWx4YlJEN0ZkNkprVHI3NnFEX213eXJGU2ExaWlrbjdEZHBnam9GVmFjeDcyOVZtcnpGUjVkWU1GNXpWQU5FTloydzBpZ3RsVG4wX01nQ0pEODhwdVBXckhqMURiTTd5dE9vVUdGQk9jUW1xZV9ZaDJPVmVMUFdsM1dScDd4RUN5VHJyUlhuaTFWVzhDZDRfa3FqZkxmckdhVkZlaDhLc1doR1J6RUkyTTUwNWI2S2dYdVQ?oc=5",
-   "data": "2026-10-07T17:08:48+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Santos x Flamengo: onde assistir, horário e escalações",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXNhNUtsY281RFpKUDRCTkdXRk1zQnB1WXhMNVNyTHk4alg1ZUstUWUxMEFzSy10X3FOYmRkd2hFUFlPUWI4TUNrdFljbGcza0ZUUEowbXNqWVJ1amhSR3NOc3VoX0lXSWRPYk91cldGelZpeG1xTjAzbktvRTNPaUNIeGg3TGsyUXRmYkNIUlh2Qi1obXRycEhJYmQ?oc=5",
-   "data": "2026-10-07T17:06:02+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mauro Cezar Pereira: Fla e Flu desembolsam milhões com Maracanã em licitação que Vasco contesta",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSFZHYmNLNWFxZTFqNHBQQnJRMFRyejBPMHh6dER1RE1JeHRSbmdzTW1VMDBiZFB1QmRlYnZzSVZZb1p4aTIzSGE2VEZxZWt4eE40dlBNbWtSZVEtaFlrVm1fQk1KOTRXX05tMW9JaGhQSmlNN29hNlJnZ0lpbU50SU03bWdsemtxZGR5SkE5MkNCT3FFeGh1VGxBS1FoZ3hOb1hMQmlpMndpX0ZNTTZvcUpOODE1S2JDOUNEVXpFclBkRlNNa3RBa2Z2ZFpSUnNkOWN3Y0tWRm1CNEk3RVU2TU9rOERkVG9Wd2VXeg?oc=5",
-   "data": "2026-10-07T17:02:59+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Fluminense ao vivo: onde assistir, horário e escalações pelo Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU05kb29yMkZ2cEo5aHRIbERaeDBRamp6T1hPRHd5b1c5dkJhVGMzTjRuNlpWMHhDLWJ6VEN0UUFJaFJfUWJJUERldGtUTHAwUmlvR0hsekh2V2RXajJSSXFBSi11d294RkdBOHd6bktWNFFnUlVMR3FlV2NvU3JCYm1UV3Qyc0J3VEhuWlBvSTY0NU1ndkZzWEhaLS1Zd0M1NFl0SG5jRmNERDZ6RlBUMXBFQ1R2aU04T2lSWkxVM0pQVHZjMHJ6dUphbUNPVzF6cHZnTVU5Zzhxb0pMNjBKNndFcGI?oc=5",
-   "data": "2026-10-07T16:20:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Seu time faz gol de falta? Quando foi o último? Veja o ranking dos últimos dez anos",
-   "link": "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/10/07/seu-time-faz-gol-de-falta-quando-foi-o-ultimo-veja-o-ranking-dos-ultimos-dez-anos.ghtml",
-   "data": "2026-10-07T14:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja todos os gols de falta de Hulk no Brasileirão \"Meu time nunca faz gol de falta\". A frase é comum entre os torcedores brasileiros e, de fato, eles viraram raridade, mas o Gato Mestre levantou os dados dos últimos de…"
-  },
-  {
-   "titulo": "Flamengo tem bons números após Data Fifa, mas carrega alerta",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXdfZGlJdzVPd1hTb1FrVUE2Z01nQVFQVnNBaDQ3Tk9WQzNab2ZUY0tqa2lwaU9BQmZyeklkWHlLSmhvM1BlMDR2TkhncjZqTlAtVTFRTGR6NlFxdEtDVEkwZVJvWWxLa08zUl9YaFlYclNxeVBtazFYMWswUUJUbVh0VjFjODZMV3dLb2pBSE9VVTdhZUY3V3ZPSk4yUWs?oc=5",
-   "data": "2026-10-07T13:36:34+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   }
  ]
