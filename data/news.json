@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-10T17:26:44.539530+00:00",
+ "atualizadoEm": "2026-10-10T20:40:18.254960+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 29
+   "itens": 31
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,128 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 62
+   "itens": 61
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 85
+   "itens": 82
   }
  ],
  "itens": [
+  {
+   "titulo": "Mauro Cezar Pereira: Flamengo pagou até conta de luz atrasada do Maracanã, antes de assumi-lo",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVlFUElEckJYMU9zWll3dDM4OTdBVTFlckh3eVpLeEF1ZjJCR0pLNktSSllPeEx1T2d2bGRiMnRrbzFHcWF6R0paZEpCazFYSUZORG55eFczZXlyZmllUk1vTm5rbnpoYnlGMDFVbXRlT1MzeHRRMk9TTVhnUGN2MWlWSkhyd3Z4bmVEdmIxZlJNa1VkOXpCZnBJaDR0UkVVek02SHRIV1J0Skc0cTRWX3dyQWQ2NXhTZUpPSWZsaERJMHRQYnRoNE5tUjhJRHlVUFMyeWtiMGt6d1dNR2dpVi1hdUljelgt?oc=5",
+   "data": "2026-10-10T20:27:52+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jorginho ultrapassa em 2026 pelo Flamengo número de expulsões da carreira; relembre as situações",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/10/jorginho-ultrapassa-em-2026-pelo-flamengo-numero-de-expulsoes-da-carreira-relembre-as-situacoes.ghtml",
+   "data": "2026-10-10T20:18:57+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo x Fluminense - Amanhã, a partir das 17:00, na Globo O Flamengo não terá Jorginho nos próximos jogos do Campeonato Brasileiro e da Libertadores. Suspenso por cartões vermelhos, o volante já ultrapassou em 2026 o…"
+  },
+  {
+   "titulo": "Patrocínio na camisa: Flamengo reestreia ‘velho parceiro’ em jogo contra o Fluminense",
+   "link": "https://colunadofla.com/2026/10/patrocinio-na-camisa-flamengo-reestreia-velho-parceiro-em-jogo-contra-o-fluminense/",
+   "data": "2026-10-10T20:05:48+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Após 17 anos fora do Manto, a marca reestreia nas costas do uniforme rubro-negro com bandeirão, mosaico de mãozinhas e vídeo no telão do Maracanã A Lubrax volta a estampar a camisa do Flamengo neste domingo (11), no Fla…"
+  },
+  {
+   "titulo": "Flamengo x Fluminense: onde assistir, horário e escalações pelo Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTW00SU9Gd1VoRWprS3VBLWJSb1NPS0hibmxLZDUxNTVEMkFVREowaEx1YU5HTFA0dEViam5BeE9sMV8tYlVTZnVkcS1kV3BfQ0RidHoteGwyN21zbGFBX2J6N0ljRXZXd0NwdWdEeTBSbDI0U2NDc1I0UHdCcUFuVzVJV1pBVlk3OVYxY0hjS2dNaGpTY21oaXJLaFlzV2Z2OTRSREJ3RDhtSG5DU1g0RWttSzdfWVN2?oc=5",
+   "data": "2026-10-10T19:59:52+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Daronco e Toski no clássico paulista: a escala que azedou Fla x Palmeiras",
+   "link": "https://colunadofla.com/2026/10/daronco-palmeiras-x-corinthians-flamengo-escala/",
+   "data": "2026-10-10T19:44:27+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "CBF escala Daronco e Toski em Palmeiras x Corinthians, rival direto do Fla, três dias após os erros do empate na Vila A CBF escalou Anderson Daronco e Rodolpho Toski Marques para Palmeiras x Corinthians, neste domingo (…"
+  },
+  {
+   "titulo": "Fluminense terá time misto contra o Flamengo no Brasileirão; veja provável escalação",
+   "link": "https://colunadofla.com/2026/10/fluminense-tera-time-misto-contra-o-flamengo-no-brasileirao-veja-provavel-escalacao/",
+   "data": "2026-10-10T19:40:01+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Marcão quer evitar desgaste antes da ida da semifinal da Libertadores contra o Palmeiras, na quarta-feira (14), no Maracanã O Fluminense vai escalar um time misto contra o Flamengo neste domingo (11), às 17h30 (de Brasí…"
+  },
+  {
+   "titulo": "Flamengo e Fluminense citam Vasco SAF “em recuperação judicial” após vitória no TJ-RJ sobre o Maracanã",
+   "link": "https://colunadofla.com/2026/10/flamengo-e-fluminense-citam-vasco-saf-em-recuperacao-judicial-apos-vitoria-no-tj-rj-sobre-o-maracana/",
+   "data": "2026-10-10T19:23:46+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Concessionária formada por Flamengo e Fluminense relata a decisão do TJ-RJ, cita a recuperação judicial da Vasco SAF e promete defender a preservação do estádio A Fla-Flu Serviços S.A., concessionária do Maracanã formad…"
+  },
+  {
+   "titulo": "Saiba onde assistir ao jogo do Flamengo x Fluminense, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/10/saiba-onde-assistir-ao-jogo-do-flamengo-x-fluminense-pelo-brasileirao-4/",
+   "data": "2026-10-10T19:07:50+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Clássico entre Flamengo e Fluminense vai acontecer no Maracanã O Flamengo enfrenta o Fluminense neste domingo (11), às 17h30 (horário de Brasília), no Maracanã, pela 30ª rodada do Brasileirão. O clássico tem transmissão…"
+  },
+  {
+   "titulo": "Vasco impedido de jogar no Maracanã? Justiça aceita novo recurso de consórcio Fla-Flu por risco de segurança",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85Z1NJZkZCdnpneUZlSGZMTDh4c0lfcmx1MGd2R0R3SU1HZTMyTFlZdFNTYWppVGdISHNEeURwMFFhMDFJbk1leEJFVzJyYVktLTVrX2Z3ZWF3MEFxaWc?oc=5",
+   "data": "2026-10-10T18:47:56+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Justiça suspende decisão que obrigava Maracanã a receber Vasco x Boca; entenda o que muda",
+   "link": "https://colunadofla.com/2026/10/justica-suspende-decisao-que-obrigava-maracana-a-receber-vasco-x-boca-entenda-o-que-muda/",
+   "data": "2026-10-10T18:18:16+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "A Justiça do Rio de Janeiro suspendeu neste sábado (10) a decisão que obrigava a Fla-Flu Serviços S.A., concessionária do Maracanã, a liberar o estádio para Vasco x Boca Juniors. O jogo vale pela semifinal da Sul-Americ…"
+  },
+  {
+   "titulo": "Justiça suspende liminar que obrigava Maracanã a receber Vasco x Boca",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOHJ3R2FxVmpUVVQ3RFJGWHAtOGdHMlByUFAwckVKVmk3UXV0WTg0V0NUUGtua2xwd1FIaDY4amREd0JrNEplaGphTVp2Q2o3QkpNNU04dUpNMTBueVMzT0JpZjlHNk1DX1hiWFhtcmkyQWNxSXdndkxQY3ZZRlhjS3kzbGtrRnZKVHlvU0Z1OUJGNTdsS2J3Ym1kSzNaWnplcEpaTEc4bU9YdnM1S3BjcUJUSTN1YzQ?oc=5",
+   "data": "2026-10-10T17:51:27+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Justiça suspende decisão que liberou Maracanã ao Vasco após recurso da Fla-Flu",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbjlmMHJjVVRVX0x2T0JQd1dRVURRZFlYaDhQV21fd3JNZkxOTHNXZlV5Y1dfV1VzdFh5aUtvWWViNHEzYjZ2Y0syV1RfU3NNUmYzaElHWUZtc2t2RDh6a0d6SDF5SktDRnE2dkVaYWRTZ2t3X2lhNU9WVlNac29kQXNaTFh3c3AxY1RMWi1aWWVFcW5RQjI1QVlvZnNIR3duanJhRllHbVFsUFk1UjhOb2gtSGtsTzIyOTgtYnk2aVFsWHhOZzkwLTJVVXpCclN2cUVTZnpOMGozSHJhZHc?oc=5",
+   "data": "2026-10-10T17:39:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo e Fluminense recorrem à Justiça contra Vasco x Boca no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3hiYXNpc2g0Y3BNa1NXNlR3S3dHVks1NTJnb1dTRGxpSVQtTXVOLUxLNGRtLXl6OWRUOXVXVHVTZ2tsSk9iR0ZBOWV5RmJ0M19neDZWd0Y3THlnOXl4eWxUT1RxQkJ5VjNZNlZNY2lWQnNnakVSdXkxMzkwWHZ0ekxXYzRwaDdpSjV0MG5hR1FCWXBseWwwX1MwSmdaX25rcWNoSTNPMXkwUDF1WXN1ekRLb0NZTTRjLWYwWVpzOWNkNkZic2hvcmpuSEljeVhj?oc=5",
+   "data": "2026-10-10T17:29:21+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Justiça derruba decisão de ceder Maracanã para Vasco x Boca Juniors",
+   "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/10/justica-derruba-decisao-de-ceder-maracana-para-vasco-x-boca-juniors.ghtml",
+   "data": "2026-10-10T17:28:48+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Vasco x Remo: informações e palpite para o jogo A ação movida pelo Consórcio Fla-Flu, na madrugada deste sábado, para não ceder o Maracanã ao Vasco para enfrentar o Boca Juniors, pela semifinal da Copa Sul-Americana, no…"
+  },
   {
    "titulo": "VÍDEO | Veja imagens de lances para cartões vermelhos não dados em jogos do Flamengo",
    "link": "https://colunadofla.com/2026/10/video-veja-imagens-de-lances-para-cartoes-vermelhos-nao-dados-em-jogos-do-flamengo/",
@@ -40,22 +152,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Coluna do Fla fez um levantamento de jogadas que tinham potenciais de se tornarem cartões vermelhos em jogos do Flamengo nesta temporada Não é de agora que o Flamengo vem reclamando de critérios adotados pelas arbitrage…"
-  },
-  {
-   "titulo": "3 clássicos em 4 jogos: veja os compromissos do Flamengo neste final de semana",
-   "link": "https://colunadofla.com/2026/10/3-classicos-em-4-jogos-veja-os-compromissos-do-flamengo-neste-final-de-semana/",
-   "data": "2026-10-10T15:30:44+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo tem compromissos de basquete e vôlei neste sábado (10); No domingo (11), entram em campo pelo Carioca Sub-20 e Brasileirão O Flamengo tem compromissos importantes neste final de semana. Neste sábado (10), o Rub…"
-  },
-  {
-   "titulo": "Flamengo ganha reforço para jogo contra o Fluminense, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/10/flamengo-ganha-reforco-para-jogo-contra-o-fluminense-pelo-brasileirao/",
-   "data": "2026-10-10T14:37:39+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Varela retornou ao Flamengo após atuar pelo Uruguai na última Data FIFA O Flamengo ganha o reforço de Guillermo Varela para o clássico contra o Fluminense, neste domingo (11), às 17h30 (horário de Brasília), no Maracanã…"
   },
   {
    "titulo": "Técnico do Fluminense revela estratégia que utilizará contra Flamengo no Brasileirão e Palmeiras pela Libertadores",
@@ -72,14 +168,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "De reforço nos profissionais a gol de classificação: Joshua é decisivo em jogo do Flamengo x Vasco, pelo Brasileirão Sub-20",
-   "link": "https://colunadofla.com/2026/10/de-reforco-nos-profissionais-a-gol-de-classificacao-joshua-e-decisivo-em-jogo-do-flamengo-x-vasco-pelo-brasileirao-sub-20/",
-   "data": "2026-10-10T13:33:08+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Joshua é uma das principais promessas das categorias de base do Flamengo; atleta já recebeu oportunidade com Leonardo Jardim O Flamengo viveu uma quinta-feira (08) para lá de especial no Estádio Luso Brasileiro. Isso po…"
   },
   {
    "titulo": "Consórcio Fla x Flu recorre para tirar jogo do Vasco do Maracanã",
@@ -106,8 +194,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Dois retornos e até 4 desfalques: o cenário do Flamengo para duelo com Flu",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGJKNkE1WVFodmcwU3lNVy1Zc3RKYTNraVVxUTQ1LVlnS1MxeFNjenNmSk9PYkJmcVBBdjlHWlVIczlSQmZTWkxXckgtaHVaLUtzbk5xeW1rOEVoM2owcXlOWDhrY0NCdzBDMUtTSUpNZ1Z1VlQxaEVld25tVGc2bUU3ZjVPNGlGVGcwc0dDUVNQZ0Q0YXAyMkZiNlRhR2VmRTNSVXgyamZheG1KWDdPWHF3Q0VoWk9Bb1hkWU15b3E0N2tpUVN0Ty11VFN4UlNodEN3ZjFIMzNsdTZOdmc?oc=5",
+   "titulo": "Milly Lacombe: Fla e Flu unidos na vergonha e na indecência",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3p3MmRWWF9oWHp4b1RhLUpmeWVyRGpISlRZZkgtUTByTGYzcGI5RzB5LVFOeXJjNS1iUkhiYkVvYU9GLXk2dDU0ZlVmVFN0WE42Q2NrTnR4RklicDB0eDhNdC1qWHRHVUw2UmEyZ0N5aWpDMFRuNEVaZ1BDakRWODJqUkhGSE1HS1ZDXzF4UUtYSEZfT3AtSGxaMnI5Y0JJTFFPSHE4QkJSR010Z2JQUEZB?oc=5",
    "data": "2026-10-10T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -120,14 +208,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Ida ao CT e retorno aos jogos do Flamengo: veja como está a situação de Arrascaeta",
-   "link": "https://colunadofla.com/2026/10/ida-ao-ct-e-retorno-aos-jogos-do-flamengo-veja-como-esta-a-situacao-de-arrascaeta/",
-   "data": "2026-10-10T11:36:13+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Arrascaeta compareceu ao Ninho do Urubu nessa sexta-feira (09) em meio ao processo de recuperação de cirurgia no punho esquerdo Arrascaeta dá indícios de avanço no processo de recuperação de cirurgia no punho esquerdo.…"
   },
   {
    "titulo": "Campanha vitoriosa do Santa Cruz tem ajuda de campeão da América pelo Flamengo",
@@ -154,8 +234,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Milly Lacombe: Fla e Flu unidos na vergonha e na indecência",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3p3MmRWWF9oWHp4b1RhLUpmeWVyRGpISlRZZkgtUTByTGYzcGI5RzB5LVFOeXJjNS1iUkhiYkVvYU9GLXk2dDU0ZlVmVFN0WE42Q2NrTnR4RklicDB0eDhNdC1qWHRHVUw2UmEyZ0N5aWpDMFRuNEVaZ1BDakRWODJqUkhGSE1HS1ZDXzF4UUtYSEZfT3AtSGxaMnI5Y0JJTFFPSHE4QkJSR010Z2JQUEZB?oc=5",
+   "titulo": "Dois retornos e até 4 desfalques: o cenário do Flamengo para duelo com Flu",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGJKNkE1WVFodmcwU3lNVy1Zc3RKYTNraVVxUTQ1LVlnS1MxeFNjenNmSk9PYkJmcVBBdjlHWlVIczlSQmZTWkxXckgtaHVaLUtzbk5xeW1rOEVoM2owcXlOWDhrY0NCdzBDMUtTSUpNZ1Z1VlQxaEVld25tVGc2bUU3ZjVPNGlGVGcwc0dDUVNQZ0Q0YXAyMkZiNlRhR2VmRTNSVXgyamZheG1KWDdPWHF3Q0VoWk9Bb1hkWU15b3E0N2tpUVN0Ty11VFN4UlNodEN3ZjFIMzNsdTZOdmc?oc=5",
    "data": "2026-10-10T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -184,14 +264,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Jorginho, do Flamengo, soma 3 expulsões em 2026 e supera total de 2010 a 2025",
-   "link": "https://colunadofla.com/2026/10/jorginho-do-flamengo-soma-3-expulsoes-em-2026-e-supera-total-de-2010-a-2025/",
-   "data": "2026-10-10T01:58:29+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Vermelho contra o Santos foi o terceiro do volante na temporada e o tira do Fla-Flu deste domingo Jorginho vive a temporada mais indisciplinada da carreira. O volante do Flamengo recebeu o cartão vermelho no empate por…"
   },
   {
    "titulo": "Vasco x Boca no Maracanã gera memes sobre gramado: 'Deixem arrumadinho'",
@@ -240,14 +312,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo x Fluminense: informações e palpite para o jogo Pode chamar de acaso, já que os dois times mandam seus jogos no Maracanã, mas nos últimos 24 confrontos pela Série A, a equipe mandante neste clássico tem dificul…"
-  },
-  {
-   "titulo": "CBF divulga áudio do VAR e banca pênalti e expulsão de Jorginho em Santos x Flamengo",
-   "link": "https://colunadofla.com/2026/10/cbf-divulga-audio-do-var-e-banca-penalti-e-expulsao-de-jorginho-em-santos-x-flamengo/",
-   "data": "2026-10-09T23:02:34+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Comissão de Arbitragem considera corretas as decisões de Daronco após revisão por “Dogso”, mas não revela os outros lances contestados pelo Flamengo A CBF divulgou na noite desta sexta-feira (09) o áudio do VAR do pênal…"
   },
   {
    "titulo": "Escalação do Flamengo: Varela e Ortiz voltam ao time para o Fla-Flu",
@@ -394,6 +458,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Alicia Klein: Protesto por bets: diretoria do Flamengo esnoba sua torcida",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3duTjZSLTJOVmVxTWdVQzlrdHk2dkpBT2hNa09nWkxFcGpwbzVxeG1hRmRub3lZeGRqOHUxX1RhRWFxYzhxUktLN1RFTXZ3UHRoaGxHWTlxa19qYzFvMnN0NjM4eGVTcW1vajFlNnZpemFyd0FGcVBvVHl5c3hNNENnUjdvaHNpM1p6eGR0WFAzMnpYNmFJdGlQM2dKRVNxelc4bnItQlc5aWNrMC1vZ29PUkp5V0VjWXJHSTc1bDV1LVU?oc=5",
+   "data": "2026-10-09T17:37:57+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Veto às bets: Lula debocha de protesto do Flamengo e sugere que clubes virem SAF",
    "link": "https://colunadofla.com/2026/10/veto-as-bets-lula-debocha-de-protesto-do-flamengo-e-sugere-que-clubes-virem-saf/",
    "data": "2026-10-09T17:34:21+00:00",
@@ -402,7 +474,7 @@
    "resumo": "Lula voltou a se pronunciar sobre as bets no futebol O assunto do veto às bets voltou a ser tema de discurso do presidente Lula. Nesta sexta-feira (09), o candidato à reeleição citou o Flamengo, um dos líderes do movime…"
   },
   {
-   "titulo": "Flamengo detona arbitragem após polêmicas contra o Santos",
+   "titulo": "Flamengo faz críticas duras à arbitragem contra o Santos e aponta prejuízos pelo título",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQallTOTFWNkVEUTV0bHF1SzM5UzBfUDgwUTI3Y1lPT3ZhN29LbTFPOEdhV0YzWWY0SlBnYXAtT3RCM0xGY0lNaC1ESEN1a0gwcmRZVTFFZTd4SDJVTDYtcFRMNDhoQnI0VWMwZU9xYVU4T2xibWdnSkhGRTlmbUhqZ2ZIbkFQai03NEZXQXRHdFdWOUZzNnVRMnZCRjlDbHBMZUtpNHZVdlRwa3E0R3hIU3ZWcmtSazJrNkhyc2RCYkhZeEM3?oc=5",
    "data": "2026-10-09T16:53:25+00:00",
    "fonte": "lance",
@@ -522,14 +594,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Alicia Klein: Protesto por bets: diretoria do Flamengo esnoba sua torcida",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3duTjZSLTJOVmVxTWdVQzlrdHk2dkpBT2hNa09nWkxFcGpwbzVxeG1hRmRub3lZeGRqOHUxX1RhRWFxYzhxUktLN1RFTXZ3UHRoaGxHWTlxa19qYzFvMnN0NjM4eGVTcW1vajFlNnZpemFyd0FGcVBvVHl5c3hNNENnUjdvaHNpM1p6eGR0WFAzMnpYNmFJdGlQM2dKRVNxelc4bnItQlc5aWNrMC1vZ29PUkp5V0VjWXJHSTc1bDV1LVU?oc=5",
-   "data": "2026-10-09T13:37:57+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Daronco tomou dois pontos do Flamengo, diz Juca: 'Pênaltis não aconteceram'",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcWJZY1BRbWF3d2ZVRkF6UFptWnNlNV94bzdzc1o2TFhaOVRreXY0bTZNLS16S015d2dyUTl2VGR0XzZ4WUNBbGYzZDY3X0NUbWFueUxuc1RJeXVpbFhPQ1E1dl9oSGkzQzdmdUNQSVdBcGtiM19LUFJpYUhyMFVNaExlUEdEMFVGeWFvXzNPYU9nTHJBRW56MDdvaXFidHZjc1RreGx2WUlOWGlDWk5ZbUE0c0xTTnJPNTdsTzgxVlM4T3IzZFhRNUxZZ0VyYXBuYjJaNEdB?oc=5",
    "data": "2026-10-09T13:33:26+00:00",
@@ -562,8 +626,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Fluminense se une ao Flamengo e vai exibir mensagem pró-bets em clássico",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXJoMmdqVVZwMjhUSW5UUEZRc0wtZW92STNfbm9WTHgxdVFMckQzQUx2Mk5JMDNIc0FrZmJ1c1hkUE5RRUhqUVV5Y04tZlFsaXNoRGMtS3RaU3kwMXk1dDk4aDZteVd0X2MwTjFFSkhGa19iaDB1Vjg1M0ZOeFVDMVRmMjlnT2x5dnV5YWJRQ3R6TjFTeEdxcXp2SDZ0blFrNllhNzlDX3JiQ2VZRUF1MUctbVFRY241eEk2R0dicGhBWjJUSTZfTk13VkJzX3pBVGpCWWZsQy0?oc=5",
+   "titulo": "Jorginho expulso e pênaltis: ex-árbitros analisam polêmicas em Santos x Fla",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnNrM2tDM2ZBR3pEak8xT09wLXl5YnJ0YzFsMDZsb3R6cGhPeUotalZCYy1JdUxOa2dqWkdrTVRxSFJkcXRrckxjRDNYcXpTSUlpYUE5YVB4bldTbGxtTHBZWG5lcWh1U3psbzBiaFRPbk14TnlsY2JsTWZGRGxxWGJidzZZTEx3VmRYbFBOLTktTU04Y19VVklId2Z4ZjJHMUxUQ2ZuMGk4VG9ERmJlOW5HWUU5QVU?oc=5",
    "data": "2026-10-09T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -658,14 +722,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Tempo Real | Santos x Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlVzRjE0VmN5T252bm9faUZnZHh2RlNCNWFuaWRIY1ZPNXRTdkxQNm9xQkRuZ0JxeDRocXBVNGQwZzl0aU0zd2RsRjlCeGxWUVR2NHo3bkNoMm0tT2Nib2VLcUN0a2lCWUhhOEQ3XzE3YmppREstRUhlZGJrUzE2R1ZaRUgzc3NQal8tVEJqbExhZzR1dndiSE1n?oc=5",
-   "data": "2026-10-09T10:30:44+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Renato Maurício Prado rasga o verbo após Santos x Flamengo: 'Burrice'",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGVFdEd3U2VCazNVY0dUMkdsZFJtRnV3WGlMcUxPMmpIX0JyUXUwcFdnb3pDRkVpNE91djVtalRXT200eUJ1cDhBMXA2XzFDdHFMci01T3U1Tnp0NndTWUlsLXZ1V01IeGVsbjRpV284dlczTHlqMXM3alFFRmZvZ1k0UFB4VHJhc0FMeUVnNDFPX2xyenRNM3NnZG16MEJENHVHMVU0a24yajhsVGww?oc=5",
    "data": "2026-10-09T09:30:00+00:00",
@@ -690,8 +746,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Jorginho expulso e pênaltis: ex-árbitros analisam polêmicas em Santos x Fla",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnNrM2tDM2ZBR3pEak8xT09wLXl5YnJ0YzFsMDZsb3R6cGhPeUotalZCYy1JdUxOa2dqWkdrTVRxSFJkcXRrckxjRDNYcXpTSUlpYUE5YVB4bldTbGxtTHBZWG5lcWh1U3psbzBiaFRPbk14TnlsY2JsTWZGRGxxWGJidzZZTEx3VmRYbFBOLTktTU04Y19VVklId2Z4ZjJHMUxUQ2ZuMGk4VG9ERmJlOW5HWUU5QVU?oc=5",
+   "titulo": "Fluminense se une ao Flamengo e vai exibir mensagem pró-bets em clássico",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXJoMmdqVVZwMjhUSW5UUEZRc0wtZW92STNfbm9WTHgxdVFMckQzQUx2Mk5JMDNIc0FrZmJ1c1hkUE5RRUhqUVV5Y04tZlFsaXNoRGMtS3RaU3kwMXk1dDk4aDZteVd0X2MwTjFFSkhGa19iaDB1Vjg1M0ZOeFVDMVRmMjlnT2x5dnV5YWJRQ3R6TjFTeEdxcXp2SDZ0blFrNllhNzlDX3JiQ2VZRUF1MUctbVFRY241eEk2R0dicGhBWjJUSTZfTk13VkJzX3pBVGpCWWZsQy0?oc=5",
    "data": "2026-10-09T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -735,6 +791,22 @@
    "data": "2026-10-09T04:38:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo abre dois, mas Neymar entra, brilha e garante empate ao Santos",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZlFtazl0dUVwMy00QW1BcjlaUjlicldyOFVkSHBTLVRoWE9ybkZndDhmVXVMck5GVEpBaDVhZktrUXlJWk5rWnNOWndHV1B3Z1FDVm1pcEV2TU9FY2lnb2R4ZU91NWNHMzBIUldXMXFnMEZ3cHV5RVIzS2VDR0ExZmRhNm1HbHB5MVNQQ2t1a3lEWkxCSkhXQTE4bUFHSkR5eGJiRWRmVlFCZDYxSjktSGpvZ0JYS00?oc=5",
+   "data": "2026-10-09T04:36:30+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Juca Kfouri: Neymar estraga a noite do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEJMd2Z1b3dqR2RTc2J2amMxelg2VlVYbDV3aW5xQ25rcFdYMlhLMXRMZnhYVTJ2bW44OUh3XzJFTTZRSzN5ZXFHMWZwOEpfcTAtTGdFaVN2a1gzNXJUVnpzcDdGbUNhSU05am41c1RBRkxoV2VmNkRyV2ZaY0c0bA?oc=5",
+   "data": "2026-10-09T04:36:19+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -1018,22 +1090,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo abre dois, mas Neymar entra, brilha e garante empate ao Santos",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZlFtazl0dUVwMy00QW1BcjlaUjlicldyOFVkSHBTLVRoWE9ybkZndDhmVXVMck5GVEpBaDVhZktrUXlJWk5rWnNOWndHV1B3Z1FDVm1pcEV2TU9FY2lnb2R4ZU91NWNHMzBIUldXMXFnMEZ3cHV5RVIzS2VDR0ExZmRhNm1HbHB5MVNQQ2t1a3lEWkxCSkhXQTE4bUFHSkR5eGJiRWRmVlFCZDYxSjktSGpvZ0JYS00?oc=5",
-   "data": "2026-10-09T00:36:30+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Juca Kfouri: Neymar estraga a noite do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEJMd2Z1b3dqR2RTc2J2amMxelg2VlVYbDV3aW5xQ25rcFdYMlhLMXRMZnhYVTJ2bW44OUh3XzJFTTZRSzN5ZXFHMWZwOEpfcTAtTGdFaVN2a1gzNXJUVnpzcDdGbUNhSU05am41c1RBRkxoV2VmNkRyV2ZaY0c0bA?oc=5",
-   "data": "2026-10-09T00:36:19+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Neymar faz dois de pênalti, Santos arranca empate e impede Flamengo de abrir gordura no Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTjVZYUhuWjdSOGl3NnI5NFVrUXdNWnZoWm5KeFhMdTVRY3pZQkx4ZE5HblVsMk42OUdLLUw5d3lYZklISHBOUTJlWHpxWS1OOWRKZkVxcVhsUVUtLVpqTU9mWlFJSGdtSE9nRUhCSTRCMnFka3ZTUmRtejVkZFBnOU0wSDN4NWptalB2ZDVJQjJ0M2lGcTdCdlRnNU9URGdZLUVHdlFXWWltTVBFVjAxSnNJRnRGVERNbTNlZjd3VVlnTlJnbGhxTU5sTGY2NVg3SDgzeGhUb3FxMFE4ZngzLXVCWQ?oc=5",
    "data": "2026-10-09T00:36:00+00:00",
@@ -1175,62 +1231,6 @@
    "data": "2026-10-08T21:49:10+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jogador Sub-20 do Flamengo comemora classificação sobre o Vasco com gesto obsceno",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/08/jogador-sub-20-do-flamengo-comemora-classificacao-sobre-o-vasco-com-gesto-obsceno.ghtml",
-   "data": "2026-10-08T21:46:07+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 (4) x (3) 2 Vasco | Melhores momentos | Copa do Brasil Sub-20 2026 O meia Joshua, da equipe Sub-20 do Flamengo, comemorou a classificação da equipe com um gesto obsceno, em partida válida pela Copa do Brasil…"
-  },
-  {
-   "titulo": "Flamengo tem Pedro e Samuel Lino contra o Santos; veja a escalação",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV004MU94WlFsN0xqWU5sbk9XMkI0OUI5b1hoVDQ4eFM5YXZWWjdrVzE2NmZRWXdHMUlvMThZZmdpM3NmaTJhYkRNNENEVlNCWUVSanNHNGFmSENWa0FEaDhRZzlRZmdIeGx1RlFZZFNWNEVoMGpNUGE2Rm9BckV6ZV82RXNocU9nRFNNMGktX1ZZVDJOdHVTQ3cxWjRoVEpaWkloUGVPR0RHZzcyZzNqNUVEYmd3SDRQN28tMUthUFZKTnI0cUNDNg?oc=5",
-   "data": "2026-10-08T21:44:44+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Santos x Flamengo: onde assistir ao vivo e escalações do jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWU1U0o3Y0tUS285bHRjMXJWTHRrby1aNzYxQVdYc1VfbHVTOTRHdXU3dFBNNlJqRWp2U1R1SVd4bFI0anlJU08wMl9GWWFqOUhQYUlMZlhoMzZWa3ZIMkU1dEc4QUQ4NGF6azNBXzlTY0JBdE96UTUzaWdMVTNaOVdoM3pfSi1hWG1xUEVfWThLWlZuMEVvSm5GY2JXLTh3NERiQl9XSXJhZENWTFFocklPajdVcmFWVmtGMjNsUkd0LVNWT0FsZlhR?oc=5",
-   "data": "2026-10-08T21:34:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Com Coutinho, Santos está escalado para enfrentar o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzhGaF9KMG9tTGZpNy1zS1JRU0UxRHFXQlBZNVlRcFI4NDliNmRCRjY0dTd3aVUwNmVMT3pIWkdTaUNDcHVyNzFaUnJZVER2cHFkcWFrSE9WTHB5LXNZVXpDMHF0LVJXZEpEbUJXaE8xZFdkTFZjM0tLb05xUDhIWUFPMjRpZUUtdXRqSWhBT2hJR2I4UmhXSUJhdHQ?oc=5",
-   "data": "2026-10-08T21:33:06+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jardim define substituto de Arrascaeta para Santos x Flamengo; veja escalação",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNTZTQ2tHTEplbUFXcm4zWkY3VWkxSm9CLWJ3UTdHSE1Hd1g0Uk9kUVFYUE52bVNuR1lDdXF2RHp4cmFNUzJMTHBuVUZ0c05XTUJXcG9JX3MxTGZhRGszM1ZxejNYOVpLc0VObTY2Q0w0X1NuQUh3SGlhVnRNeWJrd2hjMXpuQ3NCMTc2Q0o5SjZDYko5QVpPUDg3R1VQUFhBdlBoazlvSUpJeWFwOEExSnZNVlNEQy1J?oc=5",
-   "data": "2026-10-08T21:31:04+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Veja onde assistir Santos x Flamengo ao vivo nesta quinta-feira - TNOnline",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc09RRFRNb014ODd0N0IzUWNkVXJneHZsdDB6ZWg5ZERkeHRMaDZBSlZMZW04b1ZaMlM2Q1NlVGNjNTg2WUdhQjdlVGRxUHJhdlY2Tl9ZZUtYanJKc0JCYURUTzdaTE5VbnQzOS0xYXpJRHBJQ2wzUW1sbTJDYWJ2T09iNWZ1TjNwVWNJaWlYVnNuVU1MczFIS1hhQ3dtcDBCSWZidHcycWg1VFpqa291WG94Q21lQmtZ0gHDAUFVX3lxTE1aR0wyRV9uNzFBN2JpUkczbjVrbFBtNW9VWm1oMXZIeF9zREFuVUF1UlRSMFRSSWtrVlBrdl9WazZrSkFRWFdXNjVwVnhoMktxdzZ5WGJNek11MW95ckZZR3NYTlV2OWVjbEE0VWZfcWYzWXcyUEFyRVRlMFU3QkkwU1Ywbk1tNEtFVDB2cXVQM0tSOVBqWTFmbE1CMHJiTGFoTk5YbzRGVEpqV3N0eDV6Rm91eFA3TWF0MjdoZ1FNb01pOA?oc=5",
-   "data": "2026-10-08T21:16:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Vai passar no YouTube? Onde assistir Santos x Flamengo ao vivo hoje",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR0NWeHlzRTNYYWZMRVYwY2NRUUZwY25zTDJ1b19zZUlqZnQ4ZmpzQlMtMm11czV1R3QwMWtXdXV6TVlPWmZlQWVtV2QtekpPQUtON2phMjMwQl9tVG9aTWdOSDFVYXhvTm5pVFhVQXFuaEw2OGNkN2xyUDc1clZpOWpOZlZnMldYNVRhSUk1WC1VQ25rYmgxMDBuY1VhWTQzZGc?oc=5",
-   "data": "2026-10-08T21:15:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
