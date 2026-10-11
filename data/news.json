@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-11T06:21:22.211317+00:00",
+ "atualizadoEm": "2026-10-11T13:26:05.118546+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 32
+   "itens": 33
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,192 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 68
+   "itens": 70
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 82
+   "itens": 81
   }
  ],
  "itens": [
+  {
+   "titulo": "Cinco duelos que vão decidir clássico entre Flamengo e Fluminense",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnNYR2xDTlRNWDBNT1BPMnFIY0k4U3E1dFFKaHMwOTV0S1VOa054ZkRTZzB6YVpKMWUwN1gyYjBEYUpqWHRYQ29QWUxkS3RMNG1ndUtOeXlQaGVSeTA5Nk92YUdlWHllaU5Lc3JicUJaMFRlaUVBZEczV3NiX1BmaEo3U0RyRTFSbF82cVo4SjhFQ09jY1RQUnQ2SzdCVjh2NDNaWUplVldGbEU?oc=5",
+   "data": "2026-10-11T13:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Em show, Zayn Malik troca camisa do Flamengo por uma do Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhETDNXSEhKdU4tSko1dU5CLXZlUzFvcVBmeUx4Ty1FX2h2M0laUVU3ZmRZdHo5YkJKSzVZZmRtZ0JYQjdnMmF1ZzcxZGtid2VsVWVMVkgtYVF2MzhsQUQ4aE5fQVNhbWJ1d0RHZTB6NnFMaTJJVG5GNk9HMHNwUVVyWXVKNVN1Vi1rRF9tRW83dW4tTlZLMlhBX0wyeTNBYjVSN2lBZDU3Zw?oc=5",
+   "data": "2026-10-11T12:51:23+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Fluminense ao vivo hoje 11/10: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUlyaFAzamt0QjRrNjlNbV9xNWVqLWh4blc1UEt1RXBwRXFyMkM0dmkyV0JGX1ZkWF9ZcEJhV2FTN2RXeE01V2ZPaVNRLXljU0sxQ2R4QXpBLW13eTlrVUlqWXFjNDlvTnB4LUJ5dVk1WGVlQWV3OURMYWg4Y2tlOFlBVTZXamQ5dF9HTlJ5QllMMUxh?oc=5",
+   "data": "2026-10-11T12:47:09+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fla e Palmeiras têm rivais em comum por taça: quem pode 'decidir' a briga?",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVZnRGFwMDVGZWcycEtnUnV4bjhBZnd4UldPMGpWQUIzemZ5UnZYOU5CZDZHM0FqVmpzV3ZzZWlUU215Si05blJKNlY4dUFncE1hUTdRLTczendXRXJtM3haOXVaQlkzRkpoelpjMjhiSUd4NlQtNTBNWDIybUZFLWV0Zy1hbDRHME53RE8ySmo1VVlDN3I0ZGY3S1JKRWZKVDNQOV9DY2R0bzhhZWFIX3RSVmJEOVdpVWhyWTB6NS1OVUFnYjUtVw?oc=5",
+   "data": "2026-10-11T12:09:29+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogo do Flamengo hoje pelo Brasileirão: que horas começa e onde assistir",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnNIS3pNcDBtOFdPdkc3eGF0UXhxWE95VGIzUy1qU25DSGRydlB3dnZSYkw0WW9Kejg0YUpwNHJJMnFRbWpXaWM4c0JSdGw0XzE1eUN0T01mUkptTEVydXhlS05Ma01Ca09UTTVta0dETTdnVlE5WUJwdHhUbjZxdTBRMW1ja3g3MVEyTzdVOFIwMnUyYTlzTkd3blZhNmJQcF94UWlQVjZuZzlWdFVhZzN4YzVyOXdZM3JSVFVqU21qQ3EwTk8xaVhSU3J2czVv?oc=5",
+   "data": "2026-10-11T12:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Zayn, ex-One Direction, usa camisa do Flamengo em show no estádio do Palmeiras e se desculpa",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUDFEQlMtaEQyWEpoS1Q1X0FCd1ZNaHJnMVZyQ0NPeVlPell1VDNiV3NHbDY4UndBYmpyOVV6RzJacjRtSl80LWx1ZDVfdklCakFZUDVINXpGMDNxX3F1YjYwTjdRR3YzTGxDNUhabUZOaGVSbEYtLVdBMkthdnBqdm9GY2FjOUU5N1gtNndPTWVnWWNyaWlmUGVtRVdqN0dldjdaTFFmTVVzaTE0ZjZscGwzX3BDdnpha1NxNkotdWVRVDBxbjRHRWtWLThEX3pGR21adG1FTTFPVmM1TXg2bUJqb0F0aEc2T3ZSVmdQODA1N1E?oc=5",
+   "data": "2026-10-11T11:55:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fla-Flu tem clima de aliança nos bastidores na prévia de possível final",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUFQaGdhaFhXekxreTZ2dzRFczJTOEJhY0FsTVUxYzVyamhaU0lSM3JmSXhzWGZfQ2lURVFaeUFzZjZycjI5emVMSTJGeXFVRFlGdXYzRDNTM1NfdXJxbU5hZmhjc1Jxc3pjMUtSUVN3QzNNd0ZMWFpfcGhiV0JoNmtwYXhCOThfV1hRaThTRnVUYXp0bTMwaGNkNkluRFRRcHhjQnB6TDNScF9QQU9NNWZYc1lCSVFiWXFhdUpnaTNoRDRNZnFXVFh3S1BXeWNYWE1GZ0owQ0M?oc=5",
+   "data": "2026-10-11T11:53:07+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogo ao vivo, escalações e desfalques: saiba tudo sobre Flamengo x Fluminense, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/10/jogo-ao-vivo-escalacoes-e-desfalques-saiba-tudo-sobre-flamengo-x-fluminense-pelo-brasileirao/",
+   "data": "2026-10-11T11:38:08+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Saiba todas as informações dos times para o clássico deste domingo (11), no Maracanã Flamengo e Fluminense se enfrentam neste domingo (11), às 17h30 (horário de Brasília), no Maracanã, pela 30ª rodada do Brasileirão. Pa…"
+  },
+  {
+   "titulo": "Fla-Flu de veteranos: experiência marca clássico entre Flamengo e Fluminense",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObTdkckRqdE5LVjVQMVoweHZ1VnlfQVZoX0FKTERDZ3ItLWxZMDBjWW9GVnJmR2EyY2VTNklpQktvMTdzdjkteVhKWmhzUC00X3ZRSGx6ZmFuYlJnUW01cnFHcDhTbm5IVWIxZS1KaEVNdmd3N1gwWExfb0dfcUx5ZXVPTXRfMkh2V1ZDckRXaHdYSnhIWGx1em91WlFOd2ptd3c3a01RYzlwWEtWeG0xUkQ3UGd5V2ZtSGtrY2kwYw?oc=5",
+   "data": "2026-10-11T11:25:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo perde margem para erros e projeta jogos \"extremamente tensos\" em disputa com o Palmeiras",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/11/flamengo-perde-margem-para-erros-e-projeta-jogos-extremamente-tensos-em-disputa-com-o-palmeiras.ghtml",
+   "data": "2026-10-11T11:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo x Fluminense - Amanhã, a partir das 17:00, na Globo O tropeço contra o Santos na última rodada do Campeonato Brasileiro tirou a margem de erro que o Flamengo tinha sobre o Palmeiras na liderança. Separados agor…"
+  },
+  {
+   "titulo": "Cantor britânico, Zayn faz show com camisa do Flamengo em estádio do Palmeiras",
+   "link": "https://colunadofla.com/2026/10/cantor-britanico-zayn-faz-show-com-camisa-do-flamengo-em-estadio-do-palmeiras/",
+   "data": "2026-10-11T10:50:40+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Zayn disse que usou o Manto Sagrado na Nubank Parque, pois é fã do Flamengo Zayn Malik chamou a atenção em show na noite desse sábado (10), em São Paulo. Isso porque, na apresentação na Nubank Parque, estádio do Palmeir…"
+  },
+  {
+   "titulo": "Carrasco do Flamengo, Castillo terá nova chance no Fluminense",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEJtM0xlTWRDNll6Y0daOVBqM2VHWDlYcHcxRmhWajJoRGRILXVpNnh0aDcwWlhDMlJrQWFtZ0FyQldTWThuU1ZidjlBdWljTUwxSHk0UWVXekc0UmJoTzlrQmRWUFR4SmxmX1F2bWk0V2MzTGVqTU9NaEItU3UtaFduaWNaby1FS19tdEpuMHBaYW9NNkswbU1hazRoLVVVbG5Iak5WUHZoSTNUd1NxT2NSTXNKYV8yVlRlelVtNi1WV2F0a1E?oc=5",
+   "data": "2026-10-11T10:15:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo defende topo contra rival Fluminense em duelo quente no Maracanã antes da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN3JXWG1QTnNPdjg5dERVWjR3V1M2cmpFMGJRRjMxRFcwTHpTNTRvdVQ2UUhDd1djTFZrRllScW41TmZHN2ZOdEhlbEVSbW5WNWdKU1ZGODNncHY4amYzR09TeEp0QjBJZVBBbnBFMXgtQjlxUFFmU21IZ2pQc0hqaGRiUG1ZWUlxdU4xaUZPYXdyNXhIaVpqeThkb3lTajgxWjJLWVhnb0pVQUdfRThQTjBjNWduQjlXVVE4RE5iMWttMTduMEhaLU1JUERtUjk3blN0eUsyTXBSLXZYc0lvR1NYZTFHSDZzR05sNEs1aXpYVnBSYjNCNUxR?oc=5",
+   "data": "2026-10-11T10:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Fluminense: veja árbitro e VAR do Fla-Flu",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGhneUhCcVk2Q083STZxVV9xeUNXVTcyV1NnVjJwbGhxTUxVRlpRNk5vVXdxS3FLWkhjOTFqTkZoNi0zSlhfMVktUWR3dkxkelZmSkt3RkdTRzFTcXNBcUFHNV8teDJZMWZUZnNFUHdFTGtqYTBNdWg0T2h3SDhwcWNCTE5Bd2p3RDRGRkdUQzhhSjlleng3ZFcxUGJmNFRRM2xIWGFwS2hra0s4SHJpdEhvVkF5Y090ajFudHhwZzc?oc=5",
+   "data": "2026-10-11T09:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "IA crava placar de Flamengo x Fluminense e Palmeiras x Corinthians",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHhQeFFoZU14bkR3MnlpbGhnRXJMOV9neFFNT1lBdHFFa0V5NmhnTTZ2dHZnaE4zVF9PZktreC1DdkVxZkRoUUZUcFVRT1RoUHhlbER6M2trUmwtWmRINTlEV1ZQNDNzdlpNbV9rMlNxVjJHTGdobG13TFpuZWZjZUN6VnJZdkpmdkEzVjl6Nm1UV2Z6djhmdnlIVkpRTm9nSWl2ZS1LeW1FWFR3T2ZV?oc=5",
+   "data": "2026-10-11T09:10:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Fluminense: horário e onde assistir ao jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMmhRMnJvbVRKbXlITEVWZ05IVGd6SkZST2JIN1F6ZTBTeGlDM0c1MEtfYUdIbkVOOGtrWDBwME9kVVR2UFJWeHJfZmcweG5YWkJXVUV6VFpqd1ZoaU85QmF2NmpSaGk4Nm50SmpmT0gyVnk5Uy1pblFWS2pPbjhMSFhCdDJfcy1VNnJWcmVtVXBZaWRIOG13ZnJRWVRGd2I0dnQ5OVdnYmFlOEtLYmd1WmJHUlR2akZBSWlQNldoSFotcFNNY184QW5tVDE?oc=5",
+   "data": "2026-10-11T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Parceiros fora de campo, Flamengo e Fluminense conciliam interesses e rivalidade no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY2VtTDBkZ2xpOFhnMm5zMW1qcFJCRFAwUmJEY3RIekhKV2tKQTYzRFI2MkF6UG9QSkdHcjJNU21zc1lpR3Jocml6c1VWTGZ4U2MwWHkxcUtBZE9MN3BBbGI0TlBBWG4tX3JLblNsUTJLR01xaHNpd3ZPa1lqYnhNU2g3YkwxRG02dnVVd1Y4NTFYZmZITEh1Q2U3RkhEMTMtUjhVWXFWV2dHTkFxLVd3cklmX3BaTlh3TFJscG1neHV6dWhwU3Zhdm9BWGxtZ2VGdmxMeg?oc=5",
+   "data": "2026-10-11T08:25:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Caipirinhas, Copa de 2014 e quase ida ao Fla: Fred abre o coração à ESPN e repassa erros e acertos da carreira",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNc3FHM1pCWEJiYVotME96c0RyenA3QW0wdFpObWZDYTd3LTJkaEhhTk9zX0YwLVlPTEk3X2ZJNXQ3R05BWmpDOE9IdFZMeVd5aTJoUVdlOWJBQndKSE5pOTNHc2Q2am1lQ0hDYkNmcTl5a1ktU0RsMlhEeVFDMlpRT2NvWGI4ZHpHcmEwVnUxTld1R0NGY0RMc1ZnZDZPTmFnUHBjRU5UXzM3MVJ0UHZpNWR0TlVEYXVCSHBJT215VjYzUWplalNvOVdCQzJ6SFNPTHYxUVd4NjE1bjJZNDg0X1pMRkZLMFIxb25nRDFVc1F5Njg?oc=5",
+   "data": "2026-10-11T08:00:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Fluminense: onde assistir ao vivo, horário e escalações",
+   "link": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/noticia/2026/10/11/flamengo-x-fluminense-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+   "data": "2026-10-11T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo x Fluminense: informações e palpite para o jogo Fluminense e Flamengo se enfrentam neste domingo, às 17h30 (de Brasília), no Maracanã, pela 30ª rodada da Série A do Campeonato Brasileiro. TV Globo, getv e Premi…"
+  },
+  {
+   "titulo": "Primeiro show solo do Zayn no Brasil teve direito a camisetas do Flamengo e Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkcjE3MWtHdUZpN19GRUM1bzVlVlJFNmZaYnBtVVpQTGN4YkZjcjNfa0Q1TUo0bG1WTUh2QVJ6R0JvR045djZ2M2NDaW5ydFFQQjRvQk9fbTRsVmVhZlgtc1NUempZcDQ?oc=5",
+   "data": "2026-10-11T03:23:51+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vasco entra com recurso, diz que já vendeu 46 mil ingressos e pressiona Justiça pelo Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXVHWFBmS0xvdV9makNNcExFOW1iTHBZemx3X0p3Y3VSUHJ1akQxeG4xTHF1elA1WFUzTWxoRGFERTFRVldSc1E5amdycTFFaGpPeW9wX1RGMVJRbHItbHFHOGJ6VU5VYW1SZHhIWUx6MU5jMC1PbXRHZ3I3czRJM2Z6YnJUNjRENk0yQ1JPSUFURmpPc3VCN1dQUnZBTk5Yb0RpTGxFQUtsOFN2NXNfOUZLbHFLSlJTbjVKSUtnOFBVX1VpX2FsekhVSQ?oc=5",
+   "data": "2026-10-11T03:18:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo alfineta Palmeiras em publicação: 'Dominando'",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTlDVFdNU1FyMXVBdmJSdjlHMUFodS1qLWZ4dndnZXJQZklrUWZQVXd0OHNyQW03QmFZQVhlQk1oYkpKYnpYNEVOODFOci1fY3JsN1NwNVdST2dLRmFQYWotSjJvX1ZLNW1sZnBJSmVydHU2cnJkWXpBTXZqUmdGTktuaGRTOWFUWWNqQkhTS0RTdDd5bzVsMDJQSQ?oc=5",
+   "data": "2026-10-11T02:36:40+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Zayn Malik usa camisa do Flamengo em estádio do Palmeiras e comete gafe",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTU1WU2k0ZDV5bk13N3FkNUNnR20za1VHLVRmN1JhbDBkX0Zjd3JYc2dmQU1hUlJEcGRQRzhNaDhkMHJscEowRzBuemtMSy1DZ19sMkY0eHBSTU9qQW5EMFpzOTRnN1NCOHZ6YWE4d0piTjhobUJSUVVxREotWFhJN0J1eHFOa2ZuOUlDMnNSM2trQ2VfbnFFMF9vZFZMZG9lVUs0WGc3azQ3cGt0a21TWWs0LW1Ddw?oc=5",
@@ -98,14 +274,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo x Fluminense: veja comparação dos números das equipes em 2026",
-   "link": "https://colunadofla.com/2026/10/flamengo-x-fluminense-veja-comparacao-dos-numeros-das-equipes-em-2026/",
-   "data": "2026-10-11T00:00:22+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro soma mais vitórias e gols na temporada, enquanto time tricolor registra mais empates antes do clássico pelo Brasileirão O Flamengo enfrenta o Fluminense neste domingo (11), pela 30ª rodada do Campeonato Bras…"
-  },
-  {
    "titulo": "Flamengo x Fluminense: clássico gera dilema entre os clubes",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTWJvLVJRcTY1VHBpN1hLdUlFdVFSRjRXNDNRcmtkb0p2LTI4YUtaQ0MydmtiSjFtQk1QMFpsNVRuNFNDU1YwOF9TSXNoR3FBN1VtLWdqYkxYNTBxWE1Ea2YwdFlLSTdSZ2hJYjhVT2tiNUJkSi05V05DaTFFTzlEYTdEakp4VzQtZnd1dk1fcTAtLTN3VjhvSnRjTmQzXzNReXNweGF3TFVidjlvbTFyUG14Y3hibGdrUi03LWppSlBhZw?oc=5",
    "data": "2026-10-10T23:37:06+00:00",
@@ -160,22 +328,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo x Fluminense: informações e palpite para o jogo Domingo é dia de os torcedores do Flamengo matarem a saudade do time no Maracanã, depois de longos 21 dias de espera na Data Fifa. E lá no setor Leste Superior, e…"
-  },
-  {
-   "titulo": "Com reservas, Estudiantes empata último jogo antes de encarar o Flamengo na Libertadores",
-   "link": "https://colunadofla.com/2026/10/com-reservas-estudiantes-empata-ultimo-jogo-antes-de-encarar-o-flamengo-na-libertadores/",
-   "data": "2026-10-10T21:57:46+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Estudiantes (ARG) poupou jogadores visando o Flamengo, na quinta-feira (15) Se o Flamengo vai com o que tem de melhor para encarar o Fluminense no domingo (11), o Estudiantes (ARG) adotou outra estratégia. Neste sábado…"
-  },
-  {
-   "titulo": "Flamengo x Fluminense ao vivo hoje 11/10: siga placar agora | Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUlyaFAzamt0QjRrNjlNbV9xNWVqLWh4blc1UEt1RXBwRXFyMkM0dmkyV0JGX1ZkWF9ZcEJhV2FTN2RXeE01V2ZPaVNRLXljU0sxQ2R4QXpBLW13eTlrVUlqWXFjNDlvTnB4LUJ5dVk1WGVlQWV3OURMYWg4Y2tlOFlBVTZXamQ5dF9HTlJ5QllMMUxh?oc=5",
-   "data": "2026-10-10T20:48:13+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Monaco repete vacilo do Flamengo, mas time de Filipe Luís segue líder do Francês",
@@ -314,14 +466,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Dois retornos e até 4 desfalques: o cenário do Flamengo para duelo com Flu",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGJKNkE1WVFodmcwU3lNVy1Zc3RKYTNraVVxUTQ1LVlnS1MxeFNjenNmSk9PYkJmcVBBdjlHWlVIczlSQmZTWkxXckgtaHVaLUtzbk5xeW1rOEVoM2owcXlOWDhrY0NCdzBDMUtTSUpNZ1Z1VlQxaEVld25tVGc2bUU3ZjVPNGlGVGcwc0dDUVNQZ0Q0YXAyMkZiNlRhR2VmRTNSVXgyamZheG1KWDdPWHF3Q0VoWk9Bb1hkWU15b3E0N2tpUVN0Ty11VFN4UlNodEN3ZjFIMzNsdTZOdmc?oc=5",
-   "data": "2026-10-10T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Milly Lacombe: Fla e Flu unidos na vergonha e na indecência",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3p3MmRWWF9oWHp4b1RhLUpmeWVyRGpISlRZZkgtUTByTGYzcGI5RzB5LVFOeXJjNS1iUkhiYkVvYU9GLXk2dDU0ZlVmVFN0WE42Q2NrTnR4RklicDB0eDhNdC1qWHRHVUw2UmEyZ0N5aWpDMFRuNEVaZ1BDakRWODJqUkhGSE1HS1ZDXzF4UUtYSEZfT3AtSGxaMnI5Y0JJTFFPSHE4QkJSR010Z2JQUEZB?oc=5",
    "data": "2026-10-10T12:30:00+00:00",
@@ -346,11 +490,19 @@
    "resumo": ""
   },
   {
-   "titulo": "Fluminense terá dois reforços importantes contra o Flamengo",
+   "titulo": "Fluminense terá volta de dupla importante para o clássico com o Flamengo",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX19Da3VpZ2ViVkpmRVRlM3R5bGo5eWVTeXJubmNxVDlua2xmdGFrSkJpSEZGRWlsaGJaZ0p3M3BncEJ4YjhJVC1hMV9YaTVlTGptNkJubDNLLV8wSUxvNnZWSkUtQ0ZZZkFVczk2NjVPUldwdHBfMmhfeVhLWFlJYmp1OTAxSzVHMUk2N3NvWEotLURGQUl4c3VDOWRBaU9xekx3Qk1GQms0em5CNnFvUlRYaw?oc=5",
    "data": "2026-10-10T10:05:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Dois retornos e até 4 desfalques: o cenário do Flamengo para duelo com Flu",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGJKNkE1WVFodmcwU3lNVy1Zc3RKYTNraVVxUTQ1LVlnS1MxeFNjenNmSk9PYkJmcVBBdjlHWlVIczlSQmZTWkxXckgtaHVaLUtzbk5xeW1rOEVoM2owcXlOWDhrY0NCdzBDMUtTSUpNZ1Z1VlQxaEVld25tVGc2bUU3ZjVPNGlGVGcwc0dDUVNQZ0Q0YXAyMkZiNlRhR2VmRTNSVXgyamZheG1KWDdPWHF3Q0VoWk9Bb1hkWU15b3E0N2tpUVN0Ty11VFN4UlNodEN3ZjFIMzNsdTZOdmc?oc=5",
+   "data": "2026-10-10T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -482,14 +634,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Fluminense sai na frente do Palmeiras no Maracanã? Flamengo começa bem contra o Estudiantes? O palpitômetro das semifinais da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xc3BfNHJ1WUJRc1FIeDVISFRnd053bWJVRVZJUEl6R3prbmhpUW1NQTRfTzFpNzBFR0wxTzZzbklHQVJJSm5wcmF0Y0ViZndkTDBhU1ZPd19heTBDcXc?oc=5",
-   "data": "2026-10-09T21:24:08+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "CBF divulga análise do VAR em expulsão e pênalti de Jorginho no Santos x Flamengo; veja",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/09/cbf-divulga-analise-do-var-em-expulsao-de-jorginho-e-do-penalti-no-santos-x-flamengo-veja.ghtml",
    "data": "2026-10-09T21:15:38+00:00",
@@ -511,6 +655,22 @@
    "data": "2026-10-09T19:37:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Perdas de bola geram expulsões, e Jorginho chega a 18 cartões no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVVMRDhYcmR1OGVXeVJMTjQwS2pUNkl3aG1IOXlLYWFHTTg5YV9OSlFFaTZxZm01S2xBS1Uyek1HNXREb01qanNVUEVFd0NCMVNxWm5odFVMeXVXREx0MGJSV2g4V0JIMHR6enNqYUduMmI5QXBPUHBmZHFQV3RuZTVBUVhNRjFvVndwbWVZMkZWNU44ZUJEQ1ZFMEw2OWNnNGI5SVByei1qSDlPd0xsc1FpeFZUQmFxZnJ6Z0hpaVRkZjVEMmRDUjFucDlVSC1CX2FNcWVNNG1QQk91?oc=5",
+   "data": "2026-10-09T19:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fred explica por que recusou o Flamengo: 'Seria um erro irreparável na minha história'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qVW9fQzh5bGpKRTVvR1NyY2xDTnBudnlCMlVqXzNhZVplRHE4UmNlUEFsUXRibzJzM01wbTBIaGRkR293R3kzUDc1WFNmYmpkSzVTWHd3TmtRdEs5Tnc?oc=5",
+   "data": "2026-10-09T18:59:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -634,14 +794,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Perdas de bola geram expulsões, e Jorginho chega a 18 cartões no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVVMRDhYcmR1OGVXeVJMTjQwS2pUNkl3aG1IOXlLYWFHTTg5YV9OSlFFaTZxZm01S2xBS1Uyek1HNXREb01qanNVUEVFd0NCMVNxWm5odFVMeXVXREx0MGJSV2g4V0JIMHR6enNqYUduMmI5QXBPUHBmZHFQV3RuZTVBUVhNRjFvVndwbWVZMkZWNU44ZUJEQ1ZFMEw2OWNnNGI5SVByei1qSDlPd0xsc1FpeFZUQmFxZnJ6Z0hpaVRkZjVEMmRDUjFucDlVSC1CX2FNcWVNNG1QQk91?oc=5",
-   "data": "2026-10-09T15:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "\"Ô Paquetá, filho da p...\": dublagem mostra Neymar pistola e clima quente de Santos x Flamengo",
    "link": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/10/09/o-paqueta-filho-da-p-dublagem-mostra-neymar-pistola-e-clima-quente-de-santos-x-flamengo.ghtml",
    "data": "2026-10-09T14:52:53+00:00",
@@ -698,14 +850,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Jogo de Neymar contra Flamengo vira destaque no exterior",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45ZVhidFJfWlRXODBfa1pDV0d3ZUdidy1tUVBUc1FZY3JMV0pIN1JwMTJlV25RTTVrdXZla2stcnlKejF2TGE1VHJkenBTeVZsc3pSREpzM0xleGJTVHBDZTlSS0Q3d1k?oc=5",
-   "data": "2026-10-09T13:09:30+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Jornalista critica atuação de Rossi, do Flamengo: 'Colecionador'",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnNldVp6Yzg4SHA0N1FsZEhyR1VwWW0wem8yTWg0dDNDQUxtUmFIUXRKaU16WUlDTHJ1VjBqN2dodVZkYXI2cnNRSGVqWVplSGZpZ1ZoRG9ITXhyREVMbDllRlRzUVAwN19FTDU5VkF3dkR1aDViLUpVaW1tTHRWcE5YMFB1RlBRWVJZWjJIekRWbjZoM0ZWR0hxSFBPaGcyRFlCTnZUdw?oc=5",
    "data": "2026-10-09T13:06:53+00:00",
@@ -730,8 +874,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Falta de avanço em briga pelo Maracanã 'empurra' Vasco para o Nilton Santos",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTHA1MU1QajVRNlJXVy1BQUZoZlVRRnhMM2Fqdk9RLXBVNjRXN194N0hoNDJTR1hzcGpuSV9lcDMzckROY1ppck13Z1hUSU82M0FpSU85RDVQWTdLYUc2UDJrVmRrNHFSQlE0VE4tbUJaTWdoTVhsNlhxaGRScklWRURKZWd5VjFIeVprbDdEZ0VGN25ReW96X3Y4aFRxOU5fYXJKd2Rmd256UjlXZHpuZWREVW9ublcxMkVXQjlRZ1czcnhhbUFhZkpOY3NhUHIyTmVjek9OTW45bnVQMkE?oc=5",
+   "titulo": "Mauro Cezar Pereira: Colecionador de falhas, Rossi é, inexplicavelmente, intocável no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQblJOZzRBNlZ0Rk9iSk53YVQ1cXBqSDhLbGE4eV9EbVItY1hMMkE4RFIweThlUjBhTHR3TDZEZmIxcE5xN3VmaXFjTjh5SExwaUhpN04wUUJKeUNveUpnZFAwUU5CX1FJRjJfdFNKR0JDYy1vY3NEandsbEI4WGhBalZIaVBKRWJZRGtveU1zdkQ5dU14ckRYaXh2emxNemRKV09CT2FmUlpTWERGeVBZWDNCb3lKTDVWWHh5RFR3R2tSUkRnMkxZRmItMlZPMmdSeTU1RW00b0JVYnV3MHRvTGdQZS12TUE?oc=5",
    "data": "2026-10-09T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -844,14 +988,6 @@
   {
    "titulo": "Fluminense se une ao Flamengo e vai exibir mensagem pró-bets em clássico",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXJoMmdqVVZwMjhUSW5UUEZRc0wtZW92STNfbm9WTHgxdVFMckQzQUx2Mk5JMDNIc0FrZmJ1c1hkUE5RRUhqUVV5Y04tZlFsaXNoRGMtS3RaU3kwMXk1dDk4aDZteVd0X2MwTjFFSkhGa19iaDB1Vjg1M0ZOeFVDMVRmMjlnT2x5dnV5YWJRQ3R6TjFTeEdxcXp2SDZ0blFrNllhNzlDX3JiQ2VZRUF1MUctbVFRY241eEk2R0dicGhBWjJUSTZfTk13VkJzX3pBVGpCWWZsQy0?oc=5",
-   "data": "2026-10-09T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mauro Cezar Pereira: Colecionador de falhas, Rossi é, inexplicavelmente, intocável no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQblJOZzRBNlZ0Rk9iSk53YVQ1cXBqSDhLbGE4eV9EbVItY1hMMkE4RFIweThlUjBhTHR3TDZEZmIxcE5xN3VmaXFjTjh5SExwaUhpN04wUUJKeUNveUpnZFAwUU5CX1FJRjJfdFNKR0JDYy1vY3NEandsbEI4WGhBalZIaVBKRWJZRGtveU1zdkQ5dU14ckRYaXh2emxNemRKV09CT2FmUlpTWERGeVBZWDNCb3lKTDVWWHh5RFR3R2tSUkRnMkxZRmItMlZPMmdSeTU1RW00b0JVYnV3MHRvTGdQZS12TUE?oc=5",
    "data": "2026-10-09T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1096,142 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Santos 2 x 2 Flamengo | melhores momentos | 29ª rodada | Brasileirão 2026 Santos e Flamengo empataram em 2 a 2, nesta quinta-feira, em jogo muito movimentado na Vila Belmiro, válido pela 29ª rodada do Campeonato Brasile…"
-  },
-  {
-   "titulo": "Neymar cutuca o Palmeiras após Santos e Flamengo: 'Grande jogo dos 2 melhores times do Brasil'",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQmJ4cFY1bHlKdGNzOU9STE0tcHB0d1VoVFp2MVhENndkczhSTmZGZ3RxYUtaYlZmUHgwMkZjY2V3ckMwZHBWTml2azNFbW1sRFZkUldlQUUzZFIwaURiRFpsX25FS0J0Vnl6VGxQdGt3ajRrX1MzQi1aTWx4N2czYUliZ3NiRy1idkNjSndhekV0RlU3QUFDTmpvaGFGd1ZPNGdYQXVHSkR3bkNqLXlpWGFLVjlZTkpBUHYzVkxUTlZLRHRjeXM1SU9oMk1yeldwM1ZNMXQtYnFZMnpmVmM5MDZRWkR0VUxaSUoxQ08tMHhrSHB3?oc=5",
-   "data": "2026-10-09T01:05:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Torcida do Flamengo manda recado a Jardim após empate com o Santos",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWt1aUtuMzRaaGFabFE5d29lblQzODRySnhvTUVHUzVDXzFUVFZDejkzTjd4UXdRNU5qUVBUQWF0WnY5OVRkeU1FdzZWc3MxS1A1NTVHNGQyMmNfZm5RRy1GejdLM2VoTVVHVFNybldlOFEzQXc1WEJnMTNXekRPT29vZE5xZ2N6VTFqaWRKVk96dUYyT3hzMnRCOUR0d01qUzMxcDhHdjJxVHdtSFFj?oc=5",
-   "data": "2026-10-09T00:58:11+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Inimigo de si mesmo",
-   "link": "https://ge.globo.com/rs/blogs/vida-real/post/2026/10/08/inimigo-de-si-mesmo.ghtml",
-   "data": "2026-10-09T00:52:47+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Santos 2 x 2 Flamengo | melhores momentos | 29ª rodada | Brasileirão 2026 A Vila Belmiro lotada viu o Flamengo repetir um defeito que era mais recorrente antes desta fase mais profissionalizada e madura do clube. Do nad…"
-  },
-  {
-   "titulo": "Santos 2 X 2 Flamengo - Gol Neymar- Brasileirão 2026",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk51MU9KaWQ1ZnpvRW1RMXlyNmsxMG8yUk8wNjk5bmFMVURHUE9ES1VrajJYU2VfX0RjMDFMSXBKMFpoX3RocUJDYTNuQ2o2aGZsWXZZRExNUDh6RGxPMWFvTTJtM1RfUndTNzdhVmE3MERobkl3SnFOc1puUFpCdW9iUFRDSmZfSFEwSFNXcVZFSHB3aEVLN2RTMXZLZTFId3pQWWMtOFhnTkU?oc=5",
-   "data": "2026-10-09T00:52:36+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Neymar elogia 'grande jogo' de Santos e Fla: 'No Brasil, os dois melhores'",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZGVQTHlLZ29kRm1nTTRGX0VIY3hmN1l6djNRcVB5SEFseEkzRWhxWGczSWhqYjVfc0pNczJrSDhpWEtvMkhaVHNzYzNsaUNrSERDbWhQdDVJRE9RaXhZUGxqMHppSm9lbkZ0OEpZRmczRUp3dWY5QzNRMS1HRGR2TTZJYS1FUzR0STZUbVIzR19McWFxTWlMdVR4MU0xNTRGbmNhQWhXMTVKYmJDaGxlSVhNaU92eFNzSUctWmVkYUs3b0dGNnpGTGNxOVJhaEduQm5oUk1QeFJDeXlu?oc=5",
-   "data": "2026-10-09T00:49:05+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Atuações do Flamengo: Rossi comete erro decisivo e é o pior no empate com Santos; dê suas notas",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/08/atuacoes-do-flamengo-rossi-comete-erro-decisivo-e-e-o-pior-no-empate-com-santos-de-suas-notas.ghtml",
-   "data": "2026-10-09T00:47:50+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Santos 2 x 2 Flamengo | melhores momentos | 29ª rodada | Brasileirão 2026 Initial plugin text Uniforme do Flamengo tem mensagem contra proibição das bets Luiza Sá + Leia mais notícias do Flamengo 🎧 Ouça o podcast ge Fla…"
-  },
-  {
-   "titulo": "Pênalti e expulsão de Jorginho: Daronco acertou no lance polêmico de Santos x Flamengo?",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaHZ4NkhPaFhfTTNwZzQtWGZyVV9LN2FlT01jN0lPSnEweUR3YlRPTHhxUDRkS3dxeTBJU0ptSkg4amF6LTFKamZZRE5LU00yc0ppaHdrX3BlTWp0SFcySTZZMTRvM1VUbG40cVhmd3AyTDlvRk4yS0FvVGNBSmRLTnE3QjF6Vnk1UTBkLXFVcFdpTUdzUzB6SE84OHZJNGFBWHRvNDZwWVR1X0JEcFJYdDhyZTRGMGI1dDNVMlNESGo0OW4zQkw2Q2dIdy1EZkZxZ0FhZkp3?oc=5",
-   "data": "2026-10-09T00:45:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Neymar marca duas vezes, e Santos busca empate com o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGN2cGd1LUozZnBTYXR1Wl9pWUUtVFBVVGRqWlpkMDhZcERFVGR6cW9QczBRTDdiWVlDdUpoZDY3MzRtOWt5RFVuWlkzd3N6ME9kb0xYeXh3ZXBoTUVfWGg2RG02SVpUOWNvSXRkMHBNZ1JYbUUzYzNSQXAzUmk5ZXo1bTdJbExGdUpaZXR2d1BlcWczeUJHMWhybjQ?oc=5",
-   "data": "2026-10-09T00:43:02+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Santos 1 X 2 Flamengo - Gol Neymar- Brasileirão 2026",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0dQZDRDWkQycGY2bjN0ZGJfa1h6ZHc0NUxUeV94YUdhV2FyTFAwbUFGaXVOY2JPNjF3ZXZYSVZhVU1hNUc3Z2lDOHQyMlB1YUxfN2d2TU9JaXZzY0pMUTZfODlLQW1kUVJZaU4xUnJZa3NRNjVDc2lRNm9ucHNrY1hXcjduNlNnTjlrdDZ0RGpJaTJWUmJfMXZ0S3d1cFktRlFfYU12QnhJTnM?oc=5",
-   "data": "2026-10-09T00:41:40+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Neymar anota duas vezes de pênalti e Santos busca empate com o líder Flamengo na Vila",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR1dGYTI1c19Sdjh0RERabXhFVlpqVVZsdWRPU3p2MGx5Y1JvWkxVQzRoekppZEFDUDBQanJRclBUVHZRZFdxQllZRVY4ZkM1TUhNSXNVcW9ESHpOVGdoV1V4UWhzRTBnUUZOa0Y3c1VsZkxtMTR3SFpWTzFGRFVPTlJ0VDBDSENRMzFjdi11WjVERkU3eXZUNHp2aU5oVDhLRVN6Vk8zNFRDWG5VSWFidnREYkdOc1h1V1ljUFpzNFFPU1BWdFh4ZDl3bUdCTUtCZjJFa09aMm9fVVlYaWZoLXpsNHQ0MnNfc0Q4bQ?oc=5",
-   "data": "2026-10-09T00:39:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo larga na frente, mas Neymar marca duas vezes e garante empate ao Santos",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSU5RN2pBNnRTNWR2cmVwWHpVa0hKekIwNTlFa0dpaTRvbDFNa2p4X05QRmRSY3dyZWt6eVIzUUQxZk5CVzNZbC14T3JsN2I4ejBGM01sSHJEMTIyOWZxbENWS2g5NElRU2lJWllVb0pMSlJyYy15ZkVqb0F0b0Y2WmxhT094VDQySjcxR3JtM2hBdXVEYkU3ZF9QMklGenc0RUVjelVUS05hM2tiYXZvSnFxb0UyeWVGcVQ0Ui05a0RZdw?oc=5",
-   "data": "2026-10-09T00:36:46+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Neymar faz dois de pênalti, Santos arranca empate e impede Flamengo de abrir gordura no Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTjVZYUhuWjdSOGl3NnI5NFVrUXdNWnZoWm5KeFhMdTVRY3pZQkx4ZE5HblVsMk42OUdLLUw5d3lYZklISHBOUTJlWHpxWS1OOWRKZkVxcVhsUVUtLVpqTU9mWlFJSGdtSE9nRUhCSTRCMnFka3ZTUmRtejVkZFBnOU0wSDN4NWptalB2ZDVJQjJ0M2lGcTdCdlRnNU9URGdZLUVHdlFXWWltTVBFVjAxSnNJRnRGVERNbTNlZjd3VVlnTlJnbGhxTU5sTGY2NVg3SDgzeGhUb3FxMFE4ZngzLXVCWQ?oc=5",
-   "data": "2026-10-09T00:36:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Neymar entra no 2º tempo, marca dois gols de pênalti e Santos arranca empate do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZzZhYXJFc0FDN2FrMU1DY3ZIZTV4UW5RMzdadTdlQm1USTVNU1ZySTBZYm14cUVjZ3NwVUV6MUN4R1hteGx6cVUtOXM3Q2pxVmJFUFVSODI0bHZtbGdIQTN6QS0zeEZ5UjRKQ05jM2xWOG1YdjdOX3lsNGF6b0h2VDFub2ZkQkZNazg2OW1wbFRTdF8xa3l3SWowaGIyMnJvajNmcGx6a0VJXzRDdmRqbUgwVmJGWmVKTGpXOUlqd1dMeGNnc3hia25DSThjdnhDeWVmVmJGNDJodw?oc=5",
-   "data": "2026-10-09T00:36:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Fluminense adere ao protesto já adotado pelo Flamengo contra o fim das Bets",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0pHMHNjNFQ5Sk55XzlnYzgzM2ttREloQ29yUGFla2ZxM1pENGxrMjMydjJYMFBvM0Qwak5yOEthYnNOWWx1LTdOQnZlNFdBSEM5VmtIVXVzbnA3R1pxSUg1QTAwZlRrRVZaSENnM1NUTDVSVzFTQTBSUV9VclgwQjlsU3BkZGkyZDFJN0RnUy1xNWtOZWhkSEdUMlVBSFdGelpKX1haaWtLd0ZWRFJIaklXUjFVRlk?oc=5",
-   "data": "2026-10-09T00:34:12+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "PC Oliveira dá veredito sobre polêmica em Santos x Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGhzU0d3NDczeUprbWRMazE1QXNLXzh3Z1NYT1RPNXc4aVBuZFVNR3czNFdEWnhtby1vREJxYjVaSy1KNk9BZHFlbDZTc2VUZFktZ2tSSGRVQ2FHTWViNHVlOVp5S3VNaTlsQTdSRkRBdmwzUTkzakt0OXZrNmU3d1pnWjNER2JfbjIzT1YyT1hQQjJDZnFLNF9ER2tVbjFtRkxyNGtR?oc=5",
-   "data": "2026-10-09T00:17:30+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Santos 0 X 2 Flamengo - Gol Paquetá - Brasileirão 2026",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFQ3TWFBNXNFUGx5TWJZRGh1MDNYSm9VT3VzNlloTmhlc2thT0RXOTB0VjJVa3BHQlItUFJtcU1zdUZhVjhDTjdMQUNueTdrZW5ycGZsWFdaMWo1aE9fQ3ZoTW1PbU5fRjg2a2lZcllvWm5kYzhzUzBPM2ZuUTAwaFdmcll6eDd5NjJ3dzV0dWtzQURualRNS2dreEVsZVI5ZDFERVRZYUJlbENC?oc=5",
-   "data": "2026-10-08T23:42:17+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Santos 0 X 1 Flamengo - Gol Danilo - Brasileirão 2026",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa05aSjVONFFFYWtFVnk1cUpCM1k2M2x1M1lIWElvR0VLcmhjYTVsdEVaTGV5S1ppQlhjVnpqX2dwdFhHMnBnVHZScDVpVHZYekVuRkpHcktGcFJCUXVLMjE0WjJUVFV5WFdyYTJ5ckxXdFB6clhzZjlGWWZCS0VpX1gyY3F4bWI0NHI5anIyc3AwSzg0VVNtOEVSNi1URDRmaWZfa3RpNXNfS2M?oc=5",
-   "data": "2026-10-08T23:35:19+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   }
  ]
 }
