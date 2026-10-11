@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-11T00:11:38.344409+00:00",
+ "atualizadoEm": "2026-10-11T06:21:22.211317+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 31
+   "itens": 32
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 64
+   "itens": 68
   },
   {
    "id": "uol",
@@ -34,20 +34,76 @@
  ],
  "itens": [
   {
+   "titulo": "Zayn Malik usa camisa do Flamengo em estádio do Palmeiras e comete gafe",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTU1WU2k0ZDV5bk13N3FkNUNnR20za1VHLVRmN1JhbDBkX0Zjd3JYc2dmQU1hUlJEcGRQRzhNaDhkMHJscEowRzBuemtMSy1DZ19sMkY0eHBSTU9qQW5EMFpzOTRnN1NCOHZ6YWE4d0piTjhobUJSUVVxREotWFhJN0J1eHFOa2ZuOUlDMnNSM2trQ2VfbnFFMF9vZFZMZG9lVUs0WGc3azQ3cGt0a21TWWs0LW1Ddw?oc=5",
+   "data": "2026-10-11T02:16:54+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo vence Brasília e conquista o bicampeonato do Torneio Abertura do NBB",
+   "link": "https://ge.globo.com/basquete/nbb/noticia/2026/10/10/flamengo-vence-brasilia-e-conquista-o-bicampeonato-do-torneio-abertura-do-nbb.ghtml",
+   "data": "2026-10-11T01:49:11+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "O Flamengo conquistou, neste sábado, o bicampeonato do Torneio Abertura do NBB (Novo Basquete Brasil). O título foi sacramentado com uma vitória por 78 a 73 sobre o Brasília no Ginásio Dona Salomé, em Belo Horizonte. Cr…"
+  },
+  {
+   "titulo": "Cantor Zayn Malik comete gafe e usa camisa do Flamengo em show no estádio do Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRFJxUGxlQUdGNW9WT3Q3ekRITnZZUTBMZGdSdGdkR3ZCaWZ4SV94VVktT0oyWHgxaThDbkhNbE9XZG5wcUVaT2FmRzRReHlyakhGTWdXU3dBUTZpNi1mbFlZMXlxNEEyempIYklTdGhnWDNWMDd0anpUV296bUtXN0xFWkNOQW5XdWVFYXNRU2ViMXc0WGdSeG80ZlVibDNPOGdhdktYLXRJZU5fNFZHU29pRVZsUUVIejB2ejJwWjhDNllEdjI0ZkdQRTdXU3FpSldz?oc=5",
+   "data": "2026-10-11T01:41:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Zayn, ex-One Direction, usa camisa do Flamengo em show no estádio do Palmeiras: \"Gosto do time\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/10/zayn-ex-one-direction-usa-camisa-do-flamengo-em-show-no-estadio-do-palmeiras-gosto-do-time.ghtml",
+   "data": "2026-10-11T01:09:23+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo x Fluminense - Amanhã, a partir das 17:00, na Globo O cantor Zayn Malik, ex-membro da banda One Direction, cometeu uma gafe em show realizado na cidade de São Paulo neste sábado. O britânico subiu ao palco do N…"
+  },
+  {
+   "titulo": "Fluminense bate Sesc Flamengo e terá mando de quadra na final do Carioca de vôlei",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUZKc2lWM3hvMFd5QXpuaTJ5Vno5STdxWVFONy1fTDYyNm9JNDNrRzZFNXItS0JrRkRUR0RDdWhBdGVsNUQ3TlhUYjdMajA4UGk5YXJoREpoYUZ3cV8zUzByRDFUTzBUNTUwSDdLbExnNFp0dUtwdVhyeTRNZzJmMzdmbURMc3BiSXJSbE9WYkdUc3BlT2JLQmtFT1YtOXp4XzZNaDlwZmtNMTBTdlNKY0ZjSkk3QlBZ?oc=5",
+   "data": "2026-10-11T00:44:35+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Entenda por que Flamengo x Fluminense não será às 16h na Globo",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmpKQkJld25kU1Fyd1J1RFUxREZNTFhNdGpJSUQxUTItWkxDcWt4VGxIR1NELVdwOGNPTlVXaE9IUmNXMDFITXpPd0UzaVVzRFNBdWJlYmd0SnNpYk9HdVVETFJyQVFQbnpDMllCN3B2VEF3Y3g3YTBvY29RTnJGVzVVeURfYUZqS3FSTllralUzWGlmLUNVVmpZXzF6aGdTMmhrSGl0TC1UZw?oc=5",
+   "data": "2026-10-11T00:44:23+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "BICAMPEÃO! Flamengo vence Brasília e conquista Torneio Abertura do NBB",
+   "link": "https://colunadofla.com/2026/10/bicampeao-flamengo-vence-brasilia-e-conquista-torneio-abertura-do-nbb/",
+   "data": "2026-10-11T00:40:18+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Em jogo realizado em Belo Horizonte, Flamengo levantou primeira taça da temporada A temporada 2026/27 começou de melhor forma para o Flamengo. Neste sábado (10), o Mais Querido bateu o Brasília por 78 a 73 e levantou a…"
+  },
+  {
+   "titulo": "Mauro Cezar Pereira: Flamengo pagou até conta de luz atrasada do Maracanã, antes de assumi-lo",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVlFUElEckJYMU9zWll3dDM4OTdBVTFlckh3eVpLeEF1ZjJCR0pLNktSSllPeEx1T2d2bGRiMnRrbzFHcWF6R0paZEpCazFYSUZORG55eFczZXlyZmllUk1vTm5rbnpoYnlGMDFVbXRlT1MzeHRRMk9TTVhnUGN2MWlWSkhyd3Z4bmVEdmIxZlJNa1VkOXpCZnBJaDR0UkVVek02SHRIV1J0Skc0cTRWX3dyQWQ2NXhTZUpPSWZsaERJMHRQYnRoNE5tUjhJRHlVUFMyeWtiMGt6d1dNR2dpVi1hdUljelgt?oc=5",
+   "data": "2026-10-11T00:24:40+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo x Fluminense: veja comparação dos números das equipes em 2026",
    "link": "https://colunadofla.com/2026/10/flamengo-x-fluminense-veja-comparacao-dos-numeros-das-equipes-em-2026/",
    "data": "2026-10-11T00:00:22+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Rubro-Negro soma mais vitórias e gols na temporada, enquanto time tricolor registra mais empates antes do clássico pelo Brasileirão O Flamengo enfrenta o Fluminense neste domingo (11), pela 30ª rodada do Campeonato Bras…"
-  },
-  {
-   "titulo": "Mauro Cezar Pereira: Flamengo pagou até conta de luz atrasada do Maracanã, antes de assumi-lo",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVlFUElEckJYMU9zWll3dDM4OTdBVTFlckh3eVpLeEF1ZjJCR0pLNktSSllPeEx1T2d2bGRiMnRrbzFHcWF6R0paZEpCazFYSUZORG55eFczZXlyZmllUk1vTm5rbnpoYnlGMDFVbXRlT1MzeHRRMk9TTVhnUGN2MWlWSkhyd3Z4bmVEdmIxZlJNa1VkOXpCZnBJaDR0UkVVek02SHRIV1J0Skc0cTRWX3dyQWQ2NXhTZUpPSWZsaERJMHRQYnRoNE5tUjhJRHlVUFMyeWtiMGt6d1dNR2dpVi1hdUljelgt?oc=5",
-   "data": "2026-10-10T23:43:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Flamengo x Fluminense: clássico gera dilema entre os clubes",
@@ -82,7 +138,7 @@
    "resumo": "Confusão entre Estudiantes e Rosário Central na final da Supercopa O Estudiantes empatou por 2 a 2 com o Central Córdoba neste sábado, fora de casa, pela 12ª rodada do Torneio Clausura do Campeonato Argentino. Próximo a…"
   },
   {
-   "titulo": "AO VIVO: Siga Sesc Flamengo x Fluminense no Carioca de vôlei",
+   "titulo": "Veja os lances de Sesc Flamengo x Fluminense no Carioca de vôlei",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVBWVE0yRVRCaE1PbklpdmdYMV9mMGMzVF9USWV5V1BQOXdZQ3NtdXM1N3M1Um82WE1sR09iZ2lmZFdHVHQwT0VWY3Vrbkhmcnk5RWpMRXZlNVduRkQ2N1dfWjhudGh4X2xOSzE2amVtV0tPT2VCMXE5QXJaREh5RzNzWjBiOEJIMDFQand6MWRzZUkwdWV4RE1DX2E5ZE1YQVE?oc=5",
    "data": "2026-10-10T22:15:00+00:00",
    "fonte": "lance",
@@ -112,14 +168,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Estudiantes (ARG) poupou jogadores visando o Flamengo, na quinta-feira (15) Se o Flamengo vai com o que tem de melhor para encarar o Fluminense no domingo (11), o Estudiantes (ARG) adotou outra estratégia. Neste sábado…"
-  },
-  {
-   "titulo": "Noite de pesadelo para Vini Jr: ex-Fla começa no banco, faz gol anulado e é expulso por puxão no cabelo",
-   "link": "https://colunadofla.com/2026/10/noite-de-pesadelo-para-vini-jr-ex-fla-comeca-no-banco-faz-gol-anulado-e-e-expulso-por-puxao-no-cabelo/",
-   "data": "2026-10-10T21:16:37+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Vini Jr teve uma noite para esquecer no Santiago Bernabeu A fase de Vini Jr não é das melhores. Neste sábado (10), deu tudo errado para o atacante revelado pelo Flamengo. Apesar da situação ruim para o atacante, o Real…"
   },
   {
    "titulo": "Flamengo x Fluminense ao vivo hoje 11/10: siga placar agora | Brasileirão",
@@ -176,6 +224,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Concessionária formada por Flamengo e Fluminense relata a decisão do TJ-RJ, cita a recuperação judicial da Vasco SAF e promete defender a preservação do estádio A Fla-Flu Serviços S.A., concessionária do Maracanã formad…"
+  },
+  {
+   "titulo": "Fluminense esgota ingressos para semifinal contra o Palmeiras no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWgwTUFSVHBEbkJ0eUpZaFo0elVydjNUczZFS204SDE5QTdtVnR3bHNWYS1PN2Y5bDNhbklWanFDTXp1c292ZTVWS2NlbTVnZzhXTENwRlpxSFJTNDNESWZDMk1lWUNtYkJfMmVnTUtpaEoxbTlCVXJfNFRDVkluY19CcUd1aDBLUk5rWkpmenJmUS1yUDBGNjFtWkUtWmZPMzZLUzFINDk0SHFYWlkwVVJMemw?oc=5",
+   "data": "2026-10-10T19:19:05+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Vasco impedido de jogar no Maracanã? Justiça aceita novo recurso de consórcio Fla-Flu por risco de segurança",
@@ -290,7 +346,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Fluminense terá volta de dupla importante para o clássico com o Flamengo",
+   "titulo": "Fluminense terá dois reforços importantes contra o Flamengo",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX19Da3VpZ2ViVkpmRVRlM3R5bGo5eWVTeXJubmNxVDlua2xmdGFrSkJpSEZGRWlsaGJaZ0p3M3BncEJ4YjhJVC1hMV9YaTVlTGptNkJubDNLLV8wSUxvNnZWSkUtQ0ZZZkFVczk2NjVPUldwdHBfMmhfeVhLWFlJYmp1OTAxSzVHMUk2N3NvWEotLURGQUl4c3VDOWRBaU9xekx3Qk1GQms0em5CNnFvUlRYaw?oc=5",
    "data": "2026-10-10T10:05:00+00:00",
    "fonte": "lance",
@@ -962,7 +1018,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Jorginho critica Daronco e contesta pênalti contra o Flamengo",
+   "titulo": "Jorginho critica Daronco após empate do Flamengo: 'Não era pênalti, mas sim falta em mim'",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGJEMlFvcjhFSm5KUzNBYU53eVBtdzhiVnF4OE81bmJ5OENCbDk3M3FTU2d3R0RIcEp5SmdOOUUteTh2dDlzcUlUWlh4R3BvNnh2MjA5RTFyMFpxWFlfZU9YTlRIWWNlWFdrZkhBVHBOTXByejM3UmxTVkZMZDh0SFRKQ3NUSGVTblFETzcyanhIU2dkTC01VFVFZks4Y1ZkdUpsemw0RGJEV29HS0ptSDN0bEJhOW0tR0NlM1gyRV9CUQ?oc=5",
    "data": "2026-10-09T01:55:11+00:00",
    "fonte": "lance",
@@ -1175,62 +1231,6 @@
    "data": "2026-10-08T23:35:19+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Decisão de Daronco em Santos x Flamengo irrita torcedores: 'Piada'",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnZsYWtWdE9IcGpzaFRqdnhiU2ZYbHpQbG9VM05Cc2VudXJJM2ZTMzhTQU5DZjQyN19IS1hZSktPX3g4MzhJM21Hbl95ZUJvUWh3UTN3NnFsV3ZOU0UtWU95NUtOYzZJNHJHZjZNTVpoTzZUQ1p1M0haSlR6bEtFcC15YkwtWVFDOGtpVkJsQ3daQlpJREpEZ3BvLWt3elNwUXlPSW5RcTMyak0?oc=5",
-   "data": "2026-10-08T23:29:04+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Veja gols em Santos x Flamengo: Danilo, Paquetá e Neymar marcam",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSV9HRWNEeEFRV3hzYjVGd2ZmbWNpUzQybDc5c1c2NHlvVG1rMllOeERsZHlyTGRzWVJFQXJXcmJ3WVduU2E5WG5ydzN2MUZaOXpkVWhHbjJEVDJ0S2Y4OFhYSnJoLUZMLTVjeUZTM3l2UFZ5RWV2ekR3Y2I0Z2dkSVU4TDF0LUhUcjlpNkxBbWwwY0txQzhEbUkxb2x6SXdzMFNEXzZfNA?oc=5",
-   "data": "2026-10-08T23:18:40+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Alex Sandro perde a sola da chuteira durante Flamengo x Santos",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/08/alex-sandro-perde-a-sola-da-chuteira-durante-flamengo-x-santos.ghtml",
-   "data": "2026-10-08T23:09:53+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "O lateral Alex Sandro protagonizou uma cena inusitada na partida entre Flamengo e Santos, nesta quinta-feira, na Vila Belmiro. O lateral rubro-negro chutou a bola e acabou perdendo a sola da chuteira, que se desprendeu…"
-  },
-  {
-   "titulo": "Jogador do Fla sub-20 faz gesto obsceno ao se classificar na Copa do Brasil",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbS1Yd0VKWl9CMFlXc3MzZUI0WngySXFlUWlSQ0RLbE9aQzlKM0xza0RvTjdIWnJhVkpoSGJXaHNUWmxnR1lveHRINFFPaWp2Q1Bjak52MUJoTlpPQWVhWVE5RUxUbHktOUh4STVPYWg1SVpsWXVqSHJvM0RYaDRTVlNPZU1NaS1lYXVoak1MaGxwV1NLMTNRMTUzMExyLTQ?oc=5",
-   "data": "2026-10-08T23:05:49+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Transmissão ao vivo de Santos x Flamengo pelo Brasileirão: veja onde assistir",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVUdmY2tzOUxXRXo3WG0wVjI3M3dzTFJwTFpuN3BXcGhqQmpfckNnSjB4NzFSSzNPSFNZNm1uTFRqcDZvbHdsaElzeUNoUHYtbFdIOGd0QkNPSDVVRWlNNTJmQnVjYjhBTVNJM1NjYllJaHd6aFIySlhMV1g1NkFNOEtuYWNBaVk4a3NORVJjaGlxMU90UnBHbkdSdUtaUmFwWE9Ja2JYX1JQdnh3b3JvbGRVWUgySXR1VW9iMEJPd1RMa3hSUDJWVXktam5TY0o1NGF1akhHaw?oc=5",
-   "data": "2026-10-08T23:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Gol perdido em Santos x Flamengo gera revolta: 'Não pode'",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmZtUExfSFJPRFhLaTNGNVZvUGJNVXl0N0ZEOW83Q2x6OEd2QVhZeFNWOXhQQUc4QWxLeGV3QkZCYUVhemNJUUNyS2FRUUh5SnFGMGRjaVJKSWd1U2J6NHVLQ3c2bjcxNUxrMXl1VkpxX2tWNFEwdjhtT2tyV1Ata3pDMGdzbzdoYUpMTEZ5X1I0bHlWTV8ydndPU3phM2M?oc=5",
-   "data": "2026-10-08T22:55:54+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "VÍDEO: Fluminense fará estreia de novo gramado do Maracanã contra o Coritiba",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkZNRTdwVjJvSmROZG8takFYbFdhNkotU1RHVU5IbkY2OHplcG83M2ZSVkFUbkR5OG1WS3NQYnBQaGxpUTQ0N1FzQ2FLN3FIcC1PeTdZMTBOdzVqNkJmR0ZIV2tTcGF6TFlCS2d0TDhmVzF5RWZ6TGtsLTNUOGpELUJSOWZuZGdLMlpxdkIyU2VhWWhOcWRVWjRncEEtU2V5RGVua21vbVBXRmdvRWM3a3VGaU9rdDA?oc=5",
-   "data": "2026-10-08T22:45:40+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   }
  ]
