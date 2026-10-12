@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-12T01:41:49.802521+00:00",
+ "atualizadoEm": "2026-10-12T09:03:51.857703+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 40
+   "itens": 43
   },
   {
    "id": "colunadofla",
@@ -23,22 +23,142 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 58
+   "itens": 56
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 83
+   "itens": 85
   }
  ],
  "itens": [
   {
-   "titulo": "Milly Lacombe: Um Fla-Flu que ficou devendo em emoção, em festa e em gols",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3lsalhIdURwMnNFWklPZlkteDA5cXdBOVlQWDVKMjBXRU8tcy1QVm8zZDY3VlktTFJfMExJSlE3d3lRUjVQZkhFc0VRU1FVQjZIU1hlQnRFV2h1b2pyTkxyRVNFQnAxUENnSHY0cFNuN2h5TkNJY1ZZN21RbTVMVFF2NmVSUEFWakJwU2hscWZtdFpLNmhSZUc2Q1ZybTM2RHpHZVBR?oc=5",
-   "data": "2026-10-12T01:34:18+00:00",
+   "titulo": "O que determinou a derrota do Fluminense para o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcmNZeWVuc1FraFpBUHJsUzlHeGhhWUQ3ZW9mUkxnNmpCSmZSQ0NpUDM4SURvUkJEaUJ4QTVGOFdTWjU2a1VNUGxRSmFFcVg1X2VRYmZNNDU2RzlrY0JZVXlMVjM1QUdvT0NNNmZuNHBocjE2TWxjdjh3VEptcXZZRS1FYy1PaVRSWXB5RmpRbnNySlNGZ3U2LUhHM3l2aUs5VWZReURaVVJmbEgtRm4wemVWcGg0NzJTZVZSRlN4NXBKVElsOTFUYTlibTBFLV9OTXc?oc=5",
+   "data": "2026-10-12T08:50:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ex-árbitros opinam: Pulgar deveria ter sido expulso no Fla-Flu",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUzBNM212MGdJZ3Voa1pGamotbkdrRnFvbE9jbVZBOUpKTDIxeUlsMEo5MVQtMU1VOUwwelZQR0pGb3ZyNEtoV1RZaTNNSVhBeENJNk1jbjQ2X19rUWFwZ0pnUTY5Q3lOZVB0aG5jOTJka3drS3pCRWpjT3RRVVJWTnQ1NG40aWdLYmJJclBYeWJZcnl6bXo1S244bDN0TUZvcTZ6eTEycWgyNjE5bHJzMUV3NzZyTURFMzl3OW5qeVZITXMxSU9ZeHltVVcwTmdDYW5N?oc=5",
+   "data": "2026-10-12T08:32:30+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Carrascal se redime do 1º turno e aproveita vácuo de Arrascaeta no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTnhHdXlFWkxZa0xOTl9sRGtyakh3aXFwQVRtZWZwQWZBTDRTWUN2bW5FSmkyTV9xd1hsQXE2Z2ZJX2tKVVRyNGMxaEwxMDRWM2lwUUZDRDl3ZUgybFd2TUNBanY2TjFfWjNCaGR4SW5BZjNqRkI4WFJtZExjc281V1FtdXN5NmtRNHRsd3NUNlVhX2UxOFloWExyVjBWZzhsTVRzaDlvOEw0UmJhUGZTcXQwV2Q5c1FtbFZfQjBzLVpkQ0xNaHd6WmRsclctc2lVU09oa0lCcEtiNjI0dGRj?oc=5",
+   "data": "2026-10-12T08:32:25+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "PC Oliveira dá veredito sobre polêmicas em Flamengo x Fluminense",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1g1TWlZUHFtRV9EX3BlTG5UZEIzTmRXNE5kdXJSTzdsLTNRZjAtV2I1VE1iTFpKYUJOS3B2YzVHeV9hY0t4bXgxVHB6T3o3Tjc0d3NhQWNFbXpoUjVwNV9aM2xhLUdWME9SR19LaHNyUW9PVTN6SlNRbzBLRFVZSFpNaEkwTHpaZnpJRFNUNU1rZjlUdG1hTWF4Rk1kQ3lWU0h1cm9VYk5hc19u?oc=5",
+   "data": "2026-10-12T08:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Análise: Flamengo é melhor, tem Carrascal decisivo e corre riscos com erros em finalizações e falta de Pulgar",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/12/analise-flamengo-e-melhor-tem-carrascal-decisivo-e-corre-riscos-com-erros-em-finalizacoes-e-falta-de-pulgar.ghtml",
+   "data": "2026-10-12T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo 1 x 0 Fluminense | Melhores momentos | 30ª rodada | Brasileirão 2026 Depois de um tropeço indigesto contra o Santos, o Flamengo teve poucos dias para processar as emoções, se recuperar e fazer a preparação para…"
+  },
+  {
+   "titulo": "Viralizou: gol contra bizarro do Timão, falta de Pulgar, Samuel Xavier pistola e olé do Palmeiras",
+   "link": "https://ge.globo.com/pe/futebol/noticia/2026/10/12/viralizou-gol-contra-bizarro-do-timao-falta-de-pulgar-samuel-xavier-pistola-e-ole-do-palmeiras.ghtml",
+   "data": "2026-10-12T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Pulgar levou cartão amarelo neste lance Três clássicos, muitos gols e polêmicas marcaram o final de semana de jogos do Brasileirão. Além das decisões da arbitragem no Fla-Flu, o atropelo do Palmeiras no Corinthians (com…"
+  },
+  {
+   "titulo": "Rossi demonstra incômodo com críticas após falha pelo Flamengo: 'Cruel'",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPejhiZVFhem0yMWRWbkptdWNJZ0RyZXJTVkJUYUpuMk9BMTBZN2t1M0xHaVpUUzU2WkpBZHBYdHA0M3dWcS1kbG5mX0hmc1NzZ3VnYlhLRTMyRXlBRlVLZzFMZS0xZHhUQ0lTekk0NURacVJuZkFNM0ZMOW03T0xRSElrUzdDaVhrOXhTdEFIbkpwRFNUcnAtUl8tU25YTm9xMFpYS0Qxa3IxNXdMWTdQS1VxQm1wTDh2RVRrR0k4WlBoaVVENFZNMXBGZXA4ek5GTXVyWmpfbw?oc=5",
+   "data": "2026-10-12T04:33:54+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Goleada do Palmeiras sobre o Corinthians, vitória do Flamengo no Fla-Flu e mais! Os gols da 30ª rodada do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zSjdwUGt4YWpqYUpTeURWOG5ka0s1TjdXTmp4ZFlxczZ2UVJsLV9kR3R4NTJMUGV3ZG9MUkJvYlJva1hidVFISkFtLUxIVURvcUI2RTVZZV8zdURPQjFKS1JJRzEtY2c?oc=5",
+   "data": "2026-10-12T03:12:04+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Copa do Brasil Feminina volta nesta segunda com início das quartas; veja onde assistir",
+   "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/futebol-feminino/copa-do-brasil-feminina/noticia/2026/10/12/copa-do-brasil-feminina-volta-nesta-segunda-com-inicio-das-quartas-veja-onde-assistir.ghtml",
+   "data": "2026-10-12T03:01:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Ferroviária vence Corinthians e avança na Copa do Brasil Feminina o A Copa do Brasil Feminina volta nesta segunda-feira com a disputa das quartas de final após uma longa pausa no calendário. As oitavas foram disputadas…"
+  },
+  {
+   "titulo": "Palmeiras não perder terreno para o Flamengo nas próximas rodadas será difícil, analisa Julio Gomes",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vMlVJSk9IUW0zTEpUSTBCWkFtWGZmSlRPdEFIa2NScGUwU0RaTjlNWkFmYkJsbnBsSElvXzhmM2t4UG41NXY0VHRKZFZzTFA0enV2S0I0WDEwVjJBUkJoeEZRM2VfRG8?oc=5",
+   "data": "2026-10-12T02:52:13+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Danilo sofre fraturas na mandíbula e vai passar por cirurgia após choque em Flamengo x Fluminense",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMC14dUdWcVNTRW9DU0Y2SVlzSjlXb2lRMl9zUzNUMGIyQmhpSGFpSnNfYnJfcnFzeHdpT3VsejFQblE2b1FuR2QwNWctUzlIVEFtLXA1V3Z0TWNFYUstSjR0a25CVzZFdlVxS3lKeXZ3Ykk1eHFoQ1lWRkhHd1F6V3lhdXBheTJqR2dCNkhYVGkxMGM2MlZHcENTWkpPQUtHYzJfRm1zeHVrYzNNV050QnhGVEtBV0h3MGVtYlUxUGZJTkpLRmoxVEI4M3VRSk0wams3T3N1NC1ONmNXMFZ0S0FJYlJRdw?oc=5",
+   "data": "2026-10-12T02:38:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Milly Lacombe: Um Fla-Flu que ficou devendo em emoção, em festa e em gols",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3lsalhIdURwMnNFWklPZlkteDA5cXdBOVlQWDVKMjBXRU8tcy1QVm8zZDY3VlktTFJfMExJSlE3d3lRUjVQZkhFc0VRU1FVQjZIU1hlQnRFV2h1b2pyTkxyRVNFQnAxUENnSHY0cFNuN2h5TkNJY1ZZN21RbTVMVFF2NmVSUEFWakJwU2hscWZtdFpLNmhSZUc2Q1ZybTM2RHpHZVBR?oc=5",
+   "data": "2026-10-12T02:31:50+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo: Danilo tem fraturas na mandíbula e vai passar por cirurgia",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUURyNzJ3bENxck4tMXFwa3RTVWlzNmpuUzRoZnNFNUkyeGxZcTRkRzU4bWpJdmVXRUhZUEJjUGVCVlhGa3pOXzdIWnBXWUFmNnZ5dFo4SGh0blB3Q19hbUktSmdxdkRKSDZ4dTQ5U1ZGNm9FX3R5Qk5tbC1JTHh4a1htUERvdHJSeUNUaDRqdVVCZmp2RU1JMjkxbmhwRjd0YnQyV2JXUE1CLXBEamY4d1JXLXJQWFZfYTdLU2FlWU9MbEk3RHRqaGE5YWJpWW9DU0Zj?oc=5",
+   "data": "2026-10-12T02:09:30+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim comenta vaias a Pedro e sai em defesa de Rossi no Flamengo: 'Não sou jornalista para procurar culpado'",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ2JqVUFvZ1ZmOVc0VFpPS09jUTFaN0o4cHZNRzlpSHFPcWZkcktOUmJWVl9veGNvbVY4eVFzTjlzbkhyRFFHNm9UWS03Y3ZCOFk1ZmplS3hydFJWS252QmVzRlBsY2RqMUVzUG5GbDduTVR3c1FlMXluLVBXOW9RWFVKNXlGUjFDSzN5ZXJDVG90cGhSaFFYNEZqT21JZFJmTXB1RjFmNnkxdHllTFpnSnZ6UC1CSEZQYlNJNFA4M0xrQUp3ZjFDalFrZ0hWZ1N3UEVRbnhFMUdpVFVqOWRReWRGYWl4YnctNV9F?oc=5",
+   "data": "2026-10-12T01:49:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fluminense disputava título com Flamengo e Palmeiras? Checamos!",
+   "link": "https://colunadofla.com/2026/10/fluminense-disputava-titulo-com-flamengo-e-palmeiras-checamos/",
+   "data": "2026-10-12T01:42:10+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Samuel Xavier, do Fluminense, disse que equipe tinha chance de conquistar título do Brasileirão O Flamengo venceu o Fluminense por 1 a 0 neste domingo (11) e manteve a liderança do Brasileirão. Após o jogo, o lateral Sa…"
+  },
+  {
+   "titulo": "Jardim abre o jogo sobre má fase de Pedro no Flamengo, crava rápida melhora e diz: 'Se eu o tirar, quem vai ser xingado será eu'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aVHU4T19nV29vYlhydTA1bGdmaktFN1l1MWgxRkZiRTlxTUFFRkJDS25PNEh4R3B0Q01RR25zMU1nVk84Q0dIcEM0Wl9GTUFOeEZtZFpjNjBlVEFZSGc?oc=5",
+   "data": "2026-10-12T01:35:09+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -66,6 +186,14 @@
    "resumo": "Rossi se eximiu de erro contra o Santos e cobrou valorização após Fla-Flu O Flamengo venceu o Fluminense por 1 a 0 neste domingo (11), mas o empate da rodada anterior, contra o Santos, voltou à tona. Em entrevista conce…"
   },
   {
+   "titulo": "Protestos contra veto das bets no Fla x Flu vão do campo à arquibancada",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOek5rMlcyUnZiMG1WRG1pTjNkT1Y5OGZCWHAyb3pLSkMzZjc3YTllakZEc0hVYWN3QnFHWjRqRzhLd1BZenMzZVJvaHltSG5YSnRBSXhoZGthczU5ckVLaTlfb2ZJNWhFa0ZFcHNFREcwOWlvQnVKTS1Mek9fU1dobDVBS0Y5dzBxR1V3S1psZ2VKUHNJbWZLMmVfTGdfeDdCc1dRM2dGTkJ4QmRmZW9KaXYySEpMcWkxOTl6NmNNTzBrM0ZzYkR0RGJPMFBwdjQ1NHJOenk3ZDQtUQ?oc=5",
+   "data": "2026-10-12T01:02:19+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Tabela atualizada do Brasileirão: Flamengo vence o Fla-Flu e mantém 1 ponto de vantagem sobre o Palmeiras",
    "link": "https://colunadofla.com/2026/10/tabela-atualizada-do-brasileirao-flamengo-vence-o-fla-flu-e-mantem-1-ponto-de-vantagem-sobre-o-palmeiras/",
    "data": "2026-10-12T00:57:15+00:00",
@@ -74,7 +202,7 @@
    "resumo": "Flamengo venceu o Fla-Flu, Palmeiras goleou o Corinthians, e a dupla Gre-Nal seguiu no Z4 O Flamengo venceu o Fluminense por 1 a 0 neste domingo (11), no Maracanã, e segue líder do Brasileirão, com 64 pontos. A vantagem…"
   },
   {
-   "titulo": "Danilo vai ao hospital para fazer exames após choque em Flamengo x Fluminense",
+   "titulo": "Danilo tem duas fraturas na mandíbula e vai passar por cirurgia após choque em Flamengo x Fluminense",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/11/danilo-e-encaminhado-ao-hospital-e-vai-fazer-exames-apos-choque-em-flamengo-x-fluminense.ghtml",
    "data": "2026-10-12T00:55:07+00:00",
    "fonte": "ge",
@@ -106,25 +234,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Julio: 'inimaginável o Palmeiras não tropeçar até o jogo contra o Flamengo'",
+   "titulo": "Julio: Difícil Palmeiras não perder terreno para o Flamengo até \"final\"",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMGh4MEF3b2VkWjg2YUdRNmRhUXBtM0l6X0VLNjZqYWlkM25YWm93MmkxbzMtS0RMNHEyVm90R1dLMy1zaEhOclh1VFFfWlhHRTFYZnVvcUZCWUJxRG9SdTF1LWlBS3ZTVVk2U3BsNkI5Z0ZiLTJYQkdLOHZVLTZaZ3l4bnpzWWdQaDZIV01kSXQtMFBjTWJlcVJ4WUhDYlB4YV9DZTZpR3ljV1VwUjk0VS1jUll4ZkI4Qmpjck5kM3IwMHoxNExVUk9saDVmYWxEN0VCTnVvTXhPZFc3?oc=5",
    "data": "2026-10-12T00:41:37+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Protestos contra veto das bets no Fla x Flu vão do campo à arquibancada",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOek5rMlcyUnZiMG1WRG1pTjNkT1Y5OGZCWHAyb3pLSkMzZjc3YTllakZEc0hVYWN3QnFHWjRqRzhLd1BZenMzZVJvaHltSG5YSnRBSXhoZGthczU5ckVLaTlfb2ZJNWhFa0ZFcHNFREcwOWlvQnVKTS1Mek9fU1dobDVBS0Y5dzBxR1V3S1psZ2VKUHNJbWZLMmVfTGdfeDdCc1dRM2dGTkJ4QmRmZW9KaXYySEpMcWkxOTl6NmNNTzBrM0ZzYkR0RGJPMFBwdjQ1NHJOenk3ZDQtUQ?oc=5",
-   "data": "2026-10-12T00:38:38+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rossi demonstra incômodo com críticas após falha pelo Flamengo: 'Cruel'",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPejhiZVFhem0yMWRWbkptdWNJZ0RyZXJTVkJUYUpuMk9BMTBZN2t1M0xHaVpUUzU2WkpBZHBYdHA0M3dWcS1kbG5mX0hmc1NzZ3VnYlhLRTMyRXlBRlVLZzFMZS0xZHhUQ0lTekk0NURacVJuZkFNM0ZMOW03T0xRSElrUzdDaVhrOXhTdEFIbkpwRFNUcnAtUl8tU25YTm9xMFpYS0Qxa3IxNXdMWTdQS1VxQm1wTDh2RVRrR0k4WlBoaVVENFZNMXBGZXA4ek5GTXVyWmpfbw?oc=5",
-   "data": "2026-10-12T00:36:47+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -154,7 +266,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Jardim defende Pulgar em polêmica no Fla-Flu: 'Não foi para vermelho'",
+   "titulo": "Jardim rebate críticas e sai em defesa de Pulgar no Fla-Flu",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2lVekdnWE9Bbk5CSWZ0XzVZemhxR1dCSmY1cFREVkNrRElhcVR3MjFmNWE0NnRxdUxCd19tSTNHbnQyazdwVkdJaWN1WUlEOXh0d3ZKOUtsRW1MbFlUTnVEMkxtUmQtNkpWbE43YkxYRzBiS0FnVFNOWWZXcHlnQ1RFY3pnZzRSSEVTVThDOWhRN0hUdnpjQjJ3bnpoRGxOVm03Ym1Nd28?oc=5",
    "data": "2026-10-12T00:11:41+00:00",
    "fonte": "lance",
@@ -192,6 +304,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Mattheus Montenegro cobrou a expulsão de Erick Pulgar e dois pênaltis após a derrota do Fluminense para o Flamengo O presidente do Fluminense, Mattheus Montenegro, detonou a arbitragem do Fla-Flu após a derrota por 1 a…"
+  },
+  {
+   "titulo": "Presidente do Fluminense detona arbitragem de clássico com o Fla: 'Um lixo'",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcUlFV1ZacWFLSFNReDFLM0dKRlhaRVR5THl4NE9vVkp0YWhhUzg2d3hHeVRjMHZfelpJdnFqSkhYai1sZGNJaDJad2lzbm9UY0czSmRfYUVTX1NTQlY5a3J6dGtPcmZGcWFLQU9UY3Z4eUs4QVh0NGV0MkhnQXlkMzRIVkFWSFpPRUpsOGlxMVFlbjlqTFJYSnFueEx0aUxiVGY1QzFWNjVMakNVajkxeUlleVFoQ3lYSGNuaFczdS1tc0FySVhKczZja1pGd0g3em9IckxGWlRZZElh?oc=5",
+   "data": "2026-10-11T23:40:24+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Palmeiras goleia o Corinthians e segue a um ponto do Flamengo no Brasileirão",
@@ -354,14 +474,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Carrascal faz golaço, Flamengo vence o Fluminense e mantém liderança do Brasileirão",
-   "link": "https://colunadofla.com/2026/10/carrascal-faz-golaco-flamengo-vence-o-fluminense-e-mantem-lideranca-do-brasileirao/",
-   "data": "2026-10-11T22:31:43+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Agora, Flamengo vira a chave para focar nas semifinais da Libertadores O Flamengo fez o dever de casa e, na tarde deste domingo (11), venceu o Fluminense, por 1 a 0, em jogo da 30ª rodada do Campeonato Brasileiro. Com o…"
-  },
-  {
    "titulo": "Flamengo vence clássico contra o Fluminense e segue na liderança do Brasileirão mesmo com goleada do Palmeiras",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNWxpZVpjZ2lISXFBRjVyZlBPRklLZG8wREZCNTlkRFdnMzV2YkRIdXNnWVRMQlFEbmlkbUlxS053NThlNzM5d1VFQ0p1OEE3VkZuYzIxM0RhSmtmVS1fbEw4RXJaRDl0OXQ2Y1FNakVKQl9HaFkyOGwyQ0NJQl9kS1N0NnQ4M2N2WW9xSHByRlozYklMSmN0Q0R0VEx1djFsWFliQ2N2ZXFrZWxtVl9Qd1pRYVdVSUlSMlVnLU51LU9DRWJwSUVsUFp1V1dDN0c3bVdyaHhXYVE4YzU3N0ZBNHBzMVBaa0lKSVFjNndQaw?oc=5",
    "data": "2026-10-11T22:31:00+00:00",
@@ -418,9 +530,9 @@
    "resumo": "Aos min do 1º tempo - Cartão amarelo para Pulgar por entrada dura no joelho de Castillo. O analista de arbitragem dos Canais Globo, PC de Oliveira, afirmou que Erick Pulgar deveria ter sido expulso por uma entrada dada…"
   },
   {
-   "titulo": "Flamengo x Fluminense (11 de out, 2026) Estatísticas dos times",
+   "titulo": "Flamengo 1-0 Fluminense (11 de out, 2026) Estatísticas dos times",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3VMN2t1QWNoVHlVZHNzam1aUV9jUEhjOXJxNGtNR0RZblNsdC16SHc3YnBLRHIwbXkzbU40eDhYQy1DMUt1R3RWX05QVW9zV1dSdV9rTndJMTZUdExUeUpRNEU1OGxSRXhwOHlxb1NsX3loYzY2SjVTQzQwX1FTNzFUWnkxcHpoOUE?oc=5",
-   "data": "2026-10-11T20:34:30+00:00",
+   "data": "2026-10-11T20:29:18+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -1120,118 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Árbitro acertou em marcar pênalti e expulsar Jorginho? PC Oliveira analisa decisão O Flamengo soltou uma nota oficial na tarde desta sexta-feira e detonou a arbitragem no empate em 2 a 2 com o Santos na última quinta-fe…"
-  },
-  {
-   "titulo": "Na briga pelo título, veja os caminhos de Flamengo e Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHpjazY1MS10WlBiMnhWTC1sTGxUYVUwa0I0LXl1a1FNZHJGbWFXMnhWeDB2REE0YVZhcjFTcnpOOHpGQVVnNnRobEw3UWUySXdkZ09YVmIyVlR5VUFVd2ZCOTRKY0xNZjg2b2NFZGtCRzBLNlB4VkNqNWNhXzFiQ3pfaDNSdHhxSHBsVG1KMlJ0RW1BM1JaWTNZU0duTWpYYWl1bHZnQTNHb2lW?oc=5",
-   "data": "2026-10-09T15:50:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rui Costa diz que demitiria Crespo novamente e revela como foi negociação com Filipe Luís antes de contratar Roger no São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb25INHNPLWphbjFFSXluVUhKX1JxYmRPVVNnS0ZqdmN0UnR5a1UyTVhVdktCcWF5NEdiTk9wWFk0bXBQU2FReDlFdGxSYTFySFJYejN3czdMWEE2aWFUeFhnb3JyNUFnbm5ETWItWnIxVjU3d2tTbUo2VjI3M1RVU0dyUTJGT0d6TTMyTHhwOW12cXh2Y3MtLWxkUlVnZmpsZm5ERHk2bi1sNi1QWmQwaEFadGFmRU5LNU5iU3VkSHo0dWdia1JUdjcyWFQyaVc2TXp4cWd1Sk10U2NaQW42enZIOXNLcG5GLW9jMVFoVFdFdzQ?oc=5",
-   "data": "2026-10-09T15:36:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "ANÁLISE: Erro de Rossi expõe problema de maturidade e pode custar caro ao Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlQydlNMZWo4UFhsNkRZam9Tc0duS3pmQzJfempLcm92eEF5ZC11b18ta2MySkxBTk5Fd3FINlE2RXV4TVpLRklJdUw0Ym9vaTZ0aU1ZWlJiQUsyOFF2WG5mVmc5RHFkWmZ1MmlLWTVha1drMVFhNFFpVS1CV3ZfT3oydXRLRmliVHRpQ0Y2dTJGWGtfQ1ZTNUdEUU9vdlI0MlIyNkg5eDdWWWtyMG1iZTItcVFOVFVvdVpVOA?oc=5",
-   "data": "2026-10-09T15:16:32+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "\"Ô Paquetá, filho da p...\": dublagem mostra Neymar pistola e clima quente de Santos x Flamengo",
-   "link": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/10/09/o-paqueta-filho-da-p-dublagem-mostra-neymar-pistola-e-clima-quente-de-santos-x-flamengo.ghtml",
-   "data": "2026-10-09T14:52:53+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "\"Paquetá, filho da p*!\": veja a dublagem de Gustavo Machado em Santos x Flamengo O clima quente dentro de campo foi detalhado pelo dublador Gustavo Machado em lances cruciais que decidiram o empate por 2 a 2 entre Santo…"
-  },
-  {
-   "titulo": "Probabilidade de Palmeiras ser campeão vai a 34,7%, e a do Flamengo cai para 63,8%",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb05DOU5vVVllRGIyOGZwWjRJcmFZcnZKZTNONWE3ZnJvcFdBMDBYbzN6ZHdHS19xdUpOYUVQZnBjRFhkYmk2NGpNcE54MUhLV0JyZ2gzLW9CbTN2LUFZeTRhVzEwVklmbnJIcHg3UlN1OTdtTnJHdmRDaS1IVFNsTmlOaVUxLUJZX0dYUS1xdjJkNV82SGNKNDVDQ2Q3VUJUTkl3MGtQWjNGQ2xBUmpqZUM3LXJpX2ZqOVZOdWJwNk5uUENpOVlVYg?oc=5",
-   "data": "2026-10-09T14:50:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Filipe Luís ameaça dinastia do PSG, diz jornal espanhol",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGpReDVjSmpEY1dEdGJYZUkxWWpSeVF0QzVfTThrNWY4R2pmWXNuY2ppeDZpRFJNLTVqenFRNmVtZ05rZi15RWxrRWpWZExsYU14OHBVRE0yRGF4TTE0N0YtaEoyOEJybEx2UFNqbFZIbFU5Yi01aHpRMWtVdVZzX1pIa1J4ZXRId1hhYnlyeWxrOWJCNEN1VWF3ZV9GSUNLc0ZqblRycTBndw?oc=5",
-   "data": "2026-10-09T14:38:26+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Revolta do Flamengo com arbitragem e encontro com os ex do Santos: o que o ge viu do campo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/09/revolta-do-flamengo-com-arbitragem-e-encontro-com-os-ex-do-santos-o-que-o-ge-viu-do-campo.ghtml",
-   "data": "2026-10-09T13:56:10+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Luiza Sá mostra os bastidores de Santos x Flamengo pela 29ª rodada do Brasileirão Donos de uma campanha idêntica no returno, Flamengo e Santos tinham um duelo bastante aguardado por vários fatores, entre eles os muitos…"
-  },
-  {
-   "titulo": "Santos x Flamengo: Dublador revela discussão em pênalti marcado",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2tvTU9jM1ZhZHVWWDlyeGJnZThHa0F1TjM2MkpTSjRTWUp2cEdPOXVlenR3MVRPZ0g4Z0ZlZ3FTU3RpbU9ad0laYUwxTjFKM2EtNWRpRlkzVEdaNVJkcUwxd1lFRVJYYXV4bXN5N2pnUDVNWkpGbTgwcWpEWDdIQ2t2TDc4RGdmZ2loazl6QUZTRnBmWVgxcVpTR0g5OFQ1RVBNTEhTYWE?oc=5",
-   "data": "2026-10-09T13:55:21+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Danilo desabafa após empate do Flamengo e pede união: 'Momento de compactar o ambiente'",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeUNkbnEzT1JDZzRrXzVaVldfNGpCR1h6Sml2d1UyLXBkcm1feXRHc2p5MHdtUGg2enVJLTN5TEZ1YXgwdE55S3g4ZXVyMHYwN2RiME93LUZCSkRua0hfaTc5VW9CaGVMc2pER1poTEx2VzFEcU1neEEzZ0ZRWDl3Qi1mNVJZQ0lvVmJQQ0pYVjM4YnRTV3NVNm5ZQkYzVDJFX0FiZ2dBYnF6VTZfai03dk9aSTJPZ1hYSnZleEJUUkE?oc=5",
-   "data": "2026-10-09T13:48:22+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Daronco tomou dois pontos do Flamengo, diz Juca: 'Pênaltis não aconteceram'",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcWJZY1BRbWF3d2ZVRkF6UFptWnNlNV94bzdzc1o2TFhaOVRreXY0bTZNLS16S015d2dyUTl2VGR0XzZ4WUNBbGYzZDY3X0NUbWFueUxuc1RJeXVpbFhPQ1E1dl9oSGkzQzdmdUNQSVdBcGtiM19LUFJpYUhyMFVNaExlUEdEMFVGeWFvXzNPYU9nTHJBRW56MDdvaXFidHZjc1RreGx2WUlOWGlDWk5ZbUE0c0xTTnJPNTdsTzgxVlM4T3IzZFhRNUxZZ0VyYXBuYjJaNEdB?oc=5",
-   "data": "2026-10-09T13:33:26+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jornalista critica atuação de Rossi, do Flamengo: 'Colecionador'",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnNldVp6Yzg4SHA0N1FsZEhyR1VwWW0wem8yTWg0dDNDQUxtUmFIUXRKaU16WUlDTHJ1VjBqN2dodVZkYXI2cnNRSGVqWVplSGZpZ1ZoRG9ITXhyREVMbDllRlRzUVAwN19FTDU5VkF3dkR1aDViLUpVaW1tTHRWcE5YMFB1RlBRWVJZWjJIekRWbjZoM0ZWR0hxSFBPaGcyRFlCTnZUdw?oc=5",
-   "data": "2026-10-09T13:06:53+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flamengo e Real Madrid manda recado a Endrick: 'Precisa jogar'",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdUN5VXE3RjY0eGFHcVdiR01HOXpLdGU4MXdvT3VUMENuekR1RDk3S1hDbVJqamNKaGJNSUphMHZsRWk2N3NYZGliaEtxSjBOVW1UX2xYanMzbnNpOW9mRGw5djlKSFlKMG1Rc3N3QlFaS1VSU0JEQnI5dmhabDFPdXJIR2p3N0tPR09iQXpIOEtxbkxScHl2TU1NNXZ5WWg1YkhSdDFoRV9IYlZtdjB4NTlieHM2VDNKS3pyWlJHRnFxRm5ISURaRkdOc1lsSGV4M3k5ZHpSdjJYbE9fOC1ZSllzbjBTQVZXYzhDbjBzUHM1NzNsZTZUS3hXWXNFQVJ3RnRBTw?oc=5",
-   "data": "2026-10-09T12:46:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Fluminense se une ao Flamengo e vai exibir mensagem pró-bets em clássico",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXJoMmdqVVZwMjhUSW5UUEZRc0wtZW92STNfbm9WTHgxdVFMckQzQUx2Mk5JMDNIc0FrZmJ1c1hkUE5RRUhqUVV5Y04tZlFsaXNoRGMtS3RaU3kwMXk1dDk4aDZteVd0X2MwTjFFSkhGa19iaDB1Vjg1M0ZOeFVDMVRmMjlnT2x5dnV5YWJRQ3R6TjFTeEdxcXp2SDZ0blFrNllhNzlDX3JiQ2VZRUF1MUctbVFRY241eEk2R0dicGhBWjJUSTZfTk13VkJzX3pBVGpCWWZsQy0?oc=5",
-   "data": "2026-10-09T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jorginho expulso e pênaltis: ex-árbitros analisam polêmicas em Santos x Fla",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnNrM2tDM2ZBR3pEak8xT09wLXl5YnJ0YzFsMDZsb3R6cGhPeUotalZCYy1JdUxOa2dqWkdrTVRxSFJkcXRrckxjRDNYcXpTSUlpYUE5YVB4bldTbGxtTHBZWG5lcWh1U3psbzBiaFRPbk14TnlsY2JsTWZGRGxxWGJidzZZTEx3VmRYbFBOLTktTU04Y19VVklId2Z4ZjJHMUxUQ2ZuMGk4VG9ERmJlOW5HWUU5QVU?oc=5",
-   "data": "2026-10-09T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   }
  ]
 }
