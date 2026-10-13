@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-13T16:22:23.618040+00:00",
+ "atualizadoEm": "2026-10-13T21:29:55.725724+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 42
+   "itens": 41
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,160 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 53
+   "itens": 59
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 87
+   "itens": 90
   }
  ],
  "itens": [
+  {
+   "titulo": "AO VIVO: siga Fluminense x Sesc Flamengo no Carioca de vôlei",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ3lUbkgxbTVjSTZxNVJJS0pNeGx5RUZISWt4QlBJbDV1SmxNWU9pc09OUjdVejhpcDBTVlEyaWl5aWY1UmJRLVFkck05bXR6cDI1NlQ0c3JmbnJKeXhHX05NSXc1SGFZR2ZWZ0locGFOMlMwLWtlUHlnQjBrME14MHc0X1l0WXdRVmZqTFRheGEwN3hqYXl3dHRoZHdhMHFMWDVlMlczd2VucWI5QTFXOQ?oc=5",
+   "data": "2026-10-13T21:15:26+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo programa treino aberto à imprensa na Argentina antes de encarar o Estudiantes",
+   "link": "https://colunadofla.com/2026/10/flamengo-programa-treino-aberto-a-imprensa-na-argentina-antes-de-encarar-o-estudiantes/",
+   "data": "2026-10-13T21:08:49+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Último treino antes da ida da semifinal da Libertadores acontece na Argentina, e o Coluna do Fla acompanha de perto O Flamengo programou um treino aberto à imprensa na Argentina nesta quarta-feira (14). A atividade come…"
+  },
+  {
+   "titulo": "Flamengo hoje: veja as principais notícias do Flamengo nesta terça, 13/10/2026",
+   "link": "https://colunadofla.com/2026/10/flamengo-hoje-veja-as-principais-noticias-do-flamengo-nesta-terca-13-10-2026/",
+   "data": "2026-10-13T21:08:30+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Confira os destaques do noticiário rubro-negro neste 13 de outubro O Coluna do Fla reuniu as notícias de maior repercussão do Flamengo nesta terça-feira (13). O principal assunto é a preparação para a semifinal da Liber…"
+  },
+  {
+   "titulo": "Sem Danilo, Vitão tem missão na zaga do Flamengo contra o Estudiantes após 14 jogos fora",
+   "link": "https://colunadofla.com/2026/10/sem-danilo-vitao-tem-missao-na-zaga-do-flamengo-contra-o-estudiantes-apos-14-jogos-fora/",
+   "data": "2026-10-13T20:41:03+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "O Flamengo tende a usar Vitão contra o Estudiantes (ARG). O zagueiro não joga há 14 partidas O Flamengo enfrenta o Estudiantes (ARG) sem Danilo, que fraturou a mandíbula no Fla-Flu. Dessa forma, Vitão deve ser a opção i…"
+  },
+  {
+   "titulo": "Torcida do Flamengo terá extensão do \"puxadinho\" no estádio do Estudiantes; veja",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/13/torcida-do-flamengo-tera-extensao-do-puxadinho-no-estadio-do-estudiantes-veja.ghtml",
+   "data": "2026-10-13T19:54:01+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Veja onde vai ficar alocada a torcida do Flamengo para enfrentar o Estudiantes O Estádio Jorge Luis Hirschi, mais conhecido como Estádio Uno, não é novidade para a torcida do Flamengo. Afinal, o Estudiantes tem sido uma…"
+  },
+  {
+   "titulo": "Flamengo viaja para a Argentina com cinco desfalques contra Estudiantes",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT0RxNHZ2dVd6b21pWS1tczJ3UGZKUlZoVEs2c2daWHhYVnFaejBUV1gtbENhSGlhN2JqWXV2cFRvX2JDbmdFUWQ2dm1RZlNNOENlUGRqRGVqSjFVYW5HRHBISGt2Q0NrUzZvd0FyX3gxOUxrcUxoZEdTUzBDZ0JIaE50WG1wTmxGRUNYekdfSHFmQmlZdmJXX3Q3aFdnZ1RfQ0NhQlVBWUpQMXJUVVpGQ3V1X19PVUdVWHpjWVZoaFpaNTJhZjlZNHZlS2phTE1CZXplcHlsVjAwcGs?oc=5",
+   "data": "2026-10-13T19:52:58+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Arthur Dias admite sonho de jogar na Europa após sondagens de Flamengo e Barcelona",
+   "link": "https://colunadofla.com/2026/10/arthur-dias-admite-sonho-de-jogar-na-europa-apos-sondagens-de-flamengo-e-barcelona/",
+   "data": "2026-10-13T19:41:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Zagueiro do Athletico-PR, Arthur Dias comenta as sondagens de Flamengo e Barcelona e diz que deixa tudo com o empresário O zagueiro Arthur Dias, do Athletico-PR, comentou as especulações no Flamengo e no Barcelona (ESP)…"
+  },
+  {
+   "titulo": "Sem Arrascaeta contra o Estudiantes, Flamengo despenca de 70,5% para 56,7% de aproveitamento em 2026",
+   "link": "https://colunadofla.com/2026/10/sem-arrascaeta-contra-o-estudiantes-flamengo-despenca-de-705-para-567-de-aproveitamento-em-2026/",
+   "data": "2026-10-13T18:56:03+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Veja os números com e sem Danilo, Jorginho, Ayrton Lucas e Evertton Araújo antes do Estudiantes O Flamengo encara o Estudiantes (ARG), pela semifinal da Libertadores, com um problema de números. O aproveitamento do time…"
+  },
+  {
+   "titulo": "ARBITRAGEM DE FLA X FLU SEGUE DANDO O QUE FALAR | SEEDORF CHEGA NA QUARTA-FEIRA! LANCE! DIÁRIO.",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdXg3dEF4Q2xXZTU0YUJjZzdpNENkclhjbWFCWnU2cDk4cTRNTEhpa1pKTkZUWnVyZVprNy1senpmTUktUmpsYjREa3hBT0hzd2tJdDh0UzI2Ql9ZSkN2dmpQM2M1RmtOeVlyeHZyeDdhaG9DYWR6OHdSbzNqZ0R1S1FsMmVQRUdod1BvNld5SnhZVzhxWC1UZS10cjZJeE9ZWEMyTTl6dFI5ZXJrX1JQNDl3YVczc2luNlM0Zkl0UQ?oc=5",
+   "data": "2026-10-13T18:53:21+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Conmebol dá ultimato no Vasco e pode levar semifinal da Sula para o Paraguai",
+   "link": "https://colunadofla.com/2026/10/conmebol-da-ultimato-no-vasco-e-pode-levar-semifinal-da-sula-para-o-paraguai/",
+   "data": "2026-10-13T18:30:20+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Entenda briga pelo Maracanã que pode levar jogo do Vasco para o Paraguai A Conmebol notificou a Confederação Brasileira de Futebol (CBF) sobre o futuro de Vasco x Boca Juniors (ARG). A volta da semifinal da Sul-American…"
+  },
+  {
+   "titulo": "Fluminense x Sesc Flamengo na final: hora e onde assistir",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0l1akloekFibmRoVDJpWVdKNmtoaWJBbHJZdmt1TFIyeHpxZjEzZzdPcjhYYVZwSnY2TWlpY1NyNzBHVmsyUVpuT210OHNKd2l6VXA4Qkl1UWtRNHJqaGFPZnh6QTEtb0JXTGNFRXFRQWhFOUc3cEF2ZmRQOWU5UWZrQnVPVGZ3czJkcjJrdWxSbWdyUGktaVU2eEo1emtYRDhUcjh6REE?oc=5",
+   "data": "2026-10-13T18:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vasco esgota ingressos para semifinal contra o Boca Juniors no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHVQTExWOFZIYWpKZlp2ZjRZTlFKZjFBdmluNFVEZ3VjSDJmMW5UM204VFA5dVlpM0JzTG1qVjBWcWh2R0JTSS1oQjcyeTZ5cno1dDZTTE9UeGc4VDFiRkVrMW5FZjJrS1d3YS1CUXp5SFF1bW9IMDVVTnEtM2ZBV1FUNURObzEtUENERktlXzlaVlExdzBjZks0S3pFcElJXzdEQ0N5NTQ3QXc?oc=5",
+   "data": "2026-10-13T18:22:29+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Conmebol avisa Vasco e CBF que levará jogo contra Boca a outro país em caso de reviravolta na Justiça por Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPczgtWXJ6b2poaVJrdk9USGdoV2FQRGFlUzRDdkV5aE1oMDY0ZnBNdDFuTHZtVGozdHhud1dNNEZkVmJrNlFFcFo4TmdNM3FFb1ZPN0R1VHNXYjl2QzdoRXNsZ3V6RFV4dVhBZzE2NlJtNUdTR2FMa05hZVNLZ3J5VkQtNlJEX3U0T3FjWTliUnZyTXh3VmZ2RTBVQ3ZodGQxOXNpMGxIbTN5dTNCbDRQWllkLTljRW5EWHlGdFJFMUstWlpnWkpvLXIwZjJzQ0h3akpDQ2I2cEpRMzEzRzhBSnhSMFhxZTZCNlBkOEd3Mnc0azZ5QWt3WDJrQUdzY3VReThF?oc=5",
+   "data": "2026-10-13T18:06:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "NBB: Flamengo estuda jogar na Tijuca ou inverter mando contra Botafogo após decisão judicial",
+   "link": "https://ge.globo.com/basquete/noticia/2026/10/13/vasco-x-boca-na-sul-americana-pode-desalojar-classico-flamengo-x-botafogo-no-nbb.ghtml",
+   "data": "2026-10-13T18:00:55+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "O Novo Basquete Brasil (NBB) 2026/27 ainda não começou, mas o Flamengo já tem um impasse a resolver. Marcado para o dia 20 de outubro (terça) às 20h30 no Maracanãzinho, o clássico entre o Rubro-Negro e o Botafogo pode m…"
+  },
+  {
+   "titulo": "Decisão que libera Vasco x Boca no Maracanã obriga Flamengo a mudar dia ou horário de jogo; entenda",
+   "link": "https://colunadofla.com/2026/10/decisao-que-libera-vasco-x-boca-no-maracana-obriga-flamengo-a-mudar-dia-ou-horario-de-jogo-entenda/",
+   "data": "2026-10-13T17:11:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Justiça determinou transferência de local ou mudança de horário do duelo de basquete para evitar encontro de torcedores A Justiça determinou mudanças na programação do Flamengo após liberar o Maracanã para Vasco x Boca…"
+  },
+  {
+   "titulo": "Briga pelo Maracanã é mais uma prova de que perdeu a essência",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNazVpQ1VqNDk0RDh0Rk04M2E2SE4xbDZ6eEdzQkMyaExEektsbzZtLVZZbzVZakNCUlRNcjBjald6cFlfNzdyZ0QzLXBMVmVDV3pnMmlyUXlVM0FqQTRhUUhkaFBPQU1ZRHJzek9wRW1LaGpwUE9tNWtZb09aTlBjNnYzaGMyd3JfVlVxT3NCYW9DaE42M3FHRF9aRHlTT0VT?oc=5",
+   "data": "2026-10-13T16:41:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo divulga relacionados para semifinal da Libertadores com quatro desfalques - LANCE!",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamN6QURrZ3ZnTHRiZG5HZUtudktZSFUzT19IRC1sb1ZpNVhRS2R4UE9BZGdfQ3NZNmxjWjNYU2psNVpsYWlqSGNLNzJTbUdGbXhsenVRcjhXOFlndlVFN3BkbUFoZGZMNVVMZGQxblkydXZIdzkxV3Z1WnhDWElPNURTZ3B3bHVkUUxIYVBTdUF2Rk5NaDRBaWhBOThlYjItTFZIQThEZWwxUzlmT0JySkNrcGtnVFdtVjJFUWhR?oc=5",
+   "data": "2026-10-13T16:40:02+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "MPRJ se manifesta sobre Maracanã após liberação para Vasco x Boca; Flamengo enfrenta Estudiantes 48 horas depois no estádio",
+   "link": "https://colunadofla.com/2026/10/mprj-se-manifesta-sobre-maracana-apos-liberacao-para-vasco-x-boca-flamengo-enfrenta-estudiantes-48-horas-depois-no-estadio/",
+   "data": "2026-10-13T16:23:57+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Procurador-geral de Justiça apresentou pedido que levou à reconsideração da decisão judicial; Flamengo enfrenta o Estudiantes (ARG) no estádio em 22 de outubro, após partida pela Sul-Americana O procurador-geral de Just…"
+  },
   {
    "titulo": "Ainda sem Evertton Araújo, Flamengo divulga lista de relacionados contra o Estudiantes",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/13/ainda-sem-evertton-araujo-flamengo-divulga-lista-de-relacionados-contra-o-estudiantes.ghtml",
@@ -40,30 +184,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "ge Flamengo avalia \"risco excessivo\" de Pulgar e reação de Jardim em coletiva O Flamengo não terá a volta de Evertton Araújo para a semifinal da Libertadores. Ausente do grupo na vitória sobre o Fluminense no último dom…"
-  },
-  {
-   "titulo": "Com 5 desfalques, veja lista de relacionados do Flamengo para jogo contra o Estudiantes, pela Libertadores",
-   "link": "https://colunadofla.com/2026/10/com-5-desfalques-veja-lista-de-relacionados-do-flamengo-para-jogo-contra-o-estudiantes-pela-libertadores/",
-   "data": "2026-10-13T16:03:29+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo e Estudiantes (ARG) se enfrentam nesta quinta-feira (15), pela ida das semifinais da Libertadores O Flamengo encara o Estudiantes (ARG) pela ida das semifinais da Copa Libertadores da América às 21h30 desta qui…"
-  },
-  {
-   "titulo": "RUMO À LA PLATA! Assista ao embarque do Flamengo para o jogo contra o Estudiantes, pela Libertadores",
-   "link": "https://colunadofla.com/2026/10/rumo-a-la-plata-assista-ao-embarque-do-flamengo-para-o-jogo-contra-o-estudiantes-pela-libertadores/",
-   "data": "2026-10-13T15:56:10+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Delegação rubro-negra embarca nesta terça-feira (13) para a Argentina; Coluna do Fla transmite a saída ao vivo O Flamengo se prepara para mais um compromisso decisivo pela Libertadores. Nesta terça-feira (13), a delegaç…"
-  },
-  {
-   "titulo": "Foco na Libertadores: Flamengo embarca para a Argentina nesta terça",
-   "link": "https://colunadofla.com/2026/10/foco-na-libertadores-flamengo-embarca-para-a-argentina-nesta-terca-3/",
-   "data": "2026-10-13T15:06:32+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Delegação rubro-negra viaja para a Argentina depois do último treino no Ninho do Urubu, para encarar o Estudiantes (ARG) O Flamengo entra em campo na quinta-feira (15), quando visita o Estudiantes (ARG), pelo jogo de id…"
   },
   {
    "titulo": "Estudiantes x Flamengo ao vivo hoje 15/10: siga placar agora | Libertadores",
@@ -82,28 +202,12 @@
    "resumo": "Flamengo 1 x 0 Fluminense | Melhores momentos | 30ª rodada | Brasileirão 2026 O Flamengo assumiu a liderança isolada da classificação do segundo turno do Brasileirão após a vitória por 1 a 0 no clássico contra o Flumine…"
   },
   {
-   "titulo": "Árbitro paraguaio que usou ‘VAR caseiro’ e foi suspenso vai apitar Estudiantes x Flamengo, pela Libertadores",
-   "link": "https://colunadofla.com/2026/10/arbitro-paraguaio-que-usou-var-caseiro-e-foi-suspenso-vai-apitar-estudiantes-x-flamengo-pela-libertadores/",
-   "data": "2026-10-13T14:43:19+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Juan Benítez nunca comandou uma partida do Flamengo, mas já apitou três jogos do Estudiantes (ARG), incluindo dois contra equipes brasileiras A Conmebol definiu o paraguaio Juan Benítez para comandar Estudiantes (ARG) x…"
-  },
-  {
    "titulo": "Flamengo e Palmeiras são 'beneficiados' no calendário? Colunistas debatem",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORnJSanJ4bHpWSEFNbG5YWTJ0cFRmb1h3b09LalNaUXI4bmlUckcyOG1kXzJLTmZlbVBIcnFUUlNpVkpjVnJnbWZ5RlFMTUVUZnBaeDBhUllaYWFRSmF1S1N5bXhGbFlnRXVqYzA5TUtMT2hlMWJJbjRSVFNudS1vVTBQTHY3ZUFfM2NMV2NjdWhXNkN0Z0FYZktDem9wNUJ2cUU5RE9RbmNTVzNUcFNzTXlySW1XcFdLZnBjbnVlTDNxWnVKbzg5NmZCLTFldnktTmloWnFUeUozWFdQN1h5d3RYYkVxTktXNVQ1YUN3?oc=5",
    "data": "2026-10-13T14:17:44+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "O plano de Leonardo Jardim para manter o Flamengo invicto na Libertadores",
-   "link": "https://colunadofla.com/2026/10/o-plano-de-leonardo-jardim-para-manter-o-flamengo-invicto-na-libertadores/",
-   "data": "2026-10-13T14:13:06+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Com 7 vitórias e 3 empates na Libertadores, Flamengo vai à Argentina sem Arrascaeta, Jorginho e Danilo O Flamengo coloca a invencibilidade na Libertadores à prova nesta quinta-feira (15), às 21h30 (horário de Brasília).…"
   },
   {
    "titulo": "Em decisão, desembargador detona tese de Fla-Flu para tirar Maracanã do Vasco: 'Descabida, nem sentido faz'",
@@ -130,14 +234,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo treina com elenco completo no Rio e viaja para enfrentar o Estudiantes",
-   "link": "https://colunadofla.com/2026/10/flamengo-treina-com-elenco-completo-no-rio-e-viaja-para-enfrentar-o-estudiantes/",
-   "data": "2026-10-13T12:50:15+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Leonardo Jardim comanda treino no Ninho do Urubu e depois delegação viaja para a Argentina O Flamengo treina nesta terça-feira (13), às 10h (horário de Brasília), com o elenco completo no CT Ninho do Urubu. O trabalho t…"
-  },
-  {
    "titulo": "Pedro diminui média de gols, e lado garçom não evita vaias no Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcGk4eC1ST0dGRmd6R3NOSUFsTDVjUVpEWmVYX250YzF3ZXgxdkxNMHFpTzc4SE5aUHl1b3B0RGtYeHNZOUFGa1g2VHl1S3V5Zjc2ZDJ3RnV3M1hhSTcxZl84SEl3TnU2OE1JcHRLM01SUlJlWlk2c1M1Yl9CZUx1TTRDNVZjMG9sTU02VzlnU1J1c2pZc3VuOFZZbW1Pc3p5STh1QVRrRmw4YWRILXE1ZU1kbWJDZ2lnSU1ydmJNSGtqQ0hPSDltMHVkd0Nqd0hrOS1BcHNFR2k?oc=5",
    "data": "2026-10-13T12:30:00+00:00",
@@ -152,14 +248,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Justiça devolve Vasco x Boca Juniors ao Maracanã, dois dias antes de Flamengo x Estudiantes",
-   "link": "https://colunadofla.com/2026/10/justica-devolve-vasco-x-boca-juniors-ao-maracana-dois-dias-antes-de-flamengo-x-estudiantes/",
-   "data": "2026-10-13T11:30:14+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Relator manda a concessionária Fla-Flu liberar o estádio dia 20 de outubro O Maracanã voltou a ser o palco de Vasco x Boca Juniors (ARG). Nesta terça-feira (13), o desembargador Joaquim Domingos de Almeida Neto reconsid…"
   },
   {
    "titulo": "Vasco x Boca: Justiça do Rio volta a determinar jogo no Maracanã",
@@ -200,14 +288,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Cartão amarelo de De la Cruz do Flamengo contra o Fluminense Ao entrar em campo no segundo tempo do Fla-Flu no último domingo, De la Cruz se tornou o 14º jogador do atual elenco rubro-negro a completar 100 jogos pelo Fl…"
-  },
-  {
-   "titulo": "“Precisava ir para um lugar para jogar”: ex-Flamengo desabafa após disputa com Gabigol e Pedro",
-   "link": "https://colunadofla.com/2026/10/precisava-ir-para-um-lugar-para-jogar-ex-flamengo-desabafa-apos-disputa-com-gabigol-e-pedro/",
-   "data": "2026-10-13T00:10:46+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Destaque do Sporting Kansas City (EUA), André Luiz relembrou passagem pelo Flamengo O atacante André Luiz, revelado pelo Flamengo e hoje no Sporting Kansas City (EUA), explicou por que deixou o Rubro-Negro. Em entrevist…"
   },
   {
    "titulo": "Após polêmica, Estudiantes pretende recuperar 1.500 ingressos cedidos ao Flamengo para jogo da Libertadores",
@@ -802,6 +882,22 @@
    "resumo": ""
   },
   {
+   "titulo": "Decisão da arbitragem em Flamengo x Fluminense gera revolta: 'Assalto'",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2hGNHU3MEJXUElYQkpzXzJLMkl4ZmkxYWhrcDRnQXBpUkFEZmtxTGNDV1h6dWZwbnUwcmkwRXlCbDcyYXFWXzZRejNJN0VHMzhmN190S01LUUxJMjdwMy1KUjJ0TkNwWGFJZnBUc3JlVm43WUtyc0JacWU4dzEzZkoxTmUwZzkxaXYxbzJDdUdMUkxMUlhUUUtKNWo4TkpPcGgxWmR0NnBuenFxdTFlVA?oc=5",
+   "data": "2026-10-11T21:28:24+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Gol perdido em Flamengo x Fluminense irrita torcedores: 'Não é possível'",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHhqTlBTM185aF85cmhUSDlWQmhtQ3BVc3FCeXVqNkc5MmFXSEpLQTROR1paX2diTlpCd3VDV0JWYkJZbFlTQm1BaHZ6YTQtSXNRTU1QOTdmWGtfeGk3OTZiZ0VKOTRtZ2d4a05ocFRMR0FhWHNuOF94anBucF9iblNnZ0lCU3pZQURFWHFLdU1sUXVBSDlBRzBJS1VwUXdZMlRPSUJ6UVFvamlPS0JqeTNITQ?oc=5",
+   "data": "2026-10-11T21:19:56+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo x Fluminense: PC Oliveira diz que Pulgar deveria ter sido expulso por entrada em Castillo",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/11/flamengo-x-fluminense-pc-oliveira-diz-que-pulgar-deveria-ter-sido-expulso-por-entrada-em-castillo.ghtml",
    "data": "2026-10-11T21:18:51+00:00",
@@ -994,14 +1090,6 @@
    "resumo": "Flamengo x Fluminense: informações e palpite para o jogo Fluminense e Flamengo se enfrentam neste domingo, às 17h30 (de Brasília), no Maracanã, pela 30ª rodada da Série A do Campeonato Brasileiro. TV Globo, getv e Premi…"
   },
   {
-   "titulo": "Primeiro show solo do Zayn no Brasil teve direito a camisetas do Flamengo e Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkcjE3MWtHdUZpN19GRUM1bzVlVlJFNmZaYnBtVVpQTGN4YkZjcjNfa0Q1TUo0bG1WTUh2QVJ6R0JvR045djZ2M2NDaW5ydFFQQjRvQk9fbTRsVmVhZlgtc1NUempZcDQ?oc=5",
-   "data": "2026-10-11T03:23:51+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Vasco entra com recurso, diz que já vendeu 46 mil ingressos e pressiona Justiça pelo Maracanã",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXVHWFBmS0xvdV9makNNcExFOW1iTHBZemx3X0p3Y3VSUHJ1akQxeG4xTHF1elA1WFUzTWxoRGFERTFRVldSc1E5amdycTFFaGpPeW9wX1RGMVJRbHItbHFHOGJ6VU5VYW1SZHhIWUx6MU5jMC1PbXRHZ3I3czRJM2Z6YnJUNjRENk0yQ1JPSUFURmpPc3VCN1dQUnZBTk5Yb0RpTGxFQUtsOFN2NXNfOUZLbHFLSlJTbjVKSUtnOFBVX1VpX2FsekhVSQ?oc=5",
    "data": "2026-10-11T03:18:00+00:00",
@@ -1141,94 +1229,6 @@
    "titulo": "Justiça suspende liminar que obrigava Maracanã a receber Vasco x Boca",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOHJ3R2FxVmpUVVQ3RFJGWHAtOGdHMlByUFAwckVKVmk3UXV0WTg0V0NUUGtua2xwd1FIaDY4amREd0JrNEplaGphTVp2Q2o3QkpNNU04dUpNMTBueVMzT0JpZjlHNk1DX1hiWFhtcmkyQWNxSXdndkxQY3ZZRlhjS3kzbGtrRnZKVHlvU0Z1OUJGNTdsS2J3Ym1kSzNaWnplcEpaTEc4bU9YdnM1S3BjcUJUSTN1YzQ?oc=5",
    "data": "2026-10-10T17:51:27+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Justiça suspende decisão que liberou Maracanã ao Vasco após recurso da Fla-Flu",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbjlmMHJjVVRVX0x2T0JQd1dRVURRZFlYaDhQV21fd3JNZkxOTHNXZlV5Y1dfV1VzdFh5aUtvWWViNHEzYjZ2Y0syV1RfU3NNUmYzaElHWUZtc2t2RDh6a0d6SDF5SktDRnE2dkVaYWRTZ2t3X2lhNU9WVlNac29kQXNaTFh3c3AxY1RMWi1aWWVFcW5RQjI1QVlvZnNIR3duanJhRllHbVFsUFk1UjhOb2gtSGtsTzIyOTgtYnk2aVFsWHhOZzkwLTJVVXpCclN2cUVTZnpOMGozSHJhZHc?oc=5",
-   "data": "2026-10-10T17:39:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo e Fluminense recorrem à Justiça contra Vasco x Boca no Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3hiYXNpc2g0Y3BNa1NXNlR3S3dHVks1NTJnb1dTRGxpSVQtTXVOLUxLNGRtLXl6OWRUOXVXVHVTZ2tsSk9iR0ZBOWV5RmJ0M19neDZWd0Y3THlnOXl4eWxUT1RxQkJ5VjNZNlZNY2lWQnNnakVSdXkxMzkwWHZ0ekxXYzRwaDdpSjV0MG5hR1FCWXBseWwwX1MwSmdaX25rcWNoSTNPMXkwUDF1WXN1ekRLb0NZTTRjLWYwWVpzOWNkNkZic2hvcmpuSEljeVhj?oc=5",
-   "data": "2026-10-10T17:29:21+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Justiça derruba decisão de ceder Maracanã para Vasco x Boca Juniors",
-   "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/10/justica-derruba-decisao-de-ceder-maracana-para-vasco-x-boca-juniors.ghtml",
-   "data": "2026-10-10T17:28:48+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Vasco x Remo: informações e palpite para o jogo A ação movida pelo Consórcio Fla-Flu, na madrugada deste sábado, para não ceder o Maracanã ao Vasco para enfrentar o Boca Juniors, pela semifinal da Copa Sul-Americana, no…"
-  },
-  {
-   "titulo": "Técnico do Fluminense revela estratégia que utilizará contra Flamengo no Brasileirão e Palmeiras pela Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPa1cwMjJRV1NhN0wyWkgwdkViU2V1WG5DMHlZMldEQjNYZTNxTDRxMFczWWtqNFIwWFB0WC11Z0hMX1V6VmVLTEZHN2kzUWUzb2xLY0N5dTBlaFNSa0VwNHViS3pGeTZOLWlCQlVIbE05RGItRXZKbENWZzQtdUhNVFV3a01LQUtESlc3MWc1N29iUnNCUU16WXJVMVlvdk9lY3BoSkFuZlNQRWx0YlR0ZmU5bmZCVjUtb0laTmo5OVFsWFBTNVFEdEs2RWs5dG1QVExEcXNhTFJYcHpDRTFWVkFqVXFqTkE3a1QzT0RUMTRhQUhBWk9hZm05b0xBbWVwTnlsSndaYW5SUQ?oc=5",
-   "data": "2026-10-10T14:07:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Conmebol: Flamengo e Vasco lideram ranking de prêmios",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMTk5UDN3cC0ta0xWTnNySTRqZkoxajFOUzU0c19PV1FOYW10MncteWp6S1Y0enRHdVpXNFF1c3NKQy1pMENvSi1qSFU3V0gzeWNfcmxhZ1EyOTdaVW50dFRNbGJTVVJzUGJlVnc2TGk4SFgwdndyalZ0d0FtRlNuUTV0ajVKM0NzbUxKblMxbHQzZnZjcm1ic3VrcEtnSFpJ?oc=5",
-   "data": "2026-10-10T13:42:42+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Consórcio Fla x Flu recorre para tirar jogo do Vasco do Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY0tkWGdOaWhlX3Z5ZFpZUXVRWW5LZk5CcXE5cmdsWkpqaFFsQUNFOEpTS2h6Q0lLSEpnUzRyRXJQT2RxYXBSa09FcWtnaDA1M29UTkVZbjk1VFhmU1V2OG8wS3JqaUlYU1U5TURhWmZrQ3R0YzFuMmN4Mjk2bm5kMF9iTjR2T1N5Y19NcmliMkJqRzQyVnctWVdEcE91Q2dSUGUxZUZVLTRDSjE4alJyUXNUQUhvTTNvNGFYX29RV0hhZmVjT1pUYnN5c21jUWt6b2c?oc=5",
-   "data": "2026-10-10T13:24:55+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Fluminense pode ser prévia da final da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYl9tYnRRTEIxUXJPT2QtNWpOeHlmRGxlZUJaRHZ6VTJTYlppeXN6Nnl5RERyQlN2RG05M1pGb2NiSVA5dndFc0VCb045QTVCZ0RHUWR5U0hfVDEtV1MzbF9oWlEtWHBhTjBTZW5MQnl3ZVVQaERsTFZZSnh4N3ZOdHNTWVRlYWM4ZU5TVkJkbFd2R3ZVTElPbVVoa1ZJc1ZLcXN4WFNRQWxycXdsUDZXRjFlT3FxSFU?oc=5",
-   "data": "2026-10-10T12:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Dois retornos e até 4 desfalques: o cenário do Flamengo para duelo com Flu",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGJKNkE1WVFodmcwU3lNVy1Zc3RKYTNraVVxUTQ1LVlnS1MxeFNjenNmSk9PYkJmcVBBdjlHWlVIczlSQmZTWkxXckgtaHVaLUtzbk5xeW1rOEVoM2owcXlOWDhrY0NCdzBDMUtTSUpNZ1Z1VlQxaEVld25tVGc2bUU3ZjVPNGlGVGcwc0dDUVNQZ0Q0YXAyMkZiNlRhR2VmRTNSVXgyamZheG1KWDdPWHF3Q0VoWk9Bb1hkWU15b3E0N2tpUVN0Ty11VFN4UlNodEN3ZjFIMzNsdTZOdmc?oc=5",
-   "data": "2026-10-10T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Multicampeão pelo Flamengo, preparador de goleiros pede sequência para novato na Seleção",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOczJQX1JTSjlzS1dTbDljWGljTndfZVNid3pJYVFQMC1XQW5NZVZlLU0wOTRVektVakhaTW5JRW1GOXFyb002aXg2YWg4YVRvbHpKZEFSWC03WXI0VFNmTVFzVGFHQkIzeGRVcEdUSG1LaFNGVWlGUHVBTWRIMk9OQVpCQktlNEVVeFdDNHppaEVvVTVpN3diLXduZzRzZF8yV2dVQXhpb0dDMDhWMlU1Vnl0emxtUzRpWjhrUm1tTmJvc0dsRXpWYVZveGJGY2MtLUE?oc=5",
-   "data": "2026-10-10T11:37:35+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Campanha vitoriosa do Santa Cruz tem ajuda de campeão da América pelo Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFJReHhkMF9ERVl5N0NSTmRsRjlSNXZ6XzdYS2ZGQjBHSF94V0lhMWNEMUFYcFRIVlFCZGd4dGFGM2lWOFNHRXBadTFwSUd2NkF6eG8xaGpxQWZtdG1qZEYySU9FOE00eURobmhrLWp5RDNjTG4wSEJ4d29hRkZvRFotVUs5MjYyRTJmQnR0TWZTVW5EdXdya0k5T0RPTVYzeDl1ajFYRmZZaDRwa2JvZ3RJR1VPYXJoejVwb0tDeVhSem8?oc=5",
-   "data": "2026-10-10T11:34:24+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Fluminense terá volta de dupla importante para o clássico com o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX19Da3VpZ2ViVkpmRVRlM3R5bGo5eWVTeXJubmNxVDlua2xmdGFrSkJpSEZGRWlsaGJaZ0p3M3BncEJ4YjhJVC1hMV9YaTVlTGptNkJubDNLLV8wSUxvNnZWSkUtQ0ZZZkFVczk2NjVPUldwdHBfMmhfeVhLWFlJYmp1OTAxSzVHMUk2N3NvWEotLURGQUl4c3VDOWRBaU9xekx3Qk1GQms0em5CNnFvUlRYaw?oc=5",
-   "data": "2026-10-10T10:05:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
