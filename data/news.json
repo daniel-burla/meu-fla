@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-13T01:15:37.857350+00:00",
+ "atualizadoEm": "2026-10-13T08:22:10.732714+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 44
+   "itens": 41
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,40 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 55
+   "itens": 54
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 88
+   "itens": 89
   }
  ],
  "itens": [
+  {
+   "titulo": "Estudiantes x Flamengo ao vivo hoje 15/10: siga placar agora | Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcERfZjFONmhabHpjYVRRdTJ6c1Q0QTR6MlhXVVc2MjZEX3lzeERMOFFsWlpWLXpwcEhOMXhycjRUcmJxZURGZ1ctcHE4UzdEekxwLUJYMHV1WGw4d2Z4OGJlc1JrVnhjd2JuLTBHSFhBZmtUSUw3R0x2X0puMkljdmo0NkdtYVdkcDUzb1pwQS1LREVlbmxJ?oc=5",
+   "data": "2026-10-13T07:34:19+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Em sua 3ª temporada no Flamengo, De la Cruz completa 100 jogos em meio a debate por custo-benefício",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/13/em-sua-3a-temporada-no-flamengo-de-la-cruz-completa-100-jogos-em-meio-a-debate-por-custo-beneficio.ghtml",
+   "data": "2026-10-13T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Cartão amarelo de De la Cruz do Flamengo contra o Fluminense Ao entrar em campo no segundo tempo do Fla-Flu no último domingo, De la Cruz se tornou o 14º jogador do atual elenco rubro-negro a completar 100 jogos pelo Fl…"
+  },
+  {
+   "titulo": "Flamengo cai no grupo de Manchester City e Boca Juniors em torneio de Messi",
+   "link": "https://colunadofla.com/2026/10/flamengo-cai-no-grupo-de-manchester-city-e-boca-juniors-em-torneio-de-messi/",
+   "data": "2026-10-13T01:50:20+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Sub-15 rubro-negro estreia em 25 de outubro, na Flórida, e também terá pela frente o UE Cornellà, clube espanhol que pertence a Lionel Messi A organização da Messi Cup divulgou os grupos da segunda edição do torneio sub…"
+  },
   {
    "titulo": "Meia do Estudiantes transforma frustração em mensagem de apoio para o jogo com o Flamengo na Libertadores",
    "link": "https://colunadofla.com/2026/10/meia-do-estudiantes-transforma-frustracao-em-mensagem-de-apoio-para-o-jogo-com-o-flamengo-na-libertadores/",
@@ -160,14 +184,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Freitas compara Fla-Flu a Boca Juniors x River Plate após vitória do Flamengo",
-   "link": "https://colunadofla.com/2026/10/freitas-compara-fla-flu-a-boca-juniors-x-river-plate-apos-vitoria-do-flamengo/",
-   "data": "2026-10-12T19:22:27+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Atacante argentino destaco atmosfera do clássico carioca após vitória do Flamengo por 1 a 0 no Maracanã O Flamengo venceu o Fluminense por 1 a 0 nesse domingo (11), no Maracanã, pela 30ª rodada do Campeonato Brasileiro.…"
   },
   {
    "titulo": "Goleiro do Flamengo, Rossi elogia gramado do Maracanã: 'Melhorou muito'",
@@ -298,6 +314,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Ex-árbitros opinam: Pulgar deveria ter sido expulso no Fla-Flu",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUzBNM212MGdJZ3Voa1pGamotbkdrRnFvbE9jbVZBOUpKTDIxeUlsMEo5MVQtMU1VOUwwelZQR0pGb3ZyNEtoV1RZaTNNSVhBeENJNk1jbjQ2X19rUWFwZ0pnUTY5Q3lOZVB0aG5jOTJka3drS3pCRWpjT3RRVVJWTnQ1NG40aWdLYmJJclBYeWJZcnl6bXo1S244bDN0TUZvcTZ6eTEycWgyNjE5bHJzMUV3NzZyTURFMzl3OW5qeVZITXMxSU9ZeHltVVcwTmdDYW5N?oc=5",
+   "data": "2026-10-12T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo e Palmeiras abrem um abismo do terceiro colocado",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUVhZUHA1UjUtUTUwTE1CSlhZOExKZ3pxOWt5cURmTHl0S1VDOHNmb3hmUUdBSkIzMnN1czBNM0dlZ2NscWQxLXdnRThnTGZlNnhTVnVmU0lHWmNOSENxZVVCVWVDNV9XZlFhNzJjYXFBZGZMS2xqd0pFM0E0RnprN1JmR0FhbkNQQXlEYWUxeHJuMEM4LVhvYw?oc=5",
    "data": "2026-10-12T12:11:38+00:00",
@@ -311,6 +335,14 @@
    "data": "2026-10-12T12:07:42+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "PALMEIRAS AMASSA CORINTHIANS, MAS FLAMENGO VENCE FLU E SEGUE LÍDER. LANCE! DIÁRIO.",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWQwYUx2endTQnFhTFl6S2ZVZ3VMOVJnVHpPRlpsM3JHZW4tRm5sSE9PUE15Sk1CeXpiQnVSTVpueVFZTzNuakZQcENiSnJMcWJUYklDbHg0Ujc2RFlfOWhXYzcyM2xXR0VoX1N2ODlHUlh3VjFFYy04ZFpidWRxamZ4X1JIeVBpaW85SWJGbVRyMlZPeVBjZloxdzFWNnY3ekZYWHp5WEotTkhzNVB3?oc=5",
+   "data": "2026-10-12T11:57:27+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -351,14 +383,6 @@
    "data": "2026-10-12T08:30:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-árbitros opinam: Pulgar deveria ter sido expulso no Fla-Flu",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUzBNM212MGdJZ3Voa1pGamotbkdrRnFvbE9jbVZBOUpKTDIxeUlsMEo5MVQtMU1VOUwwelZQR0pGb3ZyNEtoV1RZaTNNSVhBeENJNk1jbjQ2X19rUWFwZ0pnUTY5Q3lOZVB0aG5jOTJka3drS3pCRWpjT3RRVVJWTnQ1NG40aWdLYmJJclBYeWJZcnl6bXo1S244bDN0TUZvcTZ6eTEycWgyNjE5bHJzMUV3NzZyTURFMzl3OW5qeVZITXMxSU9ZeHltVVcwTmdDYW5N?oc=5",
-   "data": "2026-10-12T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -538,14 +562,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Pulgar joga com o 'colar do anjo'? Renan detona arbitragem do Fla-Flu",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkpYMWtoTUUwM2toS21lb2dSdThLWXo1QV9tRmhWZk14OWdrUUxPWVZHYmtpQjBMZjNFajd0bWN4UjN0QjN6UEJPenVudVdCbnRrdk9nc0Z3T3M3WVo2cnhGaFJkbWJnalByOElaYnBrank3ZUdIWnNJZzNkanV2SzU4NVNmdjk4NTFPbDI2SXE1NUVtY2dLOEZPQUdPRVRYY0VLWUlWTzV5T1VISDg1Y1NUcUNXcEhORDZsemx0U3hkRkZmV2ZxLUZiQnQ5WVN3dlljZQ?oc=5",
-   "data": "2026-10-11T23:53:42+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo provoca o Fluminense após vitória no clássico; veja",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUNLU3J3TGpkN1ZjQkw1U2w5b3BJN2ZpTWwzeHkyU21uSXNiMXhFcXlfY241TmJlZ1hDRE9PM3BzMHdsNy1KSTlITGktbnB1RmQ2VldDYnNZT2xJYWw1R1hodFQ3MWY2Y0tHNTBIbkt5emwyX0ZkVVFYa29qcVE5eVEtemJGMklBVlBibS1tX19yeS1jUUxPZVFDOERNX3hrWUxrOVlB?oc=5",
    "data": "2026-10-11T23:50:59+00:00",
@@ -567,14 +583,6 @@
    "data": "2026-10-11T23:25:28+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo 1-0 Fluminense (11 de out, 2026) Placar Final",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qbnVQYzF3ZlN0MU1DX05hT0psUTFHQnVfRkZvdVFPUE9nWU91dU00bl9yUk5JMzdQalNMMVZLSnVwaWVPem96SHF5eXNYS0ZpbF8tZi1udk8xMDJRbTVuN3NrSDFJa3VWWS1FOF9RdWZZZFQ5NkJr?oc=5",
-   "data": "2026-10-11T23:19:16+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -639,14 +647,6 @@
    "data": "2026-10-11T22:53:52+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo vence o Fluminense e mantém liderança do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmtHdk1laG1NT0FudW05UzU3eDE2Rl9VampheVRiNzJCN3BCekRoa2NjN0w1aXZEYmptNzNtakdkOERmU2tLZHRLelVOSUQ4Y0tILTJTUTJFMlBfVEhjVUR5QVRGV1ZMMXQ3aHFBMjlWYTNQTjlnVFEtc1RWeTBkaTNqeGYtc0VHbURDSzh2MWhTTEFKSEFYUVdlekptUQ?oc=5",
-   "data": "2026-10-11T22:43:42+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -727,14 +727,6 @@
    "data": "2026-10-11T22:00:26+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Fluminense (11 de out, 2026) Estatísticas de jogadores",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmVLM3RDYU1hUHp3S2dRWW1KT3I1WjBFZ1BRX2VsWjFoQkFLZHh4bk9tdnJzUDBQVXZUU1c3ZGo1VWliUXExRHJIZjR1Nkd3M2pSU0I0d0w0TFNwcUZJQzl6Z1hSdWR1bWNLTGpZMm1JdUtRZHhPX3hWVEFnZm9uTg?oc=5",
-   "data": "2026-10-11T21:20:55+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -1231,6 +1223,14 @@
    "data": "2026-10-09T23:40:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "'É mão': CBF divulga áudio do VAR de expulsão de Jorginho em Santos x Fla",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObTYwSkxvcE00X1hUNHRnTms4QzJQNGYwbVhYX2U1TDVaS29SNkFRb3hWLUMxNnJOMVBSclg4X3g3dlB4aVhfVEpiOUJORHF0NW5FQ29paTBabktjNERxX3ZnSGN3MjNqSHpha1ZaY0NLNGNmcWdxN0dNMDBBdHpvekRjZnk0MzVqRnk5b2RhdXVJM21CbF9WRVd2X190NWFk?oc=5",
+   "data": "2026-10-09T23:33:45+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
