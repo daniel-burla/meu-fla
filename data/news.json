@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-14T15:25:41.960492+00:00",
+ "atualizadoEm": "2026-10-14T19:39:36.773581+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 40
+   "itens": 42
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 53
+   "itens": 60
   },
   {
    "id": "uol",
@@ -33,6 +33,102 @@
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo x Fluminense: onde assistir, escalações e horário das quartas de final da Copa do Brasil Feminina",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTYydmpDeFl5TzUyTTRIS0hpZ194Sk93YkplXzdwTy1hU0I5LWpIMWF2ZDNja1JqVU1vY0h3ay1UbTJyczhRVmpEX2hZT0FhUWg0Qkl0T2p3dFFPTlUtTTFUS1o3VFVITkU3azRVekszYVdSOEx4UUdDZ3pJYTluN0dhcXRkX2JmUmFFV0xtSXdaNnAwNVVrNWZKaTRPR3AzYXg1MGNwcXIwRjdSLVg4RUVnQm9BWmt1eG8wa1BHZDNWNnBrYlhDX09PZENBQXRaNkFjOWU4WUlMQ0VtWTcxSThR?oc=5",
+   "data": "2026-10-14T19:35:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Final do Carioca de basquete: Flamengo x Fluminense",
+   "link": "https://ge.globo.com/basquete/ao-vivo/final-do-carioca-de-basquete-flamengo-x-fluminense.ghtml",
+   "data": "2026-10-14T19:30:06+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": ""
+  },
+  {
+   "titulo": "Candidato à presidência do Peñarol quer Arrasca, mais um do Flamengo e ex-Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTmNUaHhPUWdVa1NISzFrYVYxSS14WkVtbm00VmZXMmhTX1ktMG1Mc19pQm9uTkRDNFNvQzJ1cXVOemV6dzlCX0tfWlVVQUJrUTJQbEJFenBHRkkybVdMekgyWjJHTGs1RnNVTzJLT20waThOalRYaXE5VlZNT2JpNXRPQnFHYTliVHE3VG8xZkNXZ2ZGQVVtSFlBcjF6cmRYNjNNX21idU5Wbkt1VUcwSXlqbXdyZWMxLUtkazhCU0Y0aVdBZWtnREF3ejVjaXpnVWpvSXBoX1VEOENubjU3RmJyejhxNWM5T2ZQUC1NNi1ucnBCeUc0VW9obWJEbG8?oc=5",
+   "data": "2026-10-14T19:10:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Estudiantes x Flamengo ao vivo hoje 15/10: siga placar agora | Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcERfZjFONmhabHpjYVRRdTJ6c1Q0QTR6MlhXVVc2MjZEX3lzeERMOFFsWlpWLXpwcEhOMXhycjRUcmJxZURGZ1ctcHE4UzdEekxwLUJYMHV1WGw4d2Z4OGJlc1JrVnhjd2JuLTBHSFhBZmtUSUw3R0x2X0puMkljdmo0NkdtYVdkcDUzb1pwQS1LREVlbmxJ?oc=5",
+   "data": "2026-10-14T18:40:22+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Estudiantes x Flamengo: onde assistir e escalações do jogo",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFR1N3A4dnM1MzltSzdlTlU5NVVHZ2dZempUOE5mOU0xWUlMLVRqbDBuTFo3Y3l4cWVGUVlLN1VwUHdacjg0MGdRdlFFMUdocG93M1VCVmFhYThIMEt4c0E4VmtRSnJFZFViLWF3dFpUdDVCN0UxNWZLSjRWMEdoanFHNm5MZmoxSUJUY3R2MUF6WVNOcFNhQUZ0YzlyaUVPVUdhZldpRmNzMmRVeXoyWFo1NA?oc=5",
+   "data": "2026-10-14T18:34:41+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Como está o gramado do Maracanã para Fluminense x Palmeiras pela Libertadores?",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQThTZFZhejlYWWI3X2pWYjJjOFVWQlB1aDdMTElSMTFzbnp6MzRCM2xGbEhZekcwZUdzM21yZFdVaC1WcmdBTFZXSGczcTZpMElQRm1wMWdLVjliT1hsQ1VvVkdnMDdqZHdFVWROWHV3dmNxZ0M4Y08zanhtS1VTNVNtcXlJWmxiaERGYXNGOVZtWHIwX3BMek5EZmVOUS1KOHNSR2kxMm1tZkQ0RFFpVDl5bkVaVFBaTDI1RC1QcS1uUQ?oc=5",
+   "data": "2026-10-14T18:20:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Alvo de propostas, Samuel Lino diz que “tem muitos anos pela frente” no Flamengo",
+   "link": "https://colunadofla.com/2026/10/alvo-de-propostas-samuel-lino-diz-que-tem-muitos-anos-pela-frente-no-flamengo/",
+   "data": "2026-10-14T17:45:07+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Samuel Lino voltou a admitir má fase em 2025 e vive a melhor temporada da carreira no Flamengo, antes do Estudiantes (ARG) Samuel Lino tranquilizou a torcida do Flamengo ao lembrar do contrato até 2030. O atacante vive…"
+  },
+  {
+   "titulo": "Candidato à presidência do Peñarol diz que fará o \"impossível\" para tirar Arrascaeta do Flamengo",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/14/candidato-a-presidencia-do-penarol-diz-que-fara-o-impossivel-para-tirar-arrascaeta-do-flamengo.ghtml",
+   "data": "2026-10-14T17:26:55+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Rossi fala sobre renovação com o Flamengo e dá alternativa a redução de estrangeiros Um dos candidatos à presidência do Peñarol, o advogado Pablo Schiavi afirmou que faria o \"impossível\" para tirar Arrascaeta e De la Cr…"
+  },
+  {
+   "titulo": "Rossi abre o jogo sobre futuro no Flamengo, naturalização brasileira e reencontro com o Estudiantes",
+   "link": "https://colunadofla.com/2026/10/rossi-abre-o-jogo-sobre-futuro-no-flamengo-naturalizacao-brasileira-e-reencontro-com-o-estudiantes/",
+   "data": "2026-10-14T17:26:05+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Goleiro comentou momento no clube, relembrou disputa de pênaltis contra equipe argentina e projetou semifinal da Libertadores Agustín Rossi chega a mais uma decisão continental pelo Flamengo com a experiência de quem já…"
+  },
+  {
+   "titulo": "Brasileirão: Flamengo abre venda de ingressos para jogo contra o Atlético-MG no Maracanã",
+   "link": "https://colunadofla.com/2026/10/brasileirao-flamengo-abre-venda-de-ingressos-para-jogo-contra-o-atletico-mg-no-maracana/",
+   "data": "2026-10-14T16:29:55+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rubro-Negro enfrenta equipe mineira no dia 26 de outubro, pela 32ª rodada; preços variam de R$ 25 a R$ 600, conforme o setor e o tipo de ingresso O Flamengo já iniciou os preparativos para o próximo compromisso em casa…"
+  },
+  {
+   "titulo": "À ESPN, Lino lembra má fase no Flamengo e falta de paciência da torcida",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTTNRR2lIMzBNOFJjM2dGdHQtc0xNVGdCSlh6cnNrWjRWQ2Y0SXFwQ2RsWEh1U0xDMnNFTHMtZTd1MmNiUHpmVG9hZTNXRzB1UTJXODY5VWowemxUWTVheWxicjhKaWc5c2lQRzlpeXhuNXVtdTBVMnlIUHFoT3dlLVMxMnllMlZBWlItQU5jZmlyM3Jrb0JRaUlkbzNrWDg4Rjk0VGhCZVBDTWg0V2JzeHhqTTluOGh4VmM1d0FJNTNJOTQ5MTB4YV9GZEk3bkpMc2ZlOE1CZmFrNTBIYlRnUUpFNDQzdnd0RjhUSmlHY0ZXZw?oc=5",
+   "data": "2026-10-14T16:00:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Oitavas de final: onde assistir ao jogo do Flamengo x Criciúma hoje, pela Copa do Brasil Sub-20?",
+   "link": "https://colunadofla.com/2026/10/oitavas-de-final-onde-assistir-ao-jogo-do-flamengo-x-criciuma-hoje-pela-copa-do-brasil-sub-20/",
+   "data": "2026-10-14T15:51:47+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Garotos do Ninho enfrentam equipe catarinense nesta quarta-feira (14), pelo jogo de ida da terceira fase da competição O Flamengo enfrenta o Criciúma nesta quarta-feira (14), às 15h (horário de Brasília), no CT Ninho do…"
+  },
   {
    "titulo": "Flamengo pode chegar à 2ª final de Libertadores seguida",
    "link": "https://colunadofla.com/2026/10/flamengo-pode-chegar-a-2a-final-de-libertadores-seguida/",
@@ -53,6 +149,14 @@
    "titulo": "Presidente do Fluminense é denunciado no STJD por críticas à arbitragem do Fla-Flu",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMU53anJBLWxvbHI3Sno4YlpraExtYVE0aEtnaUNNSjl3MzNfOGF0cDhyODFRWWJ6Unl2QXVPQkRsNWZXdlRaUzFGa200SWoyU2V2b0dYdXFVd3dCa3NiRWF2dTh6NmpkaWgtU2lNUENaNU1TckV0eWdQODB6NkdCaWdPR3pqckNwaU1tUl9QRDBHQ3ctLVhIbU5TbVM1UmRaMldwUDRWNDE4cHA2NUFKaXl6TnFnblZRQWJGQXc5NGU?oc=5",
    "data": "2026-10-14T14:49:33+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Pedro Henrique, reforço do Flamengo, chega ao Rio e inicia atividades no Ninho",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaTNWYWdnSTVpcHFHbG5zM21RSWhQdXFrMjhiVFdjcG9zZHFXUDdKRGk3dXhaM041bFdfX2VyYjlKOHNhRVJlSThxZzF1dG5laGNhVVNUTVU3LUhySUxERzBuTUxCYkFZMW1iWkRVckVDNzNPa09FQnBraGtOdGF6TlJWOHJrY1RCZFkwS1JaVnA1amgtNEREaE1ncjZ0d1ZhNFVyZGxHVm12VjVnTWRxV2JNdER1dw?oc=5",
+   "data": "2026-10-14T14:46:47+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -96,14 +200,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Jogo do Flamengo x Estudiantes (ARG) não vai ter transmissão na TV aberta O Flamengo visita o Estudiantes (ARG) nesta quinta-feira (15), às 21h30 (horário de Brasília), pelo jogo de ida da semifinal da Libertadores. A E…"
-  },
-  {
-   "titulo": "Jogo da Libertadores hoje: Fluminense x Palmeiras abre a semifinal no Maracanã; veja horário e onde assistir",
-   "link": "https://colunadofla.com/2026/10/jogo-da-libertadores-hoje-fluminense-x-palmeiras-abre-a-semifinal-no-maracana-veja-horario-e-onde-assistir/",
-   "data": "2026-10-14T14:03:40+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Sem Abel Ferreira no banco, o Palmeiras visita o Fluminense nesta quarta-feira (14) Fluminense e Palmeiras abrem, nesta quarta-feira (14), as semifinais da Copa Libertadores de 2026. A bola rola às 21h30 (horário de Bra…"
   },
   {
    "titulo": "Quanto seu time gasta com salários? Veja ranking e entenda por que é tão difícil responder",
@@ -154,16 +250,16 @@
    "resumo": "Dirigente demonstrou preocupação com a violência em campo no confronto desta quinta-feira (15) José Boto demonstrou preocupação com a arbitragem de Estudiantes (ARG) x Flamengo na chegada da delegação rubro-negra à Arge…"
   },
   {
-   "titulo": "Rodrigo Mattos: Como Flamengo vê concessão do Maracanã após vitória judicial do Vasco",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbm5MQjVyejBGWE1HbkpZODJWZlR3YjZiQ3Z4UlJEVk1HLWQyeVpLRkg3c0VndmdvT3h4aWJTTXdFNDZzTEwxRVVzSGNHWUxyZ3FENVloMDBWdXhvbThLQnhleFhKRWVDQU1xclZTREJhTVd5M3VsVG5OQ01HTXNhU01XSl9CS1FodXF6bnFDQU0zZzRNTFNyaUloN0xPYzhJN3RTX0pHamYtUEpFMDg5M0tULTVKU3ZBM2xjVHY0ZHRJT0Nqd1JkVTg3TTVIOVZYMUF2dC1ES3NyWTd5ZXpB?oc=5",
+   "titulo": "Reforços da janela, Freitas e Valencia esbarram em concorrência no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWGxORVRMZXZQRjdqYldsM29WS3ZlOFFLcHQ1ajVLSFdFVVNWRHFMNjM5MWQ2Y0Q3bXlCOTVONldBR2hVTmZ1Y2J0WFpOaWtWVDZ4U3JCSE9KT0pTN1RMSEVDS2w2T1Z0S1Z0eWYzNzlhRlFmdUl3bVlWYmNacG1pNTVHdTB1T3IyYjV3TnFKWFdQVXM4SGE4VERJekdyZG1SUzNmRGVSZ0Q0X1lPbkNNaTFYYTFLMTl6a1JwelhYNDhSelpxUDlEREtYYTNqbXktbHlwVG1PRUs?oc=5",
    "data": "2026-10-14T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Reforços da janela, Freitas e Valencia esbarram em concorrência no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWGxORVRMZXZQRjdqYldsM29WS3ZlOFFLcHQ1ajVLSFdFVVNWRHFMNjM5MWQ2Y0Q3bXlCOTVONldBR2hVTmZ1Y2J0WFpOaWtWVDZ4U3JCSE9KT0pTN1RMSEVDS2w2T1Z0S1Z0eWYzNzlhRlFmdUl3bVlWYmNacG1pNTVHdTB1T3IyYjV3TnFKWFdQVXM4SGE4VERJekdyZG1SUzNmRGVSZ0Q0X1lPbkNNaTFYYTFLMTl6a1JwelhYNDhSelpxUDlEREtYYTNqbXktbHlwVG1PRUs?oc=5",
+   "titulo": "Rodrigo Mattos: Como Flamengo vê concessão do Maracanã após vitória judicial do Vasco",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbm5MQjVyejBGWE1HbkpZODJWZlR3YjZiQ3Z4UlJEVk1HLWQyeVpLRkg3c0VndmdvT3h4aWJTTXdFNDZzTEwxRVVzSGNHWUxyZ3FENVloMDBWdXhvbThLQnhleFhKRWVDQU1xclZTREJhTVd5M3VsVG5OQ01HTXNhU01XSl9CS1FodXF6bnFDQU0zZzRNTFNyaUloN0xPYzhJN3RTX0pHamYtUEpFMDg5M0tULTVKU3ZBM2xjVHY0ZHRJT0Nqd1JkVTg3TTVIOVZYMUF2dC1ES3NyWTd5ZXpB?oc=5",
    "data": "2026-10-14T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -176,14 +272,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo faz treino aberto à imprensa na Argentina antes de encarar o Estudiantes",
-   "link": "https://colunadofla.com/2026/10/flamengo-faz-treino-aberto-a-imprensa-na-argentina-antes-de-encarar-o-estudiantes/",
-   "data": "2026-10-14T12:28:13+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Atividade no CT do Defensa y Justicia (ARG) encerra preparação para a ida da semifinal da Libertadores O Flamengo faz, nesta quarta-feira (14), um treino parcialmente aberto à imprensa na Argentina. A atividade começa à…"
   },
   {
    "titulo": "Árbitro que expulsou Andrés Gómez já gerou revolta no Flamengo",
@@ -250,14 +338,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Candidato no Peñarol promete “fazer até o impossível” para tirar Arrascaeta e De la Cruz do Flamengo",
-   "link": "https://colunadofla.com/2026/10/candidato-no-penarol-promete-fazer-ate-o-impossivel-para-tirar-arrascaeta-e-de-la-cruz-do-flamengo/",
-   "data": "2026-10-14T01:49:58+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Pablo Schiavi disputa a eleição do clube uruguaio em dezembro Candidato à presidência do Peñarol (URU), o advogado Pablo Schiavi prometeu buscar Arrascaeta e De la Cruz, do Flamengo, caso vença a eleição do clube. Ele d…"
-  },
-  {
    "titulo": "MVP do Carioca, Simone Lee exalta 'volta por cima' do Sesc Flamengo",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXNRSHUyZGhYdzhuY080dW0tcjJRVTZGLTBHM0s4TXhmcGpBVUU3LTVzV1RRSTJtWnRkM0tnSDZRaGxUZGpDZnMxSzhBYzhsdFpjaGo5X3N0VWtrRy1xb3NELVFfdHBqM3k2TkFCVWhGUUtVdnNQT29zWndBYmtneFJFVy1XT1ZZYy1rcDJ3ZDVidURXRktoc28xWDVrREpPZVE?oc=5",
    "data": "2026-10-14T01:13:17+00:00",
@@ -272,22 +352,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "José Boto, sobre Maracanã: \"Preocupa pagar pela casa e outra pessoa fazer uma festa\" O imbróglio envolvendo a realização do jogo entre Vasco e Boca Juniors, pela volta da semifinal da Sul-Americana, continua. O diretor…"
-  },
-  {
-   "titulo": "Presidente do Vasco vê “covardia” em briga pelo Maracanã; dirigente do Flamengo rebate",
-   "link": "https://colunadofla.com/2026/10/presidente-do-vasco-ve-covardia-em-briga-pelo-maracana-dirigente-do-flamengo-rebate/",
-   "data": "2026-10-14T00:52:35+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Presidente do Vasco, Pedrinho comenta a disputa pelo Maracanã enquanto a Fla-Flu Serviços leva o caso ao STJ O presidente do Vasco, Pedrinho, classificou como “covardia” a possibilidade de o clube enfrentar o Boca Junio…"
-  },
-  {
-   "titulo": "Estudiantes x Flamengo ao vivo hoje 15/10: siga placar agora | Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcERfZjFONmhabHpjYVRRdTJ6c1Q0QTR6MlhXVVc2MjZEX3lzeERMOFFsWlpWLXpwcEhOMXhycjRUcmJxZURGZ1ctcHE4UzdEekxwLUJYMHV1WGw4d2Z4OGJlc1JrVnhjd2JuLTBHSFhBZmtUSUw3R0x2X0puMkljdmo0NkdtYVdkcDUzb1pwQS1LREVlbmxJ?oc=5",
-   "data": "2026-10-13T23:43:06+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Flamengo viaja para a Argentina com cinco desfalques contra Estudiantes",
@@ -498,9 +562,17 @@
    "resumo": "Cartão amarelo de De la Cruz do Flamengo contra o Fluminense Ao entrar em campo no segundo tempo do Fla-Flu no último domingo, De la Cruz se tornou o 14º jogador do atual elenco rubro-negro a completar 100 jogos pelo Fl…"
   },
   {
-   "titulo": "Fora de Campo Rizek critica atitude de Flamengo após partida: 'Foi ajudado' Há 4 horas - LANCE!",
+   "titulo": "Filipe Luís vira assunto no exterior após empate do Monaco: 'Ainda não'",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnNTNEZ4Z0xSN0JFVm1pN0prTjNSc05MMVR2QlF1em5RNzg1YjJYb1hPTldGTDEtQl9uTlQyLXBIQ1lqUHBXcDNtaTdfcm0yY2VwekRDU1d1NkxhdUM0emxlcmdaYXRaQldTLVpmMHpMS1oydmxoOGpHU05YQjZzQS04dnhuZmVEME54UmU5bHVOaTFJRjZVLXB2MlZxQkRWdFJ4Q3h6TnVCbThVVlowX0dR?oc=5",
+   "data": "2026-10-12T22:54:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rizek critica atitude de Flamengo após partida: 'Foi ajudado'",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQXphV3k2NUlDWkdoZzJuLTFnMmRKcW9mMGJKVGVhTXc4ZkdsV0hFXzV1c2NTcmJqVXFGcnozSW5sd1poYjJqRXNWbW8wbmpNaTdBekZ3Y25QcTJjLXVhamJ0S09vMjl1NlNPNzdzMVpVeDhRUUowZHNQSmFDNmtQLUgwbzVCbHpxSWx4ZVJycDNaWVRUX25EQVRzRkd6SFVkREVhaQ?oc=5",
-   "data": "2026-10-12T22:04:30+00:00",
+   "data": "2026-10-12T22:02:13+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -738,14 +810,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Goleada do Palmeiras sobre o Corinthians, vitória do Flamengo no Fla-Flu e mais! Os gols da 30ª rodada do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zSjdwUGt4YWpqYUpTeURWOG5ka0s1TjdXTmp4ZFlxczZ2UVJsLV9kR3R4NTJMUGV3ZG9MUkJvYlJva1hidVFISkFtLUxIVURvcUI2RTVZZV8zdURPQjFKS1JJRzEtY2c?oc=5",
-   "data": "2026-10-12T03:12:04+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Copa do Brasil Feminina volta nesta segunda com início das quartas; veja onde assistir",
    "link": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/futebol-feminino/copa-do-brasil-feminina/noticia/2026/10/12/copa-do-brasil-feminina-volta-nesta-segunda-com-inicio-das-quartas-veja-onde-assistir.ghtml",
    "data": "2026-10-12T03:01:00+00:00",
@@ -789,14 +853,6 @@
    "titulo": "Jardim comenta vaias a Pedro e sai em defesa de Rossi no Flamengo: 'Não sou jornalista para procurar culpado'",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ2JqVUFvZ1ZmOVc0VFpPS09jUTFaN0o4cHZNRzlpSHFPcWZkcktOUmJWVl9veGNvbVY4eVFzTjlzbkhyRFFHNm9UWS03Y3ZCOFk1ZmplS3hydFJWS252QmVzRlBsY2RqMUVzUG5GbDduTVR3c1FlMXluLVBXOW9RWFVKNXlGUjFDSzN5ZXJDVG90cGhSaFFYNEZqT21JZFJmTXB1RjFmNnkxdHllTFpnSnZ6UC1CSEZQYlNJNFA4M0xrQUp3ZjFDalFrZ0hWZ1N3UEVRbnhFMUdpVFVqOWRReWRGYWl4YnctNV9F?oc=5",
    "data": "2026-10-12T01:49:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jardim abre o jogo sobre má fase de Pedro no Flamengo, crava rápida melhora e diz: 'Se eu o tirar, quem vai ser xingado será eu'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aVHU4T19nV29vYlhydTA1bGdmaktFN1l1MWgxRkZiRTlxTUFFRkJDS25PNEh4R3B0Q01RR25zMU1nVk84Q0dIcEM0Wl9GTUFOeEZtZFpjNjBlVEFZSGc?oc=5",
-   "data": "2026-10-12T01:35:09+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -893,6 +949,14 @@
    "titulo": "Flamengo provoca o Fluminense após vitória no clássico; veja",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUNLU3J3TGpkN1ZjQkw1U2w5b3BJN2ZpTWwzeHkyU21uSXNiMXhFcXlfY241TmJlZ1hDRE9PM3BzMHdsNy1KSTlITGktbnB1RmQ2VldDYnNZT2xJYWw1R1hodFQ3MWY2Y0tHNTBIbkt5emwyX0ZkVVFYa29qcVE5eVEtemJGMklBVlBibS1tX19yeS1jUUxPZVFDOERNX3hrWUxrOVlB?oc=5",
    "data": "2026-10-11T23:50:59+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Marcão explica time do Fluminense contra o Flamengo e reclama da arbitragem",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVlkeWxNTjFxODJ6YjJEdlNaZmc3OUNtRWZ2VGFsNlBBQkxNZFhQQlRxaTVBcEtHNzhfUTJ5T2toSElYSEEtRkhfdFBxSHQwMjN6aktERG5zTkRYX0JiRnhpNVcwemNSZElLX1dheGsteEs3bDBwQ1dFQ3VIQXZkVkcwWXJvVU5FYk0zcGdKcDJpdUp1QkVISFhjbVZtc3lxZTY2SkQ0d1ZVYk12MVo5TkplU2NYaEZNWW5ialE1bm5jall0N2JDSzJ3?oc=5",
+   "data": "2026-10-11T23:31:38+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -1167,70 +1231,6 @@
    "data": "2026-10-11T11:25:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo perde margem para erros e projeta jogos \"extremamente tensos\" em disputa com o Palmeiras",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/11/flamengo-perde-margem-para-erros-e-projeta-jogos-extremamente-tensos-em-disputa-com-o-palmeiras.ghtml",
-   "data": "2026-10-11T11:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Fluminense - Amanhã, a partir das 17:00, na Globo O tropeço contra o Santos na última rodada do Campeonato Brasileiro tirou a margem de erro que o Flamengo tinha sobre o Palmeiras na liderança. Separados agor…"
-  },
-  {
-   "titulo": "Carrasco do Flamengo, Castillo deve ganhar chance como titular do Fluminense no Fla-Flu",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEJtM0xlTWRDNll6Y0daOVBqM2VHWDlYcHcxRmhWajJoRGRILXVpNnh0aDcwWlhDMlJrQWFtZ0FyQldTWThuU1ZidjlBdWljTUwxSHk0UWVXekc0UmJoTzlrQmRWUFR4SmxmX1F2bWk0V2MzTGVqTU9NaEItU3UtaFduaWNaby1FS19tdEpuMHBaYW9NNkswbU1hazRoLVVVbG5Iak5WUHZoSTNUd1NxT2NSTXNKYV8yVlRlelVtNi1WV2F0a1E?oc=5",
-   "data": "2026-10-11T10:15:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo defende topo contra rival Fluminense em duelo quente no Maracanã antes da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN3JXWG1QTnNPdjg5dERVWjR3V1M2cmpFMGJRRjMxRFcwTHpTNTRvdVQ2UUhDd1djTFZrRllScW41TmZHN2ZOdEhlbEVSbW5WNWdKU1ZGODNncHY4amYzR09TeEp0QjBJZVBBbnBFMXgtQjlxUFFmU21IZ2pQc0hqaGRiUG1ZWUlxdU4xaUZPYXdyNXhIaVpqeThkb3lTajgxWjJLWVhnb0pVQUdfRThQTjBjNWduQjlXVVE4RE5iMWttMTduMEhaLU1JUERtUjk3blN0eUsyTXBSLXZYc0lvR1NYZTFHSDZzR05sNEs1aXpYVnBSYjNCNUxR?oc=5",
-   "data": "2026-10-11T10:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Fluminense: veja árbitro e VAR do Fla-Flu",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGhneUhCcVk2Q083STZxVV9xeUNXVTcyV1NnVjJwbGhxTUxVRlpRNk5vVXdxS3FLWkhjOTFqTkZoNi0zSlhfMVktUWR3dkxkelZmSkt3RkdTRzFTcXNBcUFHNV8teDJZMWZUZnNFUHdFTGtqYTBNdWg0T2h3SDhwcWNCTE5Bd2p3RDRGRkdUQzhhSjlleng3ZFcxUGJmNFRRM2xIWGFwS2hra0s4SHJpdEhvVkF5Y090ajFudHhwZzc?oc=5",
-   "data": "2026-10-11T09:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "IA crava placar de Flamengo x Fluminense e Palmeiras x Corinthians",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHhQeFFoZU14bkR3MnlpbGhnRXJMOV9neFFNT1lBdHFFa0V5NmhnTTZ2dHZnaE4zVF9PZktreC1DdkVxZkRoUUZUcFVRT1RoUHhlbER6M2trUmwtWmRINTlEV1ZQNDNzdlpNbV9rMlNxVjJHTGdobG13TFpuZWZjZUN6VnJZdkpmdkEzVjl6Nm1UV2Z6djhmdnlIVkpRTm9nSWl2ZS1LeW1FWFR3T2ZV?oc=5",
-   "data": "2026-10-11T09:10:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Fluminense: horário e onde assistir ao jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMmhRMnJvbVRKbXlITEVWZ05IVGd6SkZST2JIN1F6ZTBTeGlDM0c1MEtfYUdIbkVOOGtrWDBwME9kVVR2UFJWeHJfZmcweG5YWkJXVUV6VFpqd1ZoaU85QmF2NmpSaGk4Nm50SmpmT0gyVnk5Uy1pblFWS2pPbjhMSFhCdDJfcy1VNnJWcmVtVXBZaWRIOG13ZnJRWVRGd2I0dnQ5OVdnYmFlOEtLYmd1WmJHUlR2akZBSWlQNldoSFotcFNNY184QW5tVDE?oc=5",
-   "data": "2026-10-11T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Parceiros fora de campo, Flamengo e Fluminense conciliam interesses e rivalidade no Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY2VtTDBkZ2xpOFhnMm5zMW1qcFJCRFAwUmJEY3RIekhKV2tKQTYzRFI2MkF6UG9QSkdHcjJNU21zc1lpR3Jocml6c1VWTGZ4U2MwWHkxcUtBZE9MN3BBbGI0TlBBWG4tX3JLblNsUTJLR01xaHNpd3ZPa1lqYnhNU2g3YkwxRG02dnVVd1Y4NTFYZmZITEh1Q2U3RkhEMTMtUjhVWXFWV2dHTkFxLVd3cklmX3BaTlh3TFJscG1neHV6dWhwU3Zhdm9BWGxtZ2VGdmxMeg?oc=5",
-   "data": "2026-10-11T08:25:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Caipirinhas, Copa de 2014 e quase ida ao Fla: Fred abre o coração à ESPN e repassa erros e acertos da carreira",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNc3FHM1pCWEJiYVotME96c0RyenA3QW0wdFpObWZDYTd3LTJkaEhhTk9zX0YwLVlPTEk3X2ZJNXQ3R05BWmpDOE9IdFZMeVd5aTJoUVdlOWJBQndKSE5pOTNHc2Q2am1lQ0hDYkNmcTl5a1ktU0RsMlhEeVFDMlpRT2NvWGI4ZHpHcmEwVnUxTld1R0NGY0RMc1ZnZDZPTmFnUHBjRU5UXzM3MVJ0UHZpNWR0TlVEYXVCSHBJT215VjYzUWplalNvOVdCQzJ6SFNPTHYxUVd4NjE1bjJZNDg0X1pMRkZLMFIxb25nRDFVc1F5Njg?oc=5",
-   "data": "2026-10-11T08:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   }
  ]
