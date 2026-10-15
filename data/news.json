@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-15T17:43:24.276466+00:00",
+ "atualizadoEm": "2026-10-15T21:17:08.906536+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 55
+   "itens": 56
   },
   {
    "id": "colunadofla",
@@ -23,31 +23,127 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 51
+   "itens": 57
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 85
+   "itens": 86
   }
  ],
  "itens": [
   {
-   "titulo": "STJ rejeita pedido de Fla-Flu, e Vasco tem nova vitória pelo Maracanã contra o Boca",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUG5CLWU2NWdQaVBlOXhZNWtucldkSWlKVFJhMldyOGtTQzhUckZhVW5XemswNzBaQVdpek1sLUtQWHBURnBWdHhJTFBBbmFERjF6aDlEdXp0d1JWVjczR3hhaExQaHUtR3Z2Q0FTY0M1aVpqZDlXNFBsSUNjdy11U1QtS0oydzRHSGktM2dmQkstTXR3WUwyci1WNHYxVjdTZC0zVWFqUHFDSnBOcDQ5RmdSaXNHcXNXNXk5LWRMOUpYLURLU096MWhwcGxmbWNfanVSM25udVE?oc=5",
-   "data": "2026-10-15T17:27:00+00:00",
+   "titulo": "Estudiantes x Flamengo ao vivo hoje 15/10: siga placar agora | Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcERfZjFONmhabHpjYVRRdTJ6c1Q0QTR6MlhXVVc2MjZEX3lzeERMOFFsWlpWLXpwcEhOMXhycjRUcmJxZURGZ1ctcHE4UzdEekxwLUJYMHV1WGw4d2Z4OGJlc1JrVnhjd2JuLTBHSFhBZmtUSUw3R0x2X0puMkljdmo0NkdtYVdkcDUzb1pwQS1LREVlbmxJ?oc=5",
+   "data": "2026-10-15T20:58:04+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogo da Libertadores hoje: Flamengo e Estudiantes iniciam semifinal na Argentina",
+   "link": "https://colunadofla.com/2026/10/jogo-da-libertadores-hoje-flamengo-e-estudiantes-iniciam-semifinal-na-argentina/",
+   "data": "2026-10-15T20:31:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo visita o Estudiantes (ARG) em La Plata e decide a vaga na final no Maracanã O Flamengo inicia nesta quinta-feira (15) a disputa por uma vaga na final da Libertadores. Às 21h30 (horário de Brasília), o time de L…"
+  },
+  {
+   "titulo": "STJ rejeita pedido do consórcio Fla-Flu e mantém Vasco x Boca no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeW9sSk9fX3NWVGhVU0d6T1MxUHZURW5ic1pGVGRfVXhLWUJQbUx1MTVmWlFJekppNHVJOTZRRU5EXzl5b1VYbk5KZEJjVXlpVlZnamhleHFibnFxSHJmNi14VlVEWm1qa04yMGtfNmtib1VVV25rOGxHN2lNV2dxa0g1MTA0Z1RkTnR1TDROX3QyQzNYMW9IYVJiV2FtZm5Ic0FZMVRaek52ck4ycWY3UW1Lbw?oc=5",
+   "data": "2026-10-15T20:16:59+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Decisivo e titular do Flamengo na Libertadores, Bruno Henrique pode ultrapassar Riquelme em participações de gols",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/15/decisivo-e-titular-do-flamengo-na-libertadores-bruno-henrique-pode-ultrapassar-riquelme-em-participacoes-de-gols.ghtml",
+   "data": "2026-10-15T19:53:12+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "\"Bruno Henrique tem uma imortalidade rubro-negra\" | ge Flamengo Se o Flamengo tem cinco semifinais de Libertadores em oito anos, muito se deve a Bruno Henrique. Jogador mais vitorioso da história do clube ao lado de Arr…"
+  },
+  {
+   "titulo": "Milton Neves: Não me parece arriscado cravar Palmeiras e Fla na final da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMmg4X3FfZ3NUX2N5dnlUOW5aeUdYT25iUE9MVkhkSDhoQkx3eWJ2aW9HYlZHVUVoTG10UDd2OTMyV3gwRGVvT2VnQi1NWnN3UGhudlZoenNIeXlXb1Rud0I5cFJoVkpuR0FUekp1MHBMczF0eWtDd3FaS3hMVWJjMm81RFJVTlBYc1JtNENHejFEY254c1hDS3pPRFI3UW9UNllZZ29iTnZYMjlSZF9lUUY3VmlfYVYzOE04dVBUOEZDdWI3emZBMDR6ZFZ4OE5yT1ktQw?oc=5",
+   "data": "2026-10-15T19:17:34+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Presidente do Estudiantes recebe Bap e delegação do Flamengo antes de semifinal da Libertadores",
+   "link": "https://colunadofla.com/2026/10/presidente-do-estudiantes-recebe-bap-e-delegacao-do-flamengo-antes-de-semifinal-da-libertadores/",
+   "data": "2026-10-15T19:11:18+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Convite partiu da diretoria do Estudiantes (ARG) e marca clima cordial antes do jogo de ida da semifinal da Libertadores Juan Sebastián Verón recebeu o presidente Luiz Eduardo Baptista, o Bap, e a delegação do Flamengo…"
+  },
+  {
+   "titulo": "Conmebol rejeita inscrição de Marcos Rojo, e Estudiantes vai ao TAS para ter zagueiro contra o Flamengo",
+   "link": "https://colunadofla.com/2026/10/conmebol-rejeita-inscricao-de-marcos-rojo-e-estudiantes-vai-ao-tas-para-ter-zagueiro-contra-o-flamengo/",
+   "data": "2026-10-15T19:09:19+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Estudiantes (ARG) remonta a defesa para a ida da semifinal e já mira o jogo de volta da Libertadores no Maracanã A Conmebol rejeitou a inscrição do zagueiro Marcos Rojo, e o Estudiantes (ARG) não terá o reforço contra o…"
+  },
+  {
+   "titulo": "STJ rejeita pedido de Flamengo e Fluminense e mantém Vasco x Boca no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUTQxemJ1R3dDOUppNlBmNG1zM1p5cngzTVZzbFpqUEVTcVhLVkFqRXpGSVg2eEp5RVZxUnBhNFVId3hZdVFOQnBuZ3BtQnRDcS14UHEzeXBPdmdQSnREckZnRDBEN184MzFoNEI3V2tJZy1KaXl4LXdPVlBITXFnOXpLYi1mVVlteWZoalp0NHJYNW5rR0FST2FyZjJSVm5USURncEFydTVsd01EUlVTbV9WUk9xWXlNMWUwanBvVGFpaUpZTVF1ag?oc=5",
+   "data": "2026-10-15T18:52:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Pulgar é absolvido no STJD em julgamento por entrada no Fla-Flu",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFY1d2NheXRCcFRpalZ1ZVVTQThXYnY2Ti1jTFZaTlIzbzd3WjQ0ZkJvTFVmS0lpcURQZE95Z0JjR255QzNiZ1hLLWdvdEVUd0xtelNKWUtHUkgzcHZOZldqQXBpU3drd2NTZ2Y2Tmc5MkEtYUxBSzI0RkZPdG5oWDgwLV82V3ZTZUdtYWdQaW5tR0lZUlZBVjVfMHduNWdfSEE1X2hkdXg?oc=5",
+   "data": "2026-10-15T18:51:43+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo avança para renovar com Rossi após reunião com empresário do goleiro na Argentina",
+   "link": "https://colunadofla.com/2026/10/flamengo-avanca-para-renovar-com-rossi-apos-reuniao-com-empresario-do-goleiro-na-argentina/",
+   "data": "2026-10-15T18:35:52+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Diretoria rubro-negra encontrou Marcelo Valeri durante a viagem para a semifinal da Libertadores O Flamengo avançou nas conversas para renovar o contrato de Agustín Rossi. A diretoria rubro-negra se reuniu presencialmen…"
+  },
+  {
+   "titulo": "Onde vai passar Estudiantes x Flamengo pela Libertadores? Como assistir ao vivo",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTm1jOUpBWDRJekxRNjNNMWk5dmNqaW1LR29MTnJwclNYU3JqMXdoZGw2aTNmeUgyX1ZnLVY1V0RLSHZoNW5CamQzLTJGVmJaN2ZLU3pnZERxUm5fVnd6cU1MZWNWTWEwaGUtVWhqUDg3cGpGWUNrUVVJWjU2M3c4cU14TGNhSUNyTEROQVpraUJLaHNLQU1LRUQtS2d0dlNCTG1XMXpvdmk5SGVVc2laSG9MVmE2TUNSdjlrSG9vSzFCUmprTTMyQk1WRjA0X3lBN3NDWW05ejJWQQ?oc=5",
+   "data": "2026-10-15T18:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "STJD toma decisão sobre Pulgar, do Flamengo, após polêmica",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNGlxSGRwWG1Ja3FoUzJRMk5ZNTNyN0pIUTVUNjFaZE9NRU1CNUJiR3dWUVdPa2x2YkREQlgzRXU4bWxsUk1WMndGY3dXTEZlX1ZfMHJKMmstMUI0YzBRTXlPOElmUC1pSU9HNlY2QW5nMWFSS1FBZW1wcEpqeFl3WWdKemg1WTNNNUE5OFpjbGdhWGUwaXpLVlBXRGFIWmgzYVE?oc=5",
+   "data": "2026-10-15T18:18:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Felipe Melo relembra passagem pelo Flamengo e diz que ajudou clube",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdWpuZktZNTNnX2dadDlyTXJ2OXR5bXNJTXdkak9NT0NzX0EzZnNRSXIzdHQ4cmxUU0p5Q3luOENQQUpneUZHTGNLOVRmeUxPQXIwT1JWNnlCWV9IOU5lMkI3NzBfQzlsLXRnQUJqVjhneGRCUHZ2OEZ4MTNJU2NjcTlXMWNMLXhZM2ZXWV95LU1kWXVDODhJOUx2NVpvLVZBak9zcGlfSC1YSWNyRTRkTGdJaGsySllMdmxac0N5ZkxsZnV1Q1o0RWgwUlhwdHRPdzUzajlhWDN1dEFkV0M4cnBkSC1hUmZMVnkwTHliZw?oc=5",
+   "data": "2026-10-15T18:16:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
-   "titulo": "Milton Neves: Não me parece arriscado cravar Palmeiras e Fla na final da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMmg4X3FfZ3NUX2N5dnlUOW5aeUdYT25iUE9MVkhkSDhoQkx3eWJ2aW9HYlZHVUVoTG10UDd2OTMyV3gwRGVvT2VnQi1NWnN3UGhudlZoenNIeXlXb1Rud0I5cFJoVkpuR0FUekp1MHBMczF0eWtDd3FaS3hMVWJjMm81RFJVTlBYc1JtNENHejFEY254c1hDS3pPRFI3UW9UNllZZ29iTnZYMjlSZF9lUUY3VmlfYVYzOE04dVBUOEZDdWI3emZBMDR6ZFZ4OE5yT1ktQw?oc=5",
-   "data": "2026-10-15T16:48:49+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
+   "titulo": "STJ rejeita pedido de Flamengo e Fluminense e mantém Vasco x Boca Juniors no Maracanã",
+   "link": "https://colunadofla.com/2026/10/stj-rejeita-pedido-de-flamengo-e-fluminense-e-mantem-vasco-x-boca-juniors-no-maracana/",
+   "data": "2026-10-15T17:18:06+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Presidente do tribunal barrou a suspensão pedida pela Fla-Flu, e a semifinal da Sul-Americana segue no estádio em 20 de outubro O Superior Tribunal de Justiça (STJ) manteve Vasco x Boca Juniors (ARG) no Maracanã. Nesta…"
   },
   {
    "titulo": "Flamengo faz alerta a jogadores contra 'catimba' na Libertadores após se complicar com expulsões",
@@ -58,12 +154,20 @@
    "resumo": ""
   },
   {
-   "titulo": "Pulgar, do Flamengo, e presidente do Fluminense são absolvido no STJD por incidentes no clássico",
+   "titulo": "Pulgar, do Flamengo, e presidente do Fluminense são absolvidos no STJD por incidentes no clássico",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/15/pulgar-e-montenegro-sao-absolvido-por-unanimidade-no-stjd-por-incidentes-no-flamengo-x-fluminense.ghtml",
    "data": "2026-10-15T16:40:17+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Pulgar levou cartão amarelo neste lance O volante Erick Pulgar, do Flamengo, e presidente do Fluminense Mattheus Montenegro foram absolvidos pelo Superior Tribunal de Justiça Desportiva (STJD) em julgamento na manhã des…"
+  },
+  {
+   "titulo": "Veja as prováveis escalações de Flamengo e Estudiantes para jogo da Libertadores hoje",
+   "link": "https://colunadofla.com/2026/10/veja-as-provaveis-escalacoes-de-flamengo-e-estudiantes-para-jogo-da-libertadores-hoje/",
+   "data": "2026-10-15T16:37:28+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Sem Arrascaeta, Danilo e Jorginho, Fla abre a semifinal da Libertadores na Argentina Flamengo e Estudiantes (ARG) começam a decidir nesta quinta-feira (15) uma vaga na final da Libertadores. A bola rola às 21h30 (horári…"
   },
   {
    "titulo": "STJ não atende pedido de Flamengo e Fluminense e mantém Vasco x Boca Juniors no Maracanã",
@@ -82,14 +186,6 @@
    "resumo": "Quarta Comissão Disciplinar rejeitou a denúncia por jogada violenta no lance com Rodrigo Castillo O Superior Tribunal de Justiça Desportiva (STJD) absolveu por unanimidade o volante Erick Pulgar, do Flamengo, na manhã d…"
   },
   {
-   "titulo": "Pulgar é absolvido no STJD em julgamento por entrada no Fla-Flu",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFY1d2NheXRCcFRpalZ1ZVVTQThXYnY2Ti1jTFZaTlIzbzd3WjQ0ZkJvTFVmS0lpcURQZE95Z0JjR255QzNiZ1hLLWdvdEVUd0xtelNKWUtHUkgzcHZOZldqQXBpU3drd2NTZ2Y2Tmc5MkEtYUxBSzI0RkZPdG5oWDgwLV82V3ZTZUdtYWdQaW5tR0lZUlZBVjVfMHduNWdfSEE1X2hkdXg?oc=5",
-   "data": "2026-10-15T15:31:41+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Conmebol veta reforço do Estudiantes de jogar contra o Flamengo",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2RseFNsQndqVzNXRlBQQzRDeGR6SXdhU2l1Zi1uTS1FSl9LdGpJdHB0RjJZVjNVQ1Y3STRhdmxTWHh1TUdEVlcxblBZTGNURE4waHNydGlyY1FFeWdkMUpXTTg0WFhYYWVsZEhMZHR0ZHFYQ2tvdk1QY3N3ajQzaTlxSHBBMkRkcm5VMDlSRTlrVzU0dVlyM3NmZGh6VnVVMFo2dA?oc=5",
    "data": "2026-10-15T15:27:41+00:00",
@@ -98,9 +194,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Estudiantes x Flamengo ao vivo hoje 15/10: siga placar agora | Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcERfZjFONmhabHpjYVRRdTJ6c1Q0QTR6MlhXVVc2MjZEX3lzeERMOFFsWlpWLXpwcEhOMXhycjRUcmJxZURGZ1ctcHE4UzdEekxwLUJYMHV1WGw4d2Z4OGJlc1JrVnhjd2JuLTBHSFhBZmtUSUw3R0x2X0puMkljdmo0NkdtYVdkcDUzb1pwQS1LREVlbmxJ?oc=5",
-   "data": "2026-10-15T15:19:09+00:00",
+   "titulo": "Paulo Vinicius Coelho (PVC): O depoimento de uma comerciante rubro-negra sobre o Vasco no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS2s2cE9ZZHlpbWFVZTNXZGpPMTBMeG9vajdISWQ5UzJjSGdlUk5IQ0xVOHRnNHBXZHBXaFo5NmpxQ1FYVUlmSkNqbndxdF9MZUNxSnVQS21yYkJVV1NPY3ZIcmhpaVdWQ0JRQ0hpMm5nMll1NnZuX045eVpyTVdhY0M5RVJqU0ZmaW1wU0xTSkRNQkxZSGszUHpwVnlxZlFkTkZBbkRMQjhMOGhZZXVma2QxZzk1OXNWeFNTclloclpDQjJDeXI4SUN6VQ?oc=5",
+   "data": "2026-10-15T15:21:37+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -135,7 +231,7 @@
    "data": "2026-10-15T14:29:52+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Rival do Flamengo na Libertadores anuncia reforço com duas Copas do Mundo Por ora, o Estudiantes terá mais um desfalque para enfrentar o Flamengo na semifinal da Libertadores, e justamente sua contratação de emergência…"
+   "resumo": "O zagueiro Marcos Rojo está fora da partida contra o Flamengo Por ora, o Estudiantes terá mais um desfalque para enfrentar o Flamengo na semifinal da Libertadores, e justamente sua contratação de emergência para esta fa…"
   },
   {
    "titulo": "Flamengo virou o temido Boca de Riquelme na Libertadores? Veja o que argentinos pensam",
@@ -143,7 +239,7 @@
    "data": "2026-10-15T14:00:02+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Mansur destacou o distanciamento de Flamengo e Palmeiras das demais O Flamengo começa a decidir nesta quinta-feira, às 21h30 (de Brasília), contra o Estudiantes na Argentina, uma vaga na final da Libertadores para defen…"
+   "resumo": "Brasileiros viram bichos-papões de argentinos na Libertadores O Flamengo começa a decidir nesta quinta-feira, às 21h30 (de Brasília), contra o Estudiantes na Argentina, uma vaga na final da Libertadores para defender o…"
   },
   {
    "titulo": "Final do Carioca de basquete: Flamengo x Fluminense",
@@ -162,7 +258,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Estudiantes encara Flamengo com reforço de peso que foi do amor ao ódio",
+   "titulo": "Inscrição de nome de peso é negada e Estudiantes tem desfalque contra Fla",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTG5DT1RGc291bi1SOFVrckRsTnlVaHVjNlo0eTJBUk9BNVoyc1NOLS1yZGhmNjB5dHJJM0VOQkxqd3k4aXNDMWtUT1F5TTVTYy00QWVSd3M0Z0VSMnp4TllOaXZyMkJ5TUszdWM4QmV4d1pPT1BSeHFDXzNVQjFRX2RZTE16Yk5IWnBJcjI5MVd3d2xRZVBVZ1lCOXhXS3ZaYVY2X3NrS043TUxvYVk3T0VDM1Y4dmQ4?oc=5",
    "data": "2026-10-15T12:30:00+00:00",
    "fonte": "uol",
@@ -258,12 +354,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Jogo do Flamengo x Estudiantes vai passar na Globo?",
-   "link": "https://colunadofla.com/2026/10/jogo-do-flamengo-x-estudiantes-vai-passar-na-globo/",
-   "data": "2026-10-15T10:59:00+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro enfrenta equipe argentina nesta quinta-feira (15), pelo jogo de ida da semifinal da Libertadores Contagem regressiva para mais um jogo importante do Flamengo na Libertadores! Nesta quinta-feira (15), o Rubro…"
+   "titulo": "Rossi volta a La Plata sob pressão após ser herói do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWjN4SDFBZW16UUh6WVpBRmYwa05pLTItdVJ3N0pXaHRKMVhlRXpmVkdQYWtSS3RQSWFWQWtyNGJuYVN0YU5rWXhrWWUtRHJYdFRFdHE0RTlydUNEcjVtcDdLaGVEcV9wek9ITUg0WkNsR2RBeGdjaWZaRnMzdGFKeXVqZko1aTNPX3BDeVF1aXMwdGpLUU90RTE1R0hvNk1hNEpWTEdnM2ZsOEhjX3c3OU82YmxZYXJKNjduTTl5UGFtVDBTaHc?oc=5",
+   "data": "2026-10-15T10:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Inteligência artificial crava placar de Estudiantes e Flamengo na Libertadores",
@@ -282,17 +378,17 @@
    "resumo": ""
   },
   {
-   "titulo": "Jogo ao vivo, escalações e desfalques: saiba tudo sobre Estudiantes x Flamengo, pela Libertadores",
-   "link": "https://colunadofla.com/2026/10/jogo-ao-vivo-escalacoes-e-desfalques-saiba-tudo-sobre-estudiantes-x-flamengo-pela-libertadores/",
-   "data": "2026-10-15T09:51:22+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro enfrenta equipe argentina nesta quinta-feira (15), pelo jogo de ida da semifinal Estudiantes (ARG) e Flamengo se enfrentam nesta quinta-feira (15), às 21h30 (horário de Brasília), em La Plata, na Argentina,…"
-  },
-  {
    "titulo": "Torcida do Flamengo reage à vitória do Palmeiras: 'Futebol horroroso'",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlAtWFVXdS1LQWxHb2tvNWw0dlVXOGVYanJ3OGdXWHFvZnRfMHlzZ0ktajlZSkV1c3MzYUVmaGg2TGVubjNzS3RMcXR0d0Y1ZnFmaUNraFhVVWZsQlNKQkNkQUFXTnlFS2JVY0ZUVGhIbWVFQlpMV0k4NkZ2bXhyMVlrTzF0eXBCN0hJaTRtT1RUWmhEbHA1UExuVkVybEhZX193ajhUUWJ6VVhjb1ZR?oc=5",
    "data": "2026-10-15T09:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Arias comenta vaias no Maracanã e valoriza vantagem do Palmeiras sobre o Fluminense",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjhRNzRrVUs3LUJGVDk4N2RPVkN6MVZUdk03bEwtcXFHTkZGMi14OWlhV1pXbTZ6ejBUbHZpTzBrbWowNWo2RWdzRGxRU3VKRUVZenRUZnlNc2xBemE1eDZNZmtIV3cwd0R2VWt1ODlpOWtxOEZPRExiWlJNLXpUdWxrZ3ZqckRELUgtTFBTenZJNS1DdWlyajhUZTZEeE1UOGgyZDliSDBLQUM0Y0RCNW1OcnNEUnh4OFEyVk1EODc?oc=5",
+   "data": "2026-10-15T09:15:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -354,28 +450,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Palmeiras joga feio, mas vence o Fluminense e se aproxima da final da Libertadores",
-   "link": "https://colunadofla.com/2026/10/palmeiras-joga-feio-mas-vence-o-fluminense-e-se-aproxima-da-final-da-libertadores/",
-   "data": "2026-10-15T02:30:57+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Palmeiras praticamente não atacou, mas marcou com Flaco López e Marlon Freitas Não é novidade: mais uma vez o Palmeiras não jogou nada e venceu. Nesta quarta-feira (14), o time paulista fez 2 a 1 no Fluminense, em pleno…"
-  },
-  {
    "titulo": "Flamengo visita Estudiantes na ida das semifinais da Libertadores",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWxUOTRqcUp1TXNWTVg5Q09oMEVBVmZXNEZTVFNqdnlTNFh1SmUtVVk3WUplYkVQbzJPRVFCTmthTVVnSkZaYzdJN3NiNWJDUXRFNldfWVROT0c5bE1qNmpNT1M4T0RDTHhJREVZWmY0eXNVdk5lbzRxNzJhcGhVQ2x4WlFIZUVlbGloYnpnWWNGQW5tVEo5WmNxY2R6d21jUWFreUsyR3FVcnNGS3JNQXNvQ01lb3hsRFZlRDZkZ29pcjdVaTkxNw?oc=5",
    "data": "2026-10-15T02:22:59+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "2 ex-Flamengo brilham, Atlético-MG vence Montevideo City e encaminha vaga na final da Sula",
-   "link": "https://colunadofla.com/2026/10/2-ex-flamengo-brilham-atletico-mg-vence-montevideo-city-e-encaminha-vaga-na-final-da-sula/",
-   "data": "2026-10-15T01:31:40+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Revelados no Ninho combinaram no primeiro gol dos 3 a 0 sobre o Montevideo City Torque (URU) Dois jogadores revelados pelo Flamengo decidiram o primeiro gol do Atlético-MG na semifinal da Copa Sul-Americana. Nesta quart…"
   },
   {
    "titulo": "Clima pesado': Lino alerta Flamengo para pressão e estilo 'firme' do Estudiantes contra times de refino",
@@ -386,28 +466,12 @@
    "resumo": ""
   },
   {
-   "titulo": "“Não sabia que ele era tão bom”: Mourinho elogia Wesley após virada do Real Madrid",
-   "link": "https://colunadofla.com/2026/10/nao-sabia-que-ele-era-tao-bom-mourinho-elogia-wesley-apos-virada-do-real-madrid/",
-   "data": "2026-10-14T22:44:25+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Duelo de crias do Flamengo na Champions League teve virada do Real Madrid sobre a Roma O lateral Wesley, revelado pelo Flamengo, caiu nas graças de José Mourinho. O defensor da Roma (ITA) marcou bem Vini Jr, também cria…"
-  },
-  {
    "titulo": "Na Argentina, Flamengo encerra preparação para pegar o Estudiantes; veja provável escalação",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenVLS0lqUEhUY09wY1lUQUxmc3FyNWczRkJmTHJnNy1WRWlqdjQxWWU0d25KR3V2cXppVWtEU054QU9VTlhwdFFjWXNZbnFTNDkxWEhzal9EMmQtSUROSG1rRTFqcjk4WkdJVERQdlRtSnpSWFRaVHlGZ2pDaEZIV2NCa01ZaEVhMlA3eHRyT01XdEluME5vaGhId2M3OUE1UjZmSnFFMGpTSTdDVl85QlZHcHV6LVFsWFcxc3phVWNKME41bHhF?oc=5",
    "data": "2026-10-14T22:20:07+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta faz fisioterapia no punho e manda recado à torcida do Flamengo",
-   "link": "https://colunadofla.com/2026/10/arrascaeta-faz-fisioterapia-no-punho-e-manda-recado-a-torcida-do-flamengo/",
-   "data": "2026-10-14T21:53:13+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Camisa 10 do Flamengo divulgou, enfim, nova etapa da recuperação às vésperas da semifinal da Libertadores Arrascaeta usou o Instagram para mostrar uma nova etapa da recuperação no Flamengo. O meia publicou um vídeo em q…"
   },
   {
    "titulo": "Escalação do Flamengo: Bruno Henrique e Royal devem voltar contra Estudiantes",
@@ -538,24 +602,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Maracanã merece Vasco x Boca, diz Casagrande: 'Isso é algo pessoal'",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVW9mV2lPeUtDazR6enFPTDV0aUU2ejd0YmhaUFp2anI5YUM5SHJGR3NhaDZsZk9fWWdhNkxJZXhwTTZUV2ZtdHd2cU9PUFVxVm56VHRpcVVNREdTQ19zV2phSDFlaGo0azNvYzFTYklTZWdYRlZhbEtULUVQa0lpcDdkVGVxNlROaWh0OG80NnJzN3VRWThqMjVTVUNWMHhTMFRjN051WjY3aTNzZklHeXRlaElOM3NpNWpnQkU1elhpaFdhMF8zTEo5eUtlZ0p2?oc=5",
-   "data": "2026-10-14T13:09:32+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Reforços da janela, Freitas e Valencia esbarram em concorrência no Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWGxORVRMZXZQRjdqYldsM29WS3ZlOFFLcHQ1ajVLSFdFVVNWRHFMNjM5MWQ2Y0Q3bXlCOTVONldBR2hVTmZ1Y2J0WFpOaWtWVDZ4U3JCSE9KT0pTN1RMSEVDS2w2T1Z0S1Z0eWYzNzlhRlFmdUl3bVlWYmNacG1pNTVHdTB1T3IyYjV3TnFKWFdQVXM4SGE4VERJekdyZG1SUzNmRGVSZ0Q0X1lPbkNNaTFYYTFLMTl6a1JwelhYNDhSelpxUDlEREtYYTNqbXktbHlwVG1PRUs?oc=5",
-   "data": "2026-10-14T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Como Flamengo vê concessão do Maracanã após vitória judicial do Vasco",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbm5MQjVyejBGWE1HbkpZODJWZlR3YjZiQ3Z4UlJEVk1HLWQyeVpLRkg3c0VndmdvT3h4aWJTTXdFNDZzTEwxRVVzSGNHWUxyZ3FENVloMDBWdXhvbThLQnhleFhKRWVDQU1xclZTREJhTVd5M3VsVG5OQ01HTXNhU01XSl9CS1FodXF6bnFDQU0zZzRNTFNyaUloN0xPYzhJN3RTX0pHamYtUEpFMDg5M0tULTVKU3ZBM2xjVHY0ZHRJT0Nqd1JkVTg3TTVIOVZYMUF2dC1ES3NyWTd5ZXpB?oc=5",
    "data": "2026-10-14T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -600,6 +648,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Libertadores: Fluminense e Palmeiras começam a decidir vaga para a final nesta quarta-feira A sequência de sete títulos brasileiros fortalece o argumento de que a Libertadores está ficando monótona — pelo menos para que…"
+  },
+  {
+   "titulo": "Rodrigo Mattos: Como Flamengo vê concessão do Maracanã após vitória judicial do Vasco",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbm5MQjVyejBGWE1HbkpZODJWZlR3YjZiQ3Z4UlJEVk1HLWQyeVpLRkg3c0VndmdvT3h4aWJTTXdFNDZzTEwxRVVzSGNHWUxyZ3FENVloMDBWdXhvbThLQnhleFhKRWVDQU1xclZTREJhTVd5M3VsVG5OQ01HTXNhU01XSl9CS1FodXF6bnFDQU0zZzRNTFNyaUloN0xPYzhJN3RTX0pHamYtUEpFMDg5M0tULTVKU3ZBM2xjVHY0ZHRJT0Nqd1JkVTg3TTVIOVZYMUF2dC1ES3NyWTd5ZXpB?oc=5",
+   "data": "2026-10-14T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Maracanã é 'arma' do Fluminense em Libertadores; veja números",
@@ -1026,14 +1082,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Ex-árbitros opinam: Pulgar deveria ter sido expulso no Fla-Flu",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUzBNM212MGdJZ3Voa1pGamotbkdrRnFvbE9jbVZBOUpKTDIxeUlsMEo5MVQtMU1VOUwwelZQR0pGb3ZyNEtoV1RZaTNNSVhBeENJNk1jbjQ2X19rUWFwZ0pnUTY5Q3lOZVB0aG5jOTJka3drS3pCRWpjT3RRVVJWTnQ1NG40aWdLYmJJclBYeWJZcnl6bXo1S244bDN0TUZvcTZ6eTEycWgyNjE5bHJzMUV3NzZyTURFMzl3OW5qeVZITXMxSU9ZeHltVVcwTmdDYW5N?oc=5",
-   "data": "2026-10-12T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo se afasta do Palmeiras e tem quase 70% de chance de título; veja",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUx4MHJFMnphWkJ4SU9GbEZPVEd5OERSY1Myd2F0TDU3aERiLUNUcEJJY2dOSGppZ1dLNExxb0ZrSmczTHd2V1RZZTZhRVVGTW5UNkxkTmpOS05SWEp2VHk4bE8xYVdsVVFVU3BzUFZ6OWVlekgtM1ZQejlKNHZVREROLXZCcXV5ZUFPRHQtdjZ1cDFNekRlMklOcXRVa0N0alhYc3Z1VnFNVENfUkYxZjlocThBN3FUTms0?oc=5",
    "data": "2026-10-12T12:07:42+00:00",
@@ -1184,54 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Danilo sofre choque e deixa o campo com médicos do Flamengo Após um choque com Fábio aos 45 minutos do segundo tempo na vitória do Flamengo por 1 a 0 sobre o Fluminense, neste domingo, no Maracanã, o zagueiro Danilo foi…"
-  },
-  {
-   "titulo": "Maracanã tem protestos contra proibição de bets e pelo fim da escala 6x1",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEpZdkQxek5PTURuWnpxWXUycFdzRnRMUXUwazdrLXVlVl80NHNrejRMUGx6QU9lV0NoTWhQRTZ3eUM3YjFLUG9HQWJIQVJTUTR3U0tlVHpLVURzaGQwSGpvUXdWOW5JUDhoUEhvRDBFXzB2b1BialNmMDdpYkhpTHprMWtlN1NLZTUwOTEyVm5iTHJ6ZXo4NjU3QW5JcHIwdnd3cHgxazJaYWVBanp1MEFWX2N4eXlXR0V1bjNpdjNvdw?oc=5",
-   "data": "2026-10-12T00:51:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Fluminense solta nota de repúdio com arbitragem do Fla-Flu e reclama de dois lances: 'Clássico manchado'",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUHBmMzJZSW1qc0x0R0Ytcl9KcGtoTTB3V0FJTjF1QmdlZUtXR0tiMDFWMVNXcjFsQlV3Z0wySWpkbng0bW5GRV82cDhFcXA0MWd1SHhSMHRRWkxFQ0V3c3V4V29oZTJfa0U1RFRqdzFrc1ZhczdkWFhjTTlCWkcyX0szdXlGOUE3SG0yTnAtOGZOaVQ2MUJqNTdjazhMd0NDSC0ya2VvNWlxYlQ5dFgza0xWNG5ycUJKd3A5NTBhOENhcW1YdWo0dXFkYjZ0VHJNVERWMzBaMC1PM1ZUZHdQUGdtdw?oc=5",
-   "data": "2026-10-12T00:49:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Felipe Melo é sincero sobre polêmica em Flamengo x Fluminense: 'Mudaria'",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTkpJbmVkekZYSVRXRGtZOWk2ck5yeWg0S1ljRkFndks2Yy1NMVdNcTc1YkRTQ29PcWxTazJZTThySl9wdHUxUlpWclJzeHllLVJVdUh3MkswQ2hqVW5MR0k3OVIwVW5FMlhVY20xMU9wSS1ONW1nWUJJNDl2YWczVHo5a0NzYmdrUVY0c3pyQXFZQ0s3dzZ5ZXBHWXcyTVMzb1FaaDQ1cFJvd09MYWlKSmNGbw?oc=5",
-   "data": "2026-10-12T00:43:59+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Julio: Difícil Palmeiras não perder terreno para o Flamengo até \"final\"",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMGh4MEF3b2VkWjg2YUdRNmRhUXBtM0l6X0VLNjZqYWlkM25YWm93MmkxbzMtS0RMNHEyVm90R1dLMy1zaEhOclh1VFFfWlhHRTFYZnVvcUZCWUJxRG9SdTF1LWlBS3ZTVVk2U3BsNkI5Z0ZiLTJYQkdLOHZVLTZaZ3l4bnpzWWdQaDZIV01kSXQtMFBjTWJlcVJ4WUhDYlB4YV9DZTZpR3ljV1VwUjk0VS1jUll4ZkI4Qmpjck5kM3IwMHoxNExVUk9saDVmYWxEN0VCTnVvTXhPZFc3?oc=5",
-   "data": "2026-10-12T00:41:37+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Pisão de Pulgar no joelho e suposto pênalti de Alex Sandro: VEJA os lances polêmicos do Fla-Flu que irritaram o Tricolor",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UQXF0QUROME1kcm9ySURadjIzR2drSzFNRW9QajEwb1hrbTlOOE5ONlJYMW9Bc2Z3YUhlVjcybkFhUVk4d0REcDR0d0Vxd3d0WERZS2d5X0dBWWR6MlE?oc=5",
-   "data": "2026-10-12T00:29:29+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jardim defende Pulgar e encena lance com assessor do Flamengo em coletiva",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa0dTdGp5aFZtV1N3Q2RsbVAzRi1qd0FnRVpfOWVTSXhicTFZVW1VbGE3TkNPaW1xSjJfTGIzdUR5YXNNSTVTVTZyUnItaWNfa0xidmtjWmNxT1F6YlVMUzcxZE5BbzhWZUMyZ1JuXzFYTER3MVd3eGU4OUNydE12RElPRzFDbldrSWU1X1JNUWp4TXlQTGd3QWhCUG9XU0tqb2lIbTNZaHlxczlKZEFFcEw0VGJ3dTN5d2lieXlXNjhuVFc3ZVlrZmdKTjNOR28xVzdrUEVDbXRtb1VzZ3c?oc=5",
-   "data": "2026-10-12T00:27:24+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   }
  ]
 }
