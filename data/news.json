@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-14T23:08:32.557338+00:00",
+ "atualizadoEm": "2026-10-15T01:45:52.542077+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 42
+   "itens": 43
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,56 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 58
+   "itens": 49
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 90
+   "itens": 89
   }
  ],
  "itens": [
+  {
+   "titulo": "Tempo Real | Estudiantes De La Plata x Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnVkTGppakM5MWtTUzdsdjJiZDB3NFNSMTRwOEZUVGRVcWc4OHE4SW1LdEM2RnRRZEFqdGZMSEhNRWthdi1vWXpvY096SWQ0QUttclM5U21Ta2NDM29NbWZtbFo0NGpTZ1hRdEVIa1dOZ2RnRm56X19rbXZVZGxWMXd6WGtPTWl1QmQtdW02em1xMUp5THB3YWhUMWhIaldBSGtXVjZ0VEh0RzJMclYxaWxIdkU0c3Z2Njltcw?oc=5",
+   "data": "2026-10-15T00:50:56+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fluminense x Palmeiras: escalações, onde assistir ao vivo e horário de jogo da Libertadores",
+   "link": "https://colunadofla.com/2026/10/fluminense-x-palmeiras-escalacoes-onde-assistir-ao-vivo-e-horario-de-jogo-da-libertadores/",
+   "data": "2026-10-14T23:31:04+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Quem passar, encara Flamengo ou Estudiantes (ARG) na final da Libertadores O Flamengo está na Argentina na reta final de preparação para a semifinal da Copa Libertadores da América, onde enfrentará o Estudiantes (ARG).…"
+  },
+  {
+   "titulo": "Clima pesado': Lino alerta Flamengo para pressão e estilo 'firme' do Estudiantes contra times de refino",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83VkhUVEhIN0p4bkQ2OWl4VWR3TW05TlFRNHhtTlQyaXgxbkU2eDBoMVE0MWRPVms0ZWNpbUpmVjhNTE9uc1F0VVlsN1U0ZlU3eVF3X1phM05zSDdrVXc?oc=5",
+   "data": "2026-10-14T23:06:21+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Com 2 zagueiros suspensos, Estudiantes aposta em estreante para jogo contra o Flamengo na Libertadores",
+   "link": "https://colunadofla.com/2026/10/com-2-zagueiros-suspensos-estudiantes-aposta-em-estreante-para-jogo-contra-o-flamengo-na-libertadores/",
+   "data": "2026-10-14T22:53:51+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Marcos Rojo, zagueiro de 36 anos, deve fazer a reestreia pelo Estudiantes (ARG) na quinta-feira (15) Marcos Rojo deve fazer a primeira partida da nova passagem pelo Estudiantes (ARG) justamente contra o Flamengo. A impr…"
+  },
+  {
+   "titulo": "“Não sabia que ele era tão bom”: Mourinho elogia Wesley após virada do Real Madrid",
+   "link": "https://colunadofla.com/2026/10/nao-sabia-que-ele-era-tao-bom-mourinho-elogia-wesley-apos-virada-do-real-madrid/",
+   "data": "2026-10-14T22:44:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Duelo de crias do Flamengo na Champions League teve virada do Real Madrid sobre a Roma O lateral Wesley, revelado pelo Flamengo, caiu nas graças de José Mourinho. O defensor da Roma (ITA) marcou bem Vini Jr, também cria…"
+  },
   {
    "titulo": "Arrascaeta x Jorginho: qual desfalque faz mais falta ao Flamengo contra o Estudiantes? Vitor Birner analisa",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YRDN4YVJkSU9ZaF9FWWF3YU9EWUhvcVkwZFFMbXA5Q2R2NjZZeGs1WHl0N2tmaDdvSEpidG4tVjc2Wl9kemZLNElYODNmZ2tsWkZINDVxNlJqaG5KTWc?oc=5",
@@ -74,14 +114,6 @@
    "resumo": "Voz do Setorista: Flamengo treina na Argentina em preparação para jogo decisivo O Flamengo encerrou na tarde desta quarta-feira, na Argentina, a preparação para enfrentar o Estudiantes. A partida desta quinta, às 21h30…"
   },
   {
-   "titulo": "Tempo Real | Estudiantes De La Plata x Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnVkTGppakM5MWtTUzdsdjJiZDB3NFNSMTRwOEZUVGRVcWc4OHE4SW1LdEM2RnRRZEFqdGZMSEhNRWthdi1vWXpvY096SWQ0QUttclM5U21Ta2NDM29NbWZtbFo0NGpTZ1hRdEVIa1dOZ2RnRm56X19rbXZVZGxWMXd6WGtPTWl1QmQtdW02em1xMUp5THB3YWhUMWhIaldBSGtXVjZ0VEh0RzJMclYxaWxIdkU0c3Z2Njltcw?oc=5",
-   "data": "2026-10-14T20:56:35+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo é um dos 5 brasileiros entre os clubes mais valiosos do mundo; elenco de 211,2 milhões de euros",
    "link": "https://colunadofla.com/2026/10/flamengo-e-um-dos-5-brasileiros-entre-os-clubes-mais-valiosos-do-mundo-elenco-de-2112-milhoes-de-euros/",
    "data": "2026-10-14T20:42:33+00:00",
@@ -98,7 +130,7 @@
    "resumo": "Crias do Ninho do Urubu vence o Criciúma por 4 a 1 no Ninho do Urubu e pode empatar na volta O Flamengo venceu o Criciúma por 4 a 1, nesta quarta-feira (14), no jogo de ida das oitavas de final da Copa do Brasil Sub-20.…"
   },
   {
-   "titulo": "Flamengo x Fluminense: onde assistir, escalações e horário das quartas de final da Copa do Brasil Feminina",
+   "titulo": "Flamengo x Fluminense: onde assistir e escalações do jogo de ida das quartas de final da Copa do Brasil Feminina",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTYydmpDeFl5TzUyTTRIS0hpZ194Sk93YkplXzdwTy1hU0I5LWpIMWF2ZDNja1JqVU1vY0h3ay1UbTJyczhRVmpEX2hZT0FhUWg0Qkl0T2p3dFFPTlUtTTFUS1o3VFVITkU3azRVekszYVdSOEx4UUdDZ3pJYTluN0dhcXRkX2JmUmFFV0xtSXdaNnAwNVVrNWZKaTRPR3AzYXg1MGNwcXIwRjdSLVg4RUVnQm9BWmt1eG8wa1BHZDNWNnBrYlhDX09PZENBQXRaNkFjOWU4WUlMQ0VtWTcxSThR?oc=5",
    "data": "2026-10-14T19:35:00+00:00",
    "fonte": "lance",
@@ -130,14 +162,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Cria do Flamengo, Vini Jr. é punido com 4 jogos por puxão de cabelo e perderá o El Clásico",
-   "link": "https://colunadofla.com/2026/10/cria-do-flamengo-vini-jr-e-punido-com-4-jogos-por-puxao-de-cabelo-e-perdera-o-el-clasico/",
-   "data": "2026-10-14T18:51:06+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Vini Jr, revelado pelo Flamengo, foi suspenso por quatro jogos após puxar o cabelo de Saliba e perde o El Clásico contra o Barcelona O Real Madrid (ESP) perderá Vini Jr por quatro jogos na La Liga. O atacante revelado p…"
-  },
-  {
    "titulo": "Estudiantes x Flamengo ao vivo hoje 15/10: siga placar agora | Libertadores",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcERfZjFONmhabHpjYVRRdTJ6c1Q0QTR6MlhXVVc2MjZEX3lzeERMOFFsWlpWLXpwcEhOMXhycjRUcmJxZURGZ1ctcHE4UzdEekxwLUJYMHV1WGw4d2Z4OGJlc1JrVnhjd2JuLTBHSFhBZmtUSUw3R0x2X0puMkljdmo0NkdtYVdkcDUzb1pwQS1LREVlbmxJ?oc=5",
    "data": "2026-10-14T18:40:22+00:00",
@@ -146,17 +170,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Estudiantes x Flamengo: onde assistir e escalações do jogo",
+   "titulo": "Estudiantes x Flamengo: onde assistir, horário e escalações",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFR1N3A4dnM1MzltSzdlTlU5NVVHZ2dZempUOE5mOU0xWUlMLVRqbDBuTFo3Y3l4cWVGUVlLN1VwUHdacjg0MGdRdlFFMUdocG93M1VCVmFhYThIMEt4c0E4VmtRSnJFZFViLWF3dFpUdDVCN0UxNWZLSjRWMEdoanFHNm5MZmoxSUJUY3R2MUF6WVNOcFNhQUZ0YzlyaUVPVUdhZldpRmNzMmRVeXoyWFo1NA?oc=5",
    "data": "2026-10-14T18:34:41+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Como está o gramado do Maracanã para Fluminense x Palmeiras pela Libertadores?",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQThTZFZhejlYWWI3X2pWYjJjOFVWQlB1aDdMTElSMTFzbnp6MzRCM2xGbEhZekcwZUdzM21yZFdVaC1WcmdBTFZXSGczcTZpMElQRm1wMWdLVjliT1hsQ1VvVkdnMDdqZHdFVWROWHV3dmNxZ0M4Y08zanhtS1VTNVNtcXlJWmxiaERGYXNGOVZtWHIwX3BMek5EZmVOUS1KOHNSR2kxMm1tZkQ0RFFpVDl5bkVaVFBaTDI1RC1QcS1uUQ?oc=5",
-   "data": "2026-10-14T18:20:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -194,14 +210,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Oitavas de final: onde assistir ao jogo do Flamengo x Criciúma hoje, pela Copa do Brasil Sub-20?",
-   "link": "https://colunadofla.com/2026/10/oitavas-de-final-onde-assistir-ao-jogo-do-flamengo-x-criciuma-hoje-pela-copa-do-brasil-sub-20/",
-   "data": "2026-10-14T15:51:47+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Garotos do Ninho enfrentam equipe catarinense nesta quarta-feira (14), pelo jogo de ida da terceira fase da competição O Flamengo enfrenta o Criciúma nesta quarta-feira (14), às 15h (horário de Brasília), no CT Ninho do…"
-  },
-  {
    "titulo": "Flamengo tem jogador da base convocado pela seleção de Portugal; conheça",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/14/flamengo-tem-jogador-da-base-convocado-pela-selecao-de-portugal-conheca.ghtml",
    "data": "2026-10-14T14:50:56+00:00",
@@ -224,14 +232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Pulgar, do Flamengo, é denunciado no STJD e pode pegar até 6 jogos de suspensão",
-   "link": "https://colunadofla.com/2026/10/pulgar-do-flamengo-e-denunciado-no-stjd-e-pode-pegar-ate-6-jogos-de-suspensao/",
-   "data": "2026-10-14T14:34:39+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Volante do Flamengo foi enquadrado por conduta violenta após entrada em Rodrigo Castillo no Fla-Flu; presidente do Fluminense também será julgado O Superior Tribunal de Justiça Desportiva (STJD) denunciou Erick Pulgar a…"
   },
   {
    "titulo": "Pulgar é denunciado no STJD e pode desfalcar o Flamengo",
@@ -418,14 +418,6 @@
    "resumo": "Rizek: 'No futebol atual, o Maracanã não comporta três clubes' O Consórcio formado por Flamengo e Fluminense para a gestão do Maracanã entrou com uma ação no Superior Tribunal de Justiça para tentar barrar o jogo entre…"
   },
   {
-   "titulo": "Rival do Fla, Estudiantes se junta ao River em projeto no futebol argentino",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaDRMSzlRdkZ1ZGtVX3pTZ1JiemFISkoyVW5RWHhNeHlra3dKUkdiNDdrQXhwT2ZpZjZJZ2JZOFZhYjNEeHZKR2dKYXlrWk5mVzRrQ3VLaHJJTmZjcmRnbExkUWotODFMTmo3SUNzMzJFQ1hZeGdmNmp2M2xLVmNoMkNzTkE1OXNZVHowUnR6Q3RtTlZKX0g0X2ljSkhJYjB1UU1NdmxtcFk2aGU1Z2UzQXJVSDA3WjJxWExvZHkzYmo0NDBiTUJ0OUg1Xy1ldnhPcEtzT01tMG1qU1NEWnVN?oc=5",
-   "data": "2026-10-13T22:44:36+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Consórcio Fla-Flu aciona STJ para tentar impedir Vasco x Boca no Maracanã",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcDJDb0J6cWxGbXJ2ZHc0QWVGVHZ6TDdtWFlFUW9yUjNKQ1pVdGN4d1o3Sk1fd0djaktoQXVWWlBtSXlYVmxQRXRscTZoeVZJMjE3UGdXU1Q0Umx1eG5ZU20tZ0pQdDFtNE12VlZ0V1N3UzY1R25na1FmRzdIbXVNYmlHVGtjdGJiaG44a2REdWpWbUNfeVVfT2xkSmtoZzBueHdmUk83c3hEMUJQeWc?oc=5",
    "data": "2026-10-13T22:36:38+00:00",
@@ -466,9 +458,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Vôlei Fluminense x Sesc Flamengo: horário e onde assistir à final do Carioca Há 4 horas - LANCE!",
+   "titulo": "Fluminense x Sesc Flamengo: horário e onde assistir à final do Carioca",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0l1akloekFibmRoVDJpWVdKNmtoaWJBbHJZdmt1TFIyeHpxZjEzZzdPcjhYYVZwSnY2TWlpY1NyNzBHVmsyUVpuT210OHNKd2l6VXA4Qkl1UWtRNHJqaGFPZnh6QTEtb0JXTGNFRXFRQWhFOUc3cEF2ZmRQOWU5UWZrQnVPVGZ3czJkcjJrdWxSbWdyUGktaVU2eEo1emtYRDhUcjh6REE?oc=5",
-   "data": "2026-10-13T18:35:23+00:00",
+   "data": "2026-10-13T18:30:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -1210,14 +1202,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Entenda por que Flamengo x Fluminense não será às 16h na Globo",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmpKQkJld25kU1Fyd1J1RFUxREZNTFhNdGpJSUQxUTItWkxDcWt4VGxIR1NELVdwOGNPTlVXaE9IUmNXMDFITXpPd0UzaVVzRFNBdWJlYmd0SnNpYk9HdVVETFJyQVFQbnpDMllCN3B2VEF3Y3g3YTBvY29RTnJGVzVVeURfYUZqS3FSTllralUzWGlmLUNVVmpZXzF6aGdTMmhrSGl0TC1UZw?oc=5",
-   "data": "2026-10-11T14:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Cinco duelos que vão decidir clássico entre Flamengo e Fluminense",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMnNYR2xDTlRNWDBNT1BPMnFIY0k4U3E1dFFKaHMwOTV0S1VOa054ZkRTZzB6YVpKMWUwN1gyYjBEYUpqWHRYQ29QWUxkS3RMNG1ndUtOeXlQaGVSeTA5Nk92YUdlWHllaU5Lc3JicUJaMFRlaUVBZEczV3NiX1BmaEo3U0RyRTFSbF82cVo4SjhFQ09jY1RQUnQ2SzdCVjh2NDNaWUplVldGbEU?oc=5",
    "data": "2026-10-11T13:00:00+00:00",
@@ -1231,6 +1215,22 @@
    "data": "2026-10-11T12:51:23+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fla e Palmeiras têm rivais em comum por taça: quem pode 'decidir' a briga?",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVZnRGFwMDVGZWcycEtnUnV4bjhBZnd4UldPMGpWQUIzemZ5UnZYOU5CZDZHM0FqVmpzV3ZzZWlUU215Si05blJKNlY4dUFncE1hUTdRLTczendXRXJtM3haOXVaQlkzRkpoelpjMjhiSUd4NlQtNTBNWDIybUZFLWV0Zy1hbDRHME53RE8ySmo1VVlDN3I0ZGY3S1JKRWZKVDNQOV9DY2R0bzhhZWFIX3RSVmJEOVdpVWhyWTB6NS1OVUFnYjUtVw?oc=5",
+   "data": "2026-10-11T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fla-Flu tem clima de aliança nos bastidores na prévia de possível final",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUFQaGdhaFhXekxreTZ2dzRFczJTOEJhY0FsTVUxYzVyamhaU0lSM3JmSXhzWGZfQ2lURVFaeUFzZjZycjI5emVMSTJGeXFVRFlGdXYzRDNTM1NfdXJxbU5hZmhjc1Jxc3pjMUtSUVN3QzNNd0ZMWFpfcGhiV0JoNmtwYXhCOThfV1hRaThTRnVUYXp0bTMwaGNkNkluRFRRcHhjQnB6TDNScF9QQU9NNWZYc1lCSVFiWXFhdUpnaTNoRDRNZnFXVFh3S1BXeWNYWE1GZ0owQ0M?oc=5",
+   "data": "2026-10-11T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
