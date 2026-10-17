@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-17T16:38:00.472927+00:00",
+ "atualizadoEm": "2026-10-17T19:15:17.565309+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 46
+   "itens": 47
   },
   {
    "id": "uol",
@@ -34,20 +34,76 @@
  ],
  "itens": [
   {
+   "titulo": "Flamengo terá jogo sem público por causa de Vasco x Boca",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVkczZXZ2a0d0X1Nqenp4MEJZd0lnZzNTeDJHQlRsSklHM1U4TndVTGNIRlhUOUljZkR5eV9wcUxCUTl5ODNoZEtGdXlZZlZpR0h5ZTh3RWZuTzRDVDdoV0h6aGFJNFlMbVJIM29MZGUySFZTT2FCVXVZQzhNTk9mSnhKajl6SjdTTUNTYkdteFRMWHZoWFFENkJmbkFQX1BwOVJnenkzWDlBY0poc0FVQktVb0RxdzdTeUlJLVdHTFpoM29ZSEE?oc=5",
+   "data": "2026-10-17T18:39:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Semifinais Palmeiras x Fluminense, Flamengo x Estudiantes: quem chega à final da Libertadores? Os palpites ESPN para os jogos de volta",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Nem1uNUQ4bGRvSWs4clQtbWFOQjhJTm5JWlg0V2JiY0k0N1VuMnpsLVZGRks5djBLN3B4bEU4RHBUc0hoa0VZMVJFZHhBcjdVUlU5eUYwcmFsTDFRUGc?oc=5",
+   "data": "2026-10-17T18:12:06+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Com jogo do Vasco confirmado no Maracanã, clássico do NBB muda de palco e terá portões fechados",
+   "link": "https://ge.globo.com/basquete/nbb/noticia/2026/10/17/com-confirmacao-de-jogo-do-vasco-no-maracana-classico-do-nbb-muda-de-palco-e-tera-portoes-fechados.ghtml",
+   "data": "2026-10-17T18:09:49+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Pedro Maia aponta favoritos ao título do NBB 2026/2027 O clássico entre Flamengo e Botafogo, pela segunda rodada do NBB, ocorrerá em um palco diferente do previsto. Inicialmente marcado para o Maracanãzinho, o jogo da p…"
+  },
+  {
+   "titulo": "AO VIVO | Coluna do Fla acompanha embarque do Flamengo para Salvador antes do jogo contra o Bahia",
+   "link": "https://colunadofla.com/2026/10/ao-vivo-coluna-do-fla-acompanha-embarque-do-flamengo-para-salvador-antes-do-jogo-contra-o-bahia/",
+   "data": "2026-10-17T18:06:05+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Delegação do Flamengo viaja para Salvador após o último treino no Ninho do Urubu O Coluna do Fla transmite ao vivo, neste sábado (17), o embarque do Flamengo para Salvador, no canal do YouTube. A delegação rubro-negra v…"
+  },
+  {
+   "titulo": "Flamengo divulga lista de relacionados para confronto com o Bahia, pelo Brasileirão; veja quem viaja",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/17/flamengo-divulga-lista-de-relacionados-para-confronto-com-o-bahia-pelo-brasileirao-veja-quem-viaja.ghtml",
+   "data": "2026-10-17T17:25:44+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Jardim fará alterações para o jogo de volta? Veja informações do DM do Flamengo O Flamengo divulgou a lista de relacionados para o jogo contra o Bahia, neste domingo, às 18h30 (de Brasília), pela 31ª rodada do Campeonat…"
+  },
+  {
+   "titulo": "Escalação: Flamengo tem retorno de Jorginho contra o Bahia, mas segue com desfalques",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzRYcWl0Rm5TcmpPUHE1YTVkR3dpZkVjY2dhbVVlMTNpeUJXLWgxaWNrczUzbXhQSEU5cTFkV0JONWYzNkIxdjRaLVhqbVUtUENwV1U1TG5uaWhzeFkwcXBaV0ZGWV84bjJDLVpjTHFYNGREaU95emN5M3UtNlVpaVRDU1ZwV214c1dBRnkyeWljc3B5MFFVb1lKYnhjNTFUbXpVa3F1bjl0elZrQ1ktSVdrTmJGa3RTQnl0OWZR?oc=5",
+   "data": "2026-10-17T17:13:10+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Renovação de Rossi trava no Flamengo; veja títulos e falhas do goleiro",
+   "link": "https://colunadofla.com/2026/10/renovacao-de-rossi-flamengo-titulos-falhas/",
+   "data": "2026-10-17T17:04:32+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Venê Casagrande informou, e o Coluna do Fla confirmou: a renovação de Rossi não avançou. Goleiro soma sete títulos e falhas recentes A renovação de Rossi com o Flamengo não avançou. A informação foi publicada pelo jorna…"
+  },
+  {
+   "titulo": "Filipe Luís e Davide Ancelotti brigam pela liderança do Francês",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDJtcXN4aUh5b2VxdDBjanZRck5TbnY5TEJOT2pfeENiaUhzS01IWVFnS1NGc1l1eXNubjRHdWoyUkdLR2wxOHU1anBneG1JYzNkamhnT25ObXRleDljeTFYbE5WU1JYZXB5U3BDUTBkYlZMYWg5WERNRm5CZW44LXlDanU2b3NBRmVQSmV0ZGE4QVE4WHBrcEd6eG53QUFOUUx2S0E3Z1pHUzF1SEhqX0ZR?oc=5",
+   "data": "2026-10-17T16:59:29+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo pode ser líder e ficar com 1 jogo a menos que o Palmeiras; entenda",
    "link": "https://colunadofla.com/2026/10/flamengo-pode-ser-lider-e-ficar-com-1-jogo-a-menos-que-o-palmeiras-entenda/",
    "data": "2026-10-17T16:00:31+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Jogo pode ajudar o Flamengo no Brasileirão Por mais uma vez, Flamengo e Palmeiras disputam de forma acirrada o título do Brasileirão. Neste momento, o Fla é líder, com 64 pontos, e o adversário vem logo na cola, com 63.…"
-  },
-  {
-   "titulo": "Escalação: Flamengo tem retorno de titular contra o Bahia",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzRYcWl0Rm5TcmpPUHE1YTVkR3dpZkVjY2dhbVVlMTNpeUJXLWgxaWNrczUzbXhQSEU5cTFkV0JONWYzNkIxdjRaLVhqbVUtUENwV1U1TG5uaWhzeFkwcXBaV0ZGWV84bjJDLVpjTHFYNGREaU95emN5M3UtNlVpaVRDU1ZwV214c1dBRnkyeWljc3B5MFFVb1lKYnhjNTFUbXpVa3F1bjl0elZrQ1ktSVdrTmJGa3RTQnl0OWZR?oc=5",
-   "data": "2026-10-17T15:48:42+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Flamengo pode ter 4 jogadores em jogo do Uruguai x Argentina",
@@ -170,28 +226,12 @@
    "resumo": "Atacante argentino de 19 anos entrou no lugar de Paquetá no 0 a 0 em La Plata e já projeta o jogo de volta da semifinal, na quinta-feira (22) Joaquín Freitas usou o Instagram para celebrar a primeira partida na Copa Lib…"
   },
   {
-   "titulo": "Goleiro do Estudiantes, Muslera rasga elogios a jogador do Flamengo: “Craque”",
-   "link": "https://colunadofla.com/2026/10/goleiro-do-estudiantes-muslera-rasga-elogios-a-jogador-do-flamengo-craque/",
-   "data": "2026-10-17T00:02:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Goleiro do Estudiantes (ARG) relembrou a convivência com o volante chileno Erick Pulgar Adversário do Flamengo na semifinal da Libertadores, o goleiro Fernando Muslera, do Estudiantes (ARG), fez elogios a Erick Pulgar.…"
-  },
-  {
    "titulo": "Favoritismos #31: dicas, palpites e chances no Brasileirão",
    "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/10/16/favoritismos-31-dicas-palpites-e-chances-no-brasileirao.ghtml",
    "data": "2026-10-16T23:21:38+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "A liderança do Brasileirão vai ser definida fora de casa nesta rodada. O primeiro colocado Flamengo defende a frente contra o Bahia, no quinto lugar e invicto há oito jogos como madante (5 V, 3 E, 75%). Já o vice-líder…"
-  },
-  {
-   "titulo": "Argentino sugere destruição de gramado do Maracanã em Vasco x Boca para o Estudiantes eliminar o Flamengo",
-   "link": "https://colunadofla.com/2026/10/argentino-sugere-destruicao-de-gramado-do-maracana-em-vasco-x-boca-para-o-estudiantes-eliminar-o-flamengo/",
-   "data": "2026-10-16T23:17:55+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Gustav Les lembrou o uso do estádio em Vasco x Boca Juniors (ARG), dois dias antes da volta da semifinal da Libertadores O comunicador argentino Gustav Les, durante programa na ‘PicadoTV’, propôs uma “solução” inusitada…"
   },
   {
    "titulo": "Palpites e dicas para Bahia x Flamengo pelo Brasileirão",
@@ -1192,46 +1232,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Carlos Miguel falha no fim, mas Palmeiras bate Fluminense no Maracanã e larga na frente na semi da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONk9ZaktkTzA5M1dOUDdtbzA0MG55VW5RTjBrdExKS3dOWmhhcWRYS3laZl9CMmpWVE9DOUl6OEM5aWc2UzZCaC1BME5ULS1KZnozb0dvTEdfQmQ3eDlCMlRPeVZlcDlPUEhUOHpfejJqcWRELXpfNVF6NWF4YVo3d0RRTkJ0SDJiUllKLWZZaHlJRzNNLXRTcFNEYUg1c1RRQ3h6SV96SnFfLVJTZkJTcmo3Y0I3cHhvUUhIZ1ZRb3A4OVJOajlQLUpaV0d0YlpsMFNjeUJLTTIzZ0ppRVZydnpzTHFfS21OaXEtZjZtYWJJUjREOTMzZE1n?oc=5",
-   "data": "2026-10-15T02:33:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo visita Estudiantes na ida das semifinais da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWxUOTRqcUp1TXNWTVg5Q09oMEVBVmZXNEZTVFNqdnlTNFh1SmUtVVk3WUplYkVQbzJPRVFCTmthTVVnSkZaYzdJN3NiNWJDUXRFNldfWVROT0c5bE1qNmpNT1M4T0RDTHhJREVZWmY0eXNVdk5lbzRxNzJhcGhVQ2x4WlFIZUVlbGloYnpnWWNGQW5tVEo5WmNxY2R6d21jUWFreUsyR3FVcnNGS3JNQXNvQ01lb3hsRFZlRDZkZ29pcjdVaTkxNw?oc=5",
-   "data": "2026-10-15T02:22:59+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Clima pesado': Lino alerta Flamengo para pressão e estilo 'firme' do Estudiantes contra times de refino",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83VkhUVEhIN0p4bkQ2OWl4VWR3TW05TlFRNHhtTlQyaXgxbkU2eDBoMVE0MWRPVms0ZWNpbUpmVjhNTE9uc1F0VVlsN1U0ZlU3eVF3X1phM05zSDdrVXc?oc=5",
-   "data": "2026-10-14T23:06:21+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Na Argentina, Flamengo encerra preparação para pegar o Estudiantes; veja provável escalação",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenVLS0lqUEhUY09wY1lUQUxmc3FyNWczRkJmTHJnNy1WRWlqdjQxWWU0d25KR3V2cXppVWtEU054QU9VTlhwdFFjWXNZbnFTNDkxWEhzal9EMmQtSUROSG1rRTFqcjk4WkdJVERQdlRtSnpSWFRaVHlGZ2pDaEZIV2NCa01ZaEVhMlA3eHRyT01XdEluME5vaGhId2M3OUE1UjZmSnFFMGpTSTdDVl85QlZHcHV6LVFsWFcxc3phVWNKME41bHhF?oc=5",
-   "data": "2026-10-14T22:20:07+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Escalação do Flamengo: Bruno Henrique e Royal devem voltar contra Estudiantes",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/14/escalacao-do-flamengo-bruno-henrique-e-royal-devem-voltar-contra-estudiantes.ghtml",
-   "data": "2026-10-14T21:17:48+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Voz do Setorista: Flamengo treina na Argentina em preparação para jogo decisivo O Flamengo encerrou na tarde desta quarta-feira, na Argentina, a preparação para enfrentar o Estudiantes. A partida desta quinta, às 21h30…"
   }
  ]
 }
