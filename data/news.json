@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-17T19:15:17.565309+00:00",
+ "atualizadoEm": "2026-10-17T21:41:13.478118+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 40
+   "itens": 39
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,32 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 47
+   "itens": 46
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 90
+   "itens": 88
   }
  ],
  "itens": [
+  {
+   "titulo": "Ex-Flamengo comenta sobre futuro no Real Madrid: 'Por que não?'",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM25rZlcwYUtzYzNnM3MxZkFlVXFxLWpqd3ladmNCVm9oU0tNWTQ4MlhXc1Y3b3gzWlZnOVpESV9PWm5FOE16Zk92LWFYYmNOU3J3ZGQ3MWVQVjhpNlA5MFJFby1TOWRacHpmUXhXZVJhNTg5T0JTTXpFTHAzdUFodVUybTBsM1pabUZUMENPRVloOXdSTWc?oc=5",
+   "data": "2026-10-17T21:31:19+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Bahia x Flamengo ao vivo hoje 18/10: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRUVqRWlrQ2dPYkctYmJhTFdWZXNuUnlpTW1wdkM4QVRrclpfWVVCYVFEMEhseGYzQUJOVkctSEVVTUdoc3lBRDlvRF85eGJxMjBRS0ZNa0ZCdmFuWnhtS0RIaG5XNERBRU9adnM0dDdwZE1PZzRGUVBYV1hoN0pOS1FlQ0JobWs3clVHZk1B?oc=5",
+   "data": "2026-10-17T20:44:04+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
   {
    "titulo": "Flamengo terá jogo sem público por causa de Vasco x Boca",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVkczZXZ2a0d0X1Nqenp4MEJZd0lnZzNTeDJHQlRsSklHM1U4TndVTGNIRlhUOUljZkR5eV9wcUxCUTl5ODNoZEtGdXlZZlZpR0h5ZTh3RWZuTzRDVDdoV0h6aGFJNFlMbVJIM29MZGUySFZTT2FCVXVZQzhNTk9mSnhKajl6SjdTTUNTYkdteFRMWHZoWFFENkJmbkFQX1BwOVJnenkzWDlBY0poc0FVQktVb0RxdzdTeUlJLVdHTFpoM29ZSEE?oc=5",
@@ -40,6 +56,22 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
+  },
+  {
+   "titulo": "Jogo do Vasco no Maracanã tira torcida de Flamengo x Botafogo no NBB",
+   "link": "https://colunadofla.com/2026/10/flamengo-botafogo-nbb-sem-torcida-vasco/",
+   "data": "2026-10-17T18:34:40+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo x Botafogo pelo NBB sai do Maracanãzinho e vai para o Tijuca, às 18h, após ação do Vasco para receber o Boca no Maracanã O jogo do Vasco contra o Boca Juniors, no Maracanã, tirou a torcida do clássico entre Fla…"
+  },
+  {
+   "titulo": "Bahia x Flamengo: Mengão líder e com retrospecto de dono da casa",
+   "link": "https://colunadofla.com/2026/10/bahia-x-flamengo-mengao-lider-e-com-retrospecto-de-dono-da-casa/",
+   "data": "2026-10-17T18:25:36+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Bahia x Flamengo: Rubro-Negro venceu metade dos 158 jogos em solo baiano e reencontra Everton Ribeiro na Fonte Nova Bahia x Flamengo acontece neste domingo (18), às 18h30, na Arena Fonte Nova, pela 31ª rodada do Brasile…"
   },
   {
    "titulo": "Semifinais Palmeiras x Fluminense, Flamengo x Estudiantes: quem chega à final da Libertadores? Os palpites ESPN para os jogos de volta",
@@ -74,14 +106,6 @@
    "resumo": "Jardim fará alterações para o jogo de volta? Veja informações do DM do Flamengo O Flamengo divulgou a lista de relacionados para o jogo contra o Bahia, neste domingo, às 18h30 (de Brasília), pela 31ª rodada do Campeonat…"
   },
   {
-   "titulo": "Escalação: Flamengo tem retorno de Jorginho contra o Bahia, mas segue com desfalques",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzRYcWl0Rm5TcmpPUHE1YTVkR3dpZkVjY2dhbVVlMTNpeUJXLWgxaWNrczUzbXhQSEU5cTFkV0JONWYzNkIxdjRaLVhqbVUtUENwV1U1TG5uaWhzeFkwcXBaV0ZGWV84bjJDLVpjTHFYNGREaU95emN5M3UtNlVpaVRDU1ZwV214c1dBRnkyeWljc3B5MFFVb1lKYnhjNTFUbXpVa3F1bjl0elZrQ1ktSVdrTmJGa3RTQnl0OWZR?oc=5",
-   "data": "2026-10-17T17:13:10+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Renovação de Rossi trava no Flamengo; veja títulos e falhas do goleiro",
    "link": "https://colunadofla.com/2026/10/renovacao-de-rossi-flamengo-titulos-falhas/",
    "data": "2026-10-17T17:04:32+00:00",
@@ -104,6 +128,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Jogo pode ajudar o Flamengo no Brasileirão Por mais uma vez, Flamengo e Palmeiras disputam de forma acirrada o título do Brasileirão. Neste momento, o Fla é líder, com 64 pontos, e o adversário vem logo na cola, com 63.…"
+  },
+  {
+   "titulo": "Escalação: Flamengo tem retorno de Jorginho contra o Bahia, mas segue com desfalques",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzRYcWl0Rm5TcmpPUHE1YTVkR3dpZkVjY2dhbVVlMTNpeUJXLWgxaWNrczUzbXhQSEU5cTFkV0JONWYzNkIxdjRaLVhqbVUtUENwV1U1TG5uaWhzeFkwcXBaV0ZGWV84bjJDLVpjTHFYNGREaU95emN5M3UtNlVpaVRDU1ZwV214c1dBRnkyeWljc3B5MFFVb1lKYnhjNTFUbXpVa3F1bjl0elZrQ1ktSVdrTmJGa3RTQnl0OWZR?oc=5",
+   "data": "2026-10-17T15:48:42+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo pode ter 4 jogadores em jogo do Uruguai x Argentina",
@@ -210,22 +242,6 @@
    "resumo": "Rossi fala sobre renovação com o Flamengo e dá alternativa a redução de estrangeiros Depois das críticas na partida contra o Santos, na semana passada, o goleiro Rossi foi bem no Fla-Flu e novamente elogiado no empate p…"
   },
   {
-   "titulo": "Galvão Bueno avalia empate do Flamengo e aponta favorito para vaga na final da Libertadores",
-   "link": "https://colunadofla.com/2026/10/galvao-bueno-avalia-empate-do-flamengo-e-aponta-favorito-para-vaga-na-final-da-libertadores/",
-   "data": "2026-10-17T01:38:15+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Narrador destacou atuação abaixo do esperado do Rubro-Negro, mas valorizou resultado conquistado na Argentina antes da decisão no Maracanã O Flamengo empatou em 0 a 0 com o Estudiantes (ARG) na quinta-feira (15), em La…"
-  },
-  {
-   "titulo": "Joaquín Freitas celebra 1º jogo na Libertadores, mas admite frustração com resultado do Flamengo",
-   "link": "https://colunadofla.com/2026/10/joaquin-freitas-celebra-1o-jogo-na-libertadores-mas-admite-frustracao-com-resultado-do-flamengo/",
-   "data": "2026-10-17T00:52:00+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Atacante argentino de 19 anos entrou no lugar de Paquetá no 0 a 0 em La Plata e já projeta o jogo de volta da semifinal, na quinta-feira (22) Joaquín Freitas usou o Instagram para celebrar a primeira partida na Copa Lib…"
-  },
-  {
    "titulo": "Favoritismos #31: dicas, palpites e chances no Brasileirão",
    "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/10/16/favoritismos-31-dicas-palpites-e-chances-no-brasileirao.ghtml",
    "data": "2026-10-16T23:21:38+00:00",
@@ -258,14 +274,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Palmeiras ?não tem margem para poupar?; Disputa com o Flamengo pelo título está aberta! Diz Rômulo",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yM1FrSHpNTjVhZHJQR0c3MnhhdFV0Y3dTRWZtOFFlbWxNZkZNZG5ySGFWbUtxb084UUZSanhoUWNYZDlreVV5UjRqYjNXQ1lpVWV0TUVzOE1HSk1pTWh3U2dBcnVGbU0?oc=5",
-   "data": "2026-10-16T21:45:09+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Veja quem vai apitar Flamengo x Estudiantes pela Libertadores",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0ZjenlqZUJRVExpYmxEN25yQmJIT3M2ZDBDTU5XbHFiTWVxUW5WdDZveWdSelNxMzhDYTFrZjRMSDdqZlFsbXVTaUxtdmFnc3otX3p1RXFPQVQ4SUMzSWE3MFdPTWM5dHpjQWJZZVRhVFNaV1RabUhjUWVIaDZpaHBNM2ZMXzNERDVOZEZyQWFwTFFIYkdXbWlnbk1xMEtLMnNydTlrZWtjRnJuUHNndVdR?oc=5",
    "data": "2026-10-16T21:24:53+00:00",
@@ -282,7 +290,7 @@
    "resumo": "Voz do Setorista: Thiago Lima mostra o clima após empate em La Plata Último reforço a ser contratado pelo Flamengo para a atual temporada, Joaquín Freitas parece estar em um caminho promissor no processo de adaptação. M…"
   },
   {
-   "titulo": "Técnico do Estudiantes critica Flamengo após empate em La Plata",
+   "titulo": "Técnico do Estudiantes, Medina critica atuação do Flamengo em La Plata",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaldrWVVjQ2pKLVJ5TUFtaVJVdXlEdXJjRnhaQVViS0tvTlhCZ05OZkU4eW5WQ3dfUWFVZ3pYbkpqcVpPX1FfdHY4SVRkV1VXY29LYU1KV2VGQmw4X0lrNGFMUE9LaU5JNWtHbUgzTVIwM0NFTG5fUldLb3o5MWF0OXFWREozbHJUWGpjQTN3cEJKLTZyYzlCQ0NYZlowT2ZicUhzb1h5dDNjVHFJ?oc=5",
    "data": "2026-10-16T20:26:07+00:00",
    "fonte": "lance",
@@ -359,14 +367,6 @@
    "data": "2026-10-16T16:44:08+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Bahia x Flamengo ao vivo hoje 18/10: siga placar agora | Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRUVqRWlrQ2dPYkctYmJhTFdWZXNuUnlpTW1wdkM4QVRrclpfWVVCYVFEMEhseGYzQUJOVkctSEVVTUdoc3lBRDlvRF85eGJxMjBRS0ZNa0ZCdmFuWnhtS0RIaG5XNERBRU9adnM0dDdwZE1PZzRGUVBYV1hoN0pOS1FlQ0JobWs3clVHZk1B?oc=5",
-   "data": "2026-10-16T15:05:27+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
