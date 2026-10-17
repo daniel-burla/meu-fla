@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-17T04:55:25.072218+00:00",
+ "atualizadoEm": "2026-10-17T09:12:39.966078+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 40
+   "itens": 41
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,56 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 51
+   "itens": 54
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 89
+   "itens": 90
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo terá sequência pesada de jogos decisivos; veja",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaGRER2tZbGMxUTFocE1KOFdXTWZoLUE5WEZ3MVVPZFQyNUxFQWJKR3VaU2l3R0NxNjdlU05IT1Bza2YzYm5SWVp1dEgySmJILXlGRUtYclRWU3dSWjI3QWd5MEJIZTdHb1J6Qk41andnUVllWWszZjU1T0NEdVFNN0h6a182dHZBaHVheUFqUDdJTlZoTXB1RU5UWWVKVjNGbmlmeHlVS3J2ZUUtbDFrdGZad0F4ZUFkZVhxeEZBVlNGTlRNdk9N?oc=5",
+   "data": "2026-10-17T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo e Palmeiras em rodada que pode mudar líder. Informações e palpites",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNHVRTnJib05OT19uTmNnaFE1TUpuTXBXRFRXeUZGZEp3X21hN0oydDQ2czA4SzVxRWhsdi1sNEpYVWZVTVFDOG5SUjB3VTVidmttT0c3WV85VzRwRlJ2aWw0M0JmNU9mUUZaOHpUUVJtNGlTOXhLNVJlYVpjU2RQWEVCbVF4Q0VUN183aXJRNHIycWFzeldlNWVUMXFWVURHd0F4UHVta2NKVzdBeU9ud185TG93M0JCckhQZF9kb3MzU29Vc1VkUl9pYno?oc=5",
+   "data": "2026-10-17T08:35:07+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Após sustos no Fla, Rossi vive momento de estabilidade em meio a decisões",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY29NSVhmRkVfX2VfdjA5S1VIWGI4RG1nZHBPbzY2WnNIZVRORWw5dUMyS3d6MmF5U0hRbDBKckg1MU5DM0ZXZDlVR1QxVUhrY2pDVlpvSmxDMXFGU1BEcFBsdnRQdFVPSW55UUZNanNUMU5SRkJZNDUxaEdsNU1RdVpJSjRGYlppbW84VEJuSTF3XzNscU1rN3RVUEotZEdHN1BYLXV0TGdLMFdOUkNLRm9yTk9JdHdoem9iQ2l3aVMyXy1zcHU0dDZVUmc3YlBZUWVWNVRPZ2x4SWJr?oc=5",
+   "data": "2026-10-17T08:33:46+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Comentarista aponta dois favoritos ao título do NBB, que começa neste sábado; veja análise",
+   "link": "https://ge.globo.com/basquete/nbb/noticia/2026/10/17/comentarista-aponta-dois-favoritos-ao-titulo-do-nbb-que-comeca-neste-sabado-veja-analise.ghtml",
+   "data": "2026-10-17T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Pedro Maia aponta favoritos ao título do NBB 2026/2027 A espera de pouco mais de quatro meses terminou. Neste sábado (17), três jogos decretarão o início da 19ª temporada do Novo Basquete Brasil (NBB). Ao todo, 18 equip…"
+  },
+  {
+   "titulo": "Entenda processo de renovação de Rossi e visita de empresário ao hotel do Flamengo na Argentina",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/17/entenda-processo-de-renovacao-de-rossi-e-visita-de-empresario-ao-hotel-do-flamengo-na-argentina.ghtml",
+   "data": "2026-10-17T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Rossi fala sobre renovação com o Flamengo e dá alternativa a redução de estrangeiros Depois das críticas na partida contra o Santos, na semana passada, o goleiro Rossi foi bem no Fla-Flu e novamente elogiado no empate p…"
+  },
   {
    "titulo": "Galvão Bueno avalia empate do Flamengo e aponta favorito para vaga na final da Libertadores",
    "link": "https://colunadofla.com/2026/10/galvao-bueno-avalia-empate-do-flamengo-e-aponta-favorito-para-vaga-na-final-da-libertadores/",
@@ -162,7 +202,7 @@
    "resumo": "Zagueiro pede apoio total à torcida do Flamengo na volta da semifinal da Libertadores Léo Pereira usou as redes sociais para chamar a torcida do Flamengo após o empate sem gols em La Plata. O duelo com o Estudiantes (AR…"
   },
   {
-   "titulo": "Técnico do Estudiantes, Medina critica atuação do Flamengo em La Plata",
+   "titulo": "Técnico do Estudiantes critica Flamengo após empate em La Plata",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaldrWVVjQ2pKLVJ5TUFtaVJVdXlEdXJjRnhaQVViS0tvTlhCZ05OZkU4eW5WQ3dfUWFVZ3pYbkpqcVpPX1FfdHY4SVRkV1VXY29LYU1KV2VGQmw4X0lrNGFMUE9LaU5JNWtHbUgzTVIwM0NFTG5fUldLb3o5MWF0OXFWREozbHJUWGpjQTN3cEJKLTZyYzlCQ0NYZlowT2ZicUhzb1h5dDNjVHFJ?oc=5",
    "data": "2026-10-16T20:26:07+00:00",
    "fonte": "lance",
@@ -330,6 +370,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Mauro Cezar Pereira: Flamengo não pode passar 90 minutos sem finalizar no gol, mas passou",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUXlWNk5xYTd6SV9ER01XVEU2dTNTQ0VCY0gzaHBQQVp5YUdsV3lFVVVSSF9xVUNGcUxvZ3NUYkVkdThaWldoQXdhT2MtTlF6ZTdQNzlEdWVkNHNVTGZGZF80QzNJS1VKTTAwZFpBWElqdVlNTHczUHNuU3UxVm9wLWZGMlBCbU4wWVU0RVdKYVVvT3Zkb2NIS1hJa0tYZkRMbXUtN2NCTmZXTXFqUUVLR2Z4SFhLMkN5U0U0bWNSUUVJY2tPRXJTb2dscTdKUzJpRGNic3hWYXJxb0I4Wk1OeTVzSQ?oc=5",
+   "data": "2026-10-16T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Alicia Klein: O que faltou ao Flamengo na Argentina (não foi bet)",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFV2MW9OTVI3bTUtalNPbHdzcWpVWmJFOWlYSy1Gbnc3TnU1dzZhOXlyMm10aVpsU2F2YVJFYVphR2VlRWRMbThTQndpTW9CbWdyR3FWSDN3M3VCdVc3N2NETEJnYWlUOUNheVNSamlOS2pETS1xb2FPdVk1T0FRUlRzVExaMVB6QmdLcXZTSThJYVFPSGZ2bDBNOGVJWjJSVDIyYmFTTXBCY2JhLWlwZmhEUGZtT2s?oc=5",
    "data": "2026-10-16T12:30:00+00:00",
@@ -426,14 +474,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Mauro Cezar Pereira: Flamengo não pode passar 90 minutos sem finalizar no gol, mas passou",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUXlWNk5xYTd6SV9ER01XVEU2dTNTQ0VCY0gzaHBQQVp5YUdsV3lFVVVSSF9xVUNGcUxvZ3NUYkVkdThaWldoQXdhT2MtTlF6ZTdQNzlEdWVkNHNVTGZGZF80QzNJS1VKTTAwZFpBWElqdVlNTHczUHNuU3UxVm9wLWZGMlBCbU4wWVU0RVdKYVVvT3Zkb2NIS1hJa0tYZkRMbXUtN2NCTmZXTXFqUUVLR2Z4SFhLMkN5U0U0bWNSUUVJY2tPRXJTb2dscTdKUzJpRGNic3hWYXJxb0I4Wk1OeTVzSQ?oc=5",
-   "data": "2026-10-16T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Análise: Flamengo não dá um chute no gol na Argentina, mas tem tudo para ir a mais uma final",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/16/analise-flamengo-nao-da-um-chute-no-gol-na-argentina-mas-tem-tudo-para-ir-a-mais-uma-final.ghtml",
    "data": "2026-10-16T08:00:09+00:00",
@@ -487,6 +527,14 @@
    "data": "2026-10-16T04:04:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Nem amarelo? A falta dura de Paquetá em Estudiantes x Flamengo na Libertadores que o meia chamou de 'lance normal'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnY21DUlVJeVc1OFRrZ0d4VGM0OWJKUGlLaFlPWDVVaWtISm5FdmF1aDROR05rQUdfd2ItaFZrMGhFRHFRQzFMOHk5cVp6ZjAzWEwtb0liSnBZQnkyZlE?oc=5",
+   "data": "2026-10-16T03:45:39+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -1184,54 +1232,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Vasco tem direito a 4 jogos no Maracanã? O que diz o contrato de concessão",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdTE3TTd4djdnTUVQUG9Jd2E1THVvOXdpR3dnTVluOU9iQnh0X09yVHJpdUEtZXhldm91U053NGRWSjFIMkk3bW5QcW5qNWdnbDZod09NYy1oaXJvRXlzRlktT1RWUFNkemNJckhLNXV0WC1kSFItX2UwV1A3UUlabm5ISkphUDZlVFBuQWFMX0hzZUI2UE5HRDdINHB3eTlVNm1QUF9NSHBLdXpRM0JWTW5vTTFfekFyS1loQ182dnRIQ3BPOXpTbWMwWHItTTBhdFpvSGdLVkNQLW1ralE?oc=5",
-   "data": "2026-10-14T18:58:21+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Estudiantes x Flamengo: onde assistir, horário e escalações",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjdia1F2LUdSNW5ZWW9fVFRPRDRHd2N0cU1aM3JYVUp4dGQ0Tlppamhud19CeDc5TWczbmpQa1hsM3ZWcENabHRscU1YY2xyTHJWVmdiYXk1M0NJSGoya2ZIMk05a0JHb2tSUVQzMVBINUNBc1loYnBLbVdtREhRYjh0WnZYRU01YjAxQlBObXF0d2dpcW5BcTJPNWl6T3lzczVBRndabHEtUjBy?oc=5",
-   "data": "2026-10-14T18:34:41+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Como está o gramado do Maracanã para Fluminense x Palmeiras pela Libertadores?",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQThTZFZhejlYWWI3X2pWYjJjOFVWQlB1aDdMTElSMTFzbnp6MzRCM2xGbEhZekcwZUdzM21yZFdVaC1WcmdBTFZXSGczcTZpMElQRm1wMWdLVjliT1hsQ1VvVkdnMDdqZHdFVWROWHV3dmNxZ0M4Y08zanhtS1VTNVNtcXlJWmxiaERGYXNGOVZtWHIwX3BMek5EZmVOUS1KOHNSR2kxMm1tZkQ0RFFpVDl5bkVaVFBaTDI1RC1QcS1uUQ?oc=5",
-   "data": "2026-10-14T18:20:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Candidato à presidência do Peñarol diz que fará o \"impossível\" para tirar Arrascaeta do Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/14/candidato-a-presidencia-do-penarol-diz-que-fara-o-impossivel-para-tirar-arrascaeta-do-flamengo.ghtml",
-   "data": "2026-10-14T17:26:55+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Rossi fala sobre renovação com o Flamengo e dá alternativa a redução de estrangeiros Um dos candidatos à presidência do Peñarol, o advogado Pablo Schiavi afirmou que faria o \"impossível\" para tirar Arrascaeta e De la Cr…"
-  },
-  {
-   "titulo": "À ESPN, Lino lembra má fase no Flamengo e falta de paciência da torcida",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTTNRR2lIMzBNOFJjM2dGdHQtc0xNVGdCSlh6cnNrWjRWQ2Y0SXFwQ2RsWEh1U0xDMnNFTHMtZTd1MmNiUHpmVG9hZTNXRzB1UTJXODY5VWowemxUWTVheWxicjhKaWc5c2lQRzlpeXhuNXVtdTBVMnlIUHFoT3dlLVMxMnllMlZBWlItQU5jZmlyM3Jrb0JRaUlkbzNrWDg4Rjk0VGhCZVBDTWg0V2JzeHhqTTluOGh4VmM1d0FJNTNJOTQ5MTB4YV9GZEk3bkpMc2ZlOE1CZmFrNTBIYlRnUUpFNDQzdnd0RjhUSmlHY0ZXZw?oc=5",
-   "data": "2026-10-14T16:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo tem jogador da base convocado pela seleção de Portugal; conheça",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/14/flamengo-tem-jogador-da-base-convocado-pela-selecao-de-portugal-conheca.ghtml",
-   "data": "2026-10-14T14:50:56+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja onde vai ficar alocada a torcida do Flamengo para enfrentar o Estudiantes O Flamengo, que já tem o ítalo-brasileiro Jorginho no time principal, agora também vive algo parecido na base: um jogador do país convocado…"
   }
  ]
 }
