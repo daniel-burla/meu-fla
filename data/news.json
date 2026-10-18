@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-18T16:49:13.010404+00:00",
+ "atualizadoEm": "2026-10-18T19:23:04.818192+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -23,23 +23,63 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 55
+   "itens": 53
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 89
+   "itens": 87
   }
  ],
  "itens": [
+  {
+   "titulo": "Jornal francês critica Monaco de Filipe Luís após primeira derrota na Ligue 1 e perda da liderança: 'Atuação apática'",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNjhiZFZnRHRhU1ViSVpKbGhFVk1USlNwQmliZlJEb3hUd1VtT20zaU0yNEFrd2s2TF9zUTdUV19RdW91Y0lvT3NJRm52bThuYjFZS2JUTEE0LUgxeDZDOEhHRHNQWUFLM2xtdHItcGk0MFlyV2NKdWNHZ1ZWNEhWMFUxSklUMWJDbE1LS1ZyLWQzTmxsNnBPdUVRWmhYN0xGdW9YU3J2ejNDaVpBajhMd2w5Q3ItUFpQVHFlWElSRlMzN1F6V1lHUUFxU1lpR1VwNGxWMk1ZaTZIMUY3ZktveFY1RnBWa2p6ZzZib3hpdGN2QmNYSUZldw?oc=5",
+   "data": "2026-10-18T19:05:57+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogo do Flamengo x Bahia: confira comparação detalhada dos números das equipes em 2026",
+   "link": "https://colunadofla.com/2026/10/jogo-do-flamengo-x-bahia-confira-comparacao-detalhada-dos-numeros-das-equipes-em-2026/",
+   "data": "2026-10-18T18:52:01+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo tem 64,9% de aproveitamento na temporada, contra 60% do Bahia O Flamengo enfrenta o Bahia neste domingo (18), em jogo válido pela 31ª rodada do Brasileirão. Pensando nisso, o Coluna do Fla comparou os números d…"
+  },
+  {
+   "titulo": "Flamengo tem 5 desfalques e 7 pendurados para jogo contra o Bahia, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/10/flamengo-tem-5-desfalques-e-7-pendurados-para-jogo-contra-o-bahia-pelo-brasileirao/",
+   "data": "2026-10-18T17:43:31+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Partida válida pela 31ª rodada acontece neste domingo (18), na Arena Fonte Nova O Flamengo enfrenta o Bahia neste domingo (18), pela 31ª rodada do Campeonato Brasileiro. Para o confronto em Salvador, Leonardo Jardim ter…"
+  },
+  {
+   "titulo": "Que horas começa o jogo do Flamengo x Bahia hoje, pelo Brasileirão?",
+   "link": "https://colunadofla.com/2026/10/que-horas-comeca-o-jogo-do-flamengo-x-bahia-hoje-pelo-brasileirao-3/",
+   "data": "2026-10-18T17:26:37+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Confira o horário, onde assistir e os detalhes do confronto entre Flamengo e Bahia O Flamengo volta a campo pelo Campeonato Brasileiro neste domingo (18), para enfrentar o Bahia, às 18h30 (horário de Brasília), na Arena…"
+  },
+  {
+   "titulo": "Flamengo luta até o fim, mas perde para o Bauru por um ponto na estreia do NBB",
+   "link": "https://colunadofla.com/2026/10/flamengo-luta-ate-o-fim-mas-perde-para-o-bauru-por-um-ponto-na-estreia-do-nbb/",
+   "data": "2026-10-18T16:59:13+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rubro-Negro é superado por 82 a 81 no Maracanãzinho, apesar da atuação de destaque de Yago Mateus O Flamengo começou a temporada 2026/27 do Novo Basquete Brasil (NBB) com derrota. Neste domingo (18), o Rubro-Negro perde…"
+  },
   {
    "titulo": "NBB: Flamengo perde para o Bauru na estreia com cesta no último segundo",
    "link": "https://ge.globo.com/basquete/noticia/2026/10/18/nbb-flamengo-perde-para-o-bauru-na-estreia-com-cesta-no-ultimo-segundo.ghtml",
    "data": "2026-10-18T16:36:41+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "O reformulado Flamengo tem as voltas de Yago e Didi e o reforço do técnico Demétrius Ferracciú para retomar o título do NBB. No Maracanãzinho, o time estreou na competição, neste domingo, com uma derrota no último segun…"
+   "resumo": "Flamengo 81 x 82 Bauru | Melhores momentos | 1ª rodada | NBB O reformulado Flamengo tem as voltas de Yago e Didi e o reforço do técnico Demétrius Ferracciú para retomar o título do NBB. No Maracanãzinho, o time estreou…"
   },
   {
    "titulo": "Bahia x Flamengo ao vivo hoje 18/10: siga placar agora | Brasileirão",
@@ -50,12 +90,20 @@
    "resumo": ""
   },
   {
-   "titulo": "Milly Lacombe: Flamengo e Palmeiras: na reta final, é o subjetivo que vai decidir",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanh2NEVzaGJiMWdXVWYyTS1hWHNRcFg3UENxcnM0bldUTnE0dm9iczBkWlVtTzU4Q05sUzhmNk1PVFZHQ3pZQndJcWpmdnBRamxDelhQM1VaLUJLSUdiZF92X2hoN0thOUM5TTJ6eENnLVpaU2N1bDZMUzZxdk9YN3BNMHFLOGNOVnp0WHJCR1FFd29LZUl4UEl2RmNEM3RlQWhJUWt2Y0VKNDBCOTVJbXNRUl8xOGRvUFRNc1NYRlp1Nk9Sa09ib3Q5Y3E?oc=5",
-   "data": "2026-10-18T16:11:40+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
+   "titulo": "Flamengo de olho: Estudiantes enfrenta San Lorenzo antes de decisão da Libertadores; veja horário e onde assistir",
+   "link": "https://colunadofla.com/2026/10/flamengo-de-olho-estudiantes-enfrenta-san-lorenzo-antes-de-decisao-da-libertadores-veja-horario-e-onde-assistir/",
+   "data": "2026-10-18T16:12:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Adversário do Rubro-Negro na semifinal entra em campo neste domingo (18), pelo Torneio Clausura do Campeonato Argentino O Flamengo enfrenta o Bahia neste domingo (18), pelo Campeonato Brasileiro, mas também acompanha a…"
+  },
+  {
+   "titulo": "Jogo do Flamengo x Bahia vai passar na Globo?",
+   "link": "https://colunadofla.com/2026/10/jogo-do-flamengo-x-bahia-vai-passar-na-globo/",
+   "data": "2026-10-18T15:55:35+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rubro-Negro enfrenta o Bahia neste domingo (18), pela 31ª rodada do Campeonato Brasileiro Quem quiser assistir ao Flamengo contra o Bahia neste domingo (18) precisa ficar atento à transmissão. O confronto começa às 18h3…"
   },
   {
    "titulo": "Onde vai passar Bahia x Flamengo pelo Brasileirão? Como assistir ao vivo",
@@ -90,14 +138,6 @@
    "resumo": "Camisa 9 do Flamengo, Pedro tenta reverter má fase O Flamengo vive uma intensa disputa pelo título do Brasileirão, e a torcida espera que o atacante Pedro volte à boa fase para ajudar o Rubro-Negro nesta conquista. Prov…"
   },
   {
-   "titulo": "Jogo ao vivo, escalações e desfalques: saiba tudo sobre Bahia x Flamengo pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/10/jogo-ao-vivo-escalacoes-e-desfalques-saiba-tudo-sobre-bahia-x-flamengo-pelo-brasileirao/",
-   "data": "2026-10-18T14:17:08+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo enfrenta o Bahia neste domingo (18), pela 31ª rodada, e precisa vencer para recuperar a liderança do Campeonato Brasileiro O Flamengo enfrenta o Bahia neste domingo (18), às 18h30 (horário de Brasília), na Aren…"
-  },
-  {
    "titulo": "Saiba horário e onde assistir à estreia do Flamengo no NBB hoje",
    "link": "https://colunadofla.com/2026/10/saiba-horario-e-onde-assistir-a-estreia-do-flamengo-no-nbb-hoje/",
    "data": "2026-10-18T13:20:26+00:00",
@@ -114,20 +154,12 @@
    "resumo": ""
   },
   {
-   "titulo": "A fase do Bahia antes de jogo contra o Flamengo",
-   "link": "https://colunadofla.com/2026/10/a-fase-do-bahia-antes-de-jogo-contra-o-flamengo/",
-   "data": "2026-10-18T12:54:07+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Time de Rogério Ceni cresceu nos jogos em casa O Flamengo enfrenta o Bahia neste domingo (18), pela 31ª rodada do Brasileirão. O jogo é de grande importância para os objetivos das duas equipes no campeonato, e o Fla vai…"
-  },
-  {
-   "titulo": "Leonardo Jardim fará mudança em escalação do Flamengo no jogo de hoje",
-   "link": "https://colunadofla.com/2026/10/leonardo-jardim-fara-mudanca-em-escalacao-do-flamengo-no-jogo-de-hoje/",
-   "data": "2026-10-18T12:14:51+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo precisa vencer o Bahia para ser líder do Brasileirão O Flamengo joga contra o Bahia neste domingo (18), e a vitória é fundamental para o Rubro-Negro terminar mais uma rodada na primeira posição do Brasileirão.…"
+   "titulo": "Milly Lacombe: Flamengo e Palmeiras: na reta final, é o subjetivo que vai decidir",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanh2NEVzaGJiMWdXVWYyTS1hWHNRcFg3UENxcnM0bldUTnE0dm9iczBkWlVtTzU4Q05sUzhmNk1PVFZHQ3pZQndJcWpmdnBRamxDelhQM1VaLUJLSUdiZF92X2hoN0thOUM5TTJ6eENnLVpaU2N1bDZMUzZxdk9YN3BNMHFLOGNOVnp0WHJCR1FFd29LZUl4UEl2RmNEM3RlQWhJUWt2Y0VKNDBCOTVJbXNRUl8xOGRvUFRNc1NYRlp1Nk9Sa09ib3Q5Y3E?oc=5",
+   "data": "2026-10-18T13:09:46+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Jogo do Flamengo hoje pelo Brasileirão: que horas começa e onde assistir",
@@ -136,14 +168,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo precisa vencer jogo de hoje para voltar à liderança",
-   "link": "https://colunadofla.com/2026/10/flamengo-precisa-vencer-jogo-de-hoje-para-voltar-a-lideranca/",
-   "data": "2026-10-18T11:28:02+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Palmeiras venceu o Athletico e assumiu a ponta do Brasileirão O Flamengo mira o 10° título do Brasileirão e, neste domingo (18), terá mais um importante desafio. A equipe vai encarar o Bahia, na Arena Fonte Nova, e só a…"
   },
   {
    "titulo": "Jorginho volta ao Flamengo após suspensões; veja retrospecto com e sem o volante",
@@ -178,16 +202,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Bahia x Flamengo: horário e onde assistir ao jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnU5cEJySV9UOWxucmVjLVF4SE83QTRFRUNZRlZ0M0xvQmt6Umt4ekRMWVdaTnFvVy02eFJDUUpHSTNXejB4dGlMWThtTTdNV3Q5cXd0cTl5MXlXekJJZDJPWk9EWUdUNzhWX0tkWEZFLW5sV3BPSGM4NWxZOV95VVExQjJxaGFEUVlZUW1tNUZZb3B5OXl3T2kwTVVjLTJiMUphS19EVWhVd3I5aVN3Qm9tck1TTFpGUmJjTkFOYXo4WEVYeUE?oc=5",
+   "titulo": "Flamengo enfrenta Bahia pressionado por recorde de expulsões",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOemJNaTUtRGZMSkhYRmQwOVZUM2dFNmVSMzVxbzR5US1QS1VjRVN1MWhBclpGZ2RQaU9TbTBJczNGeW1xZDNEcTJ1djFoVnNSWWt3OS1pN245YTVjamRRZ1pZRm9tZWNYUXFabEVqb0gzU2pFY0pESlRMMWJpekdockgzNkJaNm9jd1VMbEpKaWRxRFVHT2JHRVRoWGdtelBacFR4bm5xdXFNVllxTDF0dnVKTUdYZDV4aDdDMHN2Nk5weTNuYmtoVWU5MU9LNGdHTDQtV1g1UzljYm8?oc=5",
    "data": "2026-10-18T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Flamengo enfrenta Bahia pressionado por recorde de expulsões",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOemJNaTUtRGZMSkhYRmQwOVZUM2dFNmVSMzVxbzR5US1QS1VjRVN1MWhBclpGZ2RQaU9TbTBJczNGeW1xZDNEcTJ1djFoVnNSWWt3OS1pN245YTVjamRRZ1pZRm9tZWNYUXFabEVqb0gzU2pFY0pESlRMMWJpekdockgzNkJaNm9jd1VMbEpKaWRxRFVHT2JHRVRoWGdtelBacFR4bm5xdXFNVllxTDF0dnVKTUdYZDV4aDdDMHN2Nk5weTNuYmtoVWU5MU9LNGdHTDQtV1g1UzljYm8?oc=5",
+   "titulo": "Bahia x Flamengo: horário e onde assistir ao jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnU5cEJySV9UOWxucmVjLVF4SE83QTRFRUNZRlZ0M0xvQmt6Umt4ekRMWVdaTnFvVy02eFJDUUpHSTNXejB4dGlMWThtTTdNV3Q5cXd0cTl5MXlXekJJZDJPWk9EWUdUNzhWX0tkWEZFLW5sV3BPSGM4NWxZOV95VVExQjJxaGFEUVlZUW1tNUZZb3B5OXl3T2kwTVVjLTJiMUphS19EVWhVd3I5aVN3Qm9tck1TTFpGUmJjTkFOYXo4WEVYeUE?oc=5",
    "data": "2026-10-18T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -231,6 +255,14 @@
    "data": "2026-10-18T04:31:32+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Tempo Real | Bahia x Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFhpU2poNm13cksyQUlRdGxEZ002T3FkRndVRXdRTE9FN0U3QllvWmpGSDQ2MFVsdTQ1RXhyNG94enpvTHhWbnBwS0g3ZnRSQzhyZXAwamp4dGI4Tm51d0M4TVVYRTZUUC1zaWhLd2N6cGtfemJtYVVnN3lJY1V3XzhjNElMYXRWc19fUW1PZXpnb2pXeE5ERw?oc=5",
+   "data": "2026-10-18T03:36:02+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -282,28 +314,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Ídolo do Flamengo ironiza trabalho de Abel Ferreira no Palmeiras: “Melhor emprego do mundo”",
-   "link": "https://colunadofla.com/2026/10/idolo-do-flamengo-ironiza-trabalho-de-abel-ferreira-no-palmeiras-melhor-emprego-do-mundo/",
-   "data": "2026-10-17T22:34:29+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ronaldo Angelim reclama por falta de cobrança dos torcedores sobre Abel Ferreira após más atuações do time do Palmeiras Ronaldo Angelim, ídolo do Flamengo, comentou a pouca crítica ao trabalho de Abel Ferreira à frente…"
-  },
-  {
    "titulo": "Ex-Flamengo comenta sobre futuro no Real Madrid: 'Por que não?'",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM25rZlcwYUtzYzNnM3MxZkFlVXFxLWpqd3ladmNCVm9oU0tNWTQ4MlhXc1Y3b3gzWlZnOVpESV9PWm5FOE16Zk92LWFYYmNOU3J3ZGQ3MWVQVjhpNlA5MFJFby1TOWRacHpmUXhXZVJhNTg5T0JTTXpFTHAzdUFodVUybTBsM1pabUZUMENPRVloOXdSTWc?oc=5",
    "data": "2026-10-17T21:31:19+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Brasileirão: Bahia ganha reforço para jogo contra o Flamengo",
-   "link": "https://colunadofla.com/2026/10/brasileirao-bahia-ganha-reforco-para-jogo-contra-o-flamengo/",
-   "data": "2026-10-17T20:50:48+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Acevedo está de volta ao time do Bahia após cumprir suspensão automática na última rodada do Brasileirão O Bahia encara o Flamengo neste domingo (18) em rodada válida pelo Brasileirão. Para o confronto que acontece às 1…"
   },
   {
    "titulo": "Flamengo terá clássico com Botafogo no NBB de portões fechados por causa de Vasco x Boca",
@@ -440,14 +456,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Bahia x Flamengo: informações e palpite para o jogo O Flamengo, que enfrentará o Estudiantes pela Libertadores na próxima quinta-feira, defende a liderança contra o quinto colocado Bahia, que disputa uma vaga na Liberta…"
-  },
-  {
-   "titulo": "Flamengo com Leonardo Jardim reverencia Abel! ?Meio Palmeiras?; Rômulo compara e PVC rebate",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wNzdtS0VoZUFTTEpnRzByNG9KM0thOE1WYlpnNy1jUU4tYVBSTGFYcVZWSVo2N0tMSnluMG5TcjZKQXAyb05PQURVUVFucWJOSmhTTHMyY01raVM5azhTbU5Pa2N2RE0?oc=5",
-   "data": "2026-10-16T22:49:47+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Fala de Felipe Melo sobre o Flamengo enlouquece torcedores: 'Era óbvio'",
@@ -880,14 +888,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Estudiantes 0 x 0 Flamengo | melhores momentos | semifinal | CONMEBOL Libertadores 2026 O Flamengo empatou sem gols com o Estudiantes na noite desta quinta-feira (15), em La Plata, pelo jogo de ida da semifinal da Conme…"
-  },
-  {
-   "titulo": "Milton Neves: Empate foi ótimo, mas Fla deixou a desejar na Argentina",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSkRRXzZ0cmVkbElyRDE3UzZhajNrQW9sRHBfYklfQkppakQ1Z2hSUDZNQUVCZzRUR1lORG5xQU9xM0xwZzFwcGZ1akc0ZWdEVWtFOERnTnQ2UkZqWE9wVDBWWEI1Rzh6MnZDeUh4d3FTMmhIbExSTmJZck1qYlVGR3dEVTY3THAxWVMzTmVTYkRLeVluUDhScHBTZG5rLWdJMXd6REJCaXYtOHdzTEJNamZUeDR2dWRfanRYR2Vn?oc=5",
-   "data": "2026-10-16T02:33:21+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Atuações do Flamengo: Bruno Henrique e Paquetá são os piores em empate; dê suas notas",
