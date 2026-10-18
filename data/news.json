@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-17T23:57:27.255429+00:00",
+ "atualizadoEm": "2026-10-18T04:18:47.289505+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 39
+   "itens": 40
   },
   {
    "id": "colunadofla",
@@ -23,23 +23,79 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 46
+   "itens": 44
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 90
+   "itens": 91
   }
  ],
  "itens": [
   {
-   "titulo": "Flamengo terá cinco desfalques contra o Bahia pelo Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUkNCcjZpZGxRSjNyWmIybThFcnBXSlQ5SVdObFFodkdUcGNIMTRBWnhqTzZ6YUpkV0dETFE5MWJSNDBveHpXbUVwdWZlZ0lqMEpOa0R5end0YTJFZkQ1RXotbDlnLXVhQjdCeENYeTZYdWpkN3loZ3h6MTNYV3EyRDNkNllwejdQeHd4TXdhS1daZ2d5N0RuQW1od05Cd1ktdHpwV0V5RWlyTWZkanlkcU1LY3dfV25IQ1gzUkJ1ZnhXLXN2OTR2eTVXdnp6dw?oc=5",
-   "data": "2026-10-17T22:54:42+00:00",
+   "titulo": "Milton Neves: Agora líder, o Palmeiras só pensa em 'secar' o Flamengo!",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRTFIY0ZsYXJqRG1GMHZZUzBibVpiQUl1SmR3TEt0Um1IWU56TklITzItZ0VVdk03VER3TjY2RENjRkdteGNMZHRwWXhzMVc5clk3dlQybm5ia19jU0hyNll1R1BTZjhLQm94Y2YwMVN0ZndmMGNKMUdObFBZcnYzeU5BS3pWTjZHVTFwYnJlYnlfbzVMdmY0YnZXOWtiYzB1V3pGRGJ5VWRCZm9aQjJVT1NDbzV6cnNNejUw?oc=5",
+   "data": "2026-10-18T03:56:42+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
+  },
+  {
+   "titulo": "Bahia x Flamengo ao vivo hoje 18/10: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRUVqRWlrQ2dPYkctYmJhTFdWZXNuUnlpTW1wdkM4QVRrclpfWVVCYVFEMEhseGYzQUJOVkctSEVVTUdoc3lBRDlvRF85eGJxMjBRS0ZNa0ZCdmFuWnhtS0RIaG5XNERBRU9adnM0dDdwZE1PZzRGUVBYV1hoN0pOS1FlQ0JobWs3clVHZk1B?oc=5",
+   "data": "2026-10-18T02:50:36+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo terá cinco desfalques contra o Bahia pelo Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUkNCcjZpZGxRSjNyWmIybThFcnBXSlQ5SVdObFFodkdUcGNIMTRBWnhqTzZ6YUpkV0dETFE5MWJSNDBveHpXbUVwdWZlZ0lqMEpOa0R5end0YTJFZkQ1RXotbDlnLXVhQjdCeENYeTZYdWpkN3loZ3h6MTNYV3EyRDNkNllwejdQeHd4TXdhS1daZ2d5N0RuQW1od05Cd1ktdHpwV0V5RWlyTWZkanlkcU1LY3dfV25IQ1gzUkJ1ZnhXLXN2OTR2eTVXdnp6dw?oc=5",
+   "data": "2026-10-18T02:16:47+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogador do Bahia enxerga qualidade do Flamengo antes de jogo do Brasileirão: “Maior do país”",
+   "link": "https://colunadofla.com/2026/10/jogador-do-bahia-enxerga-qualidade-do-flamengo-antes-de-jogo-do-brasileirao-maior-do-pais/",
+   "data": "2026-10-18T00:49:06+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Marco Moreno, do Bahia, promete dar tudo para vencer o Flamengo na Fonte Nova O zagueiro Marco Moreno, do Bahia, projetou o duelo contra o Flamengo, neste domingo (18), às 18h30 (horário de Brasília), na Arena Fonte Nov…"
+  },
+  {
+   "titulo": "Palmeiras bate Athletico Paranaense e pressiona Flamengo pela liderança",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnRXdlFlTlZmSm5LOUVXOGRZQWZudnN1LUh1bnVpN1JIQ005YU55eWh2Qm9BN2dqWmFoa1ptSmwtcS1idjVldjJ5cEUzZ0lzTDJ3OThiVUNucGVEUlZ2SDNYZ0N0QmtscDh2UEl0eUlpX1IzQkZQZzJHMFB0azZIRWE0NlJEMzE1WVRfTjVlS2N2T3UzVmJSN1ZqYmphTEVQd2liZXdsVTdFOEhRaGs4UmViOUFHNG12b1BjWkMzT1Q?oc=5",
+   "data": "2026-10-18T00:48:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras vence Athletico-PR com um a menos, dorme na liderança do Brasileirão e 'pressiona' Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMGpkVmRSdXdURENYaHJBbS1EbjdScXg5QTlSVVc2bS16b0kxWTV6VE82TzVmOHJkRVdMUzJYMWswd1V6NGYybDdkYUhIWkVxY0F0MXNGMnlYU2NoX0hFN0F4clZsWkNPemg4d1luYkZXSzh3ZUw0V0hlVTF3emhmX0RNendOemx3RUV3QWRQZkxrTjZlWjExTUg1UXFJNFR3VW43enhZTzZ6WW1MS1M4Slh1YkdLY2xXWUpPSk5qcDBvZzU1UG02U3dhZHRmNFBhRTRjaTJGNkhLWEZ6R19mc2RxeEJRZw?oc=5",
+   "data": "2026-10-18T00:32:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras vence Athletico-PR e assume liderança provisória do Brasileirão; Flamengo joga amanhã",
+   "link": "https://colunadofla.com/2026/10/palmeiras-vence-athletico-pr-e-assume-lideranca-provisoria-do-brasileirao-flamengo-joga-amanha/",
+   "data": "2026-10-18T00:30:08+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Palmeiras venceu o Athletico-PR fora de casa neste sábado (17) O Palmeiras entrou em campo neste sábado (17) e conseguiu vitória sobre o Athletico-PR, por 2 a 0, na Arena da Baixada. Desse modo, com esse triunfo, o time…"
+  },
+  {
+   "titulo": "Com festa da torcida, Flamengo chega a Salvador para jogo contra o Bahia; veja vídeo",
+   "link": "https://colunadofla.com/2026/10/com-festa-da-torcida-flamengo-chega-a-salvador-para-jogo-contra-o-bahia-veja-video/",
+   "data": "2026-10-17T23:44:34+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Jogadores do Flamengo chegaram na noite deste sábado (17) a Salvador A delegação do Flamengo já está em Salvador, local onde enfrenta o Bahia às 18h30 (horário de Brasília) deste domingo (18), na Arena Fonte Nova. Na ch…"
   },
   {
    "titulo": "Com cinco desfalques, Flamengo chega a Salvador para enfrentar o Bahia",
@@ -47,7 +103,7 @@
    "data": "2026-10-17T22:46:51+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "O Flamengo chegou a Salvador para o confronto com o Bahia, pela 31ª rodada do Campeonato Brasileiro, neste domingo, na Arena Fonte Nova. A delegação desembarcou no hotel na noite deste sábado com dezenas de torcedores a…"
+   "resumo": "Flamengo desembarca em Salvador para jogo contra o Bahia O Flamengo chegou a Salvador para o confronto com o Bahia, pela 31ª rodada do Campeonato Brasileiro, neste domingo, na Arena Fonte Nova. A delegação desembarcou n…"
   },
   {
    "titulo": "Vasco x Boca no Maracanã obriga jogo do Flamengo pelo NBB a mudar de local",
@@ -90,14 +146,6 @@
    "resumo": "Acevedo está de volta ao time do Bahia após cumprir suspensão automática na última rodada do Brasileirão O Bahia encara o Flamengo neste domingo (18) em rodada válida pelo Brasileirão. Para o confronto que acontece às 1…"
   },
   {
-   "titulo": "Bahia x Flamengo ao vivo hoje 18/10: siga placar agora | Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRUVqRWlrQ2dPYkctYmJhTFdWZXNuUnlpTW1wdkM4QVRrclpfWVVCYVFEMEhseGYzQUJOVkctSEVVTUdoc3lBRDlvRF85eGJxMjBRS0ZNa0ZCdmFuWnhtS0RIaG5XNERBRU9adnM0dDdwZE1PZzRGUVBYV1hoN0pOS1FlQ0JobWs3clVHZk1B?oc=5",
-   "data": "2026-10-17T20:44:04+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo terá clássico com Botafogo no NBB de portões fechados por causa de Vasco x Boca",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVkczZXZ2a0d0X1Nqenp4MEJZd0lnZzNTeDJHQlRsSklHM1U4TndVTGNIRlhUOUljZkR5eV9wcUxCUTl5ODNoZEtGdXlZZlZpR0h5ZTh3RWZuTzRDVDdoV0h6aGFJNFlMbVJIM29MZGUySFZTT2FCVXVZQzhNTk9mSnhKajl6SjdTTUNTYkdteFRMWHZoWFFENkJmbkFQX1BwOVJnenkzWDlBY0poc0FVQktVb0RxdzdTeUlJLVdHTFpoM29ZSEE?oc=5",
    "data": "2026-10-17T18:39:00+00:00",
@@ -114,14 +162,6 @@
    "resumo": "Flamengo x Botafogo pelo NBB sai do Maracanãzinho e vai para o Tijuca, às 18h, após ação do Vasco para receber o Boca no Maracanã O jogo do Vasco contra o Boca Juniors, no Maracanã, tirou a torcida do clássico entre Fla…"
   },
   {
-   "titulo": "Bahia x Flamengo: Mengão líder e com retrospecto de dono da casa",
-   "link": "https://colunadofla.com/2026/10/bahia-x-flamengo-mengao-lider-e-com-retrospecto-de-dono-da-casa/",
-   "data": "2026-10-17T18:25:36+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Bahia x Flamengo: Rubro-Negro venceu metade dos 158 jogos em solo baiano e reencontra Everton Ribeiro na Fonte Nova Bahia x Flamengo acontece neste domingo (18), às 18h30, na Arena Fonte Nova, pela 31ª rodada do Brasile…"
-  },
-  {
    "titulo": "Semifinais Palmeiras x Fluminense, Flamengo x Estudiantes: quem chega à final da Libertadores? Os palpites ESPN para os jogos de volta",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Nem1uNUQ4bGRvSWs4clQtbWFOQjhJTm5JWlg0V2JiY0k0N1VuMnpsLVZGRks5djBLN3B4bEU4RHBUc0hoa0VZMVJFZHhBcjdVUlU5eUYwcmFsTDFRUGc?oc=5",
    "data": "2026-10-17T18:12:06+00:00",
@@ -136,14 +176,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Pedro Maia aponta favoritos ao título do NBB 2026/2027 O clássico entre Flamengo e Botafogo, pela segunda rodada do NBB, ocorrerá em um palco diferente do previsto. Inicialmente marcado para o Maracanãzinho, o jogo da p…"
-  },
-  {
-   "titulo": "AO VIVO | Coluna do Fla acompanha embarque do Flamengo para Salvador antes do jogo contra o Bahia",
-   "link": "https://colunadofla.com/2026/10/ao-vivo-coluna-do-fla-acompanha-embarque-do-flamengo-para-salvador-antes-do-jogo-contra-o-bahia/",
-   "data": "2026-10-17T18:06:05+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Delegação do Flamengo viaja para Salvador após o último treino no Ninho do Urubu O Coluna do Fla transmite ao vivo, neste sábado (17), o embarque do Flamengo para Salvador, no canal do YouTube. A delegação rubro-negra v…"
   },
   {
    "titulo": "Flamengo divulga lista de relacionados para confronto com o Bahia, pelo Brasileirão; veja quem viaja",
@@ -200,14 +232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Saiba onde assistir ao jogo do Flamengo x Bahia, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/10/saiba-onde-assistir-ao-jogo-do-flamengo-x-bahia-pelo-brasileirao-4/",
-   "data": "2026-10-17T14:30:47+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo e Bahia se enfrentam na Arena Fonte Nova neste domingo (18) O Flamengo enfrenta o Bahia neste domingo (18), às 18h30 (horário de Brasília), na Arena Fonte Nova, em Salvador, pela 31ª rodada do Brasileirão. O Pr…"
   },
   {
    "titulo": "Alex Sandro se destaca e engata sequência que não acontecia desde março no Flamengo",
@@ -426,14 +450,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Rodrigo Mattos: os números que fazem o Maracanã valer a pena para o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qaGt4OTRndVR1clhDcE5Pb2Z6RDg0ZzdMT2dUYVQza19NYml2azNzWTVJOUotVlRrM2t4Q1dWWjJTb0JMQkdLS1YySHBPcGEwTk5lOWktU1VfVkhHbmhVbFE2VE1rVUU?oc=5",
-   "data": "2026-10-16T14:25:31+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Felipe Melo relembra 1° gol pelo Flamengo e valoriza passagem pelo clube: 'Tenho muita gratidão'; VEJA",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pd1RGN0h1LXp5Q1dFZkY0MGpCUzNyQmpFUnhkN1lxRUN0ZjFjVlhySFhlUUI0WmxjVmg5bTYzWU5LcEpJSVkwRzlHbzFpYVRiNFVmeWFGZlhpOTBFSlE?oc=5",
    "data": "2026-10-16T13:42:36+00:00",
@@ -474,16 +490,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Alicia Klein: O que faltou ao Flamengo na Argentina (não foi bet)",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFV2MW9OTVI3bTUtalNPbHdzcWpVWmJFOWlYSy1Gbnc3TnU1dzZhOXlyMm10aVpsU2F2YVJFYVphR2VlRWRMbThTQndpTW9CbWdyR3FWSDN3M3VCdVc3N2NETEJnYWlUOUNheVNSamlOS2pETS1xb2FPdVk1T0FRUlRzVExaMVB6QmdLcXZTSThJYVFPSGZ2bDBNOGVJWjJSVDIyYmFTTXBCY2JhLWlwZmhEUGZtT2s?oc=5",
+   "titulo": "Mauro Cezar Pereira: Flamengo não pode passar 90 minutos sem finalizar no gol, mas passou",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUXlWNk5xYTd6SV9ER01XVEU2dTNTQ0VCY0gzaHBQQVp5YUdsV3lFVVVSSF9xVUNGcUxvZ3NUYkVkdThaWldoQXdhT2MtTlF6ZTdQNzlEdWVkNHNVTGZGZF80QzNJS1VKTTAwZFpBWElqdVlNTHczUHNuU3UxVm9wLWZGMlBCbU4wWVU0RVdKYVVvT3Zkb2NIS1hJa0tYZkRMbXUtN2NCTmZXTXFqUUVLR2Z4SFhLMkN5U0U0bWNSUUVJY2tPRXJTb2dscTdKUzJpRGNic3hWYXJxb0I4Wk1OeTVzSQ?oc=5",
    "data": "2026-10-16T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Mauro Cezar Pereira: Flamengo não pode passar 90 minutos sem finalizar no gol, mas passou",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUXlWNk5xYTd6SV9ER01XVEU2dTNTQ0VCY0gzaHBQQVp5YUdsV3lFVVVSSF9xVUNGcUxvZ3NUYkVkdThaWldoQXdhT2MtTlF6ZTdQNzlEdWVkNHNVTGZGZF80QzNJS1VKTTAwZFpBWElqdVlNTHczUHNuU3UxVm9wLWZGMlBCbU4wWVU0RVdKYVVvT3Zkb2NIS1hJa0tYZkRMbXUtN2NCTmZXTXFqUUVLR2Z4SFhLMkN5U0U0bWNSUUVJY2tPRXJTb2dscTdKUzJpRGNic3hWYXJxb0I4Wk1OeTVzSQ?oc=5",
+   "titulo": "Alicia Klein: O que faltou ao Flamengo na Argentina (não foi bet)",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVFV2MW9OTVI3bTUtalNPbHdzcWpVWmJFOWlYSy1Gbnc3TnU1dzZhOXlyMm10aVpsU2F2YVJFYVphR2VlRWRMbThTQndpTW9CbWdyR3FWSDN3M3VCdVc3N2NETEJnYWlUOUNheVNSamlOS2pETS1xb2FPdVk1T0FRUlRzVExaMVB6QmdLcXZTSThJYVFPSGZ2bDBNOGVJWjJSVDIyYmFTTXBCY2JhLWlwZmhEUGZtT2s?oc=5",
    "data": "2026-10-16T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1213,22 +1229,6 @@
    "titulo": "Torcida do Flamengo reage à vitória do Palmeiras: 'Futebol horroroso'",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlAtWFVXdS1LQWxHb2tvNWw0dlVXOGVYanJ3OGdXWHFvZnRfMHlzZ0ktajlZSkV1c3MzYUVmaGg2TGVubjNzS3RMcXR0d0Y1ZnFmaUNraFhVVWZsQlNKQkNkQUFXTnlFS2JVY0ZUVGhIbWVFQlpMV0k4NkZ2bXhyMVlrTzF0eXBCN0hJaTRtT1RUWmhEbHA1UExuVkVybEhZX193ajhUUWJ6VVhjb1ZR?oc=5",
    "data": "2026-10-15T09:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arias comenta vaias no Maracanã e valoriza vantagem do Palmeiras sobre o Fluminense",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjhRNzRrVUs3LUJGVDk4N2RPVkN6MVZUdk03bEwtcXFHTkZGMi14OWlhV1pXbTZ6ejBUbHZpTzBrbWowNWo2RWdzRGxRU3VKRUVZenRUZnlNc2xBemE1eDZNZmtIV3cwd0R2VWt1ODlpOWtxOEZPRExiWlJNLXpUdWxrZ3ZqckRELUgtTFBTenZJNS1DdWlyajhUZTZEeE1UOGgyZDliSDBLQUM0Y0RCNW1OcnNEUnh4OFEyVk1EODc?oc=5",
-   "data": "2026-10-15T09:15:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mourinho fala de Wesley, ex-Flamengo, após Roma x Real Madrid: 'Já sabia'",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHlXLUdRVG94T0ZvQ29sTnNuTlZkNTV0Z29zS0d4ODBZcXZvVGtxSWFWak9ZdWNXTXVFWUFjZXNlNDlvS18yU0JoRU11WWpGNTRPME9YV3ltdHNYZkk4enN2dkxqU3pNTlRZNkZ0TU5BSmU2UWlma01PZW1uYmhqYkdtTE1WcnJJM0p6TWNaSzlPY2EtMGFrMVV4WE1CZ244Skh3cFVzdmowN3FReEFuTHlINk1GTy1YV195dQ?oc=5",
-   "data": "2026-10-15T09:10:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
