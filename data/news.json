@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-20T01:12:38.845013+00:00",
+ "atualizadoEm": "2026-10-20T06:31:13.557492+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 35
+   "itens": 34
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,80 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 65
+   "itens": 63
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 91
+   "itens": 92
   }
  ],
  "itens": [
+  {
+   "titulo": "Fluminense x Flamengo ao vivo hoje 22/10: siga placar agora | Copa do Brasil Feminina",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLTRiVm9BQ3REeVFFWmJyWDdWWFRPbnVBNUxtaHRTNV9OeGdqU3hWWEE5Z3VHNExiVFNzc0g2b0RxQ1h5ZXlQQlZEaVFRVW82dGNLVHRZRWFCWHlFQW1BOG5qaXhfamFrbWMxOXNYcFhFMXNYSnZHWnlTb0ZlbUNaOXJBU2JBODF1NlJxbmZUaWVmb3NkNVludEJaWWZMOEtKemdXMQ?oc=5",
+   "data": "2026-10-20T03:05:15+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Estudiantes ao vivo hoje 22/10: siga placar agora | Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXNrRkNkUjh2Y1ZmY3V3emhFMkh4NmwyYU56UkhOY0JhX1RqX0NSTEUxWHVucW9XS2NuTW9vRm5wd0tobzNhR3NmaG9Bc0FCaktLaWNkUzZvbW0wZHVReFB2QTdPZ1poRUFnek80QUkyc1NzRUVCMEFrcXN2RnUwMXR0Y0hfX2dZbmwzdVo0QmFpazNyVHBB?oc=5",
+   "data": "2026-10-20T03:03:53+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Técnico do Santos, Cuca cita o Flamengo para elogiar Gabigol",
+   "link": "https://colunadofla.com/2026/10/tecnico-do-santos-cuca-cita-o-flamengo-para-elogiar-gabigol/",
+   "data": "2026-10-20T02:48:38+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Técnico do Santos exaltou o faro de gol do atacante após a virada sobre o Fluminense O técnico Cuca elogiou Gabigol depois da vitória do Santos sobre o Fluminense por 2 a 1, neste domingo (18), no Maracanã. Na entrevist…"
+  },
+  {
+   "titulo": "Sesc Flamengo estreia com vitória na Superliga; veja resultados",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjB5TTFqYVZyNUxqc1N5cTN2Z3Y4R3gtdFhQTUNUYl9jcDZsM0NQLUtwNFhxSGVSYzRNOGR4b2YwNU1TQjJLYS1CZ3FKX05DdnoteGwtNURIby0tRDFLZF81TVZOWEFvcWlDUjVzbk1NNld3Z3pDNlBqSlRCekdid1k3cWtodjF0OHdVMlYwWXNaZUFlZEhESXdKOXFJMG8?oc=5",
+   "data": "2026-10-20T02:34:19+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Técnico do Estudiantes minimiza derrota no Argentino e mira o Fla: “Equipe diferente da que vai jogar na Libertadores”",
+   "link": "https://colunadofla.com/2026/10/tecnico-do-estudiantes-minimiza-derrota-no-argentino-e-mira-o-fla-equipe-diferente-da-que-vai-jogar-na-libertadores/",
+   "data": "2026-10-20T02:22:22+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Alexander Medina poupou titulares e viu o time perder para o San Lorenzo (ARG) O técnico Alexander ‘Cacique’ Medina minimizou a derrota do Estudiantes (ARG) para o San Lorenzo (ARG) e voltou o discurso para o Flamengo.…"
+  },
+  {
+   "titulo": "Flamengo estreia com vitória sobre o Barueri na Superliga Feminina",
+   "link": "https://colunadofla.com/2026/10/flamengo-estreia-com-vitoria-sobre-o-barueri-na-superliga-feminina/",
+   "data": "2026-10-20T01:33:56+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Time de Bernardinho larga com vitória no Tijuca O Sesc RJ Flamengo começou com vitória a caminhada na Superliga Feminina 2026/2027. Na noite desta segunda-feira (19), o time do técnico Bernardinho derrotou o Paulistano…"
+  },
+  {
+   "titulo": "Sesc-Flamengo faz 3 a 0 no Paulistano Barueri na estreia da Superliga",
+   "link": "https://ge.globo.com/volei/noticia/2026/10/19/sesc-flamengo-faz-3-a-0-no-paulistano-barueri-na-estreia-da-superliga.ghtml",
+   "data": "2026-10-20T01:33:53+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Sesc-Flamengo 3 x 0 Paulistano Barueri | Melhores momentos| 1ª rodada | Superliga feminina O Sesc-Flamengo teve uma estreia tranquila na Superliga Feminina 2026/27. Jogando em casa, no ginásio do Tijuca, o time do técni…"
+  },
+  {
+   "titulo": "Com Seedorf na arquibancada, Corinthians empata com o Vitória; veja tabela atualizada do Brasileirão 2026",
+   "link": "https://colunadofla.com/2026/10/com-seedorf-na-arquibancada-corinthians-empata-com-o-vitoria-veja-tabela-atualizada-do-brasileirao-2026/",
+   "data": "2026-10-20T01:05:23+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Empate na Neo Química Arena interrompe a série de oito derrotas dos paulistas O Corinthians empatou com o Vitória por 1 a 1 nesta segunda-feira (19), na Neo Química Arena, e encerrou a 31ª rodada do Brasileirão. O resul…"
+  },
   {
    "titulo": "Por que Claudinho não jogou no Flamengo? Meia aponta culpado",
    "link": "https://colunadofla.com/2026/10/por-que-claudinho-nao-jogou-no-flamengo-meia-aponta-culpado/",
@@ -40,14 +104,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Meia do Al-Sadd (QAT) reforça a versão de que o clube russo barrou uma transferência O meia Claudinho voltou a responsabilizar o Zenit (RUS) pelo fracasso da transferência para o Flamengo. Em nova declaração, o jogador…"
-  },
-  {
-   "titulo": "Rogério Ceni ‘chora’ por não expulsão de Pulgar, mas reconhece ‘atropelo’ do Flamengo contra o Bahia",
-   "link": "https://colunadofla.com/2026/10/rogerio-ceni-chora-por-nao-expulsao-de-pulgar-mas-reconhece-atropelo-do-flamengo-contra-o-bahia/",
-   "data": "2026-10-19T23:15:31+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Técnico do Bahia concedeu entrevista após a vitória do Flamengo na Fonte Nova Virou rotina: quem perde para o Flamengo, coloca a culpa na arbitragem. Não foi diferente no domingo (18), quando o Mengão fez 3 a 0 no Bahia…"
   },
   {
    "titulo": "Boca anima torcida com vídeo de Paredes antes de duelo com o Vasco ao som de \"O show tem que continuar\"",
@@ -96,14 +152,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Ídolo do Palmeiras se revolta com vitória do Flamengo sobre o Bahia: “Estou cansado de secar”",
-   "link": "https://colunadofla.com/2026/10/idolo-do-palmeiras-se-revolta-com-vitoria-do-flamengo-sobre-o-bahia-estou-cansado-de-secar/",
-   "data": "2026-10-19T21:34:15+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Marcos deixou claro que torceu pela derrota do Flamengo para o Bahia, porém, viu o Rubro-Negro vencer por 3 a 0 O ex-goleiro Marcos, ídolo do Palmeiras, afirmou que secou o Flamengo no duelo contra o Bahia. Mas a secada…"
   },
   {
    "titulo": "Ídolo do Botafogo é sincero sobre ida ao Flamengo: 'Diferente'",
@@ -170,14 +218,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Boca Juniors treina no CT do Flamengo às vésperas de jogo contra o Vasco, pela Sul-Americana",
-   "link": "https://colunadofla.com/2026/10/boca-juniors-treina-no-ct-do-flamengo-as-vesperas-de-jogo-contra-o-vasco-pela-sul-americana/",
-   "data": "2026-10-19T17:57:53+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Delegação do Boca Juniors (ARG) chegou ao Rio de Janeiro no domingo (18) e treinou no Ninho do Urubu na manhã desta segunda-feira (19) O Boca Juniors (ARG) já está no Rio de Janeiro para encarar o Vasco na terça-feira (…"
-  },
-  {
    "titulo": "Arrascaeta volta a treinar com bola, mas retorno ao Flamengo ainda exige cautela; entenda",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/19/arrascaeta-volta-a-treinar-com-bola-mas-retorno-ao-flamengo-ainda-exige-cautela.ghtml",
    "data": "2026-10-19T17:53:37+00:00",
@@ -200,14 +240,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Vini Jr. reage a golaço de Paquetá em vitória do Flamengo sobre o Bahia",
-   "link": "https://colunadofla.com/2026/10/vini-jr-reage-a-golaco-de-paqueta-em-vitoria-do-flamengo-sobre-o-bahia/",
-   "data": "2026-10-19T16:10:33+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Camisa 11 marcou na vitória por 3 a 0 sobre o Bahia, chegou a 13 gols na temporada e assumiu a vice-artilharia do Rubro-Negro em 2026 O golaço de Lucas Paquetá na vitória do Flamengo por 3 a 0 sobre o Bahia ganhou desta…"
   },
   {
    "titulo": "Paquetá, Carrascal ou Lino? Entenda lógica de Jardim para definir substituto de Arrascaeta no Flamengo",
@@ -298,6 +330,22 @@
    "resumo": ""
   },
   {
+   "titulo": "Mauro Cezar Pereira: Vantagem mínima do Flamengo sobre o Palmeiras foi construída fora de casa",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNDltRm5LcDN1cTdCa1JKNHh1Tk1xT2lxeUdicUFubVdkMlVWUlljQ25NX0M0LVN6YzFTMHZRTlRYRlk1OXk4bF83VEhBWWkwREpkamlOdko4aEVqV1JGRW40MlJjQXdsVk1meHNubWU2TzRkODc4UHRlS19tX25FcUlfYkYwdGliZ3pDNVVhd2VCQ08wTkFUd0VLQk9VUjMxSzQwY2RtOThwNkFySThrcmF1bTdLT252Mkdza3g1T0pKSXd0Z0FKakZjZHJfYzNGSkFXQi1Ubl9IS2RNMXVDRkt4QXBxSEk4MDdV?oc=5",
+   "data": "2026-10-19T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fla afasta 'romantismo' e liga modo ataque para jogo mais importante do ano",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlY1TS1qUGI0bTFUb2p1Q2duSFpwcnpxcGpFTW1Bc2pneEVKdEtMSUkzc3kzdlBOVWNUVEJNb0VCdFpUdFVOcmhESEJPbXc0MGhqVGdVNEJEVjNicl92cTBkUzFRa25raFh5eEhQTGNEVENRMFlqbEZ6Q2h3OVVtcERqdjlxNnRiZzlVNUY4Q1pXZFZOVEwxNjlJQ20?oc=5",
+   "data": "2026-10-19T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Rogério Ceni aponta erro de arbitragem em Bahia x Flamengo",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0tvSVlsZk1PeUZzLTZQRnZTWndzTy1pS0VscExmS3FBTGRmYnZ1b3JkdzNJTzlfRWRmSEVGTG5wckJwbFRYbmtaMFhlWmo0ZnNJd3BLLTViZmNBYXFKczdGM2puTDgwTE9ZSVYtVk1QcnF1S3hKUzFMalB1RzRla1lzcTY1RDdkQmhyM1ptQ3JxWEVWLVRlLVViWVZaN2lNdy1LeFZR?oc=5",
    "data": "2026-10-19T11:57:00+00:00",
@@ -335,22 +383,6 @@
    "data": "2026-10-19T10:22:37+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mauro Cezar Pereira: Vantagem mínima do Flamengo sobre o Palmeiras foi construída fora de casa",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNDltRm5LcDN1cTdCa1JKNHh1Tk1xT2lxeUdicUFubVdkMlVWUlljQ25NX0M0LVN6YzFTMHZRTlRYRlk1OXk4bF83VEhBWWkwREpkamlOdko4aEVqV1JGRW40MlJjQXdsVk1meHNubWU2TzRkODc4UHRlS19tX25FcUlfYkYwdGliZ3pDNVVhd2VCQ08wTkFUd0VLQk9VUjMxSzQwY2RtOThwNkFySThrcmF1bTdLT252Mkdza3g1T0pKSXd0Z0FKakZjZHJfYzNGSkFXQi1Ubl9IS2RNMXVDRkt4QXBxSEk4MDdV?oc=5",
-   "data": "2026-10-19T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Fla afasta 'romantismo' e liga modo ataque para jogo mais importante do ano",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlY1TS1qUGI0bTFUb2p1Q2duSFpwcnpxcGpFTW1Bc2pneEVKdEtMSUkzc3kzdlBOVWNUVEJNb0VCdFpUdFVOcmhESEJPbXc0MGhqVGdVNEJEVjNicl92cTBkUzFRa25raFh5eEhQTGNEVENRMFlqbEZ6Q2h3OVVtcERqdjlxNnRiZzlVNUY4Q1pXZFZOVEwxNjlJQ20?oc=5",
-   "data": "2026-10-19T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -570,14 +602,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Bahia 0-3 Flamengo (18 de out, 2026) Estatísticas dos times",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOEQxVnd0SEdOaGtTQ1ZrVHlwSFhjWHdkTHJrMUZpOGsweDlOTGRTSjBHRmhmbHV5OHFUNWpBeTNKTGZMOEloWVVSNWZJaUN5alpDaHo0MHd0NGh6eXhpNXkxVURNOVV5YUY1amhtWjMyVGFGdWhSSTZBR1JPS2plcGI5Y0FYUjA5MFE?oc=5",
-   "data": "2026-10-18T21:26:12+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Veja onde assistir Bahia x Flamengo ao vivo pelo Brasileirão neste domingo - TNOnline",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkVlak5HbDBScmlwMjg3ME52ZXBmOFppU0hydzktNWptMEJEMm5sbHM2MlEtSV9JRDdJR1NmenVacGdFaU8tbl83T0NfTjBmZkZBN2szaGhqR1Z6dWdxNXQ2SkpHUzg5Wk42TDdxTkgyNnRxTjN1NmwtMS1waWM2Vi1DVW9DckMzeWJGTHlNUHR5LVJlZkROOFhKOHdnYy0tclJDZzNfNVNrV2J3Zkp0Mmt2REhyd092ZUZKNmRHN01kYTBHNEtN0gHSAUFVX3lxTE9TRmtNX2dLbzE5MUJHT1BUWV8zdVRDekJoLXFMNklLWDVfVlZNenc4Mk1NeXdjMFBYazhzYlBZV3VCSlhuN1RPSGprTnFESkxjLWJOM2NOd0x6R0xxMlE3SkozaUI0ZGRYS1NMXzhYdEtpYXA3SkVaenMwSXZVOW1PTjBCc1l1Nk9YZnJyOFVFOWxoeFhpcm01Yk9lWkxGWHk2UUhkTlhLb1FJWERxeWdDQTYxcFhIVElVNXhtSlE0c2N5UW9MeUZNYWdxRGNtaXN0QQ?oc=5",
    "data": "2026-10-18T21:15:23+00:00",
@@ -794,14 +818,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Danilo Lavieri: Palmeiras tem uma das vitórias mais importantes do ano e pressiona o Fla",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblhndndaUVNaWGNyaWNmZWxQRGRNOUpXalVobGtZRF9YQldNTEpzSUsycTFsakNVVTNnMWU2c0llWG5zUnN2T0pRLVh5ek1UNjBsa001Si1WeDBiMEFreXA5TDZSRENlTlo5QU9lVmZ6VGkxU3VyQmotcVNqZEVRc2JMcVo1QkJmMlh1eHd4TWloZVVhZ3VPYUZOWkh4QktnWHI0X1IxcVFfZlZDb0w0Y1RpQTg1Y0FUVTFabEkzc2hUUS0xTjFaLWJ6T1FramtLYzVWYkR2bkw?oc=5",
-   "data": "2026-10-18T04:50:30+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo terá cinco desfalques contra o Bahia pelo Brasileiro",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUkNCcjZpZGxRSjNyWmIybThFcnBXSlQ5SVdObFFodkdUcGNIMTRBWnhqTzZ6YUpkV0dETFE5MWJSNDBveHpXbUVwdWZlZ0lqMEpOa0R5end0YTJFZkQ1RXotbDlnLXVhQjdCeENYeTZYdWpkN3loZ3h6MTNYV3EyRDNkNllwejdQeHd4TXdhS1daZ2d5N0RuQW1od05Cd1ktdHpwV0V5RWlyTWZkanlkcU1LY3dfV25IQ1gzUkJ1ZnhXLXN2OTR2eTVXdnp6dw?oc=5",
    "data": "2026-10-18T02:52:24+00:00",
@@ -813,6 +829,14 @@
    "titulo": "Danilo Lavieri comenta nova liderança do Palmeiras: \"Pressão está toda com o Flamengo\"",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLZGo1VmdrRGhJWWNsdXl4X0ZvcE1MMWFYOGlFSWtrUEdLOTF2MkRpdWxBNkFwZ3dHX0lfWnpncDVFOUl2YWpXcldIU0V3Z2JMcUdXeDBwRjhScElEeWlJT1BwNEswMnc?oc=5",
    "data": "2026-10-18T02:36:04+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Danilo Lavieri: Palmeiras tem uma das vitórias mais importantes do ano e pressiona o Fla",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblhndndaUVNaWGNyaWNmZWxQRGRNOUpXalVobGtZRF9YQldNTEpzSUsycTFsakNVVTNnMWU2c0llWG5zUnN2T0pRLVh5ek1UNjBsa001Si1WeDBiMEFreXA5TDZSRENlTlo5QU9lVmZ6VGkxU3VyQmotcVNqZEVRc2JMcVo1QkJmMlh1eHd4TWloZVVhZ3VPYUZOWkh4QktnWHI0X1IxcVFfZlZDb0w0Y1RpQTg1Y0FUVTFabEkzc2hUUS0xTjFaLWJ6T1FramtLYzVWYkR2bkw?oc=5",
+   "data": "2026-10-18T00:50:30+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -1205,30 +1229,6 @@
    "titulo": "Adversário do Flamengo, Estudiantes é punido após confusão com arbitragem",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdVNwWDcwWWVXQktISzQ0OS1ZOXFlcHVVR095RHltc0ZfSjYyVkZlTDlhTzVDUDlQel9ONnJGd0lvY0J0Z1phcUV1ckZHU1VVSzlzN001Q0FWN1duZGg4UE41SDdDb2lSRTBlNTZZOXJOVG43RUVXQklOZW5RQTJYblVmaDZCLXRNQVRidWloVXNELUxwOU8xVEJ1QVZoX1VLTzVDcDVqc2VvY3dsTGV0WQ?oc=5",
    "data": "2026-10-16T10:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Filipe Luís vira assunto no exterior após vitória do Monaco: 'Não foi'",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDhNQlpLM1FRSjVjX0RWWlJCMWpfalBtUFVtNXZKYVdHOUp1RXVNaFNpNUZsaldRZ3lxVFE1T1h1VjBwRHBqM3NyMmpjNmh4eFIzYWpsNUgzQlFIdG03ZmVyWElDa0pWcHdGaDlVWWVFUUx6V1NnSDBsN09KdFdkTFp5amdod055UWpTOU4zRWxrdTNjaTFmXzkzSnhqR25QamVKQnkyNDE1T1RENWttZQ?oc=5",
-   "data": "2026-10-16T09:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Técnico do Estudiantes elogia domínio contra o Flamengo: \"Eles não criaram nada\"",
-   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/16/tecnico-do-estudiantes-elogia-atuacao-contra-o-flamengo-eles-nao-criaram-nada.ghtml",
-   "data": "2026-10-16T09:22:39+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Estudiantes 0 x 0 Flamengo | melhores momentos | semifinal | CONMEBOL Libertadores 2026 O técnico Alexandre Medina, do Estudiantes, aprovou a postura de sua equipe no empate sem gols contra o Flamengo, nesta quinta-feir…"
-  },
-  {
-   "titulo": "Renato Maurício Prado detona Jardim após empate do Flamengo: 'Não aguento'",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUlN1LTRpUVJ0QWN4VUdKT2dCVWpKUlJPb1lhWnRkemVVTk9jb01VcUVqUkRKRl9KUTctWmYyNGdfR3ZHdDlkUlRUZXpNRFU0dHpnVl9SSU9GSVhFb3ZiM2NoSmd5ZnVxWGdfWnhQZTYtZWNpM2ZjcF9TLVdLODQ5RU9QUXN3M3ZyMFpQbjFyZGZpb0dmbVdXM3AzRDJUUi12eHdtMzJEalA4alVmbkFxVXpBZk9xdw?oc=5",
-   "data": "2026-10-16T09:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
