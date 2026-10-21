@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-21T01:57:15.276896+00:00",
+ "atualizadoEm": "2026-10-21T07:28:31.111629+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 29
+   "itens": 31
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 55
+   "itens": 56
   },
   {
    "id": "uol",
@@ -33,6 +33,46 @@
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo aposta em força no Maracanã por vaga na final da Libertadores; veja preparativos e números",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/21/flamengo-aposta-em-forca-no-maracana-por-vaga-na-final-da-libertadores-veja-preparativos-e-numeros.ghtml",
+   "data": "2026-10-21T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Torcida do Flamengo prepara festa para semifinal da Libertadores no Maracanã O Flamengo prepara uma grande festa no Maracanã para lutar por uma vaga em mais uma final de Libertadores. A equipe rubro-negra enfrenta o Est…"
+  },
+  {
+   "titulo": "Leo Jardim falha no fim, Vasco perde para o Boca Juniors no Maracanã lotado e fica de fora da final da Sul-Americana",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPa2hRUUQ0NWEtSXFUdXRodmk3c1JYeElCVkMzM055SEQwTWFDOWdRR0xCc096R3RaNXhfeFBPNHRhN0xxejRYU3hxT2U1X0dHNnBNWnNyeVBTWkVfYVlaNjk1VHktSFBaT2NadkFHUXZySmFMTmYycHEyeWRNdURISktnUk83N050ellHcEY0UHVKTlhUaEZPVHhEeTQ1Z1k0TnZMME1yMWNpZ3JFVFpOQVh1ZzkwRkExb1V3c1hlcG1HUWRMWHFvU0pjc09LWmprVk03QkFyRlFNNkQ4VklHX1pDMEJvOFdmQmFoaHc5N05iX01nZkwtUHg3V0pnM3NNOHU0?oc=5",
+   "data": "2026-10-21T03:26:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Boca Juniors provoca após classificação no Maracanã: 'No final, se classificou o Vasco...'",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQanZhU2FIVzZ3dmVNQVd2NExMeEpWZXdZYkNiZGU0aU5nbU1uRlVpMzZvRlZZWnQwd2U5bnNzZ19WM1FkSDVabVAtVm9udk96LTJWZ21WQjVkVi1oRGl5MjlvaG1NbGdSY3NQYTllY1B5UUc0OVhxZk5nR2ktdGh4VDNRc0x2MDdDZVpFY3hsc1NKdXhQTG42QmNibEpvTUdRR0dBN3Q3Tjhfa3I2Wlo2MFhrbXk1a2RtanNrcnZfdXpKTXFObHdiaEl4REw1S0FVMjVYUW1B?oc=5",
+   "data": "2026-10-21T03:12:38+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "ELIMINADO! Vasco passa vergonha, perde para o Boca Juniors no Maracanã e fica fora da final da Sul-Americana",
+   "link": "https://colunadofla.com/2026/10/eliminado-vasco-passa-vergonha-perde-para-o-boca-juniors-no-maracana-e-fica-fora-da-final-da-sul-americana/",
+   "data": "2026-10-21T02:27:24+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Vasco perdeu para o Boca Juniors (ARG) no Maracanã e deu adeus à final da Sul-Americana O Vasco lutou para jogar no Maracanã, porém, todo o esforço foi em vão. Isso porque, na noite desta terça-feira (20), time carioca…"
+  },
+  {
+   "titulo": "Flamengo vence Criciúma e garante vaga nas quartas de final da Copa do Brasil Sub-20",
+   "link": "https://colunadofla.com/2026/10/flamengo-vence-criciuma-e-garante-vaga-nas-quartas-de-final-da-copa-do-brasil-sub-20/",
+   "data": "2026-10-21T01:46:58+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo aplicou 2 a 0 no Criciúma e confirmou vaga para a próxima fase da Copa do Brasil Sub-20 Os crias do Ninho estão classificados para a próxima fase da Copa do Brasil Sub-20! Nesta terça-feira (20), o Flamengo ven…"
+  },
   {
    "titulo": "Marcos Lamacchia acompanha Vasco x Boca Juniors no Maracanã",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVB3dGxxN1M4QTA3cmFiaWpJOFhDTDJzbDQ3ZEZicEZzRXlBYjZRckZjcUVFVDZtdDhWWWRLUVRNYWZlNWRwQU0tLUIxVl9ZUENZclZvSFF0SmQ3aDZ6WEhQZENmX0hJcWg5Wk84S1ZMN1QtRFlZSzVMdGFMRV9CV1FiTENEbTM3NGpYc1lJOC1RMUs2MmZCVHJEUQ?oc=5",
@@ -90,14 +130,6 @@
    "resumo": "Flamengo 81 x 71 Botafogo | Melhores momentos | 1ª rodada | NBB 2026/27 O Flamengo venceu o Botafogo por 81 a 71 na noite desta terça-feira (20), no Tijuca Tênis Clube, no Rio de Janeiro, pela segunda rodada do NBB 2026…"
   },
   {
-   "titulo": "Veja programação do Estudiantes no Rio antes de jogo contra o Flamengo, pela Libertadores",
-   "link": "https://colunadofla.com/2026/10/veja-programacao-do-estudiantes-no-rio-antes-de-jogo-contra-o-flamengo-pela-libertadores/",
-   "data": "2026-10-20T22:45:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Estudiantes (ARG) chega ao Rio de Janeiro na noite desta quarta-feira (21) O Estudiantes (ARG) ajusta os últimos detalhes para o jogo contra o Flamengo, pela volta da semifinal da Libertadores. A partida ocorre na quint…"
-  },
-  {
    "titulo": "Tem jogo no Maracanã hoje? Perfil do estádio ignora Vasco x Boca e revolta torcedores",
    "link": "https://colunadofla.com/2026/10/tem-jogo-no-maracana-hoje-perfil-do-estadio-ignora-vasco-x-boca-e-revolta-torcedores/",
    "data": "2026-10-20T22:15:40+00:00",
@@ -128,14 +160,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo pega o Estudiantes por vaga na final da Libertadores O Estudiantes não pôde escalar Marcos Rojo, sua contratação de emergência para o jogo de ida da semifinal da Libertadores, no 0 a 0 com o Flamengo na Argenti…"
-  },
-  {
-   "titulo": "3 vitórias em 4 jogos: o retrospecto do Flamengo contra o Estudiantes no Maracanã",
-   "link": "https://colunadofla.com/2026/10/3-vitorias-em-4-jogos-o-retrospecto-do-flamengo-contra-o-estudiantes-no-maracana/",
-   "data": "2026-10-20T20:41:46+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo jamais perdeu para a equipe argentina no Maracanã e tenta manter a invencibilidade nesta quinta-feira (22) Contagem regressiva! Nesta quinta-feira (22), o Flamengo enfrenta o Estudiantes (ARG) às 21h30 (horário…"
   },
   {
    "titulo": "“Dói chegar ao jogo com o Flamengo desta maneira”, diz jogador do Estudiantes antes de partida da Libertadores",
@@ -746,16 +770,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo atropela Bahia por 3 a 0 e reassume a liderança do Brasileirão",
+   "titulo": "Flamengo vence o Bahia e reassume liderança do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0za2pNQUUyWE5ER0ZvUDZ4ZkdPLW0xblc1cDdXbTA4RVlnOHN0QW9Ka1FWNUJ6TnhzSEowZ3A0el9tNGlKXzBVSVVMNUNyV2JKS1Q0MURQQnl3d0xoTWVJb0xoeHBpb2luaDVLeGtlWWZOQjl1NFE?oc=5",
-   "data": "2026-10-18T20:20:21+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "AO VIVO: acompanhe Bahia x Flamengo pelo Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KamtaVlF3cnUwSlhLWnU2X2NDNkxBbF9icjl0aXdvaTdUY0N0eFJfWUFNWTEzenRwT1JiTFpPWnFkZmxyZnlfcG9kLWp4Yk1XTTA0aWY2aHpKaVpfZkN4d1d6cFYxbkU3R2d4QVhteG5nUEZIRWdvcWNEMnBhdw?oc=5",
    "data": "2026-10-18T20:20:21+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
@@ -975,14 +991,6 @@
    "data": "2026-10-17T22:37:24+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flamengo comenta sobre futuro no Real Madrid: 'Por que não?'",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM25rZlcwYUtzYzNnM3MxZkFlVXFxLWpqd3ladmNCVm9oU0tNWTQ4MlhXc1Y3b3gzWlZnOVpESV9PWm5FOE16Zk92LWFYYmNOU3J3ZGQ3MWVQVjhpNlA5MFJFby1TOWRacHpmUXhXZVJhNTg5T0JTTXpFTHAzdUFodVUybTBsM1pabUZUMENPRVloOXdSTWc?oc=5",
-   "data": "2026-10-17T21:31:19+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -1221,14 +1229,6 @@
    "titulo": "'Flamengo não sabe jogar sem bola como Palmeiras': Arnaldo e Mauro debatem",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWlPaEdzOGhFQlpqT0FyLUluektJLXl5eVFtRVMzX2RqeUhpTnYzZnlxelZyQTFtN3VkNzFTNnhkUE42d0ZvcmUteUdCSFNnVGo0VGROZ01YTXp6WUdHWmtmX0pnTU5QbmFqa0NXTEhLZmRXQ1Z1VWxXVTZQaUJVQ21YLUcycXY1dWF5NEhkZlNLQTNseE1aSmstVG9UWGd1U0RjNzREV0JQRFNWdmRhZmZVV09KMGd3ZUh2VEU5YW0tQmJIS1pjY1FzTVo2cUFiUllhYzY4V2V1bTA?oc=5",
    "data": "2026-10-16T14:31:31+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo não soube o que fazer com a bola contra o Estudiantes, diz Juca",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnQtVEYwQkZneE5ZSURBTTF3dlhpak1JOC1FOHNKdmU3b29EU2xUUFEwRWZiU3JEeTdiWUxUQW0wbW41VE9HdlRwX0Q5LW5FYXNMWnR2VlpQb1p0N3NPQkp5RDJpUE9MUzJKWTA2YkUwTE52eDBrWE5oOV9DMmptNzhlT3h4d3JaNjFJY1M0eERnSVFmdnNRVnl6WGxxT2MtRjkwNkJuMWlqUVFhci1HQ256ZzNveUUwejBzVjB3NUtEdHBrc2F1OA?oc=5",
-   "data": "2026-10-16T13:11:15+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
