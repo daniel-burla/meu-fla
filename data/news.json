@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-20T23:20:54.736064+00:00",
+ "atualizadoEm": "2026-10-21T01:57:15.276896+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 30
+   "itens": 29
   },
   {
    "id": "colunadofla",
@@ -29,10 +29,74 @@
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 88
+   "itens": 89
   }
  ],
  "itens": [
+  {
+   "titulo": "Marcos Lamacchia acompanha Vasco x Boca Juniors no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVB3dGxxN1M4QTA3cmFiaWpJOFhDTDJzbDQ3ZEZicEZzRXlBYjZRckZjcUVFVDZtdDhWWWRLUVRNYWZlNWRwQU0tLUIxVl9ZUENZclZvSFF0SmQ3aDZ6WEhQZENmX0hJcWg5Wk84S1ZMN1QtRFlZSzVMdGFMRV9CV1FiTENEbTM3NGpYc1lJOC1RMUs2MmZCVHJEUQ?oc=5",
+   "data": "2026-10-21T01:19:49+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Técnico do Estudiantes espera por reforço em jogo contra o Flamengo e dispara: “Plano está montado”",
+   "link": "https://colunadofla.com/2026/10/tecnico-do-estudiantes-espera-por-reforco-em-jogo-contra-o-flamengo-e-dispara-plano-esta-montado/",
+   "data": "2026-10-21T00:15:40+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Estudiantes (ARG) trabalha com a possibilidade de conseguir ter Marco Rojo à disposição na partida de volta da semifinal da Libertadores O Estudiantes (ARG) está focado no jogo decisivo com o Flamengo, que acontece às 2…"
+  },
+  {
+   "titulo": "Piqué convida Flamengo e Corinthians para a Kings League: “Teria um impacto positivo”",
+   "link": "https://colunadofla.com/2026/10/pique-convida-flamengo-e-corinthians-para-a-kings-league-teria-um-impacto-positivo/",
+   "data": "2026-10-20T23:35:28+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Criador da liga de futebol de 7 apontou o conflito entre fornecedoras como principal desafio Gerard Piqué abriu as portas da Kings League para o Flamengo. Em entrevista ao programa CNN Esportes S/A, o ex-zagueiro citou…"
+  },
+  {
+   "titulo": "Com portões fechados, Flamengo vence Botafogo no NBB",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0lQRUNTQnJ0VlJhQjduNzB1UGphT0lPd3RZdXE3UEctQl9uUWc1T3B3eWE0VFpUTldmbUp4MjJiVndHX2NfS29IOENxblU1M2RFUEVuVTlkSy1Nb2o2N0U5VWNyaVNDU0hlVGhwVTJxMTZtbHpTeHlKWUtPUlJ5RklYRDZZZzNTWkNHbF9R?oc=5",
+   "data": "2026-10-20T23:24:44+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Algoz do Flamengo, Safonov é contestado pela imprensa francesa",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFZfVHNxcTRBb09CdkFyejMtWVpiOFpMY2NoWWNBbTNyUFg2Q1VoX0Fkc3QxWE1EeGNLeHJJbFpOMEJLYkNuU2FKYTFiOFBMaEpQTmdJWXg0Q25zNFNzVkpUNW1sMUlBM1MxbV9wQjRIN21iZ1Z6ckR3OGNubGU4WUpocldQcHlKS21rWVFkN1lJaG1iYVVoc18yanc4QzY1YUloS01nSWtsVjlMWG9pckM4TQ?oc=5",
+   "data": "2026-10-20T23:21:56+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "As escalações de Vasco e Boca Juniors para jogo pela semifinal da Sul-Americana",
+   "link": "https://colunadofla.com/2026/10/as-escalacoes-de-vasco-e-boca-juniors-para-jogo-pela-semifinal-da-sul-americana/",
+   "data": "2026-10-20T23:17:53+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Times entram em campo nesta terça-feira (20) buscando vaga na grande decisão da Sul-Americana O Vasco recebe o Boca Juniors (ARG) nesta terça-feira (20), às 21h30 (horário de Brasília), no Maracanã. Diante dessa situaçã…"
+  },
+  {
+   "titulo": "Flamengo confirma favoritismo e vence Botafogo no primeiro clássico do NBB 2026/2027",
+   "link": "https://ge.globo.com/basquete/noticia/2026/10/20/flamengo-confirma-favoritismo-e-vence-botafogo-no-primeiro-classico-do-nbb-20262027.ghtml",
+   "data": "2026-10-20T23:16:23+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo 81 x 71 Botafogo | Melhores momentos | 1ª rodada | NBB 2026/27 O Flamengo venceu o Botafogo por 81 a 71 na noite desta terça-feira (20), no Tijuca Tênis Clube, no Rio de Janeiro, pela segunda rodada do NBB 2026…"
+  },
+  {
+   "titulo": "Veja programação do Estudiantes no Rio antes de jogo contra o Flamengo, pela Libertadores",
+   "link": "https://colunadofla.com/2026/10/veja-programacao-do-estudiantes-no-rio-antes-de-jogo-contra-o-flamengo-pela-libertadores/",
+   "data": "2026-10-20T22:45:50+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Estudiantes (ARG) chega ao Rio de Janeiro na noite desta quarta-feira (21) O Estudiantes (ARG) ajusta os últimos detalhes para o jogo contra o Flamengo, pela volta da semifinal da Libertadores. A partida ocorre na quint…"
+  },
   {
    "titulo": "Tem jogo no Maracanã hoje? Perfil do estádio ignora Vasco x Boca e revolta torcedores",
    "link": "https://colunadofla.com/2026/10/tem-jogo-no-maracana-hoje-perfil-do-estadio-ignora-vasco-x-boca-e-revolta-torcedores/",
@@ -66,28 +130,12 @@
    "resumo": "Flamengo pega o Estudiantes por vaga na final da Libertadores O Estudiantes não pôde escalar Marcos Rojo, sua contratação de emergência para o jogo de ida da semifinal da Libertadores, no 0 a 0 com o Flamengo na Argenti…"
   },
   {
-   "titulo": "“90 minutos para sonhar”: técnico do Estudiantes esbanja otimismo antes do jogo contra o Flamengo na Libertadores",
-   "link": "https://colunadofla.com/2026/10/90-minutos-para-sonhar-tecnico-do-estudiantes-esbanja-otimismo-antes-do-jogo-contra-o-flamengo-na-libertadores/",
-   "data": "2026-10-20T20:48:30+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Alexander Medina valoriza a campanha do clube argentino e admite incerteza sobre Marcos Rojo O técnico Alexander “Cacique” Medina reforçou o discurso de confiança do Estudiantes (ARG) antes da volta da semifinal da Libe…"
-  },
-  {
    "titulo": "3 vitórias em 4 jogos: o retrospecto do Flamengo contra o Estudiantes no Maracanã",
    "link": "https://colunadofla.com/2026/10/3-vitorias-em-4-jogos-o-retrospecto-do-flamengo-contra-o-estudiantes-no-maracana/",
    "data": "2026-10-20T20:41:46+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Flamengo jamais perdeu para a equipe argentina no Maracanã e tenta manter a invencibilidade nesta quinta-feira (22) Contagem regressiva! Nesta quinta-feira (22), o Flamengo enfrenta o Estudiantes (ARG) às 21h30 (horário…"
-  },
-  {
-   "titulo": "Ayrton Lucas sem limitações, Saúl dúvida e novidade com Danilo: veja como está o DM do Flamengo",
-   "link": "https://colunadofla.com/2026/10/ayrton-lucas-sem-limitacoes-saul-duvida-e-novidade-com-danilo-veja-como-esta-o-dm-do-flamengo/",
-   "data": "2026-10-20T19:10:39+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Lateral tende a ficar no banco no Maracanã, enquanto o volante espanhol ainda não treinou O Flamengo deve ter Ayrton Lucas de volta para enfrentar o Estudiantes (ARG), nesta quinta-feira (22), às 21h30, no Maracanã. O l…"
   },
   {
    "titulo": "“Dói chegar ao jogo com o Flamengo desta maneira”, diz jogador do Estudiantes antes de partida da Libertadores",
@@ -112,14 +160,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo pega o Estudiantes por vaga na final da Libertadores O Flamengo deve ter ao menos uma novidade para o jogo contra o Estudiantes, no duelo de volta da semifinal da Libertadores. O lateral-esquerdo Ayrton Lucas v…"
-  },
-  {
-   "titulo": "Após briga com Fla, Pedrinho é diagnosticado com celulite facial e não deve ir ao Maracanã para Vasco x Boca",
-   "link": "https://colunadofla.com/2026/10/apos-briga-com-fla-pedrinho-e-diagnosticado-com-celulite-facial-e-nao-deve-ir-ao-maracana-para-vasco-x-boca/",
-   "data": "2026-10-20T18:09:21+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Presidente do Vasco recebe tratamento e deve perder a semifinal que garantiu no Maracanã após briga judicial com a Fla-Flu O presidente do Vasco, Pedrinho, tanto lutou, mas não deve comparecer ao Maracanã nesta terça-fe…"
   },
   {
    "titulo": "Classificação do segundo turno: Flamengo lidera; Botafogo deixa o Z-4, que agora tem o Grêmio",
@@ -264,14 +304,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Por que Claudinho não jogou no Flamengo? Meia aponta culpado",
-   "link": "https://colunadofla.com/2026/10/por-que-claudinho-nao-jogou-no-flamengo-meia-aponta-culpado/",
-   "data": "2026-10-20T00:00:39+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Meia do Al-Sadd (QAT) reforça a versão de que o clube russo barrou uma transferência O meia Claudinho voltou a responsabilizar o Zenit (RUS) pelo fracasso da transferência para o Flamengo. Em nova declaração, o jogador…"
   },
   {
    "titulo": "Boca anima torcida com vídeo de Paredes antes de duelo com o Vasco ao som de \"O show tem que continuar\"",
@@ -842,16 +874,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Bahia x Flamengo: horário e onde assistir ao jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnU5cEJySV9UOWxucmVjLVF4SE83QTRFRUNZRlZ0M0xvQmt6Umt4ekRMWVdaTnFvVy02eFJDUUpHSTNXejB4dGlMWThtTTdNV3Q5cXd0cTl5MXlXekJJZDJPWk9EWUdUNzhWX0tkWEZFLW5sV3BPSGM4NWxZOV95VVExQjJxaGFEUVlZUW1tNUZZb3B5OXl3T2kwTVVjLTJiMUphS19EVWhVd3I5aVN3Qm9tck1TTFpGUmJjTkFOYXo4WEVYeUE?oc=5",
+   "titulo": "Flamengo enfrenta Bahia pressionado por recorde de expulsões",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOemJNaTUtRGZMSkhYRmQwOVZUM2dFNmVSMzVxbzR5US1QS1VjRVN1MWhBclpGZ2RQaU9TbTBJczNGeW1xZDNEcTJ1djFoVnNSWWt3OS1pN245YTVjamRRZ1pZRm9tZWNYUXFabEVqb0gzU2pFY0pESlRMMWJpekdockgzNkJaNm9jd1VMbEpKaWRxRFVHT2JHRVRoWGdtelBacFR4bm5xdXFNVllxTDF0dnVKTUdYZDV4aDdDMHN2Nk5weTNuYmtoVWU5MU9LNGdHTDQtV1g1UzljYm8?oc=5",
    "data": "2026-10-18T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Flamengo enfrenta Bahia pressionado por recorde de expulsões",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOemJNaTUtRGZMSkhYRmQwOVZUM2dFNmVSMzVxbzR5US1QS1VjRVN1MWhBclpGZ2RQaU9TbTBJczNGeW1xZDNEcTJ1djFoVnNSWWt3OS1pN245YTVjamRRZ1pZRm9tZWNYUXFabEVqb0gzU2pFY0pESlRMMWJpekdockgzNkJaNm9jd1VMbEpKaWRxRFVHT2JHRVRoWGdtelBacFR4bm5xdXFNVllxTDF0dnVKTUdYZDV4aDdDMHN2Nk5weTNuYmtoVWU5MU9LNGdHTDQtV1g1UzljYm8?oc=5",
+   "titulo": "Bahia x Flamengo: horário e onde assistir ao jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnU5cEJySV9UOWxucmVjLVF4SE83QTRFRUNZRlZ0M0xvQmt6Umt4ekRMWVdaTnFvVy02eFJDUUpHSTNXejB4dGlMWThtTTdNV3Q5cXd0cTl5MXlXekJJZDJPWk9EWUdUNzhWX0tkWEZFLW5sV3BPSGM4NWxZOV95VVExQjJxaGFEUVlZUW1tNUZZb3B5OXl3T2kwTVVjLTJiMUphS19EVWhVd3I5aVN3Qm9tck1TTFpGUmJjTkFOYXo4WEVYeUE?oc=5",
    "data": "2026-10-18T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1197,38 +1229,6 @@
    "titulo": "Flamengo não soube o que fazer com a bola contra o Estudiantes, diz Juca",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnQtVEYwQkZneE5ZSURBTTF3dlhpak1JOC1FOHNKdmU3b29EU2xUUFEwRWZiU3JEeTdiWUxUQW0wbW41VE9HdlRwX0Q5LW5FYXNMWnR2VlpQb1p0N3NPQkp5RDJpUE9MUzJKWTA2YkUwTE52eDBrWE5oOV9DMmptNzhlT3h4d3JaNjFJY1M0eERnSVFmdnNRVnl6WGxxT2MtRjkwNkJuMWlqUVFhci1HQ256ZzNveUUwejBzVjB3NUtEdHBrc2F1OA?oc=5",
    "data": "2026-10-16T13:11:15+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mauro Cezar: Flamengo não faz investimento para apresentar um jogo desse",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQnRrR25uNFp3bFRvUFRXUElGR3FkWDgwYUVSdzJYSGVkUmpnSXNSOVJjQnVlaHhzdUVPUjZGc2psaFpUNGJGaUljRGdHbkhES1VSZDZnMllWSWlac2ZWTmxwYVN2aU1GRHlNQ2kwWFRuSVhlaV9IMEpTTjhYQmhrZGhmQjVBWVhRSWJqYlZubndua3Nwd3djVUpOeWpoTWIyNS1NVkJyX1VjdmF0OWFqZVFERk9VQVFNQktvcUJsYlJtZ1NUZ0R1RkpSbkd5empUd0FJYQ?oc=5",
-   "data": "2026-10-16T12:44:07+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Fla sofre sem maestros e respira na Liberta apesar da falta de criatividade",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSUZPNHdXNmxoRkhvT1JfOHFEaWlVWDNYM0s3QW9QTnhreWl4aGsxQ3JaOUw0MURDaW5EZUZiV0czUmwtbkM0X2VjUGdaQm91N09EUUktUWpLc3VKakZEWjFia1M0eVNSN0pIXzBVbXcwN0tfQ3drR3gzXzdYNjVJbHBsQlVoMzVNd3I0Q0t5alA3WXp1RWluZmVmbU54U3F3NlZDMTlleTZTcldyeW8za0tsSzRxRWNjOWtzcHU1N0tJSk9iMFlKNl9MUnpnQmlWeTFvM0l6VmRQYTRrSzlNQw?oc=5",
-   "data": "2026-10-16T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Atuação apática mostra que Flamengo não aprendeu lição de La Plata",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDltSXExclp4VVpBNjJpSHhBVVc2WkVTNkZ3OGVLd1ZuMG9ORU9ocDZCZHppUThEWnQwd2pWdWFuOHJ1TE54NjJXWXhZQXY0aFYyc2d2LW9kWjRMbW9QV3JCc0NMVC1VUlZyVXJKWlhHVVlrUFNjVVB1UFdUZlVhcE93WEF3MERYcE5tbXZLU0lGeVNFdENIWHJxaDVTLTdOM3l2d25XTzRwQXBxMEZPcnpLUDhGQlZ6RmtMbl9XdFhPR2FsaTliZVVCdUhVOWRxakFaeTNIVV92YTQ?oc=5",
-   "data": "2026-10-16T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mauro Cezar Pereira: Flamengo não pode passar 90 minutos sem finalizar no gol, mas passou",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUXlWNk5xYTd6SV9ER01XVEU2dTNTQ0VCY0gzaHBQQVp5YUdsV3lFVVVSSF9xVUNGcUxvZ3NUYkVkdThaWldoQXdhT2MtTlF6ZTdQNzlEdWVkNHNVTGZGZF80QzNJS1VKTTAwZFpBWElqdVlNTHczUHNuU3UxVm9wLWZGMlBCbU4wWVU0RVdKYVVvT3Zkb2NIS1hJa0tYZkRMbXUtN2NCTmZXTXFqUUVLR2Z4SFhLMkN5U0U0bWNSUUVJY2tPRXJTb2dscTdKUzJpRGNic3hWYXJxb0I4Wk1OeTVzSQ?oc=5",
-   "data": "2026-10-16T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
