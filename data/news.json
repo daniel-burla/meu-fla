@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-22T05:20:07.591973+00:00",
+ "atualizadoEm": "2026-10-22T10:34:43.166350+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 35
+   "itens": 38
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,112 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 58
+   "itens": 75
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 93
+   "itens": 92
   }
  ],
  "itens": [
+  {
+   "titulo": "Inteligência artificial crava placar de Flamengo x Estudiantes na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0J0T1A4bERHcUtxbzdwUkV4bm9GclRtcjJrazR5M3JydnJUeE9NVmxGNmx4OGRqOW9CSzh0WVFlSUZZbmFleGc3M1RiUnRzMm1WbzM4VnZ6eG5YeDV2eXg2Mlk2YXh5bENJX0pZNDd4WnE0djFMMUhydEhNWDFPMkVXLTV1RDR3TFVIQXJidlJkcnRXVTl0Q3Q5eXZtNWh1am0tMVBzVUtXQ0p6MjVUWk1GRURWZWl4ME13?oc=5",
+   "data": "2026-10-22T10:20:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ortiz fala em pressão no Fla e vê rivalidade com Estudiantes 'aflorada'",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQWZVcTh1c3pMTHNqdjVzUXZXYTk0M3BaeTkzZjZJejRKU2FHaDAwMjJ5MGxoX19HY29HZXBIQVdpeHNRTk40cWNNNjU4WldYOEtGeWRZaXc2LWJ6OTZpRURDWkhHUlkxSTM1YnVVckhkcXJRYWM1LTNXS2JNbHhwdmZtTXpIQ00yb2NESkcxSlFCOXRnT2haNXJyWFpTeFJiZ2d4M05JUXRPTGRVWlZEdllPM3E5QXQ2UXpXTnpwNWhROUtUcDY5dzRWN0hvX2I4LVZrT2dwdWFFeEJPRXVZZHlEWjNOUkRtZnFkSXB1V3lnZnRYM1BqWVlFZW1XMFJ0aEE?oc=5",
+   "data": "2026-10-22T10:04:04+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Caio diz por que não quer ser técnico, mas projeta volta ao Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcGgweUNSdGhqRU1qUWh4VFYwZGg2SHRJblVUdHo3SnNVSTZVOEJfYlhtdWVIWV9SX2kwblNyeUM5b1pnUVNZdFl6N013OUpvSmhMd0RjQ3M3MVo3enVkaVpxWVlHdWZzdDVJdHpCTmlRU2VUM1dLdk9nNTN2czZzSnpaRW1PUlZXbTRKNkNlNW12T1plQW9CTzRfLUJaLWxDLXBnTjNIb2MwMDhXdnF5ZmV5N0JHWHk0MHhyUVpxQ0hsQTRjcVVoSUU4ZUlIeUNrR0UwcGhxSQ?oc=5",
+   "data": "2026-10-22T10:03:23+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rafael Reis: Fla pode assegurar nova taça e recorde de títulos ao Brasil na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYi1vM0lKNEpCMzJwZ3VnUXhSRFlOZ2pMcnVha2dmbWFRaUgyM3l0VVBLUGczMXRUS3dpQzVCQXhvdWZlZjg4V19TUm9yQUJaZUx1SWN6RVR6b0F4bnhFS29nNENmQUs0aElBb2s4R0F6b3FLcEV0RnlXSnUwalZNWWFoZ0dOdzZEa2VaOUJRNHFGanI3b2FqbUZUZnRlTmplM2E4Nmd0MGY1Rm15SC1KRXF4N3NmLUpHT2NzdzlKS3UtX3ItZ19zYjM4TU5YWGxpV3p5NXRQa3NzYnB2eWItLUhhQQ?oc=5",
+   "data": "2026-10-22T10:02:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Mattos: Flamengo vai cobrar Vasco por danos, mas pode ceder Maracanã no futuro",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNTRiWnMyajRyaE9yWUpQaVliY2tsR1hkLXpFSk40bTlIS3NlWVI0RUprSEduSmNFdFZBUFZ3Rm9JMjl6MXBzdzFJMzVIWjl1NkZaVFFzV2xCRmV0d1R1TnpoVmRkd0RRSm9UMEhNU08tV2pXblBORFVBckFINDl6dVJnYlh5Y1djWXlmYTNFUVppTkNjNmU2d0pWN2kwaDNsc2tmRVpaUlpOV0FxdHRDQzFNMGxRTThMTnF6ZDdHTHFYZkpZYW1tb0lkanBCU1dRWi1OazZmWEptcVM3X2RB?oc=5",
+   "data": "2026-10-22T10:01:58+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo sonha com final contra Palmeiras após classificação do rival",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbGdub0NwUjdlbk5UWkZWSEpFOHlMM3lTSHRfLUFIOGpPV3pTZmJwbHlOdVNUWWZhODRNck53RHdpVXJST0hyNTg4dFZTVVBnZDFLQ1N5YmhZRG1TdWhIWkZIS2ViUld5SkNXaU51cmxyelpuc2ZHbm9PcEFVTTJBZkdqWXdLYXV5eDlKUXkycktBQzhTSHAwVlp5X1hSVERiMEFMN1g2ZUNPdnIyTVRIc1NvakI2aUZlRmp6cw?oc=5",
+   "data": "2026-10-22T10:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo busca 5ª final em 8 anos e mira hegemonia do Boca no século",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNEpEbzNNVVVoc3V4dWl6Z2w1RnZNd1RnR0NDVHd0LVZqUThpUXhMQ3lpNEswdlFjYmU0TjZxLVplYzZTZmtRaV9BcFBjb1NWSUljOVNlWGh2ZkdndVVxcExsS3hxeW9XSmFYbnJMa2tYZkNoS09nVXJNNEZMbWctWEZpZ1BRZ1RRM2tNcHYybnoyUVJFZTFaU2EwWTJPckdzd3VORHo3SjVRWVYxRmpDRDlxS0ZvaVNpUTZYeVllbDI0R19vX2FhUkVEOW1LSmhaeFU5MTlB?oc=5",
+   "data": "2026-10-22T09:32:33+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ex-auxiliar de Medina revela estratégia do técnico contra o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbU11aWtUUk5lTDJ6T1RUaWRXSTRTbnZPOTVYSWFUTkZfbUptX0hzT0NwXzZHOXJOTVo3T0Q3dDVjU1RVT0pMNUNYU0ZCRnZBSWJjYXJpZjBoYWdiQUJjX2JDM2l4UlYtTW5ZYkZpaDZLQU5fTHlYSmt0VDlmQXJWc3N3cHZYSXZtZl9NZjhmWklIU05fMC1oMFhmNGwwa2hvNjdJZ1RHczlNWEo5LVY4YUpObDlNWjg?oc=5",
+   "data": "2026-10-22T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vasco não quer Maracanã contra Fla, mas vê argumentos de rivais como trunfo",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNEtXRkRjNkdLS2NqUUh2WDR0QUZIdVlfMVRENm54WTNjeVp2X1gzNUpyUXhQN2VaM01YTGZOTTA4THJlSmFjYTRXNXBPU2VsOC13dHdTMEhTTnpPWU04aFd5TXhfc2dHRi1SOGhyZ01QdXdVbjVDZjRSdFNuSXl4Y282eHJuTkN2WkZiTWhETzIyWFl5TzlqYUxLbFRVUmZYZ0hYdHlRVVNzOFNBSjJfNHJfcFNua1F3Wk9XTFRoVDRZaEo5UHA4ZEhhWmNUR2tUaUZ0ZFRPSFdzYmphNkN3?oc=5",
+   "data": "2026-10-22T08:34:54+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "O que faz de Paquetá uma esperança do Flamengo na Libertadores?",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHRNLXYwYjFPQllHTlVmR3BiZ2ZHU0Y5UFF1Ni1WVkRTVzdYLUNkYXNVamVfV1hnbEVJd0oxbHpRVTA1ZVk5UjQ3MmFuaDVISWxCZnl2RWNDN3l0MmlFMnpJYjg1UDZxRnVrR3g1M054Wmh3Vmh0b01tZm8tWWhBY3B5VG0wbi1IOHpZWGdnalNZUDZSVVJwZ3ZPeXdSa1dyUzBxQU5VMm4zUXU1SGJqYlZQMVpRbjR4Q3Q4?oc=5",
+   "data": "2026-10-22T08:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Abel fala sobre Paulinho e diz se prefere Flamengo ou Estudiantes na final",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOWxFbUU4R01qZnVrLUxXZTJrc0pVRDlVXzVnX09uZFpueFVmMHd1dVdJUGpxTm9vNEp1b0lpWEtsSnJEZ1BwWmk0T1ViRGlwVDgxYUI1Q0ZOWDVfb0Vxck9Oby1iYUhTbnhyLUtCTXFTUlJRUkppTEJ6QVIycUEtX2s1bDQ2RUtseWJlc2taMjdqbnREOERMZFZuOGExY3FaenA4YjltUk9hcTRfQkFRZ3paVHFWSkMxTWh1cFdOWkZsVlBISk83QUpiUElYWjhQTkhEMlk0d1ltZHpxM0tOT1pRMHNSUDZOTkJFMXRLYV9FODI3WXJJRzVFZ3FoUVhhZl9iS1cyMA?oc=5",
+   "data": "2026-10-22T06:35:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Estudiantes: onde assistir ao vivo, horário e escalações",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/22/flamengo-x-estudiantes-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+   "data": "2026-10-22T06:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Semifinal da Libertadores: Flamengo encara o Estudiantes amanhã a Flamengo e Estudiantes decidem, nesta quinta-feira, o segundo finalista da Conmebol Libertadores, às 21h30 (de Brasília), no Maracanã. O vencedor encara…"
+  },
   {
    "titulo": "Flamengo x Estudiantes ao vivo hoje 22/10: siga placar agora | Libertadores",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXNrRkNkUjh2Y1ZmY3V3emhFMkh4NmwyYU56UkhOY0JhX1RqX0NSTEUxWHVucW9XS2NuTW9vRm5wd0tobzNhR3NmaG9Bc0FCaktLaWNkUzZvbW0wZHVReFB2QTdPZ1poRUFnek80QUkyc1NzRUVCMEFrcXN2RnUwMXR0Y0hfX2dZbmwzdVo0QmFpazNyVHBB?oc=5",
@@ -42,17 +138,17 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo ou Estudiantes? Leila Pereira se esquiva sobre rival na final da Libertadores e exalta Carlos Miguel: 'Fundamental'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSMUJfRHpKMGZraWIzcDNUeG1qdHhaVXZQNnBtbjdfdDQ2d0llYWxBRlhVT2NkUlc4QWN5VFJsU0Z0YU5JeVJ1T01tSHJQZlZ3X3VRSllQS2M2R28takE?oc=5",
-   "data": "2026-10-22T04:10:18+00:00",
+   "titulo": "As mudanças que Jardim deve fazer no Flamengo após jogo na Argentina e o que assistir no Disney+",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUGNZMUc0ZV93c2hVR2J0eTdRTzM1QjNpclhOaFN0czJpY3FCSDJ4RGdWc2x2MThpT2VHeVRKM3VwZ1VSNFpNRlVUbU1xTG9TMXJWZ1RyeUZ4ZFdhS0lCQnhHY0VmMlpySUtqWlFTUFFTWHVBaFpvanRrSFBibVk2UWZIZG5OMW55dXFuNHd5RDY4UElpSzVwNHZOM1ZHdm1DeXViUlE3LUpkQ1BRUDY1V0ZHUEtrTGJvNGZoV3djS3hYY0ViMFNkb25wWjJDNktVeUVuczhvLUdpRkxUVmc?oc=5",
+   "data": "2026-10-22T04:20:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
-   "titulo": "As mudanças que Jardim deve fazer no Flamengo após jogo na Argentina e o que assistir no Disney+",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUGNZMUc0ZV93c2hVR2J0eTdRTzM1QjNpclhOaFN0czJpY3FCSDJ4RGdWc2x2MThpT2VHeVRKM3VwZ1VSNFpNRlVUbU1xTG9TMXJWZ1RyeUZ4ZFdhS0lCQnhHY0VmMlpySUtqWlFTUFFTWHVBaFpvanRrSFBibVk2UWZIZG5OMW55dXFuNHd5RDY4UElpSzVwNHZOM1ZHdm1DeXViUlE3LUpkQ1BRUDY1V0ZHUEtrTGJvNGZoV3djS3hYY0ViMFNkb25wWjJDNktVeUVuczhvLUdpRkxUVmc?oc=5",
-   "data": "2026-10-22T03:40:41+00:00",
+   "titulo": "Flamengo ou Estudiantes? Leila Pereira se esquiva sobre rival na final da Libertadores e exalta Carlos Miguel: 'Fundamental'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSMUJfRHpKMGZraWIzcDNUeG1qdHhaVXZQNnBtbjdfdDQ2d0llYWxBRlhVT2NkUlc4QWN5VFJsU0Z0YU5JeVJ1T01tSHJQZlZ3X3VRSllQS2M2R28takE?oc=5",
+   "data": "2026-10-22T04:10:18+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -88,6 +184,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Em entrevista para Zico, Bruno Henrique escolheu gols pelo Itumbiara e Uberlândia como mais marcantes Bruno Henrique tem mais de 100 gols com a camisa do Flamengo. Na relação, há tentos contra o Chelsea (ING) no Mundial…"
+  },
+  {
+   "titulo": "Mauro Cezar Pereira: MPRJ diz que consórcio deve cobrar do Vasco danos no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVTRuSjBRd1B4NGI2OG00X0s5WTducUE0SVRvNjBOWVQxcUxFRDUzRGNHTFlpOXJFcFd3dURQaWJhVXhFRHJSUFlfZVRheXVOLTQ0WF91dnc0MG14a1JWdU83Z2d0azVqLVBRWGx6MUxEbW5vTWxVOXhMei1KbS1SaVRZQjJCdXgzcmR0cWd3aXFJdEkwZVYxak9sQ3JCdEhreEg0Qmx0WGpVOU4yRWd1V1JTaVBfZnEyb0YxS25YdXhBZzdHa1NqMWNfSnhYcVphN0sxWTJBQjdreTg?oc=5",
+   "data": "2026-10-22T01:37:03+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Ex-Flamengo, Reinier admite trauma com Plata",
@@ -186,9 +290,9 @@
    "resumo": "Estádio Nilton Santos aparece com grandes possibilidades para ser o palco de jogo entre Flamengo e Vasco no Brasileirão; Botafogo já está ciente Flamengo e Vasco vivem uma ‘guerra’ recente nos bastidores, principalmente…"
   },
   {
-   "titulo": "Flamengo e Palmeiras na briga pelo título, Grêmio e Inter tentam fugir do Z-4, e muito mais: VEJA o palpitômetro da 32ª rodada do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FZjQ0dzdOOS1fb3QtSUVJOVpTYndwUF9fejVZNVdBa3BJb0dSQjBVWkt6ZXZsaC10QU5jTHMtbTVRdG9lOUNEWU56M1IxdWFzT09vTDZWN0NtR2gyRXc?oc=5",
-   "data": "2026-10-21T19:42:59+00:00",
+   "titulo": "Treinador? Rodrigo Caio abre o jogo sobre futuro após recusar ofertas e projeta volta ao Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EQi1STWpLOUtodG16Ykl2ZzRVZVctbV90WWNhMWdtV1l4R0luUTQ0UEZQeW4wR2lCQXpTVk56eVJOVUlUZ1RJT1dfRlBHMUVqbGlUNFp0NFhXOTJvTnc?oc=5",
+   "data": "2026-10-21T20:05:23+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -282,14 +386,6 @@
    "resumo": ""
   },
   {
-   "titulo": "VASCO PERDE PARA O BOCA JUNIORS NO MARACANÃ E É ELIMINADO DA COPA SUL-AMERICANA. LANCE! DIÁRIO.",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRjg3QVcxMGVFb0x4UVAtc2hrdDFOcUdSM2pDeGtnSXBWR2ZTeTFvb1lTUXNaMEdTUzdHZ2RON3otaWZiU0E4anFXLWxBT3k2anZjTlpHUGZ2OHdDNEtid1NrbHZwYmlkSGFZRmRfbXNXMllzdmx3RUxQVkt5VmU4YUVzaHZhXzR5eFVvRXcyQnpwWlg5THZtQ1hUel9BbHBmMzVjM2hCZ1dWVllJRmgwSU12UWtILWw1OE1rUnNUaUdqQQ?oc=5",
-   "data": "2026-10-21T16:00:23+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo quebra silêncio sobre depredação do Maracanã após Vasco x Boca Juniors",
    "link": "https://colunadofla.com/2026/10/flamengo-quebra-silencio-sobre-depredacao-do-maracana-apos-vasco-x-boca-juniors/",
    "data": "2026-10-21T15:32:30+00:00",
@@ -327,22 +423,6 @@
    "data": "2026-10-21T14:14:25+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "BOCA JUNIORS NA FINAL! Jogadores deixam o Maracanã após vitória sobre o Vasco.",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmlVa2VrdjRGUTlqek5YZmhyODRvdlhYVVc4dmpKSlR1WWtNVW9pME93Q0Zqc3J2ZUJtczBYSXdONS1aTGt4cng2WmN4NW55ZGQ4UE1vSXFsVmtOOTBLc2s1U0t5My1VTGZUWF9PUkpubkZNM25LVXBwcDVZb0lZNHBKQWlZcENZMDJKM1hvaU5QMWRRYUtnaHBEUFpKZWkyWWRwbFNBLXVQQnJP?oc=5",
-   "data": "2026-10-21T13:54:27+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "CLIMA PESADO! Jogadores do Vasco passam direto e não falam na zona mista do Maracanã.",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0gzb2NLbnU3OG1HZmIzWndSczRiYnBHbjNUZ0JMRFJWOEN6ZGVVX2ZBbkVwVXZ1MEJPLU95dktHaHRwVDJaOFl4WEpqX1ZlT2V4LXM3ajA2ZVhWUS1GMlZRQUVHUVFkWDZFenZ2c1NLS3k5X1RkQksyd3hweE0xTXhjNllZNm9seDVWZnhCR0tacGdjTm1WeUlsdVQ4VnRqWVluV2NubzZmQno3OXZKTEJVc0NEZw?oc=5",
-   "data": "2026-10-21T13:54:27+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -426,14 +506,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Torcida do Vasco revive pesadelo da Copa do Brasil em nova queda no Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlEzYW5IM2hEMm9oN0hvYldZbkYtTVJ0c3pJZDVQTlROQXVjVzBIZk1DYmFvYzFmMWd3WE9xbVZ4YjR6X2pnZFZiSEdkZjZtVHg2VC0ySVNMZDZaMDJSRDd1VWdUdTZaZFhhaFFGY1RkaUExVjlXT2FGdHJrN0pqejV5UFpXT3NqQ3lKN3d0ak84VGg1R3NseUVDTjNWSDVWdDhpX2QxVF9wUDAybTN2aE1n?oc=5",
-   "data": "2026-10-21T08:19:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo x Estudiantes: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Libertadores",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUnVjTlBhODlHYnN1T2ZqZTNaOHpQeTF5ODMxdUp3WnBXWGNRS3BiWkRYMmY0WWRadWFhMkR4MWNRNkwxTGdoOXA5Mml1VjVFWHpFNEFpM01iRm9iU1BUQk1HYkw1eUJxZ3JORlZmSXpnV3FuS3ZZcE9wVjAxVzRZcTlEVEx0QWFPZDM2TlY3bDdvXzFmZndTQmJudE1CTllaZlE3VTh4a0lyb3VOb013MXEwZEtkOExvN0QweEdqd19IS1Z6QUd2U3oyakFUYjAwdE9IMFpjZmFRUGpiT09Db1FkbDJwVkk3MlpqWVF6M2tWNGxmbkE?oc=5",
    "data": "2026-10-21T08:05:47+00:00",
@@ -479,14 +551,6 @@
    "data": "2026-10-21T03:26:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Marcos Lamacchia acompanha Vasco x Boca Juniors no Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVB3dGxxN1M4QTA3cmFiaWpJOFhDTDJzbDQ3ZEZicEZzRXlBYjZRckZjcUVFVDZtdDhWWWRLUVRNYWZlNWRwQU0tLUIxVl9ZUENZclZvSFF0SmQ3aDZ6WEhQZENmX0hJcWg5Wk84S1ZMN1QtRFlZSzVMdGFMRV9CV1FiTENEbTM3NGpYc1lJOC1RMUs2MmZCVHJEUQ?oc=5",
-   "data": "2026-10-21T01:19:49+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -618,14 +682,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Filipe Luís vira assunto no exterior após primeira derrota: 'Não pode'",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTRibjJjWmFPdzZzcXVQSE5ja0VLZFllbnVGVVRsaVFCU2pZNnNZN2FwdE5WUmgxaC1kbGdlN0NtazI2Q3BFVlZYTGpDdVN5eHNLOW9LT1BRajFLR25vZVRFb3g4WEx3ajBJaGZtRnRaZHB4YTRaTk9EVDJaNHd6b21BNnhCRXJRMUxKWHZBd2NKTlh1ZzZWQ205REhEU3BXeVVncnlDR1Y3TGtfclN3cg?oc=5",
-   "data": "2026-10-20T09:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Fla e Palmeiras sobram, e Brasileiro tem 3º lugar mais distante da história",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQzdpRHRsUkFodTlEbloxeTh3S0lWWFcwR0FpSXk5dUtlb1JKVlRzSFBUNEYxMUpyeVFZU2FTeXNTZ3dzc1BBTjZodDVoWjRsSUlYcWg5eWlaMFdqdFNVN1hrVU1OX1hnV1Y0TDVLSVBJMUJVVkFMNDN3Q21ERkFmWUVlRXVFalZHc2phcm9uVWU5RDl2Q1l4M3B5bmNwTzJBZXU3WmMxeUd1cmhhZmxfeQ?oc=5",
    "data": "2026-10-20T08:30:00+00:00",
@@ -655,14 +711,6 @@
    "data": "2026-10-20T03:05:15+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Sesc Flamengo estreia com vitória na Superliga; veja resultados",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjB5TTFqYVZyNUxqc1N5cTN2Z3Y4R3gtdFhQTUNUYl9jcDZsM0NQLUtwNFhxSGVSYzRNOGR4b2YwNU1TQjJLYS1CZ3FKX05DdnoteGwtNURIby0tRDFLZF81TVZOWEFvcWlDUjVzbk1NNld3Z3pDNlBqSlRCekdid1k3cWtodjF0OHdVMlYwWXNaZUFlZEhESXdKOXFJMG8?oc=5",
-   "data": "2026-10-20T02:34:19+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -754,14 +802,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Sesc RJ Flamengo x Paulistano/Barueri ao vivo: onde assistir, horário e ingressos",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczJtMDhmaXptNjNGTG9uRU5ITnVCQkNmY0dmbmw5RHRJQmY2N1l4N1hFZmVIa0JLWTRXNGEtc20wY1I1N1dLWDktNWFXbmNKUE8yVUptYlp2c0hmZmxUYkVZbWhBLVFOS1lvbUhrSTBuQkxvbU00bWhqYmFGOG50bVVXU3dOMUx3a0VnMDBfYjNKMWRvY1RLWk1rLVJLaFRhOHYyY1BXUmk1ZEdCUS1MVzVmd0s1bFYtX0dvRnRzN01JTU5nZ3VPLU1jUUVTQXVxeGZBNnJKMA?oc=5",
-   "data": "2026-10-19T16:50:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Paquetá, Carrascal ou Lino? Entenda lógica de Jardim para definir substituto de Arrascaeta no Flamengo",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/19/paqueta-carrascal-ou-lino-entenda-logica-de-jardim-para-definir-substituto-de-arrascaeta-no-flamengo.ghtml",
    "data": "2026-10-19T15:00:00+00:00",
@@ -783,6 +823,14 @@
    "data": "2026-10-19T14:39:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo e Palmeiras: quem tem a tabela mais difícil até o fim do Brasileirão?",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2RlV2U3cmxnSnZzdGpUMURFLWk5UW81UUx1UVdBdVRMTGdYQy13cGlPcWRHb2tDdWp2RjRlaTY0SlJ6NGxNUWwyOEJJTDh5TldhVThHYzBjcFJQQ0xSYTNMbV8zVmgtTG1zM0hfNTE3c0dKRzI4ckljLUl4QVZlVVd4OVlGTEk2SFFNekdDQTZLa0REMG84OVREMFZVWnJNSnpwaGNkbWQ5U0JCM1FDRHZ0aTN4OHNNb0RuOUU1YklPMjdpOWpRZ1p0SFh5Rm9rMlIwb2pILV9JWGlLb3hqag?oc=5",
+   "data": "2026-10-19T14:28:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -810,6 +858,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Flamengo segue favoritaço ao título do Brasileirão contra o Palmeiras; veja probabilidades",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxON0JVeGdVdUR0YTNBVHl0MlZuc2NnU2g0MmNJMDRORUtLei0wOWE3M2FGWmhMdm9UdG5ndDVGcFpfTmhGaERrcDNKTVc4T0dtYWNNZDh5MW5qQTJvWG4wM21McUlwYy1sRGpYNTVBTmVmdHF4QV9oQjdwMGd5MXF5Ynp2U0FERWhwc3VGc3BXS0c2VVdXMThua0NZVDVlMEV1NWFPYmM0cTd2a242N1JtQVNaSzVPVnlPZ0FPQUNmT0U0c0xoQkh4U05KaGM0SEFWMzRPT2lWQVhnTHNYcVd6emJDUkJ6bXNTOFhpQ2NRWTlNZw?oc=5",
+   "data": "2026-10-19T12:53:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Como ficaram as chances de título do Campeonato Brasileiro após vitórias de Flamengo e Palmeiras",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWUo0RlZSLUZFb3hXVGpFMG02a0Itb1lsNm9hYXhJczhvTzJjMFpMbWhwSU9GUjVfcjNPUVpCRnNqMXRTR1NUU2x6XzJmT3RaSWV2V1pTMHRrZlZ6RW5aWmJQN1VLQnhWMG81cERqVm5JSTc2TmJ0UENEdnczMHYtOHp2bDdGRTh2am50OG5SUXNLYUR6UVhlVmxGWm1XUy1rOHZELXlFc0VXRFBmZTlCZTlKY0FHOXVqNmtrWVV4S1FlR3czZS0xdDdJWEhpUQ?oc=5",
    "data": "2026-10-19T12:49:00+00:00",
@@ -831,6 +887,22 @@
    "data": "2026-10-19T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "BAHIA 0X3 FLAMENGO – MELHORES MOMENTOS – 31ª RODADA – BRASILEIRÃO 2026",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmxyYmlQV0ladG9JZktnc2V3U3lHYVk4c2l5eDF6eDRLTGhoUnNQTlJDQnJBYnZRelRGeFF1V3FfZENsTjFXVmZNcE04Nlh2c3AyRk9VaUYyNkJsZnBCaW5nVnR4cThiRlJZVWRNWk5JQjhCbXMyN3FkUGdkYzlCRTZ6NXJIc05ZcXdYQUZESGE2eURQTGpZZHB1aGY?oc=5",
+   "data": "2026-10-19T12:08:02+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo: mais líder do que nunca | Análise pós-jogo",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzFaNjRHQ1lyaHlMeVRDSldrZW9RcjdxSVQ3R0g0Vkx5RjJnRHNOc1UxRGJEZmhSRTU0V1pRMEpzdkZWbHNNQ1dramJnNnRrWk80UUY1ZmIyZlhUSWRkU2RTMHJaT0g2VFdmbnV2WWxROUhFNU9kTG5qZHN4Ul9IY3ZkcXEyNUVN?oc=5",
+   "data": "2026-10-19T12:08:01+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -880,6 +952,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Bahia 0 x 3 Flamengo | Melhores Momentos | 31ª rodada | Campeonato Brasileiro 2026 O Flamengo entrou em campo na Arena Fonte Nova pressionado pela vitória do Palmeiras no dia anterior. Ciente de que precisava dos três p…"
+  },
+  {
+   "titulo": "Casagrande: Flamengo é arte; Palmeiras é competitividade e isso vai até a última rodada",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHVvX2JBMEl1czBoZnl5NWFNV0sxS2lCZHZXcktsMTR0d1pXNThvcElHeGlHcVA4UEl5eGNGckJnZ0cxRzhPLW5HdWhyc2ZGMXN4bnR6dDVIUEhSTlJ3VVIyN1BlWWlMRTl6TGE5aFM1d05aM2ZoY0owb2RMYzR0dUh6ZHNTZUtkblR1MXViNWkxdmw1UTd2VHN1cWtwUktxMVRaUGYtRkpicHVMLXFpaDVPbWEzdTcya3VMQWJ1MThqbGtZaXpuQUo4ekRJeXNzcG1Ea1EzRQ?oc=5",
+   "data": "2026-10-19T04:01:55+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Com time reserva, Estudiantes perde para o San Lorenzo antes de semifinal da Libertadores contra o Flamengo",
@@ -1042,6 +1122,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Veja onde assistir Bahia x Flamengo ao vivo pelo Brasileirão neste domingo - TNOnline",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkVlak5HbDBScmlwMjg3ME52ZXBmOFppU0hydzktNWptMEJEMm5sbHM2MlEtSV9JRDdJR1NmenVacGdFaU8tbl83T0NfTjBmZkZBN2szaGhqR1Z6dWdxNXQ2SkpHUzg5Wk42TDdxTkgyNnRxTjN1NmwtMS1waWM2Vi1DVW9DckMzeWJGTHlNUHR5LVJlZkROOFhKOHdnYy0tclJDZzNfNVNrV2J3Zkp0Mmt2REhyd092ZUZKNmRHN01kYTBHNEtN0gHSAUFVX3lxTE9TRmtNX2dLbzE5MUJHT1BUWV8zdVRDekJoLXFMNklLWDVfVlZNenc4Mk1NeXdjMFBYazhzYlBZV3VCSlhuN1RPSGprTnFESkxjLWJOM2NOd0x6R0xxMlE3SkozaUI0ZGRYS1NMXzhYdEtpYXA3SkVaenMwSXZVOW1PTjBCc1l1Nk9YZnJyOFVFOWxoeFhpcm01Yk9lWkxGWHk2UUhkTlhLb1FJWERxeWdDQTYxcFhIVElVNXhtSlE0c2N5UW9MeUZNYWdxRGNtaXN0QQ?oc=5",
+   "data": "2026-10-18T21:15:23+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Bahia x Flamengo: onde assistir ao vivo e escalações do jogo do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGpUZkk1ZkpZLWkzUW5zOFRzZnliNDhBT0YtaDF4VXZUY2FTS2EzYzhnWDBDZlkyX2U1RlU5NFpvcTRjM3lvdlNjWnBsQ0Q3ZlZzVmJCb2pyS0VXQzhNeV9ab19hTmlDOUFsVEpic3FDLTRmSEk5YUZ1U0FuZlZTOGZXb0NLN2t5RlNJU2xjaGE0dGZsYU9QcTZJdzZnclZ1bHVkR0hNdXZQWVgtTGpJMmlscDdHVVFSbHJnTzNIVi1KanhKbUVBcQ?oc=5",
    "data": "2026-10-18T20:40:12+00:00",
@@ -1141,94 +1229,6 @@
    "titulo": "Jogo do Flamengo hoje pelo Brasileirão: que horas começa e onde assistir",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWThJa29rQmNZTlRfRmhENzNsM0p3Y1BKUE41TFVVYUMwOUQ0Y19GZVBtc0U3bVNZZnNJZHFSeW5obmZ1c0JPOHIzb1gwaW0wRmdLTHozYUQ1blE5XzhEM2NtNGdCT0lkb0ZNS3A5aFdxWFlJRFFnUWZIeFh0NEFQYXVEc0V2S2RadWlmNm82dDV5czJ2Rno5akFYRFRRbjJOOVp2NHdhTkpIbG04dl9ndnhDSHdDMjA3ZG9qS05faWhab1NFaE5jVkFEcjd6RTNX?oc=5",
    "data": "2026-10-18T12:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jorginho volta ao Flamengo após suspensões; veja retrospecto com e sem o volante",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/18/jorginho-volta-ao-flamengo-apos-suspensoes-veja-retrospecto-com-e-sem-o-volante.ghtml",
-   "data": "2026-10-18T11:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Jorginho e Arrascaeta são os maiores desfalques possíveis do Flamengo? O Flamengo terá um retorno importante para a partida deste domingo, pela 31ª rodada do Campeonato Brasileiro, na Arena Fonte Nova. O volante Jorginh…"
-  },
-  {
-   "titulo": "Veja o trunfo do Flamengo para enfrentar o Bahia pelo Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUNrSHlpTDJtVndKMTNPb1ZfRWE3dkx3bm9wdFlubXJ6alJBMjRCd3ZTOXpnM0pUbGswR1RlbkZIS09ZcGNDNWVMQkwtUkp5clVYWDctWFVnRXZfbzJ6NEFWaWJuUTBNdVQxdDZVUVRLNGVRSExlV2RPLUpRUnp6NUJxMjNuUnRVY2tIUHBOWjVOeDl0Qmt4WUc5R0cyTDlINXY5T3l0Q2ZmZ2hUS0pCQWp4WUdtQQ?oc=5",
-   "data": "2026-10-18T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras supera dificuldades em jogo de líder e transfere pressão para o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDhjbEtqZmVrV0plcWV3SWVCaUc4TU5QckdxSGlZM0VuS3hoeFVvTERtLUlpVVFQVGxGMWQ5REU5UFRtZDJ6WkdOSXR6WmdpZ0NpR3E0dE9YdFNMUEVWemNDdk9QTXhHM2tTaEtDbGlPVXJBV3JlVVBMTU5aR0tzVTNDcUtWal94MGQ0MVBBOXVneFVjZGpLdUlWQUV3RGFVLUQwNndESzhfNWRSUWNVVDdsUkdnTkp4?oc=5",
-   "data": "2026-10-18T09:40:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo 'vira a chave' para defender a liderança do Brasileirão diante do Bahia",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb0dMQTNKUWxLNDZxNjROTndqVjgzYlFfdXQ2ekY4dFVhS004bTA2UF8wb2N6NkRVRzZIaEhGMkYyMGlLQmstbFYtN3NFUy1nczU5WE90RGUwYmN0Z3ZfVXNSemFsQ25MTng3YkdUU2stX2Jtcm1PLVlWVVpwT1FfSTNDVTBOdkJuUTRCLXR5MHhjclNmQ3hHeHUzaE9KUTRKOEVHNEhUX2N5bUhtenZUcnVSWkJxTTBZZUh5RE1FY1dLM2JGbWZLOE9Scld1ODlGbXlSQTQ5LTc4aXp6SWFHRm40UQ?oc=5",
-   "data": "2026-10-18T09:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo enfrenta Bahia pressionado por recorde de expulsões",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOemJNaTUtRGZMSkhYRmQwOVZUM2dFNmVSMzVxbzR5US1QS1VjRVN1MWhBclpGZ2RQaU9TbTBJczNGeW1xZDNEcTJ1djFoVnNSWWt3OS1pN245YTVjamRRZ1pZRm9tZWNYUXFabEVqb0gzU2pFY0pESlRMMWJpekdockgzNkJaNm9jd1VMbEpKaWRxRFVHT2JHRVRoWGdtelBacFR4bm5xdXFNVllxTDF0dnVKTUdYZDV4aDdDMHN2Nk5weTNuYmtoVWU5MU9LNGdHTDQtV1g1UzljYm8?oc=5",
-   "data": "2026-10-18T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Bahia x Flamengo: horário e onde assistir ao jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnU5cEJySV9UOWxucmVjLVF4SE83QTRFRUNZRlZ0M0xvQmt6Umt4ekRMWVdaTnFvVy02eFJDUUpHSTNXejB4dGlMWThtTTdNV3Q5cXd0cTl5MXlXekJJZDJPWk9EWUdUNzhWX0tkWEZFLW5sV3BPSGM4NWxZOV95VVExQjJxaGFEUVlZUW1tNUZZb3B5OXl3T2kwTVVjLTJiMUphS19EVWhVd3I5aVN3Qm9tck1TTFpGUmJjTkFOYXo4WEVYeUE?oc=5",
-   "data": "2026-10-18T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Sem chute a gol, mas invicto: Fla está perto de chegar a 2 meses sem perder",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMWlmYjZ6YTBCVDNoXzczbmlFX1VaTFBGeWpIRkpZQmlZczFvbU5GSC1yZXVrbGttVFpPZXlQVXNETjlPMkZrNnhXV2pSdkVNM2dmSmd5NzRHeFRWMG9udlItUHdpVFpPZDJFRWdKU21QSm5EZlh2cGJjNnp0aDRaM2gyMlhsQU14OWtWT2lHNWpLM3dYNUVSalIzN255eTNtemRqaGhsdkNfZGt5bE93U3o3TDc5RDAxdEU2VVlrV21oTmQ0X1BGbEhvWkctX0dDbTBvQmRBbXd4UTVVMmc?oc=5",
-   "data": "2026-10-18T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Bahia recebe o Flamengo para defender marca de regularidade no Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0pSQWJDLUNYV285VEppUDUyQnA3NzBid05Kb3hyNTNFVzVpc2lSVkdIcExJVXhjanRucDhDZmpwNVE5ZHNhMmRNNk9rMGgzclZUWmYxLXI0UUFXQ2xzRk9hZ1FyWHRzSzkyQWFHRV9oSG1fOW1JeTFJamVZYWhIXzZza1hQOWh3NlhERzJJSkZGcTFMa2gzSFlSVXlOV25fOXFtOW1GeDB4ZDJHdi1TQTJXRlkwbGRUc1JwZVRR?oc=5",
-   "data": "2026-10-18T07:50:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Bahia x Flamengo: onde assistir ao vivo, horário e escalações",
-   "link": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/10/18/bahia-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-   "data": "2026-10-18T07:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Bahia x Flamengo: informações e palpite para o jogo Bahia e Flamengo se enfrentam às 18h30 (de Brasília) deste domingo, na Arena Fonte Nova, em Salvador, pela 31ª rodada do Campeonato Brasileiro. O canal Premiere transm…"
-  },
-  {
-   "titulo": "Tempo Real | Bahia x Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFhpU2poNm13cksyQUlRdGxEZ002T3FkRndVRXdRTE9FN0U3QllvWmpGSDQ2MFVsdTQ1RXhyNG94enpvTHhWbnBwS0g3ZnRSQzhyZXAwamp4dGI4Tm51d0M4TVVYRTZUUC1zaWhLd2N6cGtfemJtYVVnN3lJY1V3XzhjNElMYXRWc19fUW1PZXpnb2pXeE5ERw?oc=5",
-   "data": "2026-10-18T07:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo terá cinco desfalques contra o Bahia pelo Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUkNCcjZpZGxRSjNyWmIybThFcnBXSlQ5SVdObFFodkdUcGNIMTRBWnhqTzZ6YUpkV0dETFE5MWJSNDBveHpXbUVwdWZlZ0lqMEpOa0R5end0YTJFZkQ1RXotbDlnLXVhQjdCeENYeTZYdWpkN3loZ3h6MTNYV3EyRDNkNllwejdQeHd4TXdhS1daZ2d5N0RuQW1od05Cd1ktdHpwV0V5RWlyTWZkanlkcU1LY3dfV25IQ1gzUkJ1ZnhXLXN2OTR2eTVXdnp6dw?oc=5",
-   "data": "2026-10-18T02:52:24+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
