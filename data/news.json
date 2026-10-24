@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-24T01:54:57.222436+00:00",
+ "atualizadoEm": "2026-10-24T07:11:53.147035+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 50
+   "itens": 48
   },
   {
    "id": "colunadofla",
@@ -23,28 +23,132 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 65
+   "itens": 61
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 87
+   "itens": 88
   }
  ],
  "itens": [
   {
+   "titulo": "Tempo Real | Flamengo x Atlético Mineiro",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3JHaFRJaFI0WG04LVA2Q1JxT1NueEZFcUhXN2w1V1pVN0JPREM2MkdhVy1ldnlZaHdkT1JMNjFSMDdqOXdoZGtDT2FfX1RsM2xDOGtRLWpkVzh4SGJIcU5ua3FIUjFzN2lIWWdBUWI2MHBHam51b29zMnpfakdyQjN6cDFJTUp3NDBWQXY5UjRvMDh5RUxrV293QVZwVEg4MHd5Ykc4dw?oc=5",
+   "data": "2026-10-24T06:42:42+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Rodrigo Mattos: Fla pede à Conmebol análise sobre irregularidade de jogador do Estudiantes",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS0x4WUZudHZLWVU3S1YxV19mZVROd2t4NjZpWVJFQzJlQnczZzJMbktVSlVYSmh1eUFGaVhjRDdBR1A4YjEyZWktSURIUjlwTDkzX0s4YUJYS2ZmczJlS19yckNWRXVNQkJWUlhaUFhaby01SDJwelBtek5RT1V0OWZiMVlIUzV0SGs2eFRndFE2R19raU5KWWdjb3dJckYyb2ZZS3JWVEJYSTVVZ29xdUhFcG94cE9OeHJqeEM3dGI1aV9HZUlNdHlFbGFIZUpZX0dOaFVHNDJNQzhqVVhNc0tUWng?oc=5",
-   "data": "2026-10-24T01:52:41+00:00",
+   "data": "2026-10-24T04:20:22+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
+   "titulo": "Flamengo tenta reverter vaga na final junto à Conmebol; veja",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU093cVdrZFlrbUlyN1ltd1dYSlB4ZjVvTXRwcmhHWW1BUjlCUDQ4X2RIMTgtQXMyT1BseVJ1UVNSUnJuR1RJbEF0REFfNkpoYnJvVWktbWhGZkRGS2FkV3Y3d0tRbFI5TnBzdk9iUWFMTENRM2l4RXNJQU5CZV9JSUN0cTVmQ2JPZGlfVS1Ya0ZFekhnSFR1WFUtbU1SVkR4Uk5CZXpkd21pemJHTEl1NFllS2I?oc=5",
+   "data": "2026-10-24T03:32:06+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo x Atlético-MG ao vivo hoje 26/10: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlPY2Nid2JRWVpmcmYwUnV1ZmhvbTdqMk9JbkFfTG9DbHFmUmhvZjl2NTFya0plODZxV3NYQTBCLWVwTjAzZExLdzR4WjVjZzlVY3ZuNTJUYkotSUg3R0dfS2ZmSEFqUHlweE91YjB5cEZHeGZyYWd3Z1ltM2VhNFJYalhOUFViYkVQLU15U0dUbzFuVGc?oc=5",
+   "data": "2026-10-24T03:03:36+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo aposta em precedente da Conmebol com o Santos para tentar mudar classificação na Libertadores",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/24/flamengo-aposta-em-precedente-da-conmebol-com-o-santos-para-tentar-mudar-classificacao-na-libertadores.ghtml",
+   "data": "2026-10-24T03:01:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Fred Gomes vê eliminação justa do Flamengo na Libertadores e cita erros de Jardim O Flamengo conta com um precedente da Conmebol em sua tentativa de mudar nos tribunais a classificação para a final da Libertadores, por…"
+  },
+  {
+   "titulo": "“Eu senti que a gente não foi o Flamengo”, diz Emerson Royal sobre eliminação na Libertadores",
+   "link": "https://colunadofla.com/2026/10/eu-senti-que-a-gente-nao-foi-o-flamengo-diz-emerson-royal-sobre-eliminacao-na-libertadores/",
+   "data": "2026-10-24T02:58:02+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Lateral citou a dor da torcida após o 0 a 0 no Maracanã e a derrota por 3 a 2 nos pênaltis na semifinal da Libertadores Titular na lateral direita, Emerson Royal fez uma autocrítica dura após a eliminação do Flamengo na…"
+  },
+  {
+   "titulo": "A SEMANA CATASTRÓFICA DE FLAMENGO, FLUMINENSE E VASCO NA LIBERTADORES E SULA!",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkJXdGlxMGhsU3l4TThFc1RyYnRDZHBVVFd4YVpJVjItZ0FORTd3LXB0cTBPNkVCMlhLWkNvYlNVdDlZU3FuWTUybnlPdldFM0RUeFAzNFdfclNBV1NkQnQ2VFN3NUJYV2NGSEJuRDJ3T01VTHE4WTVyYmpSWUF0R0pJeEpTYVNBcDVWWVRtWkNXcmRqRkdhXzdEczd1YUtzVkF1REtHcTRVYXc?oc=5",
+   "data": "2026-10-24T02:30:43+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo pode jogar a final da Libertadores por escalação irregular de Rojo?",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRUVhS1ZPSWN4a2xOM2VMYnNETUNVYWp0WnV5UUllQl8xRUVmMVJOWmRwaUJHMWFZNVhHWC13LVJieW1DRk40M1BHSG55ZXVVSE93cEw5eU1wT2pQbXI1VXFaSjFjRk1aWnBLa3d1QkFHdjE4SkE0SjV3M3VVQzdjdXAxbmFyMERsUTdOMFZSVkhxNG5kN3lXT00yYVhrajMzb1I0cTl2NGZuRWlKeHlpbGtmSmFWUk9qQjgxRkJvM2RnS0VaczZsdVl4QThGTmlFRkc5czk4X1FoTDFGOHphdjVKZkUyTlJfTkkyUGFsYVpFY2QzYkd3SW1ONnZjNkQ1aUV1WA?oc=5",
-   "data": "2026-10-24T01:46:44+00:00",
+   "data": "2026-10-24T02:27:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Conselho Deliberativo do Flamengo vota novo patrocínio",
+   "link": "https://colunadofla.com/2026/10/conselho-deliberativo-do-flamengo-vota-novo-patrocinio/",
+   "data": "2026-10-24T02:24:49+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Reunião também vai deliberar sobre um novo Manual de Propaganda nos Uniformes O Conselho Deliberativo do Flamengo convocou reunião para terça-feira, 3 de novembro, às 18h30, para votar um novo contrato de patrocínio com…"
+  },
+  {
+   "titulo": "Com Royal, Flamengo tem 4 nomes na pré-lista do Brasil para a Data FIFA de novembro",
+   "link": "https://colunadofla.com/2026/10/com-royal-flamengo-tem-4-nomes-na-pre-lista-do-brasil-para-a-data-fifa-de-novembro/",
+   "data": "2026-10-24T01:57:23+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "CBF enviou a relação à Fifa nesta sexta-feira, mas pedido de clubes do Brasileirão ainda pode mudar a convocação de novembro O Flamengo tem quatro jogadores na pré-lista da Seleção Brasileira para a última Data Fifa de…"
+  },
+  {
+   "titulo": "Flamengo atropela Paisas (COL) na estreia da Liga Sul-Americana de basquete",
+   "link": "https://ge.globo.com/basquete/noticia/2026/10/23/flamengo-atropela-paisas-col-na-estreia-da-liga-sul-americana-de-basquete.ghtml",
+   "data": "2026-10-24T01:53:26+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "O Flamengo começou sua campanha na Liga Sul-Americana de Basquete 2026 com uma vitória expressiva. Na noite desta sexta-feira (23), no Maracanãzinho, no Rio de Janeiro, a equipe carioca superou o Paisas, da Colômbia, po…"
+  },
+  {
+   "titulo": "Atacante do Chelsea diz que não esperava tanta dificuldade contra o Flamengo no Mundial",
+   "link": "https://colunadofla.com/2026/10/atacante-do-chelsea-diz-que-nao-esperava-tanta-dificuldade-contra-o-flamengo-no-mundial/",
+   "data": "2026-10-24T01:30:42+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Em entrevista à ESPN, atacante João Pedro contou que assistiu ao jogo antes de assinar O atacante João Pedro, do Chelsea (ING), revelou que o elenco inglês reconheceu a força do Flamengo no Mundial de Clubes. Essa perce…"
+  },
+  {
+   "titulo": "Flamengo tem quatro nomes na pré-lista da Seleção; CBF avalia poupar jogadores do Brasileirão",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/23/flamengo-tem-quatro-nomes-na-pre-lista-da-selecao-cbf-avalia-poupar-jogadores-do-brasileirao.ghtml",
+   "data": "2026-10-24T01:25:05+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Ancelotti quer ver outras peças na próxima convocação! 👀 Líder do Campeonato Brasileiro, o Flamengo dobrou a quantidade de jogadores na pré-lista da seleção brasileira na última Data Fifa de 2026. Se em setembro os rubr…"
+  },
+  {
+   "titulo": "Flamengo pede à Conmebol para ser declarado vencedor contra o Estudiantes",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDByYzZpY0hMSU1lOVZwQ3cwdHJjMklmSWxXSEJ3WlAzRm1QakFwNDMtOEVVMWhqQkFua2dOcDVMRk5kcjg2dkdkOUpkRmowSkVGYTNlaVpyU3QzTEdpemlqbjhJaFBkZU16aE1fZG92aTY2RnJEc1h2N1IwNXB5T0hYMGxVemJkYXlQdFA0SGlXWFNYQXU5LW5ramRtbFlUamZJelNXUUV0QllGYjJRMWJwSllKZHVRcTFxY3VZQXJxeG5YUlNtLWpWRzgteUtERXZz?oc=5",
+   "data": "2026-10-24T01:22:16+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo vai à Conmebol e protesta contra escalação de Rojo, do Estudiantes, na semifinal; veja detalhes",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWDZDQ2RLS2xXVHd3YkJ4STNKdUFOVUMxQjM0RzRkSGl4X0drX2pGS2xPUWpCQzJKRFMtbUE4NDBDcUNKcXR4cjF3T282OTdoazJKN3NGWmY5Vzg2dl9YVXl4TWNTWU1lcC1YM0VBNlhCc1Jtc24zdVlvRVBOQXN4N0F0LTdDQ2VYaF9fODI2bjBRYUVHQkczeHJna0lHZDE5V1psdVA1M0FIbERPSEM4S2l2SjVzVm5Bdi1TYTNrSElUa1liWWVDQ2pkeTVmc1hTWXFqRzlTaGdFSXNkSEhmckUzN1VENXZjb1hmeWI0SQ?oc=5",
+   "data": "2026-10-24T00:56:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -74,28 +178,12 @@
    "resumo": "Após a queda para o Estudiantes (ARG), zagueiro disse que representar o Flamengo é uma responsabilidade bonita O zagueiro Léo Pereira tirou o peso da palavra pressão ao comentar a eliminação do Flamengo na Libertadores.…"
   },
   {
-   "titulo": "Flamengo vai à Conmebol e protesta contra escalação de Rojo, do Estudiantes, na semifinal; veja detalhes",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWDZDQ2RLS2xXVHd3YkJ4STNKdUFOVUMxQjM0RzRkSGl4X0drX2pGS2xPUWpCQzJKRFMtbUE4NDBDcUNKcXR4cjF3T282OTdoazJKN3NGWmY5Vzg2dl9YVXl4TWNTWU1lcC1YM0VBNlhCc1Jtc24zdVlvRVBOQXN4N0F0LTdDQ2VYaF9fODI2bjBRYUVHQkczeHJna0lHZDE5V1psdVA1M0FIbERPSEM4S2l2SjVzVm5Bdi1TYTNrSElUa1liWWVDQ2pkeTVmc1hTWXFqRzlTaGdFSXNkSEhmckUzN1VENXZjb1hmeWI0SQ?oc=5",
-   "data": "2026-10-24T00:03:15+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo recorre da escalação de Rojo, do Estudiantes, e tenta mudar classificação na Libertadores; entenda",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/23/flamengo-recorre-da-escalacao-de-rojo-do-estudiantes-e-tenta-mudar-classificacao-na-libertadores-entenda.ghtml",
    "data": "2026-10-23T23:53:07+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Fred Gomes vê eliminação justa do Flamengo na Libertadores e cita erros de Jardim Eliminado nos pênaltis da semifinal da Libertadores, o Flamengo tenta mudar a classificação nos tribunais. O clube moveu uma ação na Conm…"
-  },
-  {
-   "titulo": "Gabigol provoca Vasco e cita 2 lances pelo Flamengo como mais marcantes da carreira",
-   "link": "https://colunadofla.com/2026/10/gabigol-provoca-vasco-e-cita-2-lances-pelo-flamengo-como-mais-marcantes-da-carreira/",
-   "data": "2026-10-23T23:29:26+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ídolo do Flamengo, atacante do Santos cutuca o rival eliminado pelo Boca Gabigol admitiu que já houve conversa para jogar no Boca Juniors (ARG) e não descartou defender o clube argentino no futuro. Em vídeo que repercut…"
+   "resumo": "Fred Gomes vê eliminação justa do Flamengo na Libertadores e cita erros de Jardim Fred Gomes vê eliminação justa do Flamengo na Libertadores e cita erros de Jardim Eliminado nos pênaltis da semifinal da Libertadores, o…"
   },
   {
    "titulo": "Flamengo alega escalação irregular do Estudiantes e tenta vaga na final da Libertadores",
@@ -119,23 +207,7 @@
    "data": "2026-10-23T22:51:31+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Após a eliminação na Libertadores, o Flamengo se volta para a defesa da liderança no Brasileiro. Com a maior média de posse de bola no returno (57,5%), a equipe carioca tem paciência para levar o jogo para a área advers…"
-  },
-  {
-   "titulo": "CBF debate poupar jogadores do Brasileirão na Data FIFA após pedido de clubes; Uruguai lista 3 do Flamengo",
-   "link": "https://colunadofla.com/2026/10/cbf-debate-poupar-jogadores-do-brasileirao-na-data-fifa-apos-pedido-de-clubes-uruguai-lista-3-do-flamengo/",
-   "data": "2026-10-23T22:50:27+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Decisão pode mexer na última lista de Ancelotti em 2026, enquanto o Uruguai já colocou Arrascaeta, Varela e De la Cruz entre os 42 reservados por Forlán Clubes da Série A fizeram um pedido à CBF, e a entidade debate a p…"
-  },
-  {
-   "titulo": "Landim vence na Justiça e está liberado para ser candidato à presidência do Flamengo",
-   "link": "https://colunadofla.com/2026/10/landim-vence-na-justica-e-esta-liberado-para-ser-candidato-a-presidencia-do-flamengo/",
-   "data": "2026-10-23T21:30:37+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ex-presidente obteve liminar na segunda tentativa e volta a participar da política rubro-negra O ex-presidente Rodolfo Landim obteve na Justiça do Rio de Janeiro o restabelecimento da participação na vida política do Fl…"
+   "resumo": "Flamengo x Atlético-MG: informações e palpite para o jogo Após a eliminação na Libertadores, o Flamengo se volta para a defesa da liderança no Brasileiro. Com a maior média de posse de bola no returno (57,5%), a equipe…"
   },
   {
    "titulo": "De queda na Libertadores ao futuro de Jardim: como eliminação do Flamengo pode impactar no Brasileirão",
@@ -160,14 +232,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Tem vaga? Kaio Jorge, do Cruzeiro, é sincero ao falar sobre atuar no Flamengo",
-   "link": "https://colunadofla.com/2026/10/tem-vaga-kaio-jorge-do-cruzeiro-e-sincero-ao-falar-sobre-atuar-no-flamengo/",
-   "data": "2026-10-23T20:29:42+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Atacante esteve no radar do Flamengo durante as últimas janelas de transferências Kaio Jorge foi um dos sonhos de consumo do Flamengo nas últimas janelas de transferências. Diante dessa situação, o atacante do Cruzeiro…"
   },
   {
    "titulo": "Pedro fecha mata-mata da Libertadores sem gol pela quinta vez em sete anos no Flamengo",
@@ -338,14 +402,6 @@
    "resumo": "Leonardo Jardim justifica por que utilizou Arrascaeta em Flamengo x Estudiantes Uma surpresa na eliminação do Flamengo para o Estudiantes na Libertadores acabou sendo a entrada de Arrasaceta. Apenas três semanas depois…"
   },
   {
-   "titulo": "Estudiantes pode dar mais trabalho ao Palmeiras do que daria o Fla",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlVOQTJMcUlwZExZeXdvbHNtWWNZaGZjMnplRkpJWlk2VnhWUFgzS1pjSHY5R0d4OVdxNGRwQndnZURfZVEtS0g4UDlkN2lwRHF2TlJRUXgzS2J5eEFvbXBFX1FhcXJBdE5MZExDQXA1OWNOSFlVcGRkTU44RlF1a0N5X2Q1RWFpaGVGVkVmaWMwQ1ltWExvdUZLakxNNUpSbnVkaGtjOWI0SXJOc0RKUmotVmtRdTJPaEtRZEVqSXd1Yjl6SFE?oc=5",
-   "data": "2026-10-23T15:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Dirigente diz que Vasco x Flamengo será no Nilton Santos e ironiza: \"Preocupado com gramado do Maracanã\"",
    "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/23/dirigente-diz-que-vasco-x-flamengo-sera-no-nilton-santos-e-ironiza-preocupado-com-gramado-do-maracana.ghtml",
    "data": "2026-10-23T14:50:48+00:00",
@@ -372,7 +428,7 @@
   {
    "titulo": "Arnaldo: Queda do Fla e classificação do Palmeiras tiveram só uma diferença",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmQ3TjNzRkltelpoVWF5eGh6WTJQbVY0VjFuT3ZuZFNoQWlBVUNBYWc0NW1IWWo1X3hUUmV4MXR5STcxYUthWWZ0ZWlPSElMUlM4c21kVFN4b1FlWnNIQjdzRHFXSnIyT2F3alhsX3ByT2U0VXVpNUdYel9QX0ZyRkJhSXh1UWZmV2JjSjRPNUZsaUNTVHBTZGdJNXBYQkRzTk1XWjlsNzhWODVHZGdPck1NWmFHdGt5ckRCU0VtWE1fb1BsRlpYNFJiSXFtM21MMVlNcUJyQ1pQUXJva0JWV0NvQQ?oc=5",
-   "data": "2026-10-23T13:56:11+00:00",
+   "data": "2026-10-23T13:55:26+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -610,19 +666,11 @@
    "resumo": ""
   },
   {
-   "titulo": "Léo Pereira admite atuação abaixo do Flamengo e pede desculpas à torcida após eliminação",
+   "titulo": "Léo Pereira faz forte desabafo após eliminação do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObkJFel9kQmtpa3NHTEl4Wjdrb19Pdy00ZW5Za1ltVTRibndCN0NGd1lFYWh1SUxNd3ZuS2lNV3N5akdxX2hQN2YyMkFhVnNKeURiLUt1TzBRMEhqM1ozZ09XQVBrRjNjZmNtVDNGVFJqNVZLTkRybDZJMGNLbUo3b3o0LUh2X2szcXZkbE80YjFQVEJHUHpwUmp1bS1BWk9DTkN4NGU0LWtnUDEyaHloWExVQ3FWZDhiYUk4Y2lfQTFtNTZ2THc?oc=5",
    "data": "2026-10-23T08:30:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Pênalti com toquinho de Paquetá simboliza eliminação ridícula do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOakUxdmF6WFM5eUl0QTV6T0JwRWMtZTdNSGpMaXZhNzVzczd5QkZYNndoaVZTMkRfMTB5NThGMm02anBIN2FqM09Uc0lBVnU5SV9IVW5pN214cG9RcFdPcEVleEQxVGFsWWZlQXVfZWYxNVhVcXpGbWtPcllUX19XR0NRbUtoTHppcVU5M3pPdnFjTEItNi1zRGFZVndCMlFjU2E4S0J3eldtWFU5MjdrQVVCTGYxMHZhX1YyS2VSUTZRM2hsWE5oaVhPZ2REM0tGcnRBVFBqNzFXQ1MwcDljNm1Famw?oc=5",
-   "data": "2026-10-23T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -946,6 +994,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Flamengo perde para o Estudiantes nos pênaltis em pleno Maracanã e fica fora da final da Libertadores; VEJA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDQ0g4ZEszZ1ZHanl4ZjBJWWdHQkE5eTJDVnB1SGJqcEx6N3JNM1ZBcUV3OGw2NTFPQmplNllndUNfMmpqa2xXWG85d3pkQVI0SDB1TG5tN1p1elVtOVE?oc=5",
+   "data": "2026-10-23T02:45:31+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Estudiantes elimina o Flamengo e encara o Palmeiras na final da Libertadores",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXdoX3ktd0dNZ1hwS1FXZ1lHLVdhT0ZXbUxLOGY4Z3p3U0NHTTFkUG03VTBFMUtEdWhwWHlPNUdLdXh1NUlYVDdJWTdsZE1iQUFkSmRqRGZNTU1iQ1h1X3RCVkhmMkt6c1QyWmJvWDBHbV8xX2VDUEtndlBONlFUZVoySmpNbldYNWlMUV9DeER1ODY1eFdfNkdGT0JaYnRGb0xSVUNRUThodjR2RlQtWDFleWZsSDMzWDJzRmhCQ1prRHQzdEpB?oc=5",
    "data": "2026-10-23T02:44:00+00:00",
@@ -1138,14 +1194,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Baterias das organizadas do Flamengo ficarão em setor mais baixo da Norte do Maracanã contra o Estudiantes",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NT1h1ak1nWFItVXluS1luN25UaHBvVWx0WVE3Wi1qY0d0MkxUeTFSOHAxSl9JSUFoYmFCSXBDMGZjQ1JJa1A3TGdzeEZvSUowZHpWRFlwbFljTEotQmc?oc=5",
-   "data": "2026-10-22T21:31:01+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Monaco de Filipe Luís atropela Freiburg na Conference League",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjNES2JvXzVpdEZiQlg4dFQ5QVhkRVIwWG9pZVVFOXFyZFdiYlQ5Z19LRUFNVExVSXJNbWUyUndLZm55V0wtYVV2bktWamlsVGRvTGZ1OFNwUG9xVmlVX25CRzJwNmVDX0RQUmZVZnRucFRVRnFlbWFPN0VfV0YzcGoyajhGUlc4UkxJdXU0bnhUWDBvRlRVb1V5ZXhKSmtYbDhJN2dPdGJvZ2sxenhsNnRR?oc=5",
    "data": "2026-10-22T20:59:30+00:00",
@@ -1181,54 +1229,6 @@
    "titulo": "Onde vai passar Flamengo x Estudiantes pela Libertadores? Como assistir ao vivo",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMW1CU0VEQU5CeGtLMDZ2UkNtM1FKNGg2b3JXeDJtQWNJd1ZGeUM1WC1jaTZ2RE1WRmhZei12WHRmSm1FZTMzMTFFdTlFNEItTE1uQVE2OEEyUUtMTnd1TU1zZjhnVThyT0ZwMnJhRnVkRng0UkJXYVZqLUtpM21XdkhJeGRHMmE1ZzlLb2dHRVRqR09HSEZLZGtLT2N4VVVwM3ByaDg5SEdMX0ZZSHRHMkptYklZS0lWTDFpWHE0eFZuNWxKZ2Q0cTVHRF80UDdWVGRodm1HV29fQQ?oc=5",
    "data": "2026-10-22T18:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Consórcio Fla-Flu estima prejuízo de R$ 300 mil com danos ao Maracanã em Vasco x Boca",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/22/consorcio-fla-flu-estima-prejuizo-de-r-300-mil-com-danos-no-maracana-em-vasco-x-boca.ghtml",
-   "data": "2026-10-22T18:00:24+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "As cadeiras já foram recolocadas no Maracanã! O Consórcio Fla-Flu, que administra o Maracanã, informou que o prejuízo causado por torcedores de Vasco e Boca Juniors, na última terça-feira, está estimado em R$ 300 mil. S…"
-  },
-  {
-   "titulo": "Maracanã tem prejuízo superior a R$ 300 mil após depredação em Vasco x Boca Juniors",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT0FXZ01TU1BIaWlOZzRJdEhuUVctSUJ3RXkzUXAyQ3FaV1JpVEJURlRCaklDdXRqbDVyc0N0N0hLbF9WZGZBR3BVM3RsNTNRcEFyRmRmZ0VNOU5renlaV3F5VXhRY2xkY0c5U3FCSGNhOThBV05kaFZDTjNHNlV1QUNNeVBsVlYzR2hYbzVyVGdIdjAxdFppaUdIcXdSQkxMdkttVDR4MjJLZmtPX2dmSllzZGRoUTZ1LVJybkdfcXVSVmkzSnI5Qg?oc=5",
-   "data": "2026-10-22T17:55:03+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Comentarista da ESPN aponta vencedor de Flamengo x Estudiantes",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkw3YWFfVkt3TUhDSXFKZkhiSjJtY0xYSDczaTRDbmM5YTk0RGpKLVljYmdMeEhsa0xlN2pwYWFDWlc0QTJWNzN1dUczemVLX3JXVlBmMGFhVHM0SDJpaG9GekdYRGtfZUdBb0ZKNXNuNUR6NTFMN0JIWG45Uk51ckxCbVVZYTg4SHp4WjdiVnNvUE1tLTJBSWhaRXc4cUo0SUJyNGlYTk5oQQ?oc=5",
-   "data": "2026-10-22T17:52:59+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta faz último treino decisivo pelo Flamengo por jogo contra Estudiantes; veja bastidores",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRW16UEF1MmNaNGxFSm5YNjBSRkg0MTVoVXZQZlpfaEdTaV9qMmVWbnZwRmc3bTZFSlBqTFZVSnM2ak55QkhxTTIwRjZuZlJMaVBCVUlIR1NMaHFrMkFDVktNUnJjNWxHSDA0RlZXVlRSeVpyZFV0SHZCcUpDaEoxVzgwUV9EOU9JWjVMUDFLYU13SnMzeWRXRFpad0t3MzdqS1JEeEo3M2gtZ200OFViSFU0cUtzQnJUb21zelpYN3ZqQjY0WkpUdVpVSU1TVXFLRHB3WVdyLWxmU2xZTXNTX1B3?oc=5",
-   "data": "2026-10-22T17:07:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Canto de Mengo rege Flamengo na Libertadores e volta às arquibancadas no Maracanã: \"Um mantra, uma oração\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/22/canto-de-mengo-rege-flamengo-na-libertadores-e-volta-as-arquibancadas-no-maracana-um-mantra-uma-oracao.ghtml",
-   "data": "2026-10-22T16:50:52+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Mengô! Torcida rubro-negra empurra time no grito tradicional \"Entendo o grito de Mengo como um mantra, uma oração\" Cinco letras e uma palavra que é quase um chamado: Mengo. Combustível para os torcedores e os jogadores,…"
-  },
-  {
-   "titulo": "Fifa confirma final do Intercontinental no Catar, em palco com triunfo do PSG sobre o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY1VJd2tMVkxUZGEzYUJVdFNsWm9mNWtDS0s2ZE1xb2xEWmlNTGkzdm43MWlPLVd3dk5pcFVKS0lkS3MtZnJNR2tSU2NsWDNyYnc0UGQzU3VRTExiaDBpaXRNTWV4ZVFkMFdDOHJ6R2ZaMnJaYmx0eVZQT0J5VVBrb0FyU29xSWhucnZhN2tXMEdvRWJKenFHSGZVS3E2SEIzUUZiZVA3ckdBZ3RYS3dHQ1BZeTdWT19Ma3ZJZVZRbzE3TXlkbGR4UzUtZnZZSzhiTXh4ZXNOa1NJR2ZPakdEeEtZWW80N1J1R1ZnVE93aVUzRXFNdjFZ?oc=5",
-   "data": "2026-10-22T16:40:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
