@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-24T21:32:18.878984+00:00",
+ "atualizadoEm": "2026-10-24T23:38:43.099904+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -23,16 +23,104 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 56
+   "itens": 53
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 89
+   "itens": 88
   }
  ],
  "itens": [
+  {
+   "titulo": "Com 2 pênaltis a favor, Palmeiras vence Bragantino e ‘dorme’ na liderança do Brasileirão",
+   "link": "https://colunadofla.com/2026/10/com-2-penaltis-a-favor-palmeiras-vence-bragantino-e-dorme-na-lideranca-do-brasileirao/",
+   "data": "2026-10-24T23:35:27+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo terá a chance de voltar ao topo na segunda-feira (26) Se tem Palmeiras em campo, tem pênalti. Neste sábado (24), no plural. Jogando na Arena Barueri, a equipe venceu o Bragantino por 2 a 0, pela 32a rodada do B…"
+  },
+  {
+   "titulo": "Flamengo se pronuncia sobre possível reversão de eliminação na Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVpJdVpHU1VHeG1Kbm9jenBkRkZMUTRrRWZsMF94dmZUTnpESkRDT0NRcjJnQXdRNE9OM1pmWUpTV2pqOHItRzVJQ2xVWlZ3WUIyVnBoaUJKc1ZvWU0tQVAySmNDcGt3M2FTQjhmRmpUVEZHRUlkUnNWVk5jMGRHa1pwaVhsdFoxbm1rVGtFTmp6eWV1RXVTZTdITlFpSFhnLVo0dk5PR2dhc3QxaWlxZTY1M0M?oc=5",
+   "data": "2026-10-24T23:10:39+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo explica ação que tenta reverter eliminação na Libertadores: \"Garantir que regras valham para todos\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/24/flamengo-explica-acao-no-tribunal-garantir-que-as-regras-valham-para-todos-os-clubes.ghtml",
+   "data": "2026-10-24T23:03:47+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo aciona Conmebol por escalação irregular de Marcos Rojo O Flamengo emitiu uma nota oficial na noite deste sábado para explicar sua ação no caso Marcos Rojo, do Estudiantes. No comunicado, o clube alegou que foi…"
+  },
+  {
+   "titulo": "Flamengo quebra silêncio sobre ‘caso Rojo’ e dá recado ao Estudiantes: “Estava ciente dessa consequência”",
+   "link": "https://colunadofla.com/2026/10/flamengo-quebra-silencio-sobre-caso-rojo-e-da-recado-ao-estudiantes-estava-ciente-dessa-consequencia/",
+   "data": "2026-10-24T23:03:05+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Clube se pronunciou neste sábado (24) O Flamengo, enfim, se pronunciou oficialmente sobre o ‘caso Rojo’, do Estudiantes (ARG). Na noite deste sábado (24), o clube emitiu uma nota reforçando que o clube argentino escalou…"
+  },
+  {
+   "titulo": "Conmebol se irrita com TAS e se movimenta para proteger regulamento da Libertadores; Flamengo aguarda",
+   "link": "https://colunadofla.com/2026/10/conmebol-se-irrita-com-tas-e-se-movimenta-para-proteger-regulamento-da-libertadores-flamengo-aguarda/",
+   "data": "2026-10-24T22:50:05+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Entidade avalia que sairia enfraquecida se o tribunal se sobrepuser às regras da Libertadores; julgamento do mérito está marcado para 12 de novembro A Conmebol está muito irritada com o desfecho do caso Marcos Rojo, seg…"
+  },
+  {
+   "titulo": "Leila, do Palmeiras, ironiza recurso do Flamengo na Libertadores: “Ridículo”",
+   "link": "https://colunadofla.com/2026/10/leila-do-palmeiras-ironiza-recurso-do-flamengo-na-libertadores-ridiculo/",
+   "data": "2026-10-24T22:10:48+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Leila Pereira reagiu ao pedido rubro-negro na Conmebol contra o Estudiantes (ARG) A presidente do Palmeiras, Leila Pereira, criticou neste sábado (24) a ofensiva do Flamengo na Conmebol contra o Estudiantes (ARG). A dir…"
+  },
+  {
+   "titulo": "Flamengo x Atlético-MG ao vivo hoje 26/10: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlPY2Nid2JRWVpmcmYwUnV1ZmhvbTdqMk9JbkFfTG9DbHFmUmhvZjl2NTFya0plODZxV3NYQTBCLWVwTjAzZExLdzR4WjVjZzlVY3ZuNTJUYkotSUg3R0dfS2ZmSEFqUHlweE91YjB5cEZHeGZyYWd3Z1ltM2VhNFJYalhOUFViYkVQLU15U0dUbzFuVGc?oc=5",
+   "data": "2026-10-24T22:06:44+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Leila Pereira critica Flamengo por tentar reverter eliminação na Libertadores: 'Ridículo'",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVlU0bFozZnlpTlhpYzFTMDBZOUV5MTNzdFVsMHc4YlNEWmlKTmFIQm91SlFadGZoVmpSZzExUEtYUHpOQTNoZ1hkRmh2TWZzN1Vvb0JrQUV6U3BYT3hEd2Zoc2NjWUZVZFNZUUdDdl9TUWM2NFBxZEJRVDFwMGpoaElUZEx0Q3doRTBSOXJZM0pWVU03RDY0RmJXSTg0Yng1dndmVWlZakR2RDU1cGlyclQzMnBFRDBoVkdfenZrbUl6bF9l?oc=5",
+   "data": "2026-10-24T21:55:26+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "“Estudiantes não corre risco de perder a vaga na final da Libertadores para o Flamengo”, crava jornalista argentino",
+   "link": "https://colunadofla.com/2026/10/estudiantes-nao-corre-risco-de-perder-a-vaga-na-final-da-libertadores-para-o-flamengo-crava-jornalista-argentino/",
+   "data": "2026-10-24T21:30:47+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Liminar da Corte Arbitral do Esporte sustenta a defesa argentina A reclamação do Flamengo contra a escalação de Marcos Rojo dificilmente tirará o Estudiantes (ARG) da final da Libertadores. Essa é a leitura predominante…"
+  },
+  {
+   "titulo": "Leila Pereira critica ação do Flamengo na Conmebol: 'Coisa feia, ridículo'",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFpvd2VZa1JxaVNYbVI1d2JOUktaOFpBUXZPYVlSby1JNGVsVGlLV0hMaTUzUTJtYko4eEtfZnFMVjloTEFqUlltTzVwTGpZektOQ1ByeFFkX1RNdDZNa2xqT2hNQVYxa2hlbWVINXllNW5CUWdZZWxTWmE2aFNsZ2dzRXFvV09sTDEwSTFTTmtBLW94ZzFFU2ZFTGo4cDBxN2V6d2d4dE0yaHFRZWowVHcxMlpaa0M1S3Y0U0xrZXZlT1BzZGt0QU1aSHR5UENwR0VrRXRhOGhzZw?oc=5",
+   "data": "2026-10-24T21:18:51+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Com gol de mexicano, Flamengo vence 1º jogo das quartas e encaminha vaga na semi do Carioca Sub-20",
+   "link": "https://colunadofla.com/2026/10/com-gol-de-mexicano-flamengo-vence-1o-jogo-das-quartas-e-encaminha-vaga-na-semi-do-carioca-sub-20/",
+   "data": "2026-10-24T20:50:08+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rafael Henrique, Diego Reyes e Juliano marcam em Saquarema, e os Garotos do Ninho decidem a vaga na semifinal no sábado (31) O Flamengo deu um passo largo rumo às semifinais do Campeonato Carioca Sub-20. Neste sábado (2…"
+  },
   {
    "titulo": "Vasco x Flamengo: ingressos à venda. Vascaínos terão 90% do estádio",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTZwNUY3ejhIRGNlT0NxeGZ0RjJFVGtBZ2lKLUFqaGhFUmtZUjFlY05CWGJraFA3cXA4QTM4SFNwUmp4a2J2YmoyWmJidXB6b1NzSTNZaEZHZ1R0elBsdTFQWWVnWDVndmNPa0lIWW9Bb3hCclFmMjltTXdfRnZsWnlxWlU3T3B0WW5obXVHN19GWHI1Y291eXFPUTFDT2VhbnJJ?oc=5",
@@ -48,6 +136,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Clube argentino diz ter cumprido todos os prazos e se apoia na liminar do TAS O Estudiantes (ARG) minimizou a reclamação do Flamengo contra a escalação de Marcos Rojo na semifinal da Libertadores. Segundo o portal 0221,…"
+  },
+  {
+   "titulo": "Flamengo x Atlético-MG: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPazdacEV6eko3azNtTFpPWVdSREp6aElFSEw3WTl6czNielo5SDNmX0QzUVZvNjBjbU9CMU1MMnRPVEIxN2gxWUo0OHF4a0RycW81Y3Y2S1huU0Jlc1RzMVA5b3plMkhtZm94d2M2N1RULU1wdV9saTB6dWcxMTFtdS04dFVUclBIc2FwLVp2cGtnZDVtV2Y2ZXEzbGVsOXJUeTVsSUhYVnRycldRSExhZVl0RlFzSHhXX292TWE2aDZsbDBGUEZndU1jTVBPWUpBVGlQWjNmZlJRNjJuazJIOWZXNE5ZZHV0TkxDdVBsZWR1WVpNU2NEZQ?oc=5",
+   "data": "2026-10-24T19:27:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Paulo Vinicius Coelho (PVC): Flamengo envia recurso por Rojo e Conmebol não deve deferir. Saiba por quê",
@@ -66,14 +162,6 @@
    "resumo": "Voz do Setorista: Sergio Santana detalha como foi a aprovação da venda da SAF do Vasco O Vasco anunciou que as vendas para o confronto contra o Flamengo, na próxima quinta-feira, em partida da 33ª rodada do Campeonato B…"
   },
   {
-   "titulo": "Flamengo x Atlético-MG: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPazdacEV6eko3azNtTFpPWVdSREp6aElFSEw3WTl6czNielo5SDNmX0QzUVZvNjBjbU9CMU1MMnRPVEIxN2gxWUo0OHF4a0RycW81Y3Y2S1huU0Jlc1RzMVA5b3plMkhtZm94d2M2N1RULU1wdV9saTB6dWcxMTFtdS04dFVUclBIc2FwLVp2cGtnZDVtV2Y2ZXEzbGVsOXJUeTVsSUhYVnRycldRSExhZVl0RlFzSHhXX292TWE2aDZsbDBGUEZndU1jTVBPWUpBVGlQWjNmZlJRNjJuazJIOWZXNE5ZZHV0TkxDdVBsZWR1WVpNU2NEZQ?oc=5",
-   "data": "2026-10-24T18:32:27+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Vasco foge do Maracanã e dá só 10% dos ingressos ao Flamengo",
    "link": "https://colunadofla.com/2026/10/vasco-x-flamengo-ingressos-nilton-santos/",
    "data": "2026-10-24T18:23:59+00:00",
@@ -82,28 +170,12 @@
    "resumo": "Vasco x Flamengo: ingressos à venda com 90% para o mandante no Nilton Santos, após o Fla dividir a carga meio a meio no Maracanã O Vasco iniciou neste sábado (24) a venda de ingressos para o clássico contra o Flamengo,…"
   },
   {
-   "titulo": "“Nunca mais vai acontecer”: Gabigol revive a virada sobre o River",
-   "link": "https://colunadofla.com/2026/10/gabigol-final-libertadores-river/",
-   "data": "2026-10-24T18:16:16+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Gabigol relembra a final da Libertadores e diz que tinha certeza de um gol contra o River, mas não da virada em três minutos Gabigol revelou que tinha certeza de um gol do Flamengo na final da Libertadores de 2019, cont…"
-  },
-  {
    "titulo": "Milly Lacombe: Diretoria do Flamengo está viciada em passar vergonha",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWo2SUZxMXVFVmI4c0xXWk9ndGNzRGd6Y0t6NDlSaF83LXRia190NXBFVExWeGU5TFRsM0ZtWXpITGEyOFQxdEN3clV0emthYTNMNEFHMHY3Tl9KeXo3QVNWVXZubVdWSXdZdTFERUoxXy1ncERHNFpOX2ZPVHRLN3lGQnZ4bnlnVV9vdU1NX1kwWVJRbEJxcjdhVDZPb21vQU1fWE5CY204ODAyWkVVSklKTG9zQnNlYXZzTUpB?oc=5",
    "data": "2026-10-24T17:50:23+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Jogos do Brasileirão hoje: Palmeiras x Red Bull Bragantino, Vasco x Corinthians e outras 5 partidas acontecem neste sábado",
-   "link": "https://colunadofla.com/2026/10/jogos-do-brasileirao-hoje-palmeiras-x-red-bull-bragantino-vasco-x-corinthians-e-outras-5-partidas-acontecem-neste-sabado/",
-   "data": "2026-10-24T17:14:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Vice-líder está a um ponto do Flamengo e pode assumir provisoriamente a liderança; sete jogos movimentam a 32ª rodada neste sábado (24) O Campeonato Brasileiro segue neste sábado (24), com sete partidas pela 32ª rodada.…"
   },
   {
    "titulo": "Uruguai divulga pré-lista com trios de Flamengo e Palmeiras",
@@ -138,14 +210,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo x Atlético-MG ao vivo hoje 26/10: siga placar agora | Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlPY2Nid2JRWVpmcmYwUnV1ZmhvbTdqMk9JbkFfTG9DbHFmUmhvZjl2NTFya0plODZxV3NYQTBCLWVwTjAzZExLdzR4WjVjZzlVY3ZuNTJUYkotSUg3R0dfS2ZmSEFqUHlweE91YjB5cEZHeGZyYWd3Z1ltM2VhNFJYalhOUFViYkVQLU15U0dUbzFuVGc?oc=5",
-   "data": "2026-10-24T15:03:50+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Eliminação na Libertadores afeta finanças do Flamengo e impede chance de cobrir déficits em 2026",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/24/eliminacao-na-libertadores-afeta-financas-do-flamengo-e-impede-chance-de-cobrir-deficits-em-2026.ghtml",
    "data": "2026-10-24T14:00:00+00:00",
@@ -170,28 +234,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo realiza 1° treino neste sábado antes de jogo contra Atlético-MG",
-   "link": "https://colunadofla.com/2026/10/flamengo-realiza-1-treino-neste-sabado-antes-de-jogo-contra-atletico-mg/",
-   "data": "2026-10-24T11:46:09+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Time rubro-negro recebeu folga nessa sexta-feira (23) após eliminação na Libertadores Após a eliminação para o Estudiantes (ARG) na semifinal da Libertadores, o Flamengo volta as atenções exclusivamente para o Campeonat…"
-  },
-  {
    "titulo": "Flamengo nos pênaltis: números revelam drama do clube",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYkltVDJ0REZGaFJhcDAyT2M3bmh0Wno5MWNnVDZaVFQzTjh5endlR2xmaU5lc3lJeDQzQ2JZVjVFWmxJY1IyYUI1anhQeFBUZVpzeHhXcE1ObjNhejRlVVdtVWFpSjRONGpWclNUZ1JzZXU3LXhTNHJQTk5tVUNKQk9zTkFjRWZERTJsVmkwSnp4Y3htNU9vNVh0dENKLXFYdnNUY190dDNDQ1doazZZMGo5TEJYUQ?oc=5",
    "data": "2026-10-24T11:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Caso Carlos Sánchez: entenda precedente ao qual o Flamengo se apega para tentar reverter eliminação na Libertadores",
-   "link": "https://colunadofla.com/2026/10/caso-carlos-sanchez-entenda-precedente-ao-qual-o-flamengo-se-apega-para-tentar-reverter-eliminacao-na-libertadores/",
-   "data": "2026-10-24T10:56:42+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Em 2018, Conmebol ‘transformou’ empate do Santos em derrota por 3 a 0 após escalação irregular de meio campista uruguaio A classificação do Estudiantes (ARG) à final da Libertadores ainda é alvo de contestação do Flamen…"
   },
   {
    "titulo": "Flamengo x Cornellà: onde assistir ao vivo e horário do jogo da Messi Cup",
@@ -274,14 +322,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Conselho Deliberativo do Flamengo vota novo patrocínio",
-   "link": "https://colunadofla.com/2026/10/conselho-deliberativo-do-flamengo-vota-novo-patrocinio/",
-   "data": "2026-10-24T02:24:49+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Reunião também vai deliberar sobre um novo Manual de Propaganda nos Uniformes O Conselho Deliberativo do Flamengo convocou reunião para terça-feira, 3 de novembro, às 18h30, para votar um novo contrato de patrocínio com…"
-  },
-  {
    "titulo": "Flamengo atropela Paisas (COL) na estreia da Liga Sul-Americana de basquete",
    "link": "https://ge.globo.com/basquete/noticia/2026/10/23/flamengo-atropela-paisas-col-na-estreia-da-liga-sul-americana-de-basquete.ghtml",
    "data": "2026-10-24T01:53:26+00:00",
@@ -344,14 +384,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Fred Gomes vê eliminação justa do Flamengo na Libertadores e cita erros de Jardim Fred Gomes vê eliminação justa do Flamengo na Libertadores e cita erros de Jardim Eliminado nos pênaltis da semifinal da Libertadores, o…"
-  },
-  {
-   "titulo": "Flamengo alega escalação irregular do Estudiantes e tenta vaga na final da Libertadores",
-   "link": "https://colunadofla.com/2026/10/flamengo-alega-escalacao-irregular-do-estudiantes-e-tenta-vaga-na-final-da-libertadores/",
-   "data": "2026-10-23T23:12:35+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Clube argentino tem até segunda-feira (26), às 18h, para apresentar defesa sobre a presença do zagueiro na volta da semifinal da Libertadores O Flamengo apresentou uma reclamação à Conmebol e pediu a vitória no jogo de…"
   },
   {
    "titulo": "Favoritismos #32: dicas, palpites e chances no Brasileirão",
@@ -666,16 +698,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Rodrigo Mattos: Pênalti com toquinho de Paquetá simboliza eliminação ridícula do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOakUxdmF6WFM5eUl0QTV6T0JwRWMtZTdNSGpMaXZhNzVzczd5QkZYNndoaVZTMkRfMTB5NThGMm02anBIN2FqM09Uc0lBVnU5SV9IVW5pN214cG9RcFdPcEVleEQxVGFsWWZlQXVfZWYxNVhVcXpGbWtPcllUX19XR0NRbUtoTHppcVU5M3pPdnFjTEItNi1zRGFZVndCMlFjU2E4S0J3eldtWFU5MjdrQVVCTGYxMHZhX1YyS2VSUTZRM2hsWE5oaVhPZ2REM0tGcnRBVFBqNzFXQ1MwcDljNm1Famw?oc=5",
+   "titulo": "Flamengo abandona modo copeiro e baque da queda vira alerta para Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWUR1cXRudFRYUHpIWTNxWHZpQWZaYU1hVUE4Vnd3a0Q4ZkRwSmZfbTN5cTFUT2x0bHZiM2VhcllFN1FDZVBGN1k4TTMyeXdzd0VMcEZiMGNLVGQtMVpvT0pKWGg2QktqaEl1R0lFa0JnRHJLaW1LUE1Hb2RMaEVIR20tUTdRUTAtWEdpeXJyTjEtbUVBcGFfcklFUmZQY0laemNhYl8wX2lCSU8zdlNQZnl6SzVHOThmeXgtUUFlNm9BSjIzUzVsYTRIOXpuak5rYWJUTnJPSG5KYk9UUFFZcQ?oc=5",
    "data": "2026-10-23T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Flamengo abandona modo copeiro e baque da queda vira alerta para Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWUR1cXRudFRYUHpIWTNxWHZpQWZaYU1hVUE4Vnd3a0Q4ZkRwSmZfbTN5cTFUT2x0bHZiM2VhcllFN1FDZVBGN1k4TTMyeXdzd0VMcEZiMGNLVGQtMVpvT0pKWGg2QktqaEl1R0lFa0JnRHJLaW1LUE1Hb2RMaEVIR20tUTdRUTAtWEdpeXJyTjEtbUVBcGFfcklFUmZQY0laemNhYl8wX2lCSU8zdlNQZnl6SzVHOThmeXgtUUFlNm9BSjIzUzVsYTRIOXpuak5rYWJUTnJPSG5KYk9UUFFZcQ?oc=5",
+   "titulo": "Rodrigo Mattos: Pênalti com toquinho de Paquetá simboliza eliminação ridícula do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOakUxdmF6WFM5eUl0QTV6T0JwRWMtZTdNSGpMaXZhNzVzczd5QkZYNndoaVZTMkRfMTB5NThGMm02anBIN2FqM09Uc0lBVnU5SV9IVW5pN214cG9RcFdPcEVleEQxVGFsWWZlQXVfZWYxNVhVcXpGbWtPcllUX19XR0NRbUtoTHppcVU5M3pPdnFjTEItNi1zRGFZVndCMlFjU2E4S0J3eldtWFU5MjdrQVVCTGYxMHZhX1YyS2VSUTZRM2hsWE5oaVhPZ2REM0tGcnRBVFBqNzFXQ1MwcDljNm1Famw?oc=5",
    "data": "2026-10-23T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -946,14 +978,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo teve 180 minutos pífios e deu vexame contra o Estudiantes, analisa Raisa Simplício",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kRmlrSjl4QkJsdjZyZ1dJaFdMMG5vTlpYMmFjNjliQV9hazVwSmNVR2piMV9ZdS1NcHRabzlxY29xVUItT0gzdE40bUhabHlmcHR0b3pqS3pvbzJJenNRd0lmOV82RVk?oc=5",
-   "data": "2026-10-23T04:50:22+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Palmeiras provoca Flamengo após eliminação no Maracanã: 'Que os bons ventos soprem a nosso favor'",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb1hvbVZ1XzBZM3FGVWJXWTlYSlFlMGY2QjFZTk95YXlwblRhbVNVU3lOVDlmOEo4Nkx1d3dzNDA1RlFSZ3VFLXlScjVJUmMtS2N2OHFIWXFwS1dpOW5BLTdNLXo0QzFOSVhWTjQ1MDR6YWZGR2ExclRFMGhJdTdmSzlEdi1haWQzcEpDT1VzalpKLTBzYi1DbWFhUC1RRUpZQ3E5blBjU0h5N1l3anpTSUlvRmN1bktUY0xtdzRpSGF0X05OdlRtRG54NUVHQnppTTNIMHVfMTZQUTB5Q3BhU2ctOFBjTGc?oc=5",
    "data": "2026-10-23T04:26:00+00:00",
@@ -1205,30 +1229,6 @@
    "titulo": "Áudio da transmissão de Flamengo x Estudiantes repercute: 'Várzea'",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnVaWjdpVXdTZTNwcmFkNDR0ZzlCTXpVWmdTdWY1U1ZEWndLNDFvTklNMDJMODhhRnlUemRfVy02eHdvaWF5VGxTR0JwSzRBX0JlTWRRelM2Szg0Y25uemQwZm1GcVlrcVpSd2dDbTgxSnF1ZVA1VXR3bEFuWGdGcmJ4NkotR0RXWjBiMnJYV0hZVDB4dlJRN0FQV2xCdkNFaFFVSWxoMGVkcms?oc=5",
    "data": "2026-10-23T01:30:28+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo 0-0 Estudiantes (22 de out, 2026) Estatísticas de jogadores",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xbmNnTnN5RlZUZ2RqWUN4SVg4c0NERk1HSDBGdkl2YWpZWUJYeTdja3NIZkIxclJ3MWVpUHFteXdjYUlFdXFTLWxienpXTFlJYVRYSm1BVUUwOHNuV0NNZFhmVWI0aVQzZ2VPVlJJd0JHR25kTWppdFh0SE9KUQ?oc=5",
-   "data": "2026-10-23T01:29:42+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Lance de Carrascal em Flamengo x Estudiantes gera revolta: 'Não dá'",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa05POHdmSWh6TTgzTDUtUEp3SzR0bE5iYlJwQmtEeVBBc1lNdTY3NnZZUkZRRlkyVmJUd2U3Y05Ib3NXeXJlYVF0djNRWkNEaTE3eFEwSGc2RDFMU1ppS1czZ2x1UFo3QV82WlJfcGlaQmFLeHFJY3pTVEZQZnFXRzYwQU9oZVRaR0l5QkVET2hTRFdoX2taX0NmaG9uSzdoM1NfT0ladTIxeDc3?oc=5",
-   "data": "2026-10-23T01:11:34+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Quem é o juiz de Flamengo x Estudiantes? Árbitro já apitou jogo do Rubro-Negro",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUV9NN1lZcUdjX2xvNWdQUDd5TUUzSkFKOThRQUlYZlVnZWFkZlZJbUlyanB2SXlTMU5ocWI4MVVHTFJVSFd2ZC1Va3BMTEZHcE9Cb3VGeFZMM0JQSjNkSnJkUmNfbGxvVElRSkRibkpyNUpmMGNJTWVIaEVyQk12TE5VbURIbjVHNlI1NHJpNjEtRUNYamc1aHVRbkIwUFRtV1I4LWtRQXMtaHhNaXNqZjJZYXhlemhtdFdfbnB3?oc=5",
-   "data": "2026-10-23T00:53:43+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
