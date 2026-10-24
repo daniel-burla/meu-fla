@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-24T18:57:25.043777+00:00",
+ "atualizadoEm": "2026-10-24T21:32:18.878984+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 53
+   "itens": 50
   },
   {
    "id": "colunadofla",
@@ -23,18 +23,42 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 57
+   "itens": 56
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 88
+   "itens": 89
   }
  ],
  "itens": [
   {
-   "titulo": "Vasco abre venda de ingressos contra no Flamengo no Nilton Santos e indica público 90/10 no clássico",
+   "titulo": "Vasco x Flamengo: ingressos à venda. Vascaínos terão 90% do estádio",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcTZwNUY3ejhIRGNlT0NxeGZ0RjJFVGtBZ2lKLUFqaGhFUmtZUjFlY05CWGJraFA3cXA4QTM4SFNwUmp4a2J2YmoyWmJidXB6b1NzSTNZaEZHZ1R0elBsdTFQWWVnWDVndmNPa0lIWW9Bb3hCclFmMjltTXdfRnZsWnlxWlU3T3B0WW5obXVHN19GWHI1Y291eXFPUTFDT2VhbnJJ?oc=5",
+   "data": "2026-10-24T20:29:23+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "A reação do Estudiantes com recurso do Flamengo sobre ‘caso Rojo’ na Libertadores",
+   "link": "https://colunadofla.com/2026/10/a-reacao-do-estudiantes-com-recurso-do-flamengo-sobre-caso-rojo-na-libertadores/",
+   "data": "2026-10-24T19:30:30+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Clube argentino diz ter cumprido todos os prazos e se apoia na liminar do TAS O Estudiantes (ARG) minimizou a reclamação do Flamengo contra a escalação de Marcos Rojo na semifinal da Libertadores. Segundo o portal 0221,…"
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo envia recurso por Rojo e Conmebol não deve deferir. Saiba por quê",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVJsWnpVb1J2QmFRTFpSOE5FenV2dEwzU0pHMGpWM1BxR2plTmdGZXpDZUNUSVQwV2dySTY4TWxURTliSjR5ZkVEdEtPc1kycnhpZW85X2dETnI2SjF3VDdZbG85eDBNNTlWZENSSWYtTExYNWx4dVhsck84NmwycVl2TDFQN0FWNlE2STdlRDFOTUMweDJuYllvOHQ5Mmw0SzJGdHNkZGhSWnB2RmdUM2k2c1Bod0g0cm50NnhDYkNTQ09Ub1NNa1pXaw?oc=5",
+   "data": "2026-10-24T18:48:21+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vasco abre venda de ingressos para jogo contra o Flamengo no Nilton Santos e indica público 90/10",
    "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/24/vasco-abre-venda-de-ingressos-contra-no-flamengo-no-nilton-santos-e-indica-publico-9010-no-classico.ghtml",
    "data": "2026-10-24T18:36:24+00:00",
    "fonte": "ge",
@@ -64,14 +88,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Gabigol relembra a final da Libertadores e diz que tinha certeza de um gol contra o River, mas não da virada em três minutos Gabigol revelou que tinha certeza de um gol do Flamengo na final da Libertadores de 2019, cont…"
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo envia recurso por Rojo e Conmebol não deve deferir. Saiba por quê",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVJsWnpVb1J2QmFRTFpSOE5FenV2dEwzU0pHMGpWM1BxR2plTmdGZXpDZUNUSVQwV2dySTY4TWxURTliSjR5ZkVEdEtPc1kycnhpZW85X2dETnI2SjF3VDdZbG85eDBNNTlWZENSSWYtTExYNWx4dVhsck84NmwycVl2TDFQN0FWNlE2STdlRDFOTUMweDJuYllvOHQ5Mmw0SzJGdHNkZGhSWnB2RmdUM2k2c1Bod0g0cm50NnhDYkNTQ09Ub1NNa1pXaw?oc=5",
-   "data": "2026-10-24T18:05:30+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Milly Lacombe: Diretoria do Flamengo está viciada em passar vergonha",
@@ -120,14 +136,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "É do Flamengo! Rebeca Andrade conquista ouro e alcança marca histórica em Mundiais",
-   "link": "https://colunadofla.com/2026/10/e-do-flamengo-rebeca-andrade-conquista-ouro-e-alcanca-marca-historica-em-mundiais/",
-   "data": "2026-10-24T15:25:48+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rebeca Andrade conquistou o tricampeonato mundial no salto e chegou à décima medalha em Mundiais Rebeca Andrade, atleta do Flamengo, conquistou mais um feito histórico na ginástica artística. Neste sábado (24), em Roter…"
   },
   {
    "titulo": "Flamengo x Atlético-MG ao vivo hoje 26/10: siga placar agora | Brasileirão",
@@ -210,8 +218,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Tem até filho de ídolo: quem são as joias do Flamengo que vão disputar a Messi Cup contra gigantes europeus",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGtHY2tYdlN1RlZVVklXNDVoRWI4dzRhZkVSdGczVGI5T3RqWFJCZDBWa3pGYWVhWTJaT3RvUEcybVlaLUttQ0JrbjVCZUhNbTVFaGYwRHNySERycFJPcFhZR3JKOURrQWpLb2dKQ21YYjQxc3RwMW9mLW9BYzVWS0VKN0tUbXdkSURVSndJZFFHRW55WWJHdzQ2Ul9KbUJNZzVBeW5UZE0zTi1jekhFX0x1cW5IUnFBOC1BX1F0VG1xX0tnWVg3cEZ5anBwWGcwb2xfaGhNeWtXdXV4ZklpUHRlYTcxN2gwRFAwbWZEWjY?oc=5",
+   "titulo": "Quem são as joias do Flamengo que vão disputar a Messi Cup contra gigantes europeus",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZTlDYmhwLXJzakdvYWxUWWZfSnFaME1yVC1GcmRQNC1oMkg5U2E2eXJndjduV1BsYjVTd1lVMWtOR2h1ZEt3blJOQVVJZTJYQ0dWYW5RU3lyVXJVOTVmbTlIRW9hUkpISlJVaF9xTndWaDFodmZad1pxWndCWEIzVGJFTUs2eWRENU1DRm9Ob1ZOMU5rRV81aWswWmZnZzlBd1kwVTJYR0Rvcm9XUVFkZHdZQ2d0VE0xNEJtQUhSRmNYaGVSUEhOU0VoN1B0RE1JYWc?oc=5",
    "data": "2026-10-24T07:00:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
@@ -288,6 +296,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Ancelotti quer ver outras peças na próxima convocação! 👀 Líder do Campeonato Brasileiro, o Flamengo dobrou a quantidade de jogadores na pré-lista da seleção brasileira na última Data Fifa de 2026. Se em setembro os rubr…"
+  },
+  {
+   "titulo": "Flamengo pede à Conmebol para ser declarado vencedor contra o Estudiantes",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDByYzZpY0hMSU1lOVZwQ3cwdHJjMklmSWxXSEJ3WlAzRm1QakFwNDMtOEVVMWhqQkFua2dOcDVMRk5kcjg2dkdkOUpkRmowSkVGYTNlaVpyU3QzTEdpemlqbjhJaFBkZU16aE1fZG92aTY2RnJEc1h2N1IwNXB5T0hYMGxVemJkYXlQdFA0SGlXWFNYQXU5LW5ramRtbFlUamZJelNXUUV0QllGYjJRMWJwSllKZHVRcTFxY3VZQXJxeG5YUlNtLWpWRzgteUtERXZz?oc=5",
+   "data": "2026-10-24T01:22:16+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo vai à Conmebol e protesta contra escalação de Rojo, do Estudiantes, na semifinal; veja detalhes",
@@ -375,7 +391,7 @@
    "data": "2026-10-23T20:24:56+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Eric Faria critica: \"Leonardo Jardim foi mal na semi, Flamengo foi muito incompetente\" O Flamengo se despede da Libertadores sem conseguir marcar gols contra o Estudiantes e com apenas três chutes na direção ao alvo, ne…"
+   "resumo": "Eric Faria critica: \"Leonardo Jardim foi mal na semi, Flamengo foi muito incompetente\" O Flamengo se despede da Libertadores sem conseguir marcar gols contra o Estudiantes e com apenas três chutes na direção certa, nenh…"
   },
   {
    "titulo": "Flamengo: \"Diretoria avaliará Leonardo Jardim, comissão técnica e direção de futebol no fim do ano?",
@@ -642,6 +658,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Mauro Cezar Pereira: Toda arrogância será castigada, Flamengo de BAP e Boto",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEtlY1FWVlhpQmg1Z2trZFRraHVGa0VWWFFfX1cwSERUMV9ZeURUNmxHR3BwZW53X052T3ZzTUxETXFwc0JJRUZEWDVwYWl6Z1c2NWFuUmZmTWw0bV9mTkJpZ2M0Yy1YQUZSOXBZdExIdnYtenlaR0pqYVIzZ242WVJQOE0xaTMtbTV5RlZjNU9lX1dpdUN5c0N5a0haTGdleDhiUGVCSGtjeUxsZ2p5T2t3d1NCSXZLMXAyclVGbGhybE9FTzBFMU1pX1NHdjAz?oc=5",
+   "data": "2026-10-23T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Rodrigo Mattos: Pênalti com toquinho de Paquetá simboliza eliminação ridícula do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOakUxdmF6WFM5eUl0QTV6T0JwRWMtZTdNSGpMaXZhNzVzczd5QkZYNndoaVZTMkRfMTB5NThGMm02anBIN2FqM09Uc0lBVnU5SV9IVW5pN214cG9RcFdPcEVleEQxVGFsWWZlQXVfZWYxNVhVcXpGbWtPcllUX19XR0NRbUtoTHppcVU5M3pPdnFjTEItNi1zRGFZVndCMlFjU2E4S0J3eldtWFU5MjdrQVVCTGYxMHZhX1YyS2VSUTZRM2hsWE5oaVhPZ2REM0tGcnRBVFBqNzFXQ1MwcDljNm1Famw?oc=5",
    "data": "2026-10-23T12:30:00+00:00",
@@ -791,14 +815,6 @@
    "data": "2026-10-23T08:30:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mauro Cezar Pereira: Toda arrogância será castigada, Flamengo de BAP e Boto",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEtlY1FWVlhpQmg1Z2trZFRraHVGa0VWWFFfX1cwSERUMV9ZeURUNmxHR3BwZW53X052T3ZzTUxETXFwc0JJRUZEWDVwYWl6Z1c2NWFuUmZmTWw0bV9mTkJpZ2M0Yy1YQUZSOXBZdExIdnYtenlaR0pqYVIzZ242WVJQOE0xaTMtbTV5RlZjNU9lX1dpdUN5c0N5a0haTGdleDhiUGVCSGtjeUxsZ2p5T2t3d1NCSXZLMXAyclVGbGhybE9FTzBFMU1pX1NHdjAz?oc=5",
-   "data": "2026-10-23T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -1138,14 +1154,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo perde para o Estudiantes nos pênaltis em pleno Maracanã e fica fora da final da Libertadores; VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDQ0g4ZEszZ1ZHanl4ZjBJWWdHQkE5eTJDVnB1SGJqcEx6N3JNM1ZBcUV3OGw2NTFPQmplNllndUNfMmpqa2xXWG85d3pkQVI0SDB1TG5tN1p1elVtOVE?oc=5",
-   "data": "2026-10-23T02:45:31+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Estudiantes elimina o Flamengo e encara o Palmeiras na final da Libertadores",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXdoX3ktd0dNZ1hwS1FXZ1lHLVdhT0ZXbUxLOGY4Z3p3U0NHTTFkUG03VTBFMUtEdWhwWHlPNUdLdXh1NUlYVDdJWTdsZE1iQUFkSmRqRGZNTU1iQ1h1X3RCVkhmMkt6c1QyWmJvWDBHbV8xX2VDUEtndlBONlFUZVoySmpNbldYNWlMUV9DeER1ODY1eFdfNkdGT0JaYnRGb0xSVUNRUThodjR2RlQtWDFleWZsSDMzWDJzRmhCQ1prRHQzdEpB?oc=5",
    "data": "2026-10-23T02:44:00+00:00",
@@ -1223,14 +1231,6 @@
    "data": "2026-10-23T00:53:43+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo 0-0 Estudiantes (22 de out, 2026) Estatísticas dos times",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yUDdBcjIteDdSN0l3V2syM1BNbHd0X05veXBHZm1TYVczSVk2Q0JqZmR3ZmNMUWNWNmZRa0lvSU53UW9jRDVjUDNfb0R1ZUl1ZDRZVGc2akE4NUFwbXdobUtldnI3eU16Wjl4eXo0ZVdQU0tXMXhfb2l3aw?oc=5",
-   "data": "2026-10-23T00:27:07+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   }
  ]
