@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-24T12:11:43.603021+00:00",
+ "atualizadoEm": "2026-10-24T16:12:08.120601+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 52
+   "itens": 51
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 55
+   "itens": 56
   },
   {
    "id": "uol",
@@ -34,9 +34,89 @@
  ],
  "itens": [
   {
+   "titulo": "Flamengo estreia na Messi Cup, neste domingo, com desfalques",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWR0QTFsMU14V0I0Y0xDY0JhakJoM3RCaVlwY2tRd2c2NUJHaUpJbnlyejJqcTU1WW9UTUR4Y2JlWjFVUFJYMms4WTd3V2xNd2NsbHl6UHMzMTZEckw3V3dUR2EzRkZkLS1RS3kwcFRYRGI2ZnEzQnhzSzBSWkV2MEdtTGpHUzBwVDBzczNubnRycWNISzFKbW9KcTlZZw?oc=5",
+   "data": "2026-10-24T16:00:48+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo: CAS marca julgamento do caso Rojo a 16 dias da final da Libertadores",
+   "link": "https://colunadofla.com/2026/10/flamengo-cas-marca-julgamento-do-caso-rojo-a-16-dias-da-final-da-libertadores/",
+   "data": "2026-10-24T15:55:49+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Corte Arbitral do Esporte analisará o caso em 12 de novembro, 16 dias antes da final da Libertadores; Rubro-Negro apresentou reclamação à Conmebol dentro do prazo previsto O Flamengo mantém a contestação contra a partic…"
+  },
+  {
+   "titulo": "Uruguai divulga pré-lista com trios de Flamengo e Palmeiras; veja",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbWVmVi1GdXpfdHItZ0p6RVpUY2dYR2JvRmJTb2FXTFZBb1Q3QjRMQUMtOFFWR1R0aWRuS1NCYUt6RGMyUzE3MFNyRUYyS0dOcVNiMG56U1hvMDJXTTBMTkRyb1BURXFGYm5ySVpCT2FiUlBIMjZkNnczYWd5R1FsMlBxVlF0Uml6Rjk3U1JTeUI3d2hDM2hsbFdzWXRIVTlUS3h0ZTRZSHBSOVJSTmhRaXNLTWhkeE5fc1dnMFJDeGNyWFJ3NExnNmk1WXVYR2RhRkx2VE5fWkFVQXlpYkRJ?oc=5",
+   "data": "2026-10-24T15:44:04+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "É do Flamengo! Rebeca Andrade conquista ouro e alcança marca histórica em Mundiais",
+   "link": "https://colunadofla.com/2026/10/e-do-flamengo-rebeca-andrade-conquista-ouro-e-alcanca-marca-historica-em-mundiais/",
+   "data": "2026-10-24T15:25:48+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rebeca Andrade conquistou o tricampeonato mundial no salto e chegou à décima medalha em Mundiais Rebeca Andrade, atleta do Flamengo, conquistou mais um feito histórico na ginástica artística. Neste sábado (24), em Roter…"
+  },
+  {
+   "titulo": "Milly Lacombe: Diretoria do Flamengo está viciada em passar vergonha",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWo2SUZxMXVFVmI4c0xXWk9ndGNzRGd6Y0t6NDlSaF83LXRia190NXBFVExWeGU5TFRsM0ZtWXpITGEyOFQxdEN3clV0emthYTNMNEFHMHY3Tl9KeXo3QVNWVXZubVdWSXdZdTFERUoxXy1ncERHNFpOX2ZPVHRLN3lGQnZ4bnlnVV9vdU1NX1kwWVJRbEJxcjdhVDZPb21vQU1fWE5CY204ODAyWkVVSklKTG9zQnNlYXZzTUpB?oc=5",
+   "data": "2026-10-24T15:22:22+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo tem aproveitamento superior ao Atlético-MG em 2026; veja números das equipes antes de jogo pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/10/flamengo-tem-aproveitamento-superior-ao-atletico-mg-em-2026-veja-numeros-das-equipes-antes-de-jogo-pelo-brasileirao/",
+   "data": "2026-10-24T15:22:04+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo tem 64,9% de aproveitamento na temporada, contra 53,9% do Atlético-MG O Flamengo enfrenta o Atlético-MG nesta segunda-feira (26), em jogo válido pela 32ª rodada do Campeonato Brasileiro. Pensando nisso, o Colun…"
+  },
+  {
    "titulo": "Flamengo x Atlético-MG ao vivo hoje 26/10: siga placar agora | Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlPY2Nid2JRWVpmcmYwUnV1ZmhvbTdqMk9JbkFfTG9DbHFmUmhvZjl2NTFya0plODZxV3NYQTBCLWVwTjAzZExLdzR4WjVjZzlVY3ZuNTJUYkotSUg3R0dfS2ZmSEFqUHlweE91YjB5cEZHeGZyYWd3Z1ltM2VhNFJYalhOUFViYkVQLU15U0dUbzFuVGc?oc=5",
-   "data": "2026-10-24T12:03:46+00:00",
+   "data": "2026-10-24T15:03:50+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo envia recurso por Rojo e Conmebol não deve deferir. Saiba por quê",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVJsWnpVb1J2QmFRTFpSOE5FenV2dEwzU0pHMGpWM1BxR2plTmdGZXpDZUNUSVQwV2dySTY4TWxURTliSjR5ZkVEdEtPc1kycnhpZW85X2dETnI2SjF3VDdZbG85eDBNNTlWZENSSWYtTExYNWx4dVhsck84NmwycVl2TDFQN0FWNlE2STdlRDFOTUMweDJuYllvOHQ5Mmw0SzJGdHNkZGhSWnB2RmdUM2k2c1Bod0g0cm50NnhDYkNTQ09Ub1NNa1pXaw?oc=5",
+   "data": "2026-10-24T14:50:59+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Eliminação na Libertadores afeta finanças do Flamengo e impede chance de cobrir déficits em 2026",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/24/eliminacao-na-libertadores-afeta-financas-do-flamengo-e-impede-chance-de-cobrir-deficits-em-2026.ghtml",
+   "data": "2026-10-24T14:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo joga mal e é eliminado pelo Estudiantes nos pênaltis Apesar do sonho do penta adiado e da grande frustração esportiva, o Flamengo deixou a Libertadores sem prejuízo financeiro na frieza dos números. Na projeção…"
+  },
+  {
+   "titulo": "Flamengo de olho: Palmeiras enfrenta o Red Bull Bragantino pelo Brasileirão hoje; veja horário e onde assistir",
+   "link": "https://colunadofla.com/2026/10/flamengo-de-olho-palmeiras-enfrenta-o-red-bull-bragantino-pelo-brasileirao-hoje-veja-horario-e-onde-assistir/",
+   "data": "2026-10-24T13:18:17+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Vice-líder busca vitória para assumir provisoriamente a liderança do campeonato; partida acontece neste sábado (24), em Barueri O Palmeiras entra em campo neste sábado (24) para enfrentar o Red Bull Bragantino, pela 32ª…"
+  },
+  {
+   "titulo": "Fla rejeita troca imediata, mas tem data para selar futuro de Jardim e Boto",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORWZyRjdWeU9fOVhEQ1h5UlJ5dmE4TUpVWks3VFg1QjAyUEZmRjdnTG9tTGVPcTdfLTd0eGZkZ2N5ZVVnRTBVV2JXQ3VmSG5UMnQ5c0lEQzBZbmZaWXFSd3dzdml2X2hxTTJrRTVCemlwREhuZDR0TTN3OUVPUzB5dFZ5ZUQ1UkFNV08zUEh3VERkd0V5dGd2bTlrQWt4M2E3NlFCVC1QWXF2SU1haXNoVGxuZVBoWC1qQ3B5ZEpEN3QxY25oUExOTE5tZGVtdFgybDFxY25hemZHdHp2RFZJ?oc=5",
+   "data": "2026-10-24T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -44,10 +124,18 @@
   {
    "titulo": "Danilo Lavieri: Palmeiras começa desafio que só ele terá no continente após queda do Fla",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMHgyU2FoRjl4TnNsTUpLemFrOTBxa1UzZ0ZxaEhFV0tPTGRJV3hSZlV1eEtVa1JOTmRGWDZYTHhGRmg3M2pPUGZ2djlDTVM5a01aaUlGT1YzQ2h5QWdTUUZKTTlsUks3MVBXWHNrV0Q2MllJWDZpcE1yOWo5a25GcE1MM0lrZ19HVVk2WS02cGhjRERwSzkwM2dKU0g4bHljWHZIZWhtaXB1OUp1OHJFWXlvV1AyelJvOEZHakpXUGJyakFsUjlUdVJQRThCTXZta1FlNEhlSHU?oc=5",
-   "data": "2026-10-24T11:31:00+00:00",
+   "data": "2026-10-24T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
+  },
+  {
+   "titulo": "Flamengo realiza 1° treino neste sábado antes de jogo contra Atlético-MG",
+   "link": "https://colunadofla.com/2026/10/flamengo-realiza-1-treino-neste-sabado-antes-de-jogo-contra-atletico-mg/",
+   "data": "2026-10-24T11:46:09+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Time rubro-negro recebeu folga nessa sexta-feira (23) após eliminação na Libertadores Após a eliminação para o Estudiantes (ARG) na semifinal da Libertadores, o Flamengo volta as atenções exclusivamente para o Campeonat…"
   },
   {
    "titulo": "Flamengo nos pênaltis: números revelam drama do clube",
@@ -64,14 +152,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Em 2018, Conmebol ‘transformou’ empate do Santos em derrota por 3 a 0 após escalação irregular de meio campista uruguaio A classificação do Estudiantes (ARG) à final da Libertadores ainda é alvo de contestação do Flamen…"
-  },
-  {
-   "titulo": "Fla rejeita troca imediata, mas tem data para selar futuro de Jardim e Boto",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORWZyRjdWeU9fOVhEQ1h5UlJ5dmE4TUpVWks3VFg1QjAyUEZmRjdnTG9tTGVPcTdfLTd0eGZkZ2N5ZVVnRTBVV2JXQ3VmSG5UMnQ5c0lEQzBZbmZaWXFSd3dzdml2X2hxTTJrRTVCemlwREhuZDR0TTN3OUVPUzB5dFZ5ZUQ1UkFNV08zUEh3VERkd0V5dGd2bTlrQWt4M2E3NlFCVC1QWXF2SU1haXNoVGxuZVBoWC1qQ3B5ZEpEN3QxY25oUExOTE5tZGVtdFgybDFxY25hemZHdHp2RFZJ?oc=5",
-   "data": "2026-10-24T09:53:38+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Flamengo x Cornellà: onde assistir ao vivo e horário do jogo da Messi Cup",
@@ -138,14 +218,6 @@
    "resumo": "Fred Gomes vê eliminação justa do Flamengo na Libertadores e cita erros de Jardim O Flamengo conta com um precedente da Conmebol em sua tentativa de mudar nos tribunais a classificação para a final da Libertadores, por…"
   },
   {
-   "titulo": "“Eu senti que a gente não foi o Flamengo”, diz Emerson Royal sobre eliminação na Libertadores",
-   "link": "https://colunadofla.com/2026/10/eu-senti-que-a-gente-nao-foi-o-flamengo-diz-emerson-royal-sobre-eliminacao-na-libertadores/",
-   "data": "2026-10-24T02:58:02+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Lateral citou a dor da torcida após o 0 a 0 no Maracanã e a derrota por 3 a 2 nos pênaltis na semifinal da Libertadores Titular na lateral direita, Emerson Royal fez uma autocrítica dura após a eliminação do Flamengo na…"
-  },
-  {
    "titulo": "A SEMANA CATASTRÓFICA DE FLAMENGO, FLUMINENSE E VASCO NA LIBERTADORES E SULA!",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkJXdGlxMGhsU3l4TThFc1RyYnRDZHBVVFd4YVpJVjItZ0FORTd3LXB0cTBPNkVCMlhLWkNvYlNVdDlZU3FuWTUybnlPdldFM0RUeFAzNFdfclNBV1NkQnQ2VFN3NUJYV2NGSEJuRDJ3T01VTHE4WTVyYmpSWUF0R0pJeEpTYVNBcDVWWVRtWkNXcmRqRkdhXzdEczd1YUtzVkF1REtHcTRVYXc?oc=5",
    "data": "2026-10-24T02:30:43+00:00",
@@ -186,14 +258,6 @@
    "resumo": "O Flamengo começou sua campanha na Liga Sul-Americana de Basquete 2026 com uma vitória expressiva. Na noite desta sexta-feira (23), no Maracanãzinho, no Rio de Janeiro, a equipe carioca superou o Paisas, da Colômbia, po…"
   },
   {
-   "titulo": "Atacante do Chelsea diz que não esperava tanta dificuldade contra o Flamengo no Mundial",
-   "link": "https://colunadofla.com/2026/10/atacante-do-chelsea-diz-que-nao-esperava-tanta-dificuldade-contra-o-flamengo-no-mundial/",
-   "data": "2026-10-24T01:30:42+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Em entrevista à ESPN, atacante João Pedro contou que assistiu ao jogo antes de assinar O atacante João Pedro, do Chelsea (ING), revelou que o elenco inglês reconheceu a força do Flamengo no Mundial de Clubes. Essa perce…"
-  },
-  {
    "titulo": "Flamengo tem quatro nomes na pré-lista da Seleção; CBF avalia poupar jogadores do Brasileirão",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/23/flamengo-tem-quatro-nomes-na-pre-lista-da-selecao-cbf-avalia-poupar-jogadores-do-brasileirao.ghtml",
    "data": "2026-10-24T01:25:05+00:00",
@@ -232,14 +296,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Léo Pereira rebate tese após queda do Flamengo e cita trabalhador que acorda às 6h",
-   "link": "https://colunadofla.com/2026/10/leo-pereira-rebate-tese-apos-queda-do-flamengo-e-cita-trabalhador-que-acorda-as-6h/",
-   "data": "2026-10-24T00:10:19+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Após a queda para o Estudiantes (ARG), zagueiro disse que representar o Flamengo é uma responsabilidade bonita O zagueiro Léo Pereira tirou o peso da palavra pressão ao comentar a eliminação do Flamengo na Libertadores.…"
   },
   {
    "titulo": "Flamengo recorre da escalação de Rojo, do Estudiantes, e tenta mudar classificação na Libertadores; entenda",
@@ -378,14 +434,6 @@
    "resumo": "Nos pênaltis, Flamengo é eliminado da Libertadores pelo Estudiantes Um dos ídolos e ícones da geração vitoriosa do Flamengo de 2019, Bruno Henrique se manifestou nesta sexta-feira nas redes sociais, horas depois da elim…"
   },
   {
-   "titulo": "Jornalista aponta 3 erros de Jardim que contribuíram para eliminação do Flamengo na Libertadores",
-   "link": "https://colunadofla.com/2026/10/jornalista-aponta-3-erros-de-jardim-que-contribuiram-para-eliminacao-do-flamengo-na-libertadores/",
-   "data": "2026-10-23T17:50:51+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Simon Lédo, do Coluna do Fla, critica substituições do treinador, questiona insistência em Emerson Royal e Lucas Paquetá e cobra pressão da torcida A eliminação do Flamengo na semifinal da Libertadores aumentou a pressã…"
-  },
-  {
    "titulo": "Alicia Klein: Quem deveria pagar a conta pela eliminação do Flamengo na Libertadores?",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSlF1QlVqUlFTVEE2LTBGZmZ0QkowdDdsdkxCbmUtZW04S3JiZkNDX0J3NlU3d1VWMW1SMmFwZjhEMzNkV1pVZi10a0FGRmpYVWtaUWt0V3NrakNvSVV6YjdUYzJRTmJuVzgxbW1VNjJEQ0t6MnZyQ0VMMk1USU1QTFNoTlV5NUdZZk9MS181TzVGX0h2djR1dFY2aklVNk15QUhvN3U2a3pYUXRUYzJmTk0zZDY5WHhoQjNxOW5FbHdZSFU1LS1USUE4Y2FKZmpNcXdV?oc=5",
    "data": "2026-10-23T17:49:14+00:00",
@@ -400,14 +448,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Eliminação na Libertadores provoca cancelamentos de ingressos para Flamengo x Atlético-MG",
-   "link": "https://colunadofla.com/2026/10/eliminacao-na-libertadores-provoca-cancelamentos-de-ingressos-para-flamengo-x-atletico-mg/",
-   "data": "2026-10-23T17:13:40+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro enfrenta o time mineiro na segunda-feira, no Maracanã, e segue na disputa pela liderança do Brasileirão A eliminação do Flamengo na semifinal da Libertadores já reflete na procura por ingressos para o próxim…"
   },
   {
    "titulo": "Após eliminação do Flamengo, Verón, presidente do Estudiantes, exalta Muslera e critica futebol argentino: 'Precisamos de organização'",
@@ -578,14 +618,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo abandona modo copeiro e baque da queda vira alerta para Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWUR1cXRudFRYUHpIWTNxWHZpQWZaYU1hVUE4Vnd3a0Q4ZkRwSmZfbTN5cTFUT2x0bHZiM2VhcllFN1FDZVBGN1k4TTMyeXdzd0VMcEZiMGNLVGQtMVpvT0pKWGg2QktqaEl1R0lFa0JnRHJLaW1LUE1Hb2RMaEVIR20tUTdRUTAtWEdpeXJyTjEtbUVBcGFfcklFUmZQY0laemNhYl8wX2lCSU8zdlNQZnl6SzVHOThmeXgtUUFlNm9BSjIzUzVsYTRIOXpuak5rYWJUTnJPSG5KYk9UUFFZcQ?oc=5",
-   "data": "2026-10-23T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Rodrigo Mattos: Pênalti com toquinho de Paquetá simboliza eliminação ridícula do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOakUxdmF6WFM5eUl0QTV6T0JwRWMtZTdNSGpMaXZhNzVzczd5QkZYNndoaVZTMkRfMTB5NThGMm02anBIN2FqM09Uc0lBVnU5SV9IVW5pN214cG9RcFdPcEVleEQxVGFsWWZlQXVfZWYxNVhVcXpGbWtPcllUX19XR0NRbUtoTHppcVU5M3pPdnFjTEItNi1zRGFZVndCMlFjU2E4S0J3eldtWFU5MjdrQVVCTGYxMHZhX1YyS2VSUTZRM2hsWE5oaVhPZ2REM0tGcnRBVFBqNzFXQ1MwcDljNm1Famw?oc=5",
    "data": "2026-10-23T12:30:00+00:00",
@@ -596,6 +628,14 @@
   {
    "titulo": "Mauro Cezar Pereira: Toda arrogância será castigada, Flamengo de BAP e Boto",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEtlY1FWVlhpQmg1Z2trZFRraHVGa0VWWFFfX1cwSERUMV9ZeURUNmxHR3BwZW53X052T3ZzTUxETXFwc0JJRUZEWDVwYWl6Z1c2NWFuUmZmTWw0bV9mTkJpZ2M0Yy1YQUZSOXBZdExIdnYtenlaR0pqYVIzZ242WVJQOE0xaTMtbTV5RlZjNU9lX1dpdUN5c0N5a0haTGdleDhiUGVCSGtjeUxsZ2p5T2t3d1NCSXZLMXAyclVGbGhybE9FTzBFMU1pX1NHdjAz?oc=5",
+   "data": "2026-10-23T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo abandona modo copeiro e baque da queda vira alerta para Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWUR1cXRudFRYUHpIWTNxWHZpQWZaYU1hVUE4Vnd3a0Q4ZkRwSmZfbTN5cTFUT2x0bHZiM2VhcllFN1FDZVBGN1k4TTMyeXdzd0VMcEZiMGNLVGQtMVpvT0pKWGg2QktqaEl1R0lFa0JnRHJLaW1LUE1Hb2RMaEVIR20tUTdRUTAtWEdpeXJyTjEtbUVBcGFfcklFUmZQY0laemNhYl8wX2lCSU8zdlNQZnl6SzVHOThmeXgtUUFlNm9BSjIzUzVsYTRIOXpuak5rYWJUTnJPSG5KYk9UUFFZcQ?oc=5",
    "data": "2026-10-23T12:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -639,14 +679,6 @@
    "data": "2026-10-23T12:09:37+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Deyverson posta foto com camisa do Andreas, do Palmeiras, após eliminação do Flamengo na Liberta",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FNGo5eHpnLW1WbU9NY21jRkM5NTRIT2c4OVRxWV92WjJ0MzE0TmxPbVQwVmJyT21fLV9fSFdzX3Bwb3p3d1gtLVdhcGFrZ0tNMzh4MDJ2S0FuV1N6UG83dFp3akJyQnc?oc=5",
-   "data": "2026-10-23T12:07:58+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -954,6 +986,14 @@
    "resumo": "Flamengo 0 (2) x (3) 0 Estudiantes | melhores momentos | semifinal | CONMEBOL Libertadores O uruguaio Alexander Cacique Medina, técnico do Estudiantes de La Plata, celebrou a classificação para a final da Copa Libertado…"
   },
   {
+   "titulo": "Pênalti de Jorginho em Flamengo x Estudiantes repercute: 'Eu sabia'",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzl3VExfOExTaXRxdGptdVh5Sl9mT3ZaWXhJTEhjUlg0R0ozNV9yMEEwQlZBX0Q3MC1HTms4RGhKb0ZrNGhDNnRSR2RzeEdZcm9PSnVzYVB0OEV4ZjkwTjEwd2tjTU45WDB2dFk4ekl6V3FwempRaHN0UWVtWW8zWVJPekVpelBaZEFaZVdhVzhxb1F3bERBbTc0aktNM21sSDFrT3Bwb3lvRWhu?oc=5",
+   "data": "2026-10-23T03:42:32+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Jardim é direto e forte ao analisar pênaltis perdidos pelo Flamengo",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRDNZUDBkU2Y2MU1id0MwWmhJcU1OTU9NaXlxZVRCYzlMTHB2SFNFOGZUMnJwNGExUkR6ZDlJWFM5OHJmQTVjZG05aVpZeVVJY0Z4bnhTdEhTWFNzVWR2Q2toLTU3Ql9lV1hXeEppcy0xYmI1V29mTXpMbkw1SHM5eTZjSXJleW9pVHVBTFdWd01TRVctc2JmMEUwemhfSy1mdkZSTUtieXVoRFNPdG1NNFBqYk0yUkVvU0czTDFtcDlzbnRyZFFv?oc=5",
    "data": "2026-10-23T03:41:38+00:00",
@@ -994,11 +1034,27 @@
    "resumo": "Jardim diz que eliminação é \"grande frustração\" no Flamengo e explica substituições O Flamengo perdeu a chance de chegar à final da Libertadores ao ser eliminado pelo Estudiantes, em disputa de pênaltis, nesta quinta-fe…"
   },
   {
+   "titulo": "Atuação de Muslera contra o Flamengo na Libertadores viraliza: 'Inacreditável'",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ081SzBXaXBFLVJ5eTZDV2hhYlQ5U010XzEtekFPQnVkVFEwaXA1Tzk4SkQwMUJGZ0FoR0lYUE41R19jWDRGcTVvbVZ6NHpNbEVLT2g1WkZ1TG52VF9Jc3lzdDFobU1zVjJXU3ROUWgzRWNOVi1pYjdvakRFTi1NdnJHV25CWURldFl3QUNsdHRwVS04YkdCdnBKQnhEMkZXdjgxYzg5UEhObmhPYTN1SlQ1eC1aWXNVdFE?oc=5",
+   "data": "2026-10-23T03:26:56+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Assista à disputa de pênaltis que eliminou o Flamengo da Libertadores",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHNENmtYbnNTUG1BOHF6Y0NvMWFOVXFfTU9hQ09YZ1V4Q1VBRk1kUC02NmZwWlhic2hZT1ZGeEQzX1d5bEdHaDVPWk94b1BXM2wtUk9NRGtpbmhXRlJmTnkwNXhqRDNic2loVWNoMVVLUktDM2JfLUUwWmdkSFdCdUNENjhxb1VsNkVkN0FlbmYySVY4MGZfRWtOcDh6STRkTUxEbk4yM2IwWWdHTnFFMnh3?oc=5",
    "data": "2026-10-23T03:14:20+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Lucas Paquetá vira assunto após eliminação do Flamengo: 'Não existe'",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHpHa0ZiR0JKTTNqZU92WGRDeHVDN3pwd2NzcWdJZEc4aEZ6VDJ4NDlxelVEdmRqYjZFREFNNTdRR1pUd2lUa0h0NDhESXhqd3FxdGxWeWpOdl9KaWVMWE9Sd2FuRU9NbXFRLXVOa2ZBTWtiZmFUN1BwbmhxeGRuZVZkd1RVUUR1anR4dUZCRHg2bVdXY1cwT2ZZZENnaDNTSEJCWGNGMVUyVno2?oc=5",
+   "data": "2026-10-23T03:09:35+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -1154,6 +1210,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Flamengo x Estudiantes: onde assistir ao vivo e escalações do jogo da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeVZQZTBrUWFwLXl0LURicUJqWkNvY2IxeXRXSGVHMHJrdEd4a0NHNk1ncVRMdEx5MXBsYnFpcmlUUXpFaldiZmgwaXJHaFplSDZ1aEZtZGRzaTVWOWZJdEQ5MFluRGo5YnF0STBZRkhsZEJMRHNwZ2JhdGtiZFZQRXdhU3Q2eWFpNkpWVThKWUQ3dkdYVFpoaWwtdGhUVkoxUF9NM01xRE9wYzRteERhLVo1MmI0d0NGaGwtaVpRNzU4eHBUS0E1N000SHpQSlFjWjY4?oc=5",
+   "data": "2026-10-23T00:17:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo bate o Fluminense e avança às semifinais da Copa do Brasil Feminina",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHozNndtVzdHR2t5LTVNTkFoMjdXYmJNNi1tVXBNUEtlaE1ZeDJuQ05yakhaYnp1N2w4Y2Y1Y083TTN2dEZKaGI2X2k1c2RXSkg2U1JVVDgtU2c2RDNuZ3d1eG95MzREWVd3czlOeG1SbTVOY052UzE4Y1RfZWFnMHNVTmU1MGtEcDdzY1poVzNvMVMzTjdZTW1Ja2EwTmNKUXBzdl9OZWE1UGJDSDI5ZEdFU09KVUpTMzNDcGpuNlI?oc=5",
    "data": "2026-10-23T00:01:30+00:00",
@@ -1165,70 +1229,6 @@
    "titulo": "Decisão de Leonardo Jardim na escalação do Flamengo repercute: 'Isso mostra'",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHNtRFJuVkszNVJXQnVTc2VhdVdONk02YWZaRU1wZDloT3VsaFRxa3d6OUJHMnRvTHY4LWxVcHQtekhzaS1nSHZ2SUlhM3FBZW9FQ3RObkwyZXlHSHk4RDgzYzNta3BlcUNKdDR3amUzU1Qwd2p2bzJ3QzMtVkpFMHhjdjVJSl9nNFk1aUhXNGk5Rko4c3ExU0ZHcTlseDRrZGNfR3pmNVE4ZjFkWVpwNkVJNnU2NFct?oc=5",
    "data": "2026-10-22T23:35:48+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Juca Kfouri: Que o Flamengo não repita o Vasco",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFVqbFZwRVFjbEdmcEwtekQyTi1LNGtfMF9CMmtaR0VvWTNtSWJvVXYtNXZhLURUTjdla0tKa0gzMHpwMFFwQnBHcmlBZjNNU3djRWtYUjI2M2lQRERiTWJfbjAtX0t1eXlwQTRQS0Z4cDUyNjJsOW42VGxUS0oxNl9lNFBSd0w5bi1PM3RCVXkxdkV6NW84T2gtMURFM1Y0anVYLVdxenFkSkk?oc=5",
-   "data": "2026-10-22T23:31:39+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Estudiantes: onde assistir ao vivo e escalações do jogo da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeVZQZTBrUWFwLXl0LURicUJqWkNvY2IxeXRXSGVHMHJrdEd4a0NHNk1ncVRMdEx5MXBsYnFpcmlUUXpFaldiZmgwaXJHaFplSDZ1aEZtZGRzaTVWOWZJdEQ5MFluRGo5YnF0STBZRkhsZEJMRHNwZ2JhdGtiZFZQRXdhU3Q2eWFpNkpWVThKWUQ3dkdYVFpoaWwtdGhUVkoxUF9NM01xRE9wYzRteERhLVo1MmI0d0NGaGwtaVpRNzU4eHBUS0E1N000SHpQSlFjWjY4?oc=5",
-   "data": "2026-10-22T23:20:34+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Fla tem Arrascaeta no banco e Pedro titular contra Estudiantes; veja times",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHFWanZrejEwOGthSGFaV0Iyc1MxcF80Z3UwZTNPdlhIWGdkcjBndmxmcE1oZVlSR19tbmd1SWlTR29fbE1ubUI4SmxKejNHZHJ4cnE4RjFqdnNMdXJGbHBxMWN6YjlhMFVnRFh5RHk4R1MwTDNRNlNhZWhEVXVwZFBaNW1QSGlTclFQWW1SUmhnWE95aG41dldYZ296UkhkSnhrTDFmaw?oc=5",
-   "data": "2026-10-22T23:12:30+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo tem novidade na escalação para pegar o Estudiantes",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnZWTEstZlFweUNMT2I3b21IX2t3RjJQeWFmME10LXJjeDhUSFQ4cVY2T1lpaXNEdDR2bWZMQmpPWDlibzJuY1ZaZ3pJd2RZUVpfVHhpUkJpbnByVllfOUt6WUo2OGFzXzBpMkxPOW5fQzhuY2hDNHJ4OUZhY1NJR0pTYW5NWUhMLUdjQjRYaVFIUWF6R0FETWdiT2JHMHVhTEVpZWYwUWRtWFpyYU5xTjdGVE0?oc=5",
-   "data": "2026-10-22T23:08:33+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flamengo, Mateusão marca na prorrogação e classifica Shabab Al Ahli",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGhOWkZmYko4akhVRTJnellaN0tkZERSY1NaMkI2VGYwbEpKLUtrRDdMcWNUMXF5VzJjQjd4ZmpiZFJqcDNXSVlWbXEwaEZ1S25YZnVnTXFDMTZHV0dKQ1BEWWNsTHJmb2o4U2czZHFOQ1VBVTdRSE5QYWlibWN1UzUteEw4Q3RCN2dpQ0p3Z2F1SGU4NWpTTmRPX01EcmJ0V3RjOTNVYzI2TXoybkdnUk0zR3VyemVSVEFEMHBn?oc=5",
-   "data": "2026-10-22T23:04:37+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Escalação do Flamengo: Pedro e Paquetá serão titulares; Arrascaeta é relacionado e começa no banco",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/22/escalacao-do-flamengo-pedro-vai-ser-titular-arrascaeta-e-relacionado-e-comeca-no-banco.ghtml",
-   "data": "2026-10-22T23:01:28+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo é muito favorito! 🔴⚫ O Flamengo está escalado para o jogo de volta da semifinal da Conmebol Libertadores, contra o Estudiantes, nesta quinta-feira, às 21h30 (de Brasília), no Maracanã. Pedro e Paquetá serão tit…"
-  },
-  {
-   "titulo": "Transmissão ao vivo de Flamengo x Estudiantes pela Libertadores: veja onde assistir",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSVFHb2g4WkxaLWxUU3FHS3dfaWlnczc3VVB0SGtZeEtTOGxCWXZFZU5RcFBXcjFZclZNb1BYN3dlS3VQSng3bUo1cFl2VnpUVkRsYTVsY1R5LTZTaGJxMDNRSmpodk9TV2N4N1V5ZzN6UUxZXy03OUdDTHljdTFsb09tZ3NWS1c4MWg5YjJ2QXRzdllLUEppZVBjdkVsNnoxVkw5X2tGU05HVlNEZjhwWHlzSTdpZlR2YUh2c3kyR2RUZ2t0UmdBaF9vMG9ZeU9xSXlFV3JtbDF3LXBpLWRV?oc=5",
-   "data": "2026-10-22T23:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Como assistir Flamengo x Estudiantes na Libertadores pelo Disney+?",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUM2WEZ3bzY1bVdZbnZ2eFZmZXRQWmVxSjJMQTdWQTBXcEF0RDdWdlE0VmN4aHRrN0JIUGZRU0g3dUN5OGRBSUlhU0tmd3VPMnQ0WmEwYzd5Wk5ORHdLTlk3SEhkTTk2Yi1ReWd5eUdidkdzeTcyZW1sSldjM0xVN3hiMzNIZ3pZaWlYcU0wS0pOVkg4Y3FYc1hiR2RSNTJmeFFEaEZR?oc=5",
-   "data": "2026-10-22T22:50:55+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
