@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-24T16:12:08.120601+00:00",
+ "atualizadoEm": "2026-10-24T18:57:25.043777+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 51
+   "itens": 53
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,80 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 56
+   "itens": 57
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 87
+   "itens": 88
   }
  ],
  "itens": [
+  {
+   "titulo": "Vasco abre venda de ingressos contra no Flamengo no Nilton Santos e indica público 90/10 no clássico",
+   "link": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/24/vasco-abre-venda-de-ingressos-contra-no-flamengo-no-nilton-santos-e-indica-publico-9010-no-classico.ghtml",
+   "data": "2026-10-24T18:36:24+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Voz do Setorista: Sergio Santana detalha como foi a aprovação da venda da SAF do Vasco O Vasco anunciou que as vendas para o confronto contra o Flamengo, na próxima quinta-feira, em partida da 33ª rodada do Campeonato B…"
+  },
+  {
+   "titulo": "Flamengo x Atlético-MG: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPazdacEV6eko3azNtTFpPWVdSREp6aElFSEw3WTl6czNielo5SDNmX0QzUVZvNjBjbU9CMU1MMnRPVEIxN2gxWUo0OHF4a0RycW81Y3Y2S1huU0Jlc1RzMVA5b3plMkhtZm94d2M2N1RULU1wdV9saTB6dWcxMTFtdS04dFVUclBIc2FwLVp2cGtnZDVtV2Y2ZXEzbGVsOXJUeTVsSUhYVnRycldRSExhZVl0RlFzSHhXX292TWE2aDZsbDBGUEZndU1jTVBPWUpBVGlQWjNmZlJRNjJuazJIOWZXNE5ZZHV0TkxDdVBsZWR1WVpNU2NEZQ?oc=5",
+   "data": "2026-10-24T18:32:27+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vasco foge do Maracanã e dá só 10% dos ingressos ao Flamengo",
+   "link": "https://colunadofla.com/2026/10/vasco-x-flamengo-ingressos-nilton-santos/",
+   "data": "2026-10-24T18:23:59+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Vasco x Flamengo: ingressos à venda com 90% para o mandante no Nilton Santos, após o Fla dividir a carga meio a meio no Maracanã O Vasco iniciou neste sábado (24) a venda de ingressos para o clássico contra o Flamengo,…"
+  },
+  {
+   "titulo": "“Nunca mais vai acontecer”: Gabigol revive a virada sobre o River",
+   "link": "https://colunadofla.com/2026/10/gabigol-final-libertadores-river/",
+   "data": "2026-10-24T18:16:16+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Gabigol relembra a final da Libertadores e diz que tinha certeza de um gol contra o River, mas não da virada em três minutos Gabigol revelou que tinha certeza de um gol do Flamengo na final da Libertadores de 2019, cont…"
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo envia recurso por Rojo e Conmebol não deve deferir. Saiba por quê",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVJsWnpVb1J2QmFRTFpSOE5FenV2dEwzU0pHMGpWM1BxR2plTmdGZXpDZUNUSVQwV2dySTY4TWxURTliSjR5ZkVEdEtPc1kycnhpZW85X2dETnI2SjF3VDdZbG85eDBNNTlWZENSSWYtTExYNWx4dVhsck84NmwycVl2TDFQN0FWNlE2STdlRDFOTUMweDJuYllvOHQ5Mmw0SzJGdHNkZGhSWnB2RmdUM2k2c1Bod0g0cm50NnhDYkNTQ09Ub1NNa1pXaw?oc=5",
+   "data": "2026-10-24T18:05:30+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Milly Lacombe: Diretoria do Flamengo está viciada em passar vergonha",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWo2SUZxMXVFVmI4c0xXWk9ndGNzRGd6Y0t6NDlSaF83LXRia190NXBFVExWeGU5TFRsM0ZtWXpITGEyOFQxdEN3clV0emthYTNMNEFHMHY3Tl9KeXo3QVNWVXZubVdWSXdZdTFERUoxXy1ncERHNFpOX2ZPVHRLN3lGQnZ4bnlnVV9vdU1NX1kwWVJRbEJxcjdhVDZPb21vQU1fWE5CY204ODAyWkVVSklKTG9zQnNlYXZzTUpB?oc=5",
+   "data": "2026-10-24T17:50:23+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogos do Brasileirão hoje: Palmeiras x Red Bull Bragantino, Vasco x Corinthians e outras 5 partidas acontecem neste sábado",
+   "link": "https://colunadofla.com/2026/10/jogos-do-brasileirao-hoje-palmeiras-x-red-bull-bragantino-vasco-x-corinthians-e-outras-5-partidas-acontecem-neste-sabado/",
+   "data": "2026-10-24T17:14:50+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Vice-líder está a um ponto do Flamengo e pode assumir provisoriamente a liderança; sete jogos movimentam a 32ª rodada neste sábado (24) O Campeonato Brasileiro segue neste sábado (24), com sete partidas pela 32ª rodada.…"
+  },
+  {
+   "titulo": "Uruguai divulga pré-lista com trios de Flamengo e Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ3lyaFg1ZzI5RmdBN0hkYnNFWjBqTDJDNktPejEzSHMxZW1JVkNmMDFydXNyc2Q5eEk4LWtwNWtPS3VVX1pzcWd2dlMtLW14ZVNOZWlldE9rYnJWSWg1bnFNbkNJMldLOXZ6SmFaVWZpVkFNZ3FhRHJPSlZHZkNVcG1qbE00Tk1qanRHcmYwQ2Zkc3BiUU5zaEszZzNUSURicWpUNDR3bUJ5U240Y05fRQ?oc=5",
+   "data": "2026-10-24T16:46:08+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Flamengo estreia na Messi Cup, neste domingo, com desfalques",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWR0QTFsMU14V0I0Y0xDY0JhakJoM3RCaVlwY2tRd2c2NUJHaUpJbnlyejJqcTU1WW9UTUR4Y2JlWjFVUFJYMms4WTd3V2xNd2NsbHl6UHMzMTZEckw3V3dUR2EzRkZkLS1RS3kwcFRYRGI2ZnEzQnhzSzBSWkV2MEdtTGpHUzBwVDBzczNubnRycWNISzFKbW9KcTlZZw?oc=5",
@@ -66,33 +130,9 @@
    "resumo": "Rebeca Andrade conquistou o tricampeonato mundial no salto e chegou à décima medalha em Mundiais Rebeca Andrade, atleta do Flamengo, conquistou mais um feito histórico na ginástica artística. Neste sábado (24), em Roter…"
   },
   {
-   "titulo": "Milly Lacombe: Diretoria do Flamengo está viciada em passar vergonha",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWo2SUZxMXVFVmI4c0xXWk9ndGNzRGd6Y0t6NDlSaF83LXRia190NXBFVExWeGU5TFRsM0ZtWXpITGEyOFQxdEN3clV0emthYTNMNEFHMHY3Tl9KeXo3QVNWVXZubVdWSXdZdTFERUoxXy1ncERHNFpOX2ZPVHRLN3lGQnZ4bnlnVV9vdU1NX1kwWVJRbEJxcjdhVDZPb21vQU1fWE5CY204ODAyWkVVSklKTG9zQnNlYXZzTUpB?oc=5",
-   "data": "2026-10-24T15:22:22+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo tem aproveitamento superior ao Atlético-MG em 2026; veja números das equipes antes de jogo pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/10/flamengo-tem-aproveitamento-superior-ao-atletico-mg-em-2026-veja-numeros-das-equipes-antes-de-jogo-pelo-brasileirao/",
-   "data": "2026-10-24T15:22:04+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo tem 64,9% de aproveitamento na temporada, contra 53,9% do Atlético-MG O Flamengo enfrenta o Atlético-MG nesta segunda-feira (26), em jogo válido pela 32ª rodada do Campeonato Brasileiro. Pensando nisso, o Colun…"
-  },
-  {
    "titulo": "Flamengo x Atlético-MG ao vivo hoje 26/10: siga placar agora | Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlPY2Nid2JRWVpmcmYwUnV1ZmhvbTdqMk9JbkFfTG9DbHFmUmhvZjl2NTFya0plODZxV3NYQTBCLWVwTjAzZExLdzR4WjVjZzlVY3ZuNTJUYkotSUg3R0dfS2ZmSEFqUHlweE91YjB5cEZHeGZyYWd3Z1ltM2VhNFJYalhOUFViYkVQLU15U0dUbzFuVGc?oc=5",
    "data": "2026-10-24T15:03:50+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo envia recurso por Rojo e Conmebol não deve deferir. Saiba por quê",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVJsWnpVb1J2QmFRTFpSOE5FenV2dEwzU0pHMGpWM1BxR2plTmdGZXpDZUNUSVQwV2dySTY4TWxURTliSjR5ZkVEdEtPc1kycnhpZW85X2dETnI2SjF3VDdZbG85eDBNNTlWZENSSWYtTExYNWx4dVhsck84NmwycVl2TDFQN0FWNlE2STdlRDFOTUMweDJuYllvOHQ5Mmw0SzJGdHNkZGhSWnB2RmdUM2k2c1Bod0g0cm50NnhDYkNTQ09Ub1NNa1pXaw?oc=5",
-   "data": "2026-10-24T14:50:59+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -104,14 +144,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo joga mal e é eliminado pelo Estudiantes nos pênaltis Apesar do sonho do penta adiado e da grande frustração esportiva, o Flamengo deixou a Libertadores sem prejuízo financeiro na frieza dos números. Na projeção…"
-  },
-  {
-   "titulo": "Flamengo de olho: Palmeiras enfrenta o Red Bull Bragantino pelo Brasileirão hoje; veja horário e onde assistir",
-   "link": "https://colunadofla.com/2026/10/flamengo-de-olho-palmeiras-enfrenta-o-red-bull-bragantino-pelo-brasileirao-hoje-veja-horario-e-onde-assistir/",
-   "data": "2026-10-24T13:18:17+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Vice-líder busca vitória para assumir provisoriamente a liderança do campeonato; partida acontece neste sábado (24), em Barueri O Palmeiras entra em campo neste sábado (24) para enfrentar o Red Bull Bragantino, pela 32ª…"
   },
   {
    "titulo": "Fla rejeita troca imediata, mas tem data para selar futuro de Jardim e Boto",
@@ -156,7 +188,7 @@
   {
    "titulo": "Flamengo x Cornellà: onde assistir ao vivo e horário do jogo da Messi Cup",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUgyRDg5S19YYUx5ZWt5UDA4NDlWX0c3OXh6NkxtQzczcERRcDM0d3ZLOGVGNGdTRzVQTTJWa0xMVjB4aWg2R0o1WVhaZDJ6a0RLbHFoSTVIZ01yNll2VjhCUmJpckxJODlpTnk2MVg3YUhzd1pNUVFwd2xqbm80cjA5MnJmX1NnQjNFMFdyek9lS1FPYjQ5YkVjTlQxX0Z1U1hsN2VVRVh1WmNEcHl6aURjVmZPUQ?oc=5",
-   "data": "2026-10-24T08:15:37+00:00",
+   "data": "2026-10-24T09:00:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -242,14 +274,6 @@
    "resumo": "Reunião também vai deliberar sobre um novo Manual de Propaganda nos Uniformes O Conselho Deliberativo do Flamengo convocou reunião para terça-feira, 3 de novembro, às 18h30, para votar um novo contrato de patrocínio com…"
   },
   {
-   "titulo": "Com Royal, Flamengo tem 4 nomes na pré-lista do Brasil para a Data FIFA de novembro",
-   "link": "https://colunadofla.com/2026/10/com-royal-flamengo-tem-4-nomes-na-pre-lista-do-brasil-para-a-data-fifa-de-novembro/",
-   "data": "2026-10-24T01:57:23+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "CBF enviou a relação à Fifa nesta sexta-feira, mas pedido de clubes do Brasileirão ainda pode mudar a convocação de novembro O Flamengo tem quatro jogadores na pré-lista da Seleção Brasileira para a última Data Fifa de…"
-  },
-  {
    "titulo": "Flamengo atropela Paisas (COL) na estreia da Liga Sul-Americana de basquete",
    "link": "https://ge.globo.com/basquete/noticia/2026/10/23/flamengo-atropela-paisas-col-na-estreia-da-liga-sul-americana-de-basquete.ghtml",
    "data": "2026-10-24T01:53:26+00:00",
@@ -266,14 +290,6 @@
    "resumo": "Ancelotti quer ver outras peças na próxima convocação! 👀 Líder do Campeonato Brasileiro, o Flamengo dobrou a quantidade de jogadores na pré-lista da seleção brasileira na última Data Fifa de 2026. Se em setembro os rubr…"
   },
   {
-   "titulo": "Flamengo pede à Conmebol para ser declarado vencedor contra o Estudiantes",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDByYzZpY0hMSU1lOVZwQ3cwdHJjMklmSWxXSEJ3WlAzRm1QakFwNDMtOEVVMWhqQkFua2dOcDVMRk5kcjg2dkdkOUpkRmowSkVGYTNlaVpyU3QzTEdpemlqbjhJaFBkZU16aE1fZG92aTY2RnJEc1h2N1IwNXB5T0hYMGxVemJkYXlQdFA0SGlXWFNYQXU5LW5ramRtbFlUamZJelNXUUV0QllGYjJRMWJwSllKZHVRcTFxY3VZQXJxeG5YUlNtLWpWRzgteUtERXZz?oc=5",
-   "data": "2026-10-24T01:22:16+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo vai à Conmebol e protesta contra escalação de Rojo, do Estudiantes, na semifinal; veja detalhes",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWDZDQ2RLS2xXVHd3YkJ4STNKdUFOVUMxQjM0RzRkSGl4X0drX2pGS2xPUWpCQzJKRFMtbUE4NDBDcUNKcXR4cjF3T282OTdoazJKN3NGWmY5Vzg2dl9YVXl4TWNTWU1lcC1YM0VBNlhCc1Jtc24zdVlvRVBOQXN4N0F0LTdDQ2VYaF9fODI2bjBRYUVHQkczeHJna0lHZDE5V1psdVA1M0FIbERPSEM4S2l2SjVzVm5Bdi1TYTNrSElUa1liWWVDQ2pkeTVmc1hTWXFqRzlTaGdFSXNkSEhmckUzN1VENXZjb1hmeWI0SQ?oc=5",
    "data": "2026-10-24T00:56:00+00:00",
@@ -288,6 +304,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Filipe Luís rasgou elogios à marcação do Estudiantes (ARG) no ano passado A maneira como o Estudiantes (ARG) marcou o Flamengo, principalmente no segundo tempo da semifinal da Libertadores, impressionou. Porém, o modelo…"
+  },
+  {
+   "titulo": "Flamengo protesta contra escalação de Rojo na Libertadores e tenta eliminação do Estudiantes",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ0lpcWd6aFNYOFRpWVdPRzlGakZSQTlvV0Y5SnJFV1gxSktMQmxnWFZtNHVabXZXUXAxbzNYTzhqdEd6MXBHWFZnRjlPMmhNRkYyTktDRUg2dkVaQklWUUcteU5vY01yY2NJYjhCWmNLYU9QejlZNWxZZTMzV1E3WmZ3X2JQLVRyZlRSNmtTTUxmZkx4d3llV0hhZlFqYTlTVk9kMWR0cks1YW1nQ0FzUTR3SXVyMjRIeVFfMjREaFctLUlKZ1lPWE5odmg5Q09OSVkwaGh1SmdaNktyZ21GOTQ0bjRDNGNLZExnVkM1Z2xVNVpKeWc?oc=5",
+   "data": "2026-10-24T00:42:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Sesc Flamengo bate Brasília e segue 100% na Superliga",
@@ -626,14 +650,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Mauro Cezar Pereira: Toda arrogância será castigada, Flamengo de BAP e Boto",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEtlY1FWVlhpQmg1Z2trZFRraHVGa0VWWFFfX1cwSERUMV9ZeURUNmxHR3BwZW53X052T3ZzTUxETXFwc0JJRUZEWDVwYWl6Z1c2NWFuUmZmTWw0bV9mTkJpZ2M0Yy1YQUZSOXBZdExIdnYtenlaR0pqYVIzZ242WVJQOE0xaTMtbTV5RlZjNU9lX1dpdUN5c0N5a0haTGdleDhiUGVCSGtjeUxsZ2p5T2t3d1NCSXZLMXAyclVGbGhybE9FTzBFMU1pX1NHdjAz?oc=5",
-   "data": "2026-10-23T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo abandona modo copeiro e baque da queda vira alerta para Brasileiro",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWUR1cXRudFRYUHpIWTNxWHZpQWZaYU1hVUE4Vnd3a0Q4ZkRwSmZfbTN5cTFUT2x0bHZiM2VhcllFN1FDZVBGN1k4TTMyeXdzd0VMcEZiMGNLVGQtMVpvT0pKWGg2QktqaEl1R0lFa0JnRHJLaW1LUE1Hb2RMaEVIR20tUTdRUTAtWEdpeXJyTjEtbUVBcGFfcklFUmZQY0laemNhYl8wX2lCSU8zdlNQZnl6SzVHOThmeXgtUUFlNm9BSjIzUzVsYTRIOXpuak5rYWJUTnJPSG5KYk9UUFFZcQ?oc=5",
    "data": "2026-10-23T12:30:00+00:00",
@@ -775,6 +791,14 @@
    "data": "2026-10-23T08:30:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Mauro Cezar Pereira: Toda arrogância será castigada, Flamengo de BAP e Boto",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEtlY1FWVlhpQmg1Z2trZFRraHVGa0VWWFFfX1cwSERUMV9ZeURUNmxHR3BwZW53X052T3ZzTUxETXFwc0JJRUZEWDVwYWl6Z1c2NWFuUmZmTWw0bV9mTkJpZ2M0Yy1YQUZSOXBZdExIdnYtenlaR0pqYVIzZ242WVJQOE0xaTMtbTV5RlZjNU9lX1dpdUN5c0N5a0haTGdleDhiUGVCSGtjeUxsZ2p5T2t3d1NCSXZLMXAyclVGbGhybE9FTzBFMU1pX1NHdjAz?oc=5",
+   "data": "2026-10-23T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -1207,30 +1231,6 @@
    "data": "2026-10-23T00:27:07+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Estudiantes: onde assistir ao vivo e escalações do jogo da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeVZQZTBrUWFwLXl0LURicUJqWkNvY2IxeXRXSGVHMHJrdEd4a0NHNk1ncVRMdEx5MXBsYnFpcmlUUXpFaldiZmgwaXJHaFplSDZ1aEZtZGRzaTVWOWZJdEQ5MFluRGo5YnF0STBZRkhsZEJMRHNwZ2JhdGtiZFZQRXdhU3Q2eWFpNkpWVThKWUQ3dkdYVFpoaWwtdGhUVkoxUF9NM01xRE9wYzRteERhLVo1MmI0d0NGaGwtaVpRNzU4eHBUS0E1N000SHpQSlFjWjY4?oc=5",
-   "data": "2026-10-23T00:17:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo bate o Fluminense e avança às semifinais da Copa do Brasil Feminina",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHozNndtVzdHR2t5LTVNTkFoMjdXYmJNNi1tVXBNUEtlaE1ZeDJuQ05yakhaYnp1N2w4Y2Y1Y083TTN2dEZKaGI2X2k1c2RXSkg2U1JVVDgtU2c2RDNuZ3d1eG95MzREWVd3czlOeG1SbTVOY052UzE4Y1RfZWFnMHNVTmU1MGtEcDdzY1poVzNvMVMzTjdZTW1Ja2EwTmNKUXBzdl9OZWE1UGJDSDI5ZEdFU09KVUpTMzNDcGpuNlI?oc=5",
-   "data": "2026-10-23T00:01:30+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Decisão de Leonardo Jardim na escalação do Flamengo repercute: 'Isso mostra'",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHNtRFJuVkszNVJXQnVTc2VhdVdONk02YWZaRU1wZDloT3VsaFRxa3d6OUJHMnRvTHY4LWxVcHQtekhzaS1nSHZ2SUlhM3FBZW9FQ3RObkwyZXlHSHk4RDgzYzNta3BlcUNKdDR3amUzU1Qwd2p2bzJ3QzMtVkpFMHhjdjVJSl9nNFk1aUhXNGk5Rko4c3ExU0ZHcTlseDRrZGNfR3pmNVE4ZjFkWVpwNkVJNnU2NFct?oc=5",
-   "data": "2026-10-22T23:35:48+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   }
  ]
