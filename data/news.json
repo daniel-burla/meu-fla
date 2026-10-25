@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-25T04:29:50.040187+00:00",
+ "atualizadoEm": "2026-10-25T09:20:49.226408+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 55
+   "itens": 50
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 57
+   "itens": 59
   },
   {
    "id": "uol",
@@ -33,6 +33,38 @@
   }
  ],
  "itens": [
+  {
+   "titulo": "Paquetá falha em eliminações e ainda busca título de expressão no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZko4SlhZZW1pMHNod00xQ2pzV1g0NGM1c05Zc1ZaUTBvb0NCUVp2LTRzdXJBbGw5Mm1Md3BjUFd5ZExuZlQwVnp6UFE5QWszRUktOGw5c2RWRXFDNWtTNVNTT1FIc1dIRU5QSjV0RjhwRkhRclIxZGtwYjNCWjFyeXk2T1lCRGdGTHB0Ulk5UUloeE5zUS1FVWd0WEJiWlhhdXJUMGZ1Z0swQnhnc0RDdFNkZldMcTN5ZjI1Ujd5emRVdHcxQWZRazRTWEhHNXVhWkdoZFRjN2lSdDg2Y0Zr?oc=5",
+   "data": "2026-10-25T08:40:28+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Artilheiro do Atlético-MG, Reinier revê Flamengo no Maracanã pela primeira vez após venda ao Real",
+   "link": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/10/25/artilheiro-do-atletico-mg-reinier-reve-flamengo-no-maracana-pela-primeira-vez-apos-venda-ao-real.ghtml",
+   "data": "2026-10-25T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Reinier exalta boa fase e conta dia a dia com estrelas europeias Reinier terá um reencontro especial na segunda-feira. Vai enfrentar pela primeira vez o Flamengo no Maracanã, em duelo válido pela 32ª rodada do Campeonat…"
+  },
+  {
+   "titulo": "De novo opção no Flamengo, Arrascaeta tenta recuperar seu 100% entre reta final e Data Fifa",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/25/de-novo-opcao-no-flamengo-arrascaeta-tenta-recuperar-seu-100percent-entre-reta-final-e-data-fifa.ghtml",
+   "data": "2026-10-25T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Podcast avalia cobranças de pênaltis do Flamengo e postura dos jogadores após eliminação A dura eliminação na Libertadores teve ao menos um ponto positivo para o Flamengo: o retorno de Arrascaeta. O camisa 10 rubro-negr…"
+  },
+  {
+   "titulo": "Palmeiras faz dever de casa e joga pressão no colo do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2g1TkpweTdNa2owM0ZEbjlILWRIdEFRdXp1RjUyQk8wcHpKTDhYckZOZkhaWEJrOHdKa2ZVY25ObnBzR2FMS0paTmRMLTB4enRKMzZKY1lsS2daWjZXM01YeVBFdkJqNUtla3lQazkweFR3S29ZRHNHRlJTdkIzSURUVGZGdDNuaVA0clVXeHk3Zlk3WkYzSG9rTllfWFVxVzRJRQ?oc=5",
+   "data": "2026-10-25T07:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Flamengo x Atlético-MG ao vivo hoje 26/10: siga placar agora | Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlPY2Nid2JRWVpmcmYwUnV1ZmhvbTdqMk9JbkFfTG9DbHFmUmhvZjl2NTFya0plODZxV3NYQTBCLWVwTjAzZExLdzR4WjVjZzlVY3ZuNTJUYkotSUg3R0dfS2ZmSEFqUHlweE91YjB5cEZHeGZyYWd3Z1ltM2VhNFJYalhOUFViYkVQLU15U0dUbzFuVGc?oc=5",
@@ -74,20 +106,20 @@
    "resumo": ""
   },
   {
+   "titulo": "Abel, sobre tentativa do Flamengo de reverter eliminação: 'Estamos na final por mérito'",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQXQ5QzR4NUxhUUJTZXV3QXJoZGF4ZUlPV1JndGtFVTRfS05GU1g2cjlmdU50MC1Jcm1zZmxoa1dpU1lfRWtQNFowd2x2Z1FTZ25qWXFkR2JZTzBLM2dfcl9ndnlxR1FKZDVGS0E3TXJmak1yanZyd2hyNkg3ZmZRT1U5WDJhY2hVMUVxWHVmMExWbnNaTkpVM1ZxdlBWeFJKNXYxYzNSX0F5cGlrMzllTmRKbHBDTmdoaHBSVWRaMUFEVkNtQ1MyWmxuOFZ1cEpNeExFRVZaMlU5Ml8teWxVdVR4Y09OS3FEbHhhamxFVTJkSHRfUWd4Zy1QSFNqNF84clI0clRVSUZyRTA?oc=5",
+   "data": "2026-10-25T02:32:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Abel elogia esforço do Palmeiras e cutuca sobre final da Libertadores: \"Está lá por mérito, sem asterisco\"",
    "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/10/24/abel-elogia-esforco-do-palmeiras-e-cita-final-da-libertadores-esta-la-por-merito-sem-asterisco.ghtml",
    "data": "2026-10-25T01:49:44+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Veja a coletiva de Abel Ferreira após Palmeiras 2 x 0 Bragantino O técnico Abel Ferreira elogiou a intensidade do Palmeiras na vitória por 2 a 0 sobre o Bragantino, neste sábado, pelo Brasileirão, três dias depois da cl…"
-  },
-  {
-   "titulo": "Abel, sobre tentativa do Flamengo de reverter eliminação: 'Estamos na final por mérito'",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQXQ5QzR4NUxhUUJTZXV3QXJoZGF4ZUlPV1JndGtFVTRfS05GU1g2cjlmdU50MC1Jcm1zZmxoa1dpU1lfRWtQNFowd2x2Z1FTZ25qWXFkR2JZTzBLM2dfcl9ndnlxR1FKZDVGS0E3TXJmak1yanZyd2hyNkg3ZmZRT1U5WDJhY2hVMUVxWHVmMExWbnNaTkpVM1ZxdlBWeFJKNXYxYzNSX0F5cGlrMzllTmRKbHBDTmdoaHBSVWRaMUFEVkNtQ1MyWmxuOFZ1cEpNeExFRVZaMlU5Ml8teWxVdVR4Y09OS3FEbHhhamxFVTJkSHRfUWd4Zy1QSFNqNF84clI0clRVSUZyRTA?oc=5",
-   "data": "2026-10-25T01:42:23+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   },
   {
    "titulo": "Flamengo emite nota após polêmica do caso Rojo na Libertadores: 'Garantir que a regra valha para todos'",
@@ -119,6 +151,14 @@
    "data": "2026-10-25T00:56:23+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Fla explica ação em caso Rojo: 'Não se trata de resultado fora de campo'",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVUM0SFJDMnF1RDNndjBCUzRMQ2lsYnB2YUQ4UVdpcFVEbGtIMnFZQkg4a2k3T1FPRVRhbDlFbXRsSEFqU0laWWR6OEQ0UTlmMHhUeTIwcU92cWJnZVdWM1BfRWlSNkpYYXVYaXdDLXkzMk9IZUpoMkRaNTlJSFdoSEN4NGl3TEtiZFZqcUVoa2hER0lNWXpuRUQ0Q0FTNFVETDRiaHFLb1FKM2llNkV6X284VGNWdHEtMm9KdDdSXy1pbDdJdndMYU04alVGNnlXZXVuTldyWnkzMXJ6b3hzZ281TQ?oc=5",
+   "data": "2026-10-25T00:55:45+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -634,14 +674,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Milly Lacombe: Comportamento do treinador do Flamengo depois da eliminação foi vergonhoso",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRV9TTDBpTm5EZjdPTzJJaWRVWFVmYldEMDJUakNSS1l2cmQxb3BwRXZTYlNsZmlyb3dLOG5hNUZuOEVYZDJacXozSTdYWktlck1YTFNlMV9vX0s4STJHcUdzTFNNWmc3cHJJZUF4UW9qcVN3LWhmUkhfUUJKNG1JdXJCTnl1LS1SZlgzNVJ4OVdpWUR5UzBpZFd2NmIzcnZwRUhET3I4Nk10V0RibzJKLXZDV1kzUkdlWXZJZm5GM1F1cHpaNE92Z3Z3TG85Q0lfSG1OajYxellLZw?oc=5",
-   "data": "2026-10-23T17:23:27+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Após eliminação do Flamengo, Verón, presidente do Estudiantes, exalta Muslera e critica futebol argentino: 'Precisamos de organização'",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90RHU2Rm9CNS10aERCYkY2X1NUbllWYU5pU05tTGVpb3BoV2RjY2Mzb1VTWGRiX3ptOXhhYlVQMzFJazlZOU1VZkZfMmttWG9NMzRQOTljNEN3ZElkVmc?oc=5",
    "data": "2026-10-23T17:12:20+00:00",
@@ -762,6 +794,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Milly Lacombe: Comportamento do treinador do Flamengo depois da eliminação foi vergonhoso",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRV9TTDBpTm5EZjdPTzJJaWRVWFVmYldEMDJUakNSS1l2cmQxb3BwRXZTYlNsZmlyb3dLOG5hNUZuOEVYZDJacXozSTdYWktlck1YTFNlMV9vX0s4STJHcUdzTFNNWmc3cHJJZUF4UW9qcVN3LWhmUkhfUUJKNG1JdXJCTnl1LS1SZlgzNVJ4OVdpWUR5UzBpZFd2NmIzcnZwRUhET3I4Nk10V0RibzJKLXZDV1kzUkdlWXZJZm5GM1F1cHpaNE92Z3Z3TG85Q0lfSG1OajYxellLZw?oc=5",
+   "data": "2026-10-23T13:23:27+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Mauro Cezar: Bap demitir Jardim seria assinar que errou no Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc09fUnQ2YXRtUmZLbEZ5dF9YMmRYOUZyRUFwd3FfMmRjTlNSYjEtY0M2cTlsTWVaNnkxa3hGOXd2QVJ1eWVGZDlMZlJsVTdlMzNSWG5YWm5NVDV5QTF5anducmVDTTV5RlljUGozM096WUxrSV9pc3hUeU50eFJfX3RQc3gtZFpxZzFhQThUSlUzNzIzdVBBRlh0cWx6RENfdnRHREJLRWYweVZRR3M0eEtqV2hZN0c2RW5fbFBtSVNZZlBTVzcxRUV2R2MtdDNETmtCVTlhaWxHSV9K?oc=5",
    "data": "2026-10-23T13:22:17+00:00",
@@ -807,14 +847,6 @@
    "data": "2026-10-23T12:41:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mauro Cezar Pereira: Toda arrogância será castigada, Flamengo de BAP e Boto",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEtlY1FWVlhpQmg1Z2trZFRraHVGa0VWWFFfX1cwSERUMV9ZeURUNmxHR3BwZW53X052T3ZzTUxETXFwc0JJRUZEWDVwYWl6Z1c2NWFuUmZmTWw0bV9mTkJpZ2M0Yy1YQUZSOXBZdExIdnYtenlaR0pqYVIzZ242WVJQOE0xaTMtbTV5RlZjNU9lX1dpdUN5c0N5a0haTGdleDhiUGVCSGtjeUxsZ2p5T2t3d1NCSXZLMXAyclVGbGhybE9FTzBFMU1pX1NHdjAz?oc=5",
-   "data": "2026-10-23T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -967,6 +999,14 @@
    "data": "2026-10-23T08:30:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Mauro Cezar Pereira: Toda arrogância será castigada, Flamengo de BAP e Boto",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcEtlY1FWVlhpQmg1Z2trZFRraHVGa0VWWFFfX1cwSERUMV9ZeURUNmxHR3BwZW53X052T3ZzTUxETXFwc0JJRUZEWDVwYWl6Z1c2NWFuUmZmTWw0bV9mTkJpZ2M0Yy1YQUZSOXBZdExIdnYtenlaR0pqYVIzZ242WVJQOE0xaTMtbTV5RlZjNU9lX1dpdUN5c0N5a0haTGdleDhiUGVCSGtjeUxsZ2p5T2t3d1NCSXZLMXAyclVGbGhybE9FTzBFMU1pX1NHdjAz?oc=5",
+   "data": "2026-10-23T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -1191,46 +1231,6 @@
    "data": "2026-10-23T03:40:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Veja os memes da eliminação do Flamengo na semifinal da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByTFc1ZFlRX3NvT2lhcGRPcTJxRzZiTmEwYmhGaU5rWVFJLWJ6YVJvT0N0MHVtMXhIeGVrVmI3Ry05TlMzVWtHemd4T0x6VnNZR0F3MmxhcjdhNFVGdUJGX3dxQkVHZlE?oc=5",
-   "data": "2026-10-23T03:36:51+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Façanha, heroico e histórico: imprensa argentina exalta Estudiantes por eliminar o Flamengo",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/23/facanha-heroico-e-historico-imprensa-argentina-exalta-estudiantes-por-eliminar-o-flamengo.ghtml",
-   "data": "2026-10-23T03:35:58+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 0 (2) x (3) 0 Estudiantes | melhores momentos | semifinal | CONMEBOL Libertadores A imprensa da Argentina exaltou o Estudiantes pela classificação para a final da Libertadores na noite desta quinta-feira, com v…"
-  },
-  {
-   "titulo": "Jardim justifica opções e lamenta queda do Flamengo na Libertadores: \"Frustração grande e decepção\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/23/leonardo-jardim-lamenta-eliminacao-do-flamengo-na-libertadores-frustracao-grande.ghtml",
-   "data": "2026-10-23T03:29:54+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Jardim diz que eliminação é \"grande frustração\" no Flamengo e explica substituições O Flamengo perdeu a chance de chegar à final da Libertadores ao ser eliminado pelo Estudiantes, em disputa de pênaltis, nesta quinta-fe…"
-  },
-  {
-   "titulo": "Atuação de Muslera contra o Flamengo na Libertadores viraliza: 'Inacreditável'",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ081SzBXaXBFLVJ5eTZDV2hhYlQ5U010XzEtekFPQnVkVFEwaXA1Tzk4SkQwMUJGZ0FoR0lYUE41R19jWDRGcTVvbVZ6NHpNbEVLT2g1WkZ1TG52VF9Jc3lzdDFobU1zVjJXU3ROUWgzRWNOVi1pYjdvakRFTi1NdnJHV25CWURldFl3QUNsdHRwVS04YkdCdnBKQnhEMkZXdjgxYzg5UEhObmhPYTN1SlQ1eC1aWXNVdFE?oc=5",
-   "data": "2026-10-23T03:26:56+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Assista à disputa de pênaltis que eliminou o Flamengo da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHNENmtYbnNTUG1BOHF6Y0NvMWFOVXFfTU9hQ09YZ1V4Q1VBRk1kUC02NmZwWlhic2hZT1ZGeEQzX1d5bEdHaDVPWk94b1BXM2wtUk9NRGtpbmhXRlJmTnkwNXhqRDNic2loVWNoMVVLUktDM2JfLUUwWmdkSFdCdUNENjhxb1VsNkVkN0FlbmYySVY4MGZfRWtOcDh6STRkTUxEbk4yM2IwWWdHTnFFMnh3?oc=5",
-   "data": "2026-10-23T03:14:20+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
