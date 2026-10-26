@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-25T22:28:53.540693+00:00",
+ "atualizadoEm": "2026-10-26T00:39:51.684070+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 47
+   "itens": 48
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 61
+   "itens": 59
   },
   {
    "id": "uol",
@@ -33,6 +33,46 @@
   }
  ],
  "itens": [
+  {
+   "titulo": "Tempo Real | Flamengo x Atlético Mineiro",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3JHaFRJaFI0WG04LVA2Q1JxT1NueEZFcUhXN2w1V1pVN0JPREM2MkdhVy1ldnlZaHdkT1JMNjFSMDdqOXdoZGtDT2FfX1RsM2xDOGtRLWpkVzh4SGJIcU5ua3FIUjFzN2lIWWdBUWI2MHBHam51b29zMnpfakdyQjN6cDFJTUp3NDBWQXY5UjRvMDh5RUxrV293QVZwVEg4MHd5Ykc4dw?oc=5",
+   "data": "2026-10-26T00:18:17+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo estreia com empate contra Cornella na Messi Cup",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQME45YndWMWdIMGI2UWFsc3A0akFFUFlFOEVVT09BYXNqcXpiQUNkVjVwNk85c0dBU2NBeHRWNHdEZDA3THdVdGp3VlBvbjIzTTlVRVdFb3FzTGFxVHU5bnlRbFNFOGx2NG5xb3RUbHBiY0xaM09CWmdCZE5Fb1lqOU5pQ2lTX2xsQ1pZckNZby1IQkhtejVvcExFNA?oc=5",
+   "data": "2026-10-25T22:59:43+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Arrascaeta convoca torcida do Flamengo para jogo contra o Atlético-MG: “Momento de união”",
+   "link": "https://colunadofla.com/2026/10/arrascaeta-convoca-torcida-do-flamengo-para-jogo-contra-o-atletico-mg-momento-de-uniao/",
+   "data": "2026-10-25T22:56:41+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Camisa 10 publicou mensagem às vésperas do 1º jogo do Rubro-Negro após eliminação na Libertadores Arrascaeta usou as redes sociais neste domingo (25) para convocar a torcida do Flamengo antes do duelo com o Atlético-MG.…"
+  },
+  {
+   "titulo": "Flamengo desperdiça chances e fica no empate contra o Cornellà na Messi Cup",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xRmtRYTlLbzZIN29hdTFKUEJFTFFmZm1Dc2hoUVVWeVF4U3hWTy1fRjZyWW5HdUdlREJ5bHZESVB6elNIbjNROUJUNnp6QnpsdENEVWR4X0pnQkhlTkE?oc=5",
+   "data": "2026-10-25T22:32:37+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo tenta reverter eliminação na Libertadores: veja casos em que a Conmebol mudou resultados",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbDh5TXFwUWJtMU4tNGJOeWg4UldzWThPa3hnUl9CX0R0TEFiX29ReTRRSGloV29NUl9yOWJTaXRCMW5ObjVEOGR1dDF4clNrMENWVkp0Nzl0MlM2djZMQklnZG5VdFNQeUJ5dUJkRXE5ZHBTYjhvRXUxOHdjSnE5TXJQTGFIcUdkMUdVQkpjbGs2eC1LN0R4MVdxQlJjVThfQTVBNVlnSU1FWFkwendPUWpJYXNQUG1ERUdZS2dhRGhLMzB6TzltcHVHSXp3bjc4?oc=5",
+   "data": "2026-10-25T22:23:26+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Atacante cita Gabigol e se compara a Samuel Lino ao explicar motivo de não ter conseguido ter sequência no Flamengo",
    "link": "https://colunadofla.com/2026/10/atacante-cita-gabigol-e-se-compara-a-samuel-lino-ao-explicar-motivo-de-nao-ter-conseguido-ter-sequencia-no-flamengo/",
@@ -48,14 +88,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Palmeiras conseguiu vaga na final da Libertadores após superar o Fluminense nos pênaltis Abel Ferreira, técnico do Palmeiras, provocou o Flamengo ao comentar a situação do Rubro-Negro na Libertadores. A fala ocorreu em…"
-  },
-  {
-   "titulo": "A primeira do Flamengo! Lauender cruza para Jean, que cabeceia por cima do gol; VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnNUY0cE9oY0tpb1RXTzVIVGUxZTRRVWY1N0F1SEQ5amhzbmN0clJKUXlCRVN3ZHhtRVI2VDRDVl8xUDN1Zm40d3pvUjZvNVRiQzN1VF9ReEV1RlVDM1E?oc=5",
-   "data": "2026-10-25T20:46:06+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   },
   {
    "titulo": "Pedro Emanuel enxerga Vasco no mesmo nível que o Flamengo antes de clássico no Brasileirão",
@@ -90,14 +122,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo tenta reverter eliminação na Libertadores: veja casos em que a Conmebol mudou resultados",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbDh5TXFwUWJtMU4tNGJOeWg4UldzWThPa3hnUl9CX0R0TEFiX29ReTRRSGloV29NUl9yOWJTaXRCMW5ObjVEOGR1dDF4clNrMENWVkp0Nzl0MlM2djZMQklnZG5VdFNQeUJ5dUJkRXE5ZHBTYjhvRXUxOHdjSnE5TXJQTGFIcUdkMUdVQkpjbGs2eC1LN0R4MVdxQlJjVThfQTVBNVlnSU1FWFkwendPUWpJYXNQUG1ERUdZS2dhRGhLMzB6TzltcHVHSXp3bjc4?oc=5",
-   "data": "2026-10-25T19:40:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Escalação do Flamengo: Jardim pode fazer mudanças nas laterais e no ataque contra o Atlético-MG",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/25/escalacao-do-flamengo-jardim-pode-fazer-mudancas-nas-laterais-e-no-ataque-contra-o-atletico-mg.ghtml",
    "data": "2026-10-25T19:30:38+00:00",
@@ -114,28 +138,20 @@
    "resumo": "Carlo Ancelotti tem acompanhado jogadores do Flamengo para a próxima convocação Apesar de já ter jogado a Copa do Mundo em 2026, o calendário da Seleção Brasileira ainda não se encerrou neste ano. Afinal, o time da CBF…"
   },
   {
+   "titulo": "Flamengo superou últimas quedas na Libertadores, mas falhou no Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdmNSek4tbG5zZkcyYnlnRXNKbV9IV1V0ZHhKZXlkMWFqTzRqajlyNUlJWEhXNzJjSDNrRE5OdU5LU2lzY05EeVY2NE1aamZsd19Va1Y4S0xadEZZaDZQaG8zWldFLTY4OU9oU2VzaGREN0wyNlJleFZtSDRKS2JCa0Rob1J6VzVfSXduOXFEamc0eDZhNklMWjBKd2FYUV9ta0gxSFB0eW1jTVlKc1BrTmpMb1ExV3otZDFIbzFEQUlYRkdJYTQ5bnFDU3hhSXFTclZuWlRiVl9VWVVyaWc?oc=5",
+   "data": "2026-10-25T19:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo pode garantir classificação antecipada para Libertadores 2027",
    "link": "https://colunadofla.com/2026/10/flamengo-pode-garantir-classificacao-antecipada-para-libertadores-2027/",
    "data": "2026-10-25T18:28:36+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Atual campeão da Libertadores, Flamengo tem chance matemática de classificação na próxima rodada do Brasileirão O Flamengo disputa ponto a ponto o título do Brasileirão. Porém, outro objetivo está perto de ser cumprido:…"
-  },
-  {
-   "titulo": "Flamengo superou últimas quedas na Libertadores, mas falhou no Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdmNSek4tbG5zZkcyYnlnRXNKbV9IV1V0ZHhKZXlkMWFqTzRqajlyNUlJWEhXNzJjSDNrRE5OdU5LU2lzY05EeVY2NE1aamZsd19Va1Y4S0xadEZZaDZQaG8zWldFLTY4OU9oU2VzaGREN0wyNlJleFZtSDRKS2JCa0Rob1J6VzVfSXduOXFEamc0eDZhNklMWjBKd2FYUV9ta0gxSFB0eW1jTVlKc1BrTmpMb1ExV3otZDFIbzFEQUlYRkdJYTQ5bnFDU3hhSXFTclZuWlRiVl9VWVVyaWc?oc=5",
-   "data": "2026-10-25T18:27:56+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Tempo Real | Flamengo x Atlético Mineiro",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3JHaFRJaFI0WG04LVA2Q1JxT1NueEZFcUhXN2w1V1pVN0JPREM2MkdhVy1ldnlZaHdkT1JMNjFSMDdqOXdoZGtDT2FfX1RsM2xDOGtRLWpkVzh4SGJIcU5ua3FIUjFzN2lIWWdBUWI2MHBHam51b29zMnpfakdyQjN6cDFJTUp3NDBWQXY5UjRvMDh5RUxrV293QVZwVEg4MHd5Ykc4dw?oc=5",
-   "data": "2026-10-25T18:18:17+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Mexicano Reyes faz golaço e marca pela primeira vez na base do Flamengo; veja vídeo",
@@ -239,14 +255,6 @@
    "data": "2026-10-25T07:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Danilo Lavieri: Palmeiras assume a ponta, provoca Corinthians e aumenta pressão no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXBRZ2JiSEhVMXFBTlNnUHd4NVdxSFVBQU1Ta0M5bG03bEw0ZzBDM2xwdlY0T3dXQ2xuWjBoeFU1S1JvUElqVUxRUkNZS1N2WWJzeVN1Q3o4am9vWnI4MUNvcmZiSHRyRUJ2dnBSZjY0N3NZeUxNdWFiU0ZKMTNQRUFiYUJTeFpyU1hxNndsWU1LZmxqN0VpVXRoaVdISTNkaXBMNnhMRmMxSng2Yzl2UnVnUTVmRDl6LVV2YVE5WHR2WmxSOUFEZVdrTTZ2SW5sblpJbzllc3hoR2M?oc=5",
-   "data": "2026-10-25T03:39:57+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -354,6 +362,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Danilo Lavieri: Palmeiras assume a ponta, provoca Corinthians e aumenta pressão no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZXBRZ2JiSEhVMXFBTlNnUHd4NVdxSFVBQU1Ta0M5bG03bEw0ZzBDM2xwdlY0T3dXQ2xuWjBoeFU1S1JvUElqVUxRUkNZS1N2WWJzeVN1Q3o4am9vWnI4MUNvcmZiSHRyRUJ2dnBSZjY0N3NZeUxNdWFiU0ZKMTNQRUFiYUJTeFpyU1hxNndsWU1LZmxqN0VpVXRoaVdISTNkaXBMNnhMRmMxSng2Yzl2UnVnUTVmRDl6LVV2YVE5WHR2WmxSOUFEZVdrTTZ2SW5sblpJbzllc3hoR2M?oc=5",
+   "data": "2026-10-24T23:39:57+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo se pronuncia sobre possível reversão de eliminação na Libertadores",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcVpJdVpHU1VHeG1Kbm9jenBkRkZMUTRrRWZsMF94dmZUTnpESkRDT0NRcjJnQXdRNE9OM1pmWUpTV2pqOHItRzVJQ2xVWlZ3WUIyVnBoaUJKc1ZvWU0tQVAySmNDcGt3M2FTQjhmRmpUVEZHRUlkUnNWVk5jMGRHa1pwaVhsdFoxbm1rVGtFTmp6eWV1RXVTZTdITlFpSFhnLVo0dk5PR2dhc3QxaWlxZTY1M0M?oc=5",
    "data": "2026-10-24T23:10:39+00:00",
@@ -384,14 +400,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "“Estudiantes não corre risco de perder a vaga na final da Libertadores para o Flamengo”, crava jornalista argentino",
-   "link": "https://colunadofla.com/2026/10/estudiantes-nao-corre-risco-de-perder-a-vaga-na-final-da-libertadores-para-o-flamengo-crava-jornalista-argentino/",
-   "data": "2026-10-24T21:30:47+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Liminar da Corte Arbitral do Esporte sustenta a defesa argentina A reclamação do Flamengo contra a escalação de Marcos Rojo dificilmente tirará o Estudiantes (ARG) da final da Libertadores. Essa é a leitura predominante…"
   },
   {
    "titulo": "Leila Pereira critica Flamengo por tentar mudar classificação à final da Libertadores: \"Ridículo\"",
@@ -570,14 +578,6 @@
    "resumo": "Fred Gomes vê eliminação justa do Flamengo na Libertadores e cita erros de Jardim O Flamengo conta com um precedente da Conmebol em sua tentativa de mudar nos tribunais a classificação para a final da Libertadores, por…"
   },
   {
-   "titulo": "A SEMANA CATASTRÓFICA DE FLAMENGO, FLUMINENSE E VASCO NA LIBERTADORES E SULA!",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkJXdGlxMGhsU3l4TThFc1RyYnRDZHBVVFd4YVpJVjItZ0FORTd3LXB0cTBPNkVCMlhLWkNvYlNVdDlZU3FuWTUybnlPdldFM0RUeFAzNFdfclNBV1NkQnQ2VFN3NUJYV2NGSEJuRDJ3T01VTHE4WTVyYmpSWUF0R0pJeEpTYVNBcDVWWVRtWkNXcmRqRkdhXzdEczd1YUtzVkF1REtHcTRVYXc?oc=5",
-   "data": "2026-10-24T02:30:43+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo pode jogar a final da Libertadores por escalação irregular de Rojo?",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRUVhS1ZPSWN4a2xOM2VMYnNETUNVYWp0WnV5UUllQl8xRUVmMVJOWmRwaUJHMWFZNVhHWC13LVJieW1DRk40M1BHSG55ZXVVSE93cEw5eU1wT2pQbXI1VXFaSjFjRk1aWnBLa3d1QkFHdjE4SkE0SjV3M3VVQzdjdXAxbmFyMERsUTdOMFZSVkhxNG5kN3lXT00yYVhrajMzb1I0cTl2NGZuRWlKeHlpbGtmSmFWUk9qQjgxRkJvM2RnS0VaczZsdVl4QThGTmlFRkc5czk4X1FoTDFGOHphdjVKZkUyTlJfTkkyUGFsYVpFY2QzYkd3SW1ONnZjNkQ1aUV1WA?oc=5",
    "data": "2026-10-24T02:27:00+00:00",
@@ -600,14 +600,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Ancelotti quer ver outras peças na próxima convocação! 👀 Líder do Campeonato Brasileiro, o Flamengo dobrou a quantidade de jogadores na pré-lista da seleção brasileira na última Data Fifa de 2026. Se em setembro os rubr…"
-  },
-  {
-   "titulo": "Flamengo pede à Conmebol para ser declarado vencedor contra o Estudiantes",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDByYzZpY0hMSU1lOVZwQ3cwdHJjMklmSWxXSEJ3WlAzRm1QakFwNDMtOEVVMWhqQkFua2dOcDVMRk5kcjg2dkdkOUpkRmowSkVGYTNlaVpyU3QzTEdpemlqbjhJaFBkZU16aE1fZG92aTY2RnJEc1h2N1IwNXB5T0hYMGxVemJkYXlQdFA0SGlXWFNYQXU5LW5ramRtbFlUamZJelNXUUV0QllGYjJRMWJwSllKZHVRcTFxY3VZQXJxeG5YUlNtLWpWRzgteUtERXZz?oc=5",
-   "data": "2026-10-24T01:22:16+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Flamengo vai à Conmebol e protesta contra escalação de Rojo, do Estudiantes, na semifinal; veja detalhes",
@@ -656,6 +648,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo x Atlético-MG: informações e palpite para o jogo Após a eliminação na Libertadores, o Flamengo se volta para a defesa da liderança no Brasileiro. Com a maior média de posse de bola no returno (57,5%), a equipe…"
+  },
+  {
+   "titulo": "De queda na Libertadores ao futuro de Jardim: como eliminação do Flamengo pode impactar no Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rTy1WRlZTVS10SGpOaHBnYlJUT3Z4MlVPMzlRZk93cVlmUG5mazZOdHNiV0NpZ3ZmMTMtRmkwdXA4eklMT1k1U0RSTzdjRlpmQWtrM1NRSjRWTlNfaXc?oc=5",
+   "data": "2026-10-23T21:08:44+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "PVC: SE FLAMENGO GANHAR O BRASILEIRÃO, CHANCE DE LEONARDO JARDIM FICAR É GRANDE!",
