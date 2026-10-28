@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-28T05:26:51.887634+00:00",
+ "atualizadoEm": "2026-10-28T11:34:25.768053+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 65
+   "itens": 60
   },
   {
    "id": "colunadofla",
@@ -23,22 +23,102 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 55
+   "itens": 56
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 89
+   "itens": 91
   }
  ],
  "itens": [
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Palmeiras precisa vencer para perseguir o Flamengo. Informações e palpites",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2txaENZTW5WUkdxdVd6bFpvX2t2eng0Q2xFWURickJJbmxrZjlxQ1NDSHJBYVBQc1g0X3FBMFo1NTkxWjl1bVVIenRoZ1B1MFVoWnZ2WjhfUXZWNnFyVzVubmUyNUtNTVpUaURIV1BMdDd4dlltdkp2MWktcm1FQmdRcl9ldjQzUVliY0tpN0hIdHItRl8tVHlXWTRkNWtUTk5hVWVaV2JUTDlkU3IxNjNrZEVJcGp5UXVkd1ZYcG1jd1JKeklVME41bw?oc=5",
+   "data": "2026-10-28T11:31:55+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim minimiza jejum e valoriza entrega de Pedro, que continua sem reserva no Flamengo",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/28/jardim-minimiza-jejum-e-valoriza-entrega-de-pedro-que-continua-sem-reserva-no-flamengo.ghtml",
+   "data": "2026-10-28T11:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Leonardo Jardim avalia Pedro e atuação do Flamengo Artilheiro do Flamengo no ano, com 26 gols, Pedro atravessa uma má fase nessa reta final da temporada. O camisa 9 não marca pelo clube há mais de um mês, na vitória por…"
+  },
+  {
+   "titulo": "Flamengo tem marca impressionante contra o Vasco; veja números",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFV5Y2JNZ1NHYW1NaEdaei1Kb196RE9NTzVWYlZENW5nR3RCZlZmWEhQVVMzX285cHV1VUFrMF9FVzBFWUx3SlZWV1BYSlctMkF6RUVJWnBqSUM1X196S29EQkU5RmlaMF9YcHZseXNvYXhGc3NFMDNLdmRlc010X0xxN2lIQ01aa1U3TEh1ZWdSaDNrQldfaE94Y3VFTmw0TGdocFBFbzRxUjRRZmc?oc=5",
+   "data": "2026-10-28T11:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogos do Brasileirão hoje: Palmeiras e mais 9 times abrem 33ª rodada nesta quarta",
+   "link": "https://colunadofla.com/2026/10/jogos-do-brasileirao-hoje-palmeiras-e-mais-9-times-abrem-33a-rodada-nesta-quarta/",
+   "data": "2026-10-28T10:53:35+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Palmeiras pode voltar à liderança, pois joga antes do Flamengo novamente O Brasileirão tem cinco jogos nesta quarta-feira (28), na abertura da 33ª rodada. Para o Flamengo, o principal deles acontece na Vila Belmiro, ond…"
+  },
+  {
+   "titulo": "Leonardo Jardim define time titular para jogo do Flamengo x Vasco em treino desta quarta",
+   "link": "https://colunadofla.com/2026/10/leonardo-jardim-define-time-titular-para-jogo-do-flamengo-x-vasco-em-treino-desta-quarta/",
+   "data": "2026-10-28T10:15:57+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Elenco do Flamengo faz apenas uma ativação na manhã de quinta-feira (29), horas antes do clássico O técnico Leonardo Jardim define nesta quarta-feira (28) o time titular do Flamengo para o clássico contra o Vasco. O ele…"
+  },
+  {
+   "titulo": "Arrascaeta tem recuperação ‘recorde’ e reassume protagonismo para últimos jogos do Flamengo na temporada",
+   "link": "https://colunadofla.com/2026/10/arrascaeta-tem-recuperacao-recorde-e-reassume-protagonismo-para-ultimos-jogos-do-flamengo-na-temporada/",
+   "data": "2026-10-28T09:36:03+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Desde que retornou aos gramados após cirurgia no punho esquerdo, Arrascaeta atuou nos dois últimos jogos do Flamengo Arrascaeta encheu os torcedores de apreensão por conta de fratura no punho esquerdo, porém, com menos…"
+  },
+  {
+   "titulo": "Como rivalidade Flamengo x Vasco descambou para briga entre Bap e Pedrinho",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORl82Ym9uMUNVeFc2OVJfa0M3dEFQV256aU5YT2dLU2d2dEtpeWRKOU13U0RwT1d3dENkamVKRHZIQVl4S3l3NmlGNVFHYjM5azN3N0s3T3REWkpLMmtoLVJ4aXI1YzRVT2tkYWhnQlJpdlBQTjc0QWtQNmxIeUczcm9rb2pqWWo1YWt5dTJUaXlRNExiS0dyVmVQcURvVXRXNzgtbnJMNmEyNUhEd1JhOXhGTWpnREV2U3JrVTNhV25IMHBPcU9zTnI0LWZCRW9lbEFzclZ5Ykp0cENhaWJN?oc=5",
+   "data": "2026-10-28T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Mais decisivo pós-Copa, Carrascal chama responsabilidade em pênalti, mas desfalca Flamengo contra o Vasco",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/28/mais-decisivo-pos-copa-carrascal-chama-responsabilidade-em-penalti-mas-desfalca-flamengo-contra-o-vasco.ghtml",
+   "data": "2026-10-28T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Como foi a decisão sobre quem bateria o pênalti da vitória do Flamengo? Entenda O nome do Flamengo depois da Copa do Mundo é Carrascal. Jogador mais decisivo da equipe nesse segundo semestre, o colombiano chamou a respo…"
+  },
+  {
+   "titulo": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 33ª rodada",
+   "link": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/10/28/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-33a-rodada.ghtml",
+   "data": "2026-10-28T06:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "CHUVA DE CLÁSSICOS! Caioba e Calan dão dicas pra 33ª rodada do Cartola! O Campeonato Brasileiro já está de volta com os jogos da 33ª rodada. O confronto entre Santos e Palmeiras abre a rodada, que vai ser disputada até…"
+  },
   {
    "titulo": "Flamengo x River Plate: onde assistir ao vivo e horário do jogo da Messi Cup",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlBUQUk5eFhBdDYtOE1ZQ09Tdk9abDNrOV9kYlQxUGRtbllTYXNUZnZrX3hCT3B0YjFtcjdvejVzX29Eb2ZfTDF3ZHRCRjV0cDVoeXJ2eTlScVh0RzVTYUhDa2dNdXFTc1FlMmgxSHNoSXozTC01bTVSUFkwQ1RkVUZLcElwdGdSWnFZVUxLQlFBcGNSM1R5Y2tSRmtta2doc1R1YmJmeW9CZVZ1RlBtODJ4d2hrdzBIN3c?oc=5",
    "data": "2026-10-28T03:30:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Homens armados comemoram título do Flamengo em 2022, e não vitória de Lula",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGZaaVVvaG54SmlKcUVyLVF1RG84OVpPb2lJN3lUZGQ5dG9YcEJHNmZ5RTNCMm1kNFJXZU5lUmZERmViZWUwUG1vazMxOVhLVDV0aS01YTVxX3JrZklYQXFXWlBkOTl0QzVyUGVULWFQcnBubjNWZDZ3RFFMSUI1LUxLeW5UazZYeXQxMkRKWnI3bFNueDlDYUo0bFFiTnJZYi1HNWhCTnhqQl9iZU53R1ZhRWM?oc=5",
+   "data": "2026-10-28T02:52:49+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -50,28 +130,12 @@
    "resumo": "Reinier surgiu no futebol brasileiro nas categorias de base do Flamengo; jogador entrou na etapa final no confronto dessa segunda-feira (26) Por: Rodrigo Lima O jogo entre Flamengo e Atlético-MG teve um peso especial pa…"
   },
   {
-   "titulo": "Homens armados comemoram título do Flamengo em 2022, e não vitória de Lula",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGZaaVVvaG54SmlKcUVyLVF1RG84OVpPb2lJN3lUZGQ5dG9YcEJHNmZ5RTNCMm1kNFJXZU5lUmZERmViZWUwUG1vazMxOVhLVDV0aS01YTVxX3JrZklYQXFXWlBkOTl0QzVyUGVULWFQcnBubjNWZDZ3RFFMSUI1LUxLeW5UazZYeXQxMkRKWnI3bFNueDlDYUo0bFFiTnJZYi1HNWhCTnhqQl9iZU53R1ZhRWM?oc=5",
-   "data": "2026-10-28T02:29:35+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Caso Rojo: Dirigente do Estudiantes responde Léo Jardim e provoca Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1pJekU2ekdWN3MtX3dHZGJpSEp5MEpZZkJqdzJzSl9Ec0JMQ2lqVnN6VDBGT3dBcExkWk1aU0NqUHFxMUdNbm1ESi1xbGpiQVVxV2M2ZHBNakVIWEtmSzd0RkJCazIwbVAwM241VGVuaUJtS000Z1JtcHNoMkF3a2kwNWlSbm0zOU9aUjlGNkVjRkZvc3p0Z3MyVG1xQ1NoQkRUdUhFR3MyN2RtT0sxdWdMLU91SkdOVEZpWEVkdUN1dUQ0WHcwUFpPbERaaFdING1HRWZOQnpxQ3g3?oc=5",
    "data": "2026-10-28T02:22:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo empata com Operário e decide vaga para a semifinal da Copa do Brasil em casa",
-   "link": "https://colunadofla.com/2026/10/flamengo-empata-com-operario-e-decide-vaga-para-a-semifinal-da-copa-do-brasil-em-casa/",
-   "data": "2026-10-28T01:45:32+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Jogo no Paraná terminou no empate em 0 a 0 nesta terça-feira (27) O Flamengo encarou o Operário-PR, fora de casa, pela ida das quartas de final da Copa do Brasil Sub-20. Na noite desta terça-feira (27), o Rubro-Negro fi…"
   },
   {
    "titulo": "Verón diz que Estudiantes 'não corre risco' de perder vaga na final para o Flamengo",
@@ -88,6 +152,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Verón afirma que o Estudiantes (ARG) está resguardado e, por esse motivo, escalou Marco Rojo no jogo de volta contra o Flamengo Verón concedeu entrevista para explicar a visão que tem sobre o caso Rojo na semifinal da L…"
+  },
+  {
+   "titulo": "FLAMENGO NA FINAL DA LIBERTADORES? QUAIS AS CHANCES REAIS?",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSUFZbW5kcWdJdEROeGY2SVRYWlhFd0I2NkZTRXBpRmEwaEs1bDhWZ2tDcW9mU2dTOHFlaFAxQTYybWdScjJPT2dDUzFzNGJHTTg3NUhPY0xWQ0xQbTlWYjhmQU5UUWFlWVpJaE1oNGFVQl80M3FXNF9rdklxTXExTTNLMDBsLTQwNGtKRlZOSURtQQ?oc=5",
+   "data": "2026-10-28T00:20:01+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Presidente do Estudiantes minimiza pleito do Flamengo: \"Não há risco de não irmos à final\"",
@@ -130,12 +202,20 @@
    "resumo": "Joaquín Freitas tem sido opção para o sistema ofensivo nos últimos jogos do Flamengo na temporada O atacante Joaquín Freitas tem se tornado uma opção imediata no banco de reservas para o sistema ofensivo do Flamengo. Em…"
   },
   {
-   "titulo": "Pulgar sobe o tom sobre jogo do Flamengo x Vasco em gramado sintético pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/10/pulgar-sobe-o-tom-sobre-jogo-do-flamengo-x-vasco-em-gramado-sintetico-pelo-brasileirao/",
-   "data": "2026-10-27T23:23:57+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Volante chileno diz que o elenco está pronto para o piso artificial, onde o Flamengo já venceu o Botafogo 2 vezes em 2026 O volante Erick Pulgar minimizou o impacto do gramado sintético do Estádio Nilton Santos no cláss…"
+   "titulo": "Danilo Lavieri: Palmeiras é citado em processo que define se Fla joga final da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR01BdHJrdVNramk1UG42MFBfRXJUYjFuRW5OU21KZzZkNU5XNlRieFFhZ1c5a2drNmpFNndBbDkxdTVETUIxYlpqbG0xQjlKUlVCTVFqNTlLRnZ6RFM2cjhRaFI5dk5Ba2IzdldYZE0teGdnY1VOcjdKZF9ucHpxa21WVDZtQ18tV1dnSzdvSVZ0NEw4a1V6MFkyYzJLU085V0Y2cEdTTUtrWExSUGFCWEMxeG03bjMybEl0bHBGak1rZG5RcEJkLUNodllXY3RKUThqbVBEVnhDSGdR?oc=5",
+   "data": "2026-10-27T23:48:50+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vasco x Flamengo terá mais de mil policiais e segurança reforçada no Nilton Santos",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWtpTXhqcnBrOVl6d3FFNi1oUUJVLW5DbDM1Nk1TTHBUVTh5ekhkTFBybE55VVZrNldUdWhyazlXNkgwZE1GNjVUcE0wN1FTaVlvOHJ2UkFscFY0eldZNVZhbm94c0VZOF95bTdhaWF3TFV4dGJuWDVaUUZKVFBucklpNHBJOXp2SmotWDF3ekRmNm1fakNjcjhYTTZQaHlmQWFaR2NRR01FQzJod0JRcFZRNFl4TEwtQUVnSjFqUW5UUUJzYUZleg?oc=5",
+   "data": "2026-10-27T22:49:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Ex-Flamengo mantém time 100% na Liga dos Campeões da Ásia e festeja à lá Gabigol",
@@ -144,14 +224,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "O centroavante Mateusão foi decisivo com a camisa do Shabab Al-Ahli pela segunda vez consecutiva nos últimos dias. Nesta terça-feira, abriu o placar na vitória por 2 a 0 sobre o Esteghlal, pela Liga dos Campeões da Ásia…"
-  },
-  {
-   "titulo": "Dirigente do Estudiantes provoca e manda recado a Leonardo Jardim sobre caso Rojo na Libertadores",
-   "link": "https://colunadofla.com/2026/10/dirigente-do-estudiantes-provoca-e-manda-recado-a-leonardo-jardim-sobre-caso-rojo-na-libertadores/",
-   "data": "2026-10-27T22:15:51+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Juan Martín Ongay, secretário de finanças do Estudiantes (ARG), respondeu uma publicação de Leonardo Jardim sobre o caso Rojo O técnico Leonardo Jardim deu o parecer sobre a atual situação envolvendo o ‘caso Rojo’, joga…"
   },
   {
    "titulo": "Ex-Flamengo, Mateusão marca de novo e Shabab chega à quinta vitória seguida",
@@ -199,14 +271,6 @@
    "data": "2026-10-27T20:00:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Danilo Lavieri: Palmeiras é citado em processo que define se Fla joga final da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR01BdHJrdVNramk1UG42MFBfRXJUYjFuRW5OU21KZzZkNU5XNlRieFFhZ1c5a2drNmpFNndBbDkxdTVETUIxYlpqbG0xQjlKUlVCTVFqNTlLRnZ6RFM2cjhRaFI5dk5Ba2IzdldYZE0teGdnY1VOcjdKZF9ucHpxa21WVDZtQ18tV1dnSzdvSVZ0NEw4a1V6MFkyYzJLU085V0Y2cEdTTUtrWExSUGFCWEMxeG03bjMybEl0bHBGak1rZG5RcEJkLUNodllXY3RKUThqbVBEVnhDSGdR?oc=5",
-   "data": "2026-10-27T19:48:50+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -450,14 +514,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Alicia Klein: Flamengo se inserir na final da Libertadores é como Flávio anular eleições",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemNtbUU3ejVlckFLdFNLQW9UZzdFWEt1RTZqaVo4STNDUmc1cWxDWmpDSmV5bEd0T3o3MmVHbVNGWmlzSGkyV195cnFQRmkyRVJldmZWSkVaSWs2QUlubnhTU3NOb2dBdlpQQnhsNk1Ya0Z1YzE1S3RXVUQxYmtKQUpUdk5EMnZmS0xVMjVVU0pYa3VwZXp6WEpsemlYMnhkNDFYQTh0MUZ1a1pHcHJLcnVnQ25Jb28tYzdQY1paWmZ5WXRlZFl0eGdLZlo2Y3VTMnNtMzZvVEo?oc=5",
-   "data": "2026-10-27T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Vitória 'no sufoco' mantém Flamengo com mais que o dobro de chances de título sobre o Palmeiras; veja probabilidade",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQklDNkpkQkZINjNFMHFNNUdZSTgtajdLbEVsU2xCOGlRZVhndkNzOFpSU3ZWR21TY3hDS2U2X3k4LVNRaGkzRmUyXzRnZGl4RmJET21pWm5qVUJJd1NTa1N4OWEtYjNDRU5jLUdVd1BqOW9jTmI2eXgyd21lQ09EbTZXMFJtelFDMzZKOHdBcUR2WVFScUU0SXJpVi0wX01yMjRfRUlZamNPaFpCQUN0V2Q3OXJwZGRQTEFvTklSY3M1cUdzd21JdE02MGF3UFBUSlNsNHVST3pKYzJ2aEFOSFJLRQ?oc=5",
    "data": "2026-10-27T12:29:00+00:00",
@@ -554,6 +610,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Alicia Klein: Flamengo se inserir na final da Libertadores é como Flávio anular eleições",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemNtbUU3ejVlckFLdFNLQW9UZzdFWEt1RTZqaVo4STNDUmc1cWxDWmpDSmV5bEd0T3o3MmVHbVNGWmlzSGkyV195cnFQRmkyRVJldmZWSkVaSWs2QUlubnhTU3NOb2dBdlpQQnhsNk1Ya0Z1YzE1S3RXVUQxYmtKQUpUdk5EMnZmS0xVMjVVU0pYa3VwZXp6WEpsemlYMnhkNDFYQTh0MUZ1a1pHcHJLcnVnQ25Jb28tYzdQY1paWmZ5WXRlZFl0eGdLZlo2Y3VTMnNtMzZvVEo?oc=5",
+   "data": "2026-10-27T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "ANÁLISE: Flamengo supera ressaca da Libertadores e retoma liderança",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZmtfUTJIOVJoejdoa1EzZkNSOGV3b1AzUWVobVdsRm9hOFk5TXdibUI5cWxGQVVYV3RlY0p0RzZSeFkxTmVtdjF3NUx0UGZUelJPckZfaDI5RWtBdGIzWGFxZml0SnRta2p6MXVIRURhV0tyYzF4VHVDZUREVjhhdEJFZmp4M3R5OUcwalU5bEstZWplbGpwY2ttU0RPbGNDTjdiNW41UGNOODgtWW10bFh0YWQyS3NwN3ZTV080bno1QzhzWWRlTDNUSWNTQQ?oc=5",
    "data": "2026-10-27T08:00:00+00:00",
@@ -602,17 +666,17 @@
    "resumo": ""
   },
   {
-   "titulo": "A final histórica na base que já cruzou Boca Juniors x Flamengo e o que assistir no Disney+",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3d4dVBHMEVKMUtkMXpRVEZILUhRTHFtRW1yWFNEay1lMUtfUGRabXp2cDFkeDZZdGlZNHFSVzE3REtsRGdLS18wM0NDQVBFR2VrcXNXRDJIcmtMVjRkMGtrZGJwTFduRkdpZXBRcHdIR0puTnFGUC1lRmRRZmZzM1c1RmMxT0JlNFRfWXExY1U4NnBWOFpUamlrbi00VWUzVDd6WHQxXzh5WWFMRkV4RGZTSnhick43NVB4WVVsNmpJY28?oc=5",
-   "data": "2026-10-27T03:47:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
+   "titulo": "Fla faz de pênalti no fim, vence Atlético no sufoco e ultrapassa Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUkt1OTZSYVIwMHdhSmxRV25NeEU4dFRLQ0hBZk5XRUFWaElYS3ZQMkNoVzNGLTNXdGNXU29mMzlteF9lNjRKZlpXUnpMWDR1ZlN5N2tWbGZRbzFoeUg1b2xOUjc0WF9yQTBpYmZOakRPOHdWYnd0dnhTZDFZVVBlQlM1dE0tclBydHEwLUxGM0tURGVRelN2dkFlQkV1amFING1zVGpTMy1IcUlSTjN4T3VaYmhkaXkxa0xWR3JhcjB5eTktYnZ3?oc=5",
+   "data": "2026-10-27T05:00:22+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Leonardo Jardim admite nervosismo no Flamengo após eliminação e fala sobre desconfiança da torcida: 'Faltou tranquilidade'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xQV9pQ0VVZGMzOWk3QzNyb1ZSaFAwVVo2OTNONUFqYm0wQ3EtR1lpNG9SNmNuNW5Ed0ptSU1mZVYxeVV1ZTFlR01TY0ZXeU5VRGQ1M1NwWDM2WFktYlE?oc=5",
-   "data": "2026-10-27T03:14:11+00:00",
+   "titulo": "A final histórica na base que já cruzou Boca Juniors x Flamengo e o que assistir no Disney+",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3d4dVBHMEVKMUtkMXpRVEZILUhRTHFtRW1yWFNEay1lMUtfUGRabXp2cDFkeDZZdGlZNHFSVzE3REtsRGdLS18wM0NDQVBFR2VrcXNXRDJIcmtMVjRkMGtrZGJwTFduRkdpZXBRcHdIR0puTnFGUC1lRmRRZmZzM1c1RmMxT0JlNFRfWXExY1U4NnBWOFpUamlrbi00VWUzVDd6WHQxXzh5WWFMRkV4RGZTSnhick43NVB4WVVsNmpJY28?oc=5",
+   "data": "2026-10-27T03:47:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -799,14 +863,6 @@
    "data": "2026-10-27T01:04:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Fla faz de pênalti no fim, vence Atlético no sufoco e ultrapassa Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWdQQTloN2hGM2xwNUNEVGhZZkQ5RHlhSjhvTGhnb3IxU0NfOURXYlYwRW0zUjlnYUx2R2NSOHA0dHJ0dmJVOVF3dS1tVmFBb2dZejJVcGdzaWRITGsxUW1aZ1B3M2VZUnNwREl4dFU4ZWVQWmNwemp0dzk2NmJhWXpwWXpnbXBjVjE5ZXNRclNmR1FhaFJtWHRGenU4YkNLR1ZkV2xjMTJvcENFdFBj0gGvAUFVX3lxTE9VZ1BBOWg3aEYzbHA1Q0RUaFlmRDlEeWFKOG9MaGdvcjFTQ185RFdiVjBFbTNSOWdhTHZHY1I4cDR0cnR2YlU5UXd1LW1WYUFvZ1l6MlVwZ3NpZEhMazFRbVpnUHczZVlSc3BESXh0VThlZVBaY3B6anR3OTY2YmFZenBZemdtcGNWMTllc1FyU2ZHUWFoUm1YdEZ6dThiQ0tHVmRXbGMxMm9wQ0V0UGM?oc=5",
-   "data": "2026-10-27T01:00:22+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -1154,7 +1210,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Futebol Nacional Flamengo x Atlético-MG: veja as chances de título atualizadas no Brasileirão Há 10 horas - LANCE!",
+   "titulo": "futebol nacional Flamengo x Atlético-MG: veja as chances de título atualizadas no Brasileirão - LANCE!",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVGtGQl9DcnJPV1RWMm5ZNmNQR1lWLTRmQ1BLVHNsZG5SXzZMcXFwVzNrQmg2aWdxVEV0NHI1eXlnRmxhZXBNQlFWQmUxLVpreXl2X1ZSU3FtUU5maVZqTFlpajNlYl9DaFhVMDJtUnlQYURrakFzYkhhT2VJSXZOUnFUOFJ5bVZsQ29FOWQ0ZEFjY25KUF9mS2lMakEybURJQURhWEJfejluQW53VlN0NlZSejF5RDFGbUh0LURNWQ?oc=5",
    "data": "2026-10-26T12:06:00+00:00",
    "fonte": "lance",
@@ -1175,62 +1231,6 @@
    "data": "2026-10-26T11:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Opinião: Flamengo e Atlético-MG, uma rivalidade com pesos diferentes",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzREUmNINnVtZW9WTF9LSFc2QkFWNm9UYTQ2Z3dzQnFzdnQ3OGZrVTNhSUxSOFd5eXd6a1FKX2NMQjczZEJPanE1emlWZXRTdU9jSHNENVB6R1g3YlpvQWxDeWJhOGxtM3F0QlJ0QUp4MVRRdlU4NnBadHR6V3pWTDZXdUR4SXpHR25NZ0RqSVlaSTd2aVUteFRuemYxWFcyV01wNGZOMTZIOFFxQl9mS0NrVQ?oc=5",
-   "data": "2026-10-26T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Após queda na Libertadores, Flamengo recebe Atlético-MG e tenta retomar a ponta do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObDc2ZGlXWGVqejRHSmZjWjlGdS1uQm96dHlkTmswOTRMLTAzZmJpeFFoQ24yR2p2WVN5RFk2bkp5QmlaNnZYZ0ctSG4wdVFLUU9Gdnl0YklPY1pzYnJ6UVlKNnhPejZBMF9TS2FkREpnMkdmY0VSdDhXUTVFRFRvOUE0eFZQdGVyM1Vyd0lEYzlneDJidUJWN1FuZEVqcEtRdFJPMmFzOTB1SEJqRkRhQjVCRmUwYkVfaGFWRG5KOTdhNERHM3FyUU16UnI1UWtHTnVRMW9UZnZOS3lZRzZPOEVxOThLV2hlMmpzWDBpRGRHbkdOYjFZ?oc=5",
-   "data": "2026-10-26T10:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Bola de Ouro terá Flamengo e 4 brasileiros; veja horário, local e indicados",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmp0Q25rNlBkLUFTWmYxYUpGZlZLRDVRZ1RwckxqME9jUmtVa0FyWWd6NFNoMEp3ZWdGU3ZFLUV1V0lwOGdWOXJHNnlJeXFMR043ZlI5Q0I0NThZTUhfM0FpejE1Z1hPaDd4V1J1dGNMNG5VTGxnTlZoZFpCRTB0NTdSTVl2eWh5Z3hSY3hQakVYYVkyZm5qUk84VV9velJlUklNRzB5bWNtVGhpbFc4aFZxdFZHX2k0QWF2TDNhckF2QQ?oc=5",
-   "data": "2026-10-26T10:29:55+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Como o Flamengo reagiu no Brasileirão após as últimas eliminações na Libertadores? Veja",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/26/como-o-flamengo-reagiu-no-brasileirao-apos-as-ultimas-eliminacoes-na-libertadores-veja.ghtml",
-   "data": "2026-10-26T09:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Atlético-MG: informações e palpite para o jogo O Flamengo volta a campo nesta segunda-feira tentando afastar a ressaca da dura eliminação na semifinal da Libertadores, ao cair nos pênaltis para o Estudiantes,…"
-  },
-  {
-   "titulo": "Vasco vive dilema para partida contra o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnU0TGVBQUJfZWoxLXFEbHVNY3VNVHpHdHkxeU5GUXI1WFRpY2hYNXFfczNUM1c0VkFzbjB4aTlUd3dCeG5Mb3h5S2VXTkZiTTcwNXJUTHBMSTBiTzdnWUhEX0VIcDZWcU9ocDlRYVBaczJLX2puVktNMU5UYzNJOWczVzZwQVl0TWZVTl84ejVqNDlBX1o3Z1JpWHB0ZGxMa3ZweFVkSkpNT2tNQmFPVg?oc=5",
-   "data": "2026-10-26T09:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Atlético mantém equilíbrio em duelos recentes contra o Flamengo no Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMl9EbWtWT3c3ZkZhVGx2Y3RNLVpzM0JMZG5LNVAxMWpoUGlvN0t6VWtTSkFoTnBleG9mVmtrbEdxLXlPNFQwOTNMRUw0Ym9VaWprREhERl9ZVXdjTWlVSmc5LWFPczdlcTV0dUVkaE90azR4a3lyQmNnRWRwSGxqZ2p3NTJRZXpRMDlSNk5aTG53TmxtVTJzV2ZKdDQwUEVlaGh3Z1RKd2dDa2MzemVxWTRsdkpCSTRUeTV3N3lTRQ?oc=5",
-   "data": "2026-10-26T09:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Atlético-MG: horário e onde assistir ao jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbnVwdUNobzRRMTlTUnBPZDdCamxQRXVFYW1neEVHRUJJVWNiNVctY0pJLU96eHVHc2xqSHl6bTRKTEplUS1CejhZeWpFbDByRXN1eUNEVEd1Y2NLZ001dV9nNzFzcFFodHJyMW9ONllHeEl0eVlGQWtDck9fUVBiR2FQLVkxajFWY0FaLXF1ajBFUVN5Uk02UHVhRmFfVXE4TkRFbi1zOXZlejl2RV9hcTFNOWNqUWpPazBOa0RWdkZacXQ5Z2VLRnNheW9rdw?oc=5",
-   "data": "2026-10-26T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
