@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-30T18:48:35.487028+00:00",
+ "atualizadoEm": "2026-10-30T22:55:21.651706+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 62
+   "itens": 58
   },
   {
    "id": "colunadofla",
@@ -23,20 +23,76 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 66
+   "itens": 62
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 86
+   "itens": 90
   }
  ],
  "itens": [
   {
+   "titulo": "Flamengo x Palmeiras: o que vai rolar amanhã (31) no capítulo de Por Você",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDczcGwycElIcC1GN2NjeVg4VzNpZndJZlJrTkNsek0yVm5HTzlmaXlJdFNGZ1J4QXV6UFdCSVE5NTlGRFlHM2pCekRkcDdrX3FHcVFRbEtXd1BWLU16YlVvSFFLSl9FR3VZQkEyeEdPRzd3dGZNb1NnN1Awa0xjT05vS2YwRWc1S2xTaVhnWmZnc2s3Q3g2YVNNM3B3WlRVMmNKREpGVQ?oc=5",
+   "data": "2026-10-30T22:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Atacante torcedor do Flamengo quer deixar a França em 2027",
+   "link": "https://colunadofla.com/2026/10/atacante-torcedor-do-flamengo-quer-deixar-a-franca-em-2027/",
+   "data": "2026-10-30T21:44:55+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Atacante entra no radar do Vasco, mas estafe indica preferência pela Europa; vínculo com o clube francês vai até junho de 2030 Igor Paixão quer deixar o Olympique de Marseille (FRA) já na janela de transferências de jan…"
+  },
+  {
+   "titulo": "Cálculo para ser campeão e ânimo com tropeço do Palmeiras: veja como foi a preparação do elenco para jogo do Flamengo x Vasco",
+   "link": "https://colunadofla.com/2026/10/calculo-para-ser-campeao-e-animo-com-tropeco-do-palmeiras-veja-como-foi-a-preparacao-do-elenco-para-jogo-do-flamengo-x-vasco/",
+   "data": "2026-10-30T21:32:14+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Jogadores do Flamengo entraram em campo com um ‘gás a mais’ por conta do empate sem gols do Palmeiras com o Santos Após a queda na semifinal da Libertadores, o Flamengo tem como objetivo o título do Brasileirão. Na últi…"
+  },
+  {
+   "titulo": "Grêmio tenta igualar Flamengo como maior finalista da Copa do Brasil; veja ranking",
+   "link": "https://ge.globo.com/rs/futebol/copa-do-brasil/noticia/2026/10/30/gremio-tenta-igualar-flamengo-como-maior-finalista-da-copa-do-brasil-veja-ranking.ghtml",
+   "data": "2026-10-30T20:55:30+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Poupar ou não poupar? Ge Grêmio projeta Copa do Brasil em meio ao Brasileirão O Grêmio inicia, neste domingo, as semifinais da Copa do Brasil contra o Atlético-MG, na Arena. Ao lado do Flamengo, é a equipe que mais veze…"
+  },
+  {
+   "titulo": "Leonardo Jardim explica motivo de titularidade de jogador após jogo do Flamengo x Vasco: “Acreditamos muito nele”",
+   "link": "https://colunadofla.com/2026/10/leonardo-jardim-explica-motivo-de-titularidade-de-jogador-apos-jogo-do-flamengo-x-vasco-acreditamos-muito-nele/",
+   "data": "2026-10-30T20:45:27+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Mesmo sem balançar as redes, Leonardo Jardim manteve Pedro como titular nos últimos jogos do Flamengo Pedro desencantou com a camisa do Flamengo na vitória sobre o Vasco, por 4 a 1, pelo Brasileirão. Após o clássico, o…"
+  },
+  {
+   "titulo": "Flamengo mantém invencibilidade no sintético antes de decisão com o Palmeiras",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/30/flamengo-mantem-invencibilidade-no-sintetico-antes-de-decisao-com-o-palmeiras.ghtml",
+   "data": "2026-10-30T20:26:37+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "ge Flamengo analisa escolha do Vasco pelo sintético e pragmatismo do time O Flamengo é um dos maiores defensores do fim do gramado sintético no futebol brasileiro. Entretanto, mesmo que filosoficamente se oponha, o time…"
+  },
+  {
+   "titulo": "Pedro volta a mostrar poder de decisão e se livra de jejum de gols pelo Flamengo",
+   "link": "https://colunadofla.com/2026/10/pedro-volta-a-mostrar-poder-de-decisao-e-se-livra-de-jejum-de-gols-pelo-flamengo/",
+   "data": "2026-10-30T20:01:52+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Pedro voltou a marcar com a camisa do Flamengo após seis jogos; camisa 9 balançou a rede em duas oportunidades contra o Botafogo O clássico no Estádio Nilton Santos contra o Vasco serviu para o atacante Pedro voltar a f…"
+  },
+  {
    "titulo": "Flamengo vai à CAS para tentar suspender venda de ingressos para Palmeiras x Estudiantes na final da Libertadores",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUHVmZlhONFE1bnlEdHA3T3dsRXBYMVRobE9ua0VDSWlPY0U2V1ljdzdfMWxVa0p4UW1md3pfMVViaGF4N3pKOHpZUjYtZjdyUUM5bERBZTNjQzFicEZ3bzc0dS0temFNU0wtR3FuZk51cjhpWXp3dE9ocGtuN2ZxUEx6UnBBa2oyWDZiNThhd25fb3BKRFJHak1zLXUycWxDSEtWd19jbUJXQ0s2ZzR0bWZRM3NWaVBGLXJwbmtzbi1IWmkzVzBheFVhMFZkWFpPNTJ6MnRHaUdqRGFnRk1DRTZIOTQyU1VpLXc?oc=5",
-   "data": "2026-10-30T18:48:05+00:00",
+   "data": "2026-10-30T19:43:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -44,10 +100,26 @@
   {
    "titulo": "Milton Neves: Brasileiro-26 escancara ainda mais o abismo entre Fla, Verdão e os demais",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGY3eEFkaHNqVkV6bExYTGljb0xFb1B5SzRsUmxqZ24yMTJyczBTZUJ3VkpNdGh5d0xhUS1nNlFHM2ctSmlPT3FrVmFYUFdqRlJJTlNmM3EyamVJRW1tQmRGSGRLRksxNXY2RlEtbW5WSmpBeFQyV2pTcUJBcFVDaG5NYTh2YUlyelZpdlZ2TDctZWhoT1RRRlc3bjUyUjRlczVxUGs2S29XWFBkb0ZlOW1ham92T3l2aUhLVC13bDMyVjNMNFNpQ2hEdXZEMG1NdENPRnZn?oc=5",
-   "data": "2026-10-30T18:31:13+00:00",
+   "data": "2026-10-30T19:29:23+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
+  },
+  {
+   "titulo": "Flamengo tenta suspender venda de ingressos para final da Libertadores entre Palmeiras x Estudiantes; VEJA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TM2hyQXVPM1g3RlRqTkw2cXNxb3pnQUR0c1JBMjVNRjNueHVobUp5TVFfdk52eUhBX2pobE9YZlYtdzdyeHA4VlVzT0FyNFp5Z293MHpUU0VvWGNLb2c?oc=5",
+   "data": "2026-10-30T19:07:21+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "TENTE OUTRA VEZ! Pedrinho segue sem conseguir vencer o Flamengo como presidente do Vasco",
+   "link": "https://colunadofla.com/2026/10/tente-outra-vez-pedrinho-segue-sem-conseguir-vencer-o-flamengo-como-presidente-do-vasco/",
+   "data": "2026-10-30T18:33:25+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Pedrinho já chega a onze jogos como presidente do Vasco sem conseguir derrotar o Flamengo Pedrinho segue acumulando uma sina contra o Flamengo como presidente do Vasco. Desde que assumiu o pleito do time cruzmaltino, em…"
   },
   {
    "titulo": "Palmeiras x Flamengo: compare os jogos e quem tem o caminho mais difícil na disputa pelo Brasileiro",
@@ -74,6 +146,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Como Palmeiras x Flamengo foi parar numa tarde de sábado",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1JnNFJlSkZjT2JHTVRtM1ZGS1BrZk9XMXF0NWZmemVaMm44YVBFdThlQms5bW5Xak56SThPMEl1Mm5yWlNtbENYaDJ2bEZyVU9zRXI2R09iSml5WUcweDlzNTJ6ck1Wa0RNR0dBSE44Q2lXYVlHSDlNN2ZRRmRFbWpjbEw0Zmx4bW1OR2FBVXNPd0NGWWZBY2dWNUNDVS00SnlERXc4NVpEaEJvaWk5Z2w5NHNmVC1uYWJCcVpFa2VaamN0dDRn?oc=5",
+   "data": "2026-10-30T18:06:02+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Exames descartam lesão no joelho e Paquetá reforça Flamengo em reta final da temporada",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaGtYVW1kMkZWMmxzN1dwaXNzVnJUN2hJRUFRTVRwdGZSaDJHSlJiY0FvNzRka3hXV1RWYktWN2poVTk3eWNPMmxDVGozbGNzQ29uNlBXNk5aVjljTTBwQjlDUEJKel8wc1Z6TVZtQUctc0RqU1Juam5ZaFl6Zm1yOFRuZjJ2NUt1cUp2TlFmR29UYllXYzZaSnRYX3dhNzlYTUgxcnBpYnF3cVp4OTFiUWtLNEZHY3FXRUhkQVc4SlV6RlVHaHNkMzBXcmdVTnRrNmdWTlRnTzFzWUFPOWI4dDRPVjJxU3lMNFdhZjB3?oc=5",
    "data": "2026-10-30T18:02:00+00:00",
@@ -90,14 +170,6 @@
    "resumo": "Samuel Lino marcou o quarto gol do Flamengo após uma linda arrancada de Léo Ortiz O quarto gol do Flamengo sobre o Vasco foi de Samuel Lino, mas a construção de toda a jogada passou por uma linda arrancada de Léo Ortiz.…"
   },
   {
-   "titulo": "Como Palmeiras x Flamengo foi parar numa tarde de sábado",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1JnNFJlSkZjT2JHTVRtM1ZGS1BrZk9XMXF0NWZmemVaMm44YVBFdThlQms5bW5Xak56SThPMEl1Mm5yWlNtbENYaDJ2bEZyVU9zRXI2R09iSml5WUcweDlzNTJ6ck1Wa0RNR0dBSE44Q2lXYVlHSDlNN2ZRRmRFbWpjbEw0Zmx4bW1OR2FBVXNPd0NGWWZBY2dWNUNDVS00SnlERXc4NVpEaEJvaWk5Z2w5NHNmVC1uYWJCcVpFa2VaamN0dDRn?oc=5",
-   "data": "2026-10-30T17:26:12+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Convocação sem nomes de Flamengo e Palmeiras gerou frustração na Seleção",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPV3VtYXJ1UGxBX0tpTHpNd2MydUFKdWxsc3N4bmxQcUs0Y0d1bW5EMWlrMHpfRFhJcjN2dHV4R2VjeVVUREQ0MWxBZGQ2QUVjVXVrYjVtTWlJdldxd2xfNUdncUQ0dW9TT0l5VHNSMy1EVlpQel9USWdONVZzNXBOUVBDN2d3TVl0UFBGa04tb1MtNTVGVF9Pc0RPMVpfTkRmNHBXdFJIakxXaGQ0TXRsVTZRQUt6S2lVbmVnejdUNDNaakxFMzk2bmRlVGZrQ1MwMFRiRFpvR1hlN0dGUHZSTXBRbGlPbWJhU2pKNE5fODdSMTBneXAwTEIyUTZUdE1oZzF5U0Jn?oc=5",
    "data": "2026-10-30T17:14:00+00:00",
@@ -106,12 +178,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Jogo do Brasileirão hoje: Corinthians e Mirassol se enfrentam pela 33ª rodada",
-   "link": "https://colunadofla.com/2026/10/jogo-do-brasileirao-hoje-corinthians-e-mirassol-se-enfrentam-pela-33a-rodada/",
-   "data": "2026-10-30T17:10:27+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Corinthians recebe o Mirassol nesta sexta-feira (30), na Neo Química Arena; Flamengo segue na liderança e acompanha desdobramentos da rodada O Campeonato Brasileiro continua nesta sexta-feira (30), com o confronto entre…"
+   "titulo": "Exame não apontou lesão no joelho de Paquetá após clássico, diz Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFR6WVI3Ym5Cel9QaFc5TzQ2dGJoazl1NWpyeWJuRXQ3R3kxS1B6WEtTdndySk5lWnhOVGNPU3NnWmhid2lLSnJxUzU1SGNjRjQ5UmlmTXRWaE1oM0hia1VYVXdkY0VtZkpVbk4zQjNWRnFQVVNHREJ1SHRfRmRpMG5MUXFKSHhyOGtyX1dqbDNZMmt0c3VoSU1ORUpOWkM4b0oyRFFfRVhqRWhNbU9VSEFlQkV0QXhzQkI1Y0Nucl9kZjZ2MEo4?oc=5",
+   "data": "2026-10-30T17:04:54+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Consórcio Fla-Flu coloca Maracanã à disposição do Vasco para duelo com o Palmeiras",
@@ -120,14 +192,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "A atitude de Léo Pereira que chamou atenção durante a festa do Flamengo no Estádio do Botafogo",
-   "link": "https://colunadofla.com/2026/10/a-atitude-de-leo-pereira-que-chamou-atencao-durante-a-festa-do-flamengo-no-estadio-do-botafogo/",
-   "data": "2026-10-30T17:01:54+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Zagueiro orientou companheiros, staff e jornalistas no Estádio Nilton Santos Léo Pereira protagonizou uma cena de respeito ao Botafogo durante a festa do Flamengo no Estádio Nilton Santos. Depois da goleada por 4 a 1 so…"
   },
   {
    "titulo": "Cartola: dupla do Flamengo combina a maior pontuação do returno e dispara em ranking; veja",
@@ -202,12 +266,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Paquetá faz exames, não tem lesão grave e inicia tratamento no Flamengo",
+   "titulo": "Paquetá tem lesão leve, mas vira desfalque no Flamengo contra o Grêmio",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/30/paqueta-faz-exames-nao-tem-lesao-grave-e-inicia-tratamento-no-flamengo.ghtml",
    "data": "2026-10-30T15:41:15+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Vasco 1 x 4 Flamengo | Melhores momentos | 33ª rodada | Brasileirão 2026 O meia Lucas Paquetá realizou exames após deixar o clássico contra o Vasco com dores no joelho esquerdo, mas não teve nenhuma lesão grave constata…"
+   "resumo": "Vasco 1 x 4 Flamengo | Melhores momentos | 33ª rodada | Brasileirão 2026 O meia Lucas Paquetá realizou exames após deixar o clássico contra o Vasco com dores no joelho esquerdo, e o Flamengo divulgou que nenhuma lesão g…"
   },
   {
    "titulo": "Flamengo divulga resultado de exame de Paquetá após meia deixar jogo contra o Vasco com dores",
@@ -226,14 +290,6 @@
    "resumo": "Vasco 1 x 4 Flamengo | Melhores momentos | 33ª rodada | Brasileirão 2026 A goelada do Flamengo por 4 a 1 sobre o Vasco representou ainda mais do que a vantagem na liderança do Campeonato Brasileiro. O resultado também d…"
   },
   {
-   "titulo": "Flamengo fecha clássicos do Brasileirão 2026 com 16 de 18 pontos",
-   "link": "https://colunadofla.com/2026/10/flamengo-fecha-classicos-do-brasileirao-2026-com-16-de-18-pontos/",
-   "data": "2026-10-30T14:56:48+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Goleada sobre o Vasco completou a série de 5 vitórias e 1 empate diante dos rivais cariocas O Flamengo encerrou os clássicos do Brasileirão 2026 com 16 dos 18 pontos disputados. A campanha terminou com a goleada por 4 a…"
-  },
-  {
    "titulo": "Detalhes da nova 2ª camisa do Flamengo vazam na internet; veja foto",
    "link": "https://colunadofla.com/2026/10/detalhes-da-nova-2a-camisa-do-flamengo-vazam-na-internet-veja-fotos/",
    "data": "2026-10-30T14:54:04+00:00",
@@ -250,28 +306,12 @@
    "resumo": ""
   },
   {
-   "titulo": "'Flamengo campeão de novo': colunistas opinam se disputa pelo Brasileirão acabou na última rodada",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MVExRHBUUkxKS24waU1Jek12aW5MZm9Id1dvMXlFLXlIeHRpQUtnaUJJTFpLcHdyRG9icXgwSGJWWWs1Rk93T2htbjh2STZ3WHktU3BvYW5XdEdnNHRiUWFKdjIzNVU?oc=5",
-   "data": "2026-10-30T14:20:48+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo ganhar o Brasileirão é pouco? Colunistas debatem",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYnVmT3B1S1FSek90Uk9CWEdxSE5KaGZBVFg2RzdtX3pmM3V6bGdfU1NfSVZFMHVFWHJFWFA4YmtCZTNTV2dqbTBUN056a3k3WEowZVpfR1dfUDZnZWNIS0JFWkFkSzN4VW1FZTV2YlpUSjY0SU9UM0ZZRjhrRDFSeEcxV1hXN3lyMnRUaWpfRGJobFZYVjNfaHlXZzY0RXBLTmpSQ0d4eE1FWldCblhVT2tULXh4WFJQeFpyVExVd2VVVlNkcW13SXlVeWlhZUlUSDBZ?oc=5",
    "data": "2026-10-30T13:59:45+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras não depende mais de si e precisa fazer contas para ter chance contra o Flamengo no Brasileirão",
-   "link": "https://colunadofla.com/2026/10/palmeiras-nao-depende-mais-de-si-e-precisa-fazer-contas-para-ter-chance-contra-o-flamengo-no-brasileirao/",
-   "data": "2026-10-30T13:54:07+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Mesmo com 5 vitórias, Palmeiras pode empatar com o Flamengo em pontos e perder no critério de desempate O Palmeiras não depende mais apenas de si para conquistar o Brasileirão 2026. Depois da goleada do Flamengo por 4 a…"
   },
   {
    "titulo": "Técnico do Vasco banca escalação de time misto mesmo após goleada para o Fla: 'Faria de novo'",
@@ -338,14 +378,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Mauro Cezar Pereira: Pedrinho encerrará o mandato de presidente do Vasco sem vencer o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNnVCZ2kyLWo5MW1fUDh3VEI2QUxGcVc2eHhyV1lyNFdiT3RMd3JkMTFFeEFoTnV6X1lWWGc1RzFLSkZZYk1sRFF6UUpIRWJ2bDFUTkQza3pqaENWamNrd2NCNG9Wa2VfTkJzT0xHOEJHOHl6ZEJkenZrdnpnWjhBUHVTVlQtd3lRSmM2YkxvTGJ0Y0NUbmZ2ckk0SVB2UXJBUlVJeXAzbVVMOC05d1pIaXNmV2dUSTZrdVFfLUNYOTJWODhfWjgwV1hPOVBfZ21EVl9xWDlLbkJzV05SOEVHQlFNbkxaLTNDQ0dN?oc=5",
-   "data": "2026-10-30T12:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Alô, Palmeiras: Flamengo chegará a jogo do ano invicto no sintético",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeHBVVExBN2k0Smd5bHM1OW5na0MwdEx0RU10UDBVWG9iS3RMbXdPUk1fb1NNZWdNSXYtYTVsQ0hJMUVyWFRrZnpYR21BclBBTmdQeFlJUVRxblN5cXNxa096S19LRXQwWThIOHVjbXhiOGxPR0ltYjlYY3VZTzVGY2dwbVFwVExLZFp1LWxfbU12SG5WVVJZTXJsOXBUcVZZQVRYNktlSmVwcmVsVFQ2bzN5cE9wSHFLYWd5TDhtSTY2d2lZZk5OZl9RV0gxZjYxQWp3?oc=5",
    "data": "2026-10-30T12:30:00+00:00",
@@ -402,14 +434,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Renato Gaúcho manda 2 jogadores do Grêmio tomarem cartão para não jogar contra o Flamengo",
-   "link": "https://colunadofla.com/2026/10/renato-gaucho-manda-2-jogadores-do-gremio-tomarem-cartao-para-nao-jogar-contra-o-flamengo/",
-   "data": "2026-10-30T11:09:19+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Goleiro e centroavante cumprem suspensão no Maracanã, mas ficam livres para a semifinal da Copa do Brasil Renato Gaúcho admitiu que pediu ao goleiro Weverton e ao centroavante Carlos Vinícius para receberem o terceiro c…"
-  },
-  {
    "titulo": "Flamengo abre vantagem e faz as contas por título brasileiro; compare os jogos e simule a tabela",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/30/flamengo-abre-vantagem-e-faz-as-contas-por-titulo-brasileiro-compare-os-jogos-e-simule-a-tabela.ghtml",
    "data": "2026-10-30T11:00:00+00:00",
@@ -450,8 +474,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Fla campeão? Corinthians rebaixado? Simule próximas rodadas do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONzRub1RIcDRkTk12S1c0LXprODA1bks1TUpvMk43ckJNNG9kZFZuUmo0ZWNxNU56M0RDclozNW16Zy1UTWRQOXlQZmtzckNLRFMyZnlqOGllZm1qYW81Z1M2ZTJZbHIycjdmczVyLUNXUDFSM0ljckxkQzA3dDhTOVF1SHpEUkFDYXlDSVlPMm5MOHRENnN2dGZhS2xHclVrN3Z3YWdXclNlZmRPN2c?oc=5",
+   "titulo": "Mauro Cezar Pereira: Pedrinho encerrará o mandato de presidente do Vasco sem vencer o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNnVCZ2kyLWo5MW1fUDh3VEI2QUxGcVc2eHhyV1lyNFdiT3RMd3JkMTFFeEFoTnV6X1lWWGc1RzFLSkZZYk1sRFF6UUpIRWJ2bDFUTkQza3pqaENWamNrd2NCNG9Wa2VfTkJzT0xHOEJHOHl6ZEJkenZrdnpnWjhBUHVTVlQtd3lRSmM2YkxvTGJ0Y0NUbmZ2ckk0SVB2UXJBUlVJeXAzbVVMOC05d1pIaXNmV2dUSTZrdVFfLUNYOTJWODhfWjgwV1hPOVBfZ21EVl9xWDlLbkJzV05SOEVHQlFNbkxaLTNDQ0dN?oc=5",
    "data": "2026-10-30T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -477,14 +501,6 @@
    "titulo": "Mauro Cezar Pereira: Graças a Pedrinho, Vasco leva nova goleada do Flamengo em palco 'diferente'",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRUNvTjBYdll3Sm8zM0NJNzh4Vl9yQnZhMUpleTR6WmlNUVZVYlN1and2QWtGWlVzR1lybUN4OGRKUU4yb3YydXNJTTVIejRzVXB1bEhBSElFX1h3VzJXMDFKS1ZJeFFpdEpHQWZOMlBxMDBjTHR1T1RFRTVPWkxuOU9ZMDFzUDlzaXdHVkZ1OGl6NUdEME5sU0VVUnUyWEpoYTBBV3U5WEdWWjE2VEJOLTZIRThsVWk0cjFlVXhFMzFpbG1mblhRS0VQUEc2TnNNT1daNWRULThpcE5nb2I2NmhYVTlIZDZ0OWc?oc=5",
    "data": "2026-10-30T05:21:13+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Milton Neves: Flamengo goleia o Vasco. Alguma surpresa?",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjFldWdxVUVzUXI4Y1RSZVlqX092RWE2VVIyN3VjVG5aLXk0Y0dUdUhZUUJEbnRRd2hmOVcwZ2VnWUlibzQ5NEFWMVZpZWQtVWRMY1lnYWk2bG5kMTR3YkZsSzdhUHRYdVJSc2hrRHpySkswMVU2WHZKU3dJSEc3RzZ6TE9zcFlrRFY3R3NxdFFuTm9pYXJLRTZPUXg5Znktc3REVkJ6ZkFIUQ?oc=5",
-   "data": "2026-10-30T05:11:42+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -658,6 +674,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Milton Neves: Flamengo goleia o Vasco. Alguma surpresa?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjFldWdxVUVzUXI4Y1RSZVlqX092RWE2VVIyN3VjVG5aLXk0Y0dUdUhZUUJEbnRRd2hmOVcwZ2VnWUlibzQ5NEFWMVZpZWQtVWRMY1lnYWk2bG5kMTR3YkZsSzdhUHRYdVJSc2hrRHpySkswMVU2WHZKU3dJSEc3RzZ6TE9zcFlrRFY3R3NxdFFuTm9pYXJLRTZPUXg5Znktc3REVkJ6ZkFIUQ?oc=5",
+   "data": "2026-10-30T01:11:42+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Pedro e Samuel Lino fazem dois cada, Flamengo goleia Vasco e abre três pontos na liderança",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb21VWmxJZ0xIbXNrdF9ZODRHbC1lc0x0dzI0cFBJVkxWMU5DMmt2TTJENnRQWWNqNmNoS2VuUEc5aTZ6NnhYZjlWQ3VKRG02UTliRVFlNW9yckduRHpocEVqaC14ejVVNlB1Y25YNDFheFByU2xJRnZRbi16eHZSQ24yRklja2dZRkpNRHdaalp2T1dodl9oX29wWFE3MU11UjZ6UnJ4UW8xUFlOQS1ZdjRrcWM5UERWbWVqT2d5NkpndWFydG1GWFdIMUdVR0FTWGlSRUtHeE1YOHpaU0pob1FXb0E0UG9lU2IwWlNfLWNsZw?oc=5",
    "data": "2026-10-30T01:10:00+00:00",
@@ -679,14 +703,6 @@
    "data": "2026-10-30T01:00:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Gol do Flamengo! Pedro abre o placar contra o Vasco e encerra jejum de 6 jogos sem balançar a rede; VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vZ0RYd2diUUpiVXNpUFBOMTl1ZnRqNzVvZURBYWNfeVM5dG1rZ2tiVHVJV3c4SzRtLWVYdFpSUFE0RDkxMWh0VkRicjFwam1NNHpwaDA4RnJrVmszZ0E?oc=5",
-   "data": "2026-10-30T00:32:35+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -1146,22 +1162,6 @@
    "resumo": "Vasco x Flamengo: informações e palpite para o jogo Vasco e Flamengo travam clássico às 20h desta quinta-feira no Estádio Nilton Santos em jogo da 33ª rodada do Campeonato Brasileiro. O ge acompanha todos os lances do j…"
   },
   {
-   "titulo": "Paulo Vinicius Coelho (PVC): Palmeiras só empata no pântano da Vila e Flamengo pode abrir vantagem",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUTctemJwNHNfekYyUFpjTjlTNTlCYTdwUDhrcnhKX1hCSWw5TjR1eS1XM0hDLVZMQUI2T20xeWM1Y2xXb2VzQVYyVVVLYW9rQWxlWkwyZXdsN0NYempGeTdkbEl4TWxZbUhfTWZqWVcwR240cTVDUThSSVczWS0xazBmanI2YmFmUW12YkJ4R0pHV0d0MTh5YUxMNTIwWXh6TkVTZEhPdkdhRm9BdUtkUmZjREdMcERTaldNOEhnN3Z4cUdtSmc?oc=5",
-   "data": "2026-10-29T04:25:13+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Brasileirão: Palmeiras empata com Santos, estaciona em 2º e pode ver Fla abrir vantagem",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDcwaGdwb0ZBSTdjS3lKejhZdE9LMkVYa1ZiUTRkYkxDd0Y0THYyc3NqNkJQUTJueWdvc3JSb3BkdVlOY0l1MTB6WVhFZDZMaGJRbUs1SDZ6bXBhemxVVTRVSEdXbF9NS2NWME04WV9OWkxlNVdWb1NGVU80VTNNT0ZmRWIxSjE2b1hJcEdxYURsODB2OTQ1dU5KdVUyNjhUTjFOWg?oc=5",
-   "data": "2026-10-29T04:25:07+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Palmeiras empata com o Santos e pode ver Flamengo ampliar vantagem na liderança",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVBXbkZNUklULUhqVEF1SkNsXzVIczV6Z2VPei1uaW9JblliRmZ3RktnS1JNa2JSWmxMcF9ndzVfa3VkaHVNeWp4cnVJVGpoYXRuRFlmR004QXdUcDlGemxXbDZkRGEwcUhQQUhUY1dOX3J3QlFYSTZlRlJDRW5BNHhvT2FlaW5wWFpmU3ExQnZvc0x0VmRYRmdIU2E2dTNSdFh2R0JfdEstM2JRUWpYRlN1SE5rV1diM09UYjFYakNUS3RRSWJkQ1F1V2s1dw?oc=5",
    "data": "2026-10-29T01:26:00+00:00",
@@ -1178,6 +1178,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Paulo Vinicius Coelho (PVC): Palmeiras só empata no pântano da Vila e Flamengo pode abrir vantagem",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUTctemJwNHNfekYyUFpjTjlTNTlCYTdwUDhrcnhKX1hCSWw5TjR1eS1XM0hDLVZMQUI2T20xeWM1Y2xXb2VzQVYyVVVLYW9rQWxlWkwyZXdsN0NYempGeTdkbEl4TWxZbUhfTWZqWVcwR240cTVDUThSSVczWS0xazBmanI2YmFmUW12YkJ4R0pHV0d0MTh5YUxMNTIwWXh6TkVTZEhPdkdhRm9BdUtkUmZjREdMcERTaldNOEhnN3Z4cUdtSmc?oc=5",
+   "data": "2026-10-29T00:25:13+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Empate do Palmeiras com o Santos dá ao Flamengo chance de abrir vantagem",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOU4wd1FsamZNR0doay1mMllZbVllY0RhY3V5YWNKbFRVQmlGUFcxYjFOR2JkRndZOWwxLVM4anQ2OFpvcFVqX0xjLUNJNVlfRWFiYklYdENySUxqTURTelByY0F0RWtaT1R3ZHRTTmwwX2VPaVdlWEo5Rk81Uk8yUjl6TVJNVk9OV1pPaG9LVzVIVzZFMnVFQWh4bDZFREprcFdEREJBc0JVdGRXbF94aGxNV0pOOHExUWxFSURuQldXQQ?oc=5",
    "data": "2026-10-29T00:25:00+00:00",
@@ -1189,6 +1197,14 @@
    "titulo": "Caso Rojo: o que ainda pode acontecer após tribunal negar pedido do Fla",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTHhTWVo3S05nNVk1THUyQXdJS2ZCWlFpMm1sbXViX3o0RHVvUVdlMDNhYkVmWjg3cHN4V2pja3d1NmdPWjFzWlU3UDh2c201Q2FyRVhqT29NX0pfODJnVFpvdEczOUZ3NkhjQVFBMFVtLURtLWpKaFdLVXVPOWJWSVBSeGd0cll4U0N3RVg5R1ZzbmJUWDlaelNweFlSRDlZRk45SEx2d182OEtTTkZmZzhyd0NPc2s3ZUtzZ29hTXlmUmoxX3p4VXNISGtGRi1Ocmd6SU9kWU5tUQ?oc=5",
    "data": "2026-10-29T00:12:56+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Alicia Klein: Fora da final da Libertadores: Conmebol faz favor ao Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOEl0MkJXTGpWN2wxb3lkaEhGMFJHd0xJbmxLdmJfUnFUdHZBZGxKYnhoWlVHTWRLYUdCdEZ3UXdPd1dFN3VPNHhaWGxQeU1yZFg4MW5LSExId3BVWWd6ZUZCeE9odUJBbE0zRFJOSksycVc2T3FDWl90VE1Qb1hwTVJqMC03ZXVHZGRrVWxRbzR3NXo1V2s1ZUVlS0VCNEdTLUhKR1JjTWlVb3BsWmdITU9MZ3RXVWlLZDM0YnpLbGpHU3Q3WWc?oc=5",
+   "data": "2026-10-29T00:07:50+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -1216,22 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Vasco x Flamengo: informações e palpite para o jogo O Flamengo encerrou na tarde desta quarta-feira a preparação para o clássico desta quinta contra o Vasco, às 20h (de Brasília) no Nilton Santos, pela 33ª rodada do Cam…"
-  },
-  {
-   "titulo": "Torcida do Flamengo reage à polêmica em Santos x Palmeiras: 'Claro'",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjBFRDJpRF92NnBMX1FDWGZhMVNRVGtGLWlxT21ZLUpjM0lwNEJwWERwT1ZKOEx2WVNqWHp5T2Focm45bGtIVWpnSmFZckhhbEEzNkRhbXNkakhGaEl3VVNPMkVYRjFlaWVGLTJEOGxSLXBuWW5QemVtWlRJZG5SYjc0ZXBZb2Z5SjJTOU00bF9pdktWNEhQeXk1dHpsS2dnTjk1a0NJR3BUbHg3?oc=5",
-   "data": "2026-10-28T23:28:52+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "STJ retoma disputa de mais de R$ 20 milhões entre Flamengo e Denílson",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbUZPWTVUNHhnZmIyNWxnOEpUdzZnWGxxcWxBdm12V0ZZUzBVazVZMUV0QlZxOHlST041SXZoTzVRX01SSmxfT09mRFRGWGVnRjBZTjY2YjF0dFg2TU5pbzQ4S2tPZVp0OVZYbmw4ZWxQQXVxVUNxdnZxazE3Y0k0Z0xIcnhKeFg1b1FUMnlTNUphdmlkRC1oWEpBSXJzN3VHR2xkQVpuck45Q2MwNUYyR280NVRRSzBaVkZlVy1BQWpJYXd1X1RnVzdiajBSRlA3NmdGcTZMUQ?oc=5",
-   "data": "2026-10-28T22:59:20+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   }
  ]
 }
