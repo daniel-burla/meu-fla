@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-31T22:46:20.946419+00:00",
+ "atualizadoEm": "2026-11-01T02:06:18.220770+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 52
+   "itens": 50
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,48 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 67
+   "itens": 66
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 91
+   "itens": 92
   }
  ],
  "itens": [
+  {
+   "titulo": "Leonardo Jardim tem reforço para jogo do Flamengo x Grêmio, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/10/leonardo-jardim-tem-reforco-para-jogo-do-flamengo-x-gremio-pelo-brasileirao/",
+   "data": "2026-11-01T00:28:09+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Leonardo Jardim ganha o retorno de Carrascal, enquanto Plata é desfalque confirmado O Flamengo volta a contar com Carrascal no jogo diante do Grêmio, pela 34ª rodada do Brasileirão. A partida será na quarta-feira (04),…"
+  },
+  {
+   "titulo": "Flamengo fecha 2026 com R$ 667 milhões investidos em atletas e divulga valor de Freitas e Valencia",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/31/flamengo-fecha-2026-com-r-667-milhoes-investidos-em-atletas-e-divulga-valor-de-freitas-e-valencia.ghtml",
+   "data": "2026-11-01T00:27:48+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Brasileirão é obrigação? \"Torcedor do Flamengo está mal acostumado\" O Flamengo divulgou o balancete do terceiro trimestre de 2026, com os resultados de julho, agosto e setembro. Apesar de ainda faltarem os números dos ú…"
+  },
+  {
+   "titulo": "Sesc-Flamengo bate o Mackenzie por 3 a 0 e lidera a Superliga com 100% de aproveitamento",
+   "link": "https://ge.globo.com/volei/noticia/2026/10/31/sesc-flamengo-bate-o-mackenzie-por-3-a-0-e-lidera-a-superliga-com-100percent-de-aproveitamento.ghtml",
+   "data": "2026-10-31T23:27:49+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Sesc Flamengo 3x0 Mackenzie | Melhores Momentos | 3ª rodada | Superliga Feminina O Sesc-Flamengo manteve os 100% de aproveitamento na Superliga Feminina de Vôlei, na noite deste sábado (31), contra o Mackenzie, no Ginás…"
+  },
+  {
+   "titulo": "Flamengo defende posto de melhor mandante do Brasileirão 2026 em jogo contra o Grêmio; veja ranking",
+   "link": "https://colunadofla.com/2026/10/flamengo-defende-posto-de-melhor-mandante-do-brasileirao-2026-em-jogo-contra-o-gremio-veja-ranking/",
+   "data": "2026-10-31T23:19:57+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Mais Querido divide o topo do ranking com o Palmeiras, ambos com 39 pontos em 16 jogos O Flamengo pode chegar a 82,4% de aproveitamento como mandante no Brasileirão 2026 se vencer o Grêmio. O duelo acontece na próxima q…"
+  },
   {
    "titulo": "Flamengo corre risco de ser punido pela Conmebol por atitude em jogo da Libertadores",
    "link": "https://colunadofla.com/2026/10/flamengo-corre-risco-de-ser-punido-pela-conmebol-por-atitude-em-jogo-da-libertadores/",
@@ -122,28 +154,20 @@
    "resumo": "Rubro-Negro soma 34 pontos em 17 jogos fora de casa A goleada por 4 a 1 sobre o Vasco elevou o aproveitamento do Flamengo como visitante no Brasileirão 2026 para 66,7%. Com o resultado da quinta-feira (29), no Nilton Sa…"
   },
   {
-   "titulo": "Jogo do Brasileirão hoje: Coritiba e Vitória fecham 33ª rodada em duelo contra o rebaixamento",
-   "link": "https://colunadofla.com/2026/10/jogo-do-brasileirao-hoje-coritiba-e-vitoria-fecham-33a-rodada-em-duelo-contra-o-rebaixamento/",
-   "data": "2026-10-31T14:28:08+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Partida encerra a 33ª rodada, na qual Flamengo goleou o Vasco Coritiba e Vitória se enfrentam neste sábado (31), às 16h (de Brasília), no Couto Pereira, em Curitiba, e fecham a 33ª rodada do Brasileirão. O confronto dir…"
-  },
-  {
-   "titulo": "A importância de Léo Ortiz na goleada do Flamengo sobre o Vasco",
-   "link": "https://colunadofla.com/2026/10/a-importancia-de-leo-ortiz-na-goleada-do-flamengo-sobre-o-vasco/",
-   "data": "2026-10-31T14:16:18+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Zagueiro acertou 89% dos passes, não sofreu dribles e iniciou o lance do quarto gol no 4 a 1 contra o Vasco Léo Ortiz se destacou na vitória do Flamengo por 4 a 1 sobre o Vasco, na quinta-feira (29), no Estádio Nilton S…"
-  },
-  {
    "titulo": "Pedro completa bingo dos rivais no Brasileiro e se candidata a novo \"Rei dos clássicos\" no Flamengo",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/31/pedro-completa-bingo-dos-rivais-no-brasileiro-e-se-candidata-a-novo-rei-dos-classicos-no-flamengo.ghtml",
    "data": "2026-10-31T13:00:00+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Veja os seis gols de Pedro em clássicos no Brasileirão 2026 Os dois gols que abriram caminho para a goleada por 4 a 1 sobre o Vasco, na última quinta-feira no Nilton Santos, serviram não só para Pedro quebrar o jejum de…"
+  },
+  {
+   "titulo": "Bap rejeita compras e mira jogadores livres para o Flamengo em 2027",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZGV5UGpvaFpWVGhIVU1yQ1VQczVYdGtydVZaYW1FcG1WWHJaaHdWV241bmxBa29HRU1vdU5KT2EyeEtlV25sZ0hMN0Y1S01QSlVCV1hXaGxvVHd1YXBKN1lzeVBPWk5UY25qMlktMG1DOFpYWUduVVJRZTZHYTRVaGE0TDVKMUxWTTVFMkVBeG1vemZVWjF4b3FNcHhMNUQwVTFyNFc3Q1ZqcHgyYmFqcUxZaFY0NVNCMUI1cFhSSkVxMzNBMmVmMXFFazhlNmtjODBzbDRNRlVPNk9xbjhr?oc=5",
+   "data": "2026-10-31T12:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Samuel Lino, do Flamengo, desabafa após ficar fora da Seleção e faz cobrança à CBF",
@@ -154,20 +178,20 @@
    "resumo": "Autor de dois gols na goleada sobre o Vasco, atacante ficou fora da lista de Ancelotti por decisão da CBF de preservar Flamengo e Palmeiras Samuel Lino pediu que a CBF arrume o calendário do futebol brasileiro. O atacan…"
   },
   {
-   "titulo": "Bap rejeita compras e mira jogadores livres para o Flamengo em 2027",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZGV5UGpvaFpWVGhIVU1yQ1VQczVYdGtydVZaYW1FcG1WWHJaaHdWV241bmxBa29HRU1vdU5KT2EyeEtlV25sZ0hMN0Y1S01QSlVCV1hXaGxvVHd1YXBKN1lzeVBPWk5UY25qMlktMG1DOFpYWUduVVJRZTZHYTRVaGE0TDVKMUxWTTVFMkVBeG1vemZVWjF4b3FNcHhMNUQwVTFyNFc3Q1ZqcHgyYmFqcUxZaFY0NVNCMUI1cFhSSkVxMzNBMmVmMXFFazhlNmtjODBzbDRNRlVPNk9xbjhr?oc=5",
-   "data": "2026-10-31T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Por que Jardim comentou possível saída do Flamengo e como está cenário para sua permanência e a de Boto",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/31/por-que-jardim-comentou-possivel-saida-do-flamengo-e-como-esta-cenario-para-sua-permanencia-e-a-de-boto.ghtml",
    "data": "2026-10-31T07:00:00+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Brasileirão é obrigação? \"Torcedor do Flamengo está mal acostumado\" Leonardo Jardim aproveitou o clássico contra o Vasco para abordar as especulações sobre o futuro no Flamengo. Ao ser perguntado se continuará no clube…"
+  },
+  {
+   "titulo": "Flamengo atropela o Barcelona na Messi Cup; VEJA os melhores momentos",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15TjM5MHVGZXlhY0lXR2d3SWYyVjQ2cS10eUtxYXFnY0d4d1BIMWNYZlpucTBINEx1RWpZS0J0ei1GQkZCeU4yb0ppc2t5M2ZXX1hGdV9jQ2YyZ1M0Vmc?oc=5",
+   "data": "2026-10-31T02:11:43+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "É oficial! Craques do Flamengo ganham bustos de homenagem",
@@ -858,14 +882,6 @@
    "resumo": ""
   },
   {
-   "titulo": "'Seda sem filtro': programa esmiúça erros e acertos da temporada do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbU1FN2xMcUtsZlpQNnh0dHVVVmFpS0tpbkg4TTFmZXYtSnFUS0hmNmkwQUlYOHFfNl9LU2tBcVRxZERVUUtDTXgtQ2FSU0EtYnB0bjNrMVo2NFpqVGtYZERwSWdpRDR0bXN6VHR2dTFaczg1QV8yVHVlYjl0Vmotc0NZZGZyOGpZYV91amFnRF92azhhOWtCUFE1cHdTdlJoRzEwZXByUEIzbVVlcE16cS1fSHJHS2VUYjFPQQ?oc=5",
-   "data": "2026-10-29T22:20:23+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Milly: Convocar um de cada time menos Flamengo e Palmeiras não faz sentido",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa0gxSWMxYWUxSXcxSDIzUWhWQmg3M21PWG1pOHNyVnlSZkRoczBtbkloUGd6RTZTQ0IyM0RxYUhkU3FpU0ppX1lYNVpjTE5tcy1aLWFJQ0lsZHc5Mk84cFlHVHdyVEdIMXJKTUM3bW9NV1EyQlNsVloxWmw1S3ZZeU9DWVlHWWthc0FxbURxYjdfMlIyOF9uNzJ4V3VKOG0yV2NadmpJNURTdzc1V1NtbmxpMFpvRVhQY2FlWjB0c1dXY0F6SG5fWkF3a2xiN2Q1Wng2TGl5RlBxSnd2bVhPU0s1bGRFd1F5d2c?oc=5",
    "data": "2026-10-29T22:06:26+00:00",
@@ -1216,22 +1232,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Tempo Real | Vasco x Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3h6SVQ2Y1JKS0pnWFo5dDdiU19tZlFKbHNoTnZvNGJCV2Iyb1pzZHNEdGpmY04weHB4aWlMQ2xEdnMtWTQxUDkwSm42NnN3MlB2enJad2FJM1VGXzE3cVV5Ny1GRTg1TTB4SldKb05xTExSWGhWVWVHTTk3aUtRVTRtS1dhRmdwd0tVbWxjUUl1T2VtdWs3NA?oc=5",
-   "data": "2026-10-29T07:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Vasco x Flamengo: onde assistir ao vivo, horário e escalações",
-   "link": "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/10/29/vasco-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-   "data": "2026-10-29T06:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Vasco x Flamengo: informações e palpite para o jogo Vasco e Flamengo travam clássico às 20h desta quinta-feira no Estádio Nilton Santos em jogo da 33ª rodada do Campeonato Brasileiro. O ge acompanha todos os lances do j…"
   }
  ]
 }
