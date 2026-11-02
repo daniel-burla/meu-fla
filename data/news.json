@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-01T20:47:10.952226+00:00",
+ "atualizadoEm": "2026-11-02T00:35:07.876344+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 67
+   "itens": 69
   },
   {
    "id": "uol",
@@ -34,36 +34,76 @@
  ],
  "itens": [
   {
+   "titulo": "Flamengo arrecada R$ 1,7 milhão em leilão para os bustos de Arrascaeta e Bruno Henrique",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/01/flamengo-arrecada-r-17-milhao-em-leilao-para-os-bustos-de-arrascaeta-e-bruno-henrique.ghtml",
+   "data": "2026-11-02T00:18:26+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Bap anuncia criação de bustos para Arrascaeta e Bruno Henrique no Flamengo O Flamengo realizou na última sexta-feira, no Maracanã, a primeira edição do \"Lance Histórico\", um leilão beneficente com cerca de 500 convidado…"
+  },
+  {
+   "titulo": "Flamengo tem R$ 634 milhões a pagar e R$ 158,6 milhões a receber; veja detalhes do balancete",
+   "link": "https://colunadofla.com/2026/11/flamengo-tem-r-634-milhoes-a-pagar-e-r-1586-milhoes-a-receber-veja-detalhes-do-balancete/",
+   "data": "2026-11-01T22:48:19+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Relatório financeiro do terceiro trimestre detalha os compromissos pendentes com contratações e renovações, além dos valores que ainda entrarão nos cofres rubro-negros por vendas de jogadores O Flamengo tem aproximadame…"
+  },
+  {
+   "titulo": "Flamengo volta atrás e retira pedido para suspensão de venda de ingressos da final da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNlF2WF9Gam4zb0E0WVY0SlNQNlNMYjRzdFNvdUZmbTRNem9zWXVoaTBFbGtzUnJJYUJMRVVLR2JZM0ZicUdXTlBLVF9VTnpxcGppa3NKdDFUNVlMNjBmQ3l1V09HVldWTm9GOEdpNE8tSmRGVE54MDlvVUF4UG5nU04zY0Qxc2ZpTlhYZk1xNTF1YTE5MG5ycDlQNmlNZ1lHY3hJalJydjdZQ2wwc0lKcmJhZVYzZUdCSmpGTFExZVdrVlJ0WVEza0h2dzhlODV1dXhFODlyTlJJU1RlYWFmVDNYM2xHa1g5ck1kYnJUVFpVdw?oc=5",
+   "data": "2026-11-01T22:35:34+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo vence União Corinthians e conquista 3ª vitória consecutiva no NBB",
+   "link": "https://colunadofla.com/2026/11/flamengo-vence-uniao-corinthians-e-conquista-3a-vitoria-consecutiva-no-nbb/",
+   "data": "2026-11-01T22:17:03+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rubro-Negro derrotou o adversário por 83 a 65 neste domingo (01), no Maracanãzinho, com destaque para Yago Mateus e estreia de Sam Freeman na competição O Flamengo venceu o Ceisc/União Corinthians por 83 a 65 neste domi…"
+  },
+  {
+   "titulo": "Flamengo retira pedido de suspensão de venda de ingressos para final da Libertadores; VEJA detalhes",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1bFpQeTJzVEdnX2pyX3NyamI3UDEzYktyQU40eUNvdVJoSy1STUk1N2ViWVNydm9WaU03cGl4dlV3ajBPMmxfekpPQW5BMUQxMDY3M2VlT0tnVkdrWFE?oc=5",
+   "data": "2026-11-01T22:03:52+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Pedrinho explica escolha de São Januário após proposta do consórcio Fla-Flu para jogar no Maracanã",
+   "link": "https://colunadofla.com/2026/11/pedrinho-explica-escolha-de-sao-januario-apos-proposta-do-consorcio-fla-flu-para-jogar-no-maracana/",
+   "data": "2026-11-01T21:26:59+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Presidente do Vasco confirmou o estádio da semifinal da Copa do Brasil após o consórcio que administra o Maracanã disponibilizar o local para o confronto contra o Palmeiras O presidente do Vasco, Pedrinho, confirmou que…"
+  },
+  {
+   "titulo": "Com polêmicas de arbitragem, Palmeiras vence Vasco e sai na frente na semifinal da Copa do Brasil",
+   "link": "https://colunadofla.com/2026/11/com-polemicas-de-arbitragem-palmeiras-vence-vasco-e-sai-na-frente-na-semifinal-da-copa-do-brasil/",
+   "data": "2026-11-01T20:59:41+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Maurício marcou o gol da vitória do Palmeiras por 1 a 0 neste domingo (01) O Palmeiras venceu o Vasco por 1 a 0 neste domingo (01), no Nubank Parque, em São Paulo, e saiu na frente na disputa por uma vaga na final da Co…"
+  },
+  {
+   "titulo": "Grêmio x Atlético-MG: veja escalação das equipes para semifinal da Copa do Brasil",
+   "link": "https://colunadofla.com/2026/11/gremio-x-atletico-mg-veja-escalacao-das-equipes-para-semifinal-da-copa-do-brasil/",
+   "data": "2026-11-01T20:43:42+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Equipes se enfrentam neste domingo (01), às 18h30 (horário de Brasília), na Arena do Grêmio, pelo jogo de ida da semifinal A Copa do Brasil entra em campo neste domingo (01), com o confronto entre Grêmio e Atlético-MG p…"
+  },
+  {
    "titulo": "Brasileirão: veja a programação do Flamengo para enfrentar o Grêmio",
    "link": "https://colunadofla.com/2026/11/brasileirao-veja-a-programacao-do-flamengo-para-enfrentar-o-gremio/",
    "data": "2026-11-01T19:31:01+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Rubro-Negro treina nesta segunda-feira (02) e terça-feira (03) antes do duelo contra o time gaúcho, marcado para quarta-feira (04), no Maracanã Após vencer o Vasco por 4 a 1, na última quinta-feira (29), o Flamengo se r…"
-  },
-  {
-   "titulo": "Flamengo de olho: próximo adversário no Brasileirão, Grêmio joga neste domingo pela Copa do Brasil",
-   "link": "https://colunadofla.com/2026/11/flamengo-de-olho-proximo-adversario-no-brasileirao-gremio-joga-neste-domingo-pela-copa-do-brasil/",
-   "data": "2026-11-01T19:06:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro acompanha semifinal da Copa do Brasil neste domingo (01) e encara a equipe gaúcha na quarta-feira (04), pelo Brasileirão O Flamengo acompanha com atenção o jogo entre Grêmio e Atlético-MG neste domingo (01),…"
-  },
-  {
-   "titulo": "Flamengo pagou R$ 43,9 milhões em jogador que só atuou por 6 minutos",
-   "link": "https://colunadofla.com/2026/11/flamengo-pagou-r-439-milhoes-em-jogador-que-so-atuou-por-6-minutos/",
-   "data": "2026-11-01T18:51:35+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Anthony Valencia entrou em campo apenas uma vez pelo Flamengo O Flamengo divulgou o balancete financeiro do último trimestre, no qual revelou o valor exato de investimentos feitos em jogadores. Dentre eles, está o equat…"
-  },
-  {
-   "titulo": "Palmeiras x Vasco: veja escalação das equipes para semifinal da Copa do Brasil",
-   "link": "https://colunadofla.com/2026/11/palmeiras-x-vasco-veja-escalacao-das-equipes-para-semifinal-da-copa-do-brasil/",
-   "data": "2026-11-01T18:04:14+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Com o Brasileirão parado, a Copa do Brasil é quem domina o calendário do futebol nacional neste domingo (01). A partir das 16h (horário de Brasília), a bola rola para Palmeiras x Vasco, no jogo de ida da semifinal da co…"
   },
   {
    "titulo": "Flamengo joga antes do Palmeiras e tem chance de abrir 6 pontos de vantagem no Brasileirão",
@@ -82,14 +122,6 @@
    "resumo": "Carrascal supera Samuel Lino em estatística O Flamengo tem um elenco recheado de talentos individuais, e o segundo semestre de 2026 tem sido especial para um deles: Jorge Carrascal. Aos 28 anos, o colombiano tem sido de…"
   },
   {
-   "titulo": "Jogos da Copa do Brasil hoje: veja horários e onde assistir a Palmeiras x Vasco e Grêmio x Atlético-MG",
-   "link": "https://colunadofla.com/2026/11/jogos-da-copa-do-brasil-hoje-veja-horarios-e-onde-assistir-a-palmeiras-x-vasco-e-gremio-x-atletico-mg/",
-   "data": "2026-11-01T15:39:38+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Palmeiras x Vasco e Grêmio x Atlético-MG abrem as semifinais neste domingo (01); Flamengo acompanha o próximo adversário no Brasileirão A Copa do Brasil tem dois jogos neste domingo (01), válidos pela ida das semifinais…"
-  },
-  {
    "titulo": "Flamengo ou Palmeiras, quem vive a melhor fase no Cartola? Veja o ranking de outubro",
    "link": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/11/01/flamengo-ou-palmeiras-quem-vive-a-melhor-fase-no-cartola-veja-o-ranking-de-outubro.ghtml",
    "data": "2026-11-01T15:00:00+00:00",
@@ -104,14 +136,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x União Corinthians: onde assistir ao jogo do NBB hoje",
-   "link": "https://colunadofla.com/2026/11/flamengo-x-uniao-corinthians-onde-assistir-ao-jogo-do-nbb-hoje/",
-   "data": "2026-11-01T13:49:42+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro enfrenta equipe gaúcha neste domingo (01), no Maracanãzinho, pela quarta rodada do Novo Basquete Brasil 2026/27 O Flamengo enfrenta o Ceisc/União Corinthians neste domingo (01), às 11h (horário de Brasília),…"
   },
   {
    "titulo": "Pré-lista e boa fase inspiram Royal no Flamengo: 'Vou voltar para seleção'",
@@ -277,6 +301,14 @@
    "titulo": "Ex-Flamengo, Juninho marca golaço de letra e comanda vitória do Pumas",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUi1JSF9hY3NJaDdzbU1NSFNONFhwZUNFeXZJSTRZX09Dcm0zcGFrZVdRZ1BiNTJFVTdpUmY1azNYdF9YVkNEeERPWnZxN1NPX1hDd1Y3WXhjX1JmZVN4ZHE5d0hiN0VYTGVlc2F4c3FMMGYwVmdYODN5TFpoc2c5OFZrTlpBWnd1bTlkZWNBSmh1VXBXN3N6Qm9DU3c1Qm5GYmE2T29Rek91OURjZnZ4LVV3NmlLOHV2RkxFeg?oc=5",
    "data": "2026-10-31T18:01:51+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Presidente da Assembleia Geral do Vasco questiona interesses por trás de oferta do Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWxFQlJtakY4SElPVWNEalRVbW55MmNpbUQ5Q0h6dFhlRWZhNE8waEVETXJ5NG9iZkxtM09QZU1XelJaelRpRGZ5YTg5YXgxM2E3ejhsWmpscXVxV19hbVdxS25CZ3BCVHNWX1YycWExaUMtWVdQRFctVG5JcnRkUVgxdnJxY3g5TEpsbFFjRk5UMUw4NVY4b1JhWVE0Q0pqTUluZUxPb1A0UHlqR21vSzVqUFplczNyRFRjQUhESzhnOXVybkE?oc=5",
+   "data": "2026-10-31T17:07:42+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -1058,14 +1090,6 @@
    "resumo": ""
   },
   {
-   "titulo": "O que o Hugo Moura aprendeu com os veteranos do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPak96QlBPUlBCNjRoSmZCRE0yNTdEdnpubDB4SjlqQjZndjg3VTBESzVfNmhmN1pHVjBEUG1kNzVERTg4T3ZmbFNoOVRFMzkwWS1Ca0NaMXcxZ05sNl9MZEpFSFhBODhsWFVKbTUxNnpfWFNfbC15TE9tXzFMd2ljVXYyZE5ic2Q0Y0V5WmpFX2VPanI4dk4tR1FiQWhEMUNhbjdVaFZR?oc=5",
-   "data": "2026-10-29T21:27:21+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Como assistir Vasco x Flamengo pelo Amazon Prime?",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUhZYndXTi12Mk80ZzE0emEzVk1FVnhfM3JaajZOeDdPdk9SZFRmTzczdmFIYVNzVks1NU9aUVNsRHRIaUZMTGdfODhYMXQxVUE2WFJoSnRwcjB0cDFUdW1oczhIcDY2eXdiY2p2WUlFTFpXeUt4Nk9KTEtsaF8yNGFuZXNocXdjdUJJQUQ3R3JDTkFBMnZ3MWFPTQ?oc=5",
    "data": "2026-10-29T21:00:00+00:00",
@@ -1207,30 +1231,6 @@
    "data": "2026-10-29T15:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo tem favoritismo, mas não é o mesmo do ano passado, diz Arnaldo",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUEUwTTF6Rk1fU244eFo2b2VGOGpHWl95eWxfZFBrbjI2OEN2b1VrSXl1SmhOV0dqd1NUb3Fmb3o5U1hmMlZCREZETkdTRFVYN0oxaE1QaEdXdUpmWFpBVDI2dUpoVWFaelgyZTVFb0ZhY0g2MU15d0VTLS1pb0UxcDM0MGtESkJJZi1ZTTIxYlNIRWJkVGVvb0NJay1tNWtwVjFMNkFLUlBQYVZqNWtzclVNbEExT0F3QzluSk9yaXNrVXFlejhMSGd6VlZQUlZKN1NESTZpNlk?oc=5",
-   "data": "2026-10-29T14:17:15+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "'Palmeiras se complicou': Julio aponta dois fatores na disputa com Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQmJTNjA2QUxkTm95ZG1NYmU3WXlTSnR3Um5xUC1DcHI1TnlwZExjOUtiSWczd3Y1OGF4cmVMZ3BuVjg1OFRjU2hrSjlxT2JRUy1lSGlYMU5XUnJxU0pUVXlHNXh0V2dvNUR6N3l5R1ZMOHhJdC1YcThvWmp6aFRZcHYyTFU0SEpxRmt6S05sTnpJVHpBVE53Z1hqXy1PazZsQWpfSjg1VzZKZmVTb3JSdHkzOWFxSWlneXk0U3hvM1VlSXRmcFN5Slo0X2RwaW8yMzd5T285OUNFN205M3IwWXZDc3k?oc=5",
-   "data": "2026-10-29T14:01:02+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Abel comenta disputa do título com Flamengo: 'Não vamos abrir mão de nada'",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcmx4Y2lSdHRHLUtsemg1d0IxdEtBY0prUzZjSk5iZ2hJX1luWVk1QllCOTZDVmZsTUw0cEoxVVlBMFZNVXZJMjBUTEthclpyOUxMbDJnS0plU0pzbDFPQnlybU80N185ZEZidk5sQ0JMbXF5NFc4WGxBSU5LM1hQLTJPZzJDMm5uV0F2UEoxN2ZZYnNtN0lEY2FJaFh0ZVBfS0FSYnFxN3VFdjFvWXRDd2Vzak9GWDRqQ2o4Q3JiZjVRM0ZhNDBCcjJ2bTNKNjZaUUg4WEpTLURzaTlaOUE?oc=5",
-   "data": "2026-10-29T13:41:51+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
