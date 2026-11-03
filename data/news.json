@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-02T23:50:45.179501+00:00",
+ "atualizadoEm": "2026-11-03T06:34:01.899684+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 42
+   "itens": 33
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,64 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 67
+   "itens": 64
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 91
+   "itens": 92
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo pode ganhar a briga contra o gramado sintético",
+   "link": "https://colunadofla.com/2026/11/flamengo-pode-ganhar-a-briga-contra-o-gramado-sintetico/",
+   "data": "2026-11-03T02:37:41+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Encontro vai debater a situação do gramado sintético no Brasil A CBF deve levar o gramado sintético para o centro da próxima reunião com os clubes sobre o desenvolvimento da Liga. Segundo o jornalista Pedro Ivo Almeida,…"
+  },
+  {
+   "titulo": "Atacante do Grêmio esquece semi da Copa do Brasil e crava: “Estamos 200% focados no Flamengo”",
+   "link": "https://colunadofla.com/2026/11/atacante-do-gremio-esquece-semi-da-copa-do-brasil-e-crava-estamos-200-focados-no-flamengo/",
+   "data": "2026-11-03T01:49:50+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Artilheiro do time gaúcho, Carlos Vinícius cumpre suspensão forçada a pedido de Renato Gaúcho Suspenso, o centroavante Carlos Vinícius não enfrenta o Flamengo nesta quarta-feira (4), às 19h30 (de Brasília), no Maracanã,…"
+  },
+  {
+   "titulo": "Léo Ortiz, do Flamengo, analisa quase golaço no clássico contra o Vasco: \"Podia ganhar o Puskás\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/02/leo-ortiz-do-flamengo-analisa-quase-golaco-no-classico-contra-o-vasco-podia-ganhar-o-puskas.ghtml",
+   "data": "2026-11-03T01:32:43+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Léo Ortiz corre o campo inteiro no quarto gol do Flamengo sobre o Vasco O Flamengo goleou o Vasco por 4 a 1 na última quinta-feira, com dois gols de Pedro e outros dois de Samuel Lino. Mas o lance que mais marcou o clás…"
+  },
+  {
+   "titulo": "Rodinei marca golaço contra, e outros 2 ex-Flamengo brilham em vitória do Bragantino sobre o Santos no Brasileirão",
+   "link": "https://colunadofla.com/2026/11/rodinei-marca-golaco-contra-e-outros-2-ex-flamengo-brilham-em-vitoria-do-bragantino-sobre-o-santos-no-brasileirao/",
+   "data": "2026-11-03T01:00:03+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Três ex-jogadores do Flamengo participaram de todos os gols da vitória por 2 a 1 em Bragança Paulista, pela 34ª rodada do Brasileirão O Red Bull Bragantino venceu o Santos por 2 a 1 nesta segunda-feira (02), no Estádio…"
+  },
+  {
+   "titulo": "Léo Ortiz admite arrependimento por lance no travessão e lamenta Prêmio Puskás perdido: “Maior injustiça”",
+   "link": "https://colunadofla.com/2026/11/leo-ortiz-admite-arrependimento-por-lance-no-travessao-e-lamenta-premio-puskas-perdido-maior-injustica/",
+   "data": "2026-11-03T00:20:19+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Zagueiro contou que já viu o lance “umas mil vezes” e afirmou que poderia ter disputado o Prêmio Puskás se a arrancada terminasse em gol Léo Ortiz ainda lamenta a bola no travessão na goleada do Flamengo sobre o Vasco.…"
+  },
+  {
+   "titulo": "Em 10 meses, Flamengo bate recorde e já supera lucros de anos inteiros de bilheteria no Maracanã",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/02/em-10-meses-flamengo-bate-recorde-e-supera-lucro-de-bilheteria-no-maracana-dos-ultimos-anos.ghtml",
+   "data": "2026-11-02T23:56:38+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Vai dar Flamengo? Torcedores simulam a reta final do Brasileirão Em meio à situação financeira delicada do Flamengo em 2026, o Maracanã virou um grande alívio para os cofres rubro-negros. A atual gestão do presidente Ba…"
+  },
   {
    "titulo": "Neto sobe o tom e cobra postura de Pedrinho após jogo do Vasco x Palmeiras: “Se fosse contra o Flamengo…”",
    "link": "https://colunadofla.com/2026/11/neto-sobe-o-tom-e-cobra-postura-de-pedrinho-apos-jogo-do-vasco-x-palmeiras-se-fosse-contra-o-flamengo/",
@@ -58,14 +106,6 @@
    "resumo": "Cria do Flamengo, Wesley, da Roma (ITA), comentou em ‘live’ o desejo de voltar ao Rubro-Negro Wesley está escrevendo história na Roma (ITA), porém, a trajetória do lateral começou vestindo a camisa do Flamengo. Diante d…"
   },
   {
-   "titulo": "Flamengo arrecada valor milionário com homenagens a Arrascaeta e Bruno Henrique",
-   "link": "https://colunadofla.com/2026/11/flamengo-arrecada-valor-milionario-com-homenagens-a-arrascaeta-e-bruno-henrique/",
-   "data": "2026-11-02T21:34:58+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Maior lance chegou a R$ 400 mil e garantiu ao vencedor o nome gravado nas esculturas, que serão inauguradas em 15 de novembro O Flamengo arrecadou R$ 1,7 milhão com a venda do direito de gravar nomes nos pedestais dos b…"
-  },
-  {
    "titulo": "Renato Gaúcho reclama de ‘benefício’ do Flamengo antes de jogo contra o Grêmio, pelo Brasileirão",
    "link": "https://colunadofla.com/2026/11/renato-gaucho-reclama-de-beneficio-do-flamengo-antes-de-jogo-contra-o-gremio-pelo-brasileirao/",
    "data": "2026-11-02T20:37:23+00:00",
@@ -80,22 +120,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Vai dar Flamengo? Torcedores simulam a reta final do Brasileirão O Flamengo continua a preparação para enfrentar o Grêmio na quarta-feira, às 19h30 (de Brasília), no Maracanã, em jogo da 34ª rodada do Campeonato Brasile…"
-  },
-  {
-   "titulo": "Como está a situação de Valencia antes de jogo do Flamengo x Grêmio? Checamos!",
-   "link": "https://colunadofla.com/2026/11/como-esta-a-situacao-de-valencia-antes-de-jogo-do-flamengo-x-gremio-checamos/",
-   "data": "2026-11-02T19:44:15+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Valencia se recuperou de quadro de conjuntivite e voltou a treinar com os companheiros no CT Ninho do Urubu Por: Rodrigo Lima O Flamengo tem o Grêmio como último compromisso na agenda antes da Data FIFA de novembro. Par…"
-  },
-  {
-   "titulo": "A declaração de Abel Ferreira, do Palmeiras, sobre Vasco ter poupado jogadores contra o Flamengo",
-   "link": "https://colunadofla.com/2026/11/a-declaracao-de-abel-ferreira-do-palmeiras-sobre-vasco-ter-poupado-jogadores-contra-o-flamengo/",
-   "data": "2026-11-02T18:46:36+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Pedro Emanuel, técnico do Vasco, optou por descansar jogadores no clássico antes de decisão da semifinal da Copa do Brasil Antes de encarar o Palmeiras na Copa do Brasil, o Vasco enfrentou o Flamengo na quinta-feira (26…"
   },
   {
    "titulo": "Flamengo segue busca por dirigente, e Edu Gaspar volta a entrar no radar",
@@ -138,6 +162,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Monaco chega a quatro jogos sem vencer no Francês, e Filipe Luís desabafa: 'Plano não funcionou'",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc2tnYkd3UzU1ZGd5dzBEOWE5QVBwLXBPWURjemFMUFJjU0d2ell6MFZpajVlSGx1dy1tUkJYbHFPdm1rMWRteHdOc2hBeW14VWNNZ291Nk9iZlVzSU45QXdSMTNCZGIyZVpCZHJNU3k2dFlMS1RMcG12ZzV0ak04OUNMVGY0OTBqbmJrYzg0bnBCSGtjclRZVGZsd0JFNFZteHd5b0JVNlVaTXlvV3A4TFJxUl81UUcwOGc4VzRJcXFHTWVrbkdpTURfaHp3Yzk5Y1JnR0t0UzNsUTVNWTdR?oc=5",
+   "data": "2026-11-02T15:32:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo x Grêmio ao vivo hoje 04/11: siga placar agora | Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVRFZ1pBNk9OVUhjeW1EWjlpUDlYTFZ6czI4Tm1LbTNrajNwWG9fcFpIbERoLVBsZGZBYTExQlVoSXRyNjI1ME5mWklWcjRWcjl0X3AtX3JNY1FQdVhla3d4Rk1iaEEzWUNjclRYTjlkVXM0eFdiajRHSjQ4TGhYZk5qMEJneURIX0luV01EWQ?oc=5",
    "data": "2026-11-02T15:04:45+00:00",
@@ -160,14 +192,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Caio Ribeiro opina sobre Samuel Lino no Flamengo: “Impressionante” Contra o Grêmio, que busca se manter fora do Z-4, o Flamengo defende a vantagem de três pontos e duas vitórias na liderança sobre o Palmeiras. Desde 201…"
-  },
-  {
-   "titulo": "Flamengo tem 3 desfalques e 3 dúvidas para jogo contra o Grêmio pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/11/flamengo-tem-3-desfalques-e-3-duvidas-para-jogo-contra-o-gremio-pelo-brasileirao/",
-   "data": "2026-11-02T14:41:11+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Leonardo Jardim segue preparação do Flamengo para jogo contra o Grêmio O Flamengo tem três desfalques e três dúvidas para enfrentar o Grêmio nesta quarta-feira (04), no Maracanã. A partida começa às 19h30 (horário de Br…"
   },
   {
    "titulo": "Ainda tem dinheiro? Como fica o caixa do Flamengo após investimento recorde",
@@ -645,14 +669,6 @@
    "titulo": "CBF define data e horário de duelo entre Palmeiras e Flamengo no Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcTRPbmtZYXNkVzdlRk5SRTBBUzJBYnZrZkZQQVlLUHN5em9CeVlPQzVyd093V2lERHR3RDhydjg5Vkc2c1l3aF9uYjlmaUl2SDF0NmdZTTE3bk5xcnd1T1V5RHg1SDR6U0VIcmczZnlONjNPRnhQNkduMjl5UVhhZ3UzQzZLYUNMZHExT2RsT2dxUzNsTm5lbHRseTQzYWtyMENYRFFPaXRVZnZha29Uc3dSQV9HT3ZZcWJQcnRXcFBWNUtMbTdXQ05aeDZiQnptZVpqN1QxYmQ0YTFpSGNNSA?oc=5",
    "data": "2026-10-30T14:37:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "'Flamengo campeão de novo': colunistas opinam se disputa pelo Brasileirão acabou na última rodada",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MVExRHBUUkxKS24waU1Jek12aW5MZm9Id1dvMXlFLXlIeHRpQUtnaUJJTFpLcHdyRG9icXgwSGJWWWs1Rk93T2htbjh2STZ3WHktU3BvYW5XdEdnNHRiUWFKdjIzNVU?oc=5",
-   "data": "2026-10-30T14:20:48+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -1210,27 +1226,11 @@
    "resumo": ""
   },
   {
-   "titulo": "Por que Flamengo e Palmeiras não tiveram convocados para a Seleção? Rodrigo Caetano responde",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYUhucG5GbmlIeW5WZ0ktQkpYMkFWTW9nWGNkblJJMlNsTEN4U3VrZjI3U0hwMy02S3p6bGI4akVlVVBYbmRqblQ3RjhPaEdmTU1rZ3JuZk5UQzVDZGdUaVFTblJ1Q0lqQ1NUMmtGYkpwRlNLU2RLcE5qWmdJQjJIWVl6Sl9uTldJdm9NZjRiTm5pcVNqX2Ntb2NTNXV5VTZVZ2NUb2NHbU5PVkp6U3hPVlpHZlVTNklzakNsNHB3Zmw3LWdoYlNVd0xxY2lac01iRkk2REhWNl9SLW1WX0t3Njg3QjhZRE5NNEE?oc=5",
-   "data": "2026-10-29T19:43:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Gabriel Jesus diz que foi procurado pelo Fla e recusou: '100% Palmeiras'",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd21PQ3o1TkptTGVqbnViQUJORWhNTnlienFuVnVkSHJPUVppYnpKdENXbkN3WUdfUXZQQ0lBRWoyWjFEanZDWUZWeWVHY0NySWdNMG02NmJZYUtNQ2lncUt6Z3dJRzhsay1wQmVFNTFhS0E4NmFBN1l3alZWRXhGajZ2RnJEYWxqODYyY0xxTU03MUlYeDlTSlNn?oc=5",
    "data": "2026-10-29T19:33:38+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Convocação da Seleção Brasileira: lista de Ancelotti sem Flamengo e Palmeiras tem mais novidades",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONTM0NXFCU3pzYWZKYl9fQURSXzc1Z0ZCa01Ublo4WWJhb3lFZ2RFSl93WG5FS0w4Zm9URHFwMjZGVUZ6QkxNbWhmXzE1TUoyN2RycFAwNUJ6N2w0Sko3RkVKNThlSHlPaDVLeUllY2FHMTU2bTMtLWMwc1BqNjEyZG1wX3Q4eUduVTRoU2djVUxJbXItSGtGWFBlV3k2SWJmMUZhWnhYTEdheUZsNU4yTjZoOGNrNDFzMHZBZmJCaldVTXJIc0l5RFhDaEgzcUItY2FIUS1NVUp0LS1DODlDTFJjNWQ?oc=5",
-   "data": "2026-10-29T19:11:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   }
  ]
