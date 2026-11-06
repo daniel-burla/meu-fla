@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-05T18:40:17.346891+00:00",
+ "atualizadoEm": "2026-11-06T00:06:34.572568+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 32
+   "itens": 30
   },
   {
    "id": "colunadofla",
@@ -29,10 +29,82 @@
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 73
+   "itens": 55
   }
  ],
  "itens": [
+  {
+   "titulo": "Torcida do Flamengo reage a possível falta em gol do Palmeiras: 'Todo jogo'",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnR3TFdPa0hZQndWNWVncUFaeTBMOFY3Yi1Bek1DaHlqVnk3VlVWdF9Ec2hFRnNnX3ZpRy1FaWJBZTQySmRlUXIwX3VPbjRtd2paRlBqcDFTejhoNFA1RFo1ZWNULVBmNFgxMTYzQnRobjNQTkNOQ0d2c1FpQnFTaEtVeXZaMGtOMnN4SFRnOVY0Ni10a091WXlsR19fQmp5WGx3Z0gtYVR0UWJCYXo5N0dKNTJ6SWs?oc=5",
+   "data": "2026-11-05T23:09:28+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "As escalações de Palmeiras e Remo para jogo do Brasileirão hoje; resultado interessa ao Flamengo",
+   "link": "https://colunadofla.com/2026/11/as-escalacoes-de-palmeiras-e-remo-para-jogo-do-brasileirao-hoje-resultado-interessa-ao-flamengo/",
+   "data": "2026-11-05T21:36:35+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Jogo entre Palmeiras e Remo será disputado às 19h30 (horário de Brasília) desta quinta-feira (05), no Nubank Parque O Palmeiras entra em campo nesta quinta-feira (05) para encarar o Remo, pela 34ª rodada do Brasileirão.…"
+  },
+  {
+   "titulo": "Volte bem, Arrascaeta! Ídolo do Flamengo revela sacrifício após lesão no Uruguai antes de nova viagem na Data FIFA",
+   "link": "https://colunadofla.com/2026/11/volte-bem-arrascaeta-idolo-do-flamengo-revela-sacrificio-apos-lesao-no-uruguai-antes-de-nova-viagem-na-data-fifa/",
+   "data": "2026-11-05T21:14:12+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Arrascaeta quebrou o braço na última partida do Uruguai Lá vem ela de novo, a temida Data FIFA. Convocado pelo Uruguai, Arrascaeta vai se apresentar ao elenco de Diego Forlán nos próximos dias. Após a vitória do Flameng…"
+  },
+  {
+   "titulo": "Questão psicológica, cansaço e machucados: as desculpas de Renato Gaúcho após Flamengo 3×1 Grêmio",
+   "link": "https://colunadofla.com/2026/11/questao-psicologica-cansaco-e-machucados-as-desculpas-de-renato-gaucho-apos-flamengo-3x1-gremio/",
+   "data": "2026-11-05T20:59:51+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Treinador justificou a preservação de titulares no Maracanã, revelou que tinha entre 10 e 12 jogadores pendurados e citou o desgaste físico do elenco gaúcho Renato Gaúcho explicou a estratégia adotada pelo Grêmio para e…"
+  },
+  {
+   "titulo": "Ex-Flamengo conta como perdeu o carro durante treino por atraso nos pagamentos: 'A gente recebia de seis em seis meses'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xVU5rNHZPRXB2TndTMDltOU1uVjFWMk5uMk5JV1ZPSV81eUdTVEJGU1pEekpqSC0xVUFxWW11aUtjVG9GcHNMVkQta3lqR25PM0VLVi1sYnNpX2RBYlE?oc=5",
+   "data": "2026-11-05T20:53:09+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Samuel Lino cita Gabigol e companheiro de Flamengo ao ser questionado sobre quem é o melhor jogador do Brasil",
+   "link": "https://colunadofla.com/2026/11/samuel-lino-cita-gabigol-e-companheiro-de-flamengo-ao-ser-questionado-sobre-quem-e-o-melhor-jogador-do-brasil/",
+   "data": "2026-11-05T20:48:11+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Samuel Lino é um dos destaques do Brasileirão no ano A temporada de Samuel Lino chama a atenção e encanta cada vez mais o torcedor rubro-negro. Contra o Grêmio, o camisa 16 marcou o 15º gol no ano. Com mais 13 assistênc…"
+  },
+  {
+   "titulo": "Jogador de time espanhol mostra ansiedade por título brasileiro do Flamengo",
+   "link": "https://colunadofla.com/2026/11/jogador-de-time-espanhol-mostra-ansiedade-por-titulo-brasileiro-do-flamengo/",
+   "data": "2026-11-05T19:40:29+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Campeão do Brasileirão em 2020 pelo Flamengo, Natan revela que continua acompanhando o clube Atualmente no Real Betis (ESP), Natan segue de olho no Flamengo. Revelado nas categorias de base do Mengão, o zagueiro contou…"
+  },
+  {
+   "titulo": "Zagueiro coloca título brasileiro pelo Flamengo acima de Libertadores com o Fluminense",
+   "link": "https://colunadofla.com/2026/11/zagueiro-coloca-titulo-brasileiro-pelo-flamengo-acima-de-libertadores-com-o-fluminense/",
+   "data": "2026-11-05T19:00:33+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Ex-Fla-Flu, David Braz colocou hexa do Flamengo como mais importante do que título inédito do Fluminense David Braz fez história no Flamengo e no Fluminense. Pelo Mengão, marcou um dos gols da vitória sobre o Grêmio, na…"
+  },
+  {
+   "titulo": "Lino e Léo Ortiz divergem sobre ‘secada’ em jogo do Palmeiras hoje; resultado interessa ao Flamengo",
+   "link": "https://colunadofla.com/2026/11/lino-e-leo-ortiz-divergem-sobre-secada-em-jogo-do-palmeiras-hoje-resultado-interessa-ao-flamengo/",
+   "data": "2026-11-05T18:14:57+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Samuel Lino contou que vai torcer para o Remo; Léo Ortiz contou que nem vai assistir O torcedor do Flamengo tem um compromisso para esta quinta-feira (05): secar o Palmeiras. O vice-líder do Brasileirão encara o Remo, a…"
+  },
   {
    "titulo": "Cartola: Carrascal supera Matheus Pereira e dispara como o meia com mais pontos no returno",
    "link": "https://ge.globo.com/gato-mestre/analises/noticia/2026/11/05/cartola-carrascal-supera-matheus-pereira-e-se-torna-o-meia-com-mais-pontos-no-returno.ghtml",
@@ -42,7 +114,7 @@
    "resumo": "Aos 27 min do 1º tempo - drible de Carrascal do Flamengo contra o Grêmio Arrascaeta? Jorginho? Paquetá? Nada disso! O nome do meio-campo do Flamengo no segundo turno do Brasileirão é Jorge Carrascal. O colombiano deu as…"
   },
   {
-   "titulo": "Flamengo avalia Alisson para 2027, mas não há consenso interno sobre o goleiro do Liverpool",
+   "titulo": "Alisson no Flamengo? Imprensa inglesa crava interesse no goleiro da Seleção para 2027",
    "link": "https://colunadofla.com/2026/11/flamengo-avalia-alisson-para-2027-mas-nao-ha-consenso-interno-sobre-o-goleiro-do-liverpool/",
    "data": "2026-11-05T16:37:50+00:00",
    "fonte": "colunadofla",
@@ -58,27 +130,11 @@
    "resumo": "Flamengo 3 x 1 Grêmio | Melhores momentos | 34ª rodada | Brasileirão 2026 Uma imagem chamou a atenção durante a vitória do Flamengo por 3 a 1 sobre o Grêmio, nesta quarta-feira, no Maracanã. Mas não foi dentro de campo.…"
   },
   {
-   "titulo": "VÍDEO: ex-técnico do Liverpool assiste a jogo do Flamengo no Maracanã ao lado de Bap",
-   "link": "https://colunadofla.com/2026/11/video-ex-tecnico-do-liverpool-assiste-a-jogo-do-flamengo-no-maracana-ao-lado-de-bap/",
-   "data": "2026-11-05T16:19:31+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Holandês acompanhou a vitória rubro-negra sobre o Grêmio ao lado de dirigentes do Flamengo e recebeu uma camisa personalizada A vitória do Flamengo por 3 a 1 sobre o Grêmio, na quarta-feira (04), contou com uma presença…"
-  },
-  {
    "titulo": "Angolano que enfrentou o Real Madrid se declara ao Flamengo",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcFlXUjMzNHhvckJCMEp3ME14aXJVSl82cEQwbUFKTW1mOTdRVENlTVZ6RVJWbE85cVUyRy1JR2xaV1FMRnpBSUhIdnZ4a3NjVW5XcXZWeENJeVpSVXFhaTRMM0lWVUZXd1pkamx4b1N0OTVpN3l6d1M0WnhtYzRQY1pQTFhVckRmMExFS282SEpxRTlmcTNoQzJpWFVDZFMxQUF1R2VGUmdiMGVwNzk2Y1h4SjhJT1hndVhfM183VlZMXzVzY2dId016NFF4X1hZbTNWaWdmMWZQS3FnU0tjUVh6MWxlTl9qWjk3ZkpDUlItWjg4ajdr?oc=5",
    "data": "2026-11-05T15:36:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Coluna do Seda: Flamengo volta a encantar no campo, e a ferver nos bastidores",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkd4ZVhia3hxTi1ybWhxYVVhZHVRTXY3eTJoTlQ0MHl0aDRnMjRZaG9fNmdTMFBfYmhnNVp4cnl2MGJmLVFTNldyclI2b1pNNVJqLWtpWjI0TW1sNUFwaWtDVDVjQ3NoODJQUVhkdXFmakwtRkp0aV9xcFBHcTBQOV81YjhVYVkzS0dVbVNhSFEwM0c5blplckxaTG9rSjlJM1BaVWZwRHF5SHF1N2tqLVNvRQ?oc=5",
-   "data": "2026-11-05T15:31:27+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -106,14 +162,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Em votação apertada, Pedro é eleito ‘Craque da Torcida’ após marcar 2 gols na vitória do Flamengo sobre o Grêmio",
-   "link": "https://colunadofla.com/2026/11/em-votacao-apertada-pedro-e-eleito-craque-da-torcida-apos-marcar-2-gols-na-vitoria-do-flamengo-sobre-o-gremio/",
-   "data": "2026-11-05T14:59:39+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Pedro marcou dois dos três gols do Flamengo contra o Grêmio A torcida do Flamengo escolheu Pedro como ‘Craque da Torcida’ da vitória por 3 a 1 sobre o Grêmio, na quarta-feira (04), no Maracanã. Autor de dois gols pela 3…"
-  },
-  {
    "titulo": "Réver se manifesta em nota sobre prisão por não pagamento de pensão",
    "link": "https://ge.globo.com/rs/futebol/noticia/2026/11/05/rever-se-manifesta-em-nota-sobre-prisao-por-nao-pagamento-de-pensao.ghtml",
    "data": "2026-11-05T14:40:36+00:00",
@@ -130,14 +178,6 @@
    "resumo": "Técnico do Grêmio reconheceu que o time viu o Flamengo jogar no primeiro tempo e antecipou a entrada de titulares O técnico Renato Gaúcho admitiu que o Grêmio poderia ter sofrido uma derrota ainda mais elástica para o F…"
   },
   {
-   "titulo": "Palmeiras tenta quebrar tabu de 33 anos contra o Remo para seguir na caça ao Flamengo",
-   "link": "https://colunadofla.com/2026/11/palmeiras-tenta-quebrar-tabu-de-33-anos-contra-o-remo-para-seguir-na-caca-ao-flamengo/",
-   "data": "2026-11-05T14:34:04+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Alviverde Paulista não vence o clube paraense desde 1993 O Palmeiras recebe o Remo nesta quinta-feira (05), às 19h30 (horário de Brasília), no Nubank Parque, pela 34ª rodada do Brasileirão. Além da pressão na briga com…"
-  },
-  {
    "titulo": "FLAMENGO, VASCO E BOTAFOGO VENCEM E CORINTHIANS AGONIZA NA ZONA DE REBAIXAMENTO",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVi0zRldxU2tOTVE0UmpYNDB5TUlMQzlFYVJRUllZU1c2Sm81dTlob1h1MFNlejFza0JPZkdWQUVxSm11T0l5cno2RkVmQ0RuX2daVUVGMFBBeVBfdjR2RWhfdDVORnVVaVVZVUhzYTk0WkFlY2ZWeEY1WmxXVEF4T3FFYlRvOTFrN3V4STNTYjZGZ0xXcEltRFltLXBzTG9ySzQ4SnczSC0yZGExN3lB?oc=5",
    "data": "2026-11-05T14:32:02+00:00",
@@ -146,28 +186,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo terá 14 dias sem jogos antes da sequência que define o campeão do Brasileirão",
-   "link": "https://colunadofla.com/2026/11/flamengo-tera-14-dias-sem-jogos-antes-da-sequencia-que-define-o-campeao-do-brasileirao/",
-   "data": "2026-11-05T14:26:12+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro só volta a campo em 18 de novembro, contra o Athletico-PR, e terá confronto direto com o Palmeiras três dias depois O Flamengo terá 14 dias sem jogos oficiais entre a vitória sobre o Grêmio, na quarta-feira…"
-  },
-  {
    "titulo": "Flamengo: Samuel Lino é o melhor jogador do Brasileirão, diz Arnaldo",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVmdwYzlWVTBRem1XMjlNMERJTnRmX0YzM2tYOWhfM2hsMy00LVRpaW5fQzgxQzBZLUcxUWpodlJjT1hNU2ZkMXVJaGhzVlZPZzJublU5dmJydXZMTUR3Z3J2YXJEbUhTWXA0X3hTZzF4TENwU1YyeVNkOEVmZjVrQ3J4Q3BvMTk2czY5ZHJyNl83S2pNUjVSR0Rtb2xFRDFOTEtma3dCeHJxd3FoMkthaDRIV3NxRkVSalR4Y3R6akVyQ1BGeEtVbVp0QXBOcGJl?oc=5",
    "data": "2026-11-05T14:21:17+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Flamengo pode ser campeão brasileiro contra o Athletico-PR; veja cenários necessários",
-   "link": "https://colunadofla.com/2026/11/flamengo-pode-ser-campeao-brasileiro-contra-o-athletico-pr-veja-cenarios-necessarios/",
-   "data": "2026-11-05T13:58:53+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Título antecipado depende de duas derrotas do Palmeiras e de uma vitória rubro-negra no dia 18 de novembro O Flamengo pode conquistar o Campeonato Brasileiro já no próximo jogo, contra o Athletico-PR, em 18 de novembro,…"
   },
   {
    "titulo": "Campanha do Flamengo no Brasileirão impressiona por algo que vai além da liderança",
@@ -188,6 +212,14 @@
   {
    "titulo": "Palmeiras caça Flamengo para seguir 'mantra' de Abel, mas peca fora de casa",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZTVqa2dCcnVBU2tWbDU5WEE1dGN4M3BLR29sUGhjUHlaTmNiSmJLZzU1YzlpZWd6VE5wUEt1cDdsWFZvNkdLa0FSdXBEMUdJTHlXYlFLRC1IZm9FMEZET1h6SS1zOHI1N09Bck9uT2lXZTdlemJoSHNTNkpDZUtOVFNqSXdpdHBSMVdWOHNLT1dyZlVfdmZRTGFQc2dkb2d3d2VPSkk5WVg4WG40Zk9PNklvaFl0OElCdjNqRENzMG1sa25JeVJSVHlaeV8tRXdWNlhtbHZ4d3ZKSlk?oc=5",
+   "data": "2026-11-05T13:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Mauro Cezar Pereira: Flamengo deu novo passo na busca pelo título após 'presentear' o Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUWY2cUdxajhFckM3Wnh3aG9KMktHRWxuU3M0MnhUcC05c2tReGNXd1hMM0kyM3kxUjRXMW5hZkZ2eGlrM1NkTHBsQWZmdUppaXRacng2Q2pZdlVBMlJ1TFBTOEgxSEFQVldlQ2djMkVtcGU4TmVBQWYwNVBoSTQ5SF9oVW91dkkzTmh1ZjhiM1E2VnZEUHV4LXRseVp3NFREbU1GYWJqdy05NXdja1B1Y3dxMUZRblpRNWFDdE9FS05TeFF0bG5UdEFRTjY2Ukh5R1lYWVkwZlF4SGJvMF9EQzF0ZE9henduaHdj?oc=5",
    "data": "2026-11-05T13:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -274,14 +306,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Mauro Cezar Pereira: Flamengo deu novo passo na busca pelo título após 'presentear' o Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUWY2cUdxajhFckM3Wnh3aG9KMktHRWxuU3M0MnhUcC05c2tReGNXd1hMM0kyM3kxUjRXMW5hZkZ2eGlrM1NkTHBsQWZmdUppaXRacng2Q2pZdlVBMlJ1TFBTOEgxSEFQVldlQ2djMkVtcGU4TmVBQWYwNVBoSTQ5SF9oVW91dkkzTmh1ZjhiM1E2VnZEUHV4LXRseVp3NFREbU1GYWJqdy05NXdja1B1Y3dxMUZRblpRNWFDdE9FS05TeFF0bG5UdEFRTjY2Ukh5R1lYWVkwZlF4SGJvMF9EQzF0ZE9henduaHdj?oc=5",
-   "data": "2026-11-05T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo tem alerta ligado para jogo contra o Palmeiras; entenda",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS20xaFZ2X2NsOXBjemJ1c3M5ZWpWaXRGcnI0OEVwbVM4b21CdGN2dEl4RmtYSzVGTkRvb3B4ZnhNMjZkUE0zbGtsV0ZDS0VISFVENVluZ2ozWGR2dEtWTy1HbF9ZR3g0ZWpkQjNwOWhkZWNMM29HNnFZbW5PNm5vRm5rYnZHSk9vWHo0eUpwODhuY1F1elpUU3A2ZUVjTVk1S0xZakFhdHZLR3ZEYzNkaWtVdm1HZ09EeVNfT3JSUQ?oc=5",
    "data": "2026-11-05T08:00:00+00:00",
@@ -298,9 +322,17 @@
    "resumo": "Flamengo 3 x 1 Grêmio | Melhores momentos | 34ª rodada | Brasileirão 2026 O Flamengo voltou a jogar antes do Palmeiras depois de três rodadas e mandou a pressão para o adversário com a vitória por 3 a 1 sobre o Grêmio,…"
   },
   {
-   "titulo": "Flamengo vence, amplia vantagem para Palmeiras e afunda Grêmio no Z4",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWRjZzFZaWhwZ0ctX2pmYVhRd25FMVFwOVVXVmRpcFMzNWZhMGI4SU45UGNLY1FHVUlRallkWDFoT1A2S3V6ajZINXItSEV2RGdCRENOTVNwTWVzWUtkQWRIRXJrRGZDbVdrZXdlcFhLWDhtcndsZ1p1V3ZhX01IZDBVd3hudS1DTGJ2MVBLWndyTHBRd3o0MFhRZU9MVXhPX3NXSEczUjVmeHA5YlJHcWlfRUNNMm8?oc=5",
-   "data": "2026-11-05T05:31:25+00:00",
+   "titulo": "Danilo Lavieri: Flamengo aproveita quarto presente de rivais nos últimos cinco jogos",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmkyU0QwOEhYYVVJYW5sTDN3c3RJd09zNWxOdi1YWmgyVEtLazhuRnR3TThxRGpFcl9URU5nWFBGWnkyWWJOTWxSbnNVa1U5alBMcVVEd0FEdzJfMUk3dG1HUFVDMDdBdjZZbUNHQlVfMmtCZ2JPb0FpdlZ5X3otRV9VNnV2OGdVMlFQRWRoMi12V3lrcXV2dXZ1T0VQdHdPUEhTcEtKT1R6OXM1eHF0QlZ6Xzhld0hnVjQ3bzg4eGlrSi02UWhGajFUQk1pM2E5cVE?oc=5",
+   "data": "2026-11-05T05:31:27+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Juca Kfouri: Passeio do líder Flamengo e virada do aliviado Vasco",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemZnckxhMmFwR1Y3S1ZKV1Qwb2tMcFJlcjl1dkE2N0dMX1BOd0E4cE5SY19vTlpGT2JBY3NwR0UtSDI2V3NMdUZqekcwN1R1bDI3T1NzYk9YVlFiX2ZOQThIdHJoeVNqN3A4OVRvalJoenFQZzRkampZWTctTF9ReVk3aEdvVFplaEtFM3JDNzllMGxOQWgxMk1sckdVYzVBZ1lYVWwzOHlEY0EyLXVZLThwTzg?oc=5",
+   "data": "2026-11-05T05:30:11+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -330,7 +362,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Renato Gaúcho desabafa, vê Grêmio cansado e explica titulares no 2º tempo contra o Flamengo: 'Resolvi mudar porque ia tomar um sacode maior'",
+   "titulo": "Renato Gaúcho explica titulares no 2º tempo contra o Flamengo",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVExydnFhbTNfWXhyWHBjb1dZaGJZcG10NE44NmpudWh1MDdVdnl5aDVkQnBJRTlReUR4MEkwVy12alo1MVhkS1B5T29rTGVueUxkVVR2Q3czOVp3ZnQ2WEFQV1lFYVpqWks3cjU5QkpJdnFYRUFmcUd1bDVFT1pEM2hRNVBiUy1RS1Z2VlFhR3BXR2ttanZUVGRKb3lTX1BIQi14QVlBRzcwRUszaEx5RVZoQ0htbGlQSU82dHdVcEktR2J2TVRnd1ZFMVh2SzNYVjRiR1JPNUtHSUJ1V0x6SVMzM0U2VkItWUwzOVM1djBkR0N4X0tKZXFJZVp0QUFRZ1ExV3R3?oc=5",
    "data": "2026-11-05T03:01:00+00:00",
    "fonte": "espn",
@@ -362,14 +394,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Com 8 pendurados contra o Athletico, Jardim revela plano do Flamengo para ‘final’ diante do Palmeiras",
-   "link": "https://colunadofla.com/2026/11/com-8-pendurados-contra-o-athletico-jardim-revela-plano-do-flamengo-para-final-diante-do-palmeiras/",
-   "data": "2026-11-05T01:48:22+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Nenhum dos 8 jogadores levou amarelo diante do Grêmio, e quem for advertido contra o Athletico-PR desfalca o Fla no confronto direto com o Palmeiras O técnico Leonardo Jardim descartou fazer gestão de cartões com os oit…"
-  },
-  {
    "titulo": "Brasília pressiona no fim, mas Flamengo confirma quarta vitória seguida no NBB",
    "link": "https://ge.globo.com/basquete/noticia/2026/11/04/brasilia-pressiona-no-fim-mas-flamengo-confirma-quarta-vitoria-seguida-no-nbb.ghtml",
    "data": "2026-11-05T01:39:20+00:00",
@@ -399,6 +423,14 @@
    "data": "2026-11-05T01:31:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Uruguai acata pedido de Arrascaeta e Varela por volta antecipada ao Fla",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmJ0YkhId0p5MTVhVDRsUnRsTEtpdGhtLVlxdFo0RjhUVTRpWDRmMzRDSVI5R1plUmNwb2JUM0pKNzhfY3R0VkNZcnBkTGR0S2NhcldLdkJoa1ZYenpuQU9NcVVkRmtJTzNJRlNBWUljaHU1ME5GNTg1NXlmZDZBMWlveEE1bktLbXRhaEs2Q194RXd2amVuZDFGcFZNODBtMnd6TEptXzlrNnJDUnc2YWFzZ3JEa2RmaTJOQ2JabWhrcnhzTkx1WmFZVVo5RUxrbVA4TldzWU1NR2s?oc=5",
+   "data": "2026-11-05T01:24:52+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -434,14 +466,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo será campeão brasileiro se vencer os próximos 2 jogos; entenda a conta",
-   "link": "https://colunadofla.com/2026/11/flamengo-sera-campeao-brasileiro-se-vencer-os-proximos-2-jogos-entenda-a-conta/",
-   "data": "2026-11-05T00:51:16+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Depois dos 3 a 1 sobre o Grêmio, o Rubro-Negro chegou a 76 pontos e pode garantir o título no confronto direto com o Palmeiras, em 21 de novembro O Flamengo depende mais de si do que nunca para confirmar o título do Cam…"
-  },
-  {
    "titulo": "Atuações do Flamengo: Pedro e Samuel Lino são os melhores contra o Grêmio; dê suas notas",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/04/atuacoes-do-flamengo-pedro-e-samuel-lino-sao-os-melhores-contra-o-gremio-de-suas-notas.ghtml",
    "data": "2026-11-05T00:37:39+00:00",
@@ -458,17 +482,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Danilo Lavieri: Flamengo aproveita quarto presente de rivais nos últimos cinco jogos",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSmkyU0QwOEhYYVVJYW5sTDN3c3RJd09zNWxOdi1YWmgyVEtLazhuRnR3TThxRGpFcl9URU5nWFBGWnkyWWJOTWxSbnNVa1U5alBMcVVEd0FEdzJfMUk3dG1HUFVDMDdBdjZZbUNHQlVfMmtCZ2JPb0FpdlZ5X3otRV9VNnV2OGdVMlFQRWRoMi12V3lrcXV2dXZ1T0VQdHdPUEhTcEtKT1R6OXM1eHF0QlZ6Xzhld0hnVjQ3bzg4eGlrSi02UWhGajFUQk1pM2E5cVE?oc=5",
-   "data": "2026-11-05T00:31:27+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Juca Kfouri: Passeio do líder Flamengo e virada do aliviado Vasco",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemZnckxhMmFwR1Y3S1ZKV1Qwb2tMcFJlcjl1dkE2N0dMX1BOd0E4cE5SY19vTlpGT2JBY3NwR0UtSDI2V3NMdUZqekcwN1R1bDI3T1NzYk9YVlFiX2ZOQThIdHJoeVNqN3A4OVRvalJoenFQZzRkampZWTctTF9ReVk3aEdvVFplaEtFM3JDNzllMGxOQWgxMk1sckdVYzVBZ1lYVWwzOHlEY0EyLXVZLThwTzg?oc=5",
-   "data": "2026-11-05T00:30:11+00:00",
+   "titulo": "Flamengo vence, amplia vantagem para Palmeiras e afunda Grêmio no Z4",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWRjZzFZaWhwZ0ctX2pmYVhRd25FMVFwOVVXVmRpcFMzNWZhMGI4SU45UGNLY1FHVUlRallkWDFoT1A2S3V6ajZINXItSEV2RGdCRENOTVNwTWVzWUtkQWRIRXJrRGZDbVdrZXdlcFhLWDhtcndsZ1p1V3ZhX01IZDBVd3hudS1DTGJ2MVBLWndyTHBRd3o0MFhRZU9MVXhPX3NXSEczUjVmeHA5YlJHcWlfRUNNMm8?oc=5",
+   "data": "2026-11-05T00:31:25+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -594,14 +610,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Uruguai acata pedido de Arrascaeta e Varela por volta antecipada ao Fla",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmJ0YkhId0p5MTVhVDRsUnRsTEtpdGhtLVlxdFo0RjhUVTRpWDRmMzRDSVI5R1plUmNwb2JUM0pKNzhfY3R0VkNZcnBkTGR0S2NhcldLdkJoa1ZYenpuQU9NcVVkRmtJTzNJRlNBWUljaHU1ME5GNTg1NXlmZDZBMWlveEE1bktLbXRhaEs2Q194RXd2amVuZDFGcFZNODBtMnd6TEptXzlrNnJDUnc2YWFzZ3JEa2RmaTJOQ2JabWhrcnhzTkx1WmFZVVo5RUxrbVA4TldzWU1NR2s?oc=5",
-   "data": "2026-11-04T20:24:52+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo divulga relacionados contra o Grêmio com voltas de Saúl e Valencia; veja lista",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/04/flamengo-divulga-relacionados-contra-o-gremio-com-voltas-de-saul-e-valencia-veja-lista.ghtml",
    "data": "2026-11-04T19:02:48+00:00",
@@ -682,6 +690,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Rodrigo Mattos: Contas de 2026 abrem disputa política dentro do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmJWZnM0TXlwSVJ1cm5HTnhmU2xyb2tmdmdaOXZvUVBfbVpHdi1YQmQ0WHAzRkN3QzBpTi1VZFM4TmV5ZXY5X0dnU2NGOExpZC1lU1JTcnptQmszU2h5YWtNdHFNWkdHcnpQYlozWTZCUy1SN1RtQ1MyQlV3TFd2Q0hwQ093OFJlQ0pnT2RCbTNqaVVITk0xbkcxdUloV3ByQzZEdkgwSXZFYVRmLXFCU2tuMjlhRWo0R2VTZGYwNnpfVlRXM0p3U0hLMFozUQ?oc=5",
+   "data": "2026-11-04T13:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Vidente crava vencedor de Flamengo x Grêmio pelo Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFZsSHM0bW9MVWFWRl9kV1R6dl9laEs1QXhJX1RfUHFnS0cwLTJ2ODRuM3k3XzVnQ3lFelZNM0RGVGR6QXBvUnhvWldmaVlLWDZlSWM4WElFT3hIMTk4ZmE2OURXQzZyYmlkckc5dV9nckJ5aTNYRUFHamFxQVVqS3h6UnY0RlU4dl9XRXZsLUJIdGM4bGJ0V0xFeWlTSUlGSy1qTDdzaw?oc=5",
    "data": "2026-11-04T13:13:43+00:00",
@@ -722,16 +738,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo tem números de campeão no returno do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFdwc3FmSUc5WWsyWWRXU3FYZ2xNRDZVQ1dIMFBHVFJkRzN3NXdxeHBHbF9VaS1jZjVIb1JyWVBFb1d0c3psRkduUXVGbUxmVDZQbTdySG9xT2dzRmozN0FYMGJHSnlPY0VLZ3FqQlBLVXEtRFVaZXVVSHhaQkhsaTNsODlxaDNNRzVXQXVYd3BrU1IyN0lVOVRNbG9fbGc1MHJoYVB4Z3hvQW5SQ1E?oc=5",
+   "titulo": "IA crava placar de Flamengo e Grêmio pelo Campeonato Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3NVaFJhNlc2VEhaalFrQ3p6M1VuQ2w0MGJUOGp2REVFQTRFQlJEMkxsQ1g2TDhxUGlVVDdmcU1OcDc0VXFWM25qTjhCY1p1OGhUd0Z5VkZjY2tNSWNqMjh5WTUwQWd6SFZjVjBDV2twNkRfNUdaRHRmdnVmSWNiYnphT0RBaUhDQUJfRVhnelBhbTJPdFJJa1FEcTd0TzAteEdhdGJzaGZ0eXM?oc=5",
    "data": "2026-11-04T11:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
   },
   {
-   "titulo": "IA crava placar de Flamengo e Grêmio pelo Campeonato Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3NVaFJhNlc2VEhaalFrQ3p6M1VuQ2w0MGJUOGp2REVFQTRFQlJEMkxsQ1g2TDhxUGlVVDdmcU1OcDc0VXFWM25qTjhCY1p1OGhUd0Z5VkZjY2tNSWNqMjh5WTUwQWd6SFZjVjBDV2twNkRfNUdaRHRmdnVmSWNiYnphT0RBaUhDQUJfRVhnelBhbTJPdFJJa1FEcTd0TzAteEdhdGJzaGZ0eXM?oc=5",
+   "titulo": "Flamengo tem números de campeão no returno do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFdwc3FmSUc5WWsyWWRXU3FYZ2xNRDZVQ1dIMFBHVFJkRzN3NXdxeHBHbF9VaS1jZjVIb1JyWVBFb1d0c3psRkduUXVGbUxmVDZQbTdySG9xT2dzRmozN0FYMGJHSnlPY0VLZ3FqQlBLVXEtRFVaZXVVSHhaQkhsaTNsODlxaDNNRzVXQXVYd3BrU1IyN0lVOVRNbG9fbGc1MHJoYVB4Z3hvQW5SQ1E?oc=5",
    "data": "2026-11-04T11:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
@@ -756,14 +772,6 @@
   {
    "titulo": "Flamengo x Grêmio: horário e onde assistir ao jogo do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS1RRUmF6ZkNsRkx1YnZSblJUZkdWbHc5VEFJaXBEbDV4eVFtUm1kNkVIZVJRa3RncUtVSVZFNW9OZzZxZTF1ME91c0t2dmpGdjVKc3M3R05CNm9aVlBtTFJTa2czWkVKcFpRQm5QQkFCZWsyMjF6NWg0VlZnTzl5aHdEcTg3WWh4Sll2LVdwM0REeUszeHpRTFFRNGY2UlJZY2RiUWo4WEhKREl0R24teUY3MEQ0ekU3azRLUEMwaE5KeURLUk1v?oc=5",
-   "data": "2026-11-04T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Contas de 2026 abrem disputa política dentro do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmJWZnM0TXlwSVJ1cm5HTnhmU2xyb2tmdmdaOXZvUVBfbVpHdi1YQmQ0WHAzRkN3QzBpTi1VZFM4TmV5ZXY5X0dnU2NGOExpZC1lU1JTcnptQmszU2h5YWtNdHFNWkdHcnpQYlozWTZCUy1SN1RtQ1MyQlV3TFd2Q0hwQ093OFJlQ0pnT2RCbTNqaVVITk0xbkcxdUloV3ByQzZEdkgwSXZFYVRmLXFCU2tuMjlhRWo0R2VTZGYwNnpfVlRXM0p3U0hLMFozUQ?oc=5",
    "data": "2026-11-04T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1224,14 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo faz contas por título brasileiro: \"Virou a chave após a eliminação\" Até tu, Alcaraz? Sim, o meia argentino, que não joga no Flamengo desde janeiro de 2025, ainda não terminou de ter sua compra quitada pelo Ever…"
-  },
-  {
-   "titulo": "Flamengo: Pedro volta à briga pela artilharia; veja cenário",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXlmUjFNcDZrZTFrRDNaLU1kZHMtbjR0WDRNVTZsaGU3d3UzdVladjQ4OFJBR2pvT3JWWHBTdE1Eak1WU283VXdhTkJiZ0Vfd2N4OWNkaUNHSnZtYjBQVVhLaDFxMEY5SkRBZHY2b01PV2NjME9KMGJUanJfb05tUHhFSlpjajRPeFVsOE0xTXUzbnY4bjgtMmR0UXpqYTR2YVB3RTlpcnAwQVp2YUtr?oc=5",
-   "data": "2026-11-01T07:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   }
  ]
 }
