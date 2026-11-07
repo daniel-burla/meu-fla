@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-06T20:32:04.468031+00:00",
+ "atualizadoEm": "2026-11-07T00:16:18.846993+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 30
+   "itens": 32
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,112 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 54
+   "itens": 56
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 61
+   "itens": 66
   }
  ],
  "itens": [
+  {
+   "titulo": "Jogador do Flamengo processa o Inter e cobra R$ 552 mil por calote",
+   "link": "https://colunadofla.com/2026/11/jogador-do-flamengo-processa-o-inter-e-cobra-r-552-mil-por-calote/",
+   "data": "2026-11-06T23:44:51+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Defesa de Vitão diz que o clube gaúcho não pagou nenhuma parcela do acordo firmado na saída para o Rubro-Negro O zagueiro Vitão, do Flamengo, acionou o Internacional na Justiça do Rio Grande do Sul para cobrar R$ 552.23…"
+  },
+  {
+   "titulo": "Flamengo é condenado a pagar R$ 580 mil e pensão a ex-vigia do Ninho",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjZZNlU4bzRDa3FWRXYyOVhjZ2xVdTRnRVpIU0pBc2MtRlBOeGNuY3VDcFZoSkJwakZIRVZHUHVYVVViYzQ3cVdhZWlmS1c4dFpuckhnVkFLZE1CN0JvNnNJdTJFSzhxSVdRY04zRGZMTUVfcDlBRkFVa2E4TVJ0NmQ3VFY1elF3X1VnWS1oZ3p1TGptTDE1ZkI5TkxibU1wbV9Kbm1Vem02TVVqdTU5dnVPWHBxT1Nrd19RT0tyb3lweUpvbHRvTjRLYlk0MUROUlpZMUZB?oc=5",
+   "data": "2026-11-06T23:05:46+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paquetá, do Flamengo, explica por que perdeu pênalti contra o Estudiantes e conta bastidores de briga com Neymar",
+   "link": "https://colunadofla.com/2026/11/paqueta-do-flamengo-explica-por-que-perdeu-penalti-contra-o-estudiantes-e-conta-bastidores-de-briga-com-neymar/",
+   "data": "2026-11-06T23:05:39+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Lucas Paquetá lembrou fatídica noite de Libertadores contra o Estudiantes (ARG) Nessa segunda passagem pelo Flamengo, o pior dia para Lucas Paquetá foi a semifinal da Libertadores. Contra o Estudiantes (ARG), o meia per…"
+  },
+  {
+   "titulo": "Leonardo Jardim libera jogador para jogo do Flamengo x Vasco, pela semifinal do Carioca Sub-20",
+   "link": "https://colunadofla.com/2026/11/leonardo-jardim-libera-jogador-para-jogo-do-flamengo-x-vasco-pela-semifinal-do-carioca-sub-20/",
+   "data": "2026-11-06T22:42:08+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Johnny irá reforçar o Flamengo no ‘Clássico dos Milhões’, que acontece às 10h (horário de Brasília) deste sábado (07), na Gávea O Flamengo tem compromisso importante neste final de semana. Às 10h (horário de Brasília) d…"
+  },
+  {
+   "titulo": "Ex-segurança vence Flamengo na Justiça e vai receber R$ 580 mil por danos em tragédia do Ninho do Urubu",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajJpanlueXVZbnladTR1TGl1c1ZYdWFHVC01d1BQX2g2THZkMFcwZlFudUtIckY4MmNsZVB1NVVNd1VQQ3Mwam1kYkV3eXBsSERwSEp0Q2llNlpzN0pWdWJSYmY3UW9DTVhJSnBYQ2pKODhabU0tcEtNaGlWTGtXa05WQnA5QnZVMjJ0R2V6bWRJYXFkbWlTY2VvRnBiVHVMRXdCeUZpVjF6dEE5ZTN4VDFaa25xQVllbERwZnpETmlFc3VLMDRYX1FtUUxXYWNGSTBGVzRTdE1xQkFyTC1j?oc=5",
+   "data": "2026-11-06T22:36:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Justiça condena Flamengo a pagar R$ 580 mil a ex-segurança por danos relacionados à tragédia do Ninho do Urubu",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WWDhndUxka1g3X202ZE9GUkctaXRoMlNrak0tRXYyYW0zSmJNRVNkZDdscXZ0U0wxN3RQTEdydkhkTm8zVHZzdnFqaDNGRllpUUl1T3Z5TGh6X0dfYVE?oc=5",
+   "data": "2026-11-06T22:27:37+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "CBF divulga dias e horários das 2 últimas rodadas do Brasileirão; Flamengo encara Coritiba e Chape",
+   "link": "https://colunadofla.com/2026/11/cbf-divulga-dias-e-horarios-das-2-ultimas-rodadas-do-brasileirao-flamengo-encara-coritiba-e-chape/",
+   "data": "2026-11-06T22:20:24+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Líder visita o Coritiba em 29 de novembro e fecha a campanha no Maracanã, enquanto o rival joga três dias após o confronto direto A CBF divulgou nesta sexta-feira (6) a tabela detalhada da 37ª e da 38ª rodadas do Brasil…"
+  },
+  {
+   "titulo": "Karoline Lima anuncia fim do relacionamento com Léo Pereira, do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlpQTU9pejFOVjktY2VESlJBZ3hzaGREZnRBLS1lTU1felVxVEE2MlR2TFI1eWd4a1hrc19KUFFRQldXZ1UyZHdxRmNZMFNybU1vMmdNcXpUVTVKdFIybnFGRmI3U1FFeXE3NE84Wl93VXBhVldmS3h6cmgtUXBPVlVXcmxzSFgxckRqSjFGWTlGQVotekE2blMtMjg5Ujg5NzE0UWlQYm51dU9EQ294TllWbVROQQ?oc=5",
+   "data": "2026-11-06T22:18:20+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ex-segurança vence ação contra o Flamengo e receberá R$ 580 mil e pensão vitalícia",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWUxIREJWOUhVOEYzQXQybjJCckluMWtCSjUwUkE5TjVrRDE5Z0tic3ItRGRrVTJPbVlzclJvdnRUaC1lUUQ5Q0FxSHE3elY1amJDN2swNklMZTdNLU82Rk1zVUVPamh1RmpYOUhaOC12RVliM0N1UXRuUG5EWVNXd0ZuR1o1NXJ0VGFDQ0lZWHplLXItTFJqMEFCNkJLZUZ5R0ZSU0ZWYWRTRERXMUE?oc=5",
+   "data": "2026-11-06T21:48:36+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Uruguai convoca trio do Flamengo e Piquerez, do Palmeiras, em meio à disputa pelo Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUXZMQnhuWGZXYzJPWVdpVHdxcXNNY0NKVFhQRmhOMlRzRXZTRUVndnRsdEN5c25xR01Bbkgyb0hZSnp0eEE5SDJ4WXhwRU1rc3gwNmZKWXdDUXgzUkI5dkpPd29VNjVteGlwQUtzX0ZWX0dxejBON0xZNGtyd0E4bGR5aVVZbGxzM3dOWFZBN1dJNHBJRFFXQWZYQngyWUx2RnpjLVJSd0cwQmUtRTFsT09SZExFOENyZk43aEV4TkF5LWxILVJEMHpRZ0VrWGc5R0E4RE1fMi10UXd0cmM4WjNGb1M0cHBpVnRuUTI1eTJLWm1I?oc=5",
+   "data": "2026-11-06T21:40:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "STJD suspende atacante do Cruzeiro antes de jogo contra o Palmeiras pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/11/stjd-suspende-atacante-do-cruzeiro-antes-de-jogo-contra-o-palmeiras-pelo-brasileirao/",
+   "data": "2026-11-06T21:30:31+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Wesley cumpre a punição no duelo de 18 de novembro, no Mineirão O Superior Tribunal de Justiça Desportiva (STJD) suspendeu nesta sexta-feira (6) o atacante Wesley, do Cruzeiro, por uma partida. Com a punição, ele desfal…"
+  },
+  {
+   "titulo": "Para de hipocrisia, Abel Ferreira! CBF retira goleiro do Palmeiras de jogos do Brasil na Data FIFA",
+   "link": "https://colunadofla.com/2026/11/para-de-hipocrisia-abel-ferreira-cbf-retira-goleiro-do-palmeiras-de-jogos-do-brasil-na-data-fifa/",
+   "data": "2026-11-06T21:22:49+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Palmeiras recebeu comunicado que Carlos Miguel ficaria de fora dos jogos da Seleção Brasileira por conta do “acordo de cavalheiros” feito com os clubes Abel Ferreira deu declaração após vitória do Palmeiras sobre o Remo…"
+  },
   {
    "titulo": "Os motivos de Leonardo Jardim vetar Valencia dos últimos jogos do Flamengo",
    "link": "https://colunadofla.com/2026/11/os-motivos-de-leonardo-jardim-vetar-valencia-dos-ultimos-jogos-do-flamengo/",
@@ -42,28 +138,20 @@
    "resumo": "Anthony Valencia foi um dos jogadores que chegaram no Flamengo na última janela de transferências Desde que chegou ao Flamengo, Anthony Valencia ainda não conseguiu engrenar uma sequência de jogos. Por conta dessa situa…"
   },
   {
-   "titulo": "Quais são as condições que Arrascaeta chega para jogos do Uruguai na Data FIFA? Veja!",
-   "link": "https://colunadofla.com/2026/11/quais-sao-as-condicoes-que-arrascaeta-chega-para-jogos-do-uruguai-na-data-fifa-veja/",
-   "data": "2026-11-06T19:34:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Arrascaeta está convocado para jogos do Uruguai nesta Data FIFA de novembro Por: Rodrigo Lima Arrascaeta começou a demonstrar evolução após passar por cirurgia no punho esquerdo. Neste momento, o camisa 10 do Flamengo e…"
+   "titulo": "Paulo Vinicius Coelho (PVC): Onde mora a vantagem do Flamengo sobre o Palmeiras no Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzlfMW0ybl9fQUJVa0JVanZFM21YUVU0WFpJMG5jR1FJSjhpbnAzZGhMRzJJNDhIVFhucWlBdlo2VUZYZFJRanlETFhBLXR6c2M1ekZBVmVmU0pqay1NV3RGLXpYV1FLemV6MEtTamgzbkU2Qkc1TXNENktKV3Y0d1BqaF9YdFRrd2RWWjJic1JHS3hsbnBwMXRwMVZVY2ZvaGxqUUZocVBhLTB4SkwxNXRxSmFDRWVmZWR3N3d6NUk?oc=5",
+   "data": "2026-11-06T19:52:39+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
-   "titulo": "Ex-segurança vence Flamengo em última instância e vai receber R$ 580 mil e pensão até os 78 anos",
+   "titulo": "Ex-segurança ganha ação na Justiça e vai receber do Flamengo R$ 580 mil e pensão",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/06/ex-seguranca-vence-flamengo-em-ultima-instancia-e-vai-receber-r-580-mil-e-pensao-vitalicia.ghtml",
    "data": "2026-11-06T19:30:22+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Alojamento do Flamengo, no Ninho do Urubu, pega fogo e deixa dez mortos Em decisão de segunda instância, o ex-segurança Benedito Ferreira venceu o Flamengo em ação na Justiça do Trabalho do Rio de Janeiro. O acórdão, pu…"
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Onde mora a vantagem do Flamengo sobre o Palmeiras no Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzlfMW0ybl9fQUJVa0JVanZFM21YUVU0WFpJMG5jR1FJSjhpbnAzZGhMRzJJNDhIVFhucWlBdlo2VUZYZFJRanlETFhBLXR6c2M1ekZBVmVmU0pqay1NV3RGLXpYV1FLemV6MEtTamgzbkU2Qkc1TXNENktKV3Y0d1BqaF9YdFRrd2RWWjJic1JHS3hsbnBwMXRwMVZVY2ZvaGxqUUZocVBhLTB4SkwxNXRxSmFDRWVmZWR3N3d6NUk?oc=5",
-   "data": "2026-11-06T19:24:40+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
+   "resumo": "Alojamento do Flamengo, no Ninho do Urubu, pega fogo e deixa dez mortos Em decisão de segunda instância, a Justiça do Trabalho do Rio de Janeiro deu ganho de causa ao ex-segurança Benedito Ferreira em ação movida por el…"
   },
   {
    "titulo": "Rodrigo Mattos: Abel só vê Brasileiro 'justo' quando Flamengo joga desfalcado por seleções",
@@ -104,14 +192,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Atacante do Santos diz que a passagem pelo Rubro-Negro pesou na decisão Gabigol revelou que recusou uma investida do Palmeiras quando terminou o contrato com o Flamengo, no fim de 2024. O atacante do Santos contou a his…"
-  },
-  {
-   "titulo": "Flamengo tem 8 pendurados, e Jardim descarta poupar titulares antes da “final” contra o Palmeiras",
-   "link": "https://colunadofla.com/2026/11/flamengo-tem-8-pendurados-e-jardim-descarta-poupar-titulares-antes-da-final-contra-o-palmeiras/",
-   "data": "2026-11-06T17:23:32+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Técnico prefere correr o risco de ter desfalques no Nubank Parque a perder pontos contra o Athletico-PR O Flamengo já definiu como vai lidar com os oito jogadores pendurados antes do confronto direto com o Palmeiras pel…"
   },
   {
    "titulo": "Colômbia é convocada para amistosos contra Chile com Arias; Carrascal e Gómez ficam fora",
@@ -175,7 +255,7 @@
    "data": "2026-11-06T15:21:03+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Nova fase: Alerrandro se torna peça-chave no Inter de Baptista O zagueiro Vitão, do Flamengo, entrou na Justiça contra o Inter para cobrar valores devidos da época da saída do jogador. Nenhuma parcela do acordo feito fo…"
+   "resumo": "Nova fase: Alerrandro se torna peça-chave no Inter de Baptista O zagueiro Vitão, do Flamengo, entrou na Justiça contra o Inter para cobrar valores devidos da época da saída do clube. Nenhuma parcela do acordo feito foi…"
   },
   {
    "titulo": "Flamengo pode ser campeão contra o Palmeiras? Veja as contas",
@@ -184,14 +264,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Carrascal fica fora da convocação da Colômbia e segue com o Flamengo na Data FIFA",
-   "link": "https://colunadofla.com/2026/11/carrascal-fica-fora-da-convocacao-da-colombia-e-segue-com-o-flamengo-na-data-fifa/",
-   "data": "2026-11-06T15:02:02+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Meia não aparece na lista para os amistosos contra o Chile Jorge Carrascal ficou fora da convocação da Colômbia para a Data FIFA de novembro. O técnico Néstor Lorenzo não incluiu o meia do Flamengo na lista para os dois…"
   },
   {
    "titulo": "Danilo Lavieri: Não vejo o Flamengo perdendo o título para o Palmeiras",
@@ -218,20 +290,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo e Palmeiras: veja as chances de título do Brasileirão",
+   "titulo": "Flamengo amplia vantagem nas chances de título do Brasileirão sobre o Palmeiras",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNczh1SXdhaFk0X1JUOUhHTEJ3Ny1KaXpMc0tzQlVqaEstaDktOHR5LTA2VXZFVlp5OUhGWFBfcWk3Z1NNbXFKNGVuTnlqNzNIbXdnVVF4dHBtbGlUSGVSYWtPYnk4VGphZDRzWGVCdlVtdmNKYmNIYWxMZkdWY25UR0Fqbkp1RkswX1RKdEtNajBWWWs2ZnNjREtTeDh2ZXJ4Q1VaVnRFX3VEb0E4RFlYSjVRWlRqYWgxUWRlTjl3?oc=5",
    "data": "2026-11-06T14:08:23+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Data FIFA: veja quais jogadores do Flamengo podem ser convocados e quando serão os jogos das seleções",
-   "link": "https://colunadofla.com/2026/11/data-fifa-veja-quais-jogadores-do-flamengo-podem-ser-convocados-e-quando-serao-os-jogos-das-selecoes/",
-   "data": "2026-11-06T13:56:52+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Arrascaeta, De La Cruz e Varela estão confirmados pelo Uruguai; Carrascal, Plata e Valencia ainda podem ser chamados A Data FIFA de novembro acontece de 9 a 17 de novembro e pode movimentar o elenco do Flamengo. Até o m…"
   },
   {
    "titulo": "Trajano: 'Abel já está preparando narrativas para o título do Flamengo'",
@@ -258,20 +322,20 @@
    "resumo": ""
   },
   {
+   "titulo": "Palmeiras faz jogo dos sonhos, poupa de olho no Vasco e mantém caça ao Fla",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2JRc25pVDk4cmQtTlNMd1lGWEx1VVFiRS04Z1MxQnBHLWQ3ZnZCYjVsc2d0R3RDaGhlVnQ5dDZXVkVZVWJKRmhYbHhPMTItSVA3Z3gtaXVkNVI5WjREMFY4QUxpdjE3enUtM0FEaHJaTFlmWTgxc1hTaE4tODZOSk1xV1dkc1RTcjBwV0ktRktOSHRQaWg0WXY3R3VsYk5YeWJVODVNZHJZUzhqWHpMNnI3ZUxYdTVIMXBnZFc2TktaVXYtOU9Ic2s5RUVCUXlMZWdxdlUwVFNDTEUyQVE?oc=5",
+   "data": "2026-11-06T13:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo presenteado por rivais no Brasileiro? Colunistas esquentam debate",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRnRITGl6N1FaQmYydGFuUmxtUFVKVUZnSXFvRGtMcDR2V2JKcGZqSlVCSGh0YjBheC1QSF9Lbm9PVDFpMGVJQm5wUktOc1VsZU1VcU1QMmNRbU5KUFE5MFRlWGZPeVlrOGR6M3kzeXNJNm9wWVpBaUJhd2pYeW5zRmdDNUJPQ1h4cDRQMWFrV09BVk03TzBFc0lHRFJid1ZhUHZIUTk5WWNVUy1vX1JTOVZaYzQ0UXlCRzJFaG5rcGxtQ29vUnU1OGVZTQ?oc=5",
    "data": "2026-11-06T12:58:14+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Uruguai convoca 3 jogadores do Flamengo para a Data FIFA de novembro",
-   "link": "https://colunadofla.com/2026/11/uruguai-convoca-3-jogadores-do-flamengo-para-a-data-fifa-de-novembro/",
-   "data": "2026-11-06T12:36:20+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Arrascaeta, De La Cruz e Varela estão na lista de Diego Forlán para amistosos O Flamengo terá três representantes na seleção do Uruguai durante a Data FIFA de novembro. O técnico Diego Forlán divulgou a lista de convoca…"
   },
   {
    "titulo": "Uruguai convoca trio do Fla e Piquerez, do Palmeiras, para Data Fifa",
@@ -306,14 +370,6 @@
    "resumo": "Flamengo 3 x 1 Grêmio | Melhores momentos | 34ª rodada | Brasileirão 2026 A Data-Fifa ainda não começou oficialmente, mas o Flamengo já vive o período de pausa por ter entrado em campo na última quarta-feira, contra o G…"
   },
   {
-   "titulo": "Abel Ferreira, do Palmeiras, reclama de decisão da CBF em não convocar jogadores do Flamengo",
-   "link": "https://colunadofla.com/2026/11/abel-ferreira-do-palmeiras-reclama-de-decisao-da-cbf-em-nao-convocar-jogadores-do-flamengo/",
-   "data": "2026-11-06T10:44:19+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo e Palmeiras estão brigando ponto a ponto pelo título do Brasileirão 2026 O técnico Abel Ferreira, do Palmeiras, comentou a decisão da CBF de não convocar jogadores do Flamengo nesta Data FIFA. A fala saiu na co…"
-  },
-  {
    "titulo": "Torcedores do Flamengo reagem à vitória do Palmeiras: 'Todo mundo sabe'",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaE5HMG1MSHNNa2JDb09pc19vMmNMNDgwc1JvclQ4UmxYaDJwLUNDWk8xVDh0WFRDY2MtaTFLWVQxSE9fenFGLTBEZWgzX2NtWEV1YURFV2pJVk9Xc1VMd3NWWjBZdGpYeVVUT0xMRUxLRHAtR0ExSDVrY09ZcUYwcENTUFg1RWJVREpCV0RNSGY5QkRFNUcyN21HVE1mcGR4aG92cGo0Xzl1TXQ3aXRoVE93?oc=5",
    "data": "2026-11-06T10:40:00+00:00",
@@ -333,14 +389,6 @@
    "titulo": "Sem Corinthians ou Flamengo no topo, pilotos da F1 respondem qual é o maior time do Brasil",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cc083RXZraElTMzFITXd4ZWtKZS12bDlsSnkyclJSWnZFSVR2NGdUT2otZWxCVTBRZWtESEI1XzBzZkItS2FSMEZoVWxqdjdldWdEejVvZmdERXp5S0NlamxINGR5Rk0?oc=5",
    "data": "2026-11-06T08:46:01+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras faz jogo dos sonhos, poupa de olho no Vasco e mantém caça ao Fla",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2JRc25pVDk4cmQtTlNMd1lGWEx1VVFiRS04Z1MxQnBHLWQ3ZnZCYjVsc2d0R3RDaGhlVnQ5dDZXVkVZVWJKRmhYbHhPMTItSVA3Z3gtaXVkNVI5WjREMFY4QUxpdjE3enUtM0FEaHJaTFlmWTgxc1hTaE4tODZOSk1xV1dkc1RTcjBwV0ktRktOSHRQaWg0WXY3R3VsYk5YeWJVODVNZHJZUzhqWHpMNnI3ZUxYdTVIMXBnZFc2TktaVXYtOU9Ic2s5RUVCUXlMZWdxdlUwVFNDTEUyQVE?oc=5",
-   "data": "2026-11-06T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -471,14 +519,6 @@
    "data": "2026-11-06T01:18:42+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras atropela Remo e encurta distância para o Flamengo na liderança do Brasileirão; VEJA como foi",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rV2RmZ1hldGpFOEhUZGxfZTJqV3Q0Z194YWx0eWJYLVRsa1ZGdi1KNlAzaDJZWXM5RE9oQ3ZQUy01ZkxnalRZcm9BTG5WWmo1VDYzSVFzNmEtWmRHdUE?oc=5",
-   "data": "2026-11-06T00:50:39+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -1010,6 +1050,14 @@
    "resumo": "Veja cinco motivos para confiar no título brasileiro do Flamengo O Flamengo divulgou a lista de relacionados para enfrentar o Grêmio nesta quarta-feira, às 19h30 (de Brasília) no Maracanã, com duas novidades: as voltas…"
   },
   {
+   "titulo": "Filipe Luís avalia má fase do Monaco e diz: 'Precisamos corrigir o rumo'",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMVRxRlF2bGtFNmt3VVZlTWlNdGc1MC1ad18zOVhucnZRSElSOEk4ZkVDZUttYTNNM3ZTQXlORkNVbWNqTmgyRjJLQ0VuUHM4RGcyVHFPYlppaEZVRG05Mm5OOUE2cXI1ZUJuLTRaOGk0eDBOdE5TcEstRDN4ZVYyam55ZkxqMmhBalBybFhwenZqT1JlWmE2Z25NaUR5d2M0c29IUUd1eURuVmFvdXRQSFF3U1ZCNnJFWWo2b3BucnRMcjBpdTRiLVhhSEV2SHJIRk9yUDdyY2M?oc=5",
+   "data": "2026-11-04T18:28:43+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Em reunião com clima quente, Flamengo aprova renovação de patrocínio na camisa; veja valor",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/04/em-reuniao-com-clima-quente-flamengo-aprova-renovacao-de-patrocinio-na-camisa-veja-valor.ghtml",
    "data": "2026-11-04T18:28:39+00:00",
@@ -1114,16 +1162,16 @@
    "resumo": ""
   },
   {
-   "titulo": "IA crava placar de Flamengo e Grêmio pelo Campeonato Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3NVaFJhNlc2VEhaalFrQ3p6M1VuQ2w0MGJUOGp2REVFQTRFQlJEMkxsQ1g2TDhxUGlVVDdmcU1OcDc0VXFWM25qTjhCY1p1OGhUd0Z5VkZjY2tNSWNqMjh5WTUwQWd6SFZjVjBDV2twNkRfNUdaRHRmdnVmSWNiYnphT0RBaUhDQUJfRVhnelBhbTJPdFJJa1FEcTd0TzAteEdhdGJzaGZ0eXM?oc=5",
+   "titulo": "Flamengo tem números de campeão no returno do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFdwc3FmSUc5WWsyWWRXU3FYZ2xNRDZVQ1dIMFBHVFJkRzN3NXdxeHBHbF9VaS1jZjVIb1JyWVBFb1d0c3psRkduUXVGbUxmVDZQbTdySG9xT2dzRmozN0FYMGJHSnlPY0VLZ3FqQlBLVXEtRFVaZXVVSHhaQkhsaTNsODlxaDNNRzVXQXVYd3BrU1IyN0lVOVRNbG9fbGc1MHJoYVB4Z3hvQW5SQ1E?oc=5",
    "data": "2026-11-04T11:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
   },
   {
-   "titulo": "Flamengo tem números de campeão no returno do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFdwc3FmSUc5WWsyWWRXU3FYZ2xNRDZVQ1dIMFBHVFJkRzN3NXdxeHBHbF9VaS1jZjVIb1JyWVBFb1d0c3psRkduUXVGbUxmVDZQbTdySG9xT2dzRmozN0FYMGJHSnlPY0VLZ3FqQlBLVXEtRFVaZXVVSHhaQkhsaTNsODlxaDNNRzVXQXVYd3BrU1IyN0lVOVRNbG9fbGc1MHJoYVB4Z3hvQW5SQ1E?oc=5",
+   "titulo": "IA crava placar de Flamengo e Grêmio pelo Campeonato Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3NVaFJhNlc2VEhaalFrQ3p6M1VuQ2w0MGJUOGp2REVFQTRFQlJEMkxsQ1g2TDhxUGlVVDdmcU1OcDc0VXFWM25qTjhCY1p1OGhUd0Z5VkZjY2tNSWNqMjh5WTUwQWd6SFZjVjBDV2twNkRfNUdaRHRmdnVmSWNiYnphT0RBaUhDQUJfRVhnelBhbTJPdFJJa1FEcTd0TzAteEdhdGJzaGZ0eXM?oc=5",
    "data": "2026-11-04T11:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
@@ -1184,54 +1232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Escalação do Flamengo: Carrascal será novidade no time para enfrentar o Grêmio",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/03/escalacao-do-flamengo-carrascal-sera-novidade-no-time-para-enfrentar-o-gremio.ghtml",
-   "data": "2026-11-03T22:32:03+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo se prepara para enfrentar o Grêmio amanhã O Flamengo encerrou na tarde desta terça-feira, no Ninho do Urubu, a preparação para enfrentar o Grêmio nesta quarta, às 19h30 (de Brasília) no Maracanã, pela 34ª rodad…"
-  },
-  {
-   "titulo": "Flamengo 0x1 Operário-PR: gol e melhores momentos do jogo das quartas da Copa do Brasil Sub-20",
-   "link": "https://ge.globo.com/pr/futebol/copa-do-brasil-sub-20/noticia/2026/11/03/flamengo-0x1-operario-pr-gol-e-melhores-momentos-do-jogo-das-quartas-da-copa-do-brasil-sub-20.ghtml",
-   "data": "2026-11-03T22:09:47+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Operário 1 x 0 Flamengo | Melhores momentos | Quartas de final | Copa do Brasil Sub-20 O Operário-PR está nas semifinais da Copa do Brasil Sub-20. A classificação veio com a vitória sobre o Flamengo, por 1 a 0, nesta te…"
-  },
-  {
-   "titulo": "Consórcio Fla-Flu anuncia novo gramado do Maracanã para 2027; veja vídeo e o que muda",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON25BY2FLVnFEUXBRY2JKNFh4bFcwSU1oUXJqdWhsN0hEVWJ1d1RCcHgtVjJzenF1TWU5QWh3NzIzQ1ZXOUJHVG9yaE53R1p3X0ZzMUZnQWxnY0dXZnRvSEdsMzRnYnVJRE5ZQWpydnRxUk90VGR2UEg3blBwRnBuNWEyU3gwX2xYSWl1X3g2bHdMN2Z1Y0E3dVVoN3BzZ3hyRU1qOXZSaTROM1VhYkdBc3YyYXEtWGtndERrSzFPYk5rNzFmeTVJQ1lWMWlnN29STERiVHNUY1c4VnVjbzdiUVRJQQ?oc=5",
-   "data": "2026-11-03T22:09:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo respalda Jardim e Boto e rechaça procura por substitutos",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeVlpNVNYRDJxMXBETGQ2UzdMbWQ5MTl3ZExwWEpvR1VTVC1DU2VoWEtIVGM0OHg4Wk92RWlKaG4tZmJ1VFBBS1gySFgzQ0RxdW1UQ043UjdIcG02ZGlhWWZXSmZ3dndoUnJOUzdsa29RbWZiTmpOY18xQXppUmFGU2lZNk12ZERMcGxxSVB1WENxR1dnZXdjSDAtLTBJRmVQTklXdGZ5a1RubXh1cEd4WkRMaE5teVZUQVBnbTFXbTBMcDdlNk9mRWFKTGtsOGxzOGo4?oc=5",
-   "data": "2026-11-03T21:42:49+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Erro de ex-Flamengo em Barcelona x Aston Villa vira assunto: 'Pífio'",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXdSYU50STZiQ01CdEx5amZWNzJFZXFEcmZoeUhiLVBLVlU1QXo0T19WOXktOVhXa1cyZ1RhblFCQ21NRHU1azFnSzJPS1A2ampPSUZ5LXZ5aFVqT2ZqNTM5dGJKWGpMMmFIQ0JsVkdFdl9yR0NWb3hYeXp1YzJxUXdFT3VLOXVhQmZpaG5ZekNMRkR5aXJYM1NZcmVYaTBWNElJRndWZVg0WHpkV2c?oc=5",
-   "data": "2026-11-03T20:44:42+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo e Uruguai alinham liberação antecipada de Arrascaeta e Varela na Data Fifa",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/03/flamengo-e-uruguai-alinham-liberacao-antecipada-de-arrascaeta-e-varela-na-data-fifa.ghtml",
-   "data": "2026-11-03T20:04:52+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo se prepara para enfrentar o Grêmio amanhã O Flamengo segue trabalhando para ser o menos impactado possível pela Data Fifa e a tendência é ter os uruguaios à disposição. Arrascaeta e Varela já conversaram com a…"
   }
  ]
 }
