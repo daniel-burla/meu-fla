@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-07T00:16:18.846993+00:00",
+ "atualizadoEm": "2026-11-07T06:30:36.227310+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 32
+   "itens": 33
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,56 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 56
+   "itens": 54
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 66
+   "itens": 65
   }
  ],
  "itens": [
+  {
+   "titulo": "Flamengo é condenado a pagar R$ 580 mil e pensão a ex-segurança do Ninho",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjZZNlU4bzRDa3FWRXYyOVhjZ2xVdTRnRVpIU0pBc2MtRlBOeGNuY3VDcFZoSkJwakZIRVZHUHVYVVViYzQ3cVdhZWlmS1c4dFpuckhnVkFLZE1CN0JvNnNJdTJFSzhxSVdRY04zRGZMTUVfcDlBRkFVa2E4TVJ0NmQ3VFY1elF3X1VnWS1oZ3p1TGptTDE1ZkI5TkxibU1wbV9Kbm1Vem02TVVqdTU5dnVPWHBxT1Nrd19RT0tyb3lweUpvbHRvTjRLYlk0MUROUlpZMUZB?oc=5",
+   "data": "2026-11-07T04:03:58+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "A fake news de Abel Ferreira com a frase “se fosse só dinheiro, só o Flamengo seria campeão”",
+   "link": "https://colunadofla.com/2026/11/a-fake-news-de-abel-ferreira-com-a-frase-se-fosse-so-dinheiro-so-o-flamengo-seria-campeao/",
+   "data": "2026-11-07T01:58:27+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Abel Ferreira afirmou que o Flamengo gasta mais do que o Palmeiras Depois da vitória por 6 a 1 sobre o Remo, Abel Ferreira ‘não tirou o Flamengo da boca’. O português viu vantagem pelo fato de o Rubro-Negro não ter joga…"
+  },
+  {
+   "titulo": "Flamengo e Palmeiras seguem na disputa pelo título, enquanto equipes travam batalha contra o rebaixamento; VEJA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DMFBPdFQ0NGhJYTViallHYlhOOWh0YndOMUxqNEJpRVIzSUh1enRxRHdWX0ZPZlVCNGR0ZktUNGdRckszYzRpUWVuY2NFelhubnpERHZXVnpTdXZtQVE?oc=5",
+   "data": "2026-11-07T01:33:42+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo? Santos? Gabigol revela destino ideal para próximo passo na carreira",
+   "link": "https://colunadofla.com/2026/11/flamengo-santos-gabigol-revela-destino-ideal-para-proximo-passo-na-carreira/",
+   "data": "2026-11-07T01:15:38+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Com o empréstimo ao Santos perto do fim, o atacante contou que o empresário recebe consultas de clubes norte-americanos e turcos Gabigol afirmou que ninguém do Santos ou do Cruzeiro o procurou para tratar do futuro em 2…"
+  },
+  {
+   "titulo": "Danilo, do Flamengo, admite tristeza com Cristiano Ronaldo e relembra brigas com atacante",
+   "link": "https://colunadofla.com/2026/11/danilo-do-flamengo-admite-tristeza-com-cristiano-ronaldo-e-relembra-brigas-com-atacante/",
+   "data": "2026-11-07T00:30:18+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Zagueiro do Flamengo jogou com Cristiano Ronaldo em dois times Cristiano Ronaldo anunciou a aposentadoria da Seleção Portuguesa. A notícia deixou Danilo, do Flamengo, triste. O herói do tetra da Libertadores lamentou a…"
+  },
   {
    "titulo": "Jogador do Flamengo processa o Inter e cobra R$ 552 mil por calote",
    "link": "https://colunadofla.com/2026/11/jogador-do-flamengo-processa-o-inter-e-cobra-r-552-mil-por-calote/",
@@ -40,14 +80,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Defesa de Vitão diz que o clube gaúcho não pagou nenhuma parcela do acordo firmado na saída para o Rubro-Negro O zagueiro Vitão, do Flamengo, acionou o Internacional na Justiça do Rio Grande do Sul para cobrar R$ 552.23…"
-  },
-  {
-   "titulo": "Flamengo é condenado a pagar R$ 580 mil e pensão a ex-vigia do Ninho",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjZZNlU4bzRDa3FWRXYyOVhjZ2xVdTRnRVpIU0pBc2MtRlBOeGNuY3VDcFZoSkJwakZIRVZHUHVYVVViYzQ3cVdhZWlmS1c4dFpuckhnVkFLZE1CN0JvNnNJdTJFSzhxSVdRY04zRGZMTUVfcDlBRkFVa2E4TVJ0NmQ3VFY1elF3X1VnWS1oZ3p1TGptTDE1ZkI5TkxibU1wbV9Kbm1Vem02TVVqdTU5dnVPWHBxT1Nrd19RT0tyb3lweUpvbHRvTjRLYlk0MUROUlpZMUZB?oc=5",
-   "data": "2026-11-06T23:05:46+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Paquetá, do Flamengo, explica por que perdeu pênalti contra o Estudiantes e conta bastidores de briga com Neymar",
@@ -69,14 +101,6 @@
    "titulo": "Ex-segurança vence Flamengo na Justiça e vai receber R$ 580 mil por danos em tragédia do Ninho do Urubu",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajJpanlueXVZbnladTR1TGl1c1ZYdWFHVC01d1BQX2g2THZkMFcwZlFudUtIckY4MmNsZVB1NVVNd1VQQ3Mwam1kYkV3eXBsSERwSEp0Q2llNlpzN0pWdWJSYmY3UW9DTVhJSnBYQ2pKODhabU0tcEtNaGlWTGtXa05WQnA5QnZVMjJ0R2V6bWRJYXFkbWlTY2VvRnBiVHVMRXdCeUZpVjF6dEE5ZTN4VDFaa25xQVllbERwZnpETmlFc3VLMDRYX1FtUUxXYWNGSTBGVzRTdE1xQkFyTC1j?oc=5",
    "data": "2026-11-06T22:36:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Justiça condena Flamengo a pagar R$ 580 mil a ex-segurança por danos relacionados à tragédia do Ninho do Urubu",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WWDhndUxka1g3X202ZE9GUkctaXRoMlNrak0tRXYyYW0zSmJNRVNkZDdscXZ0U0wxN3RQTEdydkhkTm8zVHZzdnFqaDNGRllpUUl1T3Z5TGh6X0dfYVE?oc=5",
-   "data": "2026-11-06T22:27:37+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -122,14 +146,6 @@
    "resumo": "Wesley cumpre a punição no duelo de 18 de novembro, no Mineirão O Superior Tribunal de Justiça Desportiva (STJD) suspendeu nesta sexta-feira (6) o atacante Wesley, do Cruzeiro, por uma partida. Com a punição, ele desfal…"
   },
   {
-   "titulo": "Para de hipocrisia, Abel Ferreira! CBF retira goleiro do Palmeiras de jogos do Brasil na Data FIFA",
-   "link": "https://colunadofla.com/2026/11/para-de-hipocrisia-abel-ferreira-cbf-retira-goleiro-do-palmeiras-de-jogos-do-brasil-na-data-fifa/",
-   "data": "2026-11-06T21:22:49+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Palmeiras recebeu comunicado que Carlos Miguel ficaria de fora dos jogos da Seleção Brasileira por conta do “acordo de cavalheiros” feito com os clubes Abel Ferreira deu declaração após vitória do Palmeiras sobre o Remo…"
-  },
-  {
    "titulo": "Os motivos de Leonardo Jardim vetar Valencia dos últimos jogos do Flamengo",
    "link": "https://colunadofla.com/2026/11/os-motivos-de-leonardo-jardim-vetar-valencia-dos-ultimos-jogos-do-flamengo/",
    "data": "2026-11-06T20:27:39+00:00",
@@ -154,14 +170,6 @@
    "resumo": "Alojamento do Flamengo, no Ninho do Urubu, pega fogo e deixa dez mortos Em decisão de segunda instância, a Justiça do Trabalho do Rio de Janeiro deu ganho de causa ao ex-segurança Benedito Ferreira em ação movida por el…"
   },
   {
-   "titulo": "Rodrigo Mattos: Abel só vê Brasileiro 'justo' quando Flamengo joga desfalcado por seleções",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMVJxeHFlQlp4M3VYa3RfdFFtenhISE9tcktqb0U2RHA5djE5MkFmMUhBbVhEdGxIa2l0VXk0R3diUFA2bGhVNi1aaTZsd0xkdnpMcVVMelhOT1JRRi1xSXU2SzM2QkluY1VScHNYMHRfOWNBVHpWX0dYTmlYNFdGUThLaFNNWmN0Rk9uN0gySm5YVWk1aWRvNUl3SnpvM2d4Zy01RFpxYkR1cFA5ay1fNi1jVUhrR1dPUmwwaEdiSDZPaHJfRkV6aEZBVFpYeWNJUmtTT1JCem9kQ19MbGVQUnM1dGo?oc=5",
-   "data": "2026-11-06T18:49:03+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Karoline Lima termina noivado com Léo Pereira, do Flamengo; veja o motivo",
    "link": "https://colunadofla.com/2026/11/karoline-lima-termina-noivado-com-leo-pereira-do-flamengo-veja-o-motivo/",
    "data": "2026-11-06T18:21:06+00:00",
@@ -176,22 +184,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Abel Ferreira surpreende com resposta ao falar sobre chances de título do Flamengo no Brasileirão",
-   "link": "https://colunadofla.com/2026/11/abel-ferreira-surpreende-com-resposta-ao-falar-sobre-chances-de-titulo-do-flamengo-no-brasileirao/",
-   "data": "2026-11-06T17:46:13+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo e Palmeiras seguem na luta pelo título do Campeonato Brasileiro; Mengo tem três pontos à frente do rival O técnico Abel Ferreira falou sobre a disputa do Palmeiras com o Flamengo pelo título do Brasileirão. Apó…"
-  },
-  {
-   "titulo": "Gabigol revela que recusou o Palmeiras após deixar o Flamengo e explica o motivo",
-   "link": "https://colunadofla.com/2026/11/gabigol-revela-que-recusou-o-palmeiras-apos-deixar-o-flamengo-e-explica-o-motivo/",
-   "data": "2026-11-06T17:39:38+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Atacante do Santos diz que a passagem pelo Rubro-Negro pesou na decisão Gabigol revelou que recusou uma investida do Palmeiras quando terminou o contrato com o Flamengo, no fim de 2024. O atacante do Santos contou a his…"
   },
   {
    "titulo": "Colômbia é convocada para amistosos contra Chile com Arias; Carrascal e Gómez ficam fora",
@@ -301,6 +293,14 @@
    "titulo": "Trajano: 'Abel já está preparando narrativas para o título do Flamengo'",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdDJvVjVuc0NrWTd6SGdyMDRQZ0FzdWd4Z0NNTi1DZ2tKczhDZHdMSE42V2ZHT0pJeUVGWm5TNlBoRm5saXdySVBIVi1XVzM2MjZPTElJdkc5RnVLY2YwRWw0aFJsOVdDX1A4amFWZlVFNmQ1bzhQeFRkdzMxOGxaaTJRRVBCbU1CVjIxdUhrSS0zMUZNMFRXWmszR2JuYV82SG9OVmpqNHFsT0N0enJ6LURGMHo5MFdVS1RrTXM1T2V5TERqTXhmUU9Vdml0MFJ0eG9RTWhDbw?oc=5",
    "data": "2026-11-06T13:55:01+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Mattos: Abel só vê Brasileiro 'justo' quando Flamengo joga desfalcado por seleções",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMVJxeHFlQlp4M3VYa3RfdFFtenhISE9tcktqb0U2RHA5djE5MkFmMUhBbVhEdGxIa2l0VXk0R3diUFA2bGhVNi1aaTZsd0xkdnpMcVVMelhOT1JRRi1xSXU2SzM2QkluY1VScHNYMHRfOWNBVHpWX0dYTmlYNFdGUThLaFNNWmN0Rk9uN0gySm5YVWk1aWRvNUl3SnpvM2d4Zy01RFpxYkR1cFA5ay1fNi1jVUhrR1dPUmwwaEdiSDZPaHJfRkV6aEZBVFpYeWNJUmtTT1JCem9kQ19MbGVQUnM1dGo?oc=5",
+   "data": "2026-11-06T13:49:03+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -554,9 +554,17 @@
    "resumo": "Vale poupar jogadores pendurados pensando no jogo com o Palmeiras? ge Flamengo avalia O Palmeiras venceu o Remo em jogo válido pela 34ª rodada do Campeonato Brasileiro na noite desta quinta-feira. Com isso, a vantagem d…"
   },
   {
-   "titulo": "Ex-Flamengo conta como perdeu o carro durante treino por atraso nos pagamentos: 'A gente recebia de seis em seis meses'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xVU5rNHZPRXB2TndTMDltOU1uVjFWMk5uMk5JV1ZPSV81eUdTVEJGU1pEekpqSC0xVUFxWW11aUtjVG9GcHNMVkQta3lqR25PM0VLVi1sYnNpX2RBYlE?oc=5",
-   "data": "2026-11-05T20:53:09+00:00",
+   "titulo": "Ex-Flamengo, Toró revela brincadeira com Petkovic sobre comparação com Arrascaeta: 'Ele ainda fala que é o melhor'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fR3J1bTFIcmVaY1lnS25WWXJLSk9GbGV0VmlLbmM5Z1ZEX2ptbEdmdzBtOXhnRjRqLU9xYjNnZDdPNmZTZ05GN2ZCd3BlWjJwZDZ3YlBGMlk3RHU3UWc?oc=5",
+   "data": "2026-11-05T18:49:28+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Lê conta como noitada de Romário o transformou em herói do Flamengo na Copa Mercosul: 'Fui para a final porque não estava na boate'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwVFFOOXFyZWI4ZlhQVlVBTFU4Q1Rzdy1rNzZxWW9BLW1NeG5uTXI1RGMzRjhEcFNMazI1M3dWWS0ydEhWZUlUcVJTRkVHZzlhemlHNlhWeDRiOHlNQmc?oc=5",
+   "data": "2026-11-05T18:37:42+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -696,14 +704,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo 3 x 1 Grêmio | Melhores momentos | 34ª rodada | Brasileirão 2026 Um dos destaques do Flamengo na vitória por 3 a 1 sobre o Grêmio, pelo Campeonato Brasileiro, o atacante Pedro se isolou na liderança entre os jo…"
-  },
-  {
-   "titulo": "Tempo Real | Flamengo x Grêmio",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUpsQU5FSUJ3blgzTDR1WDZVZDEzcmJMREl3eDdtSFRqNFgtb19DaTlQcGpIYWJNR3pZYU5JVEdrWkFzRjRKRTNtV05ESnA2OHdYS2lVa05SbjhRN3h2bG1RRnE1TEZJUlZQNEplNkxHQW5KdEhJUjMtb0N0djB0dkdaLWdiNG1INmEtZnNIUmpYbGVsd2JwR0JR?oc=5",
-   "data": "2026-11-05T10:41:01+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Sancor Londrina x Sesc Flamengo pela Superliga Feminina de Vôlei: onde assistir ao vivo e horário do jogo",
@@ -938,14 +938,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Arne Slot, ex-técnico do Liverpool, vai ao Maracanã e recebe camisa do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUllWSWtLTVl6am84WlYyWXFBYkpYdzgtUklLcXdIVmE3S2liYllzaUV6WHgtS2MwVnRJRmxRQm90eW80NTQyV0RrNkpnOHRkRXg0UTVPb0xod3pNaW5wNHdhX3NLcTAxaU9OQmRacUJWRVpjYzhrMU1OVzM1Y1pfcXkwRFBxMVF4YXF4bF9TeXR5RTN3SnpabGZBbEhXQjBBTTN6bTFKcDBHU1htUE1Yb215UDF6a28?oc=5",
-   "data": "2026-11-05T00:12:59+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Carrascal vira assunto em Flamengo x Grêmio: 'Não sabia'",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0lJbEtzLXJIVmotejBYUWNnOF8yWlRUT1czOS00UlFocEJWa3hSRVRmZEE1d3lXS2RLQTRPYnM5dmFtdWt1RkJETWsxd1hibmNCVXlBOWIxRU1xbXZsTHRFYnFfT0h0WXpWLTRFVGt4MjRLTFF5S3RHd2JOX1Z6VGljRnZuNXNxQkpicXJ0Q2FZT29Kc2hEbEY1aDhiUQ?oc=5",
    "data": "2026-11-04T23:27:36+00:00",
@@ -983,14 +975,6 @@
    "data": "2026-11-04T22:22:28+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flamengo e Atlético-MG, auxiliar do Bragantino é preso por dívida de pensão alimentícia",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMnd0dnNIazBVLTBLSUJMc3FvZ1V2d0tyVFBqejFtbXBTRG1heGFpLWk1VE1iMjgtQU5oWS04WXlveEhLSkJkUWFRNmZuMmpia0ZjQk43dFdQclM1Zk9zWHc0dmhlOTBmdzVIRWxRaFF0bTJqTlEzeE1Ydkc5TFpCYUk5TEVfdWVzZkJkNGI4MUZFY2ZIRld6RlFjRVU2VHlDaVFXVmZRai02WEpkeWhBMGpwUW10SDJMS29STzlxeVZ0YmphbTlV?oc=5",
-   "data": "2026-11-04T21:47:23+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -1154,6 +1138,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Diego Souza, ex-Flamengo e Vasco, é suspenso por uso de licença falsa de treinador",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcU5MaGVXMDlNdHJZQjFzbUlSakpBQTBQSzlYTGN3MExTME5ERXBWYWV2eE1uMWl0Z2dabnlSNjBQcEIyelQ3TTFTNUtma0JEdXRqWGpEWDhoN0VDMkFsdTlkLUtYcG1GeXNobzZacmJ2RVc2VWFlOVBQTHZQQkNxY3hLRktSb0U5d2RVWU5vZktQNTRGVTJ3?oc=5",
+   "data": "2026-11-04T12:01:37+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Jogo do Flamengo hoje pelo Brasileirão: que horas começa e onde assistir",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZS1qdmF3TkFMa2pzRU1JT0hRLVZRZGUtVE9uUEZpZEF5cDQxM3B6NHlNd2FzbkNHcWJwc1JtWXhzem56T0l1aHMwY29ya2NRV0k2emtkM3FPQjZCeGNfUWtuN3V6Rmxfb2piVjBlVXFMVVRCc25hZ3NLLTB2ek12SDlHVmxUaUJaMlpHUmhBTVBnck12TzZjQmhVYXlsSWVTblAwY3IwYTBWX29TUEhmWTlCTEc1VDMyeEU5aVZGbkZIZGZMNXdjam84X0VEWE1p?oc=5",
    "data": "2026-11-04T12:00:00+00:00",
@@ -1162,16 +1154,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo tem números de campeão no returno do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFdwc3FmSUc5WWsyWWRXU3FYZ2xNRDZVQ1dIMFBHVFJkRzN3NXdxeHBHbF9VaS1jZjVIb1JyWVBFb1d0c3psRkduUXVGbUxmVDZQbTdySG9xT2dzRmozN0FYMGJHSnlPY0VLZ3FqQlBLVXEtRFVaZXVVSHhaQkhsaTNsODlxaDNNRzVXQXVYd3BrU1IyN0lVOVRNbG9fbGc1MHJoYVB4Z3hvQW5SQ1E?oc=5",
+   "titulo": "IA crava placar de Flamengo e Grêmio pelo Campeonato Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3NVaFJhNlc2VEhaalFrQ3p6M1VuQ2w0MGJUOGp2REVFQTRFQlJEMkxsQ1g2TDhxUGlVVDdmcU1OcDc0VXFWM25qTjhCY1p1OGhUd0Z5VkZjY2tNSWNqMjh5WTUwQWd6SFZjVjBDV2twNkRfNUdaRHRmdnVmSWNiYnphT0RBaUhDQUJfRVhnelBhbTJPdFJJa1FEcTd0TzAteEdhdGJzaGZ0eXM?oc=5",
    "data": "2026-11-04T11:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
   },
   {
-   "titulo": "IA crava placar de Flamengo e Grêmio pelo Campeonato Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3NVaFJhNlc2VEhaalFrQ3p6M1VuQ2w0MGJUOGp2REVFQTRFQlJEMkxsQ1g2TDhxUGlVVDdmcU1OcDc0VXFWM25qTjhCY1p1OGhUd0Z5VkZjY2tNSWNqMjh5WTUwQWd6SFZjVjBDV2twNkRfNUdaRHRmdnVmSWNiYnphT0RBaUhDQUJfRVhnelBhbTJPdFJJa1FEcTd0TzAteEdhdGJzaGZ0eXM?oc=5",
+   "titulo": "Flamengo tem números de campeão no returno do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFdwc3FmSUc5WWsyWWRXU3FYZ2xNRDZVQ1dIMFBHVFJkRzN3NXdxeHBHbF9VaS1jZjVIb1JyWVBFb1d0c3psRkduUXVGbUxmVDZQbTdySG9xT2dzRmozN0FYMGJHSnlPY0VLZ3FqQlBLVXEtRFVaZXVVSHhaQkhsaTNsODlxaDNNRzVXQXVYd3BrU1IyN0lVOVRNbG9fbGc1MHJoYVB4Z3hvQW5SQ1E?oc=5",
    "data": "2026-11-04T11:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
@@ -1232,6 +1224,14 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
+  },
+  {
+   "titulo": "Escalação do Flamengo: Carrascal será novidade no time para enfrentar o Grêmio",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/03/escalacao-do-flamengo-carrascal-sera-novidade-no-time-para-enfrentar-o-gremio.ghtml",
+   "data": "2026-11-03T22:32:03+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo se prepara para enfrentar o Grêmio amanhã O Flamengo encerrou na tarde desta terça-feira, no Ninho do Urubu, a preparação para enfrentar o Grêmio nesta quarta, às 19h30 (de Brasília) no Maracanã, pela 34ª rodad…"
   }
  ]
 }
