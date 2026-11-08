@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-08T15:54:48.082440+00:00",
+ "atualizadoEm": "2026-11-08T20:24:03.093143+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 27
+   "itens": 26
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 61
+   "itens": 62
   },
   {
    "id": "uol",
@@ -34,20 +34,76 @@
  ],
  "itens": [
   {
-   "titulo": "O próximo jogo do Flamengo depois da Data FIFA",
-   "link": "https://colunadofla.com/2026/11/o-proximo-jogo-do-flamengo-depois-da-data-fifa/",
-   "data": "2026-11-08T15:01:19+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Fla volta da Data FIFA com 3 pontos de vantagem e 8 atletas pendurados O próximo jogo do Flamengo será contra o Athletico-PR, na quarta-feira, 18 de novembro, às 20h30 (horário de Brasília), no Maracanã. A partida vale…"
+   "titulo": "Equador é convocado com jogadores de Flamengo, Cruzeiro, Atlético-MG e Inter",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUW5KMGpWS2M1TERsYmk0MjA3LVFibFM0QlFYTkNhdmg3UGI5cXJ1NmY4LWNpOWJ4UXpkUFU1c1lEMUVHZ2lpUVpFZjdqZ3AwdG1FTGEtSWVkOGh5X19SOUh4QXd1M1JXYUxIWVdBZU1XcVRtc2c1SmU4UWhsd3hLRnpKNmdqamVrN01nOU83YWs2d1I0WXVYaHdqYTVFSUx1dmVZbC1keUdkb1dUdjlIc0MzV0xQY2ZwREF0ZUczV1FKTlA4?oc=5",
+   "data": "2026-11-08T20:17:13+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
-   "titulo": "Flamengo garante volta antecipada de Arrascaeta, De la Cruz e Varela da seleção uruguaia; Palmeiras ainda negocia por Piquerez",
-   "link": "https://colunadofla.com/2026/11/flamengo-garante-volta-antecipada-de-arrascaeta-de-la-cruz-e-varela-da-selecao-uruguaia-palmeiras-ainda-negocia-por-piquerez/",
-   "data": "2026-11-08T14:49:38+00:00",
+   "titulo": "Flamengo se classifica para final inédita, encara o Internacional e pode embolsar valor milionário",
+   "link": "https://colunadofla.com/2026/11/flamengo-se-classifica-para-final-inedita-encara-o-internacional-e-pode-embolsar-valor-milionario/",
+   "data": "2026-11-08T19:40:09+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
-   "resumo": "Trio defende o Uruguai só contra a Argentina e retorna ao Rio de Janeiro antes do jogo com o Athletico-PR O Flamengo terá Arrascaeta, De La Cruz e Varela à disposição na volta do Brasileirão. Convocado por Diego Forlán,…"
+   "resumo": "Time gaúcho eliminou o Red Bull Bragantino nos pênaltis neste domingo (8), e a CBF sorteia nesta segunda-feira (9) quem decide o título em casa O Flamengo já conhece o adversário da final da Copa do Brasil Feminina 2026…"
+  },
+  {
+   "titulo": "Gallardo convoca Equador com jogadores de Flamengo, Atlético-MG, Cruzeiro e Inter",
+   "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/08/gallardo-convoca-equador-pela-primeira-vez-com-jogadores-de-flamengo-e-atletico-mg.ghtml",
+   "data": "2026-11-08T19:32:03+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Equador vence Alemanha com gol de Plata e avança; Turquia se despede da Copa vencendo EUA Marcelo Gallardo convocou pela segunda vez a seleção equatoriana desde que foi anunciado como novo treinador da equipe nacional,…"
+  },
+  {
+   "titulo": "Flamengo pode ser campeão na casa do Palmeiras? As contas do título",
+   "link": "https://colunadofla.com/2026/11/flamengo-pode-ser-campeao-na-casa-do-palmeiras-as-contas-do-titulo/",
+   "data": "2026-11-08T19:10:19+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Líder e vice-líder têm confronto direto na reta final O Flamengo caminha firme para conquistar mais um título do Brasileirão. Atualmente, o Rubro-Negro é líder com 76 pontos, enquanto o Palmeiras corre atrás, com 73. Em…"
+  },
+  {
+   "titulo": "Douglas Santos, do Zenit, pode assinar pré-contrato em 2027; lateral já esteve na mira do Flamengo",
+   "link": "https://colunadofla.com/2026/11/douglas-santos-do-zenit-pode-assinar-pre-contrato-em-2027-lateral-ja-esteve-na-mira-do-flamengo/",
+   "data": "2026-11-08T18:02:46+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Lateral do Brasil na Copa do Mundo está em reta final de contrato com o Zenit O lateral-esquerdo Douglas Santos, do Zenit (RUS), pode assinar um pré-contrato com outro clube em 2027. O jogador já esteve na mira do Flame…"
+  },
+  {
+   "titulo": "Flamengo descobre novo adversário para 2027",
+   "link": "https://colunadofla.com/2026/11/flamengo-descobre-novo-adversario-para-2027/",
+   "data": "2026-11-08T17:16:47+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Nozorizontino vai jogar a primeira divisão em 2027 O Flamengo ganhou um novo adversário para 2027. Isso porque, o Novorizontino foi a campo no último sábado (07) e garantiu o acesso à Série A. O time paulista venceu o F…"
+  },
+  {
+   "titulo": "Inter ou Bragantino? Flamengo conhece adversário da final da Copa do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOE5TdTRwYXhkdFZPTWt0LTRrbEdGRVZTYzRla0I0YnZnSFVHRHNBOEp4LUMycjBVbDNGdWhBSnFUT2NxdXFma2dvbjhjamlHdDVEVFRVenZMX2w2UjdJY0xONXFmeFhmZWpFRXc5dHQ5RmllN21IZmpyc0swWXR0MWdONFdDOFY0MDF6dDMySDJLaVctcnlxRC1BVUIyb0FZYm14aVlHMkJmTlJuYmI5QlBQajZIVFBCNzNBWFpzT3IzcEhmRjZxOXBtVUFWUQ?oc=5",
+   "data": "2026-11-08T16:39:21+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Cruzeiro pode ter 10 desfalques contra o Palmeiras em jogo que interessa ao Flamengo",
+   "link": "https://colunadofla.com/2026/11/cruzeiro-pode-ter-10-desfalques-contra-o-palmeiras-em-jogo-que-interessa-ao-flamengo/",
+   "data": "2026-11-08T16:21:26+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Suspensões, lesões, convocações e uma cláusula de empréstimo esvaziam o elenco de Artur Jorge O Cruzeiro pode entrar em campo com 10 desfalques contra o Palmeiras, na quarta-feira, 18 de novembro, às 20h30 (horário de B…"
+  },
+  {
+   "titulo": "Final da Copa do Brasil feminina: veja classificados, datas e detalhes de sorteio dos mandos",
+   "link": "https://ge.globo.com/ba/futebol/futebol-feminino/copa-do-brasil-feminina/noticia/2026/11/08/final-da-copa-do-brasil-feminina-veja-classificados-datas-e-detalhes-de-sorteio-dos-mandos.ghtml",
+   "data": "2026-11-08T16:19:08+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo vence o Bahia e está na Final da Copa do Brasil Feminina O início da tarde deste domingo confirmou o Internacional como último finalista da Copa do Brasil feminina. Depois de passar pelo Bragantino nos pênaltis…"
   },
   {
    "titulo": "Flamengo tem terceira melhor campanha até a 34ª rodada do Brasileirão e fica próximo de superar 2025",
@@ -72,14 +128,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "O que o Flamengo precisa para ser campeão brasileiro?",
-   "link": "https://colunadofla.com/2026/11/o-que-o-flamengo-precisa-para-ser-campeao-brasileiro/",
-   "data": "2026-11-08T12:49:28+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "O Rubro-Negro pode confirmar a taça já em 21 de novembro O Flamengo precisa de 2 vitórias nas 4 rodadas finais para ser campeão brasileiro, desde que uma delas seja contra o Palmeiras. O líder soma 76 pontos em 34 jogos…"
   },
   {
    "titulo": "“Te amo, meu menino”: Neymar reage a vídeo de jogador do Flamengo",
@@ -170,14 +218,6 @@
    "resumo": "Jardim e Boto vão sair? Entenda a situação da dupla no Flamengo \"Flamengo não pode aceitar sair de um ano sem vencer um título relevante\". Essa foi a frase dita pelo zagueiro Léo Ortiz depois da vitória sobre o Grêmio n…"
   },
   {
-   "titulo": "Paraguai convoca Gómez e Maurício, e Palmeiras chega a 6 dúvidas para jogo com o Cruzeiro",
-   "link": "https://colunadofla.com/2026/11/paraguai-convoca-gomez-e-mauricio-e-palmeiras-chega-a-6-duvidas-para-jogo-com-o-cruzeiro/",
-   "data": "2026-11-07T19:59:43+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Paraguai chamou Gustavo Gómez e Maurício neste sábado, e o vice-líder tenta liberar o grupo para o Mineirão O Palmeiras terá seis jogadores a serviço de seleções na última Data FIFA de 2026. Neste sábado (7), o técnico…"
-  },
-  {
    "titulo": "Autor de golaço de bicicleta na Série B entra na mira do Flamengo para 2027",
    "link": "https://colunadofla.com/2026/11/autor-de-golaco-de-bicicleta-na-serie-b-entra-na-mira-do-flamengo-para-2027/",
    "data": "2026-11-07T19:19:14+00:00",
@@ -216,14 +256,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo 3 x 1 Grêmio | Melhores momentos | 34ª rodada | Brasileirão 2026 Lucas Paquetá ainda lamenta o pênalti perdido na semifinal contra o Estudiantes, que foi um dos motivos para a eliminação do Flamengo na Conmebol…"
-  },
-  {
-   "titulo": "Matheus Gonçalves aponta principal ‘culpado’ por saída do Flamengo",
-   "link": "https://colunadofla.com/2026/11/matheus-goncalves-aponta-principal-culpado-por-saida-do-flamengo/",
-   "data": "2026-11-07T16:47:50+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Antes de se transferir para o Al Ahli, da Arábia Saudita, Matheus Gonçalves atuou por empréstimo pelo Red Bull Bragantino O meio campista Matheus Gonçalves relembrou um pouco da trajetória entre os profissionais. Em um…"
   },
   {
    "titulo": "Atacante brasileiro não esconde felicidade de receber proposta do Flamengo",
@@ -498,7 +530,7 @@
    "resumo": "Nova fase: Alerrandro se torna peça-chave no Inter de Baptista O zagueiro Vitão, do Flamengo, entrou na Justiça contra o Inter para cobrar valores devidos da época da saída do clube. Nenhuma parcela do acordo feito foi…"
   },
   {
-   "titulo": "Flamengo pode ser campeão contra o Palmeiras? Veja as contas",
+   "titulo": "Flamengo pode ser campeão do Brasileirão contra o Palmeiras? Veja os cenários",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEQxS053NFBFLVlZeEZReFhlQmlvaDdOb0o4ZXNnNGg1QktYV2hFTUNzNXZIb2NFWFJULUdnMV9SYzMxNWQ1TC1SclR6OXgteTBpUHpKS3lxemdYUU5YRGN3MExzckJmeDM4SHMzZ0I4WGRjUG5YcWlqbHpUTmFkdUVVSjhpbkVFWkYzRHRCZklObzFVYVBkV1M4bC1ERWU2bWJMMU40SVVad2hpQ0Rqb29JQk5xdw?oc=5",
    "data": "2026-11-06T15:19:51+00:00",
    "fonte": "lance",
@@ -834,14 +866,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Entenda por que Arne Slot foi ao Maracanã e se há chance de técnico trabalhar no Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNElIYmV5V1Q1dkpIb3l3bEhZWEgzLS0wS0hoVE1xeFlta0hCR3FGakRxOWd5aXJxRGNfZmR0dEUtaUFpdmdIb0Q1V0htN1dRamFiTVJRZmltaGtUQ2JEMllxNkhpYjJwSW9NRUtLRW14dENZRFFhN3FiODBQbVFmVm1udXVNZFJmZGg3b3RZbUlEUEtka0xNTTlueFlWcFR6Y05aa24za2tsNGViWmVYU1JTb05VTGEyTG9MbUFhamV1M0Fx?oc=5",
-   "data": "2026-11-05T15:12:52+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo: por que queda no segundo tempo não preocupa",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDA0UG1Wb3V0Vjd1c0N6eEhtSmllX0FuUmd1eWZWTjJpdFl0Q0pjWUFDdWgxLTJBNFlOdUQxRFJ4ZDJfQnpzU1NXd2pzWDRYT01CVEdLdzVLSDdIeHdhOGVOMDVBMFYwMDlqRW5taFRLclFLeHp4LXpjZ0hQa1VHRlFCTWtpSlNKdVlZZkZaaHdFWEFxOEhfT1Qxb0V0VXdFbVdldG1wbXJ6c3d3WGc?oc=5",
    "data": "2026-11-05T15:00:00+00:00",
@@ -856,14 +880,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Auxiliar técnico do Bragantino, ex-zagueiro Réver é preso em Porto Alegre O ex-zagueiro Réver se manifestou nas redes sociais depois de ser preso em Porto Alegre, ter pago os valores devidos por pensão alimentícia e ser…"
-  },
-  {
-   "titulo": "FLAMENGO, VASCO E BOTAFOGO VENCEM E CORINTHIANS AGONIZA NA ZONA DE REBAIXAMENTO",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVi0zRldxU2tOTVE0UmpYNDB5TUlMQzlFYVJRUllZU1c2Sm81dTlob1h1MFNlejFza0JPZkdWQUVxSm11T0l5cno2RkVmQ0RuX2daVUVGMFBBeVBfdjR2RWhfdDVORnVVaVVZVUhzYTk0WkFlY2ZWeEY1WmxXVEF4T3FFYlRvOTFrN3V4STNTYjZGZ0xXcEltRFltLXBzTG9ySzQ4SnczSC0yZGExN3lB?oc=5",
-   "data": "2026-11-05T14:32:02+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Flamengo: Samuel Lino é o melhor jogador do Brasileirão, diz Arnaldo",
@@ -904,6 +920,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo 3 x 1 Grêmio | Melhores momentos | 34ª rodada | Brasileirão 2026 O Flamengo terá uma importante vantagem nesta rodada de Campeonato Brasileiro. Ao menos, em tese. Por ter entrado em campo antes, a equipe rubro-…"
+  },
+  {
+   "titulo": "Pedro reencontra o faro de gol e potencializa ataque do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU2xCMXJrTnB1WFV2WDh5dUVWeU04R21BbzcxQ2RFdVoxb0VtRHp4aUxxTGhVR1JZYWZrOFFra01YUFRfZE1JV001emxOM3A2cTNXczJxY2p0eXdaTjNqWU5nR2JXS05jYTFNMm53WGQzZWJjbWpVOXRoM1FjaXNmSWNlUTRzQzdGVVBTaHBCY1ZGN253OVBYUVFYeVZJdE5lUGthdVB2WnE5aThtanRCRDJWZWZsMkc0Z1FGQTNBOA?oc=5",
+   "data": "2026-11-05T12:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Pedro se isola como jogador com mais participações em gols no Brasileirão e chega perto da artilharia",
@@ -1074,14 +1098,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Classificação do Brasileirão: como ficou a tabela após vitórias de Flamengo e Vasco",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHRiWkNEQWM1N0tNckZLQ3Y2c2JxeEROVThHRHNYTFVxSjhobW5PTGlyZ05oamxoR1M5aTU5MUJMYjdCVzgzZVY3c2ZZYW54Zlo5N3lsbFdXbXJoWC1acTRJaWNJLVpMeE5sN2dhSzJZUFpDR242WUFsaDlDTmVSN25sRHI3M0dldUluQk5QWjVBZmpIZkZYbkVSR0FJM0xkcUk1aHA4WDRQM09Jb0pxbHdhQ1l6aVNxUmVWMl90Mmx3bmxua0xLQW5pODJSV2lCOTdzSWVSV1V6UQ?oc=5",
-   "data": "2026-11-05T01:31:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo vence com dois de Pedro, se aproxima de título e complica Grêmio",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1dNOHZHeDRjR2hQM2RacTZfbE15eUVxb0dpVWNkU3dhQ3ZlcFN5dnp2dTNWVnNBSDd2VF9mVFhnckNDYXVfejRiSy1kWGZLdEEtR3dvZlpHM0xJaXpUOVNIbkhBanI2d1dzLUxiQmpIQkdXRUwyTzVsTFY1eWg1bnVBZ3lKS0hOTnhudzFuc0xCMjFMQTZHT1F5MHI3TmlWWkJ1OEtLRDRKQmhjazhUMi1fbmt6YlVHejI0anpyNm8ybGZRQWhKRU12Zll6UQ?oc=5",
    "data": "2026-11-05T01:31:00+00:00",
@@ -1216,22 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "De ídolo a dirigente: Réver sonha em ser técnico do Atlético O ex-zagueiro Réver, que teve passagens em diversos clubes do futebol brasileiro e atualmente é auxiliar técnico do Bragantino, foi preso no Aeroporto Salgado…"
-  },
-  {
-   "titulo": "Flamengo vence o Grêmio e amplia distância para o Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcERhY1M0NGlib0sxT0EzYWFYQ3NkOGc3ME1fdHJvdzl2QkpKbGIzTFFCRlZHa2Y4V2hBYkRHeERXQ3pWa0I3Zkx4Q3BSakZxQ1lYeUFyMWtsMWJwZlRUOWtCb2ExZWlXbXlwbUNXajBFMmRYTmlzVFZoSW1GSmI5YWZ1cDRaV21tcXI5X2IxT1J5ckFHWlFJTHAycmF6NHVjNWFoLW51VQ?oc=5",
-   "data": "2026-11-04T20:35:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Uruguai acata pedido de Arrascaeta e Varela por volta antecipada ao Fla",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmJ0YkhId0p5MTVhVDRsUnRsTEtpdGhtLVlxdFo0RjhUVTRpWDRmMzRDSVI5R1plUmNwb2JUM0pKNzhfY3R0VkNZcnBkTGR0S2NhcldLdkJoa1ZYenpuQU9NcVVkRmtJTzNJRlNBWUljaHU1ME5GNTg1NXlmZDZBMWlveEE1bktLbXRhaEs2Q194RXd2amVuZDFGcFZNODBtMnd6TEptXzlrNnJDUnc2YWFzZ3JEa2RmaTJOQ2JabWhrcnhzTkx1WmFZVVo5RUxrbVA4TldzWU1NR2s?oc=5",
-   "data": "2026-11-04T20:24:52+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   }
  ]
 }
