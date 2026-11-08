@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-07T22:14:26.319127+00:00",
+ "atualizadoEm": "2026-11-08T01:46:02.189046+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 31
+   "itens": 30
   },
   {
    "id": "colunadofla",
@@ -23,7 +23,7 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 56
+   "itens": 54
   },
   {
    "id": "uol",
@@ -34,20 +34,36 @@
  ],
  "itens": [
   {
+   "titulo": "Mauro Cezar Pereira: Flamengo x Grêmio teve melhor marca de bola rolando no Brasileirão 2026",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZm5BeTVDbEVMbkxWZ05zM1VfdFFHdUgzNEYyR2VfU1h3SVVOMHcxc3pMQVRCekhUVjZyc3JVeVFrUGZkLW1kOUhxOXJCQmZhdGJ0ZGtWX0Q5NDZHZ1psY1EzUlc3S1dsVlpWUTlIY1ozZGxCa1AwN0hnQTBJOGVwa2loSnZWV2hiOU01dU9IaWRPSDFoU04tRHRYZEFFMW9iTUxZZmc5RVZ0alVPN1VnbTJqcEw4Vi1GX3diMENicGc0MElPb2FwZU9tRU1RQmVWcXpoRzNOVHhqMk80cF9EUGRCdGJBMFg1?oc=5",
+   "data": "2026-11-08T00:14:06+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Varela surpreende ao escolher o maior momento no Flamengo: “Um presente”",
+   "link": "https://colunadofla.com/2026/11/varela-surpreende-ao-escolher-o-maior-momento-no-flamengo-um-presente/",
+   "data": "2026-11-08T00:01:00+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Uruguaio relembra começo difícil, exalta a torcida e conta como viveu a invasão do ônibus no Aerofla antes da final em Lima Guillermo Varela considera a renovação de contrato com o Flamengo, assinada em agosto de 2025,…"
+  },
+  {
+   "titulo": "Grêmio elimina Atlético-MG, vai à final da Copa do Brasil e se classifica à Libertadores",
+   "link": "https://colunadofla.com/2026/11/gremio-elimina-atletico-mg-vai-a-final-da-copa-do-brasil-e-se-classifica-a-libertadores/",
+   "data": "2026-11-07T23:08:57+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Time gaúcho empata por 1 a 1 em Belo Horizonte, avança com 3 a 1 no agregado e se junta a Flamengo e Palmeiras entre os garantidos na Libertadores O Grêmio está na final da Copa do Brasil de 2026. Neste sábado (7), o ti…"
+  },
+  {
    "titulo": "Artilheiro do Flamengo, Pedro conta a jovens de Criciúma como saiu da 3ª divisão para a elite",
    "link": "https://colunadofla.com/2026/11/artilheiro-do-flamengo-pedro-conta-a-jovens-de-criciuma-como-saiu-da-3a-divisao-para-a-elite/",
    "data": "2026-11-07T22:09:38+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Camisa 9 visitou o projeto social Show de Bola e usou a própria trajetória como exemplo O atacante Pedro, do Flamengo, aproveitou a passagem por Criciúma (SC) neste sábado (7) para aconselhar os jovens do projeto Show d…"
-  },
-  {
-   "titulo": "Mauro Cezar Pereira: Flamengo x Grêmio teve melhor marca de bola rolando no Brasileirão 2026",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZm5BeTVDbEVMbkxWZ05zM1VfdFFHdUgzNEYyR2VfU1h3SVVOMHcxc3pMQVRCekhUVjZyc3JVeVFrUGZkLW1kOUhxOXJCQmZhdGJ0ZGtWX0Q5NDZHZ1psY1EzUlc3S1dsVlpWUTlIY1ozZGxCa1AwN0hnQTBJOGVwa2loSnZWV2hiOU01dU9IaWRPSDFoU04tRHRYZEFFMW9iTUxZZmc5RVZ0alVPN1VnbTJqcEw4Vi1GX3diMENicGc0MElPb2FwZU9tRU1RQmVWcXpoRzNOVHhqMk80cF9EUGRCdGJBMFg1?oc=5",
-   "data": "2026-11-07T21:32:38+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
   },
   {
    "titulo": "Time paulista carimba acesso à Série A do Brasileirão e enfrentará o Flamengo pela 1ª vez",
@@ -90,7 +106,7 @@
    "resumo": "Léo Erig, atacante de 19 anos do Operário-PR, foi titular no time que eliminou o Flamengo da Copa do Brasil Sub-20 nesta semana O Flamengo consultou o Operário-PR sobre Léo Erig, atacante de 19 anos que marcou de bicicl…"
   },
   {
-   "titulo": "Paquetá fala sobre Neymar no Flamengo e revela bastidor de entrada no craque",
+   "titulo": "Paquetá convida Neymar para jogar no Flamengo e revela bastidor",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWdyeW5UZ3M2LXFGSFVjR1pSMFpBdWlSbmE2Y3lCcVIyU05CRlNJeUNHbnp6OEpCQkFJc0lpMGRxVXhrZkc3YUwzXzRXazBubjJRcmp6blRPNUlyc1lyYkVVSW00aUcwWlRDY0JVOTZRNkpGcV9iRllBUW1LdmV0aHpDaVNreFhTOW5nZFJhclM1eHo1bHBmVWhIZWF2T2c1SWszYXBtdjN0TmRfNDhtdXJkS044UQ?oc=5",
    "data": "2026-11-07T19:04:58+00:00",
    "fonte": "lance",
@@ -138,28 +154,12 @@
    "resumo": "Kaio Jorge voltou a falar sobre a proposta recebida do Flamengo nas últimas janelas de transferências Kaio Jorge voltou a falar sobre a investida que recebeu do Flamengo nesta temporada. Na fala, o atacante do Cruzeiro…"
   },
   {
-   "titulo": "Flamengo cede empate ao Vasco e vai buscar vaga fora de casa para a final do Carioca Sub-20",
-   "link": "https://colunadofla.com/2026/11/flamengo-cede-empate-ao-vasco-e-vai-buscar-vaga-fora-de-casa-para-a-final-do-carioca-sub-20/",
-   "data": "2026-11-07T15:04:08+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo ficou no 1 a 1 com o Vasco neste sábado (07), na Gávea O Flamengo está com vantagem na semifinal do Carioca Sub-20. Neste sábado (07), os crias do Ninho empataram em 1 a 1 com o Vasco, na Gávea. Dessa forma, o…"
-  },
-  {
    "titulo": "Varela abre o jogo sobre volta por cima no Flamengo",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVlMMnBLRU81czhRc3RldHhOd21SRVpCR1NYdHQ3NEc1dW5TV2ZEd3lHSHR2cHRCbmRibFozX2VGS0NDMjVRUzRaQlNsNE5DM3hCYXd2Z1BRemR5Ung4bFNpOFM2T1VhM3JPZHNDYkN5VDRmWng1VzNrcTFQUXNzUjFoRjcyQmhYNTVjV3NfNVNsZ2VBRzBOQWI1cUdvYUgybGpkQnloWG8zZm9EWmJhN0lmU1lyTTNf?oc=5",
    "data": "2026-11-07T14:26:55+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Jogador tem futuro indefinido no Flamengo para temporada 2027",
-   "link": "https://colunadofla.com/2026/11/jogador-tem-futuro-indefinido-no-flamengo-para-temporada-2027/",
-   "data": "2026-11-07T14:20:51+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Contrato de Dyogo Alves com o Flamengo se encerra em dezembro deste ano A temporada 2026 está acabando e, com isso, o planejamento pensado em 2027 já começou. Diante dessa situação, o goleiro Dyogo Alves vive uma indefi…"
   },
   {
    "titulo": "Veja datas e horários dos quatro jogos que restam para o Flamengo no Brasileirão",
@@ -330,20 +330,20 @@
    "resumo": "Wesley cumpre a punição no duelo de 18 de novembro, no Mineirão O Superior Tribunal de Justiça Desportiva (STJD) suspendeu nesta sexta-feira (6) o atacante Wesley, do Cruzeiro, por uma partida. Com a punição, ele desfal…"
   },
   {
-   "titulo": "Paulo Vinicius Coelho (PVC): Onde mora a vantagem do Flamengo sobre o Palmeiras no Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzlfMW0ybl9fQUJVa0JVanZFM21YUVU0WFpJMG5jR1FJSjhpbnAzZGhMRzJJNDhIVFhucWlBdlo2VUZYZFJRanlETFhBLXR6c2M1ekZBVmVmU0pqay1NV3RGLXpYV1FLemV6MEtTamgzbkU2Qkc1TXNENktKV3Y0d1BqaF9YdFRrd2RWWjJic1JHS3hsbnBwMXRwMVZVY2ZvaGxqUUZocVBhLTB4SkwxNXRxSmFDRWVmZWR3N3d6NUk?oc=5",
-   "data": "2026-11-06T19:52:39+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Ex-segurança ganha ação na Justiça e vai receber do Flamengo R$ 580 mil e pensão",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/06/ex-seguranca-vence-flamengo-em-ultima-instancia-e-vai-receber-r-580-mil-e-pensao-vitalicia.ghtml",
    "data": "2026-11-06T19:30:22+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Alojamento do Flamengo, no Ninho do Urubu, pega fogo e deixa dez mortos Em decisão de segunda instância, a Justiça do Trabalho do Rio de Janeiro deu ganho de causa ao ex-segurança Benedito Ferreira em ação movida por el…"
+  },
+  {
+   "titulo": "Rodrigo Mattos: Abel só vê Brasileiro 'justo' quando Flamengo joga desfalcado por seleções",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMVJxeHFlQlp4M3VYa3RfdFFtenhISE9tcktqb0U2RHA5djE5MkFmMUhBbVhEdGxIa2l0VXk0R3diUFA2bGhVNi1aaTZsd0xkdnpMcVVMelhOT1JRRi1xSXU2SzM2QkluY1VScHNYMHRfOWNBVHpWX0dYTmlYNFdGUThLaFNNWmN0Rk9uN0gySm5YVWk1aWRvNUl3SnpvM2d4Zy01RFpxYkR1cFA5ay1fNi1jVUhrR1dPUmwwaEdiSDZPaHJfRkV6aEZBVFpYeWNJUmtTT1JCem9kQ19MbGVQUnM1dGo?oc=5",
+   "data": "2026-11-06T18:49:03+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Flamengo x Palmeiras: quem investiu mais em reforços nos últimos anos?",
@@ -426,6 +426,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Paulo Vinicius Coelho (PVC): Onde mora a vantagem do Flamengo sobre o Palmeiras no Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXzlfMW0ybl9fQUJVa0JVanZFM21YUVU0WFpJMG5jR1FJSjhpbnAzZGhMRzJJNDhIVFhucWlBdlo2VUZYZFJRanlETFhBLXR6c2M1ekZBVmVmU0pqay1NV3RGLXpYV1FLemV6MEtTamgzbkU2Qkc1TXNENktKV3Y0d1BqaF9YdFRrd2RWWjJic1JHS3hsbnBwMXRwMVZVY2ZvaGxqUUZocVBhLTB4SkwxNXRxSmFDRWVmZWR3N3d6NUk?oc=5",
+   "data": "2026-11-06T14:52:39+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Danilo Lavieri: Não vejo o Flamengo perdendo o título para o Palmeiras",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOamN0ajdlM0R3ZHhQRS1rNVpQTDZsanI0aTJ1N0R4Ql9nQ0xIWlZGdzQ2TE9Kblh5My1la2pGOExEN1YzOEpnZEtqQm04TEtMZ0k3WFV6czFvUFFsSEVySmVxdUpyYTNMbl95aGluaEl5WmxuWVpEYnR2SkpDanBUWUtHaE5iU1Bwa08wRC1Zd2lnRV9LRHpnNklwc09haXZaWEJWZjFLdHZIOHdIenpKWWtwa0RVbHlkcWh3S01jWkV0REotSy1GTGRMOWtKcm9OWmZ5U1ZNdlk3eWs3TmFkdlV2V3VGQ296eTFPa0VTWQ?oc=5",
    "data": "2026-11-06T14:44:10+00:00",
@@ -466,24 +474,8 @@
    "resumo": ""
   },
   {
-   "titulo": "Rodrigo Mattos: Abel só vê Brasileiro 'justo' quando Flamengo joga desfalcado por seleções",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMVJxeHFlQlp4M3VYa3RfdFFtenhISE9tcktqb0U2RHA5djE5MkFmMUhBbVhEdGxIa2l0VXk0R3diUFA2bGhVNi1aaTZsd0xkdnpMcVVMelhOT1JRRi1xSXU2SzM2QkluY1VScHNYMHRfOWNBVHpWX0dYTmlYNFdGUThLaFNNWmN0Rk9uN0gySm5YVWk1aWRvNUl3SnpvM2d4Zy01RFpxYkR1cFA5ay1fNi1jVUhrR1dPUmwwaEdiSDZPaHJfRkV6aEZBVFpYeWNJUmtTT1JCem9kQ19MbGVQUnM1dGo?oc=5",
-   "data": "2026-11-06T13:49:03+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo planeja grupo completo após chegar à Data Fifa no limite físico",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMm03blo0cE9GcERKa3d3QVR5cUlJNXVKSVJkSVVheFBHZFMtZ1RiLXV5SWJNOTF2TUZBbmV6dXAwQzVTNkVOUGd2LXJfc2dXMm9GS01nY1ZReFRDSU1DeDhxUGt5OU1uc0lOcmVVVEVoN2RhRzlvLVBMWmpZWmdhbzZuUnVwR3FLNzNXUmRNbzFJM195NlNBbVhIOHpmUHpkTmYyc2dfY1JZWkhfUVE0WUs0RWFKSTN4cVlKQmw2MHdxZTlWZm9yMUNjeFFrT2J5amdkbVRHSTZjakllNVE?oc=5",
-   "data": "2026-11-06T13:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Líder Flamengo está próximo de bater marca de time de Jorge Jesus",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORUdVeHdiOElZbTVsRUNPcnBsX2M5aWtiSDU4dWJ5cUJyVC1ybjBWd2hrSl9mZDFOemllbVJvNWtsS21naWMxbkNJbXJBZ0gzRHNXWDVFdWV0VHNKcXBkLVBYaFJncEhtY1hOVk9wRnUxdWpoSjBTeHc0anpVR0xVNmhiN0xrY1p3bXI3cXY4OENNbFZPT1M3VkhTTWdsakt3YWZiTFNBZUpSVmxmRnlZX1o2U05uX1VkelFyZERMVVA2MllDcms0SVdOb0hTcDR5d3V1TTFlVE5jUQ?oc=5",
    "data": "2026-11-06T13:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -549,6 +541,14 @@
    "titulo": "Sem Corinthians ou Flamengo no topo, pilotos da F1 respondem qual é o maior time do Brasil",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cc083RXZraElTMzFITXd4ZWtKZS12bDlsSnkyclJSWnZFSVR2NGdUT2otZWxCVTBRZWtESEI1XzBzZkItS2FSMEZoVWxqdjdldWdEejVvZmdERXp5S0NlamxINGR5Rk0?oc=5",
    "data": "2026-11-06T08:46:01+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Mattos: Líder Flamengo está próximo de bater marca de time de Jorge Jesus",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORUdVeHdiOElZbTVsRUNPcnBsX2M5aWtiSDU4dWJ5cUJyVC1ybjBWd2hrSl9mZDFOemllbVJvNWtsS21naWMxbkNJbXJBZ0gzRHNXWDVFdWV0VHNKcXBkLVBYaFJncEhtY1hOVk9wRnUxdWpoSjBTeHc0anpVR0xVNmhiN0xrY1p3bXI3cXY4OENNbFZPT1M3VkhTTWdsakt3YWZiTFNBZUpSVmxmRnlZX1o2U05uX1VkelFyZERMVVA2MllDcms0SVdOb0hTcDR5d3V1TTFlVE5jUQ?oc=5",
+   "data": "2026-11-06T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -720,14 +720,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Vale poupar jogadores pendurados pensando no jogo com o Palmeiras? ge Flamengo avalia O Palmeiras venceu o Remo em jogo válido pela 34ª rodada do Campeonato Brasileiro na noite desta quinta-feira. Com isso, a vantagem d…"
-  },
-  {
-   "titulo": "Torcida do Flamengo reage a possível falta em gol do Palmeiras: 'Todo jogo'",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnR3TFdPa0hZQndWNWVncUFaeTBMOFY3Yi1Bek1DaHlqVnk3VlVWdF9Ec2hFRnNnX3ZpRy1FaWJBZTQySmRlUXIwX3VPbjRtd2paRlBqcDFTejhoNFA1RFo1ZWNULVBmNFgxMTYzQnRobjNQTkNOQ0d2c1FpQnFTaEtVeXZaMGtOMnN4SFRnOVY0Ni10a091WXlsR19fQmp5WGx3Z0gtYVR0UWJCYXo5N0dKNTJ6SWs?oc=5",
-   "data": "2026-11-05T23:09:28+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Ex-Flamengo, Lê relembra quando foi xingado por Petkovic após 'roubar' cobrança de falta: 'Quando ele dava mole...'",
@@ -1122,14 +1114,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Arne Slot, ex-técnico do Liverpool, vai ao Maracanã e recebe camisa do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUllWSWtLTVl6am84WlYyWXFBYkpYdzgtUklLcXdIVmE3S2liYllzaUV6WHgtS2MwVnRJRmxRQm90eW80NTQyV0RrNkpnOHRkRXg0UTVPb0xod3pNaW5wNHdhX3NLcTAxaU9OQmRacUJWRVpjYzhrMU1OVzM1Y1pfcXkwRFBxMVF4YXF4bF9TeXR5RTN3SnpabGZBbEhXQjBBTTN6bTFKcDBHU1htUE1Yb215UDF6a28?oc=5",
-   "data": "2026-11-05T00:12:59+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Carrascal vira assunto em Flamengo x Grêmio: 'Não sabia'",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0lJbEtzLXJIVmotejBYUWNnOF8yWlRUT1czOS00UlFocEJWa3hSRVRmZEE1d3lXS2RLQTRPYnM5dmFtdWt1RkJETWsxd1hibmNCVXlBOWIxRU1xbXZsTHRFYnFfT0h0WXpWLTRFVGt4MjRLTFF5S3RHd2JOX1Z6VGljRnZuNXNxQkpicXJ0Q2FZT29Kc2hEbEY1aDhiUQ?oc=5",
    "data": "2026-11-04T23:27:36+00:00",
@@ -1232,6 +1216,22 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Veja cinco motivos para confiar no título brasileiro do Flamengo O Flamengo aprovou, na noite da última terça-feira, em reunião do Conselho Deliberativo na Gávea, a renovação de contrato de patrocínio com a \"Shopee\" por…"
+  },
+  {
+   "titulo": "Onde vai passar Flamengo x Grêmio pelo Brasileirão? Como assistir ao vivo",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEY4QmNIeS1pVkVlV280WFZKc2l2bXZ2ZHRuX19Ra2JRdElsZFRKOHdmZS1wN1UzQmpoNFE0b2pIcmppdG5iSy1ySFRrT0NlU2RwYUQxeVEzMFZNOVBsbkhDcFRlb2Q0RERFdTlxdU5yUFk2MU84UmpsTHd0Sk16czJxUERZTlpQRjJaMEtyRU9WSnJHRmZDN3E3OWZ2bDYyY1I4ajJheFcwdDAtN0pKdEN2SW95c2l2UUpIX1V1NmFxNUNwWklQMEhjR1hIaVRnVVE?oc=5",
+   "data": "2026-11-04T16:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo recebe o Grêmio que espera um milagre. Informações e palpites",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOWFzM2N4ZDEzNWNkN2psTzRvQ0dGNUplVW52UTI3Sm90dW9QMXBLd2dIdU5DeElsQ1c4Q0lNS05NSzhtakRKTGU4cnFxcHQtWlJ2VkFtQ2xteTlBM3d4Y19ONTNOSW5zRDFpb3ctcE12RkdDNm8tY1JvRjh0Q245LWprckhoUGpOZXlQT0I0V2d4Y0UwZksxY1ViOG9GTTVCRXR0RnZXcm82ZW9mYWZWVUhCMzVTaWYxXzhvTWxnMWdwbF90Q1E?oc=5",
+   "data": "2026-11-04T15:55:45+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   }
  ]
 }
