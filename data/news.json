@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-08T01:46:02.189046+00:00",
+ "atualizadoEm": "2026-11-08T08:53:04.224374+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 30
+   "itens": 29
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,48 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 54
+   "itens": 58
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 63
+   "itens": 64
   }
  ],
  "itens": [
+  {
+   "titulo": "R$ 44 milhões e 6 minutos em campo: Valencia ainda não engrena no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN0lWZWNmY21yTThkdWpoVE9GQmNzZzAwWXpiMHc4VEhWVFZsc3lXcnlaaGdwdnN5WVQ0c0ZaOVVrUkJYdm5xc0U0dmtlZDhELTdxeExuOFUxYTBFdHllQlNac21qNkZDWTNfZWVfQ2F3VTdHZDhUcTBwc0hxSnhJeTNzdHl1REh3ZXdBOHk5QkZjOVJocU40ZkFfaTBHMS1yeGh0a1p1NG5nMzNiQVJFeWJQSjNUR1FCQUFOYnlUb3RNTUxMOWhnbzRHUFJ5eHg4MHphaklMLWdRMVU?oc=5",
+   "data": "2026-11-08T08:34:25+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Samuel Lino atinge temporada mais artilheira da carreira e se inspira em Arrascaeta por marca no Flamengo",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/08/samuel-lino-atinge-temporada-mais-artilheira-da-carreira-e-se-inspira-em-arrascaeta-por-marca-no-flamengo.ghtml",
+   "data": "2026-11-08T06:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo 3 x 1 Grêmio | Melhores momentos | 34ª rodada | Brasileirão 2026 Samuel Lino é um dos principais jogadores do Flamengo em 2026. Sua evolução sob o comando de Leonardo Jardim é inegável e, para muitos torcedores…"
+  },
+  {
+   "titulo": "Flamengo vence o Bahia e é o primeiro finalista da Copa do Brasil Feminina",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMzZXMXFpaTMzT2docmp3bTNFLS0tZ0RoNHFjOWRYMUUtVHV3NVhYa04tblNtazdESzBwSFB0TWN3MFp3dFNaMzZoWE5yQ2xISXhoeEtTZ1Y5Wk5EOHRFVEZ3bHhMZV9ONzhRazNYOXVtQVdITWdIRHhwd3FObHp1aUFfdE9PSklrZllyVi1KXzZlNkhqXy1rbnVsaVpOZ1d5eTF3dUpBNVo1MGVfUFA0VmlWQ1R4Tk5hcFN4aEFJZG8?oc=5",
+   "data": "2026-11-08T02:49:30+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Renato Gaúcho cita jogo contra o Flamengo após classificação do Grêmio: 'Sei o que faço'",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2g3M2tRc1VsT3JBRUhra1NhckhkLW5NWExBaVJULXlIRUN4bDF6c1lYX1FQSVdpMVpQd3FURlNpWDFmQ0U1ZUZOd05iSUpNUy1UUUVyZ2VzcUl3VEc1dnhObzVwVFYwR1ZZUUtJZ2R1elVUODdqTS1lSjh4aEd5TWxvbTREbjlkcS1sOFpoWDRfa2M3XzZoUXJYTV9jeVg1MUh2WXAwNlNRcW5jTzBPNGlhOTkyR2NKY2JmcXZSYw?oc=5",
+   "data": "2026-11-08T02:16:55+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
   {
    "titulo": "Mauro Cezar Pereira: Flamengo x Grêmio teve melhor marca de bola rolando no Brasileirão 2026",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZm5BeTVDbEVMbkxWZ05zM1VfdFFHdUgzNEYyR2VfU1h3SVVOMHcxc3pMQVRCekhUVjZyc3JVeVFrUGZkLW1kOUhxOXJCQmZhdGJ0ZGtWX0Q5NDZHZ1psY1EzUlc3S1dsVlpWUTlIY1ozZGxCa1AwN0hnQTBJOGVwa2loSnZWV2hiOU01dU9IaWRPSDFoU04tRHRYZEFFMW9iTUxZZmc5RVZ0alVPN1VnbTJqcEw4Vi1GX3diMENicGc0MElPb2FwZU9tRU1RQmVWcXpoRzNOVHhqMk80cF9EUGRCdGJBMFg1?oc=5",
@@ -186,16 +218,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo rejeita 'tirar o pé' com 8 pendurados na reta final do Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcDM0Tk9WOFFvOVFUUlE4VVNvRWxkSGRIQzc0N3hYWl9JaHdFeUNNTzd6T2FJRGhudjQzOUhCS1JldHQtSkQ0NzQ0TElSR1dEaWxEbnprNVJoTzdjS2ZVbEFRcHBudzBpVWliNE5CYXozWl9lVndsSWUtX08xUXJmQ3NnTXFkWUhvSzN0dXdOWjNlZVZERXlnaEFza21ZZDBwZjl3RjlfVDBxcG5kMEdNYlNLa3N6WGZIWGRoZUc0YmFlTUw4YTdoQzdGMmxlMzQ0UWlrQWpMSjFXRl9y?oc=5",
+   "titulo": "Rafael Reis: Monaco desaba na França, e Filipe Luís encara 1ª crise na Europa",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0ExRG5qalllWXc4Yko3c3NZU095SVhyTEgwQ0pINFpEUEN0VWdsNFctVEx5QkFuZzAzUmRrMWk3c2FmeFdvU2NTcUpQUmR1MUMzVDZ5VXVFNFZ2VUZ6a2pzdHQ4X0FVWF83SnFYRVNEUURmaHpYUm5FNlk1TzBCOVBnTXhadFRYVG1VajJEQXZybXY5Y3c1LWIxMGpXQjZZcEFjMXI2TlJLaWNJUnVYR3NtVEROVUJsWG1UT0haMVdIbU5rdEFCZlR4SHNWcnUwM3c?oc=5",
    "data": "2026-11-07T13:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Rafael Reis: Monaco desaba na França, e Filipe Luís encara 1ª crise na Europa",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0ExRG5qalllWXc4Yko3c3NZU095SVhyTEgwQ0pINFpEUEN0VWdsNFctVEx5QkFuZzAzUmRrMWk3c2FmeFdvU2NTcUpQUmR1MUMzVDZ5VXVFNFZ2VUZ6a2pzdHQ4X0FVWF83SnFYRVNEUURmaHpYUm5FNlk1TzBCOVBnTXhadFRYVG1VajJEQXZybXY5Y3c1LWIxMGpXQjZZcEFjMXI2TlJLaWNJUnVYR3NtVEROVUJsWG1UT0haMVdIbU5rdEFCZlR4SHNWcnUwM3c?oc=5",
+   "titulo": "Flamengo rejeita 'tirar o pé' com 8 pendurados na reta final do Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcDM0Tk9WOFFvOVFUUlE4VVNvRWxkSGRIQzc0N3hYWl9JaHdFeUNNTzd6T2FJRGhudjQzOUhCS1JldHQtSkQ0NzQ0TElSR1dEaWxEbnprNVJoTzdjS2ZVbEFRcHBudzBpVWliNE5CYXozWl9lVndsSWUtX08xUXJmQ3NnTXFkWUhvSzN0dXdOWjNlZVZERXlnaEFza21ZZDBwZjl3RjlfVDBxcG5kMEdNYlNLa3N6WGZIWGRoZUc0YmFlTUw4YTdoQzdGMmxlMzQ0UWlrQWpMSjFXRl9y?oc=5",
    "data": "2026-11-07T13:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -722,6 +754,14 @@
    "resumo": "Vale poupar jogadores pendurados pensando no jogo com o Palmeiras? ge Flamengo avalia O Palmeiras venceu o Remo em jogo válido pela 34ª rodada do Campeonato Brasileiro na noite desta quinta-feira. Com isso, a vantagem d…"
   },
   {
+   "titulo": "Torcida do Flamengo reage a possível falta em gol do Palmeiras: 'Todo jogo'",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnR3TFdPa0hZQndWNWVncUFaeTBMOFY3Yi1Bek1DaHlqVnk3VlVWdF9Ec2hFRnNnX3ZpRy1FaWJBZTQySmRlUXIwX3VPbjRtd2paRlBqcDFTejhoNFA1RFo1ZWNULVBmNFgxMTYzQnRobjNQTkNOQ0d2c1FpQnFTaEtVeXZaMGtOMnN4SFRnOVY0Ni10a091WXlsR19fQmp5WGx3Z0gtYVR0UWJCYXo5N0dKNTJ6SWs?oc=5",
+   "data": "2026-11-05T23:09:28+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Ex-Flamengo, Lê relembra quando foi xingado por Petkovic após 'roubar' cobrança de falta: 'Quando ele dava mole...'",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwZkRvSU1KaGJaWkIwQzRpNm1PQ0d3U3FlS3p5UXg0SmRiY19WTGVRNFl2UDVRU1YzRlhPOGl1R3A3T0NDN2Vib3dPS3dLSXpha1NLYlhsSGFyMmRONVE?oc=5",
    "data": "2026-11-05T20:35:16+00:00",
@@ -773,14 +813,6 @@
    "titulo": "Coluna do Seda: Flamengo volta a encantar no campo e a ferver nos bastidores",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkd4ZVhia3hxTi1ybWhxYVVhZHVRTXY3eTJoTlQ0MHl0aDRnMjRZaG9fNmdTMFBfYmhnNVp4cnl2MGJmLVFTNldyclI2b1pNNVJqLWtpWjI0TW1sNUFwaWtDVDVjQ3NoODJQUVhkdXFmakwtRkp0aV9xcFBHcTBQOV81YjhVYVkzS0dVbVNhSFEwM0c5blplckxaTG9rSjlJM1BaVWZwRHF5SHF1N2tqLVNvRQ?oc=5",
    "data": "2026-11-05T15:31:27+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flamengo, Daniel dos Anjos vive melhor fase artilheira da carreira no futebol do Vietnã",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa040ZW9Pa3k1eWQyOVh1bGllYUNkLWs5NzFFV3pPbU51cUNGcUlZT2lJSlhVemJnYzdiY0tZY1VsYkpBMnNWWmlJN0pfRDJZdUMwQTVSeTNubzFEQm9HWm56dVY0ZEhFN25pZmVaSkp1ZUswWFJic2NMOXBvQ0xCTVN1dGY1LU5XVWU0ZnJveDFIR1NlNUJaUk11Mkl4STktYW1LYWZZNzFNbWw2WVVLeW9BMmR3N1B4dnVvMTl0X2lLRllkODZBS21SVFZKOTF0SVc1bFNTM20?oc=5",
-   "data": "2026-11-05T15:18:45+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -1199,38 +1231,6 @@
    "data": "2026-11-04T20:35:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo divulga relacionados contra o Grêmio com voltas de Saúl e Valencia; veja lista",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/04/flamengo-divulga-relacionados-contra-o-gremio-com-voltas-de-saul-e-valencia-veja-lista.ghtml",
-   "data": "2026-11-04T19:02:48+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja cinco motivos para confiar no título brasileiro do Flamengo O Flamengo divulgou a lista de relacionados para enfrentar o Grêmio nesta quarta-feira, às 19h30 (de Brasília) no Maracanã, com duas novidades: as voltas…"
-  },
-  {
-   "titulo": "Em reunião com clima quente, Flamengo aprova renovação de patrocínio na camisa; veja valor",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/04/em-reuniao-com-clima-quente-flamengo-aprova-renovacao-de-patrocinio-na-camisa-veja-valor.ghtml",
-   "data": "2026-11-04T18:28:39+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja cinco motivos para confiar no título brasileiro do Flamengo O Flamengo aprovou, na noite da última terça-feira, em reunião do Conselho Deliberativo na Gávea, a renovação de contrato de patrocínio com a \"Shopee\" por…"
-  },
-  {
-   "titulo": "Onde vai passar Flamengo x Grêmio pelo Brasileirão? Como assistir ao vivo",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEY4QmNIeS1pVkVlV280WFZKc2l2bXZ2ZHRuX19Ra2JRdElsZFRKOHdmZS1wN1UzQmpoNFE0b2pIcmppdG5iSy1ySFRrT0NlU2RwYUQxeVEzMFZNOVBsbkhDcFRlb2Q0RERFdTlxdU5yUFk2MU84UmpsTHd0Sk16czJxUERZTlpQRjJaMEtyRU9WSnJHRmZDN3E3OWZ2bDYyY1I4ajJheFcwdDAtN0pKdEN2SW95c2l2UUpIX1V1NmFxNUNwWklQMEhjR1hIaVRnVVE?oc=5",
-   "data": "2026-11-04T16:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo recebe o Grêmio que espera um milagre. Informações e palpites",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOWFzM2N4ZDEzNWNkN2psTzRvQ0dGNUplVW52UTI3Sm90dW9QMXBLd2dIdU5DeElsQ1c4Q0lNS05NSzhtakRKTGU4cnFxcHQtWlJ2VkFtQ2xteTlBM3d4Y19ONTNOSW5zRDFpb3ctcE12RkdDNm8tY1JvRjh0Q245LWprckhoUGpOZXlQT0I0V2d4Y0UwZksxY1ViOG9GTTVCRXR0RnZXcm82ZW9mYWZWVUhCMzVTaWYxXzhvTWxnMWdwbF90Q1E?oc=5",
-   "data": "2026-11-04T15:55:45+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   }
  ]
