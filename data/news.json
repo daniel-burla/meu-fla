@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-08T20:24:03.093143+00:00",
+ "atualizadoEm": "2026-11-08T23:57:49.950391+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 26
+   "itens": 27
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,48 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 62
+   "itens": 63
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 66
+   "itens": 67
   }
  ],
  "itens": [
+  {
+   "titulo": "Torcida do Flamengo reage à classificação do Palmeiras: 'Nunca'",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3VnOFhsT1pfanpPUFNxS3lNRkVFVDJza3I1TzBqZy1waXNjTEpOUWxnamU4SXYtQzRKcEhwSEJGMDItbWo3dUxFekpEbkFKbjA2bFluTGN0VFlmQ3lUZkx5TVZVa1pXWUhkNEVtVndHUk5CMlNlSjNUYjlkb21DVG5NOEVYOGV6Z2Rha0planVNelRQTExqTzZIMThaSGtfZVlKQmdUdw?oc=5",
+   "data": "2026-11-08T22:53:53+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras bate Vasco nos pênaltis, vai à final da Copa do Brasil e segue vivo em 3 frentes",
+   "link": "https://colunadofla.com/2026/11/palmeiras-bate-vasco-nos-penaltis-vai-a-final-da-copa-do-brasil-e-segue-vivo-em-3-frentes/",
+   "data": "2026-11-08T22:20:37+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Final contra o Grêmio acontece no dia 06 de dezembro, em Brasília O Palmeiras está na final da Copa do Brasil de 2026. Neste domingo (8), o time de Abel Ferreira perdeu por 2 a 1 para o Vasco, em São Januário, pelo jogo…"
+  },
+  {
+   "titulo": "Equador convoca Plata e Valencia, e Flamengo pode perder a dupla contra o Athletico-PR",
+   "link": "https://colunadofla.com/2026/11/equador-convoca-plata-e-valencia-e-flamengo-pode-perder-a-dupla-contra-o-athletico-pr/",
+   "data": "2026-11-08T20:39:50+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Marcelo Gallardo chama dois equatorianos do Rubro-Negro para amistosos contra Costa Rica e Bolívia A seleção do Equador divulgou neste domingo (8) a lista para a Data FIFA de novembro, e o Flamengo tem dois nomes na rel…"
+  },
+  {
+   "titulo": "Equador convoca sete jogadores de Flamengo, Atlético-MG, Cruzeiro e Inter",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaTdKZjIxTExXSDduV2JubWtOQlM5VXN3V1R6Ym0taWNFaTBtQ1o4enVPZGlLTWxxckx1MWlFbzhBclI4RWdtTHRYRFJrdW9pLVBwSEtaejlKcktqeUk0eFNZS3B3TkstSE55ZGRjam9teVMzY2ZVS2ZRWVlSYmRqbEdDUG1FbklCcE8tbEJqNTRIeG9paTNCbDd5dDZwM1ZjQV9kdWg2eG56TWJyTS0tNHpFY3ZqVV9La2thM2JMOUl1TjVVb2lrZEFkMHRZZjRkd2NPTktEa2R5U0dTMmhlNQ?oc=5",
+   "data": "2026-11-08T20:29:36+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
   {
    "titulo": "Equador é convocado com jogadores de Flamengo, Cruzeiro, Atlético-MG e Inter",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUW5KMGpWS2M1TERsYmk0MjA3LVFibFM0QlFYTkNhdmg3UGI5cXJ1NmY4LWNpOWJ4UXpkUFU1c1lEMUVHZ2lpUVpFZjdqZ3AwdG1FTGEtSWVkOGh5X19SOUh4QXd1M1JXYUxIWVdBZU1XcVRtc2c1SmU4UWhsd3hLRnpKNmdqamVrN01nOU83YWs2d1I0WXVYaHdqYTVFSUx1dmVZbC1keUdkb1dUdjlIc0MzV0xQY2ZwREF0ZUczV1FKTlA4?oc=5",
@@ -48,6 +80,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Time gaúcho eliminou o Red Bull Bragantino nos pênaltis neste domingo (8), e a CBF sorteia nesta segunda-feira (9) quem decide o título em casa O Flamengo já conhece o adversário da final da Copa do Brasil Feminina 2026…"
+  },
+  {
+   "titulo": "Grêmio iguala recorde do Flamengo e entra para a história da Copa do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUFlTWmQ2b3hrSlV1UnM2MldsS1pVRnVXUFROT0VDN1JhNExTWXI5bXZDNFNMay13VU5NRER1YWwxcGtDT29HUENrNXJGOXlxWFVuaDREVnQyNzBQUU1uTi1BZXctbDA2ZGt3blI2N2NBWkgyUVA1SWFWMjJXVjdTa3R0UTZyalFERXZoQjdCRWgwZVhtYWlwcUpPZ21oT3NVd05WS2k3RlI2Tk1DR0hSTlVuTGJ1SUczR3l1enAwUndaWHgzaVlR0gHiAUFVX3lxTFBrYlNhN1czcklWYmVzdmY4RHktRWtjZDU5V21uZlBQTXBVVVg3VTcwZl9Gei1FTGQxX0pVR1lUc2hPd3dZV1IzSlZnMzYzMFRPazdNdVlxZVdDY2NfWXlCTUxGTW5OVURZV2d0azZXemRjWWtycTBmM3dxUzYxemN3ZjNuU1RwTE1TeUhsWml5OFNycG5aLXB1cVpsSEdWa2xSZDdjUzZzMlMxbFRoRTRZY2l2WUtITmJPU1lxaTU4TWFMZE9LRGFRemVhZ2cweE5TM2l6SjdKVWt4d1B3eFVrZ0E?oc=5",
+   "data": "2026-11-08T19:35:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Gallardo convoca Equador com jogadores de Flamengo, Atlético-MG, Cruzeiro e Inter",
@@ -218,14 +258,6 @@
    "resumo": "Jardim e Boto vão sair? Entenda a situação da dupla no Flamengo \"Flamengo não pode aceitar sair de um ano sem vencer um título relevante\". Essa foi a frase dita pelo zagueiro Léo Ortiz depois da vitória sobre o Grêmio n…"
   },
   {
-   "titulo": "Autor de golaço de bicicleta na Série B entra na mira do Flamengo para 2027",
-   "link": "https://colunadofla.com/2026/11/autor-de-golaco-de-bicicleta-na-serie-b-entra-na-mira-do-flamengo-para-2027/",
-   "data": "2026-11-07T19:19:14+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Léo Erig, atacante de 19 anos do Operário-PR, foi titular no time que eliminou o Flamengo da Copa do Brasil Sub-20 nesta semana O Flamengo consultou o Operário-PR sobre Léo Erig, atacante de 19 anos que marcou de bicicl…"
-  },
-  {
    "titulo": "Paquetá convida Neymar para jogar no Flamengo e revela bastidor",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWdyeW5UZ3M2LXFGSFVjR1pSMFpBdWlSbmE2Y3lCcVIyU05CRlNJeUNHbnp6OEpCQkFJc0lpMGRxVXhrZkc3YUwzXzRXazBubjJRcmp6blRPNUlyc1lyYkVVSW00aUcwWlRDY0JVOTZRNkpGcV9iRllBUW1LdmV0aHpDaVNreFhTOW5nZFJhclM1eHo1bHBmVWhIZWF2T2c1SWszYXBtdjN0TmRfNDhtdXJkS044UQ?oc=5",
    "data": "2026-11-07T19:04:58+00:00",
@@ -256,14 +288,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Flamengo 3 x 1 Grêmio | Melhores momentos | 34ª rodada | Brasileirão 2026 Lucas Paquetá ainda lamenta o pênalti perdido na semifinal contra o Estudiantes, que foi um dos motivos para a eliminação do Flamengo na Conmebol…"
-  },
-  {
-   "titulo": "Atacante brasileiro não esconde felicidade de receber proposta do Flamengo",
-   "link": "https://colunadofla.com/2026/11/atacante-brasileiro-nao-esconde-felicidade-de-receber-proposta-do-flamengo/",
-   "data": "2026-11-07T15:42:55+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Kaio Jorge voltou a falar sobre a proposta recebida do Flamengo nas últimas janelas de transferências Kaio Jorge voltou a falar sobre a investida que recebeu do Flamengo nesta temporada. Na fala, o atacante do Cruzeiro…"
   },
   {
    "titulo": "Varela abre o jogo sobre volta por cima no Flamengo",
@@ -298,16 +322,16 @@
    "resumo": ""
   },
   {
-   "titulo": "Rafael Reis: Monaco desaba na França, e Filipe Luís encara 1ª crise na Europa",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0ExRG5qalllWXc4Yko3c3NZU095SVhyTEgwQ0pINFpEUEN0VWdsNFctVEx5QkFuZzAzUmRrMWk3c2FmeFdvU2NTcUpQUmR1MUMzVDZ5VXVFNFZ2VUZ6a2pzdHQ4X0FVWF83SnFYRVNEUURmaHpYUm5FNlk1TzBCOVBnTXhadFRYVG1VajJEQXZybXY5Y3c1LWIxMGpXQjZZcEFjMXI2TlJLaWNJUnVYR3NtVEROVUJsWG1UT0haMVdIbU5rdEFCZlR4SHNWcnUwM3c?oc=5",
+   "titulo": "Flamengo rejeita 'tirar o pé' com 8 pendurados na reta final do Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcDM0Tk9WOFFvOVFUUlE4VVNvRWxkSGRIQzc0N3hYWl9JaHdFeUNNTzd6T2FJRGhudjQzOUhCS1JldHQtSkQ0NzQ0TElSR1dEaWxEbnprNVJoTzdjS2ZVbEFRcHBudzBpVWliNE5CYXozWl9lVndsSWUtX08xUXJmQ3NnTXFkWUhvSzN0dXdOWjNlZVZERXlnaEFza21ZZDBwZjl3RjlfVDBxcG5kMEdNYlNLa3N6WGZIWGRoZUc0YmFlTUw4YTdoQzdGMmxlMzQ0UWlrQWpMSjFXRl9y?oc=5",
    "data": "2026-11-07T13:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Flamengo rejeita 'tirar o pé' com 8 pendurados na reta final do Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcDM0Tk9WOFFvOVFUUlE4VVNvRWxkSGRIQzc0N3hYWl9JaHdFeUNNTzd6T2FJRGhudjQzOUhCS1JldHQtSkQ0NzQ0TElSR1dEaWxEbnprNVJoTzdjS2ZVbEFRcHBudzBpVWliNE5CYXozWl9lVndsSWUtX08xUXJmQ3NnTXFkWUhvSzN0dXdOWjNlZVZERXlnaEFza21ZZDBwZjl3RjlfVDBxcG5kMEdNYlNLa3N6WGZIWGRoZUc0YmFlTUw4YTdoQzdGMmxlMzQ0UWlrQWpMSjFXRl9y?oc=5",
+   "titulo": "Rafael Reis: Monaco desaba na França, e Filipe Luís encara 1ª crise na Europa",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0ExRG5qalllWXc4Yko3c3NZU095SVhyTEgwQ0pINFpEUEN0VWdsNFctVEx5QkFuZzAzUmRrMWk3c2FmeFdvU2NTcUpQUmR1MUMzVDZ5VXVFNFZ2VUZ6a2pzdHQ4X0FVWF83SnFYRVNEUURmaHpYUm5FNlk1TzBCOVBnTXhadFRYVG1VajJEQXZybXY5Y3c1LWIxMGpXQjZZcEFjMXI2TlJLaWNJUnVYR3NtVEROVUJsWG1UT0haMVdIbU5rdEFCZlR4SHNWcnUwM3c?oc=5",
    "data": "2026-11-07T13:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -1010,14 +1034,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Juca Kfouri: Passeio do líder Flamengo e virada do aliviado Vasco",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemZnckxhMmFwR1Y3S1ZKV1Qwb2tMcFJlcjl1dkE2N0dMX1BOd0E4cE5SY19vTlpGT2JBY3NwR0UtSDI2V3NMdUZqekcwN1R1bDI3T1NzYk9YVlFiX2ZOQThIdHJoeVNqN3A4OVRvalJoenFQZzRkampZWTctTF9ReVk3aEdvVFplaEtFM3JDNzllMGxOQWgxMk1sckdVYzVBZ1lYVWwzOHlEY0EyLXVZLThwTzg?oc=5",
-   "data": "2026-11-05T05:30:11+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Paulo Vinicius Coelho (PVC): Flamengo precisa só de três vitórias para ser bicampeão brasileiro",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEFmQW1BMU4yb2FXMFhmbUJkMk9VM1ROa3R2QVFEUnVVblV4T0JNT0FRdWFFSkg3dTBBTk9sNXN1MHhDNGdvZmxuOHFhM1NDaHY3NG0wVWFvNGo0MlVUUGduMFZHQkx1a0lJS3Q4ZkNXZ25UbkJxOTFBb05aQzZsMEtueGZVVEFSa0pkMU9zN0dHdVJ1bVptaFJ2QktTS1dNMDhQRFRzNTdDN3FvZDhpMlM2c01hVjByWmxVRGhsVEp1dw?oc=5",
    "data": "2026-11-05T05:29:37+00:00",
@@ -1095,6 +1111,14 @@
    "data": "2026-11-05T01:33:20+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Classificação do Brasileirão: como ficou a tabela após vitórias de Flamengo e Vasco",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHRiWkNEQWM1N0tNckZLQ3Y2c2JxeEROVThHRHNYTFVxSjhobW5PTGlyZ05oamxoR1M5aTU5MUJMYjdCVzgzZVY3c2ZZYW54Zlo5N3lsbFdXbXJoWC1acTRJaWNJLVpMeE5sN2dhSzJZUFpDR242WUFsaDlDTmVSN25sRHI3M0dldUluQk5QWjVBZmpIZkZYbkVSR0FJM0xkcUk1aHA4WDRQM09Jb0pxbHdhQ1l6aVNxUmVWMl90Mmx3bmxua0xLQW5pODJSV2lCOTdzSWVSV1V6UQ?oc=5",
+   "data": "2026-11-05T01:31:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -1208,30 +1232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Vai passar no Sportv? Onde assistir a Flamengo x Grêmio ao vivo hoje",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNclpBTXZzZkk4a3ZZYV9mUXl2dURaRzdaUmE2XzFRRTZzOTZFMjhFMzhGUzdBZ1JySWVpTlhfdGpHcG55YlFHa3pueGtFc1Zjc2NyZnFPQ2Z4MFByNnhJU2lXaC1hUU5yZ3VqSjF2Tk15ZmtJa3pSbUtvdms4Q1FjZV92MzFmX2ZSUjFmbkktbGMwVVpld1FfNFg2cDRrQkU2cDJ3?oc=5",
-   "data": "2026-11-04T21:10:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Transmissão ao vivo de Flamengo x Grêmio pelo Brasileirão: veja onde assistir",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQUszcGtSMjRVUlNkV21rcVlHaXJJX0lwSFNGUEtLSTVET1VwY2lwRkFLR2p3VHUwQ2RpaV9MdWdhdEdWQ1EybG5IY1ZjdG9iX0xYc29UR3Njc25kUFZRTW51ZXl1aGRacG9Sdzh1WjNlZ04tTjRaelBab2pzM2tqeWNEVWl1eTVvbG1XVmpBTElNUlA5QzlSbkhfN0ZVbV9GOHZmTUh0MzNvUFd3YzhrTUg1ZHRKNnVtUVEzd2w3S1lSM041d09YQXBObnNkU3RXWGtTcEdnRQ?oc=5",
-   "data": "2026-11-04T21:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Auxiliar técnico do Bragantino, ex-zagueiro Réver é preso em Porto Alegre",
-   "link": "https://ge.globo.com/rs/futebol/noticia/2026/11/04/ex-zagueiro-e-auxiliar-tecnico-do-bragantino-rever-e-preso-em-porto-alegre.ghtml",
-   "data": "2026-11-04T20:58:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "De ídolo a dirigente: Réver sonha em ser técnico do Atlético O ex-zagueiro Réver, que teve passagens em diversos clubes do futebol brasileiro e atualmente é auxiliar técnico do Bragantino, foi preso no Aeroporto Salgado…"
   }
  ]
 }
