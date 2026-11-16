@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-15T21:40:54.290200+00:00",
+ "atualizadoEm": "2026-11-16T01:53:21.131674+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 15
+   "itens": 16
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,120 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 76
+   "itens": 74
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 45
+   "itens": 41
   }
  ],
  "itens": [
+  {
+   "titulo": "Após vice, Cristiane diz que problemas internos atrapalharam Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdmFMa2p5blRraHZLRkVCQW1iTDItdlBoLUN1dTNLYUhkZ01zSndFZFM5bVNqeXJFRk1ScXBicFFMVjFQWkJKMGhINjVWSXRVTnAteHREWV80dEJfS1RSTWlvM3BWNFZRTUdPejdBVWFmODF5UF9kR0ZBVmUtNEp3a1RyQ19IUlBSNTJFclI2cFhiOXhzdEVoUkI5em9oWjhPNjRybGo0SFVidGNKd040QmMzTUxUN095dnduNE50UUw3Y29tdlFIUnNOTmV4cW1xbmNhSUJ0aw?oc=5",
+   "data": "2026-11-16T01:26:12+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo fará mais dois bustos em 2027 com votação popular para escolher homenageados",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/15/flamengo-fara-mais-dois-bustos-em-2027-com-votacao-popular-para-escolher-homenageados.ghtml",
+   "data": "2026-11-16T01:25:13+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo inaugura bustos de Arrascaeta e Bruno Henrique e Bap já pensa em novas homenagens O domingo de aniversário do Flamengo foi de homenagens a Arrascaeta e Bruno Henrique, que viraram bustos na Gávea. A dupla se to…"
+  },
+  {
+   "titulo": "Internacional x Flamengo ao vivo hoje 15/11: siga placar agora | Copa do Brasil Feminina",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFBTVmQ4ajF2S0R5RVRXTnU2Wmk2NFFQQ0lxc0RmMDhHX2NCdVJ0NDVLTkhwdVV2YjJXV2VORVVEc1otajNtcXBRYTFVck5Va09pUVJFdlNFeUdBXzlTM1dYQlp3U3RWYkJpOTF2MTRlQUZCdlJaZ29idUt6b0RuMDlMTVBKNXIxb0JFTE9XMjFfV0JreUg5Ul9CT29mUmYtaHYtbWFwcFc?oc=5",
+   "data": "2026-11-16T00:48:19+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo vira sobre o Boca e garante vaga no Final Four da Liga Sul-Americana",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UTHItS0ltdndyQ1VLRVFZRVVxdzJMa1hUeVdaSjZ1NGRLVFpldUF4Y0o4bGMxMTZnY3gzX1BjTm9FMDJ2UHhxaFk3OWJLOVdlRnVyNg?oc=5",
+   "data": "2026-11-16T00:05:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras corre risco de perder titular para jogo contra o Flamengo, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/11/palmeiras-corre-risco-de-perder-titular-para-jogo-contra-o-flamengo-pelo-brasileirao/",
+   "data": "2026-11-15T23:44:29+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Piquerez teve lesão confirmada após realizar exames no retorno ao Palmeiras; jogo contra o Flamengo acontece no próximo sábado (21) O lateral esquerdo Piquerez sofreu lesão na coxa esquerda em jogo amistoso do Uruguai c…"
+  },
+  {
+   "titulo": "Cristiane diz que 'coisas internas' atrapalharam o Flamengo feminino e desabafa: 'Prefiro ter paz do que ter razão'",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaEFDSXYtZGY2c1hJVGhlNmtLS2NVZmdQQXJtMzcxdks1VkhiUndYeTExVWlULWt5UHdGN0JvTllieDlqNFYtRFMzLXJlWnRoU1AyRWlrbTVLaHA0YnJvWU11Wldzc0cxYm1odjRMWk5NNVNFNDFGRzJpWWYzRzhTc3RLMHVxbUd1YUhaRWVjUzlKV0hvYmc4VUw1dTV3WjZ2QXBaZEpmNGVReFh4VEg3R3I5RUtmUG11QzZBYmEzakJqaVBPWTJ3SGFYeG4zMl9nUjNKX3F4Y0tUeWl1WVNZOEFRSmtJR0NWV1lxSWZGcG1UcWtuUWNiQmNHd2RFdmM4?oc=5",
+   "data": "2026-11-15T23:43:04+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo impõe virada ao Boca Juniors e garante classificação ao Final Four da Liga Sul-Americana",
+   "link": "https://ge.globo.com/basquete/noticia/2026/11/15/flamengo-impoe-virada-ao-boca-juniors-e-garante-classificacao-para-o-final-four-da-liga-sul-americana.ghtml",
+   "data": "2026-11-15T23:15:19+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Novo técnico do Flamengo, Demétrius explica montagem do elenco para a temporada do NBB O Flamengo está no Final Four da Liga Sul-Americana de Basquete. Depois de vencer o Paisas com autoridade e ter a invencibilidade in…"
+  },
+  {
+   "titulo": "Ex-Flamengo, Ronaldinho Gaúcho estreia com vitória em time italiano; veja",
+   "link": "https://colunadofla.com/2026/11/ex-flamengo-ronaldinho-gaucho-estreia-com-vitoria-em-time-italiano-veja/",
+   "data": "2026-11-15T22:53:31+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Ronaldinho Gaúcho esteve em campo no triunfo do Ravenna (ITA) contra o Forlí (ITA), pela terceira divisão do italiano Ronaldinho Gaúcho está de volta aos gramados. Aos 46 anos, o meio campista atuou pelo Ravenna (ITA) e…"
+  },
+  {
+   "titulo": "Torcida do Flamengo reage a bustos de Arrascaeta e Bruno Henrique: 'Dificilmente'",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUTFfdVFScExsTEhwaHFsSDR5Zm9OWVBUMkZLZkhfaFJYSHZvcGdQdzdLRXlpYVd5VDhMZ0Z3NTU1M0xlbHY2bXowZXJsMkFCRVYtZlZzM3pMS3F0S0dkemgwa3pmeFBySkpQRWJNZU1OZzdHTEVmcE1yRzhxSHgxTEp2M0hPVmtBWUVSdjBjZWEtc1hUdGpPUjVTNW4temZMRmwxdEVnSHlnQy1DWDdIY3hnNm1ybkg4YzdnRjJMOA?oc=5",
+   "data": "2026-11-15T22:28:16+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Cristiane desabafa após vice do Flamengo e cita problemas internos: \"Jogando contra todo mundo\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/15/cristiane-desabafa-apos-vice-do-flamengo-e-cita-problemas-internos-jogando-contra-todo-mundo.ghtml",
+   "data": "2026-11-15T22:22:47+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Cristiane lamenta derrota e fala de fatores internos: \"Eu prefiro ter paz do que razão\" A experiente atacante Cristiane afirmou que problemas internos atrapalharam o desempenho do Flamengo na temporada, após a perda do…"
+  },
+  {
+   "titulo": "Inter volta a bater o Flamengo e é campeão da Copa do Brasil feminina pela primeira vez",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVGM2d0I1Y0M4NUZDSlZCM0JWXzc4NWNCT3FfM01WbjVvenowQ2xhYWQ3Q1A0VWhrSEZoY0N1TjRyU01ITlVPNVpjOXJ3VW9RSkgyQWZ6QmZSeWU5dW5JVHZxdElrREg2YVJsM2tqekd4YzNnOXJjZG5yaU1FRWI1WERCV3dEU01KTmljSW10eHFIdnZxaVlVZ3lwZGRnVm5USkdYc0tsZmRRUFZJMXdua0F4Z0J2aEhIREsxLWlsYi1ERjk5azIxSHJxZUVhWUZsaUJCT1ln?oc=5",
+   "data": "2026-11-15T22:03:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Capitã do Flamengo, Djeni promete time ofensivo contra o Inter",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEpUdDcwYld0MG1MUzVhQkJiNm1lM21CSlBScldyaFFWZjc2X2kzUVBtT3ZaeG1IOTY1bEc2cnN5YzB6RFBIMVJVYWZZb0ItR3IySGxzZ2ZrbGU3R2ExVXFqSjN2Y1BNSkJPNGxiMTI0aG5oWFhPbGFGNlMyQXpQbWw2c1IyTXJYQWdJRnNzbFRuUWMyS3puSTdZQWlxVGFkUExJbXF5TUliQkRNOTNqSzRTbjBpQU5NTHl3R21Nb0trbHVQMGUwclVkVUlEM216UkFXTUktN3k4dkZNaUE?oc=5",
+   "data": "2026-11-15T22:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Atacante desabafa após perda de título do Flamengo: “Muita coisa interna nos atrapalhou”",
+   "link": "https://colunadofla.com/2026/11/atacante-desabafa-apos-perda-de-titulo-do-flamengo-muita-coisa-interna-nos-atrapalhou/",
+   "data": "2026-11-15T21:58:32+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Cristiane deu entrevista após o duelo com o Internacional neste domingo (15), pela final da Copa do Brasil Feminina Cristiane deu entrevista logo após a derrota do Flamengo para o Internacional, neste domingo (15), pela…"
+  },
   {
    "titulo": "Gigante inglês tem atitude surpreendente com o Flamengo",
    "link": "https://colunadofla.com/2026/11/gigante-ingles-tem-atitude-surpreendente-com-o-flamengo/",
@@ -42,19 +146,19 @@
    "resumo": "Campeão da Copa do Mundo de Clubes, Chelsea felicitou o Flamengo em aniversário O Chelsea (ING) publicou uma mensagem de parabéns ao Flamengo no Instagram, neste domingo (15), pelos 131 anos do clube. A arte reúne Jorgi…"
   },
   {
-   "titulo": "Inter volta a bater o Flamengo e é campeão da Copa do Brasil feminina pela primeira vez",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVGM2d0I1Y0M4NUZDSlZCM0JWXzc4NWNCT3FfM01WbjVvenowQ2xhYWQ3Q1A0VWhrSEZoY0N1TjRyU01ITlVPNVpjOXJ3VW9RSkgyQWZ6QmZSeWU5dW5JVHZxdElrREg2YVJsM2tqekd4YzNnOXJjZG5yaU1FRWI1WERCV3dEU01KTmljSW10eHFIdnZxaVlVZ3lwZGRnVm5USkdYc0tsZmRRUFZJMXdua0F4Z0J2aEhIREsxLWlsYi1ERjk5azIxSHJxZUVhWUZsaUJCT1ln?oc=5",
-   "data": "2026-11-15T21:32:31+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Internacional volta a vencer o Flamengo e conquista a Copa do Brasil feminina",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDJMZngzMUN2eGYzLUFLMkxIWG9wWGFsWDRiazVUZHJVRWIyazFncGY2a29PNjQybTFBS25qU1ZXQzlBSTljNVZjZGUtTHE1QXJuVlByMVUwMXpKS0VoOVpjNEZ1RE83SWxxZ200NXpwS0xMajZ2aWl0RTluckRxOG5fRE11YVFWMXJ2UEhLQWNsdFNKTW9MenlfZ1ZTQWN3ZlppazQyNWRtSG5zU21HV18wUDAzNnV6R3JBM3lDVDVFbVIyd2J3bw?oc=5",
    "data": "2026-11-15T21:16:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo eterniza Arrascaeta e Bruno Henrique na história com bustos no dia do aniversário do clube; veja resultado",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNam5iTzlvaDJLMjZtakhrSWttWU1uSUI4SDU2UkVHZHhCcXIwRVF3VkQ0czctVjNXUS1ycFpNMmhDYjN2VXo3WDNJeDYwdkp4T0ZzRmdWRGRlS3BZMnlkSDlzUk9nRzhPUTV3STFXeTBwblRqNHlXRWhkRmx1RGJhT1pYQ0JjbnNBak5GcjEycU9tMjRGX29mQ2VmN2l0cl9KencxQTU2NTlyd2Zwb3pwckp3MUszcHZHdTR0aFgtSkJOZktBS0dLNFItV0F2TThValE5SGJfM19zTTBxOEhneHB3SENKeXpIajM0?oc=5",
+   "data": "2026-11-15T21:07:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
    "resumo": ""
   },
   {
@@ -82,22 +186,6 @@
    "resumo": "Meninas da Gávea lutaram até o final, porém, não conseguiram reverter vantagem construída pelo Internacional na partida de ida, no Rio de Janeiro O Flamengo não conseguiu reverter o placar e ficou com o vice campeonato…"
   },
   {
-   "titulo": "Arrascaeta comenta sobre diferença nas gerações de ídolos do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb044NmZJN29naG5aNjdiUTNBVm5XaGZ3V2M5Z2FWZ2pDd3BkbndVZDUteVBVMlUwTUh4Y05selVMeU8zSlRmM2d1N05IRnQzOFVlZ3ptTU5jMnFlSW9CVVg3cGFTdF9RRzZ4SWo3Wk4ybThaa205d29QYzBFeWhhTk9DSllPamg4QXJCR2ZMcE9GX3hWZU9yY3p4dEtMbjdBYWNZ?oc=5",
-   "data": "2026-11-15T20:46:39+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo eterniza Arrascaeta e Bruno Henrique na história com bustos no dia do aniversário do clube; veja resultado",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNam5iTzlvaDJLMjZtakhrSWttWU1uSUI4SDU2UkVHZHhCcXIwRVF3VkQ0czctVjNXUS1ycFpNMmhDYjN2VXo3WDNJeDYwdkp4T0ZzRmdWRGRlS3BZMnlkSDlzUk9nRzhPUTV3STFXeTBwblRqNHlXRWhkRmx1RGJhT1pYQ0JjbnNBak5GcjEycU9tMjRGX29mQ2VmN2l0cl9KencxQTU2NTlyd2Zwb3pwckp3MUszcHZHdTR0aFgtSkJOZktBS0dLNFItV0F2TThValE5SGJfM19zTTBxOEhneHB3SENKeXpIajM0?oc=5",
-   "data": "2026-11-15T20:32:42+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Arrascaeta é sincero sobre quem deve ganhar próximo busto no Flamengo",
    "link": "https://colunadofla.com/2026/11/arrascaeta-e-sincero-sobre-quem-deve-ganhar-proximo-busto-no-flamengo/",
    "data": "2026-11-15T20:15:49+00:00",
@@ -114,9 +202,17 @@
    "resumo": ""
   },
   {
-   "titulo": "Arrascaeta celebra homenagem do Flamengo e relembra trajetória",
+   "titulo": "Arrascaeta celebra homenagem do Flamengo e destaca legado: 'Ficar na história para sempre'",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM1NFekwxY0lIWFpjYV94YVREV3lHcF94eVF5aTVic1JfRDhUaUZaSGFjaVhBMjNfV3U2Q0pfTXpPcERZMkJWR0Jvam8tS1B3V3EwWV9rSm5YMVIxUVd5R245NGdpVkxMQ3pzZ1V2N045cG9XVk5aZS1jcU9idjJ4ZlRWLW9fM2ZscWRrV2JLYXI3WjFMRlpjY04zVHJRaU5rT2hTZ3p1R3hib294TXdlNEtGOXBkMlNwanhhZnNYd0xYMDZF?oc=5",
    "data": "2026-11-15T19:56:17+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Arrascaeta fala sobre emoção em ser homenageado pelo Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUxQUVBJdXNZTGMyYjR1RngtNGxGNkNfMXpzS3NULVgyOFhCMTBGVE1xbS1BZ0t0M3gxSVJxMlczX24yaXBmTUU5dmpqSVVzWEthT2dGQ0czUlp6RXVtMnRMSGFiYjUtRkRpZnVBZTJLZTdsUkxJVlZOeEwyRk9aZGE4bWRsT3Z0LXk2SjNWZHE5aFZpQkxZTw?oc=5",
+   "data": "2026-11-15T19:48:24+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -146,7 +242,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Bruno Henrique comenta parceria com Arrascaeta no Flamengo: 'Uma família'",
+   "titulo": "Bruno Henrique abre o jogo sobre parceria com Arrascaeta no Flamengo",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmo2bVBEejdiSTBQblo5VUZXcGF0dkROMENpVXQtV0ZYV1hrZFpSR2pYU3JBSGp1cXNTb0JscWdBYjdNRjRiZ3ZQME9iQzlOcHRYWE9xUVl2TWgxWDUwX0RuOGh0Ni1CRkd0V2FCaGZESGp4dnQ5WVpCbDUzTUZzUS1mZkVidURJWDFEMl85LTlCeXh1enNhTWI5RktkTWl6bm02SHJiWXctWTIyX1E?oc=5",
    "data": "2026-11-15T19:30:03+00:00",
    "fonte": "lance",
@@ -194,12 +290,12 @@
    "resumo": "Presidente do Flamengo revelou que mais dois jogadores serão homenageados com bustos O Flamengo inaugurou, neste domingo (15), os bustos para Bruno Henrique e Arrascaeta, jogadores com mais títulos na história do clube.…"
   },
   {
-   "titulo": "Flamengo inaugura bustos de Arrascaeta e Bruno Henrique; veja fotos",
+   "titulo": "Flamengo inaugura bustos de Arrascaeta e Bruno Henrique; veja imagens",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/15/flamengo-inaugura-bustos-de-arrascaeta-e-bruno-henrique-veja-fotos.ghtml",
    "data": "2026-11-15T18:30:10+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
-   "resumo": "Torcida do Flamengo canta para Bruno Henrique, Arrascaeta e Zico em homenagem na Gávea No dia em que completa 131 anos, o Flamengo aproveitou a data para inaugurar dois bustos de ídolos do clube. Arrascaeta e Bruno Henr…"
+   "resumo": ""
   },
   {
    "titulo": "AO VIVO: Lance!TV transmite final da Copa do Brasil Feminina entre Inter e Flamengo",
@@ -210,35 +306,11 @@
    "resumo": ""
   },
   {
-   "titulo": "Três times europeus tentam contratar jogador especulado no Flamengo",
-   "link": "https://colunadofla.com/2026/11/tres-times-europeus-tentam-contratar-jogador-especulado-no-flamengo/",
-   "data": "2026-11-15T18:23:22+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Pedro Morisco, do Coritiba, é nome da vez no mercado da bola Destaque do Coritiba e convocado pela Seleção Brasileira, Pedro Morisco é um dos nomes tem movimentado os bastidores do futebol recentemente. Afinal, o Fla an…"
-  },
-  {
    "titulo": "Kaio Jorge revela reunião às 23h com Pedrinho durante investida do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHVkMC1zazktMU43aElzWV9UbFc2TDZSbEhkRkZTN0c0em1QdXBWMUlfVFhSRDRlM2V6dGFsQ3psR0EtbWJnamV4RFFfU2tSUmkzY19Ic3hla3lteEhPaDU5OVVTb0ptaDVuckFXcmRBcXl5WE96Z0pCNVBWaUlVWGliZ3lYVXdEMHQ2cWlfWUVpVXc2MUd2bjc3UXpoOFdMcHNybXQtYjlSUE1ZbnlfcVE5QUI?oc=5",
    "data": "2026-11-15T18:08:50+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arrascaeta é 1º estrangeiro a entrar em grupo seleto no Flamengo; entenda",
-   "link": "https://colunadofla.com/2026/11/arrascaeta-e-1o-estrangeiro-a-entrar-em-grupo-seleto-no-flamengo-entenda/",
-   "data": "2026-11-15T17:23:31+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Meia uruguaio ganha escultura de bronze na Gávea, ao lado de Bruno Henrique Giorgian de Arrascaeta se torna, neste domingo (15), o primeiro jogador estrangeiro homenageado com um busto pelo Flamengo. O clube inaugura a…"
-  },
-  {
-   "titulo": "Capitã do Flamengo, Djeni promete time ofensivo contra o Inter",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEpUdDcwYld0MG1MUzVhQkJiNm1lM21CSlBScldyaFFWZjc2X2kzUVBtT3ZaeG1IOTY1bEc2cnN5YzB6RFBIMVJVYWZZb0ItR3IySGxzZ2ZrbGU3R2ExVXFqSjN2Y1BNSkJPNGxiMTI0aG5oWFhPbGFGNlMyQXpQbWw2c1IyTXJYQWdJRnNzbFRuUWMyS3puSTdZQWlxVGFkUExJbXF5TUliQkRNOTNqSzRTbjBpQU5NTHl3R21Nb0trbHVQMGUwclVkVUlEM216UkFXTUktN3k4dkZNaUE?oc=5",
-   "data": "2026-11-15T17:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -258,27 +330,11 @@
    "resumo": ""
   },
   {
-   "titulo": "Filipe Luís faz publicação emocionante em aniversário do Flamengo: “Te amarei para sempre”",
-   "link": "https://colunadofla.com/2026/11/filipe-luis-faz-publicacao-emocionante-em-aniversario-do-flamengo-te-amarei-para-sempre/",
-   "data": "2026-11-15T16:38:41+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Técnico do Monaco (FRA) homenageou o clube mais de 8 meses depois da demissão O técnico Filipe Luís, hoje no Monaco (FRA), publicou neste domingo (15) uma mensagem pelos 131 anos do Flamengo. Ex-lateral e ex-treinador d…"
-  },
-  {
    "titulo": "Flamengo rebate provocação do Botafogo no aniversário com lembrança de goleada histórica",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSEhnOW54eGhNZXRpNklqVm03NmpNakQ5OWJmV29hM1FwQmRCTDBOb0V3UUV3dWNyWU44MDlXdjgzOXNEaF9Ld0FaOGZzRGlJZWQyMkQ5YndaWjdUTjRHRndIZExtd1UxQmpqVndmNUtOekVSOFN0M0haZVhKRGhta09XLWNPSGZHeG1HVFRsNlR3VDJQWU1SMWF1YUNOYW95Z203Y05TU192b0p4UWhHVkFBdlpRdE82cFlieG1kdjduU1Npamk0aDlOY1U0Um5r?oc=5",
    "data": "2026-11-15T16:36:44+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Milton Neves: No aniversário do Flamengo, meus cinco rubro-negros favoritos!",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOERHaGxwRUV6d0I2OE80U3VyT2NrTE5tTlRrNV9feUZRY2gtYmZrSTZTN3lON2JPdEVkVmVpRFVnMG9mNXpIM19MVnVFUG9fbjFHaUF4bzRJUUwxSE5VMTF6cWZlUXNqaFFCSDU0WUpIcl8tcW1rN0JmVW0zUFZBOEtsZ3FLcnI2eXlQUlktVHNvTjQySDB6QUZyMUZBeEtZM2JZZ2lfZTZQaUZOZHpLMEo2YnFlM1ZPYk1xQ3ZXVnRNellOTVE?oc=5",
-   "data": "2026-11-15T16:05:35+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -298,9 +354,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Inter x Flamengo na Copa do Brasil: onde assistir e prováveis escalações",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRWxRdzNwY2prUU85TFpTRFJGeEtCNVc2NWZuQjE1cmxjUkhjTThNQ1JTS29Cdm9BS3VOQjFwY0JjdGFuXzdBbjItbDg4ZG9vNjBhemE1blRmX2FNM0ZRRUc2a0tfbWFGbjhvYzFuTXFjYWFzdnhoelVYck05NGlmNl9WTHo3ZnpBQUczVV96REZ1RzVMU21mTWx0M1RxLXRGQVVIQmJBRGk0b2lyNk5kU0oxSjNkbGtETTl1bV83U0taWkI1eGZlalZYaldzSG1LaXJkNkxXNTZLQVk?oc=5",
-   "data": "2026-11-15T12:00:00+00:00",
+   "titulo": "Milton Neves: No aniversário do Flamengo, meus cinco rubro-negros favoritos!",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOERHaGxwRUV6d0I2OE80U3VyT2NrTE5tTlRrNV9feUZRY2gtYmZrSTZTN3lON2JPdEVkVmVpRFVnMG9mNXpIM19MVnVFUG9fbjFHaUF4bzRJUUwxSE5VMTF6cWZlUXNqaFFCSDU0WUpIcl8tcW1rN0JmVW0zUFZBOEtsZ3FLcnI2eXlQUlktVHNvTjQySDB6QUZyMUZBeEtZM2JZZ2lfZTZQaUZOZHpLMEo2YnFlM1ZPYk1xQ3ZXVnRNellOTVE?oc=5",
+   "data": "2026-11-15T11:05:35+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -322,15 +378,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Internacional x Flamengo ao vivo hoje 15/11: siga placar agora | Copa do Brasil Feminina",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFBTVmQ4ajF2S0R5RVRXTnU2Wmk2NFFQQ0lxc0RmMDhHX2NCdVJ0NDVLTkhwdVV2YjJXV2VORVVEc1otajNtcXBRYTFVck5Va09pUVJFdlNFeUdBXzlTM1dYQlp3U3RWYkJpOTF2MTRlQUZCdlJaZ29idUt6b0RuMDlMTVBKNXIxb0JFTE9XMjFfV0JreUg5Ul9CT29mUmYtaHYtbWFwcFc?oc=5",
-   "data": "2026-11-15T09:30:55+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Dois titulares e um destaque: veja como foram os convocados do Flamengo na Data Fifa",
+   "titulo": "Data Fifa: veja como foram os cinco convocados do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZEE0UFFONmpSNU9nVGp1YXZyMTV4VW5UX0lKZlg0THF1cG44eWlxX1Nna0dqTTFCY01SOW16YnFPNmFIN2pFaTJXaUtmdUVPQ3Z6NTNYTkwyc3FfOUh4Yk5Fc1puVjlmRjdSNEkybXRseVdRZG56bVBlNDA0bHVJU1MtZ25fLV9QeHdpYmNPN2NoWmNib2Fic3dvSXRqQlpFY0Q4MXFDaXVEbkxxb2xWRnhQYjYyUE9DSElvbjF6NA?oc=5",
    "data": "2026-11-15T09:20:00+00:00",
    "fonte": "lance",
@@ -362,20 +410,20 @@
    "resumo": "Inter busca primeiro título nacional no futebol feminino Internacional e Flamengo decidem neste domingo o título da Copa do Brasil Feminina. As equipes se enfrentam às 16h (de Brasília), no Beira-Rio, em Porto Alegre. T…"
   },
   {
+   "titulo": "Inter x Flamengo na Copa do Brasil: onde assistir e prováveis escalações",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRWxRdzNwY2prUU85TFpTRFJGeEtCNVc2NWZuQjE1cmxjUkhjTThNQ1JTS29Cdm9BS3VOQjFwY0JjdGFuXzdBbjItbDg4ZG9vNjBhemE1blRmX2FNM0ZRRUc2a0tfbWFGbjhvYzFuTXFjYWFzdnhoelVYck05NGlmNl9WTHo3ZnpBQUczVV96REZ1RzVMU21mTWx0M1RxLXRGQVVIQmJBRGk0b2lyNk5kU0oxSjNkbGtETTl1bV83U0taWkI1eGZlalZYaldzSG1LaXJkNkxXNTZLQVk?oc=5",
+   "data": "2026-11-15T07:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Arrascaeta se torna neste domingo o primeiro estrangeiro a ter um busto no Flamengo",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/15/arrascaeta-se-torna-neste-domingo-o-primeiro-estrangeiro-a-ter-um-busto-no-flamengo.ghtml",
    "data": "2026-11-15T05:13:44+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Confira alguns lances de Arrascaeta contra a Argentina Depois de brilhar pela seleção uruguaia, ao participar dos dois gols da vitória por 2 a 1 sobre a Argentina na Bombonera (veja no vídeo acima), e de pedir para volt…"
-  },
-  {
-   "titulo": "Por um ponto, Flamengo é derrotado na Liga Sul-Americana de Basquete",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVV3Q2N1TlJPbUF5UXZyYmEwVkotYXVtVnNRTWxYdjVyRlNhNkI3SjZNUUNkekExY01UUkVOdUpBOFZWYXN5XzFsZHBfSUVrVHpVSzlpUGNkczFadlllZ3pvSV9Pbi1rQU1fM2tFeFg2VTBIZ2g0ZVppMGcxQUk2YjJsQ3lkTUZER0oydVd3TGROTGV5UzVTVVZyV2VERUUtdlhn?oc=5",
-   "data": "2026-11-15T01:18:08+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Cruzeiro se junta a Flamengo e Palmeiras e garante presença na Libertadores de 2027",
@@ -530,14 +578,6 @@
    "resumo": ""
   },
   {
-   "titulo": "No radar de Ancelotti, Emerson Royal vive temporada de afirmação no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXRFOUtIeTJWYld3RkFJN2k0OGRFcEZhZ1JUTDZYd2lZZnkzM1d1czNWQjJnR29KY09QcmF5S1BrV19ibVBlUF9HUE5GZTdGNHExdTNjcE5kam9EYzZHVFhXcGs3TDRJVXJ3ZFRGaDJGQmZJQ0RwdGpLS1Qyc1RIR01mWlFWMzBFTEhHSEtXRjlLMTJ4Z1BqOTFZbEFZV3ppN01JNktNRnpwYlJMWjZBMkkwclg?oc=5",
-   "data": "2026-11-14T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo foca no Brasileiro, mas vive incerteza quanto ao futuro de Boto",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXE3VndZbUt0MXFBY21vei1Sd3dkMG9OMFBpNE9MZWwtd09mNWk5dC05blJPNUc0T3RyNGNQTXRDY05YeWVEMkxnZU5xelZJMDJVZ2s0N2N4dkdaMldJUjdRWkRZU3BDSmRocWVMZElkajNiZ2xzM3JkbFNVb1o3SmYzckdiLWZENC1HbXpfR29ldDNBTS1QbjFlZF9sWkVOVXFCN3hRSGE?oc=5",
    "data": "2026-11-14T08:30:00+00:00",
@@ -608,6 +648,14 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Ex-Flamengo, André Luiz concorre a prêmio de gol do ano na temporada regular da MLS Terceiro jogador mais caro da história da MLS (Major League Soccer), o atacante André Luiz, ex-Flamengo, teve um início de trajetória c…"
+  },
+  {
+   "titulo": "Flamengo tem três jogadores revelados pelo clube na Seleção; veja",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdS1UaTNVTnQzNi1WOU0xeUJwTXJ0N0FxbWRhWEtHM0Q2U0FtaTZXRXp3OEVGVnJMX0FDcEVTU3pPcnU3eEJnOC0tczVIaUQtTTZoVVE0WjI4b185c2lvUWhyemNTZnRxVjM5ZDZFaVRKY01jQVI2SXhyTkNwbEgzTU9xczJsNXFRRjRsMFZjLWJ4WEU3M1BBcXd3XzctU2JmbDBVbU8teU5rX1dyWmN4Y2MyTXN4V3BqQ2c?oc=5",
+   "data": "2026-11-13T19:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
   },
   {
    "titulo": "Das camisas de Zico à chuteira de Gabigol: exposição reúne acervo de colecionadores do Flamengo; vídeo",
@@ -682,6 +730,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Pole Position: Pior equipe da F1 vale mais que a soma de Flamengo, Palmeiras e Corinthians",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY3YyWVhMei16UElGSmtwS2NwaElwZnIwS1FfYjlTR1dTdEd4U19hblR2eGd4TVVEcTRFam1SZlRTTldHek1vZC11bG1CU3FqdEh5NzdXLUhrNGxmdDdOQndrRzdIZDZ2X2IyYnhqSG9tNDNlUzVNS0Y1SGJJWThnY3dyb1VNTVlkVGp0RlhmMWw1bzJWQUNxdVNKbDlRd05FTkpBd08zWjIzTVJIZXdSck9Qc3Z3V280V1VxVTZrRkx3MTFJbHIwRDEybDFIbExkRDB2OTdhblg0QQ?oc=5",
+   "data": "2026-11-13T13:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Arrascaeta, do Flamengo, volta ao Uruguai em clássico na Bombonera",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHU0WGIwOERDVXYxSjBQa3NMOVJVRnpUU0tHaEtZLVh0bGJwVVlPblBHQmZEMFRNS1U5WjZvRk5BNFUtMldTSGN0eU8zYjQtQ3RSdmVRN1NJUF9MV1VzcFoyQUNtRVlFOTllMlpxU3I0bklkM2dHOFJSTFBMM3pKeXRlcFltUlVaSDhEcDF3Zmxkel9vRHF0S1Q1cnktNGxHZm1LUGVCYWthZUhnSlg2SDBPend0Zk4zdWFrcllRakJWN1k?oc=5",
    "data": "2026-11-13T12:00:00+00:00",
@@ -714,35 +770,11 @@
    "resumo": ""
   },
   {
-   "titulo": "Reforço de R$ 44 milhões do Flamengo tem chance de jogar na seleção",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYlR2QTRuNExnbWhvc1hwbW8xaFdKTEpBWlNWOHRHZGlzQUhWQ1pmTjRBQnVpWjcxaWZ5dThaOE04V0xxbXRTUU95c011MVAxc2ZaY1dXa3d5LWFtRE00YlhzNVM0RnZzWWpWUDE2UENjTkYtUzBVQy16N01RY3JKVk5oYXVjNU91NXJ4V19iWE1Yd3B6eGF5LXVwQWs5Y3loaFN4Q1hDbVNnX0VTTHJDaW40eThFWENpd0VB?oc=5",
-   "data": "2026-11-13T09:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Tainara evita pressão por título no Sesc Flamengo: 'Não pode ser um peso'",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWEZfb0JQcXlIQUphbTd4dmF0VTNTX2ZVemJLMXRsT24wUHd2NXVNVXZmTUFkOWxGelF6eUE2bmc3SEtnZXNXd1h3YjRhQ2Jkc2ZvMXF0eTFfZi1qa29WM1BqQ3YtV0JVdFUydDZXV0JBSEhMaUs3eUJuYUtRNVMyNEtHNnlvZXF1NDdFamFFOHpwY1dXTDJUWWNTeXhRaUJNcjdmcW9kQmpfNEJtZXF0dzhvZDdSUjA?oc=5",
    "data": "2026-11-13T09:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo prioriza renovações de Pedro e Léo Pereira antes de ir ao mercado",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQW1ZTkNZMU1tN3IzZF9JZldZMVNfMTkycldzdUR3ZzBRbnMzUW4tcE94ekh3eGY2SzByR0w4d0ktZzRyMnFkUDU3R3lESmlkSnFWeld2eHVPYUlIcTJCMnBDaGREV21OeWRZOUZzODRNZVpjV0doSDlqUVpKOXRPWW80ajFXTkVkc09RQUxkMDdpQVhaUHRzOFhBWUxUazB5ZVVhTGdoVnNyOHVDUUppc2dIODkyOWF6UnRhYVlvV25RYUtxNTVKY3Bfb1d5Ync5ekRtT0xmVnlvTklsdGp3?oc=5",
-   "data": "2026-11-13T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Pole Position: Pior equipe da F1 vale mais que a soma de Flamengo, Palmeiras e Corinthians",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY3YyWVhMei16UElGSmtwS2NwaElwZnIwS1FfYjlTR1dTdEd4U19hblR2eGd4TVVEcTRFam1SZlRTTldHek1vZC11bG1CU3FqdEh5NzdXLUhrNGxmdDdOQndrRzdIZDZ2X2IyYnhqSG9tNDNlUzVNS0Y1SGJJWThnY3dyb1VNTVlkVGp0RlhmMWw1bzJWQUNxdVNKbDlRd05FTkpBd08zWjIzTVJIZXdSck9Qc3Z3V280V1VxVTZrRkx3MTFJbHIwRDEybDFIbExkRDB2OTdhblg0QQ?oc=5",
-   "data": "2026-11-13T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -760,14 +792,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Pedro em alta, Danilo mascarado: Flamengo treina de olho no Brasileirão O Flamengo corre contra o tempo para ter alguns reforços caseiros na reta final da temporada, especialmente na partida contra o Athletico-PR, pela…"
-  },
-  {
-   "titulo": "Flamengo cobra até R$ 2,5 mil por experiências com torcedores; veja valores",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlNFNXJIb1F4MDJWMFZzNjBRZGR3Y2dvTDY4V3J5elZXLUZKZXpDOW90NUV5SXU0OTExRm1KRXI3NmNoTEVhM3NncGtlR3R3MUxaa2ZHVWVpZDhQbWhEQ0g3MUlsWGgxdWJWM0FHS1BEV2t6WnNGc1hVenlCenhNbkpkbUUyaDg5dG5rNW84MjBhVW5MX29IM0RNUkV2bWtOSzVlcFRUTkR1dW9sSmpfMmdnR3Q?oc=5",
-   "data": "2026-11-13T00:10:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
   },
   {
    "titulo": "Sesc Flamengo vence Fluminense e reassume o topo da Superliga Feminina",
@@ -818,6 +842,14 @@
    "resumo": ""
   },
   {
+   "titulo": "FLAMENGO 1 X 3 INTERNACIONAL – MELHORES MOMENTOS – COPA DO BRASIL FEMININA – FINAL IDA",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzF6dzNFbnRzcTJfVHQ0M0piaThGandDQ0RKRlQtTUJxbHJMVmM2U01WTEVRc1VNOXNubXVLbjVHcy1vSHY0cFY4ZGJQTU8tNW5XWHJvb1U5Y29ILXdXWXNKSHNrX1B0WVltYnZlRnl0QVhHWmd2c2huZnY3ME15aW1nNWd4RWkwbnltbURWR3ZGWUxjYU1LUGttUWM0Zi1lOGNwbklKYlh4dUI5N0hUWUV3?oc=5",
+   "data": "2026-11-12T17:24:07+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo pretende negociar Samuel Lino? Entenda",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSHJmZFlYTjBVTGk5OElKellsaTYyaDlHYk1PNUY5aGYweVBHUU1USF9DczVvcHQ5RTFMRDFVOVF1NXR0blhrVmkzUHdYOHBtbG9qMndkYXM5OXo2RFB2TFZiMHVrdTIwb1pIeEhhNUpfeWtBY0ZRakU0UUV4T2hyZmhlRXVKR0doSkNyLWpjWmtpa1hDTmtVLUN3dm1SYllxQmw4WFRTVk80VWc3eC1VMjdYcFRlVHUtNXlqRGdJaVZTZw?oc=5",
    "data": "2026-11-12T16:26:32+00:00",
@@ -842,9 +874,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Freitas x Valencia: veja por que reforços do Flamengo vivem cenários opostos",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHRnYTlQVHpzX2ROSldOb3hkbW1uXzNQOUR2R2dzYTQ0Mk1hRFRpbXc3V3FmR3JIVmFTRFB4LWxQMzBuN0FaYnpjSUVDQ1FLc2R2ZklCVW1ENWRxSGNobWZna3lTTlZKTnhtTjBtMXcxWXFBSmE0OTdjZnVCbWFrWWN6c3VURlhzWUFWb3dBSDZmTW1iRTVleXJjMF9FTnpYalNLRUUwemtSSHVLYWlkWWxUVWxUbURmSTFMUUJCclQ1OFJfUmJwNlR3?oc=5",
-   "data": "2026-11-12T15:13:12+00:00",
+   "titulo": "Manchester United pode ter Pochettino | Vasco e Flamengo querem ex-Botafogo | Lance Diário",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdm96eXNhQ2JDclBkdjhseDREREd5eGdqZkZuN1pFUG40cXhPTHN5cUVBdjRLMnFtTGpwN01Nc0otLS1RZW54OWNWWEFMVDlrSEl6SnFIUld2dm9OUWRjS25UNVpXWU4zU0JsOFFDZ2RGMGVpY05CamVJdnNkUHphRGp0LURoVGxqOG9mVkFBbDkxMTBBNERqUjNLTVpFWHRzdVMwYXM4RTJVeldIcUMwOERQYlhpRk9Xc3c?oc=5",
+   "data": "2026-11-12T15:29:56+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -877,14 +909,6 @@
    "titulo": "Alicia Klein: O custo do descaso do Flamengo com o futebol feminino",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzNhZjJYRW5URGFhLW1JSjdIQmNIV2tybXFxMGZwNzVXOHVvTjFyQkZKUXp6MDJvLUtLUmpYWmVJX1p3T1BiMk9HdTJOcktBTWNERm13dUVJNmZuVkEtOHR2VGhDcXcxMk1GVEdQRk83cDdTTG9kTjluQlE3Y1Z3TTJLTWVSSllpdjQ3WEstX0Y2ZUxWOTNJejZZRkZWNGhRTDloY2JROVVOMW1DZlhTQXJqVlB1UDJJSndDeQ?oc=5",
    "data": "2026-11-12T13:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo vence Serrano em jogo-treino no Ninho do Urubu",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMndVeEtFS2ZwZTk5WUNNNkFsZnF2M3N5bHRkZm1lY3ZsclJ0RFpvZXY3VzRqM203NjBnSzEtWFpKS2phbk1DU1JwLXlrS2lLNHZCM3lQUndFZk9vZHJMdVJXM0pyMEhvelN2cW9WRGZUOV9Wam0tN1pMdHhickRXVjhHS2hQS3lhOHRjTHE3MDgzQ2V6S2tVSTF5a2RFTE5ZUkl3eTRxUUk5dTc2NkhMYjhJZ3JiRFpYU2lxbU9xZUFVVDRG?oc=5",
-   "data": "2026-11-12T13:20:23+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -1050,14 +1074,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Danilo relata receio após lesão e destaca proteção no Flamengo: 'Já estou pronto'",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbC1oYi1hcFVJWFJkcldOQmR2dWlTU2RWZG9NYk9BNkdoTHl4bmJhVWl2clZhZWk2VWxFUDQtRmlvUDZwLU16aU5xS0hnMmlESlcwbU5BanZEakdXMGtYUU55aFhKd2xXNXU0dzBET2ZOcFNaaDBROS10cnVWNjJmcmdxOWM2MEk2YWE4VW1IOGhSVl9HNXdoVWNYR09RZzhXSjktZVNxbHlSUGV0anJwWnViTXZvVm14?oc=5",
-   "data": "2026-11-11T20:23:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo está perto de superar marca histórica do Cruzeiro no Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazBOa0FmcW9ZM0R0UnZwSVJqazEyLVlHSmppVkdKZi0zSFM5SnJDNkdPNnhvSEdtSVNTcVpGdFp3MzlSZWNsVDREMmo2NkxjajZWYnV5d1RNQ29PTWRORWpfcTIwLWRjRlhKOHYtdW1FcEI3QXdjQ2dtNXdFanM0bmtwdDMtVVh0SWh3RjJMaU1kaEFGbTY3RXU0b0IxakR6RDF5MTJTQzhBN1ZJVzNMMXd3?oc=5",
    "data": "2026-11-11T19:08:50+00:00",
@@ -1162,14 +1178,6 @@
    "resumo": "Flamengo vence o Bahia e vai à final da Copa do Brasil Feminina Estrela do time feminino do Flamengo desde 2024, Cristiane tem a chance de conquistar o título mais importante com a camisa rubro-negra: a Copa do Brasil.…"
   },
   {
-   "titulo": "ANÁLISE: Segundo melhor da carreira, aproveitamento de Jardim explica confiança no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUzFZUkVzQ2xMTy1GN2t3YWJFaTNSR25yYUZSSHRaUnlOOW9pTmhRbklGdUwyVVd4bW5wYWpMNWNZeFh2NTVPdUJVTDQtMGJTTFBUQVdLcTEyd2pUSjZzWkRPTllDMzFqVV9iTEtLZzVfRjhsQjF5eUNnY3V4TEkzVkdVVHZ5VDczeV8xcjdxWWc0VnhHT3JlNjhsczh6b2JVWFI5V3pPMndoMk9vR3BfczFEbWlCRTVPTmJHb1lWVElNUDJaOVlv?oc=5",
-   "data": "2026-11-11T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo x Internacional: onde assistir a final da Copa do Brasil Feminina",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2hfOFNFNGhiY2NOcjJwU3VWODJFcTQ4NC13alZKLUFkMERrSE51c2N3cWYzbnQ3dDNFOFo5bG5tNHVtX0dFWXk1T2tVaFZmVDhoTHE3ZV9Mb25qZzBFdGF3OER6RmRfeGhGVURUTl9JWUIzTWpRNERmcGxwd1NURXJDWFVXbTAtcWU5RnJVVkhDREpUeXZCa01RTGF3S2tPR1pmOE5JSDh4MVJSV0JyTVNneFJ0MWxN?oc=5",
    "data": "2026-11-11T10:30:00+00:00",
@@ -1183,6 +1191,14 @@
    "data": "2026-11-11T10:30:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Mattos: Flamengo recebe sondagens por Lino e vive dilema em cenário sem bet",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNay1BZDU1ZTlXcmJKVURUV05nYVhHSzNkY1hveHhHSDAyUVFEMTB4TEpGZ1FJUVRsWWZPSkpmdEhjTDM4dVdRNWYtclM5eFA0VW93TUZWU051RXozZW9IT2tMTnZKeThXaFRoTm5oN0Fmb29rLVhHY3A0ZDhHQkpXRXdxb0pMVU0zRXFPeWNPeG5kNVdvcGhjeGRscU1NNGJIbVpvX09LdTlBVWMxMWZjdktEY1VicUk5elNuV2o0VU9UMkxvWkFrcXNNSW5jXzZrREx3R2VPMFkyWWw4SnJ2Z2hCei0?oc=5",
+   "data": "2026-11-11T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -1216,22 +1232,6 @@
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "Franca domina Flamengo no Maracanãzinho e conquista primeira vitória fora de casa",
-   "link": "https://ge.globo.com/basquete/noticia/2026/11/10/franca-domina-flamengo-dentro-do-maracanazinho-e-conquista-primeira-vitoria-fora-de-casa.ghtml",
-   "data": "2026-11-11T01:26:19+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 73 x 84 Franca | Melhores Momentos | NBB 2025/26 No confronto que reuniu dois dos maiores campeões do basquete nacional pela 7ª rodada do NBB, venceu o visitante. Com direito à destaque de Gui Deodato, ex-jogad…"
-  },
-  {
-   "titulo": "Flamengo leva multa da Conmebol por mensagem na camisa e outras três infrações na semifinal",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/10/flamengo-leva-multa-da-conmebol-por-mensagem-na-camisa-e-outras-tres-infracoes-na-semifinal.ghtml",
-   "data": "2026-11-10T22:01:02+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo joga mal e é eliminado pelo Estudiantes nos pênaltis O Flamengo levou quatro multas da Conmebol por infrações no jogo com o Estudiantes, pela semifinal da Libertadores. Uma delas foi pela mensagem \"proibir não…"
   }
  ]
 }
