@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-19T01:26:35.224050+00:00",
+ "atualizadoEm": "2026-11-19T09:25:53.055783+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 28
+   "itens": 37
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,496 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 54
+   "itens": 60
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 62
+   "itens": 76
   }
  ],
  "itens": [
+  {
+   "titulo": "Torcida do Palmeiras reage à vitória do Flamengo: 'Acabou'",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTktRMF9QeVUzX25PRXMtZFp2OVJiV0JuR3pyeFhUa1lHSFdwVlVkaHBzY0VMWUtrQXFaWTZJSndBZUtYY0JYeGJVLXJ4ZjllaF9MblllSkd1QnVBWk5tZWhTR3VFbGREdU1uaWl6bndwZ0FUaFFjRUVZUjMtZ0xPWl9IRy1zRXBOT3Q1Ukl2cm9Fc3Y5cEY3SzZTV1hva2Nq?oc=5",
+   "data": "2026-11-19T09:10:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras x Flamengo ao vivo hoje 21/11: siga placar agora | Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1EwY3Nya2RrOTlZQWtmcFlBSnB4MHBpZXlMS2NFM0U4TjZnSEVBd01JVjcwdnA1TkI4LW9FZW9XQUNpR29xS3R0YXBoa05Yb3ZfVERYdUZxTkM2RGJHWUFfSDQtZkdycEsyZEJ1azJBS0RCRldxWFNQd2laZXRYMFVESmxSeXlJWHVtUDNDZzFNV0U?oc=5",
+   "data": "2026-11-19T09:05:29+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Varela se declara ao Flamengo e admite 'coração dividido'",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlcxUWY4YlVTS1Fkazc3UjdjRS01dmhwcEVkWS1YcjFzclRVNmk5alY0TGJfNUcwTC0xZDBIc2pUY1h3Vlc5R1BCb3RfYkV1eVdRR1M3U29BWlZxUG5QcUt4M1Q0Z3dTMGZtU1Q0YVhRNnFuY0o2aEVTSTZMRUFwX2hhQVdrOXZzenhEaUJkRnBCRk96eEdhOGZTRFdSQ3Vud3FmUUxLMS02QzRa?oc=5",
+   "data": "2026-11-19T09:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Herói de novo? Danilo revive roteiro em nova decisão Flamengo x Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMFJoeGlvMVZCWXZBU1hvdXA3T2tBbi11MFBXTEhqaXdkV2tqcEowaVVMWVlOS2ZJRVQ5Wmg1d0Flc0VXVkljbkJ1QjVQM0lSMHhKRVFVbTVCcF94T0xRaHdsSDBRdV93ejM2bUw3OURwZE5OOE03YmI3QjZTQ05fdFExSGpYQ2ZVejVhSUtaR1NoTllGUHI1UTAtLWFWSHVtVTZ3SUtkVjZVVW9QRlhKQXBfYlNTNng5RmI2cFlXcGZ1R3h5OVhkTmxLZUVLT05ZSFdxbmhQMEFCODVS?oc=5",
+   "data": "2026-11-19T08:33:31+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rossi abre o jogo sobre golaço sofrido pelo Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3REeE5SclVfcjQ0UVNjWWZYSWJ6cUlLMnVYMnBTdXBwU2hOaEhJZ3l1TC1PRU85ajRMMzJrMjJHblJtdThoLWEwdWJQU2U2SldSVnI0bnFMREdrMmlrRzVTX1dsbmhvZTdhMHhRMHQ5eVpiWU1neXRXNnBWbXM5b0ExTGt3aHpaZjlDLVRhRnM3ckd6R0hiVkhYaEtnSi0xRHBRYWJ5SV91dUMxMi1hQXg3emt5WVRUekYw?oc=5",
+   "data": "2026-11-19T08:30:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo e Palmeiras podem fazer 'final inédita' na era dos pontos corridos",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDRCQkZuYno1X3AwSF9DQWRlOV9TWHNuckZ6Q3k4SlBCNUNLQXZ6RGhyTm82aExsNW04ZjdaWVBlQjZqa2NLNW5TNGk1MWhIUERrOWc3WmlPNFJKdGVHUENyTUx5cWxfTjV5RVpqSUhJVDgyZnJsd2NCQ1RQQjNuemZ3YWR4eG5ISm9QY2E5UkRNYkxDMkJBbXdJRlJueVdoLVhuWGtzbG9XX1lPUDRfZTNB?oc=5",
+   "data": "2026-11-19T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Mattos: Flamengo vira 13 pontos sobre Palmeiras, e Abel põe a culpa em terceiros",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUNOU1RKUXZ6S3pZSVNXS2llQk9ySHd4V3hBM1RwYkFyRHhFYnJOMU95cEdhSk5yYm8zTUU3MXFKeW9yNldqQlpRaV9tR3RqcElOTHVlc2I1UVMtaXlfa1hSak1NY1Q5NzduV1BKV1dpTW82ZWpKU0Z5NW9Yam5HQV9IWFZqWFhGN0t0SDVUb0hRbDNNQUxNWkdHWEV2TEJIT2FVb05YR2hlR0h3UjB4dnJTNVZJd3Y3c2xOZzBxQjRMeTlzRGpPb0M3cTNKZVB6dUNyRktLNXdrMDYwUkVFRA?oc=5",
+   "data": "2026-11-19T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Chance de queda do Corinthians cai pela metade; Fla vai a 98% por título",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUtPQXZXLUpHU3pEanJzQ1ZUaVpHMkJLN282dEpTUDUySDhuWUNfTlJxdXJiQ0ZCanZIZzlINEVxZ3ROUkliNXZDb0VyYnprUnJPRG9OTkdwTG1qS09Wd1cwalBrTThka3hVU0d0YUlrOVoxLWc2dTJKRVQ5aWtxMkFQR3FOSnd6TEpjUC05Z1RDRUotSFE?oc=5",
+   "data": "2026-11-19T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo não deve receber taça no Nubank Parque se for campeão contra o Palmeiras",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/19/flamengo-nao-deve-receber-taca-no-nubank-parque-se-for-campeao-contra-o-palmeiras.ghtml",
+   "data": "2026-11-19T08:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo 2 x 1 Athletico-PR | Melhores momentos | 35ª rodada | Brasileirão 2026 O Flamengo depende de apenas um empate para conquistar o Campeonato Brasileiro. O título pode ser confirmado no próximo sábado, diante do P…"
+  },
+  {
+   "titulo": "Puskás? Veja distância de Vargas para gol de Rossi em golaço no Maracanã",
+   "link": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/noticia/2026/11/19/puskas-veja-distancia-de-vargas-para-gol-de-rossi-em-golaco-no-maracana.ghtml",
+   "data": "2026-11-19T08:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Veja a distância que Vargas estava do gol em golaço contra o Flamengo Um gol memorável. O Athletico-PR perdeu para o Flamengo por 2 a 1, mas o time paranaense deixou o Maracanã com uma lance que deve marcar para sempre…"
+  },
+  {
+   "titulo": "Flamengo vê Palmeiras como primeiro dos '3 match points' e quer título logo",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlh6RGtfTlV5YlpzRE9FX1B4cld5YXZwc3JjYVVDakhFZHQ4bUpxa3JNMzBxb2VUUlBhY09qdzF2NkVpWGp6YzBWT2JpY2k5RlRQcGpNdkVEZ2xtdXpmWmdORzhxbWlsWEpUMERuVzMtRGd4STRHZ1FJc25QLUpvVmMwSG9FNUx2NFFrOC1EQjNxZFJlcThtQzU4YUxXcFo4T181V3JhRlA5NFhMRng1NUY2VUdESl9EZ2RKdlBVODROdnRLS25IX0FQa2QwSzNEbUd1TlZrU2hJNkJSb1E?oc=5",
+   "data": "2026-11-19T07:20:19+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Viralizou: gol do ano no Maracanã, festa do Flamengo, reação de Abel e xingamentos de Neymar",
+   "link": "https://ge.globo.com/pe/futebol/noticia/2026/11/19/viralizou-gol-do-ano-no-maracana-festa-do-flamengo-reacao-de-abel-e-xingamentos-de-neymar.ghtml",
+   "data": "2026-11-19T07:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "O gol ANTOLÓGICO de Kerwin Vargas por outro ângulo! Teve gol de antes do meio-campo no Maracanã, reação viral de Abel Ferreira à virada do Cruzeiro, festa antecipada da torcida do Flamengo e muita resenha nas redes. A 3…"
+  },
+  {
+   "titulo": "Arrascaeta revela estratégia para o Flamengo vencer o Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMU9Ocm9wcTNLUTVVV1o0TldINkdjLTZObmRpWEF5eWNNSlZxWVN4Z1k1TTEwbE1td1labjlmVEpkcnZMRXUtbFBrX05hb2VnckF4TDNYWVJ0YVBXLUlQMW81M3FrRmQwNnVTTkVsTmVEV0ZTQWExUmxDdmZEcm5PNzdnclZvcS1pQ25COWM5dFY0a0hkQVJUQ3ZlQlBGSFJ5YWV0cEdZbTlsTU1tSE5YdmI5SkdEaG1jaUZGNGxNY21VajhTSWh6bA?oc=5",
+   "data": "2026-11-19T07:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Julio Gomes: No Brasileirão, só resta ao Palmeiras evitar a volta olímpica flamenguista",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWpIc3VRTXRDV1JvcFNEUDVHVmwxYldBaWhmRWZaR3lTT3ZKNVdvNmo1V2tGc0NCTWJqcWpyakZNeHhMbnBVWGtoRDM0d09ncldZNERqNFdOUVpIeGM1RVpaZHY1MmozYXZjejlod05tQkdsWjlaOTNreXp4X05uOGdSd1ExM24xVUZGZ2d1VVZINFQ1cHlLT1RUU1NtcVBkNUY2MUluNzZ1N1p4cEpWMmFIVVd5RGdQNWFDSzQ1SUcybmNoNWVFeEg1NEVEQ19LaFBwZnFB?oc=5",
+   "data": "2026-11-19T06:29:42+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Análise: Flamengo vence jogo com cara de final e vira o virtual campeão brasileiro",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/19/analise-flamengo-vence-jogo-com-cara-de-final-e-vira-o-virtual-campeao-brasileiro.ghtml",
+   "data": "2026-11-19T06:00:20+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo 2 x 1 Athletico-PR | Melhores momentos | 35ª rodada | Brasileirão 2026 Apesar dos golaços, não foi um jogaço na noite de quarta-feira no Maracanã. Mas finais normalmente são assim, mais nervosas do que vistosas…"
+  },
+  {
+   "titulo": "Chances de título brasileiro do Flamengo superam os 98% após 'rodada perfeita'",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVi0yTXM0OWx2ZVZpcHZGdGhZVEp0eTlQSHlOMTlCcGRnVGd6eXQxQkJVMGhSZHQ0Smw4WGxfTEVsXzUxVnVhQVg0R1FkTE4wb2Y0bXZHM3hEN2FYWmViZGh6TU1ONU4tUWVBNnRBMWpQNG9DYnR4enlOd0FKd1FXYlhwV0RrUUh6TjYwZnZ1YmZJOVUxc0VQZW0wZTYxVFMxeDVGalNoYllBTmNxN195X2NjTGdUd2Ezdk1jM21XVFZVM25OdGhj?oc=5",
+   "data": "2026-11-19T05:00:56+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Demora para fazer as trocas no Flamengo? Leo Jardim explica e cita até Guardiola: 'Se fosse aqui, me matavam'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85VVdZMllVbFJYQUZ6MDJDMm1ZNUVBdWlWd0c4eS1uakdoR0F0Znh3SWJFa2wzSDZ5UUF4SzRtcDJ4aEJpcTBuWkZ0U2JnNUIwaUZ5TGxnNTZ6ZmpsUmc?oc=5",
+   "data": "2026-11-19T04:46:16+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "É campeão? ?Flamengo sela o seu decacampeonato?, diz Rodrigo Mattos",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11anVZdktoMGhDYXFNTnZSMXJ0azljMHJObXhmbXk0NS1lcVdRTXh2TlFZZlhGSjcwOFlkd2dzNlU4RUdhM0tQbG5SS3YtRGtodDJEdXZkc0RDd0NTcFppOFNvSFlNcWs?oc=5",
+   "data": "2026-11-19T04:19:45+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Samuel Lino revela recado de Bruno Henrique no vestiário do Flamengo: 'Não conquistamos nada'",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHpoSEM1Y2hJSkJPaGpPMkZ3ZEhTNmVnajlkYnA2bUk5ZEhnSEtQR1hka25iSDNlN0RvZ0xFMHNqbllXTlYxby1vSUxES1dyMjRBMGpVU3ZMU3ZINGl5M0JQdE95UUlHT1lteHpNOWxyTEZqdXhSTFRHcHhnajdJdGdFS2l3NWlVcFhDUzFtSmU4OVkwNVFSMk9ORVFkMmlYUWd3QXlRWWlLb19WM3JwcWYyUy1DRlVXbDRVTUF6RUo3OXZ2Y0tidw?oc=5",
+   "data": "2026-11-19T04:18:50+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Leonardo Jardim cita Guardiola ao explicar demora em substituições no Flamengo: 'Ele quase não muda'",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObjJTVVVFVzEzdjB4d09GWlMxM3NOMzZVVEVFQ3dmTHRKMGhBT2pPaHZQY08wc3ZQU2RyRnFXQ08yeEtyaUxPQUp2bUFVTEVJWDA0U2I4aVJIRDUyWThvbTN4aXk3bjZITGhGc3MwdFg4QlhlWVBvLTJ5SVVQMENaOE5KdTU3MlNyVmNqdEhMcFRLSms1RFFGRV9mQmVLejM2NkcyVVlxbDZkeUxxV0lnVkg1YjBzdG82dTNBU2RxSWVicmE4MUlwNl9IOTBJY0RQdnAyeUZNSlpmbzJGVWVj?oc=5",
+   "data": "2026-11-19T04:02:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim prega cautela e evita cravar Flamengo campeão antes de encarar o Palmeiras: 'Temos três match points'",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWUhCNEx1V2UtMnNiS1MyaXhUck0tbnNmY0FialJ2eDQyUFlfTFd6dGNBLWkxYmswOE52eERURmxvRDU2Z3pDb1Nvb3BfUVhKTGZocnZDbXBHSHQ1bmkxT2xULW1aQVlCLWszWm9Vd21RMGd5MkVMM3hLNlczcThZOFNyd0h2dVQ4VDdXWk92dm1mTll2VG5SdGtib3c0bDEzQkc0ejBkaWs5TXptMzRxMExnMnFPbkJ2TVdlTHJ6Unppcl9kQ25zS21zQlJZWXAyUVEybmNPdE5DSjVkR0tnam9xTFlISDhtc29raXF3TVFiQQ?oc=5",
+   "data": "2026-11-19T03:54:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "FLAMENGO 2 X 1 ATHLETICO-PR – MELHORES MOMENTOS – BRASILEIRÃO 2026- 35ª RODADA",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPczFMYkh4RjZfRU1XdU9Nd2E4RlR1UzRmTUxMcWNBM0dTSFFmZDBrbEFUaVdLaUV4dy02UG5QRE85VXpncnpNMjdMbzhYRGtPN0M3RGNsMVFqLUhFZ05DSTlkSzdqRTdjTWhOZzhzSFlHek1GWHI4Z214RDhXMXh6SXBEWlhfOGVxeEhjclpUY1RCeGwzRFYyZkh6NzdteU1tYnZydHJmcnk?oc=5",
+   "data": "2026-11-19T03:51:31+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "PALMEIRAS PERDE PARA O CRUZEIRO | FLAMENGO VENCE E COLOCA A MÃO NA TAÇA.",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNU52TDJXVmlyZ2dPRFNLeXZrQnJEek11cnB6OFdiVWVaZDEwQTNtUlk2T1ZCNXNrN0FZNnBjVy1RQUhlMWhuQ0VyQ21YbzZuZ2FzNGctS2x2bkZHc0tINHY2Q09vUV9MX0pmOHVZOFFaaXVjRFFfODB1cTduSm5KaGZINmRWOXRBTVo3aVJmbzBKZ0dOd2hrQVlSOU9HU2RFYVhF?oc=5",
+   "data": "2026-11-19T03:51:31+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Abel joga toalha no Palmeiras e reconhece Flamengo campeão brasileiro: 'Este título está entregue'",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWkUxQm4tY2xhdWI4M3Z3ekFIZFlxVm9XOC1xZ1R4eVM4Rks5N3ZmY3VIajYyQW9ydXo1ZU1aWF81bjJvTjhhOTFOR1RQUzhicVVXNG9VaGlEUG0yTFpUNXFheDhtT2F6cEJHUmpxWjBWdEtnYnkzTjVaU0hjT1JpdFh6ekNZU2ZfNnBWdGtNY2VQbUF1QTEzX3hiN0JLSHRVVkZVT0ZzVHQ1VG4zaF9kWnp1cUFLZndPZUpnczNOemo3WDR6NUtjWDJyOVFfNlprWFE?oc=5",
+   "data": "2026-11-19T03:50:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim projeta decisão contra Palmeiras e explica posicionamento de Rossi em gol sofrido pelo Flamengo",
+   "link": "https://colunadofla.com/2026/11/jardim-projeta-decisao-contra-palmeiras-e-explica-posicionamento-de-rossi-em-gol-sofrido-pelo-flamengo/",
+   "data": "2026-11-19T03:11:39+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Treinador comentou possibilidade de conquistar o Brasileirão no estádio do adversário e justificou estratégia utilizada com o goleiro O Flamengo venceu o Athletico-PR por 2 a 1, nesta quarta-feira (18), no Maracanã, e d…"
+  },
+  {
+   "titulo": "Alicia: ?O Palmeiras tem uma última missão: impedir que o Flamengo seja campeão dentro de casa?",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UVTR4Z3VIclA5LWJsU0xMQjNpWFdMMWVRMlZMQ2RQN2d0TlU2RkxjaFdLSVFSRk0tVmo2X2dKcEhUWWNLUTFZeUhLZDloNi1sYk16WWxsV1dHWS1aT2RoZlNHb0NqTnc?oc=5",
+   "data": "2026-11-19T03:04:08+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Vai chorar, Abel? Técnico do Palmeiras vira piada na web após Flamengo engatilhar título",
+   "link": "https://colunadofla.com/2026/11/vai-chorar-abel-tecnico-do-palmeiras-vira-piada-na-web-apos-flamengo-engatilhar-titulo/",
+   "data": "2026-11-19T02:54:10+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Após derrota do Palmeiras para o Cruzeiro, torcedores do Flamengo ironizam Abel Ferreira nas redes sociais e relembram justificativas do treinador em momentos de resultado negativo A derrota do Palmeiras por 2 a 1 para…"
+  },
+  {
+   "titulo": "Quem são os suspensos de Palmeiras e Flamengo para 'final' do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTdiRF9GSnlOQXpYQXZfUzFudWs0RUIyVmN3eS13empSb0JydzB1ejVMZ3Rjc2dJWm9CTHNNcGRhVkZZUHNkQ0dFMXNXeE8xaEJPajQtOUNjcWdnQnlnQVFobWpLaFRHeXV5c1dXX09nNXItSnFTTHJXZnZEMko5bjdCa1BWSGpQZjRKampJenV2bWNUdzh0RnhvR0laWDJlSVJKaUlkMVRBWl85WUlncDkzWDRtUkE3?oc=5",
+   "data": "2026-11-19T02:54:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "A tática que pode decidir Flamengo x Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDFlVVhDdlJTNmVWcEpiTFlFM2R2c1FvQkZOQ2p6ZkdLd3dMNXF2aW0yRmNLUUl4dTFFVjg3UnhpMm5ZX2R2bEpkMlNXcFZLajN6QU1qd1I4RVhCLURvU3hjT1BDckxOUFFCakpnY2lYV2FHREJaWU94MU4yeTNlUE95VzZDVDJCTUVlZkE1bkUtVGdvS1RmOEtrYw?oc=5",
+   "data": "2026-11-19T02:52:10+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Abel Ferreira segura as lágrimas, admite mais um vice do Palmeiras e crava Flamengo campeão brasileiro",
+   "link": "https://colunadofla.com/2026/11/abel-ferreira-segura-as-lagrimas-admite-mais-um-vice-do-palmeiras-e-crava-flamengo-campeao-brasileiro/",
+   "data": "2026-11-19T02:51:55+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo está com uma mão na taça do Campeonato Brasileiro Faltam três rodadas para o fim do Brasileirão, mas, para o técnico do Palmeiras, acabou a disputa. Abel Ferreira jogou a toalha e cravou o Flamengo como decacam…"
+  },
+  {
+   "titulo": "Flamengo chega a quase 99% de chances de título no Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekM1SGtmUThub1JVRllDODBHTWx2X18zbFBKVGlFc2VVV3A1SEs4S0VrQjR6U0NVT3M5TFFrOUl2SlpnMXk5U0FGdm1lc19MY0ozdDhGZUtRYWVJZlZ5RW4zcWZLNTdtYzRqQ3dJcTJ1M2M5UGNIVHRLaWt2OG9uTU1aYmh2b0dsaGV3cVlRd1pBTEJBWkZabUo5TDl3Tm1s?oc=5",
+   "data": "2026-11-19T02:39:06+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "A conta do Palmeiras para evitar título do Flamengo no Nubank Parque e seguir vivo para ser campeão do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWlFLbUhFdDBjY0lDSHhTRkp2Vi13MFpVZjc1VnpZOUpZS1Q1XzA3QmlzNF9RT21wdThIZzFQbkVyYUdmMWVpVzFUSWkxNUUtbDhYQ0xkNVhlR0ZuN3lya3RDM0xQMUVES3cta0JKYmpQY05sellseUY4aW1BNWRNRW5rRmkxYVBOdTZrQzZlV0lXNS1lX2tVa0h6bTg3VlhaWUh6MzhrWkxNcHBTSDFxcDZFWmFVUU1DTVJpdDlldlZNUW8tZ1BkVVl2QXB3QnNvcjhRWHlXWWhDWG4yT0VucmdjOEphaDM5OWc?oc=5",
+   "data": "2026-11-19T02:36:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "'Título entregue': Abel comenta disputa com Flamengo após derrota do Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDRNazF3TnViY3c4MmFJMzRoaFY5VVhZTGFjSkFYY2RMcW9VcXRtSFdMS3ZrR1RKaU56ODNVQm9PR25lWTNWNmpaZkZSbEJyWEs2anc2S1AxM3YtY1RZT2Q1cjBsQXB4bjQyMFhaWllKZDZXQTV6dGE3aThTUTI5SF9yYWxWR0xOWkpzelM3QVhkS0xsRXhxWkRLYlNReUtURkRzdG1MQ2dJUk40c0xsNXFqTGVKcTl1RkV0cy1hMA?oc=5",
+   "data": "2026-11-19T02:31:17+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Arrascaeta exalta sacrifício de jogadores convocados e revela estratégia do Flamengo contra o Palmeiras no Brasileirão",
+   "link": "https://colunadofla.com/2026/11/arrascaeta-exalta-sacrificio-de-jogadores-convocados-e-revela-estrategia-do-flamengo-contra-o-palmeiras-no-brasileirao/",
+   "data": "2026-11-19T02:29:54+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Arrascaeta pediu dispensa no Uruguai para reforçar o Flamengo Três jogadores do Flamengo deram uma bela demostração de amor ao clube nesta Data FIFA: Arrascaeta, Varela e Plata pediram dispensa do segundo jogo das respe…"
+  },
+  {
+   "titulo": "Classificação do Brasileirão: como ficou a tabela após jogos de Flamengo e Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSHpleHlxYUQ1NnlNMUhOcHVJblo3aHQ5eWZFNkpON04xN2RSdG5UX21zekdacWdpVG5rY3ROVW9kV0xPRzZpbkJsZlVwUVdfdmZpN2F0X09lTU5MbkxuMnBiUUVqcV9TN05ZQnRNOEVrdHlRdVZNd3BNcFJFdWhiUzUwQy1NUXZrclUwREV3YTdWVVc1d1h4QXJKV1RMNGNFbnhDSGxjamphdDBudGp5NlpNYnZtYlFDNmJnYmdxRlJIUVNYbWYwQ0o0VjFFZXZINFI2Qg?oc=5",
+   "data": "2026-11-19T02:29:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo leva golaço, vira sobre o Athletico-PR e pode ser campeão brasileiro contra o Palmeiras no sábado",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZXlSN1JxNHdEazVWMFdEV1ctdzRQcHpRM3RRZEs2S0JQSEo4YVBLbzk0OUR1dDR6RVZHa0VzOF9xUDNJM2d1QjZHWXBvMEZqZFhGZzAxZUlTREVVUDZfY09xeHVMZENPWndkR184SXZ2c3V4MGIyM0ZSN0lDZ2l0eU5MY0g3ZVM2U0JWRXJXeEJGV0kzbnMzU3BGamxhZXZkZ0pRNFRqT0xIeGlkNkpCTUdGMkoyeDQtbVFCV2I1cjVQcjcxeWpqZk1FdXdONGczcU9FWDNXS1pyS0o2LWNCQnRxdW40QU1YYjFv?oc=5",
+   "data": "2026-11-19T02:27:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "A conta do Flamengo para ser campeão do Brasileirão contra o Palmeiras no Nubank Parque",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMEpqQTUxMGs5NlRCZVRZck5wcHhkdDlCazMyLU5QN09mNUFFcURBM2M4bEJjcm9DaHc4ZFg0eE1Qd2l4eTZSSDdMR2puUnJmZEZZdFpUcGxFVDdBank1VlJlNlpyZmo4YXFjNEN4cGM0YTZJWVlWV3Zoel9aUndEWHJWa0J2V2FVdHpaYnhpdHVKVWx0Y3BSWDA3TkhZclVpU2FRMU5kaldkRzIxalpVNndpak00RzhYRjYzQ21RVFlTWXRTM05xcTJaRUo?oc=5",
+   "data": "2026-11-19T02:27:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim abre o jogo sobre Palmeiras x Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2JzaDM5VU1qQjZzS2l5dUFNWWh5ZzR5dUFNX3dudjFUallhdWdFbGdaalB2bDhDU3kyM1VFN2FaNlV6NTlQLUlKREJVM2lOcVFwbnAxMnlMU1JoWEVyZzFKWnpEM2hNYVROSVF2WUlDZlJNZnZFVjh5Tkd0dHpTUTZjYkVfVUJqM2o5VGlzWWNmSVk1c3g0aXdrcW80cjB4VVVBZ1RZZmRJT2lkYXN4cjN3?oc=5",
+   "data": "2026-11-19T02:08:09+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rossi, do Flamengo, não vê falha em gol do Athletico e afirma: “Nunca mais vai fazer um desse”",
+   "link": "https://colunadofla.com/2026/11/rossi-do-flamengo-nao-ve-falha-em-gol-do-athletico-e-afirma-nunca-mais-vai-fazer-um-desse/",
+   "data": "2026-11-19T02:03:58+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Rossi sofreu um gol do meio campo nesta quarta-feira (18) O Flamengo venceu o Athletico-PR de virada, por 2 a 1. O gol que tirou o zero do placar foi uma verdadeira pintura de Vargas, atrás da linha do meio campo. Após…"
+  },
+  {
+   "titulo": "Flamengo pode conquistar o Brasileirão antes da hora, mas terá que esperar para levantar a taça",
+   "link": "https://colunadofla.com/2026/11/flamengo-pode-conquistar-o-brasileirao-antes-da-hora-mas-tera-que-esperar-para-levantar-a-taca/",
+   "data": "2026-11-19T02:03:51+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "CBF pretende deixar a cerimônia para a 38ª rodada, independentemente de quando o campeão for definido A Confederação Brasileira de Futebol (CBF) planeja entregar o troféu do Campeonato Brasileiro somente na última rodad…"
+  },
+  {
+   "titulo": "Empate já garante título para o Flamengo contra o Palmeiras; veja cenários",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUhpbDF2ZkxLWjlYQ0pSdnRNRVlJY1JKNGhiVVVvaU9KUUtNNTRxamp6VV81N1lCY01kR1cxdWRjeTZnVW4yai14SHpTSkNZUm9JQktNT0VYNmU0cUlpZmFvTF9MNnVDNzNuSVJvS253MHRGa1M5ZFNTSzJJT0RyLXhxZVB4dzNEYk5wcG1PbXZoT0M2T2dGSHBlR3ZvQVN4Rzg3dVNiTElnM2pob3QwSGpLcDI2Q0pEVEJmOWV1MWRhcTVaZ25J?oc=5",
+   "data": "2026-11-19T01:56:08+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jardim projeta possível jogo do título do Flamengo contra Palmeiras: \"Temos a nossa ambição\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/18/jardim-analisa-vitoria-do-flamengo-sobre-o-athletico-pr.ghtml",
+   "data": "2026-11-19T01:55:39+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo 2 x 1 Athletico-PR | Melhores momentos | 35ª rodada | Brasileirão 2026 O Flamengo tem a ambição de conquistar o título do Brasileirão na próxima rodada, na casa do Palmeiras. Essas foram as palavras do técnico…"
+  },
+  {
+   "titulo": "OS GOLS DA VITÓRIA DO FLAMENGO SOBRE O ATHLETICO PELA 35ª RODADA DO BRASILEIRÃO",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjNKLUVsd3A1R3hwaDFNYmFuZ1JaUFFvRUxZMUZCcVBhakZFS2dnRzQ1RlV5UkhyZjFiOE5QS256dXlrR24yYlhfMl9HaXFGNk1WYmpfSmJVLTFMaUNyaFVvV3M3N2Z3OTc2UmxUMDc4TmVUSXo1TTdWNWFKR3ExN18tMTJwbHFoMlRBQndHYkZmQXVtSEVpZlF2V1pjd2FvNlVEQk5uMDNsZFBxZEMxUg?oc=5",
+   "data": "2026-11-19T01:53:27+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Arrascaeta e Rossi comentam gritos de 'campeão' da torcida do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeDdjUWlFZ3pKRlVSUVptRVZDc3hlcHprSmFMc1VlUnpPUVV0VFhqRjlxNHV1TWJpWVdQWTlVLUFJZG44cXMtVjFQWGVMdzJMQnlZN3VzT1FscHVMR0x3ZENrR1BlVXU3MzBqTnkzc2gtVzBSSnhXeFM2d0d0ckstSEx2MkhveklZR2oxaUxfZ2x3R2ppTTN1SHdLM1dkbmFqNFlEWW04SGpUSlE?oc=5",
+   "data": "2026-11-19T01:50:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rossi celebra vitória do Flamengo e explica gol sofrido de antes do meio de campo: \"Não vai fazer mais\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/18/rossi-celebra-vitoria-do-flamengo-e-explica-gol-sofrido-de-antes-do-meio-de-campo-nao-vai-fazer-mais.ghtml",
+   "data": "2026-11-19T01:47:20+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "O repórter Richard Souza questiona Agustin Rossi sobre o gol marcado por Vargas, do Athletico-PR, ci O Flamengo venceu o Athletico Paranaense por 2 a 1, nesta quarta-feira, e está mais perto do título do Campeonato Bras…"
+  },
+  {
+   "titulo": "O que falta para o Flamengo ser campeão do Brasileirão? Título pode chegar contra o Palmeiras",
+   "link": "https://colunadofla.com/2026/11/o-que-falta-para-o-flamengo-ser-campeao-do-brasileirao-titulo-pode-chegar-contra-o-palmeiras/",
+   "data": "2026-11-19T01:45:22+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Após vencer o Athletico-PR por 2 a 1 e ver o Palmeiras perder para o Cruzeiro, Flamengo chega a 79 pontos e pode confirmar o 10º título no sábado (21) O Flamengo precisa de um empate com o Palmeiras, no sábado (21), às…"
+  },
+  {
+   "titulo": "Palmeiras sofre apagão, leva virada do Cruzeiro e pode ver Flamengo ser campeão no sábado",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVGJYaEZwRGFsLWw1MjlXYUM1T0JkNGRiNlhkWXZnSUpxX1ZDRGZEVHJhelJWcG5IS01OaGNGSDdNSVVNQlNRNkJBbGxTVkZDVVZhOXF2OHoyeVRnZlJzdHYwMFdkOFpVQVE3NWpETDBNYW5jTGpaNWVfMnJ2d2VHQXdLelliTF9nSjF2VGpUMUxlWktvcFFYMTNMMFJESnFuU0lRSWtaSWx1d0VHNVZtTXBQZ002c1JUQ0JEUlJpeGFEdXJmX2ZrOTIzNWpkM3JJZ1FhQ2RuZzM5Tko0aThrTUZYQ3NPN2s5UEhCUDhhMU4?oc=5",
+   "data": "2026-11-19T01:44:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras perde para o Cruzeiro e vê Flamengo abrir 6 pontos na liderança do Brasileirão",
+   "link": "https://colunadofla.com/2026/11/palmeiras-perde-para-o-cruzeiro-e-ve-flamengo-abrir-6-pontos-na-lideranca-do-brasileirao/",
+   "data": "2026-11-19T01:43:27+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Derrota por 2 a 1 no Mineirão aumentou a vantagem rubro-negra; equipes fazem confronto direto neste sábado (21), com possibilidade de título antecipado O Palmeiras perdeu por 2 a 1 para o Cruzeiro nesta quarta-feira (18…"
+  },
+  {
+   "titulo": "Flamengo perde Pulgar e Léo Pereira para decisão contra o Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFFGRTVVWkdBY3ZvcERKZGFhbHZfTW5yUXpxM05fN21Cd1ZvUTByUnpVYnp0VE9fVDh3bnJNV00wblhlNkpZSU1qaU5DNnZNQ0lhTEFDRDE2b0ZEMWVzQWRJZ3JicTRFLTIzVmlUWFNEalVzdjFVelFLZE56dm5mRVZiZ1R0STljeXl3UU5WSmo5UC1LbUhGUUlKOXEwWjdqNEJQVXRRaGhjUQ?oc=5",
+   "data": "2026-11-19T01:39:29+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Em noite de golaços, Flamengo vira sobre o Athletico-PR e pode ser campeão no sábado",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb0hVLWwzcjRCbE9hZDVabkpwa05USlNHZUstSjhXRk9xR2xlQnRTM3BQa2ZFcEtWQWlsNVR3Zi10UWpFYVNGTzI2MktqZVduUjBUM1Nvbk1Ubzh2cHk0am5VWVhFU2pQWTVpUTBOU1F6RHNrcmE4VXBOb2RHM0x0RU01VmJNM1hxWDFkS014TERRUXNwLUZWTjdfemRHWloyc0lybG1pOHZwRVhSWWNVV05WaG1VREtoOUZVeE9Cc3ZuSUo2eTh0V3FheHV1TmRxUGV3T2s2VnhDS3pHcHdheUJzNDRRTURMUVE?oc=5",
+   "data": "2026-11-19T01:37:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Milton Neves: Palmeiras perde e pode ver o Fla dar a volta olímpica em sua casa",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMWVuR0VtMTdveTVyUEw5Mm1aamZXVHJfYV85b21aMVRndUFPRERmaGhJQ2oxaXpLYmF1bmd5ZGJfcEIwM0hQNW5QSGR0cG8ycWpVM1d5ZERFN1B5cTg2ZWh0eEhkU2tZSXpxU1dWMXZyZ3lONHQwcF9CME4xT203eG9ja0NxNDg4VE1Td1JWR0d4WkhGNGZFME0zYmdid0NIbC0tZDhXV2wwNV84aUZna2lQMk02N2pEeEVkWTVlUloyV1dURzJ2d1VGNTU?oc=5",
+   "data": "2026-11-19T01:34:58+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo vence Athletico e pode ser campeão diante do Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcXN6eGFBWURGbzh0UTBtS3JWYnFSMTJ4UWtzRHFNYThEZVgxQ004MHRId3Nhb1pPQUEweUp3LXJPcXFmY2RlaV9JMkJrTEhDQ05PY0lWdWdTUEdWd3dnUVlPMnROczNTQXdWRlhwOEpQdGhqenBjS1hlS09yd1FvYzBUOF9ESnBSdWZKVzRUYnVIRjBuM0dUc0JYS0lsVmJEb2wzYmZFVGk0MXJ3X3ZFMjRvek5oZUc4RXFRcUY3STM1dmdGSjRiN05vVXYyWk1WcHc?oc=5",
+   "data": "2026-11-19T01:32:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "O que o Flamengo precisa para ser campeão contra o Palmeiras? Veja cenário",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2pXaDNuVm1WQTQxajJOUUZhME1XWjQwZjZDZkFuS2E4V3pLdnN0V1dWQktCVGNWRHY0RnNZS3dRejBWY2NfRlQ1VEdrTUw2TUhDY3hRd01rYXdINDhkaU85SmNUaDlMZXR6NnktZGhKTHVpMXo1d3FBZVhFTXg4eGhuVEhHWkxkVGQwU2tIb3Y2bnZzX3N3NnNYNDVkM3RiODhSNjB5U09OYlVyMHAtUVhR?oc=5",
+   "data": "2026-11-19T01:30:36+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Juca Kfouri: Em noite colombiana, Flamengo marcha para o 10° título; Verdão desiste",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdWp5TUI2SmNTOVlOZ0Z1VUpMZXdFb19hbG9BYm9MTW1kOGpiUElmSEdZS2N4RE1rSHpqcV9PX2ZlX3hnMHR6OF91d25oOWFaLUlEclFmV3czNUQ5b0tIOElGcnlqZl9kdHVmOGFwSFV1YXBKVzExVmJIN09ZT29ONjVfb19HWjZwQUd2SERKaENWRnVqY3ZZb2RIYnBBV01sTi1lNnl6ZU0xajA4WmMtOEduZFh1azd5NUl6WHpkeVZjQTBB?oc=5",
+   "data": "2026-11-19T01:29:57+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras leva virada relâmpago do Cruzeiro; Fla pode ser campeão no sábado",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXZDS2U3Mk5MNXNSNGotczIwaWEyekRFeUNPM21uUDd4UVQyZkNNOEtlSWFoa2xTeHhMR0ZOT0RQSkl3RFZaSzQ4VVd5cS15blBneE9SeUtEeVVXRmlvTjdUejhlbTBoMVZSaTFBQThEaXR3R1FBbGtHMmF0NWhtZzNwc3dwQWVJaGs1NVR5VUFLUzNhUjRWNktyUDVfaHk3dDBFaFhQNFgwMDYtVXJzUno4VW4?oc=5",
+   "data": "2026-11-19T01:29:44+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo pode ser campeão brasileiro no próximo sábado contra o Palmeiras; entenda cenário",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/18/flamengo-pode-ser-campeao-brasileiro-no-proximo-sabado-contra-o-palmeiras-entenda-cenario.ghtml",
+   "data": "2026-11-19T01:29:34+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo 2 x 1 Athletico-PR | Melhores momentos | 35ª rodada | Brasileirão 2026 Os resultados desta 35ª rodada do Campeonato Brasileiro deixaram o Flamengo ainda mais perto do título. Nesta quarta-feira, o clube rubro-n…"
+  },
+  {
+   "titulo": "SEREMOS! Flamengo vence Athletico-PR e precisa de um empate contra o Palmeiras para conquistar o 10º Brasileirão",
+   "link": "https://colunadofla.com/2026/11/seremos-flamengo-vence-athletico-pr-e-precisa-de-um-empate-contra-o-palmeiras-para-conquistar-o-10o-brasileirao/",
+   "data": "2026-11-19T01:27:20+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Com ótimo primeiro tempo, Flamengo venceu o Athletico-PR no Maracanã Contagem regressiva, Nação! Falta pouco para deca! Nesta quarta-feira (18), o Flamengo venceu o Athletico-PR, de virada, por 2 a 1, no Maracanã. Com o…"
+  },
+  {
+   "titulo": "Atuações do Flamengo: Carrascal é o melhor contra o Athletico-PR; dê suas notas",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/18/atuacoes-do-flamengo-carrascal-e-o-melhor-e-se-destaca-contra-o-athletico-pr-de-suas-notas.ghtml",
+   "data": "2026-11-19T01:27:14+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Flamengo 2 x 1 Athletico-PR | Melhores momentos | 35ª rodada | Brasileirão 202 Initial plugin text Flamengo posado antes da partida contra o Athletico-PR André Durão 🎧 Ouça o podcast ge Flamengo 🎧 Assista: tudo sobre o…"
+  },
+  {
+   "titulo": "Flamengo bate Athletico após golaço e pode ser campeão na casa do Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVZqYTh0Z1hIOXV2N3FPcnFHMVRhLVRvNGVqS3NGNUI1RUFoR0xfR2JHRDBOVktWZFZUNkd3V1daUFlQSDlMeGE1ZFprcVpVTlBWazRudFpjX3FGYjI0Tm5DRWV2UWNvN3dkR0QzbU42WWV1VjFlVXpNczNudndFd3AtbGlUZjVzVU1uVVJyb0Z1SDhfWUp5QkNkYjF5UVVjZFp0SFctYkpvbWtzTkJPSG9lNGVDQzBadHJSc3JIdw?oc=5",
+   "data": "2026-11-19T01:27:08+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Quem é Kerwin Vargas, atacante do Athletico-PR que marcou gol antológico contra o Flamengo no Maracanã",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQnM1aWp2SlFxLWZMUU05MU1IRE9nRlBqdUJMZE5GSW5PbWNuVnpveVc2eU5yZmdHQTVmSkNzZDJfM1Rza3BFcjRpWUxLMTdmbGFMQVVmYzY4MEpDeUdCXzN1UTV0ZVZzbnBERDZkMW9PRTI4WkJtNXpERkV0d2wzNE9ZS1ZVVG03ekt1ci1pMm8ycFQ2OFZNa0Y4Yk56X1hIeS12eU45aC1Ob0Rwa01kaV9ycFcxS0R6d2xpVDhybm4tRTJLNG5xNnB2SktqWnE2dW40VVRjSDRHLXFyV0RjeHNaZ1NSOXdESk5B?oc=5",
+   "data": "2026-11-19T01:26:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
   {
    "titulo": "Léo Pereira está fora do jogo do Flamengo contra o Palmeiras, pelo Brasileirão",
    "link": "https://colunadofla.com/2026/11/leo-pereira-esta-fora-do-jogo-do-flamengo-contra-o-palmeiras-pelo-brasileirao/",
@@ -40,6 +520,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Zagueiro recebeu o terceiro cartão amarelo diante do Athletico-PR e desfalca o Flamengo no confronto direto pela liderança; Pulgar também está suspenso O Flamengo terá mais um desfalque importante para enfrentar o Palme…"
+  },
+  {
+   "titulo": "Atacante do Athletico-PR faz gol de antes do meio-campo em duelo com o Flamengo no Maracanã; ASSISTA",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR2gzYUhrZGJtS3gyS2hrTTlWTzhiSVNRbHVUM1JFYzg4bmpFTHdURGxuQ2FKTmk3b1phVzdnank2QXRxVFl0czhZTl9YRTRrUzUzQjZSdVRQLXZmR1MyUU9uZS0yc1ZjWkRwQkZlTkJhMzAycGxiX0poVUlyR19tMUFFd0o3b1JUb1pXeFQzOU91dTBJT2o3cFVqUnRZZGc2LVhKbTk1SENFVUlrdTM4bHpfWHFlMThicnZ3Si1HOThHalZRNU10YzVIMA?oc=5",
+   "data": "2026-11-19T00:56:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Pulgar e Léo Pereira recebem o terceiro amarelo e desfalcam o Flamengo contra o Palmeiras",
@@ -58,28 +546,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Quem é Kerwin Vargas, atacante do Athletico-PR que marcou gol antológico contra o Flamengo no Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQnM1aWp2SlFxLWZMUU05MU1IRE9nRlBqdUJMZE5GSW5PbWNuVnpveVc2eU5yZmdHQTVmSkNzZDJfM1Rza3BFcjRpWUxLMTdmbGFMQVVmYzY4MEpDeUdCXzN1UTV0ZVZzbnBERDZkMW9PRTI4WkJtNXpERkV0d2wzNE9ZS1ZVVG03ekt1ci1pMm8ycFQ2OFZNa0Y4Yk56X1hIeS12eU45aC1Ob0Rwa01kaV9ycFcxS0R6d2xpVDhybm4tRTJLNG5xNnB2SktqWnE2dW40VVRjSDRHLXFyV0RjeHNaZ1NSOXdESk5B?oc=5",
-   "data": "2026-11-19T00:41:45+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo 2 X 1 Athletico - Gol Jorginho",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNEE0dkV1dGFMN01PV2czOXNUM3V6VzJ5bVN2cUw2Ui1qanNXT0M1aURyaWNadkNuYXJ4SzZYaHJ4S0ZyLTAtNjhMa2FvM3VkRXZFZWN4TXEwRUFWSFl2TVIyZVVUaUZJVlVDeHluRUlMX3ozdXBOWjV2UFlhQWt6aGJOOVlCemw3THpqckxhcFdFeEFWbXdtV1I0QQ?oc=5",
-   "data": "2026-11-19T00:22:07+00:00",
+   "titulo": "Flamengo 1 X 1 Athletico - Gol Jorge Carrascal",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYU1qV3pSWkdMY1p6RzktOFI1RmFfZUltcmU0UVBWMElaN1FiQlBUZnJKeXNORXpwYXBUNENmdlRTRWpFNlU4TExCdUVCeWE3Z2stcmdDOXo2Y1JSdC1qblJLZWczOHpEMExLTlhGTlNScjVZNWVzVDhjbERzelpnTXlSelFyNm54TThRUjlkbFdIa1pkZFprZjA5YjZKSGtrVkk4Qg?oc=5",
+   "data": "2026-11-19T00:12:30+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Erick Pulgar está fora do jogo do Flamengo x Palmeiras, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/11/erick-pulgar-esta-fora-do-jogo-do-flamengo-x-palmeiras-pelo-brasileirao/",
-   "data": "2026-11-19T00:14:07+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Volante chileno recebeu o terceiro cartão amarelo contra o Athletico-PR e terá que cumprir suspensão automática no confronto direto pela liderança O Flamengo terá uma baixa importante para o confronto contra o Palmeiras…"
   },
   {
    "titulo": "Flamengo x Athletico: Vargas faz golaço de antes do meio-campo; assista",
@@ -90,15 +562,7 @@
    "resumo": "Aos 10 min do 1º tempo - gol de fora da área de Kerwin Vargas do Athletico-PR contra o Flamengo O atacante Kerwin Vargas fez um gol antológico para abrir o placar a favor do Athletico na partida contra o Flamengo, no Ma…"
   },
   {
-   "titulo": "VÍDEO: Com pulinho característico, Jorginho marca gol da virada do Flamengo contra o Athletico-PR",
-   "link": "https://colunadofla.com/2026/11/video-carrascal-marca-golaco-e-flamengo-empata-contra-o-athletico-pr-no-maracana/",
-   "data": "2026-11-18T23:56:59+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Volante converte cobrança de pênalti aos 24 minutos do primeiro tempo e coloca o Rubro-Negro em vantagem no Maracanã O Flamengo reagiu rapidamente e virou o confronto contra o Athletico-PR aos 24 minutos do primeiro tem…"
-  },
-  {
-   "titulo": "Falha de Rossi vira assunto em Flamengo x Athletico-PR gera revolta: 'Não dá'",
+   "titulo": "Falha de Rossi vira assunto em Flamengo x Athletico-PR: 'Não dá'",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMVJxbDhiVjEyODkyZ04yWUNnUVVSWEIwT1poMEt6MGpiZ1FLd1VEUVF3WC1Nc3k2UWpHMUZmSW1BS3lKajRSZ1czTzhtSDFiQWtlMzJMbTVOQlpFS3Z1QU51LXdFZlVSS0otYjc0LWxIeWZRVUJXZklIRUhxZkhEOGFmSFdGbkkxTDFDYlZEOGxLNjEyZjV1X0djaWVvYUh2TGdoWU82ckJfQlRmVkdBMFlJTE5yWkVSUWc?oc=5",
    "data": "2026-11-18T23:55:11+00:00",
    "fonte": "lance",
@@ -114,7 +578,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Veja gols em Flamengo x Athletico-PR: Vargas e Carrascal marcam golaços",
+   "titulo": "Veja gols da vitória do Flamengo sobre o Athletico-PR",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXVXZFlSZ1pIT0hFWUI1NGtzcUctd1VPUFdKT1dBVkx3XzBCWXRoSklkR2I3TV9tWlJMTlNVa0NvSVlzR2JXV2o2dWFLbFViOTZWaVFsaFo0blpxYXpFbVR6bG5yOFVDLWpySk81ZE5yUUZib2ZXNUlqRm5hTjhVSk1KWS1KOTRlMThwVnNROVZuamlVMDV0X2JvLTlfcVFZeWc?oc=5",
    "data": "2026-11-18T23:49:04+00:00",
    "fonte": "lance",
@@ -122,7 +586,7 @@
    "resumo": ""
   },
   {
-   "titulo": "Surreal! Jogador do Athletico faz golaço do campo de defesa contra Flamengo",
+   "titulo": "Jogador do Athletico faz golaço do campo de defesa contra Flamengo; assista",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFhmRVlhZ0Nqc2FnQ0VLSXB1MHc1aUJZMHRiV0NHQTRZTnFzdTJZcjVzVUZVMWdsQXVzWFZ4TDFZcWdzck9tckJhajFLTmtmOHdYWWtJeFVMQ0FCZm93Q1E2Y054aUZ2VHMyTS1VclByQUl3QTQ1b1hWNVZOVjk0SmFXaTRvYldHSllFc1VzSWJNNy1jUjFmVmZnc3ZrS1Z6U3RLRS11c1NKWkU?oc=5",
    "data": "2026-11-18T23:48:32+00:00",
    "fonte": "uol",
@@ -146,14 +610,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo x Athletico-PR (18 de nov, 2026) Estatísticas dos times",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSDVYYVljajYzakRDXzVnRDZ3alpYaWFrNktvMktNTjhXZXk3ckdOOFByZGEzRFlxbEFHWDkxU0ZWX3dPSWswMXh4WDA0Nmp5amRCXzZ0dGtVeTRsUGVqLWJ5ZFQ1M2JTMnkwc0VqSUFBUml5Q3ZWV29OODJJZXRrb1dNSWVHa2NGMHc?oc=5",
-   "data": "2026-11-18T23:32:44+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Veja onde assistir Flamengo x Athletico-PR ao vivo nesta quarta-feira (18) - TNOnline",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFptbzNTYlhQM193djBwM1BISVJVYUxoWllhYjhTc0MwR2p1QTdSeEJpQ0lxRXhxVDJTZVpMYzRvNExVYzIzRFpmMlFnTTFEcVNUeG40c3ZwQWtmaThHcVZ5ZWtJYW5oUU5fQldKR1hTUFVVSGF4TUVZN1dDWW94Yk5Ec1BiWXhKMFNIUG9YcTM2enNaZm9jbEtsWjJiQ0U0X05aaV9qelBsbVFGbmJ0N2pIbzE2amViS0Q4UEdFRENfNXRY0gHPAUFVX3lxTE54eXRiZlpVVGdneVBCUnFkWk5ydXkydUhRZldvOUlGeHZGSnhNRC1yZE13UUttYXAxeHQ1UFFpQ3QwUEpWZHVjX0x3MDV3MjZxc1VNT0hUSWxBM2FCaWFQMUJSNkNZSFlGNzl1R3J1Q1V6Rnd1NG5Ua1J5UXR0UURYZ19FQ1JILUw5b1BnRldlUXBwd0VpVElVOGJoNF9UVkJQSXFDT09sNlM1TG83OC1sZmIwMWh0TUx3cUhyQzZvLXNXVjVDeGozbm5VUGxpWQ?oc=5",
    "data": "2026-11-18T23:28:40+00:00",
@@ -162,28 +618,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Escalação: Flamengo tem Arrascaeta, Varela e Alex Sandro contra Athletico",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ0djLWJFVS1zV09UOUJJeVhMNlQtUlMxUEM0M3BXV2NJS1BMWmFyeTFCYVVSektYS29rRGdjd3ZXdGVCM1p0R1pudWV3eWRWY3F2aTk1czV5aVVCSEx0aEVnVDBLVmNCc3k2T1hTUnFabUxHMkRDVXNkUVRZajcxSjFrR09mNnpnLXdRNGNFNmZ3X3pqNUJOVHY2UWVEZG5GcXFmVnBnempYWmJ2M0pMTVdqRWFEeUIwdWxNeDdaWHVsMXliLXhjX1J5eWxpYVFFaTdKVnhEQTh6Z0U?oc=5",
-   "data": "2026-11-18T23:28:02+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
+   "titulo": "Flamengo 2-1 Athletico-PR (18 de nov, 2026) Estatísticas dos times",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSDVYYVljajYzakRDXzVnRDZ3alpYaWFrNktvMktNTjhXZXk3ckdOOFByZGEzRFlxbEFHWDkxU0ZWX3dPSWswMXh4WDA0Nmp5amRCXzZ0dGtVeTRsUGVqLWJ5ZFQ1M2JTMnkwc0VqSUFBUml5Q3ZWV29OODJJZXRrb1dNSWVHa2NGMHc?oc=5",
+   "data": "2026-11-18T23:27:05+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
    "resumo": ""
-  },
-  {
-   "titulo": "AO VIVO: assista à cobertura de Flamengo x Athletico-PR com o Coluna do Fla",
-   "link": "https://colunadofla.com/2026/11/ao-vivo-assista-a-cobertura-de-flamengo-x-athletico-pr-com-o-coluna-do-fla/",
-   "data": "2026-11-18T23:23:43+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo recebe equipe paranaense nesta quarta-feira (18), no Maracanã, pela 35ª rodada do Brasileirão; transmissão do Coluna do Fla acompanha todos os detalhes do confronto A bola vai rolar para Flamengo e Athletico-PR…"
-  },
-  {
-   "titulo": "Do Maracanã ao Palácio: ex-Flamengo, Petkovic recebe Medalha Tiradentes da Alerj",
-   "link": "https://colunadofla.com/2026/11/do-maracana-ao-palacio-ex-flamengo-petkovic-recebe-medalha-tiradentes-da-alerj/",
-   "data": "2026-11-18T23:15:09+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Torcidas organizadas levaram bandeiras e o hino do Flamengo ao plenário da sede histórica da Alerj em homenagem ao ídolo rubro-negro O coro que Dejan Petkovic se acostumou a ouvir das arquibancadas ecoou, nesta terça-fe…"
   },
   {
    "titulo": "Rodrigo Mattos: Por que Globo passa São Paulo x Flu em vez de Palmeiras, Fla e Corinthians",
@@ -194,20 +634,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo muda uniforme para jogo contra o Athletico-PR, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/11/flamengo-muda-uniforme-para-jogo-contra-o-athletico-pr-pelo-brasileirao/",
-   "data": "2026-11-18T23:05:38+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Clube usa o espaço antes ocupado pela Betano, que suspendeu o patrocínio após a proibição das bets no Brasil O Flamengo não usará a frase “Proibir não é proteger” na camisa contra o Athletico-PR, nesta quarta-feira (18)…"
-  },
-  {
-   "titulo": "Com problemas, Palmeiras divulga escalação para jogo do Brasileirão; Cruzeiro define time com 2 ex-Flamengo",
-   "link": "https://colunadofla.com/2026/11/com-problemas-palmeiras-divulga-escalacao-para-jogo-do-brasileirao-cruzeiro-define-time-com-2-ex-flamengo/",
-   "data": "2026-11-18T22:41:06+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Torcedor do Flamengo ficará de olho no resultado do Palmeiras O Flamengo pode colocar uma mão na taça do Brasileirão nesta quarta-feira (18), caso vença o Athletico-PR. Porém, o deca só ficará encaminhado se o Palmeiras…"
+   "titulo": "Escalação: Flamengo tem Arrascaeta, Varela e Alex Sandro contra Athletico",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ0djLWJFVS1zV09UOUJJeVhMNlQtUlMxUEM0M3BXV2NJS1BMWmFyeTFCYVVSektYS29rRGdjd3ZXdGVCM1p0R1pudWV3eWRWY3F2aTk1czV5aVVCSEx0aEVnVDBLVmNCc3k2T1hTUnFabUxHMkRDVXNkUVRZajcxSjFrR09mNnpnLXdRNGNFNmZ3X3pqNUJOVHY2UWVEZG5GcXFmVnBnempYWmJ2M0pMTVdqRWFEeUIwdWxNeDdaWHVsMXliLXhjX1J5eWxpYVFFaTdKVnhEQTh6Z0U?oc=5",
+   "data": "2026-11-18T22:37:41+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Leonardo Jardim define escalação do Flamengo para enfrentar o Athletico",
@@ -216,14 +648,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Escalações: Flamengo e Athletico-PR divulgam times para rodada decisiva do Brasileirão",
-   "link": "https://colunadofla.com/2026/11/escalacoes-flamengo-e-athletico-pr-divulgam-times-para-rodada-decisiva-do-brasileirao/",
-   "data": "2026-11-18T22:32:41+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Equipes se enfrentam no Maracanã, às 20h30 (horário de Brasília), pela 35ª rodada do Campeonato Brasileiro As escalações estão definidas! Flamengo e Athletico-PR se enfrentam nesta quarta-feira (18), às 20h30 (horário d…"
   },
   {
    "titulo": "Vai passar no YouTube? Onde assistir Flamengo x Athletico ao vivo hoje",
@@ -258,25 +682,17 @@
    "resumo": ""
   },
   {
-   "titulo": "“Não tenho minutos no Flamengo”: De La Cruz desabafa após se destacar pelo Uruguai",
-   "link": "https://colunadofla.com/2026/11/nao-tenho-minutos-no-flamengo-de-la-cruz-desabafa-apos-se-destacar-pelo-uruguai/",
-   "data": "2026-11-18T21:42:17+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "De La Cruz fez gol e deu assistência na goleada do Uruguai sobre a República Dominicana Sem espaço no Flamengo, De La Cruz brilhou na última terça-feira (17), na goleada do Uruguai por 5 a 0 sobre a República Dominicana…"
-  },
-  {
-   "titulo": "Flamengo e Palmeiras se unem a outros 5 clubes e rejeitam iniciativa por ajuda do governo",
-   "link": "https://colunadofla.com/2026/11/flamengo-e-palmeiras-se-unem-a-outros-5-clubes-e-rejeitam-iniciativa-por-ajuda-do-governo/",
-   "data": "2026-11-18T21:35:01+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro ficou fora de mobilização que reúne 35 equipes para discutir alternativas de financiamento após mudanças no mercado de apostas O Flamengo está entre os sete clubes que não assinaram uma carta apresentada por…"
-  },
-  {
    "titulo": "Flamengo recebe o Athletico no Maracanã pela 35ª rodada do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSGlrWHJlbEhaSkhDSzE3b1FkRW5GWGpmdTVqQTh4eU1nbWtBNktZclFLQ0dBbVR1eE5icFZVVWhPWnA4SDB1cHlGSktRZGozeTZLRjU4MEdDMll6UDFQWHBhUVBmZFhvV2tieERVaHpLMy1tZjNnTjQtRzBEQnk1Nnoza0t5eHhxR3NXaDZkUE9ZR2ZlWnk3Nzg0T3djd1F2UkZkUXZpOA?oc=5",
    "data": "2026-11-18T21:01:24+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo e Corinthians lideram venda de camisas usadas; veja ranking dos clubes",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlpPOGZLcHBvRlllTzBfYW1RSzRjZ0dPRGlKaWl5RndwazdEYzVmdEN0UjVRcHNjbU5YSkRMVFo3SkkzbkNNTDNmQl9tVE1lVjlWUGVtMzlMYjFHRUNibC1tMnVDemMyWFpScXR2dENkbWJZS05JYUFfVmFrcDlsZUFmRWVPbmxtVXIxT1c5Vi1TVGh0T0VvbVFRUUhuZDN3NEpmRnVpeG5BVzJaamF5WUN2T3RueWpOSGlQalhHS3VGWWs?oc=5",
+   "data": "2026-11-18T19:47:24+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -311,14 +727,6 @@
    "data": "2026-11-18T17:11:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Arsenal monitora evolução de Rodrygo e astro de Filipe Luís",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWlkdlJXRkVOU3BtVjhWY09CaTdyYjhlUUJHcUhGVEI4S2xZNDlVc2lrWXQ2Ul92TkhrVERUZk5Lem1ZNW9zajlaeXFiV2Iycm5pak1nMENIQVJYU21ZbC12UzZYd1JtZUE2Y2NuVkJSM1pVU29IZU45WkRYRWZMT2lxQXpfcVJBX1JrOTc3S3ZLRUd0aXBVdjg1WjNLd1FWVDZsclBmb1dzUmZmZUZfUg?oc=5",
-   "data": "2026-11-18T17:06:21+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -479,14 +887,6 @@
    "data": "2026-11-18T11:52:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras na B, Corinthians dominante e Fla 'humilde': o futebol quando o último GTA lançou",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNDRCcFZMQnJnbktiWXE5V0M5ZG1RMmRQaHIwUlEtUnNLajc0Z04wTm9oTkZSSEc3dWhZalpCZEhIYnR5MG55UjZGT0dNRC1HNGlNb1BPWUFRZGZJWExORGxkajZ3bDAtTGFqbmdzWUpPZHpYa2ZsazVVNmg2TUltenBEc0d5NGZfSUhubVdBUjVnUEJkRG93cFVDVUltbGNoUDB2ZFRtaFY1OHQ4d1B6ZEQ3RFBXakNVZ0JneGs4LTJ1R1NLOUJxOElLR3pZZnk3bHJuQXhkVHUyaE9TVUIxSEJKSDhqdWpOcnpiUUhJQQ?oc=5",
-   "data": "2026-11-18T11:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -754,14 +1154,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Petkovic aponta erros de Jardim e é sincero sobre Flamengo 2026: 'Não ganhar o Brasileirão seria um vexame'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1bVFMZGVhRFFvcFdqOGNyOTFrZ3JDcllTSkxESDRlRWNHYTBoQ1F1emp2bWZsNW5UMi1ScUdleFFQaDBBYWM2RVVCSFVMZVMyNlRwbmFXWmJrY3ZWd1E?oc=5",
-   "data": "2026-11-17T19:07:56+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Flamengo x Athletico-PR: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT3otWTNzczlKWVBGSEhORTdRa0w1NkI2b3hWSjAxb2tzc3VpMFBfdkVCZS1xRTN4WDNjZWpRRmlDWjRXc25hOXBKYVVVckhEUlNONVFwS295QlItYWlYUmdhSExLQVJQOWlpM25ISlVwMjBFNWljZVEwNjFvN0RXeVl0OURTRXBHY0wtRWxNLUk1V1lIaDJ6ZGZKeV83eUx5M3ZpX3RWWURiQjJmN2Iwa0Q4OHJLZXpfT2VoV3dxUkZXYk45MXIweHQ1bTYyaEpkR0pwTEp1eldvRXU0VTI3ZDRIdlRvN01IcXI3YWxQdjVsWk14?oc=5",
    "data": "2026-11-17T18:04:00+00:00",
@@ -840,398 +1232,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Possível arbitragem de Palmeiras e Flamengo repercute: 'Todo mundo sabe'",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT1RNVFVSZ1VOeHpyVU9qdWRLWGNtTC1uWktVSmJ1X0E2WXhfV2p2T0xFaVI5YS0tRVI5T2tzTEZpejJFcTRPVm01NTRudExnOFBGTjBFRFNIakFnYkJ0REZzb0FnSVYtb3hLSG05VFMyUGVLaVhSUGNudWpCTkJnU3JNa3FKNTBZQ2Q2NzRCQVZDZEdyU1drbHFIcVFaMTMzNEhaeURzZ3RLdVM1Vkx5ZnlIQQ?oc=5",
-   "data": "2026-11-17T14:34:05+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Como Palmeiras x Fla ajudou a fazer da escala de árbitros um quebra-cabeça",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR09lU0lQMEU1NlRmMDcwb2I5VUNDVkpaWHRvSHRHOFpVY041cm9xMnV0VUlrdzU2ekQyQ0R6SS1JVmdVRmlUSE0tTUUyQXdoTkZlUTRIWTJfUDY1YTh5ekd0NnZqRmpoNTNzQjRlTWZCM1lfZjE3Tkh2RHZGNGRnTGxBVmxIM0l6X3p3ZDZLblNmVTRWTGxUNU5EaE5ER0lNZFAwb1V2ZEVERzM5eTFFYjgzYkJsVHQ0dzJNQXM3UkcwV2g2V1llNE1HTDA3RzFnTkhYUjd5ODFJYzQ?oc=5",
-   "data": "2026-11-17T13:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Betano anuncia suspensão de patrocínio ao Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlNWNkV2RkRWNVRzR293WnA0Q2MyZEJPWFEtX1d3dlU2dTdfT0l2SDFpMVJPY3FUMEVjNTFuUFktUUI3eXBCYUJBbXpNdGNuNk56VkRpcGhRTGJHSXRnZC03X2RVRGROS0NJSVhOUTE4N1QwOGxVQ3hKN1EwUGJrcFNQeFBndUktM0ZmOVJsZVBYM3c?oc=5",
-   "data": "2026-11-17T13:28:16+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Betano anuncia suspensão de patrocínio ao Fla e cita 'incertezas' após MP",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmk2QWJEZzZtTFZ6MC00cjFURVNBRTBrLUE5M3R1WXBoY2wzN0RQdGdHMEkzQ2pmZlBqT3FWcGJJWGU3LS1mZTFCSHVPZEtUcGVJa0hKUjFtbUpzaXBna2ZyYkNCMTdPR3g5UVNidlpLOXV5TTRmcUVrWUZ5eWp5UC1zdnF3alRVTzdaY1JHSkZueFgzdEFtdFNCTnpuMGM?oc=5",
-   "data": "2026-11-17T12:55:47+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Torcida do Flamengo reage à atuação de João Gomes em goleada: 'Não existe'",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRXBHVFFORVNFbVRyUkdwMVVPWG5Ja3AwaG5kTnNTZ1dVLXFiLVJoaVdhaVY4SnRKTE0zTEhNdUotazRubEVvSjJBMnN6T0lCTVFzbUxVUHVHUHc3c1cxX2RRLWJfR3k0MnRGekZOZ09kQVEtOWxtb1FaVkd1V3BIVnBvRUZIZjNYTVZrU0w0QnlEankyOHJiU0ZmdWRoSHNaYURNMi1ocVVvQUVBRnZ3ZmI0anNZdw?oc=5",
-   "data": "2026-11-17T11:19:13+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Boletim UOL em 8: consultoria de Doria no Master e orçamento do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWW13dTdOTFdVR0NMeTNFZl9HNUVzeUJxWEVsR21sR0dRTmZRSjdURnlWaXUzZk5FRUw1VUwySmw3cU90OUhOR2N0aDNHTmJVdFpjLUlfdUxydnpCeWlhMnhqalIzTU5lUVVIQTYtbEF2UTVneUIzYVJvdFZESHBsWjA2YTJJM2lCYlYxNHA2ZnVZWERINmZEazlnMy1fT3ZiQ0g1cHZRYVlUd0F6M19XSGNXaFlDT3pOZTQzZ0ZoajhjZVYxclMtWHdhYlpibUQ0QWVOdnIyaw?oc=5",
-   "data": "2026-11-17T11:05:26+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Entenda o planejamento do Flamengo com pendurados contra o Athletico de olho no Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNal8yd1U0ZVVBVHZrVGhWTVNxSXU1ZE8xSTk2Qkl0eVJTQXRpcXlSb1lKeDFKTW9OaVh6akN0SFd4QXlzOHRwSDF4SHRFTVVWdGM1N1g5SHE2S1hBQVNjYkZpTm9UY25PaEVMM093bUdnSEpUdXkxR2VBT01xS0hBZzlsWmMwYWprbHAtTnhqNkQxVW9Md2dlOTQteEJ5ZG81cnIyWGxESTI3OWwtc25mUUpCR3djTmU4cm8yZGRnN0FlTmdCNEtn?oc=5",
-   "data": "2026-11-17T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Veja como comprar ingresso para a torcida do Flamengo contra o Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdFVTWE1IUHhaMmJDNDF6Q3BQUjJqV083eUpsQVYwbktWM1Z6SDc1SUk4VkxXVkJUVmVEajRLUkhoR3lOSzl2VFRjdFdXcmJtSkNONmRVNlpxbGZMTFlEeC1QaEhWai01Ym1xcHZKeTBDbWc4SkpzbGI1dW0wdGtqeFJETXRTNml6eW4tZy1Ua3YzVU1pRi1DeDduQ3VuMHJMVS1NVHlhZ2hSWHNYTEliSjN0Ym1YWHFLbUdZdWtfNENjQVlrTnQ3ajM2WDQ?oc=5",
-   "data": "2026-11-17T10:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Em ano com fraturas, Arrascaeta tem esforço final para liderar Fla a título",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVDJuTm50WU5nczVZRTU2Uk95N0FjdTMta01KLUp5UTVkTnBweklqUVJOeVdsNktuYTh5b01YM0lqLVc1OVRSWl9RTjI0YTZaQm1mUy1jYVF1LTlVT3JBVnJWa05mS3A5RnJHc0lxYWc5QjZBSzBCUWdiam9rX1JLQ0xuaGgzbkpub2ZlQk13d0tvelRVWTNOcjFmQWRlM2EyYjhDcXh1amFJTVY5MVVDakNxemM1MXM4SmhKeWNB?oc=5",
-   "data": "2026-11-17T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mauro Cezar Pereira: Vasco derrubou jejum de 28 anos, mas Corinthians e Flamengo mantêm tabus",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaWs4aGhpRURTYlR1dlQ3cFJ1cWNUMkdnYXVFM2c4ZmRkRWs5RUI5VGh4bHdlSWZqOHFaLWhPc1NWSlVTWFctS1RxbjNPc1RzUGVBbEdZd1Z1X2RGQUpPWEJXMVFYcHA5ZjdyNVRuU2hHd04xTGJCRlJ3dHJ3cERCbXJZek9VNGtQSldCOXhTT2l5RnBlUFJySm1WLTk3T2d3TWczYU1pYy1ZdU5seDdPQ3JBd281Zk5UV2U0NVZMbFZwVUhyV05udjA2RkZ4YWRUTlFyREp1am1YUWoyWnJXV2ZGRmh3cmxk?oc=5",
-   "data": "2026-11-17T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo tem contrato com bet suspenso e faz orçamento para 2027: R$ 1,5 bi",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaXFVemtaZGlnVXFRZnpzZk12Z0lOUUhiQUpBWWZOVVBnbTdFOHFOWlpqOXd0VmJUZHhCLXhxVHhJYkZoNnY3RnZ4bFZYRmFmdHBabXFyUDB3bDBkc2g1UThpMEZsREZlRTZaTHlyaGktbmI3Umd0THFtSXg3aV9SVm9GbWYxYUJMT1lSMWdiZGpkUm5jbjlQRjNCWFZMRkNNdDBQOUdOZ2h6U29TLVZ5anlPdEN4WHZOXzM3VmNWaGxiZVo5Vy1FM3FZMVlmeTNGeEZCUVd5cUFCWUN5?oc=5",
-   "data": "2026-11-17T06:10:13+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jardim vai completar 50 jogos no Flamengo com aproveitamento alto, mas desconfiança da torcida",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/17/jardim-vai-completar-50-jogos-no-flamengo-com-aproveitamento-alto-mas-desconfianca-da-torcida.ghtml",
-   "data": "2026-11-17T06:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Athletico-PR: informações e palpite para o jogo A última Data Fifa do ano chega ao fim nesta terça-feira, e o Flamengo enfim volta a campo na quarta para matar a saudade da torcida, que já comprou mais de 55…"
-  },
-  {
-   "titulo": "Flamengo divulga orçamento para 2027 e prevê 'buraco' de R$ 90 milhões sem patrocínio máster",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2l4TUZoVEtQY0dZMmxmSmxKcDdINjRkV1p2ejNWWHpJZzMtaVQ5UG1yQkZpT2NGa1ZkSlZRQ0dnU0RZbnpQTGVycjRFcnRCS1RabFF1YjlYNWFrVl9VNnV4eFk1RExrVVZ5OHpTV0dOTzRFRkhSRWJrX2FpcWFscm40bElfYWVfdUJwNXF3UXI1ZndDemFGUGpOZnFzd20wY0JqQWdLOFZrX1NpYVVVYUExbWc3eUdNMzBkcFRtSEpnckpzem96TWpTSlM5SzlXeDVFX1Z3MHlhdzJt?oc=5",
-   "data": "2026-11-17T03:49:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo confirma suspensão de patrocínio da Betano e projeta receita de 2027",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFc3VGFBT3Z4MTVxenRjSFB2MzVZUVlkWjZfeWF5ak4wZWx5Yzg1bE5oUFBzd29EMmQxUDVCZFNDZ3Fpb3AzeWhvbzktVUhDS25udkZLTlFHbHcxcFJkSUhIcWZsUjQ0XzFOTVNzU29vZ1NkUGo1UFJFeWNnN3kzTDlKcFM1LWxhSnRiNHVfLWF5SG1XbFBQalk4SEhkTWJYM20xVFY3VUdZSlNKZ2daSFltalhubk9z?oc=5",
-   "data": "2026-11-17T01:47:32+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Betano suspende patrocínio ao Flamengo, que apresenta orçamento de 2027; veja detalhes",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/16/betano-suspende-patrocinio-ao-flamengo-que-apresenta-orcamento-de-2027-veja-detalhes.ghtml",
-   "data": "2026-11-17T00:00:54+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea O Flamengo encaminhou ao Conselho de Administração a proposta orçamentária para 2027. Entre os principais pontos do documento, estão a confirmação da susp…"
-  },
-  {
-   "titulo": "Zico é eleito o maior ídolo da história do Flamengo em votação popular",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDlkN1Bva0dwd0ZyYklOZ0tIMEJTa3BpS05OR05wN2h0anRPTC1FTzVuYm56RFBSMzBRYklQUXozWm1GdTh6VHdSU2RmSmc3Nkw0NnQ2dG14UmVselFJM05XNzNLeEFlRGh6ZnQ3TjFReGd4RVctUERuMEFnQjl0RGNMWmxGdkZURUdUMlk4OC1hcm5YbEl1cllBTnhPM01WU084Wml5a0lfWHQ2eEE?oc=5",
-   "data": "2026-11-16T23:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo homenageia Arrascaeta e Bruno Henrique; Brasil fatura ouro no Judô | Lance Diário",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNalRDdGh1WjE3WmtYY0lXdzE5eVdVdEtuSkdWRGhvTjNzUmF2ZTNsZG1Gd0xJNElZcklmQmwtN0t0QkhtVlRhM2xOVlNiUHJOakI5Qmo0a2ZVWS1XSTRQTUlPMk9OTDQ3S0lic19qZEFEbERTTnN4Y1RRcXZyRUtFM3Q4TUtCcjFTVTdLWXFfeUtJTmdVUS1Ycl9PaXYyVVNoMFRrLUxCSjZWRDlMVDlEUjhOZ0l5QlZBTUtN?oc=5",
-   "data": "2026-11-16T20:52:36+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo e Fluminense abrem o jogo sobre naming rights do Maracanã",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbDRZN2FSZVRudm9LY0lEdjlfYXF1RlVWMHRrR3ZmcDBqOWg3R0ZzMl83a1l3YVBrdEFhV0xrczhmOE1qX1NoZTZRZlZxV3h5YURzdEFIRngyMGduLWpCNEZpci1xM1F5RDdMM3diZ1VJSHlqTlBlM0JkVkZtVnNxMXZYT3JyeXVGaEpURGFxZUhYX1ZyRG40LU5EdHZOUVNTanhBUHJnMEsyWkxlbFFVekVwX3hudU9YZmdUNUR1S2syR29TSkIzallEWkxFWk85dG1VMTBB?oc=5",
-   "data": "2026-11-16T20:29:32+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo: torcida escolhe ídolos para novos bustos na Gávea",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaVdDNmpMdG1mSXl3V0xhQ3ZqTEhRSzB5N1NBcmN5MjkwRHVVZERydDVkaldBbC05SUJyejRmMGdQZXhiWHdKZHhZWHRlN2I4QnBZN0xjX1dlZnRKR3RVT2xja1NjQ3hoWEo2Zm0zd2NJRDBrMG5jRVRMdm9wNjJTSUx5SDJJbzFIdnV5T01meHBncmN6cmpUd0ZqNWhIQkhpY1VzOE1ldmVjZEg1NzM5SnpOc0x6VldRXzExVnlXa0lEX3I2TUE?oc=5",
-   "data": "2026-11-16T20:02:43+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Gonzalo Plata, do Flamengo, é cortado da seleção do Equador antes de amistoso contra Bolívia",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWXpfOWFmRVJhajdQMzFXMmlvZXVnRk1iR2Z3SG5NaE5pcVRrSFdfUjZYREQ3UkhxZ3BNeWMwZ3YyVjJCTk1hbXZReU5WWWxnRzJJcGZSSzFqNFpkcmVYSG1NaG1jcXZiXzE0QnZBU01keU1qZ0hvV3dNZnVuc20tSnVneVdWRmdBMEZXZjBTX3lQZWNfSzlhaEdQUlJrVG9hRWJLLUFjY3JjeVY1MlJqZUFqV0NfWFowa1R0Y3dHRmZoaVB6MlA5U0Z6dWxlRm02dEVhd2dwamxDemItamRPbTNDR0Z4bEJsY1E?oc=5",
-   "data": "2026-11-16T19:32:17+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Equador anuncia corte de Gonzalo Plata, do Flamengo, por 'motivos pessoais'",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX212NWJwbFE5UTEwUGtJWm0yaXpJcEkxby1rOHQ3LWt1aTVjVEJydDZBNnhqX2ozaWUxSGQzTlNBcGMzbUpQd1VteDZkM04wVi1DU3Zoblc4blFLRTNlS3A2QW9QSm84RHZBLVB6M1M3TXdQY1dEenNvdUtQa2FLUDl4M2pST1VUa3JCYXlfMC0yTGlSX3pjRkpuTHpyMWJxYnpMckJOOGs0SWtEeDNn?oc=5",
-   "data": "2026-11-16T19:05:21+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Plata é liberado de amistoso do Equador e pode virar reforço do Flamengo contra o Athletico-PR",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/16/plata-e-liberado-do-segundo-amistoso-do-equador-e-volta-ao-flamengo-para-jogo-contra-o-athletico-pr.ghtml",
-   "data": "2026-11-16T18:45:56+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Athletico-PR: informações e palpite para o jogo Plata foi liberado do segundo amistoso do Equador nesta Data Fifa e vai antecipar sua volta ao Flamengo. Em comunicado oficial, a Federação Equatoriana de Futeb…"
-  },
-  {
-   "titulo": "Plata, do Flamengo, é liberado pela seleção do Equador por motivos pessoais",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2x6bC14ZklCZEU5MWxnLXhaWlpCU2ctTG9RNm5TV3pwczk4ZWtFV2RoVHlkc0kyYjBhSWgtaTN6R0VGVGxfdl9NMWpDekozT1NmUmhyMzFHUFAxUzlBanh4X3czUGxHQ1NSMnhTNXFkU3gzV0xiVW9oOEluNndmZEJqaWtMcnpINGN6UUExQWNKWDdNcVlEVV9La0Q0MzBtQmYzM0VISjZ2Ulp5Um5YQ0taNnRVQQ?oc=5",
-   "data": "2026-11-16T18:42:04+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo prepara novidade no Ninho do Urubu e terá mudança em 2027",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkpVMm9vdEhCMkdwLW1IMkVtc3Y0N1dkQmllNy1rbGg0ckRISUdfY3k4cTJGUG1DV2taa2QzZHhoeWxHa2R3em5hUGhXdmYzeTVUSmJXYmI3MDVDYTIxNFB3M294WlVHSzBHZXZPWmE5aXJpNFVGUktmd1NDNEhPMVZvRHRhVmFrSUdoNXdXU1pJa3JXQjhrcDZDbjQtVHlPZEdjOExSZWJhUzV5VXJ1QlNiaw?oc=5",
-   "data": "2026-11-16T18:33:09+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Quais devem ser os novos bustos do Flamengo? Após promessa de Bap, vote para opinar",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/16/quais-devem-ser-os-novos-bustos-do-flamengo-apos-promessa-de-bap-vote-para-opinar.ghtml",
-   "data": "2026-11-16T18:18:58+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo inaugura bustos de Arrascaeta e Bruno Henrique e Bap já pensa em novas homenagens No dia em que completou 131 anos, o Flamengo aproveitou a data para inaugurar dois bustos de ídolos do clube. Arrascaeta e Bruno…"
-  },
-  {
-   "titulo": "Paquetá pode reforçar o Flamengo contra o Athletico? Veja situação",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDZBck9KRHhaekJmNkFDdWt0WHVQNzlXNHNiQmkwb2pkX2F3Um0zdmdENmpyZlBZd2xPcGt2S2RDOUZKeEFMbjluYmJRNXlQYldCVENQRkZReTJhTnN6THpIbEc2Y3dHVUlNWEQ1QXNzUjVpTFRzaEhReGVETk9GMW1FaFYwcHBENVZSOC1HUmhpbzV1YXlNNmNBWmdJZjdTSnhnVkxIVU1Ib0xuRld1NElYblg?oc=5",
-   "data": "2026-11-16T18:05:34+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo mostra novo campo do Ninho do Urubu feito com a futura grama do Maracanã; veja fotos",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/16/flamengo-mostra-novo-campo-do-ninho-do-urubu-feito-com-a-nova-grama-do-maracana-veja-fotos.ghtml",
-   "data": "2026-11-16T17:54:32+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Maracanã mostra nova grama que será instalada no estádio em 2027 O Flamengo divulgou nesta segunda-feira fotos do novo campo no Ninho do Urubu, que está em fase final de construção e que passará a ser usado em 2027. O e…"
-  },
-  {
-   "titulo": "Paquetá volta aos treinamentos e deve reforçar o meio-campo do Flamengo contra o Athletico-PR",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONHd5cGt3Y3RPTFZtTW5QaXhNczd5UXd1Y3B3WHU2TnlFLXNJTGxXWDBOdDlNaUkycGxtY1R5bWZZbEVRUE9xNWpYZHU4UEJaM1JmNnExSG15RG9mT093Sk5Cand4bVpqbzI1OGJfenVFbnhVQS16a2NIQzFhZjJZTlEyWTRPMGxsbzR4U29TdGFoSUZCLXV5RkVpVUw0d085OE9TVFF0MWk2VDc2LVpWbHY3YVpudlpjbjUyT3pqejN2TjU1Z01rMGxBMDZEajBlRUxudmtjU3hBMk4yNFJmb0pyY0xMbFJrZXdiT20wREpRRXV3TXpZ?oc=5",
-   "data": "2026-11-16T17:43:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Atleta do Projeto Tênis na Lagoa conquista a 2ª Classe do Flamengo Open",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkV1eDVaSkxjbVhFMkcwci1NRVJSUVZSSEczYWVHcE84Zl9iWE9RSC1jWUMyRl9aQkNzTTlMWXF3M3Y0YUFqMF9vY1oyQ1pxeUVSRkdqY1RYczRBMlZHWXVPU1pMRGlNR0FrSExLOGNXZ01vMms2U2xHT0F2clNDM0Q0VTFsSmdUUVJXT01wbXR5Tkl2ak5ROTQ5cDZ0Y01PWHBZdkdGZENMeWs?oc=5",
-   "data": "2026-11-16T17:41:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Lembra deles? República do Pão de Queijo no Flamengo completa 20 anos; veja onde estão os integrantes",
-   "link": "https://ge.globo.com/mg/futebol/noticia/2026/11/16/lembra-deles-republica-do-pao-de-queijo-no-flamengo-completa-20-anos-veja-onde-estao-os-integrantes.ghtml",
-   "data": "2026-11-16T17:40:46+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Em 2006, Flamengo contrata trio de jogadores do Ipatinga Em época de pouca bonança financeira, o Flamengo se encantou com o sucesso de um clube da região do Vale do Aço, de Minas Gerais, em 2006. O Ipatinga era sensação…"
-  },
-  {
-   "titulo": "Flamengo provoca Palmeiras sobre título do Brasileirão: 'Sem fax'",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkJiTFA3MFlZTEZRdVgwUkJGWWNYeUh5ZXNBb1pkVUFhRUszSVRaX1B3WVhFbkQ2RzVXMlpWWUZVWXlHUFg1Zldub1FqR0xHc1hCSEo0ZGNvdmJVa0szWk80X0hvUy02V3o0Mjl6ZkxjQWlGRFNxLVUzVEpHWk5fek5iOHhfTzdwVGpZaXJlYmRmSFJEWElpYlNfbEJMdFdzMHQwMUVwLUtjblN2WDFxUnBmY2dhVWs?oc=5",
-   "data": "2026-11-16T17:24:37+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Cruzeiro abre conversa com Flamengo e discute contratação de Viña em definitivo",
-   "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/11/16/cruzeiro-abre-conversa-com-flamengo-e-discute-contratacao-de-vina-em-definitivo.ghtml",
-   "data": "2026-11-16T16:57:40+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Bruno Rodrigues, Fagner e Viña merecem renovar com o Cruzeiro? O Cruzeiro iniciou conversas para contratar Matías Viña em definitivo. O lateral-esquerdo está emprestado à Raposa até o fim deste ano, e o clube mineiro ne…"
-  },
-  {
-   "titulo": "Paquetá volta aos treinos e tem chance de reforçar o Flamengo contra o Athletico-PR",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/16/paqueta-volta-aos-treinos-e-tem-chance-de-reforcar-o-flamengo-contra-o-athletico-pr.ghtml",
-   "data": "2026-11-16T16:17:51+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Athletico-PR: informações e palpite para o jogo Além de Arrascaeta e Varela, que estavam com a seleção uruguaia na Data Fifa, Paquetá voltou às atividades com o grupo do Flamengo nesta segunda-feira, no Ninho…"
-  },
-  {
-   "titulo": "Flamengo defende marca 'absurda' no Maracanã em semana decisiva",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNank0NG5HZWxaWHE1UndEQ3p2a2ROT3FNbFpfQkJCRU9EU3dHVTV6dlNGRlcxQktwdHdvNndzM2ZZVjM2ckw1bjNYSEI2SW1oOW1hdmlLQ01FSWNJS21uY3dXZDBBRlFQWDhCcGR6a3h0WGIwT0otV0UtbE40c0NRRjF0cUV2RlR6MVVBSjhYaGh0NDMxeUV3SmUzLTBmMVhfeEtraTQyMXN2Zmd0aU5zT1BhRkt5SG1jUk80WThYcEFNWkEtM2c?oc=5",
-   "data": "2026-11-16T15:25:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Vini Jr. torce por título do Flamengo e quer 'voltar para casa' no futuro",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXpGTjVWTVNHWEJDNVFieURkM1RxeFlBVnJjMkFNU1FHZzVoNjlycS1fY0VQNFRFd2dlZUFGc0R6cDRKOWVwMk1OS2piS3EwLUI0ZmllcG5HSEVpR21kM0Z4YWRyV3NadjJEa28zRk1KbTFNZ2g5bWg2Y2dKekg4dWt6UzNKU2ZBaDg3MnRXV1FEZ0M2LXNnVU50Rnc1MVhZN0h1eHBOS1BfMGtxdnJfTFNQSmpRZHN4OU8zLTM0YVI5b0hhTlB2VVYwMnRub3ZmbmJmQ0tlMkhBUQ?oc=5",
-   "data": "2026-11-16T15:16:49+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Achados & Perdidos: Flamengo vencia o Cobreloa há 45 anos e conquistava sua primeira Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMU5tS08xYndsbkhMZVNCQ21leUlGS3lhb3BYcnRwQU83cFZISjFDREs1WHNNeDdLc2JVU3ltaGQzN1VMakRWVGtBbkJfM0dTamlJY25aR2Vtb3p3NkZUVDNaMVZ0RW5Hc18tYmZKZHBlMTR6RG9uRXFLZFJ4TWpGTFgxSTNWY2FlSVUwRE9ZUF9Tc1dqTmgySVlqTGJNcEdtZ0ludF9LYmdIQzlES0NSM3o1MlJCeVBHRnkwa2Q0VHJSeE9XajQxMDhzR1dtaUk2eFE?oc=5",
-   "data": "2026-11-16T15:00:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Vini Jr. se diz na torcida pelo título brasileiro do Flamengo e prevê volta \"num futuro bem próximo\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/16/vini-jr-se-diz-na-torcida-pelo-titulo-brasileiro-do-flamengo-e-preve-volta-num-futuro-bem-proximo.ghtml",
-   "data": "2026-11-16T14:58:50+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Vini Jr. afirma que está na torcida para o Flamengo ser campeão brasileiro O Flamengo comemorou 131 anos no último domingo, e nesta segunda-feira ganhou uma mensagem de parabéns de Vini Jr na seleção brasileira. Em entr…"
-  },
-  {
-   "titulo": "Vini Jr reafirma desejo de voltar ao Flamengo, mas retorno ainda é distante; entenda",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGc3Q0JwbUFxNlZEOXZHbnV6SjhiRGZ1YjVhOExvVUFpMUItT2VFZ2hOZTVzZEdtVTFzMmpXaVZRYzNQQnlVTWxPMG9IZ1FfR0JhNDdyU290Um1qR1NwNmwtTVBmbXZOejdNYXhOZ3BRWXRZakN5UVdwSEJwSFlZUk5XMjVXZVVaam90aEZBd0FwcEZXeHNxdjlLNjNmbGdXUExhNXNZbTd5d3JGZWd3QUVTT1JiYllOQWZIeGF3?oc=5",
-   "data": "2026-11-16T14:30:27+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Em coletiva 'sincerona', Vini Jr fala em possível volta ao Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSkJNSzdjNkZNU1N2aElPSk1wM01tejV3bUJGRkNabFFaVlZiQWNldDYySVRPbU4xZWVVR29rZzljVEF1RnoyR1VOQTlNTm04bl9nVjktMnhaUER2ZTlFV3NneXI0VUdjX3NzTUpOTEE2bkRkVllNSndqMGtPVXRFak95cTBhdk1WLTljUlRXcUJjbzVPckg3bFRkU2JPS3d3X1BDMmptdVVaWHdPRVYwaWlzWGxydkZodnVHSkVpOC1mc0xMNEF2OTE3OFpPTzNyUjZobExVMGFCZGpEVEFRSEg0ZmZzY01uclROdHRWc0xEMU15REpIT3B1RGVQbDUwaEt5RGFSY2g4eHM0TWRfY1pLWDQydw?oc=5",
-   "data": "2026-11-16T13:12:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Veja como Arrascaeta se reapresenta ao Flamengo após Data Fifa",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTllNeWtDZUNrQTNmeU9lSjJOWEdJM1lYbmVHY0s0RlVaYTJrLXlLLWhZUThETXFrSE4tNU5zZUp4MDFyRkE3YTNTRDJVRlQ1YXNmWHVyVFdhQ3RIN1VJR0JjRElCTS1fdDJHX3MzdXpYOTM2QlUzNG9Wd3FJeVllUDUwdUFQVmlMZkxhaTBMNE1VaGd3YnVGbTdoZktUal9oazVVVGNhMnh5c2M5OVY3OXpvWmNUbHZzWktDRFk0eHo2NlNZ?oc=5",
-   "data": "2026-11-16T13:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Vini Jr planeja retorno ao Flamengo: 'Vou voltar para casa'",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVQyNE8wU21WVUZWYkpYNE5XOWJXQUxoTS1leHk5VW9fa1NhY3duSFBhQVgzTzFBZkc3cGpyS21OZ0tNT0VPLUJDS3RmazBUWXhNbDZReG40SldpbEJZa0pxZ2VKTjFCam9qRGRJRlJRVmVPQl9BZFNCUkV1bXFmU1BrXzhxemlBNURKNHpHYml5ckxaNWpOQjU0S2JqZnlVRFh2Tmp1WElsVWRX?oc=5",
-   "data": "2026-11-16T12:32:40+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Cristiane, do Flamengo, faz forte desabafo após vice na Copa do Brasil: 'Prefiro ter paz do que ter razão'",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTGY4QjJMSm5YdXpwVE5sT1Z6YUFoT1JQV3o4Sm5XRjh3X3dPN3c2SkVRNlJFODA0MG5FQU83cW4wYWhlT3JNRHItQ3lUMzU2YTdpbWRselE1ck0wSVh4WnRWQTlYckJKdGlmN2xMam1za2pzZ21XMlRSRWlsRVpNOWdnOGYxTHNVbndYZ2ZkQWttSXV5LVJXNHJuVmhqV0pZMldQTHZHUVktQlRCOGpxWlpUWnpBeUZ2dXREME45S3lOeUFKNmp6TWdhcFlORVFuaTVLSWRBejI5MVh2NWpScVpR?oc=5",
-   "data": "2026-11-16T12:12:39+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Quem é o maior ídolo da história do Flamengo? Vote!",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMzJ2MS1PQjI1a3JsQ2NVVjRHQzRpMU5MWjdCSHliY3hNRFRlMEpNVlh3R2VJbjRLQm9yMXhXYnIwWWxydnlndmpycHlkd3RqREs1S3Nuc1VJcHpFc24xaF9Ba3UtZkkwbksxaFNvU1NPZk9pLVNGS0JTaFhGWG93MVpfbDdhRzJoSmtwSWE0djRfdw?oc=5",
-   "data": "2026-11-16T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Sesi Bauru x Sesc Flamengo ao vivo: onde assistir, horário e detalhes da Superliga Feminina",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNlRoSlNwM1dXNE5uTk5ZZkkzSDBYS1NVQ1c2Tl9LeUNJbi13MlczOUEySWlEQ1ZtRmN4MlNScW5RSWZWRy14NS1nQmNvM0NGWUp4WDNyeEtZVFJmckhYbXQzVjB1V0xrZDBYVnk3X2o1NmFnZXlXdDF2ZHZCTDhleDgtZ1RlSjduMVlkRHFzaTc0OEIxUmRIYUhVeXprbkRQbnVZeUlBSkN1X3RNT3JKRU9qbW9IOE1sQWtXUGh5Tkd3NlhnX0toTmxBb29yaHZMSkI5bkRiUldLN1JWVk9RcUM4VVc?oc=5",
-   "data": "2026-11-16T09:31:07+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo x Athletico-PR ao vivo: onde assistir, horário e informações do Brasileirão 2026",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbXZsTy0zVWRoS0tCMEZuajdMRXFCQS02ZnNRaDN3U1NiSmJlUzJZMzNZaUVYTTBLSmNmTjNVc3VwRDFVQ3ZoNnREVFJrNDdVeXU0UkU5V0NFOWJQN1NtaWdfcVJsNUZkRUk5ZDczaEdObm11WWxjUWxvSzlTN2RxNFF3a3F2Sm84YzJsRE5GVlhfenh6MUUtcnhyTkxZeldwZFEzWklNV3VsWFdUYTlHbkg3TklRMVlnVzktSVhtRlZkamR2TkpTRmFrSEF1TXBLdVRhQVFVa1ZROS1vWlo3OGlLUFBiZ0VsM0Fibg?oc=5",
-   "data": "2026-11-16T08:48:39+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Semana do título? Flamengo define programação para dias decisivos no Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2dfMkFUUk8wbmtIRjBURXdWR0txRWdyNnI2Ti1KV19MZGlmZW51Wkl5NEtXR196UGw0U2RHdzNoMmFDMDBxNVdRVkY1SFNYRWhqVlVHS1RGVjZCUlZvUWtMVzZtMU5CRHNKdllSWUp0MlpWdlEtTTdoVHZYVXkzcUJmanNZd3ptRnFwZmJ0cUFvRGxxX3BOUzFWQlhidXluN0NSM043a3FOdVFXWlFEb2JGMEZRUHo2SWc?oc=5",
-   "data": "2026-11-16T08:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Conselho do Flamengo vai julgar quatro ex-vices; oposição vê perseguição",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONXVKWk9nSnlmY1QwVGNDXzJpV0pwamgwc043Q3FvVHdmYjluMUNNajRHSm9Ia24xNWxMMDV6MU5KaVlndm94WVNub1k2Q09Rd21naElTNVNvTm9uTjB4RlljUjFlZ3dxTzVFckp0REozRDBFdk1remVoZFh4bVNwN2huWjlCTENQOXZnVUN6T0ppYzQ5ZDhUdHlYUkJ2RmJ4ZU11LUFyb19MYll5ZEV5OEU1LWRlYy1LNDY0UTQ5RXFBQ1ktYTRCd0VKcmRIMkNkVWpTNC0wNUo5dVU?oc=5",
-   "data": "2026-11-16T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Veja os bastidores de Arrascaeta e Bruno Henrique no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNjVSNlJ2THF2TlY0Qm1WWlR3QnpHaTBSZUpaakFILV9qaVFKWkw2NlVNNGd5Q3dJUk1zM3ZSdDdxb3k5ZVViUndfRkktV2FTbjBvS3l5N253ckdfNGJvektPY1g5a3MybWpCc3o5NV90VG0tY1RJNkVNQi1UTjBsOTFoWmlEa25wWllvOWpOWm4wQUZYRTZlMGZHN05kSkRMZWIzZEU2VWNQeENiZFlLSzdia0FLbWN3ZVBWaVdIYWVVYlZ0dmtpdkdPeVdOVl96amc?oc=5",
-   "data": "2026-11-16T08:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Após busto, Bruno Henrique mira o 19º título pelo Flamengo no fim do Brasileiro: \"Dar a vida nesses jogos\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/16/apos-busto-bruno-henrique-mira-o-19o-titulo-pelo-flamengo-no-fim-do-brasileiro-dar-a-vida-nesses-jogos.ghtml",
-   "data": "2026-11-16T06:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo inaugura bustos de Arrascaeta e Bruno Henrique e Bap já pensa em novas homenagens O dia de homenagem já ficou para trás. Após a inauguração de seus bustos, Arrascaeta e Bruno Henrique já viraram o foco para a r…"
   }
  ]
 }
