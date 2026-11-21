@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-21T12:57:04.334999+00:00",
+ "atualizadoEm": "2026-11-21T20:01:32.378690+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 47
+   "itens": 50
   },
   {
    "id": "colunadofla",
@@ -23,31 +23,311 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 62
+   "itens": 63
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 88
+   "itens": 86
   }
  ],
  "itens": [
   {
-   "titulo": "Carrascal vai de vilão contra Palmeiras a brilho em reta final no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYTlnZElWMVBUR2ZaWmpKVzBISWM1NzFqUFZIbWRDYmxreWZIaGQ0LWh0ZXZzZThCaEJQcV9kVlRyMVVuOFRkb1BfOW1EVXBvVWYzN3JlMUIxQjNUN1NGNktPd01VUzJXYU1SckZlb19zODl1MHd5TlpPVHVpOG9OTU52Vmk3a3hBcmg0RFA5Z2lTcElxeUktNTB4Y0xNOXVDTGh2YWtSS2wyWmplcUp5Y080YmtkN3VjSU1YRURIeGdWb1lmaGhLZHNtRms2RzFLOHl4ZG45WmpfWEZoS3Fz?oc=5",
-   "data": "2026-11-21T12:16:42+00:00",
+   "titulo": "Flamengo comete gafe e vaza camisa com provocação a Abel sobre título do Brasileirão: '10 frutem'",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaU43OWh1bkMyb3RxU1RSa0V0SmJlNDJFVzdUNVhyR0FFMlp3RXdaRUx3czA2Q0wwTHEwSlcxT2J6VUFwVG0tZGxNYTlkUkFIcm1BZThhXzRSY3M3S3NiaS1qYmpMbHZnNkJhekRVNVE0dk5QUUxxekNMLVpOenpySVVoUUNMZHJkeElOam4tTVk2eUxJd3BkcTRMczNmM1R1YS1fRDhxamthYnZ3U05xN0pkc1dzVzFjaFBGT202azAyb0cxbWw2dEJVNlkxMDVoNXVpLTd0amdBUjA?oc=5",
+   "data": "2026-11-21T20:00:20+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamenguista infiltrado é hostilizado ao vivo por palmeirense antes de jogo",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV1N0dHVFUWtCZGxMbEtwU1QyLXRUTlhCSzhHX3Jodm5JM18yYWVQV3VhN3RCS25ldlVUbkJSMFY3eVpscDlfbk9zODVRb2FsWmRXeXNadll6LWtncmdnR1FsYUU4WGd6MktXMzkxVVY3T216Z2wxZWxwblhNR2dITGRLbk1RcFdBSjFOWkxBRmJuODU2ZUw4UnlKcWxQSXR5WnJHbDFHUmhBSjdPQzlEMXRURmwwanJoQlViVlVrbW1CN01UMUVqSnRYb3M4cFNjcElZX0Q2LW9JV0Z6aUZoNg?oc=5",
+   "data": "2026-11-21T19:48:35+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Paquetá ou Saúl no Flamengo? Flaco López ou Vitor Roque no Palmeiras? As prováveis escalações para jogo do Brasileirão hoje",
-   "link": "https://colunadofla.com/2026/11/paqueta-ou-saul-no-flamengo-flaco-lopez-ou-vitor-roque-no-palmeiras-as-provaveis-escalacoes-para-jogo-do-brasileirao-hoje/",
-   "data": "2026-11-21T12:05:53+00:00",
+   "titulo": "Veja gol em Palmeiras x Flamengo: Arias abre o placar",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUw5WjVvYU51S044RUNYMlh4cTRSVVlhNkJQV0dKVW81WmxEZTRaOGdTNGJPUG1melRjd0pRX05zcGRxMGNDT3MwS3JRZWI0eHFsWm4yVlgzanBldHJEYjJiaXVmVkxxUnhEU3lpc3B3RUFYVUZSR05UN29ET3NMelVYNDlVY0R1TFJKcTlnUi13OTV5bU9nQkxlS1hJdw?oc=5",
+   "data": "2026-11-21T19:46:05+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "AO VIVO: assista a Palmeiras x Flamengo com o Coluna do Fla",
+   "link": "https://colunadofla.com/2026/11/ao-vivo-assista-a-palmeiras-x-flamengo-com-o-coluna-do-fla-10/",
+   "data": "2026-11-21T19:30:33+00:00",
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
-   "resumo": "Flamengo precisa de um empate no Nubank Parque para ser campeão; veja os times prováveis de Flamengo e Palmeiras Flamengo e Palmeiras se enfrentam neste sábado (21), às 16h30 (horário de Brasília), no Nubank Parque, em…"
+   "resumo": "Flamengo e Palmeiras se enfrentam a partir das 16h30 deste sábado (21) O Flamengo entra em campo na tarde deste sábado (21), quando enfrenta o Palmeiras, pela 36ª rodada do Campeonato Brasileiro. Neste ínterim, para a p…"
+  },
+  {
+   "titulo": "Palmeiras x Flamengo (21 de nov, 2026) Estatísticas dos times",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWEdub0xRQllWRExCdXdEVlQ0QTd3MWtYVVZZQnh3eG41aUF5QVpuN2hoNUFCbGVYNjAwXzFCRzd0Mkd1a1VqVVpNRE1iNlZzZEVsSWtELXBLNEV4Z0FJMHZ6UkR6V2loQjFNalY3RUJQTmNLNnAzNUdoNmxKYkozOXBfUDJlVEFiQ3c?oc=5",
+   "data": "2026-11-21T19:28:17+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Narrador do Nubank Parque provoca Flamengo antes de decisão contra Palmeiras; veja vídeo",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZEdlMjZRb3FFT2ZxMGw2WDBRNWR4Q0dldzVma3pfTkk5NVdHWkRiMFdqdk9oempuTFNVNkdLc2RpbWN0UjdISThHRUFHXzk4RFBBN3hLRXZ2Y0cyNXdZVm1RVTI1MmJISnNGMDdjOHZRNnFNSWVCdTc0RE5Sa1ZQTHNSMzRiVi1Va011WFR6UWY3dVNmRVN4ek9ybUhVcDE4QkxLMVVpeGd1MEg0OS1TeElTSFdXM3N5ZnRaMnhtcENsQ3FLYVkzYzdmZw?oc=5",
+   "data": "2026-11-21T19:21:16+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras x Flamengo: comente o jogo aqui!",
+   "link": "https://colunadofla.com/2026/11/palmeiras-x-flamengo-comente-o-jogo-aqui/",
+   "data": "2026-11-21T19:19:20+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo enfrenta o Palmeiras no Nubank Parque, e pode ser campeão brasileiro O Flamengo enfrenta o Palmeiras neste sábado (21), pela 36ª rodada do Campeonato Brasileiro. A bola rola às 16h30 (horário de Brasília), no N…"
+  },
+  {
+   "titulo": "Palmeiras x Flamengo: onde assistir ao vivo e escalações do jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMlNqeUxsV0FvWEtvZngwTW9PSGdGX1BTZ3BYMXpGZGZYdW42U05ZLUFzOEoyMWpSNmM0MmxoVGJYejI0Q3Z4X1dkTUx6Z216NnRGanRYVHFqUGZnLU9icHdaSzVUdVp0SVF3dkczNEpmYTlOUmtma0tNX29fS3BRMFFUd1F2X1RreHBMS2VRN2ZBWGVhZWw1X0ZMZy1fWW5pLXY2R09ab1ZEbk5LSUF3WUdJNEZhR3JOWFpibUhWNFVJTXYwRkNUNlpUeS1WcThX?oc=5",
+   "data": "2026-11-21T19:16:11+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Pintou o campeão? IA crava vencedor e placar de Palmeiras x Flamengo, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/11/pintou-o-campeao-ia-crava-vencedor-e-placar-de-palmeiras-x-flamengo-pelo-brasileirao/",
+   "data": "2026-11-21T19:11:51+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Palpite aponta vitória do Flamengo por 2 a 1 e título no Nubank Parque O palpite de uma Inteligência Artificial do Google, o Gemini, é de vitória do Flamengo por 2 a 1 sobre o Palmeiras, neste sábado (21), pela 36ª roda…"
+  },
+  {
+   "titulo": "Ex-Flamengo marca e City segue em crise na Premier League",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVllMcGRaY2dnUF9QcTFZVWhxRHhUYUlIUm12NFJXd2M1bkROMThpdGd2TXJjaE0zdGhXT2VZdGJaenVITTlScTYxYkJHYWNQVHRPT1JUUm1KUERBblFoSnFQLVZVWEFYMWhkVHpGRnFuR1ROeGpPN2tpWHRoSW0ycXpLc0xoY2dhN2Y0WnlBRmtSZnJzN05laEZwcENHWHN4bTR2Tm5jdFIwNzNKdGZvaVU2eno2VFRfNWpIamJxSzFPN3RE?oc=5",
+   "data": "2026-11-21T19:09:58+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "'Rumo a Montevidéu': Palmeiras provoca Flamengo com final da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc0hlVk1pUS14Y3hjMVZvSnhBcHFZam41Z1pOQXViQVg3LWZzaDhpUDJLUlRtLXNhVjc1WEVKdDRlcHlfemdRQmZ4cV91Mmx3UnR4d1RtOEQxa0NZODFaU3FuVEt6dFU2MVhVeVd6Nm51a09Na21ma25aOUZpNGU5ZUNJMWZzWkgtWkRzVzZQdk1sM2FUcllINGtNbDZobTBMdC1mcDB5MmU3aUFkTVlXekhldGU0M2VhM1pKeWJRYjlwWGI3My1EMmwzQnFRb19pT1BGMmVkNGFRZw?oc=5",
+   "data": "2026-11-21T19:08:31+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo comete gafe e vaza camisa de título com provocação a Abel Ferreira",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOFRFelBYWHZvTmdQbE9MQnBpbEhqS3hCN2Etb2pjeE9SUUF1Q2xNLWdLZXhqbHRDSVVRUXRpdHRlVnlWU284allmQU95LVUxSXFnbF82OXVrRlh2WHpMT3RLQzRJYnNHYUJxTVN5WG5SUjN5MlhUUFdyS2xPQ21oLTZsTm5sSjljZ1pCV0k0X2JCcFRCcGZQbW51TDZXbjlXSzdxaUNGb0VFMjB1ZVBYaXRMRFpUR0lwV2x2RTZSUVdfV21MQXVBaU5MU2YyazR0akFDRUV0LUYzSHVZQktv?oc=5",
+   "data": "2026-11-21T18:46:37+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras define escalação para jogo contra o Flamengo, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/11/palmeiras-define-escalacao-para-jogo-contra-o-flamengo-pelo-brasileirao-5/",
+   "data": "2026-11-21T18:43:47+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Abel Ferreira escala o time com Gustavo Gómez e Mauricio O Palmeiras definiu a escalação para o jogo contra o Flamengo, neste sábado (21), pela 36ª rodada do Campeonato Brasileiro. A bola rola às 16h30 (horário de Brasí…"
+  },
+  {
+   "titulo": "Jardim cutuca Abel Ferreira antes de Palmeiras x Flamengo: \"Os adversários se vitimizam\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/21/jardim-cutuca-abel-ferreira-antes-de-palmeiras-x-flamengo-os-adversarios-se-vitimizam.ghtml",
+   "data": "2026-11-21T18:43:20+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Jardim rebate Abel Ferreira sobre título 'entregue': \"No futebol é muito blá-blá\" Leonardo Jardim não comprou o discurso de Abel Ferreira, que jogou a toalha no Campeonato Brasileiro, após a derrota do Palmeiras para o…"
+  },
+  {
+   "titulo": "Abel escala Palmeiras misto em 'decisão' contra o Flamengo; veja times",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjVuWlFXTmlyNGkyOTVWTWxuQm5NZXJSS1c0OHZrRTFkaXZPZlJIc1JOaXVtUUF6T0N4eXI0c2lXZjFmQnJfVDJMREdWa2RmSVRvVUx6M2paSmk4RjFycTZpVHozNmVmYVdEYXJGdlo4SXNGZjZjYnVsRDdjYjVvWnNmTnRsTkdyWTlXXzdpSWZwNnRiWDF5M0U4aWhfZmhuczNjTGJwY0VZVnY5UUx0cG9ZRDJyczE4MG1HNkVPYzVBVEU?oc=5",
+   "data": "2026-11-21T18:37:01+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeiras x Flamengo: escalações confirmadas e onde assistir",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb24yMnlyRkNFREU4T2hhNjcyZG52cm5NbWI2MWVXQWZIdldWOTdrY0U1cjhOU1RPZC1RZnRITkdiWmlhR3lEYW1VMTkxN3ZYTzdvQ25xY3Z2cGN2RW9IcjYySWM0NkxxWDFvRFBELW5uZVlqaVJER1oxNkV0MDRBczdoRjFjWnVudXJUek5Mb2MzMEVvWGVyOFA1b3BWMjVB?oc=5",
+   "data": "2026-11-21T18:36:30+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "SAIU! Com Plata e Paquetá titulares, Flamengo divulga escalação para contra o Palmeiras, pelo Brasileirão",
+   "link": "https://colunadofla.com/2026/11/saiu-com-plata-e-paqueta-titulares-flamengo-divulga-escalacao-para-contra-o-palmeiras-pelo-brasileirao/",
+   "data": "2026-11-21T18:31:59+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Leonardo Jardim escala o time com Danilo, Lucas Paquetá e Gonzalo Plata O Flamengo divulgou a escalação para o jogo contra o Palmeiras, neste sábado (21), pela 36ª rodada do Campeonato Brasileiro. A bola rola às 16h30 (…"
+  },
+  {
+   "titulo": "Com Carrascal no banco, veja a escalação do Flamengo para enfrentar o Palmeiras",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/21/veja-a-escalacao-do-flamengo-para-enfrentar-o-palmeiras.ghtml",
+   "data": "2026-11-21T18:30:25+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Freguês? Torcida do Flamengo manda recadinho para Abel antes do jogo O Flamengo está escalado para enfrentar o Palmeiras neste sábado, às 16h30 (de Brasília), no Nubank Parque. O jogo pode valer o título para o time rub…"
+  },
+  {
+   "titulo": "Flamengo divulga camisa de campeão antes de enfrentar o Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORVY4cm1BSWxLWVVpWDRDWmZyR3htS2VIOWJzNXNSOTFENHB6NTJMQ3VVcG1aTnl6RmpaOVlKenQ3a2NzVUx1cnVCa1UtSkFVakg3N1pyalZjUjRaLXhEMmstUjVwZU1Mc2VyWnV6MTEtSm5vMmJQaUFDMmZIak9CSFNiRjM4MEFpWllsRHlqNFdTTU5UVkwtSDM3TDBJbWVSc19Va2F1aGw5ZTNVdnpoQjFleFluSkNKV21MMUpBd2xlMVBNcHc?oc=5",
+   "data": "2026-11-21T18:22:09+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Transmissão ao vivo de Palmeiras x Flamengo pelo Brasileirão: veja onde assistir",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGxqb3d0cWVGajItRkRrSjgzZnNJLW1mT1I5V1V6NjhRd3Z0LW1pSUNSSzVmYmhPZnd3Z3hvazN1c001WFFCWk9PR1JrUTFPcjE3N2dTREY0ZmZmeFRlX21fTm04NURlVUx1QmlPREJQRXpmZVJkejBmN05JX09KNjQ1QmROaklhcE9uVWJaNEs0WEtNWm9EWTJfSm0wZjVIOWxpNHZvXzdkVllSbW5KLTJnOTZETHI0TWFlM09nLUJxbUMzbmlGU3lURllIMXAxdWtUTmNlNXN3eWs?oc=5",
+   "data": "2026-11-21T18:00:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Antigo alvo do Flamengo faz dois, Leeds goleia Chelsea e quebra jejum de 27 anos na Premier League",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRGd3ZHdNQ1c0STJFZ0tCTDN6cjFRQ3RxbjYxbmVlclV2NUs4M19LeHZxeW42X3c5WXNWUmJEZkNDZmhrLW9TSnBicjg5eU40WkpNVjhXZkV6WUlhbi01RjNscjBwbDd6TE1jZ1djRDFLNW4wbF9NMjhDaTlwN0JaNEdmOS1UbENqb0lkYzhFb3JfR3dycmF6eEJXY1h5ZFYtNDl5VlViS1gtRjFQQzZzRVppZE9YVERGUlF0ZDQ2SjRfZ2tVdW9FYkRPV2w4clpMOGJWUS1oUW13MU53R2VHU3VNdjFhSjhpRVE?oc=5",
+   "data": "2026-11-21T17:58:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Torcedor do Palmeiras invade entrevista, agride rubro-negro e atrapalha repórter ao vivo",
+   "link": "https://colunadofla.com/2026/11/torcedor-do-palmeiras-invade-entrevista-agride-rubro-negro-e-atrapalha-reporter-ao-vivo/",
+   "data": "2026-11-21T17:44:53+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamenguista mostrou a tatuagem do clube em entrevista ao Globo Esporte, e palmeirense reagiu com empurrões Uma confusão tomou conta de uma entrada ao vivo da Globo, no entorno do Nubank Parque, antes de Palmeiras x Fla…"
+  },
+  {
+   "titulo": "Leeds goleia o Chelsea de virada com direito a dois gols de antigo alvo do Flamengo; veja como foi",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oTDZBTjVyYl9oVXdBU21OS2lJYkMtRjMtNVRLUFRTTXg1eTRwdXB0aHJZLWZsZ01MaFFVelMwUW9sRERCR1VKWm4wbGRGRTZMMk1KSWQxUjFiejlmNWc?oc=5",
+   "data": "2026-11-21T17:39:05+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Palmeirenses hostilizam torcedor do Flamengo e repórter da Globo",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDZMcWQtVHhDN1lBUDRpUTBEQXVwRW1uTWVXdzhLcGNTSWpLNlNtcWVpWVBEMXVCcFN1djBFTGcwdDVtYkgwWTdGeE5wR2lZYWh3RmhYdk9wb2xPNkpseUlsOWdaa3VFa2ZLWHdDMTJaT2E2am9HbHkxVEFwNzZ4MzlvQ3dyaEV6MzVIMmlNbnFSYndHN2tDcmh1VzBDaW05X2ZUYXI1Zmw3d2ROUWxyV3pYcUtvb3pWa2c?oc=5",
+   "data": "2026-11-21T17:38:38+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Brasileirão: que horas é o jogo do Flamengo hoje?",
+   "link": "https://colunadofla.com/2026/11/brasileirao-que-horas-e-o-jogo-do-flamengo-hoje/",
+   "data": "2026-11-21T17:23:44+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Flamengo precisa apenas de um empate para ser campeão brasileiro neste sábado (21) O Flamengo enfrenta o Palmeiras neste sábado (21), às 16h30 (horário de Brasília), no Nubank Parque, em São Paulo, pela 36ª rodada do Ca…"
+  },
+  {
+   "titulo": "Torcedor do Flamengo mostra tatuagem em entrevista ao vivo e provoca confusão com palmeirense",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTFJNlp3QUhMYmJfSjVGeDBsY0ZteWIwZ3BEeUVlZ0twODg5WXkyVFNjUTNyaDR5RGdzMF8zZHN6UVktNUxBOXZTQlBSQk5IR21LZkF5RGpOakVQWms0S2tmLXFzY21TRnM4eGlBVVNNdTVudU1jU1pTcDZkaExOdXVTaDBnaklUZ1R1dTZGZ2x3cTZTd3RkS3p2MktlTV9IZkRjZmZNOWswaWcyLXhWSm1xU0RhV2RtZWNzSHNQcGxnb05SaDlyQ2o5QmttYzhsZHZKbmJtcFRINVBOV3c?oc=5",
+   "data": "2026-11-21T17:07:44+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "AO VIVO: acompanhe a decisão entre Palmeiras e Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3QxWi1ialJBUFRiajRPOVAzUlFrSnBFZ3gycUNFUjh2T2NpdGtyU19JWFZvMFhUdXhfODB1TVNJX0pkV0JoZFRvcDl1cE9UV2t1REJmODRmNGsxZVFNZndwb3JUTm1SY1NFUW80QmQ4MnJaclRUUUNJSlhPMTdZYkN0QUNSMFJrQTlXUDNJSmNhTmVTajR6TkZUa0FIcGIxQ3FZ?oc=5",
+   "data": "2026-11-21T16:58:57+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Tempo Real | Palmeiras x Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUm9OQmVzaXhVeURWcVRaaGdYNFZkQ2l1dHp1YllZY29UVUxRbmQxaVlFWGFQb2NPVERmWHg4ekVIUmozZlB1dEE2Mkt5aDhyU1dqY0J1OHRobjNlV21uN2kybWdXTEVfT0R0U1daVUVVb0ZhZURYYnBpWEdSeGJ4MmtJQi1oUktaOTZnRC1ER2gzOGVWZG1jbzNZVnRXdw?oc=5",
+   "data": "2026-11-21T16:55:35+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Jogos do Brasileirão hoje: Palmeiras x Flamengo e outras 2 partidas agitam sábado que pode definir campeão",
+   "link": "https://colunadofla.com/2026/11/jogos-do-brasileirao-hoje-palmeiras-x-flamengo-e-outras-2-partidas-agitam-sabado-que-pode-definir-campeao/",
+   "data": "2026-11-21T16:26:52+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Três partidas abrem a 36ª rodada neste sábado (21), com destaque para duelo que pode definir o campeão do Brasileirão O sábado (21) será de futebol pelo Brasileirão. Três partidas movimentam a 36ª rodada, com Palmeiras…"
+  },
+  {
+   "titulo": "Ex-Flamengo marca, City tropeça e pode ver Arsenal disparar na liderança da Premier League",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjN2ZTFiMDJaS2VURWpkZThHQld2QlAzVkNUT21Mb1ZSVnZIVHI5RXdlalFIV3R1ejBPTmFUYTlqbF84MzQzSWJqUks2YmZxOTh3NlJwVkd0eTBaUjhzZDRlNGdwMS14OVRKMEl1eWY1QVVfNXBrREZoYVBPZ1YwUXM0VGl5NEljZE5fOFNvZ2RUaFVxUjFGaFJzdm5oeVdhZjYtZl90QmtTTlZBSGpGVXFjbjNBeHdoQVNYdldYRlp1aTA4ZHNxSF9vUHJWc1NhZ3M5NDBKZmZNWC1lTGc?oc=5",
+   "data": "2026-11-21T15:29:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Globo vai transmitir Palmeiras x Flamengo hoje? Confira onde assistir",
+   "link": "https://colunadofla.com/2026/11/globo-vai-transmitir-palmeiras-x-flamengo-hoje-confira-onde-assistir/",
+   "data": "2026-11-21T15:13:40+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Palmeiras x Flamengo acontece no Nubank Parque, neste sábado (21) A Globo transmite Palmeiras x Flamengo neste sábado (21), em uma partida que pode entrar para a história do clube rubro-negro. A bola rola às 16h30 (horá…"
+  },
+  {
+   "titulo": "Flamengo pode conquistar o Brasileirão diante do Palmeiras com marca inédita",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHdiNWJsVDlVXzd1dmkwZTcyS0ZZYXNqYUFVQUJSSXo0QUNkSjljaGo1UVVzYk1SUTdESWRZWEhmRlp6WWRJZlctM2NpSG80S3RHaW9pY0tFLUZCbjktZjdpWEJibG5kenp4QXdkdFV4QlBXRmRmWjd2YUt3b2FLdlBEZFRkRU5PcnlfWExJRW1jdlYwZGhNZjlIWEhwUkkwWGZpNTUtaGtnOVo3VGR4WkoyR1M?oc=5",
+   "data": "2026-11-21T15:04:50+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Explosão e calmaria: Abel e Jardim protagonizam duelo de temperamentos em Palmeiras x Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbklRR3BYT0RXWFMzUVh6RWNCQllzV29oYjNfUGZVYW80ZnYwT0NURmx3Wkd5Vk5FTUY3SnhwSlVTcUFkdnI1QW9YX0t4dGJIOEx1S3V2V09HT2tPemJuOVFFN0VjUm0xYzZUdnpYYkN0aEkyR29BXzRROWp5YnFGLTljLWZrczZjWGZxVTVkZXFnbHlhMm01NEpjTnhrZF8zam1ab3d2bDhwWFM5WkNJaXY1aHdkdk95dVNTem1oR0x0N3NFQUgzeHZ0X3BnbzBiejRFOTA2Zw?oc=5",
+   "data": "2026-11-21T15:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Nota oficial – veto no Nubank Park",
+   "link": "https://colunadofla.com/2026/11/nota-oficial-veto-no-nubank-park/",
+   "data": "2026-11-21T14:54:27+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Repudiamos o veto em nota oficial e prometemos cobertura em meio aos torcedores, direto de São Paulo Palmeiras e Flamengo se enfrentam neste sábado (21), às 16h30 (horário de Brasília), no Nubank Parque, em São Paulo, p…"
+  },
+  {
+   "titulo": "Carrascal vai de vilão contra Palmeiras a brilho em reta final no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYTlnZElWMVBUR2ZaWmpKVzBISWM1NzFqUFZIbWRDYmxreWZIaGQ0LWh0ZXZzZThCaEJQcV9kVlRyMVVuOFRkb1BfOW1EVXBvVWYzN3JlMUIxQjNUN1NGNktPd01VUzJXYU1SckZlb19zODl1MHd5TlpPVHVpOG9OTU52Vmk3a3hBcmg0RFA5Z2lTcElxeUktNTB4Y0xNOXVDTGh2YWtSS2wyWmplcUp5Y080YmtkN3VjSU1YRURIeGdWb1lmaGhLZHNtRms2RzFLOHl4ZG45WmpfWEZoS3Fz?oc=5",
+   "data": "2026-11-21T13:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "'Grosseria não gera gentileza': a guerra fria de Palmeiras e Fla pelo poder",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUzhpaW5hSUMxOTk5N1pqeTJEN3Y1d0VLWUlWTWZtQWd1ZlNObk1fWDB1SFhQVE5TZjlZSHNPZmY1aC1xenI4enh2TkdLSjBYeWJ3aUxFWjNxeTBlYjFCSnMxMnhRVHNQNVdoNHZ1T3JUUGVHZ0JWdUkxMkl0UFlWd09LMnk0T2ZJZ2tRNG9IanZNcUhlUVFtR3VveUszcEdSSnlvVG5ZVVRBQWxYUGV2czFub0J4TXpwVnJrMFdHQkpzR1QwN0xzYzBtSzJfSzA2SjI5bG5veHA?oc=5",
+   "data": "2026-11-21T13:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo e Palmeiras fazem \"final\" em Brasileirão de domínio sobre concorrentes",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/21/flamengo-e-palmeiras-fazem-final-em-brasileirao-de-dominio-sobre-concorrentes.ghtml",
+   "data": "2026-11-21T13:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Marcello Neves traz bastidores e novidades do Flamengo antes de enfrentar o Palmeiras Mesmo que o Flamengo já seja o virtual campeão brasileiro, a \"final\" contra o Palmeiras, neste sábado, no Nubank Parque, é simbólica…"
   },
   {
    "titulo": "Jogo do Flamengo hoje (21) pelo Brasileirão: onde assistir ao vivo",
@@ -90,14 +370,6 @@
    "resumo": "Marcello Neves traz bastidores e novidades do Flamengo antes de enfrentar o Palmeiras Mais do que uma final de Campeonato Brasileiro, o duelo entre Flamengo e Palmeiras, neste sábado, no Nubank Parque, coloca frente a f…"
   },
   {
-   "titulo": "Flamengo perde 2 titulares para jogo de hoje, contra o Palmeiras; veja desfalques e pendurados",
-   "link": "https://colunadofla.com/2026/11/flamengo-perde-2-titulares-para-jogo-de-hoje-contra-o-palmeiras-veja-desfalques-e-pendurados/",
-   "data": "2026-11-21T10:39:21+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro tem três baixas confirmadas para confronto que pode garantir o decacampeonato brasileiro O Flamengo enfrenta o Palmeiras neste sábado (21), às 16h30 (horário de Brasília), no Nubank Parque, em São Paulo, pel…"
-  },
-  {
    "titulo": "Flamengo enfrenta Palmeiras pelo título brasileiro após temporada de reviravoltas",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaEFWNldfLW0wZ08tMXJmTHFlVXhtcGtPQWUtaDdoX25mNXRldDRTVGc5QjVoZ3NPU2FlU0ZraV9OMDN3VFJkaUNCZ0RReF82VDdVamVDM1NwWlY1NXBoX2xMOGswakxONlNhX3FWUlRQS2xWRXlxLUVORlF4Z0tVSUlNRFRDMThnYzNYQTlUY180TUZWY29UVW9RTU1qMUR1XzF2ckM5aU52c3hUY1VGeVBNRmFXSkdQS2lNU0FCejAwYmc3ZWpQZmJESQ?oc=5",
    "data": "2026-11-21T10:30:00+00:00",
@@ -112,14 +384,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Jogo ao vivo, escalações e desfalques: saiba tudo sobre Palmeiras x Flamengo, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/11/jogo-ao-vivo-escalacoes-e-desfalques-saiba-tudo-sobre-palmeiras-x-flamengo-pelo-brasileirao/",
-   "data": "2026-11-21T10:02:21+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Rubro-Negro precisa de um empate para conquistar o decacampeonato brasileiro O Flamengo enfrenta o Palmeiras neste sábado (21), pela 36ª rodada do Campeonato Brasileiro. A bola rola às 16h30 (horário de Brasília), no Nu…"
   },
   {
    "titulo": "Como o Flamengo tirou oito pontos de vantagem do Palmeiras",
@@ -146,16 +410,16 @@
    "resumo": "Marcello Neves traz bastidores e novidades do Flamengo antes de enfrentar o Palmeiras Existe um tempero especial no confronto entre Palmeiras e Flamengo, neste sábado, no Nubank Parque. O clube rubro-negro pode garantir…"
   },
   {
-   "titulo": "Por que Palmeiras x Flamengo será no sábado?",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDRBcEcwWjcycndkT0ppQzdrUWZBdVNaR2I1TVBja1RfdTN2V1JkTHFMSVAxS1pTdnU3dmNQRnJtYXE3aFpwcm5MZzZiRGlZRHVWRGRsRS1jVnlnRVMwYU9TQVk3eUxLai1wV2taUlExd1VyZ3V2T1ktNVBlS0d3eUh2Z215dkdmUUhHaV9iTkp5LU5P?oc=5",
+   "titulo": "Palmeiras x Flamengo: jogo do ano reúne gigantes e pode definir o título",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSzlHOE9ZWUhmd3JDdEdRdTcyVUZfMjhlbmR3d1oxUmpTLTNfUExDbmNzZlZfUXRJdlhxSkdqemliUTliY2pfa3h3b053ODVxT2I3V2xmYm1SdlJpQUlPVVpnQ3QzWUNtZHZNSFZLNnNKZUtrOGkxdHZ4bV9XNkxIQ1d3YmZac2dCTzY5R1p0OWhaajJOUEM0LWN1S0JjSDJyclQxSmxVeXZycTRfdER1aGVPeWVmZTQtSGFwTVgyaXU1SmV1VUlubzZxXzlpUUswckZnN1R1Q1ZZUQ?oc=5",
    "data": "2026-11-21T09:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
   },
   {
-   "titulo": "Palmeiras x Flamengo: jogo do ano reúne gigantes e pode definir o título",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSzlHOE9ZWUhmd3JDdEdRdTcyVUZfMjhlbmR3d1oxUmpTLTNfUExDbmNzZlZfUXRJdlhxSkdqemliUTliY2pfa3h3b053ODVxT2I3V2xmYm1SdlJpQUlPVVpnQ3QzWUNtZHZNSFZLNnNKZUtrOGkxdHZ4bV9XNkxIQ1d3YmZac2dCTzY5R1p0OWhaajJOUEM0LWN1S0JjSDJyclQxSmxVeXZycTRfdER1aGVPeWVmZTQtSGFwTVgyaXU1SmV1VUlubzZxXzlpUUswckZnN1R1Q1ZZUQ?oc=5",
+   "titulo": "Por que Palmeiras x Flamengo será no sábado?",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDRBcEcwWjcycndkT0ppQzdrUWZBdVNaR2I1TVBja1RfdTN2V1JkTHFMSVAxS1pTdnU3dmNQRnJtYXE3aFpwcm5MZzZiRGlZRHVWRGRsRS1jVnlnRVMwYU9TQVk3eUxLai1wV2taUlExd1VyZ3V2T1ktNVBlS0d3eUh2Z215dkdmUUhHaV9iTkp5LU5P?oc=5",
    "data": "2026-11-21T09:00:00+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
@@ -178,8 +442,8 @@
    "resumo": ""
   },
   {
-   "titulo": "'Grosseria não gera gentileza': a guerra fria de Palmeiras e Fla pelo poder",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUzhpaW5hSUMxOTk5N1pqeTJEN3Y1d0VLWUlWTWZtQWd1ZlNObk1fWDB1SFhQVE5TZjlZSHNPZmY1aC1xenI4enh2TkdLSjBYeWJ3aUxFWjNxeTBlYjFCSnMxMnhRVHNQNVdoNHZ1T3JUUGVHZ0JWdUkxMkl0UFlWd09LMnk0T2ZJZ2tRNG9IanZNcUhlUVFtR3VveUszcEdSSnlvVG5ZVVRBQWxYUGV2czFub0J4TXpwVnJrMFdHQkpzR1QwN0xzYzBtSzJfSzA2SjI5bG5veHA?oc=5",
+   "titulo": "Palmeiras x Flamengo: horário e onde assistir ao jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY0dIQ05wdjNVRm95Yzh2MTYyai1HZHMtcDRFT2E1amlOR3hRVmdzWVpEc1ktZWpOWlhQdGdJeXNYX0d2UUpWYVg5RFRTMFdRZV9XQUZjS2V0bmJ2MS00SXJHcnFwS1RHN2JqRTFrVDN3YUpOUTF5ZWQ0TXYzWGxpaWMxcDBQR3JKcWQzSllpVEF1QVZSc2hidDVPWHJ0NC1aQTAweDkwTE14dHdRRWR0Qk90M25pRXEwNExPMW84NGlRbWdUd0ZJZlB1NA?oc=5",
    "data": "2026-11-21T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -234,20 +498,12 @@
    "resumo": ""
   },
   {
-   "titulo": "Brasil estreia na Copa do Mundo Sub-17 neste sábado; 3 jogadores do Flamengo estão na competição",
-   "link": "https://colunadofla.com/2026/11/brasil-estreia-na-copa-do-mundo-sub-17-neste-sabado-3-jogadores-do-flamengo-estao-na-competicao/",
-   "data": "2026-11-21T01:58:45+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Brasil busca o pentacampeonato na categoria A Seleção Brasileira estreia neste sábado (21), contra a Irlanda, na Copa do Mundo Sub-17. A partida acontece a partir do meio-dia (horário de Brasília). Para buscar o pentaca…"
-  },
-  {
-   "titulo": "“Só quem joga aqui entende”: Danilo, do Flamengo, desabafa sobre o Brasileirão",
-   "link": "https://colunadofla.com/2026/11/so-quem-joga-aqui-entende-danilo-do-flamengo-desabafa-sobre-o-brasileirao/",
-   "data": "2026-11-21T01:30:12+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Zagueiro do Flamengo concedeu entrevista à imprensa de Portugal Autor do gol do tetracampeonato da Libertadores, Danilo pode ganhar o segundo Brasileirão pelo Flamengo neste sábado (21), contra o Palmeiras. Para chegar…"
+   "titulo": "Pai que perdeu filha em Palmeiras x Fla: 'Não consigo mais ir ao estádio'",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdmJROURleGVJTnhQbHRUMHZfdW1aSUE4WW1iV3VyMElaX1ZTS3JmMms0SFRXd1ZEUk9GZjBtbnBTN3ltYzlSM1pMUWJRUFhLTlpPYmV3cmpEdndCWjc0T3ZPSzFNTDhTaVJZT3RmTmU4TnVsbUZhZGpTUnpFd2x4T0VNYTNDTnk1Ymh0VUlqdWdXRFJlNnFRQVd3YnBxUU11T191X3p3VDZHYndkSmVoU1lQNHZ6Vk42Zkg5NkZyd1F4cVM0b0hycVpzM0lFMnBacHFFZnJZcw?oc=5",
+   "data": "2026-11-21T02:18:57+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "Classificação do segundo turno: Santos empata com Palmeiras; Corinthians deixa lanterna",
@@ -258,44 +514,12 @@
    "resumo": "Coritiba 0 x 1 Santos | Melhores Momentos | 35ª rodada | Brasileirão 2026 O Flamengo segue na liderança da classificação do returno do Brasileirão, agora com 39 pontos em 48 disputados, após a vitória de virada sobre o…"
   },
   {
-   "titulo": "Arrascaeta revela segredo da virada do Flamengo contra o Athletico-PR, pelo Brasileirão",
-   "link": "https://colunadofla.com/2026/11/arrascaeta-revela-segredo-da-virada-do-flamengo-contra-o-athletico-pr-pelo-brasileirao/",
-   "data": "2026-11-21T00:44:26+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Arrascaeta exaltou a atuação da torcida na última quarta-feira (18) A Nação deu um verdadeiro show no Maracanã na virada do Flamengo por 2 a 1 sobre o Athletico-PR, no Maracanã. Para Arrascaeta, a torcida foi fundamenta…"
-  },
-  {
-   "titulo": "Ídolo do Botafogo conta bastidores de negociação com o Flamengo",
-   "link": "https://colunadofla.com/2026/11/idolo-do-botafogo-conta-bastidores-de-negociacao-com-o-flamengo/",
-   "data": "2026-11-20T23:59:34+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Luiz Henrique, campeão da Libertadores com o Botafogo, contou que negociou com o Flamengo Na última janela de transferências, o Flamengo tentou contratar um nome ‘de peso’. Depois das negociações frustradas com Thiago A…"
-  },
-  {
-   "titulo": "Ônibus do Flamengo não passa por AeroFla e frustra torcedores",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTZRdlJqQjkzVWNPdHNHcFA4SDZ3RlY5LUt0VldPNFBKWW5FUGpmX000YWM1b015WUpaN21pSVdwT0djQ3VMWDFOWVlySG52ZFR1U1dTd2REQzN0S1BHckN6S1JmcUlXVUM3cG9iZDJHVW1NajBHZFN3UGdLOEROS3U3QmczVGhlMnkxZXpDTHBlRzNVeTgzVDF0NnNtZ2oybGozSF9rbFhNSzNoQ0dUdUYxMHItNkRUMWwza2ZRUmZ4WVU3clY3YkdiNVdVUQ?oc=5",
-   "data": "2026-11-20T23:49:23+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "AeroFla reúne torcedores antes de jogo com Palmeiras e tem críticas à diretoria do Flamengo",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YSkw4bWhyZEVJNDBDZUVpbnp6MV9BRW81OWpLOHgxaHZuTFJHU3I4UkhRT20xQUZYcFJHUFBfWlRIb0x6X1R0QUczZnZOeU8zTzlsOC1SUXA1NDBoX0YtT0tFcTRIeGM?oc=5",
    "data": "2026-11-20T23:18:11+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "“Graças a Deus o Flamengo não está”: jornalista torcedor do Palmeiras mostra alívio com ausência rubro-negra na final da Libertadores",
-   "link": "https://colunadofla.com/2026/11/gracas-a-deus-o-flamengo-nao-esta-jornalista-torcedor-do-palmeiras-mostra-alivio-com-ausencia-rubro-negra-na-final-da-libertadores/",
-   "data": "2026-11-20T23:14:17+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Felipe Facincani desabafou com o iminente vice do Palmeiras no Brasileirão Torcedor assumido do Palmeiras, o jornalista Felipe Facincani, da Jovem Pan Esportes, mostrou alívio com a ausência do Flamengo na final da Copa…"
   },
   {
    "titulo": "Favoritismos #36: dicas, palpites e chances no Brasileirão",
@@ -312,14 +536,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Palmeiras x Flamengo: informações e palpite para o jogo O Palmeiras não vence em casa o Flamengo pela Série A desde 2017, com três vitórias rubro-negras e cinco empates. Caso este confronto termine empatado, o time cari…"
-  },
-  {
-   "titulo": "Comentarista da Globo recebe ‘direito de resposta’ após chamar Samuel Lino, do Flamengo, de ‘Cuiabano melhorado’",
-   "link": "https://colunadofla.com/2026/11/comentarista-da-globo-recebe-direito-de-resposta-apos-chamar-samuel-lino-do-flamengo-de-cuiabano-melhorado/",
-   "data": "2026-11-20T22:30:15+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Ex-jogador do Flamengo, Paulo Nunes foi cobrado por fala infeliz no passado Quando o Flamengo contratou Samuel Lino no ano passado, o comentarista Paulo Nunes não se empolgou e disse que o atacante era um “Cuiabano melh…"
   },
   {
    "titulo": "Flamengo chega a São Paulo e é recebido por torcedores antes de decisão contra o Palmeiras",
@@ -343,14 +559,6 @@
    "data": "2026-11-20T21:54:09+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Pai que perdeu filha em Palmeiras x Fla: 'Não consigo mais ir ao estádio'",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdmJROURleGVJTnhQbHRUMHZfdW1aSUE4WW1iV3VyMElaX1ZTS3JmMms0SFRXd1ZEUk9GZjBtbnBTN3ltYzlSM1pMUWJRUFhLTlpPYmV3cmpEdndCWjc0T3ZPSzFNTDhTaVJZT3RmTmU4TnVsbUZhZGpTUnpFd2x4T0VNYTNDTnk1Ymh0VUlqdWdXRFJlNnFRQVd3YnBxUU11T191X3p3VDZHYndkSmVoU1lQNHZ6Vk42Zkg5NkZyd1F4cVM0b0hycVpzM0lFMnBacHFFZnJZcw?oc=5",
-   "data": "2026-11-20T21:18:57+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -458,6 +666,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Ônibus do Flamengo não passa por AeroFla e frustra torcedores",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTZRdlJqQjkzVWNPdHNHcFA4SDZ3RlY5LUt0VldPNFBKWW5FUGpmX000YWM1b015WUpaN21pSVdwT0djQ3VMWDFOWVlySG52ZFR1U1dTd2REQzN0S1BHckN6S1JmcUlXVUM3cG9iZDJHVW1NajBHZFN3UGdLOEROS3U3QmczVGhlMnkxZXpDTHBlRzNVeTgzVDF0NnNtZ2oybGozSF9rbFhNSzNoQ0dUdUYxMHItNkRUMWwza2ZRUmZ4WVU3clY3YkdiNVdVUQ?oc=5",
+   "data": "2026-11-20T18:49:23+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo frustra torcedores no embarque para o jogo com o Palmeiras",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWThBTGpCbF8tcWFPWFlobE4yeWl4OEdyeGZfbXBPcjhTcVVUSHM3WHROcjFxMjd0eldZX1g3OXRlczJHcUhDYUN5Wi0zVGNWWEdqU2h3SWhISVBKYmwxeFhqb3FDaHl6OEdvdnQ1c282WUdmYTZhOHRhbV9malJlZDlpS2U0cl9ETDlET1Z0M1pSNVA3UnJkRkZFUXJpUm1rbkpQWV9fUGFoOWh2QkkxajJhNVllaWdzcnA5TDZVSzhveVU?oc=5",
    "data": "2026-11-20T18:45:42+00:00",
@@ -520,14 +736,6 @@
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
-  },
-  {
-   "titulo": "Torcedores do Palmeiras devolvem ingressos para jogo contra o Flamengo após Abel Ferreira ”jogar a toalha’ pelo título",
-   "link": "https://colunadofla.com/2026/11/torcedores-do-palmeiras-devolvem-ingressos-para-jogo-contra-o-flamengo-apos-abel-ferreira-jogar-a-toalha-pelo-titulo/",
-   "data": "2026-11-20T17:48:16+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Alguns setores voltaram a aparecer como disponíveis no site de vendas do Palmeiras Alguns setores voltaram a aparecer como disponíveis no site de vendas do Palmeiras para o jogo contra o Flamengo. A partida é no sábado…"
   },
   {
    "titulo": "Trio não viaja e desfalca o Flamengo contra o Palmeiras",
@@ -658,22 +866,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo se blinda de 'já ganhou' com pacto no vestiário e nota oficial",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSUVmMlhnUDN1ajQ4MGtwX2RFZWx1NHVOWF8yeEZlREJiSFNHemk3Vm0ta1JVakZJakgwZC1SY21UU0ppVGd1VUZqMDBYMXFPY2NvSU40WTRrRXd4eGEzeFgtcVdYb0EzYkxNc1N4VGJjS1poMFBDeEt5NnpwT3FaLVdWWDdCbTBBbnNWUkN6M05UZDZvZW11aW5ydWZxQnI0cWhoY2F5SDdJaVRvNWRSLS1kdV8wY1JLT0VWYmtrN2J4WjRYUlZsUno5N25SSmRBVXFseEp5LVE0d1k?oc=5",
-   "data": "2026-11-20T13:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Sem Betano, Flamengo negocia patrocínios pontuais até contra Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY2EzZlVDYkNvd2p3dFl6MU9ERDZkUTBxcVVxMktlM0NmMGdPTzdQa0gycXMycFQ1MkdlUGNuYU50cm16VlFhTTh4elM4UGZEb0Q2SjVYS1NxVE5GRHpSdzFObDd3Q2FxVnM5anYxYmNhaU9jejliTUR6U3RFeHlLYU41U1V5S1Jrd3lvdURfNk9xLXVUNFhNUjlnWFB5b1YwSUxWd3E4T2p4aVpFRUNJZFpwVWVqVkhpRmlSVGl1azFLczZTZDdkUnppLW9CT2Q3eXZvcG9DMVpfMDJmZDJxMmxR?oc=5",
-   "data": "2026-11-20T13:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Palmeiras x Flamengo: Alecgol compara Pedro e Flaco e escolhe favorito",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTU1DVHJmbFhzNzNPX0g4eThncElqSGJxSmFvNEJZbFByWnpEdEhTS1ozQnlYd19fZU5DMlFBZTJKWDY4LXI3akg5NGRrYmlyNGwtclhXeU9XTGV4YjkxLWF0ZzN5ckJtSm5XOGdLY0I2SGdWR3RkNVFBNUNQZnphM3pIQW5kTnRoTTR0cFphRGZuQUMxSzVYbjEwa2VPTzFnbWJ3VUxEUnRGVXJXeTJ1RWpGeWJSam1rWm01XzI3dWplenBBZWhtTHkwNzhKVlE3YVc4TFB0Z1pYZw?oc=5",
    "data": "2026-11-20T13:06:52+00:00",
@@ -706,6 +898,22 @@
    "resumo": ""
   },
   {
+   "titulo": "Flamengo se blinda de 'já ganhou' com pacto no vestiário e nota oficial",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSUVmMlhnUDN1ajQ4MGtwX2RFZWx1NHVOWF8yeEZlREJiSFNHemk3Vm0ta1JVakZJakgwZC1SY21UU0ppVGd1VUZqMDBYMXFPY2NvSU40WTRrRXd4eGEzeFgtcVdYb0EzYkxNc1N4VGJjS1poMFBDeEt5NnpwT3FaLVdWWDdCbTBBbnNWUkN6M05UZDZvZW11aW5ydWZxQnI0cWhoY2F5SDdJaVRvNWRSLS1kdV8wY1JLT0VWYmtrN2J4WjRYUlZsUno5N25SSmRBVXFseEp5LVE0d1k?oc=5",
+   "data": "2026-11-20T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Mattos: Sem Betano, Flamengo negocia patrocínios pontuais até contra Palmeiras",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY2EzZlVDYkNvd2p3dFl6MU9ERDZkUTBxcVVxMktlM0NmMGdPTzdQa0gycXMycFQ1MkdlUGNuYU50cm16VlFhTTh4elM4UGZEb0Q2SjVYS1NxVE5GRHpSdzFObDd3Q2FxVnM5anYxYmNhaU9jejliTUR6U3RFeHlLYU41U1V5S1Jrd3lvdURfNk9xLXVUNFhNUjlnWFB5b1YwSUxWd3E4T2p4aVpFRUNJZFpwVWVqVkhpRmlSVGl1azFLczZTZDdkUnppLW9CT2Q3eXZvcG9DMVpfMDJmZDJxMmxR?oc=5",
+   "data": "2026-11-20T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Perto de novo título, Arrascaeta e Bruno Henrique podem igualar Zico e miram recorde de Pelé no Brasileirão",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/20/perto-de-novo-titulo-arrascaeta-e-bruno-henrique-podem-igualar-zico-e-miram-recorde-de-pele-no-brasileirao.ghtml",
    "data": "2026-11-20T07:00:00+00:00",
@@ -722,14 +930,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Palmeiras x Flamengo: da Libertadores ao Brasileirão, relembre duelos inesquecíveis de rivais nos últimos anos",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IZVBXc0JHMzJHT0k3LWlYT3JpV09rOWtfQlBGVFgwTl92NjktVGhaVHJSV1BDUFVhNF9YZkktdnB3Y0s0U0ZtY3FPeEMwZUdVczNiM0R5YVBiSnRGN0E?oc=5",
-   "data": "2026-11-20T02:29:04+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
    "titulo": "Com bônus milionário, River confirma valor da venda de Freitas para o Flamengo",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkFyNGFpQi1CVHJMQ2poWkR2NWU3MW05bXJzVGFZY085eGl6TW1Rdjd6ZlFWRk9GTy1hUl9HWS1RWEM5QzlKXzFHRnRyT2dFd0l0ZkVFVHJYS1ZzSnV0TGNlWkZhZW5nRTZqTlFSS01BZURJd3h3UkFtQlgtSkJKcmtkelpQb1lYaFlBLUZyR2poQm50aXMxRnZvU3FqU3ZNOTdXSmVRX25vdnVXT3NXM3FTY1ZNWEU?oc=5",
    "data": "2026-11-20T01:39:49+00:00",
@@ -740,9 +940,17 @@
   {
    "titulo": "Até para o técnico do Palmeiras, Flamengo já é o campeão brasileiro de 2026",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFZlay1QbXlodWkxZjdYeW5qNHJFTHZ5V0lWUWUyZTRKSmt3X2wxc0pQRmZPVHprNG5WYUpRNlBUVG9qaEpKY0wxRmNtamw3Q21QNmxFcHFNX3hIOFFKT19ocGloUnM3dl9ndWp1VHE3bU82UkxEUHVWSGx0bVo3WnY1YUdGTDVqd3ZFa3VVR2tjMDRodEU2djJ1bWVrYnI5aWprMVNTNnNHRV94STEyMVo3YndQOFNCTkVzdDJpeUJrdk9ORS1IMTg4c1pjUmNVTlY5U0I1TUtlYlk?oc=5",
-   "data": "2026-11-19T22:00:01+00:00",
+   "data": "2026-11-19T21:45:15+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo tenta superar Vasco por joia e prepara proposta milionária ao Goiás",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXJHbnpmNVpVbkI5TVFaQkU2MVVteGh6dW1uTFNkUkpXUUNkRU5YZVdLOTByQ0Q4dU5KR0MwY1pYVXliUjFMLWZoT3I4Sl9ySHY3aVMtUkM1aUJzeHB1VDZNNm1iTnJ0TWlWRVhRVWk2NzM5bE11bm1tLTVyTVVXV0NHV2UzUkJEc21ERXYxVF9SSkRPSlVkLUY1eFdwc1U2Wi1aNHJTWnI1NkZoRWU2VDVmX0g4OXZBOC1zdGQwdTYtWlZP?oc=5",
+   "data": "2026-11-19T21:23:08+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -1024,214 +1232,6 @@
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Cruzeiro 2 x 1 Palmeiras | Melhores momentos | 35ª rodada | Brasileirão 2026 Abel Ferreira tem mais com o que se preocupar do que o jogo de sábado contra o Flamengo. Pode ser campeão da Libertadores e da Copa do Brasil,…"
-  },
-  {
-   "titulo": "Flamengo vê estratégia de Abel Ferreira ao 'entregar' título brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmE1LXZFQ0FuOV94ODRKenVObGl1Z08tN21wTjExTXhpSG5QaXk2MmFKUjZiT3J5d1dPaEhNeVV3MVFjNlBnMkI0SFBNQmt1bTF0YWMyWjUzVDlfZEdLTVY0UmpSMnBTMTZLWWNzYVBjVldOZVMydTVScDUyRUtybDhkcHBHZU9KR0tZVVFqaHo0YTV0dmZtbVhYY1NUUUtvMC1acW5ldV9iRDZhemNoNlhSN19CWkd1SDZPdEhSU28?oc=5",
-   "data": "2026-11-19T13:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Mendoza cita CBF após Flamengo x Athletico: 'Não precisa ajudar mais eles'",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUUhMWS1aZDV5NTRUcHRaVG1hdWk2al8xTE85Mm43bHlSNDdMenlvb2haQUFGbU40a0xhRGVHZWlqU2IwRXNhcEMyT1ppLUN0aHF2UFpOOGRmTG1ndXJQU0RJeEJ5eTJvNmxfVktVN19ORlhWVnEtVEY3eDA2M293NXRtWm1jTkRjT0ZNRGxSZnVpM0lHMXZsdjRQS0lkXzlhTVpIbUUtbGFGM3lfY1o0ZVRSYzlHOTRWd0F3NlZtLWV3Tm5PQ3Mw?oc=5",
-   "data": "2026-11-19T11:52:35+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo volta a cruzar o caminho do Palmeiras com a história em jogo",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTktzSE1IY1pTU0JKaVNfZzh1M2cya2gxb2xpUTNyNE12Tjhrb2Y2U3pyYTc2a1M4YmJFcmlRbEtIVlZXYTFBT255Q2V3YUNtWG90MmhCWkpiMzZUU0NkYm9HaXZ3eTFfVHY3VFc1VmdsWWtEYkxxbzBtZ3RiS2xYWHZ6RjdSZllOV0cydHhQbmY0YXpTbFFKcFdxV19TZThvQ0hpMk1INE5vaW1WelNJZzgxR1c1SXVEQk5hSg?oc=5",
-   "data": "2026-11-19T11:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Do que o Flamengo precisa para ser campeão do Brasileirão no Nubank Parque?",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ1dhenQyU1RKZk1POUxOdkYtMWZEa1ZZRm5KeWtpZ0czU1JJa3NUNDdGbHI1emRRMDJtZ3FiS1NKYU43dkdwSVM1Z2NnVUxrMS1ZN3FjY2w1UFNselV5ZFVLMm5zdEhUaldSZ1lpNWRSTzZPdm1oakRvdC1kZHVKOFNKOFZIdnlwcHlBM1hYYmhCQlUxNzRid3hzNG1NM1ZEckF5Qm1WMnl1VkZPQTNjU1dOeG1SMkQySGZseS0tc2tfLUdXZm84UHpsRkZhSXFUaVRuNDZvb0t1T3E0V0E?oc=5",
-   "data": "2026-11-19T11:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Samuel Lino cita \"fadigazinha\", tranquiliza torcida do Flamengo e mira título para coroar seu ano",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/19/samuel-lino-cita-fadigazinha-tranquiliza-torcida-do-flamengo-e-mira-titulo-para-coroar-seu-ano.ghtml",
-   "data": "2026-11-19T11:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 1 Athletico-PR | Melhores momentos | 35ª rodada | Brasileirão 2026 O Flamengo perdeu dois de seus titulares, Pulgar e Léo Pereira suspensos, para o jogo que pode ser o do título brasileiro. E quando Samuel…"
-  },
-  {
-   "titulo": "Com 50 jogos, Leonardo Jardim supera sombra de Filipe Luís e tem Flamengo nas mãos",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEZxTHRJNXRGa1RhcklCb0FaNk1uM1o1aFBsdW1CdHdLUWltNDVZOGhVVHh1UWZWME9XRDByWTFJVnhXQ3dFdTk1UkxSRU00N1hvUmEyOFVWTVdHcjVOc1Z2RmJ1OWJrWVkwcHFPZGh4SkRkbzA5Sm9GUzBpTlpGbUxWUnFaZ3l3RHdRZTZHbjRfTmNlOV9YZU9iNnhhX1hrVEZIdnRwVUs0ZkNiaTBadnY3RUg1ZXdSMmw3eg?oc=5",
-   "data": "2026-11-19T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Fala de Abel Ferreira sobre o Flamengo repercute: 'Não vai'",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONklzelAyWUdVM1dablJJajNiTGJaUXRfM01aLVRoYVkyeW5MVFg5RmFiMUFYT1U0TlYxMlZZWTIxRDBLOWVmOWdlMEpMeE5yZlYxdmRPX3ZhckNlUVMwUjluRE1CUzlNUjlnUVE2RUdLcW1acG8zbXV0Ty1Gb05GMTR3dzRmbGN3V1RHYm84dUF3UkZTbFZPOERxeWw1LTZTT0E?oc=5",
-   "data": "2026-11-19T10:40:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras tem desfalque de titular para duelo com o Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTRYWHdSdjcwTFk3alJibDhONDgxWlJfaVI4N0t5WHo1amVQQm9PUTFsa1d1NTJ1MElXeS1xb2Z6TDRrQi1fTWVDMkhhbjE1NnVZWlhWczZLckVqdDRKZlk4NU1FbFg5N3RCOHFMbHBFNWlITGRubTdCWU5YMzE2aU9SRG1mRVItdS1QR2FVeHNpdEEteHo1QXJJblFsTF9CZXc?oc=5",
-   "data": "2026-11-19T10:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "FLAMENGO COLOCA A MÃO NA TAÇA | UM EMPATE CONTRA O PALMEIRAS DÁ O TÍTULO PRO MENGÃO | LANCE! DIÁRIO",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdFVqYXJVZVU3NlhqQTYtLUp6cHlXZS1HMmNfS1BiOTVPX2JJbk85djBxcDFTLVBoaC00QzcxbncyZHF1MTZ1cmNmRW1RNF9sWDRiRFRGNmZ2bGxrV3pSMnhXMEhrY3F4N3dHbUxza1JOOG5YMGI1MFpNa1lFMm0yTVRkUlk4Vmo4dVBscjMzWU5YVmQ4Zk5uSHl1ZmRhdTNjcmZnQmJLYlBhXzRJRE5wekpMSkUtMkVRdzVrVzVhQk9WSkk3?oc=5",
-   "data": "2026-11-19T10:07:31+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "A cereja no bolo do Flamengo é conquistar o título na casa do Palmeiras",
-   "link": "https://ge.globo.com/blogs/meia-encarnada/post/2026/11/19/a-cereja-no-bolo-do-flamengo-e-conquistar-o-titulo-na-casa-do-palmeiras.ghtml",
-   "data": "2026-11-19T10:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo x Athletico-PR - Melhores Momentos O desfecho da quarta-feira de futebol deixou os rubro-negros com aquele sorriso maroto, indecifrável para quem é alheio ao futebol. Hoje, devem ter levantado mostrando os dent…"
-  },
-  {
-   "titulo": "ANÁLISE: Regularidade de Carrascal impressiona e fortalece Flamengo na reta final",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXNLcTAzYXZCUUQwbUJvcmNyRGJvYUN4aDEtRjg1MVBUVDBFbWNZNWtOWlBaVV9EYWZOdERoX1dpLTVIU01nVjZ0MHMzaGxXZXFDazVWWGhaeDVXc0l0ZW8wV281MDdKS1NiLXUwb2w3RHM0U1dlX2VRR2RfbURIMF8yN2w2NnIwMGZLTXJ3NVotZm90RFZWTHg5UUNKQS1UNmE2cGdnLXJ4azVtMVZFOTVHdDVzTWtLbVNn?oc=5",
-   "data": "2026-11-19T10:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Torcida do Palmeiras reage à vitória do Flamengo: 'Acabou'",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTktRMF9QeVUzX25PRXMtZFp2OVJiV0JuR3pyeFhUa1lHSFdwVlVkaHBzY0VMWUtrQXFaWTZJSndBZUtYY0JYeGJVLXJ4ZjllaF9MblllSkd1QnVBWk5tZWhTR3VFbGREdU1uaWl6bndwZ0FUaFFjRUVZUjMtZ0xPWl9IRy1zRXBOT3Q1Ukl2cm9Fc3Y5cEY3SzZTV1hva2Nq?oc=5",
-   "data": "2026-11-19T09:10:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Todos os continentes: quem é ex-Flamengo que tem '300 agentes' e acaba de zerar o futebol mundial?",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeEdmdktQczhocUtYczZWUnRkVTVCX3JFd1JhUTFrazd0bXlOZDA2dm5oZHpqeVpQVTE5emZlcnNQVjBneGw3Rm5uMXoyVm5iclVaWkc0ZG9ZN2J6WHRGWkx2ZlNfZ090OG1hczJBTm92SkpHeTFvSmlYZ2xpUzZCWW1pdTBEckowdC1VZlRYVktkelBJM21ESmU5MkRwRTFYVExlQ01jRlRZN09oRVU1WHFERng1bU9Lbm5maDlzM3Q3OEQ1MFE?oc=5",
-   "data": "2026-11-19T09:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Varela revela bastidores de retorno ao Flamengo e se declara ao clube",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlcxUWY4YlVTS1Fkazc3UjdjRS01dmhwcEVkWS1YcjFzclRVNmk5alY0TGJfNUcwTC0xZDBIc2pUY1h3Vlc5R1BCb3RfYkV1eVdRR1M3U29BWlZxUG5QcUt4M1Q0Z3dTMGZtU1Q0YVhRNnFuY0o2aEVTSTZMRUFwX2hhQVdrOXZzenhEaUJkRnBCRk96eEdhOGZTRFdSQ3Vud3FmUUxLMS02QzRa?oc=5",
-   "data": "2026-11-19T09:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rossi abre o jogo sobre golaço sofrido pelo Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3REeE5SclVfcjQ0UVNjWWZYSWJ6cUlLMnVYMnBTdXBwU2hOaEhJZ3l1TC1PRU85ajRMMzJrMjJHblJtdThoLWEwdWJQU2U2SldSVnI0bnFMREdrMmlrRzVTX1dsbmhvZTdhMHhRMHQ5eVpiWU1neXRXNnBWbXM5b0ExTGt3aHpaZjlDLVRhRnM3ckd6R0hiVkhYaEtnSi0xRHBRYWJ5SV91dUMxMi1hQXg3emt5WVRUekYw?oc=5",
-   "data": "2026-11-19T08:30:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo e Palmeiras podem fazer 'final inédita' na era dos pontos corridos",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDRCQkZuYno1X3AwSF9DQWRlOV9TWHNuckZ6Q3k4SlBCNUNLQXZ6RGhyTm82aExsNW04ZjdaWVBlQjZqa2NLNW5TNGk1MWhIUERrOWc3WmlPNFJKdGVHUENyTUx5cWxfTjV5RVpqSUhJVDgyZnJsd2NCQ1RQQjNuemZ3YWR4eG5ISm9QY2E5UkRNYkxDMkJBbXdJRlJueVdoLVhuWGtzbG9XX1lPUDRfZTNB?oc=5",
-   "data": "2026-11-19T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Herói de novo? Danilo revive roteiro em nova decisão Flamengo x Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMFJoeGlvMVZCWXZBU1hvdXA3T2tBbi11MFBXTEhqaXdkV2tqcEowaVVMWVlOS2ZJRVQ5Wmg1d0Flc0VXVkljbkJ1QjVQM0lSMHhKRVFVbTVCcF94T0xRaHdsSDBRdV93ejM2bUw3OURwZE5OOE03YmI3QjZTQ05fdFExSGpYQ2ZVejVhSUtaR1NoTllGUHI1UTAtLWFWSHVtVTZ3SUtkVjZVVW9QRlhKQXBfYlNTNng5RmI2cFlXcGZ1R3h5OVhkTmxLZUVLT05ZSFdxbmhQMEFCODVS?oc=5",
-   "data": "2026-11-19T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Chance de queda do Corinthians cai pela metade; Fla vai a 98% por título",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUtPQXZXLUpHU3pEanJzQ1ZUaVpHMkJLN282dEpTUDUySDhuWUNfTlJxdXJiQ0ZCanZIZzlINEVxZ3ROUkliNXZDb0VyYnprUnJPRG9OTkdwTG1qS09Wd1cwalBrTThka3hVU0d0YUlrOVoxLWc2dTJKRVQ5aWtxMkFQR3FOSnd6TEpjUC05Z1RDRUotSFE?oc=5",
-   "data": "2026-11-19T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo não deve receber taça no Nubank Parque se for campeão contra o Palmeiras",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/19/flamengo-nao-deve-receber-taca-no-nubank-parque-se-for-campeao-contra-o-palmeiras.ghtml",
-   "data": "2026-11-19T08:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 1 Athletico-PR | Melhores momentos | 35ª rodada | Brasileirão 2026 O Flamengo depende de apenas um empate para conquistar o Campeonato Brasileiro. O título pode ser confirmado no próximo sábado, diante do P…"
-  },
-  {
-   "titulo": "Puskás? Veja distância de Vargas para gol de Rossi em golaço no Maracanã",
-   "link": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/noticia/2026/11/19/puskas-veja-distancia-de-vargas-para-gol-de-rossi-em-golaco-no-maracana.ghtml",
-   "data": "2026-11-19T08:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja a distância que Vargas estava do gol em golaço contra o Flamengo Um gol memorável. O Athletico-PR perdeu para o Flamengo por 2 a 1, mas o time paranaense deixou o Maracanã com uma lance que deve marcar para sempre…"
-  },
-  {
-   "titulo": "Samuel Lino é sincero sobre jogo do título do Flamengo contra o Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE52bWNCd2Y5ZzRPcHpQei1mVkc0V1BmWS1LVURUTTdVU3hnYmpKeE1RQm4waEVRelk5enlnLThzeG5oQjJTcXVPU0Z0eDgzNmhHU0RYS1BmUTBLeHhNRDRPb1ZxdWVCR0sxUEk5cFpjQjd3TG5CdnJmeEFpYUpucDRVZjVxS2V4Z3Q5WGdfS1YxU2FCT2NGT3dsbmxLM25uTHpEdGY4VXJFMDZqdGNUT205R1kxbFRHMnMyUzBzWQ?oc=5",
-   "data": "2026-11-19T08:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Viralizou: gol do ano no Maracanã, festa do Flamengo, reação de Abel e xingamentos de Neymar",
-   "link": "https://ge.globo.com/pe/futebol/noticia/2026/11/19/viralizou-gol-do-ano-no-maracana-festa-do-flamengo-reacao-de-abel-e-xingamentos-de-neymar.ghtml",
-   "data": "2026-11-19T07:00:00+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "O gol ANTOLÓGICO de Kerwin Vargas por outro ângulo! Teve gol de antes do meio-campo no Maracanã, reação viral de Abel Ferreira à virada do Cruzeiro, festa antecipada da torcida do Flamengo e muita resenha nas redes. A 3…"
-  },
-  {
-   "titulo": "Arrascaeta revela estratégia para o Flamengo vencer o Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMU9Ocm9wcTNLUTVVV1o0TldINkdjLTZObmRpWEF5eWNNSlZxWVN4Z1k1TTEwbE1td1labjlmVEpkcnZMRXUtbFBrX05hb2VnckF4TDNYWVJ0YVBXLUlQMW81M3FrRmQwNnVTTkVsTmVEV0ZTQWExUmxDdmZEcm5PNzdnclZvcS1pQ25COWM5dFY0a0hkQVJUQ3ZlQlBGSFJ5YWV0cEdZbTlsTU1tSE5YdmI5SkdEaG1jaUZGNGxNY21VajhTSWh6bA?oc=5",
-   "data": "2026-11-19T07:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo bate Athletico após golaço e pode ser campeão na casa do Palmeiras",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVZqYTh0Z1hIOXV2N3FPcnFHMVRhLVRvNGVqS3NGNUI1RUFoR0xfR2JHRDBOVktWZFZUNkd3V1daUFlQSDlMeGE1ZFprcVpVTlBWazRudFpjX3FGYjI0Tm5DRWV2UWNvN3dkR0QzbU42WWV1VjFlVXpNczNudndFd3AtbGlUZjVzVU1uVVJyb0Z1SDhfWUp5QkNkYjF5UVVjZFp0SFctYkpvbWtzTkJPSG9lNGVDQzBadHJSc3JIdw?oc=5",
-   "data": "2026-11-19T06:27:08+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Análise: Flamengo vence jogo com cara de final e vira o virtual campeão brasileiro",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/19/analise-flamengo-vence-jogo-com-cara-de-final-e-vira-o-virtual-campeao-brasileiro.ghtml",
-   "data": "2026-11-19T06:00:20+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Flamengo 2 x 1 Athletico-PR | Melhores momentos | 35ª rodada | Brasileirão 2026 Apesar dos golaços, não foi um jogaço na noite de quarta-feira no Maracanã. Mas finais normalmente são assim, mais nervosas do que vistosas…"
-  },
-  {
-   "titulo": "Chances de título brasileiro do Flamengo superam os 98% após 'rodada perfeita'",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVi0yTXM0OWx2ZVZpcHZGdGhZVEp0eTlQSHlOMTlCcGRnVGd6eXQxQkJVMGhSZHQ0Smw4WGxfTEVsXzUxVnVhQVg0R1FkTE4wb2Y0bXZHM3hEN2FYWmViZGh6TU1ONU4tUWVBNnRBMWpQNG9DYnR4enlOd0FKd1FXYlhwV0RrUUh6TjYwZnZ1YmZJOVUxc0VQZW0wZTYxVFMxeDVGalNoYllBTmNxN195X2NjTGdUd2Ezdk1jM21XVFZVM25OdGhj?oc=5",
-   "data": "2026-11-19T05:41:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   }
  ]
 }
