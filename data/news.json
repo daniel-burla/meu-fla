@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-23T01:56:18.816900+00:00",
+ "atualizadoEm": "2026-11-23T10:39:01.895984+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 62
+   "itens": 60
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,56 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 60
+   "itens": 54
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 83
+   "itens": 80
   }
  ],
  "itens": [
+  {
+   "titulo": "Elenco do Flamengo tem segundo dia de folga após conquistar título do Brasileirão",
+   "link": "https://colunadofla.com/2026/11/elenco-do-flamengo-tem-segundo-dia-de-folga-apos-conquistar-titulo-do-brasileirao/",
+   "data": "2026-11-23T10:00:09+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Jogadores só voltam ao Ninho do Urubu na quinta-feira (26) O elenco do Flamengo tem o segundo dia de folga nesta segunda-feira (23). A pausa vem depois do 10º título brasileiro, conquistado no empate por 1 a 1 com o Pal…"
+  },
+  {
+   "titulo": "Título brasileiro coloca Supercopa na rota do Flamengo; entenda o planejamento para 2027",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/23/titulo-brasileiro-coloca-supercopa-na-rota-do-flamengo-entenda-o-planejamento-para-2027.ghtml",
+   "data": "2026-11-23T09:00:01+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Veja os bastidores do título do Flamengo do Brasileirão no Nubank Parque Depois de confirmar o título do Campeonato Brasileiro, o Flamengo já sabe qual será a primeira disputa valendo uma taça em 2027. Prestes a entrar…"
+  },
+  {
+   "titulo": "Jardim e Boto ficam no Flamengo em 2027? Entenda cenários e o que pesa para clube, técnico e diretor",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZFZXM2FXU2dqcjFjcnAyRnlxZGxhYjZkV0xNbjFiYjE4ZnlqOWlJN3RsT1pUUDJNQk9EYmp2cVdiZGlGM25iYWJ0YUhneWo1X2FaeG9YWk9Vcm5nd3dYX3Z0Vm1HM0JBNnNOS3M0RmM0SVZtRWVkb3J5SmhRVHl6VlRiU0VHdVB0dDNsWjdlaUFZOTNncWlDamZDcE5YMk9meGRMZUlsRm1MYVhXaUxuXw?oc=5",
+   "data": "2026-11-23T08:00:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Por que Jardim citou Real Madrid após título do Flamengo e reforça discurso prometido por Bap há um ano",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYVVpa3psLTBHTmhVX0RCaFRlT1ptWTUyVElhTHVkOHN6eWU4cXJHN1g2YmcxalR0ZzlDR0xlay1WeFloMVZpVHZIQ1Z0UU5YajQzUDI4dFp2VndaUnVJSHpVRV91M3psWi1sTHpTb1NBVXlfZzlycEdfc0xMUHA4MnFGajBYYjlSaE93a3dlZnNJWDc3MkZDbnQ5UTFLaDVfREZXdDIwbFJyNEQzZlY3al9tZGx2VTJBajdGN2djNTBXNXVXZE9IaDFwNXRxc051bWxfR1NtZkxHeDFPa3BPTVhLNVBNUWlwMGd1MWZHUQ?oc=5",
+   "data": "2026-11-23T08:00:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paquetá promete mais títulos, espera volta por cima em 2027 e se declara ao Flamengo: \"Queria me sentir acolhido\"",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/23/paqueta-promete-mais-titulos-espera-volta-por-cima-em-2027-e-se-declara-ao-flamengo-queria-me-sentir-acolhido.ghtml",
+   "data": "2026-11-23T05:00:01+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Paquetá celebra título do Brasileirão: \"Meu maior sonho sempre foi ser campeãpelo Flamengo\" \"Decidi voltar para viver momentos como esse no clube que eu amo\" O retorno de Lucas Paquetá ao Flamengo parecia um roteiro de…"
+  },
   {
    "titulo": "Ex-integrante de One Direction, Zayn Malik comemora título do Flamengo no Brasileirão",
    "link": "https://colunadofla.com/2026/11/ex-integrante-de-one-direction-zayn-malik-comemora-titulo-do-flamengo-no-brasileirao/",
@@ -106,14 +146,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Samuel Lino repete feito de Pelé e Gabigol, e entra para grupo seleto no Brasileirão; veja lista",
-   "link": "https://colunadofla.com/2026/11/samuel-lino-repete-feito-de-pele-e-gabigol-e-entra-para-grupo-seleto-no-brasileirao-veja-lista/",
-   "data": "2026-11-22T20:49:34+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Gol do título Brasileiro do Flamengo veio dos pés de Samuel Lino Autor dos gols decisivos das conquistas do Brasileirão de 2025 e 2026 pelo Flamengo, Samuel Lino gravou o nome na história da competição nacional. Após ba…"
-  },
-  {
    "titulo": "Torcedor do Palmeiras morre em confusão após título do Flamengo",
    "link": "https://colunadofla.com/2026/11/torcedor-do-palmeiras-morre-em-confusao-apos-titulo-do-flamengo/",
    "data": "2026-11-22T20:32:47+00:00",
@@ -146,14 +178,6 @@
    "resumo": "Torcida organizada do Botafogo procurou as pessoas que cantaram músicas do Flamengo A confirmação do decacampeonato brasileiro do Flamengo gerou cenas inusitadas em vários pontos do Rio de Janeiro na noite de sábado (23…"
   },
   {
-   "titulo": "Palmeiras x Flamengo tem cumprimento de Leila a Bap e trégua nos bastidores",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORzQyTTJfbk9QOW5FcldtN0dhYmdKMjExNEZQcmt3a082eHdTNGd3NXVyZEFBX0pPN0hwVmFXM1JKSGh2M2ZwdUxvRk9jSWZyalRfYVNQQzcxX2VhQV9HUHZMT2ZOR0pjbTRCbGthNGkzd1BaSUFLZG5OY2RETERXUDhSd0ZYNnRlYXg5UXJYSUp3S2o5WlVFdlE4QnF4djFtVDgzUHhkNWJYcDhzQlB4aG1HZDNSaGVPd09mMVdVb0Y2WHl1ZnltNGJoQ05tSXdoNHlmdFhjT2dEanhrYUVCUA?oc=5",
-   "data": "2026-11-22T19:49:48+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Como o Flamengo driblou a CBF para erguer um troféu na casa do Palmeiras após o título",
    "link": "https://colunadofla.com/2026/11/como-o-flamengo-driblou-a-cbf-para-erguer-um-trofeu-na-casa-do-palmeiras-apos-o-titulo/",
    "data": "2026-11-22T19:44:03+00:00",
@@ -175,6 +199,22 @@
    "data": "2026-11-22T19:00:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
+   "resumo": ""
+  },
+  {
+   "titulo": "Rodrigo Mattos: Flamengo vira pela terceira vez no Brasileiro, e Palmeiras passa recibo",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWGJfTEZNRkc0WmJ3M0tnd1JjQ3ZEcnl3SUxWTnc5YnpjU3FTY3VSS3MzOXpqWV9zQnZ5VlNtZzVvRmZWT1RPRFUyNFFJS24xUHdLWVJFeGlyMXU0aWtkZW1zUHFsV3hvRS1lXzBwQWNoaUp0ZkRoQnJfUVllU2tFUExxSFIyZURYQkdhVENWczhvZzIzcERneHc4bk5Kck41Q1NoSndYZGFJYTdIOG9UUFB0a09iMUxfeGxnR2gtWkZ0VzVCRjR6UXJCeTZmTVVLbHhVS01xZUswcDdiTWIzZg?oc=5",
+   "data": "2026-11-22T18:28:37+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Ídolo do Flamengo, Diego manda recado a Bruno Henrique e Arrascaeta",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSWI3TlFzb0RKNmJsMFB4SmVzOTFVMjRrSnQ1WUxxMUNkMF8xY2NCanRnYUc2MTF5WUoxS3FFR0d5X3F3ZktaSzRZM0pVRGJLdURXSHZKQnp4aVhHUDlfbkI4UGU0dGhYd1MzN05DS2h1SW53dmtiWnpNOEJRRkt1anUtSXZLd204VmZQZnlwb0Q5VC1ObnVTWmdxdUtFVk1OTmhtUTNqMnlGZkpqX2VEODZIdXdON2dX?oc=5",
+   "data": "2026-11-22T18:23:45+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -242,6 +282,14 @@
    "resumo": "Palmeiras 1 x 1 Flamengo | Melhores momentos | 36ª rodada | Brasileirão 2026 Depois de um ano com baques financeiros importantes, o Flamengo conquistou o título do Campeonato Brasileiro e melhorou - ainda que pouco - o…"
   },
   {
+   "titulo": "Palmeiras x Flamengo tem cumprimento de Leila a Bap e trégua nos bastidores",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORzQyTTJfbk9QOW5FcldtN0dhYmdKMjExNEZQcmt3a082eHdTNGd3NXVyZEFBX0pPN0hwVmFXM1JKSGh2M2ZwdUxvRk9jSWZyalRfYVNQQzcxX2VhQV9HUHZMT2ZOR0pjbTRCbGthNGkzd1BaSUFLZG5OY2RETERXUDhSd0ZYNnRlYXg5UXJYSUp3S2o5WlVFdlE4QnF4djFtVDgzUHhkNWJYcDhzQlB4aG1HZDNSaGVPd09mMVdVb0Y2WHl1ZnltNGJoQ05tSXdoNHlmdFhjT2dEanhrYUVCUA?oc=5",
+   "data": "2026-11-22T14:49:48+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo volta a provocar Palmeiras após título: 'Contas se fazem no fim'",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOUxlenFwMThtQ2phbFJ0bW42YW5YZmk0NENOMlJoYm5tWXE2TVNxeXVXM2lFUUdtR2dxTWFNY1F3MldvZV9neU1zd3N1OUp4RzZzLVV5QWlKSy1Icmd2SG1SNGlsNXlvUkhHZ2pyQURCM0RDRVlOYXBQOXNCX3l5dEdhWld5M05nWHlkVjhiZm1WbFRFQ2o5cGplMFktcmlBSEZvMGpMQy1YS1VQa0lkb2xTYXlRbC0x?oc=5",
    "data": "2026-11-22T14:46:51+00:00",
@@ -250,25 +298,25 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo irá destravar renovações após título do Campeonato Brasileiro",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjlTQmY3bGxaM29scE1fbHJocmVmVlpMWjNScEQ4YkZEM244LUU2R2JmdlE3WEhUY3VEYk9CZmkwd21Wa1NjaXFGR05mRlVnNURYYnZjWWRxZTFOaDZmWnpuREIzNThKZUw0SzVtSHVsWVU0SmlGeFhZbTN0VzFRdXkxTmRhQzlWN3NDUWxoWExRemFIeHA1alZlT0RHWmQ4alR3ZjVial94QTE3WnRzRWpuZnFEUzRtaG9pdjFFcDNjTER0c2xmU3JkZnFBa09DbGVYMWVlLTAyUQ?oc=5",
+   "titulo": "Samuel Lino repete feito de Pelé e Gabigol e entra para grupo seleto no Brasileirão; veja lista",
+   "link": "https://ge.globo.com/gato-mestre/noticia/2026/11/22/samuel-lino-repete-feito-de-pele-e-gabigol-e-entra-para-grupo-seleto-no-brasileirao-veja-lista.ghtml",
+   "data": "2026-11-22T14:00:00+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Samuel Lino destaca diferença dos gols de título Brasileiro em 2025 e 2026 Autor dos gols decisivos das conquistas do Brasileirão de 2025 e 2026, Samuel Lino entrou em um grupo seleto na história do Campeonato Brasileir…"
+  },
+  {
+   "titulo": "Flamengo trouxe troféu escondido em baú e Bap vetou camisa do título",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc0tVNjNtSWlZTkJwSGFlRkFiR051b2d5X1lSTkRPWnJUTWU1UzFLQ3FCMVQ2MVVqTVRjdWxZYXVBbENYaXdweDlqdTZXSUtQWDJqWWllMDYtdU80MUpHRGU2NENpSllvTFd1c1dKUU13OVJldGFKcU1XZ29LdUZIRUNHdWhyMU05aEl2VkNtNjl0X0x2c20xVmZ5bDUzbTdVUTlnXzd2c1FNVmJkaW9jSC1iSDJVaWlqQmxCZHFwemlMdXduaE5Ha1V3RllkR1ZoWGktUFdPcw?oc=5",
    "data": "2026-11-22T13:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Flamengo recusa férias para buscar 2ª maior pontuação da história",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMHdtaE5KcHp5eUMwZ1JJWDU4VEFsc2NmSWxtSFg2ZHNJU3FjUlZsZHVld0RITmNUbTBrMjRFakt6M2JqTHhDbFYtQXltQ2JhTkRfWW5EazdOZEZOaWhyT0c5b192eWxBbzBvODRrSzRhaXhiZ00zcGNfSVllS2xTelRvREpIWWotXzY2TWVNY2xqREYxSWdSdGV0T0x3OUM3WE03aEJQVndGVGVaUDhhVWJRc1Vvb0JHYklSeGpWRTVJTWxFWFQ1VlYzREtyNGNDYXNpUTVZWmFJMUpZcmRF?oc=5",
+   "titulo": "Arrascaeta e Bruno Henrique ampliam recorde de taças pelo Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWl90WlRmS1hJM1dfTGpobzRycGE2OGZ1NHpNZmxWSUVlTVYxTjBZcVlIUEJHQTFBZkFsNWpyOWhDSVRldDJfSXJMZ0pjNFVPVVZtNkFaUnpxb2J6Z3V5Y0wtd1psOC1jNEdSY080bWdycGNsV0g3TmZRY2I3akpVVWVfQjNiV2tuODRta3RKczlMdHJNb1NqbVpyV21wSFhWbzdpeDYzUXlBNmxOTGNHTU5VRWZ2S0J4QmlvclJCMmhMRzlXQnZlYmJyNmxjektiZGdaeHhDQzB3TGp3UFVncg?oc=5",
    "data": "2026-11-22T13:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Flamengo vira pela terceira vez no Brasileiro, e Palmeiras passa recibo",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWGJfTEZNRkc0WmJ3M0tnd1JjQ3ZEcnl3SUxWTnc5YnpjU3FTY3VSS3MzOXpqWV9zQnZ5VlNtZzVvRmZWT1RPRFUyNFFJS24xUHdLWVJFeGlyMXU0aWtkZW1zUHFsV3hvRS1lXzBwQWNoaUp0ZkRoQnJfUVllU2tFUExxSFIyZURYQkdhVENWczhvZzIzcERneHc4bk5Kck41Q1NoSndYZGFJYTdIOG9UUFB0a09iMUxfeGxnR2gtWkZ0VzVCRjR6UXJCeTZmTVVLbHhVS01xZUswcDdiTWIzZg?oc=5",
-   "data": "2026-11-22T13:28:37+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -282,25 +330,9 @@
    "resumo": ""
   },
   {
-   "titulo": "Torcida do Palmeiras reage a título do Flamengo: 'Não vai'",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa0Y4QllXc3l5cmJkbElwZzZsemNlOUpyOW1UeXhycDI3eTJzUV9VMVR4d2J2bU5iMGtJX0F5bFNvb3JncGVRajE3dmM2WTF4Q0ozODNFcEtPSW5nM1JzRHVyaXM5ZUF1aFB2ZkRkVm9sdXlJOU1GREtOYWVpa1ZoOFdRZDZMWE5fOEpvNDlQcVdIaXpjRDI3TjZMZVBteHRL?oc=5",
-   "data": "2026-11-22T09:10:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Palmeiras ou Flamengo: quem é o maior campeão brasileiro?",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5MWgzaGEzbFVPUEFTNXYzSld2S2ZWZ2UxTVl6cjg3R2RkYXFaY2E2c0VzMkZ6dEx1NWZtUTVLSVZOSUJncVl0RUpDUjhfRDRfRkREamxkdlpQZjlpU1ZFZjJsMUh3RjA?oc=5",
    "data": "2026-11-22T08:31:12+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo trouxe troféu escondido em baú e Bap vetou camisa do título",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc0tVNjNtSWlZTkJwSGFlRkFiR051b2d5X1lSTkRPWnJUTWU1UzFLQ3FCMVQ2MVVqTVRjdWxZYXVBbENYaXdweDlqdTZXSUtQWDJqWWllMDYtdU80MUpHRGU2NENpSllvTFd1c1dKUU13OVJldGFKcU1XZ29LdUZIRUNHdWhyMU05aEl2VkNtNjl0X0x2c20xVmZ5bDUzbTdVUTlnXzd2c1FNVmJkaW9jSC1iSDJVaWlqQmxCZHFwemlMdXduaE5Ha1V3RllkR1ZoWGktUFdPcw?oc=5",
-   "data": "2026-11-22T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -322,8 +354,24 @@
    "resumo": ""
   },
   {
+   "titulo": "Flamengo irá destravar renovações após título do Campeonato Brasileiro",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjlTQmY3bGxaM29scE1fbHJocmVmVlpMWjNScEQ4YkZEM244LUU2R2JmdlE3WEhUY3VEYk9CZmkwd21Wa1NjaXFGR05mRlVnNURYYnZjWWRxZTFOaDZmWnpuREIzNThKZUw0SzVtSHVsWVU0SmlGeFhZbTN0VzFRdXkxTmRhQzlWN3NDUWxoWExRemFIeHA1alZlT0RHWmQ4alR3ZjVial94QTE3WnRzRWpuZnFEUzRtaG9pdjFFcDNjTER0c2xmU3JkZnFBa09DbGVYMWVlLTAyUQ?oc=5",
+   "data": "2026-11-22T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Com Flamengo, Jardim amplia domínio de técnicos portugueses no Brasileiro",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObEMzcElTWmxkVEIzTVJRLVFGdXIybEhGTTNtWmN2bUNGbUV1ZTlHTm95OTVUbU9QYlFfekhyNVFGcDZFbUNOZVI2MUU4Qnp6VEtOOVZYY2xWMDFoUFl5QXlLRTBacUczUnByUXhVbjR0UlhXTVoyVnV4eEVyRFIySXVpSWp2Sk5mWjFYR0VucU5ybWFPVUo1RXZJdlNMcnItVWkxYThyanZzRlVybFFudTFhUUdPLVRnSURFMzRkVmlJMGVENk5QSDBjY3Z4cTV0Zk9tQw?oc=5",
+   "data": "2026-11-22T08:30:00+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo recusa férias para buscar 2ª maior pontuação da história",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMHdtaE5KcHp5eUMwZ1JJWDU4VEFsc2NmSWxtSFg2ZHNJU3FjUlZsZHVld0RITmNUbTBrMjRFakt6M2JqTHhDbFYtQXltQ2JhTkRfWW5EazdOZEZOaWhyT0c5b192eWxBbzBvODRrSzRhaXhiZ00zcGNfSVllS2xTelRvREpIWWotXzY2TWVNY2xqREYxSWdSdGV0T0x3OUM3WE03aEJQVndGVGVaUDhhVWJRc1Vvb0JHYklSeGpWRTVJTWxFWFQ1VlYzREtyNGNDYXNpUTVZWmFJMUpZcmRF?oc=5",
    "data": "2026-11-22T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -346,14 +394,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Arrascaeta e Bruno Henrique ampliam recorde de taças pelo Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWl90WlRmS1hJM1dfTGpobzRycGE2OGZ1NHpNZmxWSUVlTVYxTjBZcVlIUEJHQTFBZkFsNWpyOWhDSVRldDJfSXJMZ0pjNFVPVVZtNkFaUnpxb2J6Z3V5Y0wtd1psOC1jNEdSY080bWdycGNsV0g3TmZRY2I3akpVVWVfQjNiV2tuODRta3RKczlMdHJNb1NqbVpyV21wSFhWbzdpeDYzUXlBNmxOTGNHTU5VRWZ2S0J4QmlvclJCMmhMRzlXQnZlYmJyNmxjektiZGdaeHhDQzB3TGp3UFVncg?oc=5",
-   "data": "2026-11-22T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Como será o Flamengo de 2027? Título antecipado ajuda clube a definir situações de Jardim e Boto",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/22/como-sera-o-flamengo-de-2027-titulo-antecipado-ajuda-clube-a-definir-situacoes-de-jardim-e-boto.ghtml",
    "data": "2026-11-22T07:00:00+00:00",
@@ -362,17 +402,17 @@
    "resumo": "Leonardo Jardim fica no Flamengo em 2027? Veja a resposta do treinador O Flamengo conquistou com duas rodadas de antecedência o título do Campeonato Brasileiro ao empatar com o Palmeiras por 1 a 1 no Nubank Parque. Além…"
   },
   {
-   "titulo": "Jardim exalta apoio do elenco do Flamengo e comenta resistência da torcida",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTlAzQmpqRmhaaHhzcWFVSmJjSHdvQTBSZ3dhU2xTM0licmFuMnZtT2d2RWxURXpGMWFSc1ZTY2ZhajB5SUtvanZuYU9xT3JJUDhiOVdvRVV3d2V5akRhNXUyU3MwUU9CYmxRakdzVXdMS25CQmRwTUxrY1FnZUtnbUQwUG10T3p5b1NfQ1NjVXA4elpOY2wyQ3hLVDJFYU1qdjFLQ1Q3bmtnLTRGR3BsVktiQWlOcTFiMHN6YnRCNGM5a3p0T2FlcTRQUkg2U2hJQ2gzbTdCZ2tqWEFK?oc=5",
-   "data": "2026-11-22T05:08:25+00:00",
+   "titulo": "Dos 8 pontos atrás ao título antecipado: Fla atropela Palmeiras no 2º turno",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc0pQY3hoWG16NFBGN19qbFdFV0RCT3QwQ2tJZTJiczlPS1lJMDdCUURKeXowVmVLQVhWTUtFSTdsNld5WXpKSkJiWk5rWmsxb2drdUJaZEVKdm5nVGRQQ1FDNEhVcWlBbzBISFFRYmhHQnhKckZHT0s5ZWVoaWdHN0Q1TjJJZTRfNFJsT3R0VVhrY283bW1IVGZpZDVtZW1sSWcyUXFVSTZiNF9xTDlfS1dYYVpMYXZoRjlWeFRZdlE3Q0Jib0g3TEZxWEtNLW8tZFNwX3ZvdHM2R0hOTnhV?oc=5",
+   "data": "2026-11-22T05:15:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
   },
   {
-   "titulo": "Jardim explica evolução de Samuel Lino no Flamengo: 'Menos dribles'",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV21BMjAtbTBrNVJ0NHFPNE54WjMyUXVjaWRSVzRaLXUyRl9zdmt0MWw1dmxNOVd0bjVsZlNfUnhJUjk1WkRnc1FhSHFmc2VFUzdzOV8zcmsyRUNDUmxzcDA5ZG1CT0ZYMXJNRG5lb2RVdGpjQkh5LXBMZEhGNTBYb3lPY09pS1Y4SU40ZXd0Qk9lYkNmcmd4OWh5eWxUVUV4ZXgxVlhCaEl3Vk5lcFU2eGN1OGRJTmJMNk9yQV9RSGVaeVpzNUNTSkZEN3lZeDM5eC1wdFRWamNvcG5G?oc=5",
-   "data": "2026-11-22T04:58:29+00:00",
+   "titulo": "Jardim exalta apoio do elenco do Flamengo e comenta resistência da torcida",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTlAzQmpqRmhaaHhzcWFVSmJjSHdvQTBSZ3dhU2xTM0licmFuMnZtT2d2RWxURXpGMWFSc1ZTY2ZhajB5SUtvanZuYU9xT3JJUDhiOVdvRVV3d2V5akRhNXUyU3MwUU9CYmxRakdzVXdMS25CQmRwTUxrY1FnZUtnbUQwUG10T3p5b1NfQ1NjVXA4elpOY2wyQ3hLVDJFYU1qdjFLQ1Q3bmtnLTRGR3BsVktiQWlOcTFiMHN6YnRCNGM5a3p0T2FlcTRQUkg2U2hJQ2gzbTdCZ2tqWEFK?oc=5",
+   "data": "2026-11-22T05:08:25+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -402,19 +442,19 @@
    "resumo": "O Flamengo providenciou uma taça pra comemorar o título! 😂🏆⁣ A CBF definiu que a taça de campeão seria entregue ao time vencedor apenas no primeiro jogo como mandante após a confirmação do título. O Flamengo, porém, tev…"
   },
   {
-   "titulo": "Milly Lacombe: Quanto custa não ser Flamengo?",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0xzYXlxVTJfYzlIU3ZJUDdjU1puOVY0UEFKU0NkYmt3OVBQcjYtRVp3aXJvOEw0Q0wzRFVEWE1EVUhOc2xtWmRYNlJoTVpLejFBVGdsMVk4LW02QkdLTWR3SmdJSm1fM3N4ODh1X3dLdjNYWUE3N2dCQ2pvdnVHT1JmSlkwUkxoQ0w3T3pmNWhaQ1hCVHNObnd5Tjcxdw?oc=5",
-   "data": "2026-11-22T02:51:09+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Jogadores do Flamengo desembarcam em meio à torcida no Rio após título",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ2pNakVMZkZHMWRkU2ZyaWU4N3R0Q0JTM1pZZFQ2R1pHNE1PUm9Hd3VydDZqbDc2WDg4MU5mUjdqaTV0Yi1ZVTRvWl94Nk95YlBQaGgzamJYRFZYS2oyRFRIQjJXMmVSd0ZzN2ljeXhWb0c4NXNvcmZQclBDX1VMTFkwUWZlLXRuS1g0SG9CQzA1MmZsbmZyUjVlOUs2LURYM01reHF4MzVWUS1vcGc?oc=5",
    "data": "2026-11-22T02:37:57+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Provocações e infiltrados dão o tom de rivalidade no Palmeiras e Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdC1GYS1XaG40U1EwcWZITnVlNUx2V2R1Z3pMZFN6V2hNZXI1VWtxNFl0bXY2NHZJMFRwX1ZZVXhpbHFZWmZLVE5FZDFBc0ptSVo3WWdkejg4Z3hxWERaTk42VVBic2ZKaVZLd2syYmVIcWFudkg1S2FYWExXU0RuNllvYk0wUHpfOUJlSlZCQVlTX0pTR0Y2UzUwa0VRRUxFU3M4d1FnZEVibm8zUXd0QmZZVGNyenU2djFULVItaUJhSkFrQkZGSU1MYVlXWUNZMU9rMlV3Qk1qQnZnMEE?oc=5",
+   "data": "2026-11-22T02:28:36+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
    "resumo": ""
   },
   {
@@ -428,6 +468,14 @@
   {
    "titulo": "Paulo Vinicius Coelho (PVC): Samuel Lino se consagra como artilheiro das decisões e Flamengo é bicampeão",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSFFibkVXdW5NX1FGejI5Q2NkeHJYZllIcEFmNHBOaC1aNnJxVjQxQU1QbGRJelQwWDZ5aFRyT0drSGpiRFVnc3RlMEoyVF81VDIyZXowNDZKRnZIS3ZjWjJOMHJYRFpyUGt5dzlaVHlIdlRlRVRicmdJSWNCWXNHNFFjNnp3el9VT3c5ajN3MUE1LUt4MXpkN0ctRTBJZHYtTUtVb0hwdEt5QVJqXzA0M2UwNVFZWUVydTc4WkI5NTBSaGRjSVZQSENoT0ZEQQ?oc=5",
+   "data": "2026-11-22T02:25:28+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Milton Neves: Flamengo faz a festa pelo título do Brasileirão na casa palmeirense!",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUXpvRldBdmZYQU5qWndvOUs5alhLMDAwb2tNcUEzcDhNaVFrRm81SUhmSWYtMmxlUXg0S1l5eGg4V0l5OWh2a21PY1pad2pINk4tekU2LTI0b0UtblkxcEgzNVhzS09rOEdXWFVhYUpBNTNSMnFFNTROQVVJb05uUHY4NkdHNW9NSzItQjhBZV9pQ1BBZVpKVUFmeEtTQjNuZFc0N2FZMGkta3NmY0lPalVyZmlYb0NnUmZ3bXE1ckZNdDl2c1pkLW1vWHBqdkU?oc=5",
    "data": "2026-11-22T02:25:28+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -506,14 +554,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Dos 8 pontos atrás ao título antecipado: Fla atropela Palmeiras no 2º turno",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc0pQY3hoWG16NFBGN19qbFdFV0RCT3QwQ2tJZTJiczlPS1lJMDdCUURKeXowVmVLQVhWTUtFSTdsNld5WXpKSkJiWk5rWmsxb2drdUJaZEVKdm5nVGRQQ1FDNEhVcWlBbzBISFFRYmhHQnhKckZHT0s5ZWVoaWdHN0Q1TjJJZTRfNFJsT3R0VVhrY283bW1IVGZpZDVtZW1sSWcyUXFVSTZiNF9xTDlfS1dYYVpMYXZoRjlWeFRZdlE3Q0Jib0g3TEZxWEtNLW8tZFNwX3ZvdHM2R0hOTnhV?oc=5",
-   "data": "2026-11-22T00:15:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Trégua? A pedido de Bap, Flamengo agradece Palmeiras e Leila por recepção",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUENYNXc4LTRhekdVSEpzY0liU2ZLR05tbzU0d2cxV1h3Y3VNQ0E2SHJhbmljcWtfc2VxbnRnN0RkdXJlZEdjSW1Cd0pQdkhmQkl1Wkpyb0pCRWxQSDBjU2E3cExqcVFxN3Q2TXN4V3MwMks2eWJGa1Z3dUhBakxwVmV4b1RUYk05LWpsSGZWXzJmY1Vud3dMeWJUcmpIelBFdWs5RHU5eUVPdlN4QjQzRGl6VE5hRmRQTFAxaXRKQm9yb3BhM1loZUdPdU1YQ1VWN01zTUpnbTBYaVE?oc=5",
    "data": "2026-11-22T00:14:21+00:00",
@@ -530,12 +570,28 @@
    "resumo": ""
   },
   {
+   "titulo": "'Rumo a Montevidéu': Palmeiras provoca Flamengo com final da Libertadores",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc0hlVk1pUS14Y3hjMVZvSnhBcHFZam41Z1pOQXViQVg3LWZzaDhpUDJLUlRtLXNhVjc1WEVKdDRlcHlfemdRQmZ4cV91Mmx3UnR4d1RtOEQxa0NZODFaU3FuVEt6dFU2MVhVeVd6Nm51a09Na21ma25aOUZpNGU5ZUNJMWZzWkgtWkRzVzZQdk1sM2FUcllINGtNbDZobTBMdC1mcDB5MmU3aUFkTVlXekhldGU0M2VhM1pKeWJRYjlwWGI3My1EMmwzQnFRb19pT1BGMmVkNGFRZw?oc=5",
+   "data": "2026-11-22T00:08:31+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamengo agradece ao Palmeiras \"pelo respeito e pela cordialidade\" no jogo deste sábado",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/21/flamengo-agradece-ao-palmeiras-pelo-respeito-e-pela-cordialidade-no-jogo-deste-sabado.ghtml",
    "data": "2026-11-22T00:02:28+00:00",
    "fonte": "ge",
    "fonteNome": "ge",
    "resumo": "Em atualização Bap celebrou a conquista do Brasileirão e provocou o Palmeiras 👀⁣ Em nota, o Flamengo agradeceu a hospitalidade e recepção do Palmeiras no jogo deste sábado, que rendeu o título do Brasileirão aos carioca…"
+  },
+  {
+   "titulo": "Jardim explica evolução de Samuel Lino no Flamengo: 'Menos dribles'",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV21BMjAtbTBrNVJ0NHFPNE54WjMyUXVjaWRSVzRaLXUyRl9zdmt0MWw1dmxNOVd0bjVsZlNfUnhJUjk1WkRnc1FhSHFmc2VFUzdzOV8zcmsyRUNDUmxzcDA5ZG1CT0ZYMXJNRG5lb2RVdGpjQkh5LXBMZEhGNTBYb3lPY09pS1Y4SU40ZXd0Qk9lYkNmcmd4OWh5eWxUVUV4ZXgxVlhCaEl3Vk5lcFU2eGN1OGRJTmJMNk9yQV9RSGVaeVpzNUNTSkZEN3lZeDM5eC1wdFRWamNvcG5G?oc=5",
+   "data": "2026-11-21T23:58:29+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
   },
   {
    "titulo": "FLAMENGO É DECACAMPEÃO BRASILEIRO | ANÁLISE DO JOGO",
@@ -549,14 +605,6 @@
    "titulo": "Jardim revela último objetivo do Flamengo: ajudar Pedro a ser artilheiro",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR21aeG5LeWhkejlaSEdBVXZqczZGakoyYk5NbmpQVG0zb0lQamRPTVBSQTFiTWlsYm1jc2hJRGo3NXlucWhSTGV3RlhTbGxWQkNBTjUxSXdVekRtWHZiblVfdmpBQU1tMjAySVJYck1mRWhhQTE4YmFlWHBlY21SUGZkaXhscnN3dDhGTkxySnotRG84bDlpVmE3cExMQjFscXJJdjRkbmllQXVSVkp2T1pVa3ZzRkNMTnh2emhVRE1nQ2RGdTVHMHUzNlkwX1F5X1NqVUdYU09KUDc2bGc?oc=5",
    "data": "2026-11-21T23:49:47+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Flamengo comete gafe e vaza camisa de título com provocação a Abel Ferreira",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOFRFelBYWHZvTmdQbE9MQnBpbEhqS3hCN2Etb2pjeE9SUUF1Q2xNLWdLZXhqbHRDSVVRUXRpdHRlVnlWU284allmQU95LVUxSXFnbF82OXVrRlh2WHpMT3RLQzRJYnNHYUJxTVN5WG5SUjN5MlhUUFdyS2xPQ21oLTZsTm5sSjljZ1pCV0k0X2JCcFRCcGZQbW51TDZXbjlXSzdxaUNGb0VFMjB1ZVBYaXRMRFpUR0lwV2x2RTZSUVdfV21MQXVBaU5MU2YyazR0akFDRUV0LUYzSHVZQktv?oc=5",
-   "data": "2026-11-21T23:46:37+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -586,19 +634,19 @@
    "resumo": ""
   },
   {
-   "titulo": "Abel escala Palmeiras misto em 'decisão' contra o Flamengo; veja times",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjVuWlFXTmlyNGkyOTVWTWxuQm5NZXJSS1c0OHZrRTFkaXZPZlJIc1JOaXVtUUF6T0N4eXI0c2lXZjFmQnJfVDJMREdWa2RmSVRvVUx6M2paSmk4RjFycTZpVHozNmVmYVdEYXJGdlo4SXNGZjZjYnVsRDdjYjVvWnNmTnRsTkdyWTlXXzdpSWZwNnRiWDF5M0U4aWhfZmhuczNjTGJwY0VZVnY5UUx0cG9ZRDJyczE4MG1HNkVPYzVBVEU?oc=5",
-   "data": "2026-11-21T23:37:01+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Jardim fala sobre futuro no Flamengo: 'Não estou aqui para tirar dinheiro'",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkUza0hUdEV5WFFKTzR2NjlFWkhTdnBpX2hSaHVJRDI0VWhoS1RiU1g4Z1huVDBObFFsaXZJc2ZkZFlYZlBHM2dXcTVMNVJBZmM2dkVSRjZuQm5jTG9HZWVhTmJHSnVFSDZITE42c3NLYzA2N0gxZ2IxcHYtdWdlUmpxdlNVcTdvcDVjcl85VzhKUlh3S1Q1UWNha2RVWnpUVWs5cDBZb3JMUGs0Ykd6ZHo3TW5velg4MndMMllwaUg2N1NMa0lzTFBKVnZvUFkwR09MQnpn?oc=5",
    "data": "2026-11-21T23:28:43+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Provocações, infiltrados e título marcam duelo entre Palmeiras e Flamengo pelo Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaTlhR0g1YVhGbmw1NERPdUlONWg1b1JhaDc3Qm9MblNIdXZldThEWm8xeGwzNnlsYkNSb0p0cWgxU19EZWdGcktJRVNDTVJHdl96SHZ1MHp0WDdhV3BRSHR2TXVhQzdCcEQ0dnFNUTNUWXk3MGxnc3lCY2ptVE8wbk02OVZMc0FMTTNNTXZnSi02ZnN3eE5vMU14YlRXWXlEQVFZLTRlRDQ3ajdGNEFXcm9oci16UTVRcC0wR1BEeW9WeF8zdFZfXw?oc=5",
+   "data": "2026-11-21T23:19:42+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -706,6 +754,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Samuel Lino celebra gol decisivo e título pelo Flamengo: “Vai ficar marcado”",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ195OF9hbjA1VDVsLWdaVXB2b3dYNHR2YkVqb1BremRVSnRRRjBPd1JWdEZJcy1acldhNjR6Wi15NEJGTExSd2VoZUMwd2s0ZUIyc1Y5d1JUZGRXc2pmZS0tNkxjdUVSV2hWRWpGNHBoLTh5N3pBYU5XeUNSRHhFTi02Nk1NQ0JLd0hzcC0tMHpQanYwUEVHRkhUaW5BOEk5b1lsRk8wQmVCb2YzNlE?oc=5",
+   "data": "2026-11-21T22:40:12+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Mattos: Jogo de hoje mostrou por que Flamengo foi o campeão brasileiro",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNWRPVDYtQ3FkcXJjUzNoOXZiNDQ4RVZaWUZ5UTR6MVR3T2pWX2lyZ2ZhYUVkRXlZSkJJa0FMcmczTmxvSEhvM3VXdUd4bWk0dy0zVEhlUkllS1lGb1V1d0o4VmRNVkxvNkN1Q2Zpekd6Uzg5MTdWZjJlakQtUXBrX0MtSkd1LVJDOW9EODIwclVNdmI2RmRRM1VCNG1ZMzJtbjl1eGJKUmdnRFRGR3IyRFExelBsellNY2xpR21KSkhrdXI5SmVGTkNiTDdkLUlCTkkwYkRMUnY?oc=5",
    "data": "2026-11-21T22:38:59+00:00",
@@ -735,14 +791,6 @@
    "data": "2026-11-21T22:35:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Abel admite erros e reconhece superioridade do Flamengo sobre o Palmeiras no Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2NHM2JPT3RlNGRrT3c0a3ZpUGdDd0EtT0NGZXhKcF95YXNubGliZWJlS2pxM0N5UVoxY29ZendJczRhQmVjWWtUVFhHdzlCenZTblB6R09vZ2l5SFpyM0s2bnRIVHZTRG9IMVNpbm1SUVJBaFZaSHBPUHFuYUNLc2hwaUpULVJIYmtjYjJUNktFWmRnWVYzaE1HSEpHSThBWU4wU3NBN2xRT2I5MzNRQ2RPaHRsOGtCTzBnWmVrdnIwZVNxT1B3?oc=5",
-   "data": "2026-11-21T22:32:34+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
    "resumo": ""
   },
   {
@@ -821,14 +869,6 @@
    "titulo": "Flamengo comemora dez títulos brasileiros, um deles com polêmica; entenda",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSmdjWFJyMnBEZzZsNkhhU2s0Y3J2V180aG9lMzZ1UXJSNTBLUngtbWZhbEtqOEQzbjk2Q1BBQUk3U2gwN2VNUnlQZnh0anNielpkVnVIUDNCLUZNWEVNYkRHZkY1LTBaREhRd2VERnozMEpSSm83ZVZFUTJXWWxDNnhRcUlraUNtVTA0bVJuVlVlMzVoZU9RSE1HWEkyd3ZlYkVlQml1SUpaVW5TdWM2UG5yZnFhRXdxYXpqdmFnQkRpZWpUNmNPWjMzemJCaDdjaXRwa3dFdDF5SzJ4?oc=5",
    "data": "2026-11-21T22:23:04+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Covardia do Palmeiras? \"Jogo mostrou porque Flamengo é o campeão brasileiro\"",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yVDlfaXgwUTBRS1o3WjBENjZKU1paOVNGSDFQcVh0cXk1dDloR0p5VXVEZGJ6R0E3TGhmaC00RXJIeXdQakZYdEN3V1dQNVIwOEhkUDRhdGpIUjI5UXFPeThvTGx6THc?oc=5",
-   "data": "2026-11-21T22:21:26+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -986,6 +1026,14 @@
    "resumo": "Palmeiras 1 x 1 Flamengo | Melhores momentos | 36ª rodada | Brasileirão 2026 Campeão brasileiro pela quarta vez com o Flamengo, o uruguaio Giorgian De Arrascaeta parabenizou os colegas de elenco após a conquista e desta…"
   },
   {
+   "titulo": "Milly Lacombe: Quanto custa não ser Flamengo?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0xzYXlxVTJfYzlIU3ZJUDdjU1puOVY0UEFKU0NkYmt3OVBQcjYtRVp3aXJvOEw0Q0wzRFVEWE1EVUhOc2xtWmRYNlJoTVpLejFBVGdsMVk4LW02QkdLTWR3SmdJSm1fM3N4ODh1X3dLdjNYWUE3N2dCQ2pvdnVHT1JmSlkwUkxoQ0w3T3pmNWhaQ1hCVHNObnd5Tjcxdw?oc=5",
+   "data": "2026-11-21T21:51:09+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Samuel Lino repete roteiro de herói com gol de título do Flamengo no Brasileiro: \"Momento incrível\"",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/21/lino-repete-roteiro-de-heroi-com-gol-de-titulo-do-flamengo-no-brasileiro-momento-incrivel.ghtml",
    "data": "2026-11-21T21:50:07+00:00",
@@ -1045,14 +1093,6 @@
    "titulo": "Alicia Klein: Flamengo campeão: o que muda na maior rivalidade do Brasil",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0l4R0FmWnAyT1JES1pCSzlDZ0N6R3o4cjB4UmFhZEozdmZZeE1vdUVKRXBBNlRPdzFxalIzT3hEVHVKWTlmeG56WkliMFRLU21rYjNRUXo0enBRZEJBOVlDZ2pxV0lDNTJ4SEhGWXNhUUpWcngtYlc2OE0tdlp0c0VDZTVqaFVWajJhZWQ2M0RnUEZSSDJaOTJBcG9rMXhkNTJOR1diNDFSbmUxUXFIWnJqbmR5OW1ldjFpNVBUTGtIZw?oc=5",
    "data": "2026-11-21T21:29:06+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Provocações e infiltrados dão o tom de rivalidade no Palmeiras e Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdC1GYS1XaG40U1EwcWZITnVlNUx2V2R1Z3pMZFN6V2hNZXI1VWtxNFl0bXY2NHZJMFRwX1ZZVXhpbHFZWmZLVE5FZDFBc0ptSVo3WWdkejg4Z3hxWERaTk42VVBic2ZKaVZLd2syYmVIcWFudkg1S2FYWExXU0RuNllvYk0wUHpfOUJlSlZCQVlTX0pTR0Y2UzUwa0VRRUxFU3M4d1FnZEVibm8zUXd0QmZZVGNyenU2djFULVItaUJhSkFrQkZGSU1MYVlXWUNZMU9rMlV3Qk1qQnZnMEE?oc=5",
-   "data": "2026-11-21T21:28:36+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -1138,6 +1178,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Lino empata o jogo para o Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wZy15X0xoS2Zac0czcGVGSUlxa20tWHVacmpRYjltbWJoOWRhOXl1Ti1La2g2WHRFRXl6WU9uSXdsbkNUS0c4RFZuRVdERFgzUmxNQ29uanNod18ydUtxUXBXdlRhRVBicFF2OC10NTBzei1l?oc=5",
+   "data": "2026-11-21T21:13:24+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "O que é protetor que Danilo usa no rosto em Palmeiras x Flamengo; entenda motivo",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMkYwUVZmY1NxYk8ybDdFeThIRXRWbm9RTURqb01mRUUwTXRySFhjTDZJNGJaclBpU0tpSTFndmJuRWREbnk4M0RqMzdra0xJNmQ3dEprUkxJTWRfRTJ0SE9mYWJEVDJsQ0d2VF9QeGRSVkEzMVBtX1NGbXdobzlZS3B4aEZlSjMzUEpDcldVamlRbjFUNk9uc3ZfS3dCTVN4QlpPNFJMR0Fzd0pxU01yMmxBaTBvNDY0REFYZ2VnOHh5UEVWcGdtZjNB?oc=5",
    "data": "2026-11-21T20:58:00+00:00",
@@ -1162,6 +1210,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Mosaico do Palmeiras para decisão contra o Flamengo viraliza: 'Piada'",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlI4bGx1blVieDQzNk9ucldyOHkwVno0NEVoYVFpbzJWUEFvenVtbWtNd1h0YmpIbW9xbjVydGlRSTFRdTJ0UDVjMV90RlFGVzdxZzBIcFlwb21hVVlXTklReFpwUzkzYkplcHo5YlN6dDVhNmhNczdyWlpVcHA0UGlIMWFsQ01ac1NId2doVm5FTGNmdkhvcjhCaWE5N1I4Q0IzdlB6UEZUR2VIbzk0?oc=5",
+   "data": "2026-11-21T20:01:15+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Flamenguista infiltrado é hostilizado ao vivo por palmeirense antes de jogo",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV1N0dHVFUWtCZGxMbEtwU1QyLXRUTlhCSzhHX3Jodm5JM18yYWVQV3VhN3RCS25ldlVUbkJSMFY3eVpscDlfbk9zODVRb2FsWmRXeXNadll6LWtncmdnR1FsYUU4WGd6MktXMzkxVVY3T216Z2wxZWxwblhNR2dITGRLbk1RcFdBSjFOWkxBRmJuODU2ZUw4UnlKcWxQSXR5WnJHbDFHUmhBSjdPQzlEMXRURmwwanJoQlViVlVrbW1CN01UMUVqSnRYb3M4cFNjcElZX0Q2LW9JV0Z6aUZoNg?oc=5",
    "data": "2026-11-21T19:48:35+00:00",
@@ -1176,62 +1232,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras provoca Flamengo com mosaico em jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmlseEpJOEN5YkQ2cmpIWFFLNWVuWGJ5bW5fNnVNOXZRN0NfTXB6RDNUR2lNeEVhTllCVk5XdTNJNW5KRmk0ZDFFZmFHS1FkQnJWeFlSSHZLUkdfNnpadjV1TURYby05b0JTN3JENlJlMVh0el9NdEJrNUgtUW05ZDgxVWRZdU53blJ1WjJZaFFFdG54Unh2bU5xUnUwYzU0V1p5N1ltRWQ4QV80VlVV?oc=5",
-   "data": "2026-11-21T19:34:31+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras x Flamengo: onde assistir ao vivo e escalações do jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMlNqeUxsV0FvWEtvZngwTW9PSGdGX1BTZ3BYMXpGZGZYdW42U05ZLUFzOEoyMWpSNmM0MmxoVGJYejI0Q3Z4X1dkTUx6Z216NnRGanRYVHFqUGZnLU9icHdaSzVUdVp0SVF3dkczNEpmYTlOUmtma0tNX29fS3BRMFFUd1F2X1RreHBMS2VRN2ZBWGVhZWw1X0ZMZy1fWW5pLXY2R09ab1ZEbk5LSUF3WUdJNEZhR3JOWFpibUhWNFVJTXYwRkNUNlpUeS1WcThX?oc=5",
-   "data": "2026-11-21T19:33:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Palmeiras 1-1 Flamengo (21 de nov, 2026) Estatísticas dos times",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWEdub0xRQllWRExCdXdEVlQ0QTd3MWtYVVZZQnh3eG41aUF5QVpuN2hoNUFCbGVYNjAwXzFCRzd0Mkd1a1VqVVpNRE1iNlZzZEVsSWtELXBLNEV4Z0FJMHZ6UkR6V2loQjFNalY3RUJQTmNLNnAzNUdoNmxKYkozOXBfUDJlVEFiQ3c?oc=5",
-   "data": "2026-11-21T19:28:17+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Narrador do Nubank Parque provoca Flamengo antes de decisão contra Palmeiras; veja vídeo",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZEdlMjZRb3FFT2ZxMGw2WDBRNWR4Q0dldzVma3pfTkk5NVdHWkRiMFdqdk9oempuTFNVNkdLc2RpbWN0UjdISThHRUFHXzk4RFBBN3hLRXZ2Y0cyNXdZVm1RVTI1MmJISnNGMDdjOHZRNnFNSWVCdTc0RE5Sa1ZQTHNSMzRiVi1Va011WFR6UWY3dVNmRVN4ek9ybUhVcDE4QkxLMVVpeGd1MEg0OS1TeElTSFdXM3N5ZnRaMnhtcENsQ3FLYVkzYzdmZw?oc=5",
-   "data": "2026-11-21T19:21:16+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Ex-Flamengo marca e City segue em crise na Premier League",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVllMcGRaY2dnUF9QcTFZVWhxRHhUYUlIUm12NFJXd2M1bkROMThpdGd2TXJjaE0zdGhXT2VZdGJaenVITTlScTYxYkJHYWNQVHRPT1JUUm1KUERBblFoSnFQLVZVWEFYMWhkVHpGRnFuR1ROeGpPN2tpWHRoSW0ycXpLc0xoY2dhN2Y0WnlBRmtSZnJzN05laEZwcENHWHN4bTR2Tm5jdFIwNzNKdGZvaVU2eno2VFRfNWpIamJxSzFPN3RE?oc=5",
-   "data": "2026-11-21T19:09:58+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "'Rumo a Montevidéu': Palmeiras provoca Flamengo com final da Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc0hlVk1pUS14Y3hjMVZvSnhBcHFZam41Z1pOQXViQVg3LWZzaDhpUDJLUlRtLXNhVjc1WEVKdDRlcHlfemdRQmZ4cV91Mmx3UnR4d1RtOEQxa0NZODFaU3FuVEt6dFU2MVhVeVd6Nm51a09Na21ma25aOUZpNGU5ZUNJMWZzWkgtWkRzVzZQdk1sM2FUcllINGtNbDZobTBMdC1mcDB5MmU3aUFkTVlXekhldGU0M2VhM1pKeWJRYjlwWGI3My1EMmwzQnFRb19pT1BGMmVkNGFRZw?oc=5",
-   "data": "2026-11-21T19:08:31+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jardim cutuca Abel Ferreira antes de Palmeiras x Flamengo: \"Os adversários se vitimizam\"",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/21/jardim-cutuca-abel-ferreira-antes-de-palmeiras-x-flamengo-os-adversarios-se-vitimizam.ghtml",
-   "data": "2026-11-21T18:43:20+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Jardim rebate Abel Ferreira sobre título 'entregue': \"No futebol é muito blá-blá\" Leonardo Jardim não comprou o discurso de Abel Ferreira, que jogou a toalha no Campeonato Brasileiro, após a derrota do Palmeiras para o…"
   }
  ]
 }
