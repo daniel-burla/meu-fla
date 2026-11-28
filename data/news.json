@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-27T23:41:10.708224+00:00",
+ "atualizadoEm": "2026-11-28T07:34:31.039377+00:00",
  "fontes": [
   {
    "id": "ge",
@@ -11,7 +11,7 @@
    "id": "espn",
    "nome": "ESPN Brasil",
    "ok": true,
-   "itens": 54
+   "itens": 55
   },
   {
    "id": "colunadofla",
@@ -23,16 +23,64 @@
    "id": "lance",
    "nome": "Lance!",
    "ok": true,
-   "itens": 56
+   "itens": 57
   },
   {
    "id": "uol",
    "nome": "UOL",
    "ok": true,
-   "itens": 92
+   "itens": 91
   }
  ],
  "itens": [
+  {
+   "titulo": "Já campeão, Pedro mantém foco por artilharia no Flamengo e adia resposta a Boto sobre renovação",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/28/ja-campeao-pedro-mantem-foco-por-artilharia-no-flamengo-e-adia-resposta-a-boto-sobre-renovacao.ghtml",
+   "data": "2026-11-28T07:00:01+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Top 10: Maiores golaços do Flamengo no Campeonato Brasileiro de 2026 O título antecipado do Campeonato Brasileiro fez o Flamengo já começar a olhar para 2027, e o presidente Bap espera nos próximos dias uma definição de…"
+  },
+  {
+   "titulo": "Dois campeões da Libertadores pelo Flamengo pedem para sair do São Paulo",
+   "link": "https://colunadofla.com/2026/11/dois-campeoes-da-libertadores-pelo-flamengo-pedem-para-sair-do-sao-paulo/",
+   "data": "2026-11-28T01:22:49+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Com passagens marcantes pelo Flamengo, Dorival Júnior e Rafinha anunciaram saída do São Paulo Dois nomes com história no Flamengo estão livres no mercado. O técnico Dorival Júnior e o gerente de futebol Rafinha anunciar…"
+  },
+  {
+   "titulo": "Vitão aponta diferenças entre Filipe Luís e Jardim e revela ‘susto’ diário no Flamengo",
+   "link": "https://colunadofla.com/2026/11/vitao-aponta-diferencas-entre-filipe-luis-e-jardim-e-revela-susto-diario-no-flamengo/",
+   "data": "2026-11-28T01:21:47+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Zagueiro do Flamengo teve baixa minutagem no ano Vitão pouco trabalhou com Filipe Luís. Afinal, o zagueiro chegou ao Flamengo no início do ano e, em março, o treinador foi demitido. Porém, o atleta vê tempo suficiente p…"
+  },
+  {
+   "titulo": "Time de Lincoln, ex-Flamengo, volta à Série A do Brasileirão após 41 anos",
+   "link": "https://colunadofla.com/2026/11/time-de-lincoln-ex-flamengo-volta-a-serie-a-do-brasileirao-apos-41-anos/",
+   "data": "2026-11-28T00:54:44+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Vila Nova, que não joga a primeira divisão desde 1985, confirmou acesso nesta sexta-feira (27) A Série A terá grandes novidades em 2027. Depois do acesso do Novorizontino, estreante na elite, agora o Brasileirão terá o…"
+  },
+  {
+   "titulo": "Campeão mundial coloca Arrascaeta acima de Messi; ídolo do Flamengo reage",
+   "link": "https://colunadofla.com/2026/11/campeao-mundial-coloca-arrascaeta-acima-de-messi-idolo-do-flamengo-reage/",
+   "data": "2026-11-28T00:16:15+00:00",
+   "fonte": "colunadofla",
+   "fonteNome": "Coluna do Fla",
+   "resumo": "Torcedor declarado do Flamengo, José Aldo Júnior rasgou elogios ao camisa 10 do Flamengo Arrascaeta é melhor que Messi, Maradona e Pelé? Na visão de José Aldo Júnior, sim. O ex-campeão do UFC e lenda do MMA mundial exal…"
+  },
+  {
+   "titulo": "Flamengo faz acordo com Estrela Amadora para receber dívidas por André Luiz e Igor Jesus; veja valor",
+   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/27/flamengo-faz-acordo-com-estrela-amadora-para-receber-dividas-por-andre-luiz-e-igor-jesus-veja-valor.ghtml",
+   "data": "2026-11-27T23:54:39+00:00",
+   "fonte": "ge",
+   "fonteNome": "ge",
+   "resumo": "Bancada do Tá na Área dá nota para o trabalho de Leonardo Jardim no Flamengo; veja O Flamengo formou um acordo nos últimos dias com o Estrela da Amadora, de Portugal, para conseguir receber as dívidas referentes às vend…"
+  },
   {
    "titulo": "Bom para o Flamengo? Argentina segue o Brasil e aprova proibição de patrocínios de bets a clubes de futebol",
    "link": "https://colunadofla.com/2026/11/bom-para-o-flamengo-argentina-segue-o-brasil-e-aprova-proibicao-de-patrocinios-de-bets-a-clubes-de-futebol/",
@@ -40,6 +88,14 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Em setembro, Bap comentou que os times argentinos estavam em festa com veto no Brasil O Senado da Argentina aprovou, na quinta-feira (26), uma lei que proíbe a publicidade e o patrocínio de casas de apostas online a clu…"
+  },
+  {
+   "titulo": "Andreas recorda escorregão na Libertadores de 2021 e revive trauma no Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOV8yYXItam5aUmd4QWxwbVp6QnBwdjJpam5YSUJabWJfYzJJQmVUQ3pXbUJXOFJqWmVrVHlTeXhGNjJTZVNKTk5mbnJNX3FNaXFyNGlqc215Vk5Rb1BBTFUzSFhJS2xGQkUtcGh1ZnFvUTBkdmxkbUJBVjAzSmZxZnhRNUpWV0hWX3duX2VieFB1aEZDTDNWYjJ5SEk0Q2w0SUNLTHFraE9RMVYyNnFMU1NTYUFwU0lIRkVOME1zOEVndVhTeEM5M2VfX1I1Q3FsMGZ3eGtiT2s3cTJZeF9YRUFxVVJyU1ZGS1FEbXlXaVJHcDd6WUtZOQ?oc=5",
+   "data": "2026-11-27T22:57:00+00:00",
+   "fonte": "espn",
+   "fonteNome": "ESPN Brasil",
+   "resumo": ""
   },
   {
    "titulo": "Técnico de time estrangeiro se derrete por Arrascaeta, do Flamengo: “Um orgulho, um craque”",
@@ -50,9 +106,9 @@
    "resumo": "Treinador do Peñarol (URU), Diego Aguirre rasgou elogios a Arrascaeta Arrascaeta está na história do Flamengo e tem a admiração da Nação Rubro-Negra. Porém, o carinho pelo camisa 10 é proporcional no país natal, o Urugu…"
   },
   {
-   "titulo": "Andreas recorda escorregão na Libertadores de 2021 e revive trauma no Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOV8yYXItam5aUmd4QWxwbVp6QnBwdjJpam5YSUJabWJfYzJJQmVUQ3pXbUJXOFJqWmVrVHlTeXhGNjJTZVNKTk5mbnJNX3FNaXFyNGlqc215Vk5Rb1BBTFUzSFhJS2xGQkUtcGh1ZnFvUTBkdmxkbUJBVjAzSmZxZnhRNUpWV0hWX3duX2VieFB1aEZDTDNWYjJ5SEk0Q2w0SUNLTHFraE9RMVYyNnFMU1NTYUFwU0lIRkVOME1zOEVndVhTeEM5M2VfX1I1Q3FsMGZ3eGtiT2s3cTJZeF9YRUFxVVJyU1ZGS1FEbXlXaVJHcDd6WUtZOQ?oc=5",
-   "data": "2026-11-27T22:15:19+00:00",
+   "titulo": "Coritiba x Flamengo: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPemtkZ3IzWC1hYmJJWWRoWi1nX2lRT3JYM0ZDcDZ6dGxKLVFMQW5iUHpicG5BN1plTGFSeGh2YXd3VmJFSS0yYUlkX2J0YVpHNkwtMURSekJqMWp3UHNvTkNkNmVIeUhZckI1QTAxQjdGNWJ6WmV0NEZPa3piMW5hZjFfN3ZtU1hoLTl3OUlXbGhwMmhQcjJuSXpzRlFmcjdETE95cmlNOXlPeVd4UTVvdF9KeTlzSFdXR0N5cmZkdkFYelVrWk1FS216cUJlVVR3U3dGMjZJcVpJZGo0RWdfdTBQMGhlSVhhUUZYX2pzdTl3dw?oc=5",
+   "data": "2026-11-27T22:40:00+00:00",
    "fonte": "espn",
    "fonteNome": "ESPN Brasil",
    "resumo": ""
@@ -64,14 +120,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Leila Pereira citou times de São Paulo como maiores rivais O Flamengo não está na final da Libertadores, mas não sai da boca dos representantes do Palmeiras. Depois de Abel Ferreira citar o Mengão na última coletiva ant…"
-  },
-  {
-   "titulo": "Coritiba x Flamengo: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPemtkZ3IzWC1hYmJJWWRoWi1nX2lRT3JYM0ZDcDZ6dGxKLVFMQW5iUHpicG5BN1plTGFSeGh2YXd3VmJFSS0yYUlkX2J0YVpHNkwtMURSekJqMWp3UHNvTkNkNmVIeUhZckI1QTAxQjdGNWJ6WmV0NEZPa3piMW5hZjFfN3ZtU1hoLTl3OUlXbGhwMmhQcjJuSXpzRlFmcjdETE95cmlNOXlPeVd4UTVvdF9KeTlzSFdXR0N5cmZkdkFYelVrWk1FS216cUJlVVR3U3dGMjZJcVpJZGo0RWdfdTBQMGhlSVhhUUZYX2pzdTl3dw?oc=5",
-   "data": "2026-11-27T21:54:51+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
   },
   {
    "titulo": "Escalação do Flamengo: Pulgar e Léo Pereira voltam, e Ayrton Lucas ter ganhar chance contra Coritiba",
@@ -96,22 +144,6 @@
    "fonte": "colunadofla",
    "fonteNome": "Coluna do Fla",
    "resumo": "Técnico português mencionou o decacampeão brasileiro em última coletiva antes de jogo com o Estudiantes (ARG) Estudiantes (ARG) e Palmeiras fazem a final da Copa Libertadores da América neste sábado (28), em Montevidéu.…"
-  },
-  {
-   "titulo": "Campeão do Brasileirão, Flamengo já sabe onde começa na Libertadores de 2027; veja o que diz a regra",
-   "link": "https://colunadofla.com/2026/11/campeao-do-brasileirao-flamengo-ja-sabe-onde-comeca-na-libertadores-de-2027-veja-o-que-diz-a-regra/",
-   "data": "2026-11-27T20:15:43+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Título nacional garante ao Rubro-Negro vaga direta na fase de grupos, sem necessidade de disputar a Pré-Libertadores O Flamengo já tem presença assegurada na próxima edição da Copa Libertadores. Com a conquista do Campe…"
-  },
-  {
-   "titulo": "Raça Rubro-Negra ‘incrementa’ música criada por Paquetá para Samuel Lino após deca do Brasileirão; veja vídeo",
-   "link": "https://colunadofla.com/2026/11/raca-rubro-negra-incrementa-musica-criada-por-paqueta-para-samuel-lino-apos-deca-do-brasileirao-veja-video/",
-   "data": "2026-11-27T19:52:59+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Torcida organizada acrescentou versos à homenagem ao atacante, autor do gol que confirmou o título brasileiro, e cantou com o jogador no Ninho do Urubu A festa pelo decacampeonato brasileiro do Flamengo ganhou mais um c…"
   },
   {
    "titulo": "Varela, do Flamengo, tatua título brasileiro depois do empate com o Palmeiras; veja",
@@ -170,14 +202,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Marcado na pele: jogador do Flamengo tatua taças de Brasileirão e Libertadores",
-   "link": "https://colunadofla.com/2026/11/marcado-na-pele-jogador-do-flamengo-tatua-tacas-de-brasileirao-e-libertadores/",
-   "data": "2026-11-27T17:41:00+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "Guillermo Varela eternizou conquistas recentes pelo Flamengo Após a conquista do título do Campeonato Brasileiro, Guillermo Varela quis eternizar ainda mais o feito. Na quinta-feira (26), o uruguaio não só tatuou o trof…"
-  },
-  {
    "titulo": "Ex-Corinthians e Flamengo critica desigualdade nos cargos de liderança do futebol feminino",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWVPalcxXzViTlBXZkVUOWRoRGJfMnZ6N2c2akhuR3BDSm5qa0x0di03LVN0R3NRbXNyREJFamh1QlpseVJYY1NOT3Npb213cmF6a2hiRzdVM1BGb2tiQkVlQVBIUGMtUzVRZ1ExMHg2TFVHbUpoRGUweHZQcUZkY3UxUVU0Wk01bmJTQUF5RThmYjRoblJjWnZ4VXVGUFRqNTJCODBxcm1VenMwZGhKTXNSWTE4b3NFRUpJU09xclhxVGdiWC1TWkdEM1lRenA2MGlz?oc=5",
    "data": "2026-11-27T16:46:45+00:00",
@@ -210,6 +234,14 @@
    "resumo": ""
   },
   {
+   "titulo": "De Fio a Lino Maravilha: a história da música que voltou a embalar a torcida do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbzNFNlMwVXlJY2ViWU9ES2ZScU9aVUpWNDBQekVYRVBfY0ZXTjlVbk9tOGp3UGpiWTdHVHI3bVltb1d6TGRMV2dKZGZqVHhhcXZnaWZ4aWpUTzc1alNlQmpUaFo5WGpvbnE5MG9MU1BYTGNaa3Y3SVF1WFNVcnBaQmNBTWIxcWphcnI5WkZTT0t6c292TFNOT3ZQaHJqWUY1bDJGNEpVUGczYk5xZG9VWUdlUGdScUVYR05IZlF0QmlPS2RK?oc=5",
+   "data": "2026-11-27T16:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Danilo, do Flamengo, se aproxima de marca histórica de Pelé",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmo1bEFPWkJQUEN4YXJjcVpydDFCUlFJSmdJQkNKMjZCWGRJSTF1T2RIYl9Sc3dyN1RmeW9TSjRYcmoxSm9aNUd1bkdWMkpIN25ZdUNQUkNBd3FaN3FUNmp3V3RycFFkd1VoNmdDaWdVMVEwUU11NnVZYkhKanNiel9JdFdXSEFMLWsycXd5Njhydm94M1JYdkxMdGd6Y2l0Ump1Q0s5MDhGZUlvWlZLMEdiaWo4Zjcz?oc=5",
    "data": "2026-11-27T15:45:06+00:00",
@@ -234,6 +266,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Bastidores: veja como foi a festa do decacampeonato do Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWlNObl92UjlXeV8wVEw1aXdSQ1h1YTlEY04ySVNHOU93ZUhmUmsydEwtYVlSX0J3czBjSGlsU3RKRHVzdjRtNWpScV9rcWdOY1JWM25WUXdVaVNOamctTkh4R295cG1zMjFpNWs2eDRvZ1ZORW02dUZfaFFEc1I5OTJlcnZGeXlGTWxEQTJ0b3hVTGNIeDJudmZ5S2dScGxidzR6OFRkZDd4cUlacVV2UDVEeU16Mmh0R3V0NTRkNjc?oc=5",
+   "data": "2026-11-27T14:31:39+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Everton Ribeiro deve deixar o Bahia em dezembro, e Flamengo aparece como opção",
    "link": "https://colunadofla.com/2026/11/everton-ribeiro-deve-deixar-o-bahia-em-dezembro-e-flamengo-aparece-como-opcao/",
    "data": "2026-11-27T14:29:17+00:00",
@@ -253,6 +293,14 @@
    "titulo": "Varela prepara tatuagens de títulos conquistados pelo Flamengo; veja",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcnNHdEJ2cVdvUmx3TGx2c08yUFUzYURpUzlXYVcyYS16NkR5S1psNHNIWjZQNGg4OVBxU19iQ0dCRGQ1YS1NS1NKb0lyem5RdE16S3pPUUZTdzMxQ1hJSUF4STVCS2JtZFgxdW4zV1R2V241dktrdEVDU1hxNkdmcUVXTEFqVkNrcFR0MGdveUZaRGRhSHI1Snc5bVFiRDV6eTVUSUtCVndIbmwtRmw4d21zWjhCZmVob01Vclg2OA?oc=5",
    "data": "2026-11-27T14:00:00+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
+   "titulo": "Flamengo toma decisão e demite treinador",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRHRIYXRuY2VURUxLLVdWeW9yMjhFUm1UbnBUWWlIUTFzZFNMOTVzNkdkcVV1SGdVWUdnVkFTMk9Kb0tEODI1WDZFMTFiTy1HVzdTVWlGSnAxWHpUR091dkZRaVI5dG9lZWhfelhqOHA0d2VMa1U4YUtxT3ZjRUNtY0tCOFFQVjVGS1RDRWtCYklGaVdiYUdXZllkMnpzaTViLU1xbGh1eDZEZw?oc=5",
+   "data": "2026-11-27T13:39:52+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -320,14 +368,6 @@
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
-  },
-  {
-   "titulo": "CEO de patrocinadora do Palmeiras sugere contratação de jogador do Flamengo",
-   "link": "https://colunadofla.com/2026/11/ceo-de-patrocinadora-do-palmeiras-sugere-contratacao-de-jogador-do-flamengo/",
-   "data": "2026-11-26T22:53:49+00:00",
-   "fonte": "colunadofla",
-   "fonteNome": "Coluna do Fla",
-   "resumo": "João Adibe, CEO da Cimed, colocaria Danilo como um jogador que contrataria para o Palmeiras O elenco do Flamengo é bastante qualificado e chama atenção de investidores dos times brasileiros. João Adibe, CEO da Cimed, qu…"
   },
   {
    "titulo": "Monaco de Filipe Luís vence e mantém campanha perfeita na Conference",
@@ -490,6 +530,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Samuel Lino canta música criada pela torcida do Flamengo; veja",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTltbXF6SkxPelpUQzVVRnBfZHUwX0VJSVZyLUp2Y3R3M055QW5Ca1h2N3AyQjVIRkNQdG9CaVRoUGNsRHZrY01mNXNfejFXLVkzS2l3VndrTWJLWjV2UlRjZGtyc3lTRlRSTkV3OU9wT3E1Q29zSVplb2JQM1ExejljekNJZXBpcEI5NTUwUEFSVUFNMTE2SHZWWFdLMjJGTGZnNWxObkhSaDZNZFNaWFdR?oc=5",
+   "data": "2026-11-26T14:51:56+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "Presidente do Flamengo, Bap defende redução de número de rebaixados no Brasileirão: \"Futebol não suporta\"",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/26/presidente-do-flamengo-bap-defende-reducao-de-numero-de-rebaixados-no-brasileirao-futebol-nao-suporta.ghtml",
    "data": "2026-11-26T14:15:11+00:00",
@@ -498,9 +546,9 @@
    "resumo": "Flamengo não antecipará férias dos jogadores mesmo com título O presidente do Flamengo, Luiz Eduardo Baptista, o Bap, se mostrou contra o sistema de rebaixamento adotado pelo Campeonato Brasileiro, que determina a queda…"
   },
   {
-   "titulo": "Flamengo x Chapecoense: ingressos para festa do deca sobem até 75%",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnNtOGNmY1pGd3BydUUxYVBKek4yVWlWYVRRVmZsLTR5Nk5nZ2tBbXM2RDZNTEdRZmJRVGF1RS1UUFRvblFnaUwwZUlxWFlsS09ST2pGdk5JZFVlZjc1UnB2UGY1REVoazRGN1VmZ3hXeUFsRGpkY2EwNHRBd1hobjRoS2hlS2VEejViaFNqYnJpVXRpcGltOWwyeXVVdXQtWW5ReWRySE5QU1VlQXZyZlk5ZExSc1k?oc=5",
-   "data": "2026-11-26T11:00:00+00:00",
+   "titulo": "Zico reage sobre volta de Gabigol ao Flamengo: 'De braços abertos'",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2pLaDNCeG9MWUdpc0J2RnVqVnVOQ0NsMk5HWGVPQ192bjNxRG5LUzRNWTlucEFLSTNMcVF5RmszYnBQRUVWcXZYa0JXZUc5amN6NXpMcW5QS1pIR0YzZjZJUlNONEl2WGYxWWZpRy1FTUo2OVBkVnYxa3Vsak1HNFF5aVNsYmV5Q1NIeVRqNDl6WkcwT0hwNC1KQlZqUzRGcmt2UnZPMFNuWms0S3Qw?oc=5",
+   "data": "2026-11-26T13:48:31+00:00",
    "fonte": "lance",
    "fonteNome": "Lance!",
    "resumo": ""
@@ -690,14 +738,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Rodrigo Mattos: Flamengo quer manter Jardim, mas não vai segurar se houver proposta vultosa",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOEE1X2E3ck1sZTVhVDJEQ2NYVE15UjByaUpQeWdPVlIySnc4WE5FSkNQMDhLaG02RHdpdnE1NzZEV2xBWlVWT2VBUF95NlpJMWtVWUJPX2w4N0FwaWRabFFvM3hRakxsZnQzVFV3ajBTdHhrQ054eG9CRS1UaURCcEpMUFN3czVDdU1LS2hrX2V5b0ptUWVjR1VvbGlqQzBQV3c0NTRMd1lPb05JcGRCNnFhRU9iNXFjUlBwaU5CYmtBNmx5N2E4Y0gyeU9YZVJUZ0syTV92cFVfdEw3R3ZMMXNWeUN5dw?oc=5",
-   "data": "2026-11-25T18:31:21+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
    "titulo": "Boto comenta negociações com Pedro e Léo Pereira e não garante Lino no Flamengo: \"Não há inegociáveis\"",
    "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/25/boto-comenta-negociacoes-com-pedro-e-leo-pereira-e-nao-garante-lino-no-flamengo-nao-ha-inegociaveis.ghtml",
    "data": "2026-11-25T18:24:44+00:00",
@@ -749,14 +789,6 @@
    "titulo": "Boto diz que Lino é negociável e projeta mercado do Flamengo para 2027",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTm43TlEweDQ5YVB5RjNwRTkwbEVxNGhlYXhZUzNUeTF5NmNXX294WGV0a1NZcWJGTTFLWEJFVGNWSW5RSllPV1Y0Y0pVS1pnMV9vdDdVOTJyeEtHMzNhYkJtZHpDaHFiaFUzRjNFdGNVRFNGM2YxYXhuMEw0MGNoaVVoOE9JX1J2eUJVUmsyeE5HenRGTGY0dWMwRFBvMW8tUVVWOEFVdy1fWjBBdHl1TTNJX2Q4TkpnVmN4YkNMVlNFa2JJSkFBUTVn?oc=5",
    "data": "2026-11-25T16:24:28+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo e Jardim projetam continuidade, mas olho grande pode atrapalhar",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX3VCaWZ1VnBjcHhiUGYzOUQ1Q1dIS08tYUhJbXhVMHZIcERrUzFDMjZyajc0Q2VUMEM5UTJ2bXNETDVSdFlRMUVLekpTbjVwNlFmVzFQbUJTcTBZZkk0MXRQZ2J3UnJpN1FJeWtjSk1kdm1LNEhQZTZoVVFJTFMyc0hzRUR1RTB1cVVOeGxzSWZiWWpfSkRxOW9hdGc5d2JVMlVuZnp3YjFVYXJNWUh5cVJOVE5CXzlCVDVpMWw1cWRaajVhT0NqUw?oc=5",
-   "data": "2026-11-25T16:20:44+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
    "resumo": ""
@@ -826,6 +858,22 @@
    "resumo": "Leonardo Jardim vai ficar? Veja as informações sobre o futuro no Flamengo O Flamengo pode ter vencido o Campeonato Brasileiro com antecedência, mas isso não significa que os jogadores vão entrar de férias. O planejament…"
   },
   {
+   "titulo": "Rodrigo Mattos: Flamengo quer manter Jardim, mas não vai segurar se houver proposta vultosa",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOEE1X2E3ck1sZTVhVDJEQ2NYVE15UjByaUpQeWdPVlIySnc4WE5FSkNQMDhLaG02RHdpdnE1NzZEV2xBWlVWT2VBUF95NlpJMWtVWUJPX2w4N0FwaWRabFFvM3hRakxsZnQzVFV3ajBTdHhrQ054eG9CRS1UaURCcEpMUFN3czVDdU1LS2hrX2V5b0ptUWVjR1VvbGlqQzBQV3c0NTRMd1lPb05JcGRCNnFhRU9iNXFjUlBwaU5CYmtBNmx5N2E4Y0gyeU9YZVJUZ0syTV92cFVfdEw3R3ZMMXNWeUN5dw?oc=5",
+   "data": "2026-11-25T13:31:21+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
+   "titulo": "Paulo Vinicius Coelho (PVC): Flamengo e Jardim projetam continuidade, mas olho grande pode atrapalhar",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX3VCaWZ1VnBjcHhiUGYzOUQ1Q1dIS08tYUhJbXhVMHZIcERrUzFDMjZyajc0Q2VUMEM5UTJ2bXNETDVSdFlRMUVLekpTbjVwNlFmVzFQbUJTcTBZZkk0MXRQZ2J3UnJpN1FJeWtjSk1kdm1LNEhQZTZoVVFJTFMyc0hzRUR1RTB1cVVOeGxzSWZiWWpfSkRxOW9hdGc5d2JVMlVuZnp3YjFVYXJNWUh5cVJOVE5CXzlCVDVpMWw1cWRaajVhT0NqUw?oc=5",
+   "data": "2026-11-25T11:20:44+00:00",
+   "fonte": "uol",
+   "fonteNome": "UOL",
+   "resumo": ""
+  },
+  {
    "titulo": "Título brasileiro coroou consistência do Flamengo sobre os rivais",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHdJbGNXS0tnMllVWks4UHdOX3pCc19nNjZSZUhXWXduRV90bDdISGRPenhrVGhZS3pBSTlvYkktcS1IOTF5cHpQSGJVZkVHSnFST1hBcm8xa2lQXy1JT1VYdXhuWGpORTNJOWllQkRoVXNQdGVZVC1JeEs4R2k5WU1nczlNUkJwMDEySHlkNHl1VEZ2QlcxNUlHSFloalRPR2NxTzFJd0NDanp0Mm9xbkp2SVZxdXdfb3c?oc=5",
    "data": "2026-11-25T10:00:00+00:00",
@@ -836,14 +884,6 @@
   {
    "titulo": "Mauro Cezar Pereira: Flamengo é o time com mais títulos no século 21, com ou sem os estaduais",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ2c0XzVKSFhYRTVBb01QOEpVc2JsMHhMMnE0cDR5QmR2dlBiZkwtN1RGc1ZrTDQ4czdDMXpraXdBMDVYSDhoSmtvVzR4cmdSS2tqLThIZC1TRUpjZXdiZnY4N3pLckxiTF9uSlJQbkducGMzZERWcDFrMGdkSjUzc05wZEFtZllDbUloVzNuaUZRT0xfdnZVcDk4SlU4UkJpLUNKUlFXcm8wTzNzMy1SUkZ4R3VyMUwxVkZCTGlWbUNDY0lQSW45TWpFWl9fMFYwRkRkanYxV3BjamdIQ0d5b1hoZnZSbHF1?oc=5",
-   "data": "2026-11-25T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Rodrigo Mattos: Como posição do Grêmio interfere no prêmio de campeão do Flamengo",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOclpTQm1qbElqeUU0RU9jT0ZlNmtTUzNKRGNKc1VoclU3YkJWRERzbVU2SWptRFZRWFdxb2J6T0pfLXV5OU01b0VpNEZ4UFAwb0VfZ0NqUnphXzF3WFdzTHA5WlZ0SDRCMl9WZlo1cFl1VmVtTEZnQl9LQ2gwYk5HQ094RUJoaWNKd1ZlaGM4SkZ3WGtaTFMxQTh3VFRpM0xxUUxDVWlCMjV4MGt4S1Q4NktzSHhqcEFuUXp4MmJRaV9TTGp2ckRaOE1lN2dxdEhURWJCN1VobFFSdw?oc=5",
    "data": "2026-11-25T08:30:00+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
@@ -994,22 +1034,6 @@
    "resumo": ""
   },
   {
-   "titulo": "Flamengo começa venda de ingressos para jogo contra a Chapecoense nesta terça; veja valores",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3FPNDN3SFJIZVcxWGM5cDItNDlMbllTZ1RhR2M4SEV5Z1VRZE9FZTQybl9ZZVRveWk3RUFRRUpyaC1EaUZFT2ZyLWw4b1hIb3ZwRWxjQUNJSV9HOVJWaUJKUFAzWjc0VkpSdGk5MlFaSk9sUjJmX016bVdoUG1wY21MSkdESGtUeWNJSmlyNE1zeEFDblB5UEtXMFJDZ2dxNjh0Vzh5UjZlT1BvQW51ZUJ3UnFOUzVKblNXU0JSMGowRElSVnMtUg?oc=5",
-   "data": "2026-11-24T11:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
-   "titulo": "Luizomar leva 'coisas positivas' de derrota para o Sesc Flamengo na Superliga",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUEyUmFJX0REbTlIdnJoTTR4d1poSTBYNnNVcWxTam5uWWtReDIyQzZiVzFWYmJxdUJTRzF6bF9yRFd2U2tZeDFFa3J1SGtRQ1BvRWlOVGtUQkVGRGc1d1kyUy05N1B6ekxqb0dDWHhRNm9YbFhZRU1hcXlTV3RheWs0SjNnbUd3YTVxMEpMOV9TU19STjV2UFpZc2VMdVBnX2pnLTBBUHdOX0g2YXhnSw?oc=5",
-   "data": "2026-11-24T10:00:00+00:00",
-   "fonte": "lance",
-   "fonteNome": "Lance!",
-   "resumo": ""
-  },
-  {
    "titulo": "Justiça volta a analisar tragédia no Ninho do Urubu nesta terça-feira",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSHYzczJYS2hxc0dZZmp3dGlBX2dYWng3bUwxcjZiOHl2ZU94RDdzUlZMOE9OMmV2Skgyd1BPbGY1eWVzbjVjUHVhUGpBOEJsYmdTeUNkMGNwN0dVY2VXSkZWM0RyU2xOU2syQ2x5Vy1fRE5Wb3FMT3pFbl9mSGE1OW9QenZJM3hvS3hOU0x6UExoSDZpUmU0M1luaUwyTFFmcTBIdXVWellVakNm?oc=5",
    "data": "2026-11-24T10:00:00+00:00",
@@ -1130,6 +1154,14 @@
    "resumo": ""
   },
   {
+   "titulo": "Atacante abre o jogo sobre falha em negociação com Flamengo",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaTZPOTdnLUd1U2ZYSEY3ci1fWTVnaFdwb1RkM2twZ1ZFY1ZUQXdFUGFZOGRCZy1XQTBub18yZmFzTVNZT0x6OU1lamZRWGM5ZWhteHFXcW8weUlEUi1ZLWNsdExnQmRqVHV2WDJfVFFPUHpodThKdU10bGpFN3lFZkt3TWcySHhuRjVQN180blFjQnVnNUowVHo5ZWNZRGtsN2VoTmJB?oc=5",
+   "data": "2026-11-23T15:34:46+00:00",
+   "fonte": "lance",
+   "fonteNome": "Lance!",
+   "resumo": ""
+  },
+  {
    "titulo": "De saída do Flamengo, Leonardo Jardim desperta interesse de clubes do Oriente Médio e até de seleção",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcXVVUUZYdjN0bUhyTEtSek9ZV0p5T0FtdjdjV3dJZFhWcV9lcHBrU2pSTkw1Wlh2RDJtMWdDa2dhaS1UUmJvRU9XZ0lMeUJZRmZnMFFDS1NXR2JpcDdSNlVmZW5NQ0FwN1J6bU5RYmI2MXVIbFUtMnh5U3BHaVNGMHlzMW95SmFHSzBoRW1zTEg4V2hLLUhtQzZoN1JyRTVISlJsMUFjOW5aR25IVDJSUnpJbzMzYXRDd2I1ZVRiNlVKR2RDdU5LT0pYMnZ0UkVydEdfVDZwTjVQRmVuRlJzSWhEZ2lnajJUVDZsdFM4N3BQWlk?oc=5",
    "data": "2026-11-23T15:33:00+00:00",
@@ -1199,38 +1231,6 @@
    "data": "2026-11-23T12:18:52+00:00",
    "fonte": "uol",
    "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Título brasileiro coloca Supercopa na rota do Flamengo; entenda o planejamento para 2027",
-   "link": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/23/titulo-brasileiro-coloca-supercopa-na-rota-do-flamengo-entenda-o-planejamento-para-2027.ghtml",
-   "data": "2026-11-23T09:00:01+00:00",
-   "fonte": "ge",
-   "fonteNome": "ge",
-   "resumo": "Veja os bastidores do título do Flamengo do Brasileirão no Nubank Parque Depois de confirmar o título do Campeonato Brasileiro, o Flamengo já sabe qual será a primeira disputa valendo uma taça em 2027. Prestes a entrar…"
-  },
-  {
-   "titulo": "Flamengo quer Pedro artilheiro e mira seu melhor ataque nos pontos corridos",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVi1LeWZYaXNCRjdIY0xMeDNNT2RVWHhNUlp0ejRwZUNSaWNraTluZ0FIUHg1RmxWN1dJempaTjdJbjNpaWpodG5ReDdyMU43TzdtRC1oUmJ2N0dyY19rUFUwV2g2bVMwUGpad3dueFVOM1FZRUJ1Z2hoMTlXZlE2dnJCcG9iMG9ILThsUjh0eGZ2cjNVb3d6ZGp0cjAzME1jcXVlUnRMRFZhM1dWODF3X251SmhidHdwMExmQ21HVXlVXzFBR2RucFZMV1lWenNXQUcxQV83WFdsU2M?oc=5",
-   "data": "2026-11-23T08:30:00+00:00",
-   "fonte": "uol",
-   "fonteNome": "UOL",
-   "resumo": ""
-  },
-  {
-   "titulo": "Por que Jardim citou Real Madrid após título do Flamengo e reforça discurso prometido por Bap há um ano",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYVVpa3psLTBHTmhVX0RCaFRlT1ptWTUyVElhTHVkOHN6eWU4cXJHN1g2YmcxalR0ZzlDR0xlay1WeFloMVZpVHZIQ1Z0UU5YajQzUDI4dFp2VndaUnVJSHpVRV91M3psWi1sTHpTb1NBVXlfZzlycEdfc0xMUHA4MnFGajBYYjlSaE93a3dlZnNJWDc3MkZDbnQ5UTFLaDVfREZXdDIwbFJyNEQzZlY3al9tZGx2VTJBajdGN2djNTBXNXVXZE9IaDFwNXRxc051bWxfR1NtZkxHeDFPa3BPTVhLNVBNUWlwMGd1MWZHUQ?oc=5",
-   "data": "2026-11-23T08:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
-   "resumo": ""
-  },
-  {
-   "titulo": "Jardim e Boto ficam no Flamengo em 2027? Entenda cenários e o que pesa para clube, técnico e diretor",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZFZXM2FXU2dqcjFjcnAyRnlxZGxhYjZkV0xNbjFiYjE4ZnlqOWlJN3RsT1pUUDJNQk9EYmp2cVdiZGlGM25iYWJ0YUhneWo1X2FaeG9YWk9Vcm5nd3dYX3Z0Vm1HM0JBNnNOS3M0RmM0SVZtRWVkb3J5SmhRVHl6VlRiU0VHdVB0dDNsWjdlaUFZOTNncWlDamZDcE5YMk9meGRMZUlsRm1MYVhXaUxuXw?oc=5",
-   "data": "2026-11-23T08:00:00+00:00",
-   "fonte": "espn",
-   "fonteNome": "ESPN Brasil",
    "resumo": ""
   }
  ]
